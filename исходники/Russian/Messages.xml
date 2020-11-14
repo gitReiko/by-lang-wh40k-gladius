@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConfirmDelete" value="Вы уверены, что хотите удалить “%1%”?"/>
+	<entry name="ConfirmDisband" value="Вы уверены, что хотите распустить “%1%”?"/>
+	<entry name="ConfirmOverwrite" value="Вы уверены, что хотите переписать “%1%”?"/>
+	<entry name="ConfirmRemoveItem" value="Вы уверены, что хотите уничтожить “%1%”?"/>
+	<entry name="ConfirmRestoreDefaults" value="Вы уверены, что хотите восстановить настройки по умолчанию %1% ?"/>
+	<entry name="ConnectingToServer" value="Подключение к серверу ..."/>
+	<entry name="ConnectionLost" value="Соединение потеряно."/>
+	<entry name="Error" value="Ошибка"/>
+	<entry name="GameLoaded" value="Загрузка игры"/>
+	<entry name="GameSaved" value="Сохранение игры"/>
+	<entry name="GraphicsDriverOutdated" value="Ваш графический драйвер устарел.<br/><br/>Пожалуйста, установите последнюю версию с nvidia.com / amd.com / intel.com для улучшения стабильности и производительности."/>
+	<entry name="IncompatibleVersion" value="Несовместимая версия игры."/>
+	<entry name="Info" value="Инфо"/>
+	<entry name="Kicked" value="Вас выгнали из сервера."/>
+	<entry name="MasterServerUnreachable" value="Не удалось подключиться к главному серверу."/>
+	<entry name="MissingDLC" value="DLC не установлено."/>
+	<entry name="ModUploading" value="Загрузка мода..."/>
+	<entry name="ModUploadComplete" value="Мод загружен."/>
+	<entry name="ModUploadFailed" value="Мод не загружен."/>
+	<entry name="NoFreeSlots" value="На сервере нет свободного места."/>
+	<entry name="NoGames" value="В настоящее время нет открытых игр.<br/>Почему бы Вам не создать самому новую игру?"/>
+	<entry name="NoMods" value="Моды не установлены."/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>Нет подходящих целей"/>
+	<entry name="PlayerJoined" value="%1% Присоединился."/>
+	<entry name="PlayerLeft" value="%1% Покинул игру."/>
+	<entry name="PleaseEnterYourName" value="Пожалуйста, введите Ваше имя."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Пожалуйста, подождите"/>
+	<entry name="ReceivingInfo" value="Получение информации ..."/>
+	<entry name="RestartRequired" value="Вы должны перезапустить игру, чтобы изменения вступили в силу."/>
+	<entry name="RetrievingServerList" value="Получение списка серверов ..."/>
+	<entry name="ScreenShotSaved" value="Скриншот сохранен"/>
+	<entry name="SetBinding" value="Нажмите новую комбинацию клавиш для определения %1%."/>
+	<entry name="ScreenShotSaveError" value="Ошибка сохранения скриншота"/>
+	<entry name="ServerUnreachable" value="Не удалось подключиться к серверу.<br/><br/>Чтобы улучшить подключение, убедитесь, что вы отключили брандмауэры и включили UPnP на своем маршрутизаторе или открыли TCP порт %1% на вашей локальной машине."/>
+	<entry name="SelectTarget" value="Выбор цели действия"/>
+	<entry name="TerminatedWithDisableMods" value="Моды были отключены из-за сбоя. Посетите экран модов, чтобы снова включить их."/>
+	<entry name="TermsAndConditions" value="Правила и условия"/>
+	<entry name="UnboundControl" value="Привязки будут удалены у %1%."/>
+	<entry name="Warning" value="Предупреждение"/>
+</language>
