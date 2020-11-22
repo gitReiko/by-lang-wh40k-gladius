@@ -29,13 +29,15 @@
 	<entry name="InvokeRiteDescription" value="Invoke %1% in a city (%2%/%3%)."/>
 	<entry name="KeepUnitAliveDescription" value="Keep %1% alive (%2%/1)."/>
 	<entry name="KillCampDescription" value="Defeat the enemy camp (%1%/1)."/>
+	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Defeat the Daemon Prince performing the ritual within %2% turns (%1%/1)."/>
 	<entry name="KillCampWithFortressOfRedemptionDescription" value="Destroy the rebel Fortress of Redemption (%1%/1)."/>
 	<entry name="KillCampWithRebelNecronArmyDescription" value="Destroy the rebel Necron army (%1%/1)."/>
 	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Defeat the rebel Techpriest and his contingent of elite robots within %2% turns (%1%/1)."/>
-	<entry name="KillCampWithTurnLimitDescription" value="Defeat the enemy camp (%1% turns remaining)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Defeat the enemy camp within %2% turns (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Kill the %1% within %4% turns (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Wait for the %1% to return to this world (0/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Kill scattered units (%1%/%2%)."/>
+	<entry name="KillUmbraDescription" value="Kill the Umbra (%1%/1)."/>
 	<entry name="KillUnitDescription" value="Kill %1% (%2%/%3%)."/>
 	<entry name="KillUnitNativeDescription" value="Kill native Xenos (%1%/%2%)."/>
 	<entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Generate %1% loyalty from Utopia per turn (currently %2%) (%3%/1)."/>

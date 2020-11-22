@@ -29,13 +29,15 @@
 	<entry name="InvokeRiteDescription" value="Вызвать %1% в городе (%2%/%3%)."/>
 	<entry name="KeepUnitAliveDescription" value="Сохранить %1% живым (%2%/1)."/>
 	<entry name="KillCampDescription" value="Разрушить вражеский лагерь (%1%/1)."/>
+	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Победите Князя Демонов, выполняющего ритуал за %2% ходов (%1%/1)."/>
 	<entry name="KillCampWithFortressOfRedemptionDescription" value="Уничтожить восставшую Крепость Искупления (%1%/1)."/>
 	<entry name="KillCampWithRebelNecronArmyDescription" value="Уничтожить восставшую армию Некронов (%1%/1)."/>
 	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Уничтожить мятежника Техножреца и его элитных роботов за %2% ходов (%1%/1)."/>
-	<entry name="KillCampWithTurnLimitDescription" value="Разрушить вражеский лагерь (Осталось %1% ходов)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Разрушить вражеский лагерь за %2% ходов (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Убить %1% за %4% хода(ов) (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Ожидается, что %1% вернётся в этот мир (0/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Убить разрозненные подразделения (%1%/%2%)."/>
+	<entry name="KillUmbraDescription" value="Убить Умбру (%1%/1)."/>
 	<entry name="KillUnitDescription" value="Убить %1% (%2%/%3%)."/>
 	<entry name="KillUnitNativeDescription" value="Убить местных Ксеносов (%1%/%2%)."/>
 	<entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Получить %1% лояльности от Утопии за ход (текущая %2%) (%3%/1)."/>

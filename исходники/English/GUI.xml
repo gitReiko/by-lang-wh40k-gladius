@@ -21,6 +21,7 @@
 	<entry name="Battle" value="Battle"/>
 	<entry name="BindingHint" value="[Mouse Left] to change binding.<br/><style color='GUI/Yellow'/>[Mouse Middle] to add new binding.<br/><style color='GUI/Red'/>[Mouse Right] to unbind."/>
 	<entry name="Buildings" value="Buildings"/>
+	<entry name="BuildingsConstructed" value="Buildings Constructed"/>
 	<entry name="CannotDisembarkThisTurn" value="Cannot disembark this turn."/>
 	<entry name="Cancel" value="Cancel"/>
 	<entry name="Cargo" value="Cargo"/>
@@ -37,6 +38,7 @@
 	<entry name="Compendium" value="Compendium"/>
 	<entry name="CompendiumFlavor" value="The Compendium stores a collection of useful game information. Here you can read up on factions, buildings, units, re-read tips and more."/>
 	<entry name="Connect" value="Connect"/>
+	<entry name="ConnectEpicAccount" value="Connect Epic Account"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Consumes action<style color='Default'/>"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Consumes movement<style color='Default'/>"/>
 	<entry name="Continue" value="Continue"/>
@@ -48,19 +50,25 @@
 	<entry name="DLC" value="DLC"/>
 	<entry name="DLCNotEnabled" value="<style color='GUI/Red'/>%1% not enabled for this game. Enable it in game lobby advanced settings before starting a new game."/>
 	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% not installed."/>
+	<entry name="DamageDealt" value="Damage Dealt"/>
+	<entry name="DamageTaken" value="Damage Taken"/>
 	<entry name="Debug" value="Debug"/>
 	<entry name="Default" value="Default"/>
 	<entry name="Defeated" value="Defeated"/>
 	<entry name="Delete" value="Delete"/>
+	<entry name="Details" value="Details"/>
 	<entry name="DirectConnect" value="Direct Connect"/>
 	<entry name="DisableBuildingHint" value="Disable a building of this type, freeing its allocated population for other buildings."/>
 	<entry name="DisableTips" value="Disable Tips"/>
 	<entry name="DisableTipsHint" value="Stop showing pop-up tips. You may re-enable them in the settings panel."/>
+	<entry name="DisconnectEpicAccount" value="Disconnect Epic Account"/>
 	<entry name="Disconnected" value="Disconnected"/>
 	<entry name="DismissReports" value="Dismiss All (%1%)"/>
 	<entry name="DragToChangeLoadOrder" value="Drag to change load priority."/>
 	<entry name="Economy" value="Economy"/>
 	<entry name="Edicts" value="Edicts"/>
+	<entry name="EldarCityPowers" value="The Asuryani Path"/>
+	<entry name="EldarPlayerPowers" value="Webway Control"/>
 	<entry name="Elite" value="Elite"/>
 	<entry name="EnableBuildingHint" value="Enable a building of this type, allocating population to it."/>
 	<entry name="EnableMod" value="Enable mod."/>
@@ -72,7 +80,7 @@
 	<entry name="ExecuteQueuedOrders" value="Execute Queued Orders (%1%)"/>
 	<entry name="ExecuteQueuedOrdersHint" value="Execute orders queued in the previous turn [<control name='Controls/NextTask'/>]."/>
 	<entry name="Extra" value="Extra"/>
-	<entry name="ForceEndTurnHint" value="End your turn [<control name='Controls/ForceEndTurn'/>]."/>
+	<entry name="ForceEndTurnHint" value="End Your Turn [<control name='Controls/ForceEndTurn'/>]."/>
 	<entry name="ExitCity" value="Exit City"/>
 	<entry name="ExitCityHint" value="Exit the city screen [<control name='Controls/NextTask'/>]."/>
 	<entry name="ExitToMainMenu" value="Exit to Main Menu"/>
@@ -97,18 +105,21 @@
 	<entry name="Installed" value="Installed"/>
 	<entry name="IntroductionGame" value="Introduction"/>
 	<entry name="IntroductionGameHint" value="Start an introduction game with Space Marines on the easiest difficulty."/>
-	<entry name="InviteFriend" value="Invite Friend"/>
-	<entry name="InviteFriendHint" value="<style color='GUI/Yellow'/>Steam is only able to send friend invites if your profile privacy settings (game details) are not set to private."/>
-	<entry name="InviteFriendDisabledHint" value="Host not running Steam version or Steam matchmaking unavailable."/>
+	<entry name="InviteEpicFriend" value="Invite Epic Friend"/>
+	<entry name="InviteSteamFriend" value="Invite Steam Friend"/>
+	<entry name="InviteSteamFriendHint" value="<style color='GUI/Yellow'/>Steam is only able to send friend invites if your profile privacy settings (game details) are not set to private."/>
+	<entry name="InviteSteamFriendDisabledHint" value="Host not running Steam version or Steam matchmaking unavailable."/>
 	<entry name="Invulnerable" value="Invulnerable"/>
 	<entry name="ItemShop" value="Item Shop"/>
 	<entry name="Items" value="Items"/>
 	<entry name="Join" value="Join"/>
 	<entry name="JustOneMoreTurn" value="Wait! Just... one... more... turn..."/>
-	<entry name="LevelHint" value="%1%/%2% experience<br/>(%3% death experience value)"/>
+	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% experience<br/><icon texture='GUI/Bullet'/>%3% death experience value"/>
+	<entry name="LimitReached" value="Limit reached."/>
 	<entry name="Load" value="Load"/>
 	<entry name="LoadGame" value="Load Game"/>
 	<entry name="MainMenu" value="Main Menu"/>
+	<entry name="MarkTileHint" value="<style name='Heading'/>Mark Tile [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Place a marker for allies. AI allies will tend to move their units towards markers."/>
 	<entry name="MarksOfChaos" value="Marks of Chaos"/>
 	<entry name="Max" value="max"/>
 	<entry name="Menu" value="Menu"/>
@@ -192,6 +203,7 @@
 	<entry name="ResourceShortageTitle" value="Resource Shortage"/>
 	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% shortage"/>
 	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% total"/>
+	<entry name="ResourcesAccumulated" value="Resources Accumulated"/>
 	<entry name="Restart" value="Restart"/>
 	<entry name="RestartScenario" value="Restart Scenario"/>
 	<entry name="RestoreDefaults" value="Restore Defaults"/>
@@ -222,6 +234,7 @@
 	<entry name="Social" value="Social"/>
 	<entry name="Spectating" value="Spectating"/>
 	<entry name="Start" value="Start"/>
+	<entry name="Stats" value="Stats"/>
 	<entry name="SteamWorkshop" value="Steam Workshop"/>
 	<entry name="Surrender" value="Surrender"/>
 	<entry name="TauPowers" value="Enlightenment and Unity"/>
@@ -244,12 +257,15 @@
 	<entry name="Total" value="Total"/>
 	<entry name="Traits" value="Traits"/>
 	<entry name="Turn" value="Turn"/>
-	<entry name="UnitsKilled" value="%2% %1% killed on Gladius"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
-	<entry name="UnitsKilledByPlayer" value="You killed: %2%"/>
 	<entry name="UnclaimedItems" value="Unclaimed Items"/>
 	<entry name="Unexplored" value="Unexplored"/>
 	<entry name="UnholyRites" value="Unholy Rites"/>
 	<entry name="Units" value="Units"/>
+	<entry name="UnitsCreated" value="Units Created"/>
+	<entry name="UnitsLost" value="Units Lost"/>
+	<entry name="UnitsKilled" value="Units Killed"/>
+	<entry name="UnitsKilledByPlayer" value="You killed: %2%"/>
+	<entry name="UnitsKilledOnGladius" value="%2% %1% killed on Gladius"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
 	<entry name="UnpauseTurnTimer" value="Unpause Timer"/>
 	<entry name="Unready" value="Unready"/>
 	<entry name="Upgrades" value="Upgrades"/>

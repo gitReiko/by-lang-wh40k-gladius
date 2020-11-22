@@ -35,6 +35,7 @@
 	<entry name="Controls/Cargo9" value="Груз 10"/>
 	<entry name="Controls/Chat" value="Чат"/>
 	<entry name="Controls/ForceEndTurn" value="Действия на конец хода"/>
+	<entry name="Controls/MarkTile" value="Маркировка плитки"/>
 	<entry name="Controls/NextMusicTrack" value="Следующий музыкальный трек"/>
 	<entry name="Controls/NextTask" value="Следующая задача"/>
 	<entry name="Controls/OK" value="OK"/>
@@ -71,8 +72,8 @@
 	<entry name="Controls/ToggleLoadScreen" value="Переключить в экран загрузки"/>
 	<entry name="Controls/ToggleMixerPanel" value="Переключить в панель Микшера "/>
 	<entry name="Controls/ToggleSaveScreen" value="Переключить в экран сохранения"/>
-	<entry name="Controls/ToggleScorePanel" value="Переключить в экран Счета"/>
 	<entry name="Controls/ToggleSettingsScreen" value="Переключить в экран настроек"/>
+	<entry name="Controls/ToggleStatsPanel" value="Переключить в экран Статистики"/>
 	<entry name="Controls/ToggleUnitOverlay" value="Переключить в слой подразделений"/>
 	<entry name="Controls/ToggleYieldOverlay" value="Переключить в слой дохода"/>
 	<entry name="Controls/UnitAction0" value="1  действие подразделения"/>
@@ -164,6 +165,8 @@
 	<entry name="Video/MaxMinimizedTickrateHint" value=""/>
 	<entry name="Video/MaxUnfocusedTickrate" value="Max расфокусировка FPS"/>
 	<entry name="Video/MaxUnfocusedTickrateHint" value=""/>
+	<entry name="Video/Monitor" value="Монитор"/>
+	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="Многопоточный рендеринг"/>
 	<entry name="Video/MultiThreadedRenderingHint" value="Использует несколько ядер процессора для рендеринга, что может повысить производительность. Отключение этого параметра может удалить потенциальные визуальные артефакты."/>
 	<entry name="Video/Resolution" value="Разрешение"/>

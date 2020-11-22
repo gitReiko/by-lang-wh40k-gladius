@@ -2,7 +2,7 @@
 <language>
 	<!-- Generic -->
 	<entry name="Accuracy" value="Accuracy"/>
-	<entry name="AccuracyDescription" value="Each point of accuracy increases the hit chance by approximately 8%."/>
+	<entry name="AccuracyDescription" value="Each point of accuracy increases the hit chance by approximately 8.3%."/>
 	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
 	<entry name="ActionPoints" value="Action Points"/>
 	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
@@ -14,8 +14,10 @@
 	<entry name="AdditionalMembersHit" value="Additional Members Hit"/>
 	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="Armor" value="Armour"/>
-	<entry name="ArmorDescription" value="Reduces the amount of <icon height='20' texture='Icons/Attributes/Damage'/> damage taken from weapons and abilities.<br/><br/>Each point of armour reduces the damage taken by approximately 8% (up to 83%), but weapons and abilities ignore a number of armour points up to their armour penetration value."/>
+	<entry name="ArmorDescription" value="Reduces the amount of <icon height='20' texture='Icons/Attributes/Damage'/> damage taken from weapons and abilities. Each point of armour reduces the damage taken by approximately 8.3% (up to 83%), but weapons and abilities ignore a number of armour points up to their armour penetration value."/>
 	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorDamageReduction" value="Armour Damage Reduction"/>
+	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
 	<entry name="ArmorPenetration" value="Armour Penetration"/>
 	<entry name="ArmorPenetrationDescription" value=""/>
 	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
@@ -49,9 +51,9 @@
 	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
 	<entry name="ConstructionCost" value="Construction Cost"/>
 	<entry name="ConstructionCostIcon" value="<icon height='20' texture='Icons/Attributes/ConstructionCost'/>"/>
-	<entry name="ConsumedActionPoints" value="Action Cost"/>
+	<entry name="ConsumedActionPoints" value="Consumed Action Points"/>
 	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
-	<entry name="ConsumedMovement" value="Movement Cost"/>
+	<entry name="ConsumedMovement" value="Consumed Movement"/>
 	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
 	<entry name="Cooldown" value="Cooldown"/>
 	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Cooldown'/>"/>
@@ -59,6 +61,8 @@
 	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="DamageFromHitpoints" value="Damage From Target Hitpoints"/>
 	<entry name="DamageFromHitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageReduction" value="Damage Reduction"/>
+	<entry name="DamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="DamageReturnFactor" value="Damage Returned"/>
 	<entry name="DamageReturnFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="DamageSelfFactor" value="Self Damage"/>
@@ -74,6 +78,8 @@
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyCost" value="Energy Cost"/>
 	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyFromExperienceValueFactor" value="Energy From Experience Value"/>
+	<entry name="EnergyFromExperienceValueFactorIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyUpkeep" value="Energy Upkeep"/>
 	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="ExperienceGainRate" value="Experience Gain Rate"/>
@@ -82,14 +88,18 @@
 	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="FlankingDamageFactor" value="Flanking Damage"/>
 	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="FlatResourcesFromFeatures" value="Flat Resources From Features"/>
+	<entry name="FlatResourcesFromFeaturesIcon" value="<icon height='20' texture='Icons/Features/Grassland'/>"/>
 	<entry name="Food" value="Food"/>
 	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodCost" value="Food Cost"/>
 	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodUpkeep" value="Food Upkeep"/>
 	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="GroupSize" value="Group Size"/>
+	<entry name="GroupSizeIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
 	<entry name="GroupSizeMax" value="Group Size Max"/>
-	<entry name="GroupSizeMaxIcon" value=""/>
+	<entry name="GroupSizeMaxIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
 	<entry name="Growth" value="Growth"/>
 	<entry name="GrowthHint" value="<style name='Title'/>Growth<br/><style name='Default'/>Indicates how fast the city grows. Once enough growth has been accumulated, the population increases by one. The growth rate decreases with the population approaching the population limit."/>
 	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
@@ -100,10 +110,12 @@
 	<entry name="HealingRate" value="Healing Rate"/>
 	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
 	<entry name="Hitpoints" value="Hitpoints"/>
-	<entry name="HitpointsDescription" value="The amount of <icon height='20' texture='Icons/Attributes/Damage'/> damage the unit can sustain before dying."/>
+	<entry name="HitpointsDescription" value="The amount of <icon height='20' texture='Icons/Attributes/Damage'/> damage the unit can sustain before dying. Units automatically heal if they have not taken damage and have full movement and action points remaining."/>
 	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="HitpointsFactorFromMax" value="Hitpoints"/>
 	<entry name="HitpointsFactorFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFactorFromMoraleDifference" value="Hitpoints From Morale Difference"/>
+	<entry name="HitpointsFactorFromMoraleDifferenceIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="HitpointsMax" value="Hitpoints Max"/>
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="HitpointsPerMoraleLoss" value="Hitpoints Per Morale Loss"/>
@@ -128,7 +140,7 @@
 	<entry name="ItemSlotsHint" value="<style name='Title'/>Item Slots<br/><style name='Default'/>"/>
 	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
 	<entry name="Level" value="Level"/>
-	<entry name="LevelDescription" value="The experience level of the unit.<br/><br/>Every level above the first increases the unit's <icon height='20' texture='Icons/Attributes/Hitpoints'/> hitpoints and <icon height='20' texture='Icons/Attributes/Damage'/> damage by 5% as well as <icon height='20' texture='Icons/Attributes/Morale'/> morale by 10%."/>
+	<entry name="LevelDescription" value="The experience level of the unit. Every level above the first increases the unit's <icon height='20' texture='Icons/Attributes/Hitpoints'/> hitpoints and <icon height='20' texture='Icons/Attributes/Damage'/> damage by 5% as well as <icon height='20' texture='Icons/Attributes/Morale'/> morale by 10%."/>
 	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
 	<entry name="LevelMax" value="Max Level"/>
 	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
@@ -162,8 +174,8 @@
 	<entry name="MinDamageFromHitpointsFraction" value="Minimum Damage From Target Hitpoints"/>
 	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="Morale" value="Morale"/>
+	<entry name="MoraleDescription" value="The psychological state of the unit. Morale regenerates if the unit has not taken damage this turn. Below 66% morale units become <icon height='20' texture='Icons/Traits/Shaken'/> shaken, decreasing accuracy and increasing damage taken by 17%. Below 33% morale units become <icon height='20' texture='Icons/Traits/Broken'/> broken, decreasing accuracy and increasing damage taken by 33%."/>
 	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
-	<entry name="MoraleDescription" value="The psychological state of the unit.<br/><br/><icon texture='GUI/Bullet'/>Below 66% morale units become <icon height='20' texture='Icons/Traits/Shaken'/> shaken, decreasing accuracy and increasing damage taken by 17%.<br/><icon texture='GUI/Bullet'/>Below 33% morale units become <icon height='20' texture='Icons/Traits/Broken'/> broken, decreasing accuracy and increasing damage taken by 33%."/>
 	<entry name="MoraleRegeneration" value="Morale Regeneration"/>
 	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="MoraleLossFactor" value="Morale Loss"/>
@@ -174,11 +186,13 @@
 	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="Movement" value="Movement"/>
 	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
-	<entry name="MovementDescription" value="The number of tiles a unit can move through in one turn.<br/><br/><icon texture='GUI/Bullet'/>Rough terrain requires more than a single movement point.<br/><icon texture='GUI/Bullet'/>Moving into a tile adjacent to an enemy ends movement."/>
+	<entry name="MovementDescription" value="The number of tiles a unit can move through in one turn. Rough terrain requires more than a single movement point. Moving into a tile adjacent to an enemy ends movement."/>
 	<entry name="MovementCost" value="Movement Cost"/>
 	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
 	<entry name="MovementMax" value="Movement Max"/>
 	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="OpponentRangedAccuracy" value="Opponent Ranged Accuracy"/>
+	<entry name="OpponentRangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
 	<entry name="Ore" value="Ore"/>
 	<entry name="OreIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
 	<entry name="OreCost" value="Ore Cost"/>
@@ -257,6 +271,7 @@
 	<entry name="TargetArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
 	<entry name="Turns" value="Turns"/>
 	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="TypeLimit" value="Type Limit"/>
 	<entry name="WitchfireDamageReduction" value="Witchfire Damage Reduction"/>
 	<entry name="WitchfireDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	
@@ -267,6 +282,7 @@
 	<entry name="OreHint" value="<style name='Title'/>Ore<br/><style name='Default'/>Used to construct buildings as well as produce and maintain mechanical units."/>
 	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke edicts as well as recruit powerful hero units and purchase their items."/>
 	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke Marks of Chaos as well as recruit powerful hero units and purchase their items."/>
+	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke special abilities as well as recruit powerful hero units and purchase their items."/>
 	<entry name="Necrons/EnergyHint" value="<style name='Title'/>Energy<br/><style name='Default'/>Used to construct buildings and produce units."/>
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke special abilities as well as recruit powerful hero units and purchase their items."/>
 	<entry name="Necrons/OreHint" value="<style name='Title'/>Ore<br/><style name='Default'/>Used to sustain the population in cities as well as maintain buildings and units."/>

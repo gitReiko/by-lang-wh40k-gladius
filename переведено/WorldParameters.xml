@@ -26,6 +26,7 @@
 	<entry name="Difficulty0" value="Вельмі Лёгкая"/>
 	<entry name="Difficulty0AstraMilitarum" value="Прызыўнік"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Культыст"/>
+	<entry name="Difficulty0Eldar" value="Вартавы"/>
 	<entry name="Difficulty0Necrons" value="Раздзіральнік"/>
 	<entry name="Difficulty0Orks" value="Сквіг"/>
 	<entry name="Difficulty0Random" value="Вельмі слабы"/>
@@ -36,6 +37,7 @@
 	<entry name="Difficulty1" value="Лёгкая"/>
 	<entry name="Difficulty1AstraMilitarum" value="Гвардзеец"/>
 	<entry name="Difficulty1ChaosSpaceMarines" value="Вырадак"/>
+	<entry name="Difficulty1Eldar" value="Ваяр Аспекту"/>
 	<entry name="Difficulty1Necrons" value="Ваяр"/>
 	<entry name="Difficulty1Orks" value="Грот"/>
 	<entry name="Difficulty1Random" value="Слабы"/>
@@ -46,6 +48,7 @@
 	<entry name="Difficulty2" value="Сярэдняя"/>
 	<entry name="Difficulty2AstraMilitarum" value="Сяржант"/>
 	<entry name="Difficulty2ChaosSpaceMarines" value="Паўшы брат"/>
+	<entry name="Difficulty2Eldar" value="Рэйнджар"/>
 	<entry name="Difficulty2Necrons" value="Несмяротны"/>
 	<entry name="Difficulty2Orks" value="Хлопец"/>
 	<entry name="Difficulty2Random" value="Сярэдні"/>
@@ -56,6 +59,7 @@
 	<entry name="Difficulty3" value="Цяжкая"/>
 	<entry name="Difficulty3AstraMilitarum" value="Камісар"/>
 	<entry name="Difficulty3ChaosSpaceMarines" value="Чэмпіён Хаосу"/>
+	<entry name="Difficulty3Eldar" value="Экзарх"/>
 	<entry name="Difficulty3Necrons" value="Прэтарыянец Трыярхаў"/>
 	<entry name="Difficulty3Orks" value="Ноб"/>
 	<entry name="Difficulty3Random" value="Моцны"/>
@@ -66,6 +70,7 @@
 	<entry name="Difficulty4" value="Вельмі Цяжкая"/>
 	<entry name="Difficulty4AstraMilitarum" value="Генерал"/>
 	<entry name="Difficulty4ChaosSpaceMarines" value="Валадар Хаосу"/>
+	<entry name="Difficulty4Eldar" value="Автарх"/>
 	<entry name="Difficulty4Necrons" value="Кріптэк"/>
 	<entry name="Difficulty4Orks" value="Бос"/>
 	<entry name="Difficulty4Random" value="Вельмі Моцны"/>
@@ -76,6 +81,7 @@
 	<entry name="Difficulty5" value="Ультра Цяжкая"/>
 	<entry name="Difficulty5AstraMilitarum" value="Лорд-Камандзір"/>
 	<entry name="Difficulty5ChaosSpaceMarines" value="Князь-Дэман"/>
+	<entry name="Difficulty5Eldar" value="Вяшчун"/>
 	<entry name="Difficulty5Necrons" value="Валадар"/>
 	<entry name="Difficulty5Orks" value="Варбос"/>
 	<entry name="Difficulty5Random" value="Ультра Цяжкі"/>
@@ -86,6 +92,7 @@
 	<entry name="Difficulty6" value="Немагчымая"/>
 	<entry name="Difficulty6AstraMilitarum" value="Майстар вайны"/>
 	<entry name="Difficulty6ChaosSpaceMarines" value="Цёмны Бог"/>
+	<entry name="Difficulty6Eldar" value="Аватар"/>
 	<entry name="Difficulty6Necrons" value="Бязмоўны Цар"/>
 	<entry name="Difficulty6Orks" value="Прарок Горка і Морка"/>
 	<entry name="Difficulty6Random" value="Непераможны"/>
@@ -197,6 +204,7 @@
 	<entry name="Supplement4" value="DLC Набор Фартыфікацыя"/>
 	<entry name="Supplement5" value="DLC T'ау"/>
 	<entry name="Supplement6" value=" DLC Набор Штурм"/>
+	<entry name="Supplement7" value="DLC Штучны Свет Аэльдары"/>
 	<entry name="TropicalRegionDensity" value="Шчыльнасць Трапічнай Мясцовасці"/>
 	<entry name="TropicalRegionDensity0" value="None"/>
 	<entry name="TropicalRegionDensity1" value="Вельмі Нізкая"/>
@@ -211,6 +219,12 @@
 	<entry name="TurnTimer3" value="Умераны (3 хвіліны)"/>
 	<entry name="TurnTimer4" value="Доўгі (4 хвіліны)"/>
 	<entry name="TurnTimer5" value="Вельмі Доўгі (5 хвілін)"/>
+	<entry name="WebwayGateDensity" value="Шчыльнасць Брам Павуціння"/>
+	<entry name="WebwayGateDensity0" value="Вельмі Нізкая"/>
+	<entry name="WebwayGateDensity1" value="Нізкая"/>
+	<entry name="WebwayGateDensity2" value="Сярэдняя"/>
+	<entry name="WebwayGateDensity3" value="Высокая"/>
+	<entry name="WebwayGateDensity4" value="Вельмі Высокая"/>
 	<entry name="WildlifeDensity" value="Шчыльнасць Дзікага Жыцця"/>
 	<entry name="WildlifeDensity0" value="Вельмі Нізкая"/>
 	<entry name="WildlifeDensity1" value="Нізкая"/>

@@ -40,6 +40,12 @@
 	<entry name="Items/EnduranceImplant" value="<string name='Items/EnduranceImplant'/>"/>
 	<entry name="Items/EnduranceImplantDescription" value="<string name='Items/EnduranceImplantDescription'/>"/>
 	<entry name="Items/EnduranceImplantFlavor" value="<string name='Items/EnduranceImplantFlavor'/>"/>
+	<entry name="Items/EntropicLocum" value="<string name='Items/EntropicLocum'/>"/>
+	<entry name="Items/EntropicLocumDescription" value="<string name='Items/EntropicLocumDescription'/>"/>
+	<entry name="Items/EntropicLocumFlavor" value="<string name='Items/EntropicLocumFlavor'/>"/>
+	<entry name="Items/FaolchusWing" value="<string name='Items/FaolchusWing'/>"/>
+	<entry name="Items/FaolchusWingDescription" value="<string name='Items/FaolchusWingDescription'/>"/>
+	<entry name="Items/FaolchusWingFlavor" value="<string name='Items/FaolchusWingFlavor'/>"/>
 	<entry name="Items/LightningGauntlet" value="<string name='Items/LightningGauntlet'/>"/>
 	<entry name="Items/LightningGauntletDescription" value="<string name='Items/LightningGauntletDescription'/>"/>
 	<entry name="Items/LightningGauntletFlavor" value="<string name='Items/LightningGauntletFlavor'/>"/>
@@ -163,6 +169,9 @@
 	<entry name="AstraMilitarumVehicleProductionEdict" value="<string name='Actions/AstraMilitarumVehicleProductionEdict'/>"/>
 	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Increases the production output."/>
 	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="<string name='Actions/AstraMilitarumVehicleProductionEdictFlavor'/>"/>
+	<entry name="AversionToLight" value="Aversion to Light"/>
+	<entry name="AversionToLightDescription" value="Increases the damage taken from flame and melta weapons."/>
+	<entry name="AversionToLightFlavor" value="The horrors of the Umbra shard flourish at night, in the dark corners of Gladius. But bring a light to them and they shrink, the nightmares turning away. And bring a flamer to them…"/>
 	<entry name="Barrage" value="Barrage"/>
 	<entry name="BarrageDescription" value="Does not require line of sight, but cannot overwatch."/>
 	<entry name="BarrageFlavor" value="<string name='Weapons/BarrageFlavor'/>"/>
@@ -171,6 +180,8 @@
 	<entry name="Bike" value="Bike"/>
 	<entry name="BikeDescription" value="Classification."/>
 	<entry name="BikeFlavor" value="Units mounted on Bikes excel at vanguard strikes. They are able to use their fast speed to strike deep into enemy territory, complete their mission and escape before an enemy is able to react. These warriors are often regarded as dangerously hot-headed risk-takers, but their effectiveness cannot be denied."/>
+	<entry name="Bladestorm" value="Bladestorm"/>
+	<entry name="BladestormDescription" value="Increases the damage and armour penetration."/>
 	<entry name="Blast" value="Blast"/>
 	<entry name="BlastDescription" value="Hits multiple group members of the target unit."/>
 	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
@@ -241,7 +252,7 @@
 	<entry name="ChaosSpaceMarines/CrazedDescription" value="If the unit was damaged in the previous turn, it gains one of the following traits at random for one turn: Fire Frenzy, Rising Fury, Blood Rage."/>
 	<entry name="ChaosSpaceMarines/CrazedFlavor" value="All Helbrutes are psychotic and dangerous monstrosities—a veteran of the Long War driven insane by tortured entombment. So attacking a Helbrute might seem rational, but if you fail to destroy it outright, you will only make it angrier and crazier."/> <!-- Hellbrute. -->
 	<entry name="ChaosSpaceMarines/ChampionOfChaos" value="Champion of Chaos"/>
-	<entry name="ChaosSpaceMarines/ChampionOfChaosDescription" value="Killing an enemy unit may reward this unit with an unlocked Boon of Chaos or transform it into a Chaos Spawn or Daemon Prince."/>
+	<entry name="ChaosSpaceMarines/ChampionOfChaosDescription" value="Killing an enemy unit may reward this unit with an unlocked Boon of Chaos or transform non-heroes into a Chaos Spawn or Daemon Prince."/>
 	<entry name="ChaosSpaceMarines/ChampionOfChaosFlavor" value="It is not unusual for the Chaos powers to bestow strange boons and mutations upon those who kill in their name. Not all of these boons are beneficial—the dark ones are as fickle as they are inscrutable, and even their most ardent followers are little more than pawns in a celestial game."/>
 	<entry name="ChaosSpaceMarines/CrystallineBody" value="Crystalline Body"/>
 	<entry name="ChaosSpaceMarines/CrystallineBodyDescription" value="Boon of Chaos that increases the hitpoints."/>
@@ -373,7 +384,7 @@
 	<entry name="ChapterUnityDescription" value="Increases the loyalty output."/>
 	<entry name="ChapterUnityFlavor" value="The relics housed in the Great Hall remind the Adeptus Astartes of the heroes of the past, and that one day their armour, weapons and bones could also be revered here."/>
 	<entry name="City" value="City"/>
-	<entry name="CityDescription" value="Increases the damage reduction, the healing rate and decreases the movement cost of allied units. Increases the ranged damage reduction of infantry units."/>
+	<entry name="CityDescription" value="Increases the damage reduction and the healing rate for allied units. Decreases the movement cost of units. Increases the ranged damage reduction of infantry units."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
 	<entry name="ClusterMinesDescription" value="Deals damage upon entering the tile."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
@@ -396,6 +407,9 @@
 	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
 	<entry name="Damaged" value="Damaged"/>
 	<entry name="DamagedDescription" value="Decreases the accuracy."/>
+	<entry name="Deathshriek" value="Deathshriek"/>
+	<entry name="DeathshriekDescription" value="Damages attacker on death."/>
+	<entry name="DeathshriekFlavor" value="At the point of an Umbra’s death, all those around it receive a vision—of the long ago creature that was torn asunder and cast into the Warp, whilst a voice, horrifying and alluring, whispers a curse… “LINGER…”"/>
 	<entry name="DeedsOfGlory" value="Deeds of Glory"/>
 	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
 	<entry name="DestroyerWeapon" value="Destroyer Weapon"/>
@@ -406,6 +420,9 @@
 	<entry name="Discipline" value="Discipline"/>
 	<entry name="DisciplineDescription" value="Increases the accuracy."/>
 	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
+	<entry name="DistortScythe" value="Distort Scythe"/>
+	<entry name="DistortScytheDescription" value="Increases the damage."/>
+	<entry name="DistortScytheFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
 	<entry name="DogmaAstrates" value="Dogma Astartes"/>
 	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
 	<entry name="DogmaAstratesFlavor" value="<string name='Actions/DogmaAstratesFlavor'/>"/>
@@ -415,6 +432,157 @@
 	<entry name="EavyArmour" value="'Eavy Armor"/>
 	<entry name="EavyArmourDescription" value="Increases the armour."/>
 	<entry name="EavyArmourFlavor" value="Ork 'eavy armour is hammered out of scrap iron, sheet metal and the looted battle-plate of fallen foes. Though its fit is dubious, 'eavy armour provides a solid defence for its wearer."/>
+	<entry name="Eldar/AerobaticGrace" value="Aerobatic Grace"/>
+	<entry name="Eldar/AerobaticGraceDescription" value="Grants ranged damage reduction if the unit has moved this turn."/>
+	<entry name="Eldar/AerobaticGraceFlavor" value="While the Harlequins are the true masters of dance amonst the Aeldari, the Shining Spears approach them in their control of their jetbikes, seeming to pirouette between storms of bolter fire as they charge their foe."/>
+	<entry name="Eldar/AircraftBuildingBonus" value="Kurnous' Summons"/>
+	<entry name="Eldar/AircraftBuildingBonusDescription" value="Increases the production output."/>
+	<entry name="Eldar/AircraftBuildingBonusFlavor" value="he Crimson Hunters owe their allegiance to Kurnous, the Aeldari God of the Hunt. Though he is 60 million years dead, when his name is invoked they redouble their efforts, both in recruitment and construction."/>
+	<entry name="Eldar/AncientDoom" value="Ancient Doom"/>
+	<entry name="Eldar/AncientDoomDescription" value="Increases the accuracy and damage taken against Chaos units."/>
+	<entry name="Eldar/AncientDoomFlavor" value="The Aeldari loathe and fear She Who Thirsts above all else, for in Slaanesh they see their doom made manifest."/>
+	<entry name="Eldar/AssaultWeaponBonus" value="Sub-Molecular Ammunition"/>
+	<entry name="Eldar/AssaultWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Eldar/AssaultWeaponBonusFlavor" value="The unique shuriken ammunition of the Aeldari consists of monomolecular spinning blades fired at great speed. But molecules are so limiting when there are smaller, more deadly structures to use."/>
+	<entry name="Eldar/AssuredDestruction" value="Assured Destruction"/>
+	<entry name="Eldar/AssuredDestructionDescription" value="Increases the damage against vehicles."/>
+	<entry name="Eldar/AssuredDestructionFlavor" value="”If a captain is foolish enough to allow five Aeldari with meltaguns and several millenia of combat experience to get within 20 metres of his tank… well, frankly, he deserves to be a molten puddle of ichor on the floor.”<br/>  — Commissar Gruber."/>
+	<entry name="Eldar/AsuryaniArrivals" value="<string name='Actions/Eldar/AsuryaniArrivals'/>"/>
+	<entry name="Eldar/AsuryaniArrivalsDescription" value="<string name='Actions/Eldar/AsuryaniArrivalsDescription'/>"/>
+	<entry name="Eldar/AsuryaniArrivalsFlavor" value="<string name='Actions/Eldar/AsuryaniArrivalsFlavor'/>"/>
+	<entry name="Eldar/AutarchsAssault" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
+	<entry name="Eldar/AutarchsAssaultDescription" value="Increases the damage."/>
+	<entry name="Eldar/AutarchsAssaultFlavor" value="<string name='Actions/Eldar/AutarchsAssaultFlavor'/>"/>
+	<entry name="Eldar/AutarchsAssaultPassive" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
+	<entry name="Eldar/BansheeMask" value="Banshee Mask"/>
+	<entry name="Eldar/BansheeMaskDescription" value="<string name='Traits/InfiltrateDescription'/>"/>
+	<entry name="Eldar/BansheeMaskFlavor" value="These amplify the Aeldari’s battle cry, inflicting psychic paralysis."/>
+	<entry name="Eldar/BattleFocus" value="Battle Focus"/>
+	<entry name="Eldar/BattleFocusDescription" value="Actions do not consume movement."/>
+	<entry name="Eldar/BattleFocusFlavor" value="When the Asuryani don their war masks, they enter a battle trance so focused that they flow across the battlefield like quicksilver, killing their foes without breaking stride."/>
+	<entry name="Eldar/CityTier2" value="Exodite Foothold"/>
+	<entry name="Eldar/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="Eldar/CityTier2Flavor" value="Despite the millenia they’ve spent drifting the stars, some Rangers of the Craftworld Aeldari have passed time on the Exodite worlds and Maiden worlds, and have learned how to establish life planetside, growing food and constructing their wraithbone buildings in the ancient ways."/>
+	<entry name="Eldar/CityTier3" value="Exodite Infrastructure"/>
+	<entry name="Eldar/CityTier3Description" value="Increases the tile acquisition radius."/>
+	<entry name="Eldar/CityTier3Flavor" value="Experienced Exodite construction designs are being employed by the Craftworld’s Bonesingers here. Only having worked on the ancient Craftworlds, the idea of building a city for the first time is something utterly new to their minds."/>
+	<entry name="Eldar/Command" value="<string name='Actions/Eldar/Command'/>"/>
+	<entry name="Eldar/CommandDescription" value="Increases the accuracy."/>
+	<entry name="Eldar/CommandFlavor" value="<string name='Actions/Eldar/CommandFlavor'/>"/>
+	<entry name="Eldar/ConstructionBuildingBonus" value="Bonesinger Convocation"/>
+	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Increases the production output."/>
+	<entry name="Eldar/ConstructionBuildingBonusFlavor" value="Bonesingers are rare and cherished, even among the scattered Aeldari—but they have come in numbers to the Farseer’s summons, to capture this unique planet for their dying race."/>
+	<entry name="Eldar/CrackShot" value="Crack Shot"/>
+	<entry name="Eldar/CrackShotDescription" value="Increases the accuracy and armour penetration."/>
+	<entry name="Eldar/CrackShotFlavor" value="The Fire Dragons are rightly feared as tank hunters and none more so than their Exarch, who leads his squad from the front, inspiring his squad to more destruction with his own devastating feats."/>
+	<entry name="Eldar/CrystalTargetingMatrix" value="<string name='Actions/Eldar/CrystalTargetingMatrix'/>"/>
+	<entry name="Eldar/CrystalTargetingMatrixDescription" value="<string name='Actions/Eldar/CrystalTargetingMatrixDescription'/>"/>
+	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="<string name='Actions/Eldar/CrystalTargetingMatrixFlavor'/>"/>
+	<entry name="Eldar/Doom" value="<string name='Actions/Eldar/Doom'/>"/>
+	<entry name="Eldar/DoomDescription" value="Increases the damage taken."/>
+	<entry name="Eldar/DoomFlavor" value="<string name='Actions/Eldar/DoomFlavor'/>"/>
+	<entry name="Eldar/ExpertHunter" value="Expert Hunter"/>
+	<entry name="Eldar/ExpertHunterDescription" value="Increases the damage against monstrous creatures, vehicles and fortifications."/>
+	<entry name="Eldar/ExpertHunterFlavor" value="The Shining Spears weaponry might be short-ranged but their Star Lances and Laser Lances are incredibly powerful, as they weave around larger targets, spying out their weak points."/>
+	<entry name="Eldar/FoodBuildingBonus" value="Exquisite Cultivation"/>
+	<entry name="Eldar/FoodBuildingBonusDescription" value="Increases the food output."/>
+	<entry name="Eldar/FoodBuildingBonusFlavor" value="So intensely do the Aeldari feel that even their basic foodstuffs are works of art, cultivated by craftsmen that have spent millenia perfecting their cuisine. With a wider range of ingredients and seasonings, they can work miracles with the seeming simplest foodstuffs."/>
+	<entry name="Eldar/Forceshield" value="Forceshield"/>
+	<entry name="Eldar/ForceshieldDescription" value="Increases the damage reduction."/>
+	<entry name="Eldar/ForceshieldFlavor" value="These powerful shield projectors can deflect almost any blow."/>
+	<entry name="Eldar/HeavyWeaponBonus" value="Engine of Vaul"/>
+	<entry name="Eldar/HeavyWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Eldar/HeavyWeaponBonusFlavor" value="Whilst humanity’s plasma weaponry is often fatal to its users, the elegant Aeldari equivalents harbour no such threats. And now a chance discovery on Gladius Prime’s surface has allowed the Bonesingers and Exarchs to further improve their focus."/>
+	<entry name="Eldar/HoloFields" value="Holo-Fields"/>
+	<entry name="Eldar/HoloFieldsDescription" value="Increases the damage reduction if the unit has moved this turn."/>
+	<entry name="Eldar/HoloFieldsFlavor" value="Harnessing kinetic energy to shimmer and distort the vehicle’s silhouette, holo-fields prevent the foe from accurately targeting the craft as it sweeps across the battlefield."/>
+	<entry name="Eldar/InfantryBuildingBonus" value="Asuryan's Summons"/>
+	<entry name="Eldar/InfantryBuildingBonusDescription" value="Increases the production output."/>
+	<entry name="Eldar/InfantryBuildingBonusFlavor" value="Asurmen is the founder of the path of the Warrior and the first of the Phoenix Lords, the creators of the Aspect Shrines. Invoking his name will surely bring more warriors to Gladius Prime, to seize this planet for the Aeldari."/>
+	<entry name="Eldar/InfluenceBuildingBonus" value="Lileath's Oracle"/>
+	<entry name="Eldar/InfluenceBuildingBonusDescription" value="Increases the influence output."/>
+	<entry name="Eldar/InfluenceBuildingBonusFlavor" value="Very few mortal beings have ever had the foresight of a Farseer—a power perhaps derived from the lost Aeldari goddess Lileath, who predicted the death of the gods at the hands of the mortal Aeldari. An oracle that invokes her name draws the eyes of all Aeldari upon you..."/>
+	<entry name="Eldar/Jinx" value="Jinx"/>
+	<entry name="Eldar/JinxDescription" value="Decreases the armour."/>
+	<entry name="Eldar/JinxFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
+	<entry name="Eldar/KhaineAwakened" value="<string name='Actions/Eldar/KhaineAwakened'/>"/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Increases the melee attacks and melee damage, decreases the morale loss and grants immunity to fear and pinning."/>
+	<entry name="Eldar/KhaineAwakenedFlavor" value="<string name='Actions/Eldar/KhaineAwakenedFlavor'/>"/>
+	<entry name="Eldar/KhainesMight" value="<string name='Actions/Eldar/KhainesMight'/>"/>
+	<entry name="Eldar/KhainesMightDescription" value="Increases the melee attacks."/>
+	<entry name="Eldar/KhainesMightFlavor" value="<string name='Actions/Eldar/KhainesMightFlavor'/>"/>
+	<entry name="Eldar/LinkedFire" value="<string name='Actions/Eldar/LinkedFire'/>"/>
+	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armour penetration."/>
+	<entry name="Eldar/LinkedFireFlavor" value="<string name='Actions/Eldar/LinkedFireFlavor'/>"/>
+	<entry name="Eldar/MarksmansEye" value="Marksman's Eye"/>
+	<entry name="Eldar/MarksmansEyeDescription" value="Increases the accuracy."/>
+	<entry name="Eldar/MarksmansEyeFlavor" value="Only a Crimson Hunter would consider piloting the fastest, most manuevrable Aeldari craft to involve so little challenge, that they also are able to aim and fire three separate weapons with differing fire rates at the same time."/>
+	<entry name="Eldar/MeleeWeaponBonus" value="Sub-Molecular Planes"/>
+	<entry name="Eldar/MeleeWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Eldar/MeleeWeaponBonusFlavor" value="The monomolecular filaments and blades of the Aeldari are lethal enough by themselves, but with the smallest addition of phasing technology (as used in the Harlequin’s Caress), they pass through even the thickest armour."/>
+	<entry name="Eldar/MindWar" value="<string name='Actions/Eldar/MindWar'/>"/>
+	<entry name="Eldar/MindWarDescription" value="Decreases the accuracy."/>
+	<entry name="Eldar/MindWarFlavor" value="<string name='Actions/Eldar/MindWarFlavor'/>"/>
+	<entry name="Eldar/MoltenBody" value="Molten Body"/>
+	<entry name="Eldar/MoltenBodyDescription" value="Immune to flame and melta weapons."/>
+	<entry name="Eldar/MoltenBodyFlavor" value="The Avatar of Khaine isn’t merely the last fragment of a dying god—more practically, it’s a construct of super-heated iron with a core that is literally lava, animated by the psychic power of the Aeldari and the god’s undying rage. Heating it up only makes it more angry…"/>
+	<entry name="Eldar/OreBuildingBonus" value="Extraction Efficiency"/>
+	<entry name="Eldar/OreBuildingBonusDescription" value="Increases the ore output."/>
+	<entry name="Eldar/OreBuildingBonusFlavor" value="The Aeldari require metals less than other races, given that almost all of their structures and vehicles are psychic energy made tangible, in the form of wraithbone. But for the small amount they need, there are always improvements to be made."/>
+	<entry name="Eldar/PowerField" value="Power Field"/>
+	<entry name="Eldar/PowerFieldDescription" value="Increases the damage reduction."/>
+	<entry name="Eldar/PowerFieldFlavor" value="Power fields reroute a portion of the vehicle’s energy supply to project a glimmering shield of protection around the vehicle."/>
+	<entry name="Eldar/Protect" value="Protect"/>
+	<entry name="Eldar/ProtectDescription" value="Increases the armour."/>
+	<entry name="Eldar/ProtectFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
+	<entry name="Eldar/RemnantsOfTheFall" value="Remnants of the Fall"/>
+	<entry name="Eldar/RemnantsOfTheFallDescription" value="Decreases the growth rate."/>
+	<entry name="Eldar/RemnantsOfTheFallFlavor" value="Since the birth of Slaanesh, the remaining Aeldari have struggled to survive in a hostile galaxy. Their aeon-long lifespans mean that they always had a low fertility rate and slow gestation, so they struggle to replace those who fall in battle. On many Craftworlds, the dead far outnumber the living."/>
+	<entry name="Eldar/ResearchBuildingBonus" value="Black Librarians"/>
+	<entry name="Eldar/ResearchBuildingBonusDescription" value="Increases the research output."/>
+	<entry name="Eldar/ResearchBuildingBonusFlavor" value="The Farseers of the Black Library dispatched us on this errand and now they offer their support. With access to their archives, we should be able to rediscover lost technologies and more rapidly improve our foothold on this planet."/>
+	<entry name="Eldar/ReturnOfTheAeldari" value="<string name='Actions/Eldar/ReturnOfTheAeldari'/>"/>
+	<entry name="Eldar/ReturnOfTheAeldariDescription" value="<string name='Actions/Eldar/ReturnOfTheAeldariDescription'/>"/>
+	<entry name="Eldar/ReturnOfTheAeldariFlavor" value="<string name='Actions/Eldar/ReturnOfTheAeldariFlavor'/>"/>
+	<entry name="Eldar/RuneArmour" value="Rune Armour"/>
+	<entry name="Eldar/RuneArmourDescription" value="Increases the damage reduction."/>
+	<entry name="Eldar/RuneArmourFlavor" value="Aeldari psykers fashion themselves elegant armour decorated with wraithbone runes. Said to pulse in time with the wearer’s heartbeat, rune armour offers protection against attacks both spiritual and physical in nature."/>
+	<entry name="Eldar/Scattershield" value="Scattershield"/>
+	<entry name="Eldar/ScattershieldDescription" value="Increases the damage reduction and blinds infantry and monstrous creature attackers."/>
+	<entry name="Eldar/ScattershieldFlavor" value="Used to protect precious Aeldari war-constructs, scattershields are gigantic fan-shaped shield generators that convert the energy of incoming attacks into blinding sprays of multicoloured light."/>
+	<entry name="Eldar/SerpentShield" value="Serpent Shield"/>
+	<entry name="Eldar/SerpentShieldDescription" value="Increases the armour while Serpent Shield weapon is not on cooldown."/>
+	<entry name="Eldar/SerpentShieldFlavor" value="<string name='Weapons/SerpentShieldFlavor'/>"/>
+	<entry name="Eldar/Skyhunter" value="Skyhunter"/>
+	<entry name="Eldar/SkyhunterDescription" value="Increases the armour penetration against flyers."/>
+	<entry name="Eldar/SkyhunterFlavor" value="The spirit of a lost Exarch of Biel-Tan has infused our Crimson Hunters, revealing secrets from millenia of battling the foes of the Aeldari. Her rediscovered wisdom will enable us to dominate the skies as never before."/>
+	<entry name="Eldar/SpiritMark" value="<string name='Actions/Eldar/SpiritMark'/>"/>
+	<entry name="Eldar/SpiritMarkDescription" value="Increases the accuracy."/>
+	<entry name="Eldar/SpiritMarkFlavor" value="<string name='Actions/Eldar/SpiritMarkFlavor'/>"/>
+	<entry name="Eldar/SpiritPreservation" value="Spirit Preservation"/>
+	<entry name="Eldar/SpiritPreservationDescription" value="Grants energy on death."/>
+	<entry name="Eldar/SpiritPreservationFlavor" value="We are few in number and She Who Thirsts waits in the Warp, to consume our souls. However, we wear Spirit Stones to capture our essence at the moment of death; though every Aeldari shudders in distaste at the thought, when recovered these spirits can be used to guide our war machines."/>
+	<entry name="Eldar/SpiritStones" value="Spirit Stones"/>
+	<entry name="Eldar/SpiritStonesDescription" value="Reduces the morale loss."/>
+	<entry name="Eldar/SpiritStonesFlavor" value="Some Aeldari vehicles incorporate large spirit stones with a captive animus that can control the vehicle should it be disabled."/>
+	<entry name="Eldar/StarEngines" value="Star Engines"/>
+	<entry name="Eldar/StarEnginesDescription" value="Increases the movement."/>
+	<entry name="Eldar/StarEnginesFlavor" value="Whilst all Aeldari vehicles are swift and agile, those that mount star engines are often able to move faster than the eye can follow. Lesser races can only marvel at the phenomenal speed and manoeuvrability of a craft so equipped."/>
+	<entry name="Eldar/TitanHoloFields" value="Titan Holo-Fields"/>
+	<entry name="Eldar/TitanHoloFieldsDescription" value="<string name='Traits/Eldar/HoloFieldsDescription'/>"/>
+	<entry name="Eldar/TitanHoloFieldsFlavor" value="“I was watching the best-best light show in the Hive, all elsparks and bang-bangs and shinies and sooo psychedelic… then I wowed around and the Irregulars was dead-dead and that alien tank just rolled on past me like I was plastidough.”<br/>  — Trooper Grande, sole survivor of the Necromundan Fourth Irregulars."/>
+	<entry name="Eldar/TranscendentBliss" value="<string name='Actions/Eldar/TranscendentBliss'/>"/>
+	<entry name="Eldar/TranscendentBlissDescription" value="<string name='Actions/Eldar/TranscendentBlissDescription'/>"/>
+	<entry name="Eldar/TranscendentBlissFlavor" value="<string name='Actions/Eldar/TranscendentBlissFlavor'/>"/>
+	<entry name="Eldar/VectorDancer" value="<string name='Actions/Eldar/VectorDancer'/>"/>
+	<entry name="Eldar/VectorDancerDescription" value="<string name='Actions/Eldar/VectorDancerDescription'/>"/>
+	<entry name="Eldar/VectorDancerFlavor" value="<string name='Actions/Eldar/VectorDancerFlavor'/>"/>
+	<entry name="Eldar/VectoredEngines" value="<string name='Actions/Eldar/VectoredEngines'/>"/>
+	<entry name="Eldar/VectoredEnginesDescription" value="<string name='Actions/Eldar/VectoredEnginesDescription'/>"/>
+	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Actions/Eldar/VectoredEnginesFlavor'/>"/>
+	<entry name="Eldar/VehicleBuildingBonus" value="Vaul's Summons"/>
+	<entry name="Eldar/VehicleBuildingBonusDescription" value="Increases the production output."/>
+	<entry name="Eldar/VehicleBuildingBonusFlavor" value="A spirit stone recovered from Gladius proved to be that of an ancient Bonesinger, lost here millenia past. With their insights into the planet’s structure and resources, we’re able to greatly increase our production."/>
 	<entry name="Enslaved" value="Enslaved"/>
 	<entry name="EnslavedDescription" value="Kill Enslaver to free the unit."/>
 	<entry name="EreWeGo" value="'Ere We Go!"/>
@@ -438,6 +606,8 @@
 	<entry name="Flail" value="Flail"/>
 	<entry name="FlailDescription" value="Increases the melee damage reduction."/>
 	<entry name="FlailFlavor" value="Equipped with a flail weapon, these warriors hinder attackers on approach."/>
+	<entry name="Flame" value="Flame"/>
+	<entry name="FlameDescription" value="Classification."/>
 	<entry name="Fleet" value="Fleet"/>
 	<entry name="FleetDescription" value="Increases the movement."/>
 	<entry name="FleetFlavor" value="Preternaturally agile, these warriors can cover ground more quickly than their plodding foes."/>
@@ -452,7 +622,7 @@
 	<entry name="ForestStealth" value="Forest Stealth"/>
 	<entry name="ForestStealthDescription" value="Increases the ranged damage reduction while in a forest."/>
 	<entry name="Fortification" value="Fortification"/>
-	<entry name="FortificationDescription" value="Stationary and heavily fortified unit that exerts control over adjacent outposts."/>
+	<entry name="FortificationDescription" value="Stationary, fortified unit. If armed, it exerts control over adjacent outposts."/>
 	<entry name="FullThrottle" value="“Full Throttle!”"/>
 	<entry name="FullThrottleDescription" value="Increases the movement."/>
 	<entry name="FuelledByRage" value="Fuelled By Rage"/>
@@ -486,6 +656,9 @@
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="HammerOfWrathDescription" value="Increases the damage."/>
 	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Hallucination" value="<string name='Actions/Hallucination'/>"/>
+	<entry name="HallucinationDescription" value="Decreases the attacks."/>
+	<entry name="HallucinationFlavor" value="<string name='Actions/HallucinationFlavor'/>"/>
 	<entry name="HarvestResourceFeatures" value="Harvest Resource Tiles"/>
 	<entry name="HarvestResourceFeaturesDescription" value="Harvests resources from adjacent special resource features."/>
 	<entry name="Haywire" value="Haywire"/>
@@ -521,7 +694,7 @@
 	<entry name="ImperialSplendourDescription" value="Increases the influence."/>
 	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium—mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
 	<entry name="Infiltrate" value="Infiltrate"/>
-	<entry name="InfiltrateDescription" value="Prevents the unit from being a target of overwatch attacks."/>
+	<entry name="InfiltrateDescription" value="Prevents the unit from being targeted by overwatch attacks."/>
 	<entry name="InfiltrateFlavor" value="Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike."/>
 	<entry name="Invulnerable" value="Invulnerable"/>
 	<entry name="InvulnerableDescription" value="This unit is invulnerable."/>
@@ -535,13 +708,13 @@
 	<entry name="ItWillNotDieDescription" value="Restores hitpoints each turn."/>
 	<entry name="ItWillNotDieFlavor" value="In the dark corners of the galaxy, there are creatures that heal at a terrifying speed."/>
 	<entry name="JetPack" value="Jet Pack"/>
-	<entry name="JetPackDescription" value="Classification."/>
+	<entry name="JetPackDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
 	<entry name="JetPackFlavor" value="Jet packs are designed to provide stable firing platforms rather than a means of getting into close combat."/>
 	<entry name="Jetbike" value="Jetbike"/>
-	<entry name="JetbikeDescription" value="Classification."/>
-	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Eldar had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
-	<entry name="Jink" value="Jink"/>
-	<entry name="JinkDescription" value="Increases the ranged damage reduction, but reduces the accuracy."/>
+	<entry name="JetbikeDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
+	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Aeldari had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
+	<entry name="Jink" value="<string name='Actions/Jink'/>"/>
+	<entry name="JinkDescription" value="Increases the ranged damage reduction but reduces the accuracy."/>
 	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
 	<entry name="Killshot" value="Killshot"/>
 	<entry name="KillshotDescription" value="Increases the damage against monstrous creatures, vehicles and fortifications when adjacent to an allied Predator."/>
@@ -594,6 +767,9 @@
 	<entry name="MobileCommand" value="Mobile Command"/>
 	<entry name="MobileCommandDescription" value="Passive abilities work for cargo embarked on this transport."/>
 	<entry name="MobileCommandFlavor" value="A transport vehicle is typically sealed, rendering any troops ineffective (but protected) until they reach their destination. Unlike gun slits, communication equipment doesn’t compromise the protection, as the Imperial Chimera command variant proves out, enabling commanders to continue to direct their forces."/>
+	<entry name="Monofilament" value="Monofilament"/>
+	<entry name="MonofilamentDescription" value="Scales the accuracy with the maximum movement of the target unit. Increases the armour penetration."/>
+	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Monstrous Creature"/>
 	<entry name="MonstrousCreatureDescription" value="Classification."/>
 	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank – like theTyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
@@ -689,7 +865,7 @@
 	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
 	<entry name="Necrons/ReanimationProtocols" value="Reanimation Protocols"/>
 	<entry name="Necrons/ReanimationProtocolsDescription" value="Restores hitpoints each turn."/>
-	<entry name="Necrons/ReanimationProtocolsFlavor" value="Necrons have sophisticated self-repair systems that return even critically damaged warriors to the fight"/>
+	<entry name="Necrons/ReanimationProtocolsFlavor" value="Necrons have sophisticated self-repair systems that return even critically damaged warriors to the fight."/>
 	<entry name="Necrons/Reaper" value="<string name='Actions/Necrons/Reaper'/>"/>
 	<entry name="Necrons/ReaperFlavor" value="<string name='Actions/Necrons/ReaperFlavor'/>"/>
 	<entry name="Necrons/ResearchBuildingBonus" value="Cryptek Datastyles"/>
@@ -700,9 +876,12 @@
 	<entry name="Necrons/ShieldVaneFlavor" value="Tomb Blades that are deployed directly into the midst of a world's defences are often equipped with additional armour panels."/>
 	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
 	<entry name="Necrons/SleepingSentryDescription" value="Increases the damage reduction but prevents the unit from moving or taking an action."/>
-	<entry name="Necrons/TargetingRelay" value="<string name='Actions/Necrons/TargetingRelay'/>"/>
-	<entry name="Necrons/TargetingRelayDescription" value="Increases the ranged accuracy."/>
-	<entry name="Necrons/TargetingRelayFlavor" value="<string name='Actions/Necrons/TargetingRelayFlavor'/>"/>
+	<entry name="Necrons/TargetRelayed" value="Target Relayed"/>
+	<entry name="Necrons/TargetRelayedDescription" value="Increases the ranged accuracy of Necrons against the unit."/>
+	<entry name="Necrons/TargetRelayedFlavor" value="<string name='Traits/Necrons/TargetingRelayFlavor'/>"/>
+	<entry name="Necrons/TargetingRelay" value="Targeting Relay"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Temporarily increases the ranged accuracy of Necrons against the target unit."/>
+	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers might appear fragile, but their unique Quantum Shielding keeps them in one piece, in order that their Targeting Relay can amplify the firepower of nearby Necrons."/>
 	<entry name="Necrons/Technomancer" value="Technomancer"/>
 	<entry name="Necrons/TechnomancerDescription" value="Increases the damage reduction."/>
 	<entry name="Necrons/VehiclesBuildingBonus" value="Canoptek Workers"/>
@@ -715,7 +894,7 @@
 	<entry name="NoEscapeDescription" value="Increases the attacks against open-topped units."/>
 	<entry name="OpenTopped" value="Open-Topped"/>
 	<entry name="OpenToppedDescription" value="Classification."/>
-	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction."/>
+	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction. However, such vehicles make for excellent assault transports as their passengers can disembark with much greater ease."/>
 	<entry name="OrationOfRestoration" value="Oration of Restoration"/>
 	<entry name="OrationOfRestorationDescription" value="Restores hitpoints."/>
 	<entry name="Ordnance" value="Ordnance"/>
@@ -754,6 +933,9 @@
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Increases the research output."/>
+	<entry name="Orks/CityEnergy" value="Kraklin Gubbinz"/>
+	<entry name="Orks/CityEnergyDescription" value="Increases the energy output."/>
+	<entry name="Orks/CityEnergyFlavor" value="Green and red lightning arcs between the intricate prongs of these power amplification devices, frying any Greenskin who wanders too near. It's quite the spectator sport, but the technology is missing key components so couldn't possibly bear out the Meks' claims of its increase in energy output—save for the Orks' reality-altering faith that it does."/>
 	<entry name="Orks/CityGrowth" value="Boss Speakers"/>
 	<entry name="Orks/CityGrowthDescription" value="Increases the growth rate."/>
 	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz... wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
@@ -866,7 +1048,7 @@
 	<entry name="RampageDescription" value="Increases the attacks when there are more enemies than allies in adjacent tiles."/>
 	<entry name="RampageFlavor" value="For some warriors, being outnumbered is not a cause for despair, but a call to set about their foes with a berserk counter-attack."/>
 	<entry name="RapidFire" value="Rapid Fire"/>
-	<entry name="RapidFireDescription" value="Increases the attacks at half range."/>
+	<entry name="RapidFireDescription" value="Doubles the attacks at half range."/>
 	<entry name="RecoveryGear" value="Recovery Gear"/>
 	<entry name="RecoveryGearDescription" value="Increases the healing rate."/>
 	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
@@ -899,7 +1081,7 @@
 	<entry name="RuinsStealth" value="Ruins Stealth"/>
 	<entry name="RuinsStealthDescription" value="Increases the ranged damage reduction while in Imperial Ruins."/>
 	<entry name="Salvo" value="Salvo"/>
-	<entry name="SalvoDescription" value="Increases the attacks at half range if the unit has not moved."/>
+	<entry name="SalvoDescription" value="Doubles the attacks at half range if the unit has not moved."/>
 	<entry name="SavantInterlocution" value="Savant Interlocution"/>
 	<entry name="SavantInterlocutionDescription" value="Increases the ranged accuracy against flyers and skimmers when adjacent to an allied Hunter."/>
 	<entry name="SavantLock" value="Savant Lock"/>
@@ -930,6 +1112,9 @@
 	<entry name="Signum" value="Signum"/>
 	<entry name="SignumDescription" value="Increases the ranged accuracy."/>
 	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
+	<entry name="SkilledJink" value="<string name='Actions/SkilledJink'/>"/>
+	<entry name="SkilledJinkDescription" value="<string name='Traits/JinkDescription'/>"/>
+	<entry name="SkilledJinkFlavor" value="<string name='Actions/SkilledJinkFlavor'/>"/>
 	<entry name="Skimmer" value="Skimmer"/>
 	<entry name="SkimmerDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed. Reduces the movement penalty in forests and imperial ruins."/>
 	<entry name="SkimmerFlavor" value="Some highly advanced vehicles are fitted with anti-gravity drives that allow them to skim swiftly over tough terrain and intervening troops, making them perfect for surprise flanking attacks."/>
@@ -940,7 +1125,7 @@
 	<entry name="SkullsForTheSkullThroneDescription" value="Increases the damage reduction."/>
 	<entry name="SkullsForTheSkullThroneFlavor" value="Khorne respects only the strong and boundlessly murderous."/>	
 	<entry name="Skyfire" value="Skyfire"/>
-	<entry name="SkyfireDescription" value="Increases the accuracy against flyers. Reduces the accuracy against non-skimmer ground units."/>
+	<entry name="SkyfireDescription" value="Increases the accuracy against flyers. Reduces the accuracy against ground units that are not skimmer, jetbike or jet pack."/>
 	<entry name="SkyfireFlavor" value="Skyfire weapons excel at shooting down enemy aircraft and skimmers."/>
 	<entry name="SlowAndPurposeful" value="Slow and Purposeful"/>
 	<entry name="SlowAndPurposefulDescription" value="Negates the penalty for heavy and ordnance weapons."/>
@@ -953,6 +1138,9 @@
 	<entry name="SmokeScreen" value="Smoke Screen"/>
 	<entry name="SmokeScreenDescription" value="Increases the ranged damage reduction."/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
+	<entry name="Sniper" value="Sniper"/>
+	<entry name="SniperDescription" value="Increases the damage and armour penetration against infantry units."/>
+	<entry name="SniperFlavor" value="Sniper weapons are precision instruments, used to pick out a target’s weak points."/>
 	<entry name="SonicBoom" value="Sonic Boom"/>
 	<entry name="SonicBoomDescription" value="Increases the damage against flyers."/>
 	<entry name="SoulBlaze" value="Soul Blaze"/>
@@ -1080,7 +1268,7 @@
 	<entry name="Tau/MontkaDescription" value="Increases the damage against units below 50% hitpoints."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
 	<entry name="Tau/NetworkedMarkerlight" value="Networked Markerlight"/>
-	<entry name="Tau/NetworkedMarkerlightDescription" value="Increases the unit's damage and bypasses the ranged damage reduction of the target unit. This unit's attacks do not benefit or consume Target Acquired."/>
+	<entry name="Tau/NetworkedMarkerlightDescription" value="Increases the ranged accuracy and ranged damage reduction bypass. The unit's attacks do not benefit from or consume Target Acquired."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
 	<entry name="Tau/NovaBoostDescription" value="Increases the movement."/>
@@ -1116,7 +1304,7 @@
 	<entry name="Tau/ShieldGeneratorDescription" value="Increases the damage reduction."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Actions/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StabilisingAnchors" value="Stabilising Anchors"/>
-	<entry name="Tau/StabilisingAnchorsDescription" value="Increases the ranged attacks if the unit has movement remaining."/>
+	<entry name="Tau/StabilisingAnchorsDescription" value="Increases the ranged attacks if the unit has not moved this turn."/>
 	<entry name="Tau/StabilisingAnchorsFlavor" value="KV128 Stormsurge Ballistic Suits are too large to mount a jetpack like their Battle Suit counterparts. Instead, the Earth Case scientist Bork'an designed them to lock into place once deployed, allowing them to divert all their reactor power to their immense weaponry."/>
 	<entry name="Tau/StimulantInjector" value="Stimulant Injector"/>
 	<entry name="Tau/StimulantInjectorDescription" value="Increases the damage reduction."/>
@@ -1134,7 +1322,7 @@
 	<entry name="Tau/SupportingFireDescription" value="Increases overwatch damage against enemy units adjacent to other allied units."/>
 	<entry name="Tau/SupportingFireFlavor" value="Fire caste doctrine, as laid down in the Code of Fire, instructs every warrior to protect their comrades. Using overlapping fields of fire, teams provide each other this mutual support on the battlefield."/>
 	<entry name="Tau/TargetAcquired" value="Target Acquired"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Increases the damage taken and reduces the ranged damage reduction."/>
+	<entry name="Tau/TargetAcquiredDescription" value="Increases the ranged accuracy of T'au against the unit. Reduces the ranged damage reduction of the unit against T'au. Ends after the unit is attacked by T'au."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the T’au, and the Markerlight is an excellent example of this. It’s a handheld targeting laser that is networked into the T’au’s information system, allowing for pinpoint strikes by other T’au forces."/>
 	<entry name="Tau/TidewallShieldline" value="Tidewall Shieldline"/>
 	<entry name="Tau/TidewallShieldlineDescription" value="Returns ranged damage from weapons that are not blast, template or witchfire back to the attacker."/>
@@ -1312,7 +1500,7 @@
 	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
 	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
-	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Reduces the armour."/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Increases the damage."/>
 	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
 	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduces the morale each turn."/>
@@ -1348,6 +1536,8 @@
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
 	<entry name="Uncommon" value="Uncommon"/>
 	<entry name="UncommonDescription" value="Classification."/>
+	<entry name="Unique" value="Unique"/>
+	<entry name="UniqueDescription" value="Limits the amount of units of this type."/>
 	<entry name="Unwieldy" value="Unwieldy"/>
 	<entry name="UnwieldyDescription" value="Reduces the accuracy."/>
 	<entry name="UnwieldyFlavor" value="This weapon is very large, and more than a little clumsy, making swift blows all but impossible to achieve."/>

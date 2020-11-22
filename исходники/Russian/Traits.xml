@@ -40,6 +40,12 @@
 	<entry name="Items/EnduranceImplant" value="<string name='Items/EnduranceImplant'/>"/>
 	<entry name="Items/EnduranceImplantDescription" value="<string name='Items/EnduranceImplantDescription'/>"/>
 	<entry name="Items/EnduranceImplantFlavor" value="<string name='Items/EnduranceImplantFlavor'/>"/>
+	<entry name="Items/EntropicLocum" value="<string name='Items/EntropicLocum'/>"/>
+	<entry name="Items/EntropicLocumDescription" value="<string name='Items/EntropicLocumDescription'/>"/>
+	<entry name="Items/EntropicLocumFlavor" value="<string name='Items/EntropicLocumFlavor'/>"/>
+	<entry name="Items/FaolchusWing" value="<string name='Items/FaolchusWing'/>"/>
+	<entry name="Items/FaolchusWingDescription" value="<string name='Items/FaolchusWingDescription'/>"/>
+	<entry name="Items/FaolchusWingFlavor" value="<string name='Items/FaolchusWingFlavor'/>"/>
 	<entry name="Items/LightningGauntlet" value="<string name='Items/LightningGauntlet'/>"/>
 	<entry name="Items/LightningGauntletDescription" value="<string name='Items/LightningGauntletDescription'/>"/>
 	<entry name="Items/LightningGauntletFlavor" value="<string name='Items/LightningGauntletFlavor'/>"/>
@@ -163,11 +169,19 @@
 	<entry name="AstraMilitarumVehicleProductionEdict" value="<string name='Actions/AstraMilitarumVehicleProductionEdict'/>"/>
 	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Увеличивает выпуск продукции."/>
 	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="<string name='Actions/AstraMilitarumVehicleProductionEdictFlavor'/>"/>
+	<entry name="AversionToLight" value="Отвращение к свету"/>
+	<entry name="AversionToLightDescription" value="Увеличивает урон, получаемый от огнестрельного и мелта оружия."/>
+	<entry name="AversionToLightFlavor" value="Ужасы осколка Умбры раскрываются ночью в темных уголках Гладиуса. Но осветите их, и они съежатся, кошмары отступят. А поднеси к ним огнемет ..."/>
 	<entry name="Barrage" value="Заградительный огонь"/>
 	<entry name="BarrageDescription" value="Не требует прямой видимости,но нельзя его корректировать."/>
 	<entry name="BarrageFlavor" value="<string name='Weapons/BarrageFlavor'/>"/>
 	<entry name="Beam" value="Луч"/>
 	<entry name="BeamDescription" value="Удары с повышенной точностью по нескольким членам группы выбранного подразделения."/>
+	<entry name="Bike" value="Байк"/>
+	<entry name="BikeDescription" value="Классификация."/>
+	<entry name="BikeFlavor" value="Подразделения, посаженные на байки, превосходно подходят для первых атак. Они могут использовать свою быструю скорость, чтобы нанести удар вглубине вражеской территории, завершить свою миссию и убежать, прежде чем враг сможет среагировать. Этих воинов часто считают горячими поборниками риска, но их эффективность нельзя отрицать."/>
+	<entry name="Bladestorm" value="Буря клинков"/>
+	<entry name="BladestormDescription" value="Увеличивает урон и бронепробиваемость."/>
 	<entry name="Blast" value="Взрыв"/>
 	<entry name="BlastDescription" value="Удары по нескольким членам группы выбранного подразделения."/>
 	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
@@ -177,7 +191,7 @@
 	<entry name="BlindDescription" value="Снижает точность."/>
 	<entry name="BlindFlavor" value="Эта атака выпускает ярчайшую вспышку света, ослепляя жертву и заставляя его сражаться в слепую несколько мгновений."/>
 	<entry name="Blinding" value="Ослепление"/>
-	<entry name="BlindingDescription" value="Временно уменьшает точность выбранного пехотного подразделения."/>
+	<entry name="BlindingDescription" value="Уменьшает точность выбранного пехотного подразделения или монструозного создания."/>
 	<entry name="BloodBlessing" value="Кровавое благословение"/>
 	<entry name="BloodBlessingDescription" value="Увеличивает атаки"/>
 	<entry name="BloodBlessingFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
@@ -207,7 +221,7 @@
 	<entry name="Capturable" value="Захватываемый"/>
 	<entry name="CapturableDescription" value="Подразделение может быть захвачено другим соседним подразделением."/>
 	<entry name="CeramitePlating" value="Керамитовое покрытие"/>
-	<entry name="CeramitePlatingDescription" value="Мелта-оружие не получает дополнительной бронепробиваемости при атаке этого подразделения."/>
+	<entry name="CeramitePlatingDescription" value="Увеличивает броню."/>
 	<entry name="CeramitePlatingFlavor" value="Эти пластины корпуса трижды благословлены Технодесантниками Ордена и помазаны семью священными мазями термического покрытия для защиты от экстремальных условий полета с орбиты. Такие меры предосторожности также спасают от огня определенного оружия. Они поглощают и рассеивают даже самые экстремальные температуры и микроволновое излучение."/>
 	<entry name="Chaff" value="Дипольный отражатель"/>
 	<entry name="ChaffDescription" value="Увеличивает уменьшение урона от дальнего огня."/>
@@ -370,7 +384,7 @@
 	<entry name="ChapterUnityDescription" value="Увеличивает лояльность."/>
 	<entry name="ChapterUnityFlavor" value="Реликвии, размещенные в Великом зале, напоминают Адептус Астартес о героях прошлого, и вселяют в их души надежду, что однажды их доспехи, оружие и кости также будут почитать здесь."/>
 	<entry name="City" value="Город"/>
-	<entry name="CityDescription" value="Позволяет уменьшить урон, увеличить скорость лечения и снижает стоимость движения для союзных подразделений. Позволяет уменьшить урон от дальнего огня для пехоты."/>
+	<entry name="CityDescription" value="Позволяет уменьшить урон, увеличить скорость лечения для союзных подразделений. Уменьшает стоимость движения отряда. Позволяет уменьшить урон от дальнего огня для пехоты."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
 	<entry name="ClusterMinesDescription" value="Наносит урон при входе в плитку."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
@@ -393,16 +407,22 @@
 	<entry name="DaemonFlavor" value="Существует много мерзких Варп-существ. Они бесконечно разнообразны, но некоторые их характеристики присуще им всем."/> 
 	<entry name="Damaged" value="Поврежденный"/>
 	<entry name="DamagedDescription" value="Уменьшает точность."/>
+	<entry name="Deathshriek" value="Смертельный крик"/>
+	<entry name="DeathshriekDescription" value="Наносит урон атакующему при смерти."/>
+	<entry name="DeathshriekFlavor" value="В момент смерти Умбры все окружающие видят видение древнего существа, которое было разорвано на части и брошено в Варп, в то время как устрашающий и манящий голос шепчет проклятие… «МЕДЛЕННЕЕ…»"/>
 	<entry name="DeedsOfGlory" value="Славные подвиги"/>
 	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
 	<entry name="DestroyerWeapon" value="Оружие Разрушителя"/>
-	<entry name="DestroyerWeaponDescription" value="Увеличивает урон."/>
+	<entry name="DestroyerWeaponDescription" value="Увеличивает урон и бронепробиваемость."/>
 	<entry name="DevastatorDoctrine" value="Доктрина Разрушителя"/>
 	<entry name="DevastatorDoctrineDescription" value="Повышает точность."/>
 	<entry name="DevastatorDoctrineFlavor" value="<string name='Actions/DevastatorDoctrineFlavor'/>"/>
 	<entry name="Discipline" value="Дисциплина"/>
 	<entry name="DisciplineDescription" value="Повышает точность."/>
 	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
+	<entry name="DistortScythe" value="Коса искажения"/>
+	<entry name="DistortScytheDescription" value="Увеличивает урон и бронепробиваемость."/>
+	<entry name="DistortScytheFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
 	<entry name="DogmaAstrates" value="Догма Астратес"/>
 	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
 	<entry name="DogmaAstratesFlavor" value="<string name='Actions/DogmaAstratesFlavor'/>"/>
@@ -412,6 +432,157 @@
 	<entry name="EavyArmour" value="'Тьажолый даспех"/>
 	<entry name="EavyArmourDescription" value="Увеличивает броню."/>
 	<entry name="EavyArmourFlavor" value="Тьажолый даспех Орка куется из металлолома, листового металла и награбленных боевых пластин павших противников. Хотя подгонка такого костюма сомнительна, тьажолая броня обеспечивает надежную защиту для своего владельца."/>
+	<entry name="Eldar/AerobaticGrace" value="Высший пилотаж"/>
+	<entry name="Eldar/AerobaticGraceDescription" value="Дает снижение урона в дальнем бою, если отряд переместился в этот ход."/>
+	<entry name="Eldar/AerobaticGraceFlavor" value="Арлекины являются настоящими мастерами танца среди Эльдар, и Сияющие Копья приближаются к ним, управляя своими реактивными байками, словно совершая пируэт между ураганами болтерного огня, когда атакуют своего врага."/>
+	<entry name="Eldar/AircraftBuildingBonus" value="Вызов Курноуса"/>
+	<entry name="Eldar/AircraftBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Eldar/AircraftBuildingBonusFlavor" value="Багровые Охотники связаны верностью Курноусу с богом охоты Эльдар. Хотя он мертв 60 миллионов лет, просто произнося его имя, позволяет Эльдар удваивать, как усилия по вербовке солдат, так и строительство."/>
+	<entry name="Eldar/AncientDoom" value="Древний рок"/>
+	<entry name="Eldar/AncientDoomDescription" value="Увеличивает точность и урон, наносимый подразделениям Хаоса."/>
+	<entry name="Eldar/AncientDoomFlavor" value="Эльдар ненавидят и боятся Ту-что-жаждет больше всего на свете, потому что в Слаанеш они видят свою гибель."/>
+	<entry name="Eldar/AssaultWeaponBonus" value="Субмолекулярные боеприпасы"/>
+	<entry name="Eldar/AssaultWeaponBonusDescription" value="Увеличивает бронепробиваемость."/>
+	<entry name="Eldar/AssaultWeaponBonusFlavor" value="Уникальный сюрикенный боеприпас Эльдар состоит из мономолекулярных вращающихся лезвий, стреляющих с большой скоростью. Но молекулы настолько ограничены, когда используются более мелкие и более смертоносные структуры."/>
+	<entry name="Eldar/AssuredDestruction" value="Гарантированное разрушение"/>
+	<entry name="Eldar/AssuredDestructionDescription" value="Увеличивает урон техники."/>
+	<entry name="Eldar/AssuredDestructionFlavor" value="«Если капитан достаточно глуп, чтобы позволить пяти воинам Эльдар с мелтаганами и несколькими тысячелетиями боевого опыта приблизиться к своему танку на расстояние 20 метров… ну, честно говоря, он заслуживает стать расплавленной лужей сукровицы на полу.”<br/>  — Комиссар Грубер."/>
+	<entry name="Eldar/AsuryaniArrivals" value="<string name='Actions/Eldar/AsuryaniArrivals'/>"/>
+	<entry name="Eldar/AsuryaniArrivalsDescription" value="<string name='Actions/Eldar/AsuryaniArrivalsDescription'/>"/>
+	<entry name="Eldar/AsuryaniArrivalsFlavor" value="<string name='Actions/Eldar/AsuryaniArrivalsFlavor'/>"/>
+	<entry name="Eldar/AutarchsAssault" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
+	<entry name="Eldar/AutarchsAssaultDescription" value="Увеличивает урон."/>
+	<entry name="Eldar/AutarchsAssaultFlavor" value="<string name='Actions/Eldar/AutarchsAssaultFlavor'/>"/>
+	<entry name="Eldar/AutarchsAssaultPassive" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
+	<entry name="Eldar/BansheeMask" value="Маска Баньши"/>
+	<entry name="Eldar/BansheeMaskDescription" value="<string name='Traits/InfiltrateDescription'/>"/>
+	<entry name="Eldar/BansheeMaskFlavor" value="Она усиливает боевой клич Эльдар, вызывая психический паралич."/>
+	<entry name="Eldar/BattleFocus" value="Боевой фокус"/>
+	<entry name="Eldar/BattleFocusDescription" value="Действия не тратят движения."/>
+	<entry name="Eldar/BattleFocusFlavor" value="Когда Азуриани надевают свои боевые маски, они входят в боевой транс, будучи настолько сосредоточенными, что текут по полю битвы, как ртуть, убивая своих врагов, не сбиваясь с пути."/>
+	<entry name="Eldar/CityTier2" value="Форпосты Ушедших"/>
+	<entry name="Eldar/CityTier2Description" value="Увеличивает радиус возможного присоединения плиток."/>
+	<entry name="Eldar/CityTier2Flavor" value="Из тысячелетий, которые они  дрейфовали по звездам, некоторые из кораблей Искусственных миров Эльдар провели какое-то время в мирах Ушедших и Девственных мирах, и научились создавать жизнь на планетах, выращивать пищу и строить свои здания из призрачных костей древними способами."/>
+	<entry name="Eldar/CityTier3" value="Инфраструктура Ушедших"/>
+	<entry name="Eldar/CityTier3Description" value="Увеличивает радиус возможного присоединения плиток."/>
+	<entry name="Eldar/CityTier3Flavor" value="Здесь Костопевцы из Искусственного мира используют опытные строительные конструкции Ушедших. Имея опыт работ только на древних мирах-кораблей, строительство города в первый раз является чем-то совершенно новым для них."/>
+	<entry name="Eldar/Command" value="<string name='Actions/Eldar/Command'/>"/>
+	<entry name="Eldar/CommandDescription" value="Повышает точность."/>
+	<entry name="Eldar/CommandFlavor" value="<string name='Actions/Eldar/CommandFlavor'/>"/>
+	<entry name="Eldar/ConstructionBuildingBonus" value="Совет Костопевцов"/>
+	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Eldar/ConstructionBuildingBonusFlavor" value="Костопевцы редки и их ценят даже среди рассеянных Эльдар, но они явились в большом количестве на призыв Провидца, чтобы захватить эту уникальную планету для своей умирающей расы."/>
+	<entry name="Eldar/CrackShot" value="Раскалывающий удар"/>
+	<entry name="Eldar/CrackShotDescription" value="Повышает точность и бронепробиваемость."/>
+	<entry name="Eldar/CrackShotFlavor" value="Огненных драконов справедливо опасаются, как охотников за танками, и еще больше враги боятся их Экзарха, который ведет свой отряд в бой, вдохновляя подразделение на новые разрушения своими собственными сокрушительными подвигами."/>
+	<entry name="Eldar/CrystalTargetingMatrix" value="<string name='Actions/Eldar/CrystalTargetingMatrix'/>"/>
+	<entry name="Eldar/CrystalTargetingMatrixDescription" value="<string name='Actions/Eldar/CrystalTargetingMatrixDescription'/>"/>
+	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="<string name='Actions/Eldar/CrystalTargetingMatrixFlavor'/>"/>
+	<entry name="Eldar/Doom" value="<string name='Actions/Eldar/Doom'/>"/>
+	<entry name="Eldar/DoomDescription" value="Увеличивает получаемый урон."/>
+	<entry name="Eldar/DoomFlavor" value="<string name='Actions/Eldar/DoomFlavor'/>"/>
+	<entry name="Eldar/ExpertHunter" value="Эксперт-охотник"/>
+	<entry name="Eldar/ExpertHunterDescription" value="Увеличивает урон против монструозных созданий, техники и укреплений."/>
+	<entry name="Eldar/ExpertHunterFlavor" value="Оружие Сияющих копий может быть только для ближнего боя, но их Звездные и Лазерные копья невероятно мощны. Поэтому они высматривают более крупные цели, ища их слабые места."/>
+	<entry name="Eldar/FoodBuildingBonus" value="Изысканное Культивирование"/>
+	<entry name="Eldar/FoodBuildingBonusDescription" value="Увеличивает сбор пищи."/>
+	<entry name="Eldar/FoodBuildingBonusFlavor" value="Эльдар настолько чувственны, что даже их основные продукты питания—это произведения искусства, созданные мастерами, которые тысячелетиями совершенствовали свою кухню. Благодаря более широкому ассортименту ингредиентов и приправ они могут творить чудеса с кажущимися простыми продуктами питания."/>
+	<entry name="Eldar/Forceshield" value="Силовой щит"/>
+	<entry name="Eldar/ForceshieldDescription" value="Увеличивает снижение урона."/>
+	<entry name="Eldar/ForceshieldFlavor" value="Эти мощные проекторы щита могут отразить практически любой удар."/>
+	<entry name="Eldar/HeavyWeaponBonus" value="Машина Ваула"/>
+	<entry name="Eldar/HeavyWeaponBonusDescription" value="Увеличивает пробиваемость брони."/>
+	<entry name="Eldar/HeavyWeaponBonusFlavor" value="В то время как плазменное оружие человечества часто оказывается фатальным для своего пользователя, элегантные эквиваленты Эльдар не несут такой угрозы. А теперь случайное открытие на поверхности Гладиус Прайм позволило Костопевцам и Экзархам еще больше улучшить фокусировку оружия."/>
+	<entry name="Eldar/HoloFields" value="Голополя"/>
+	<entry name="Eldar/HoloFieldsDescription" value="Увеличивает снижение урона, если отряд переместился в этот ход."/>
+	<entry name="Eldar/HoloFieldsFlavor" value="Используя кинетическую энергию для мерцания и искажения силуэта машины, когда она несется по полю боя, голополя не позволяют противнику точно прицелиться."/>
+	<entry name="Eldar/InfantryBuildingBonus" value="Призыв Асуриан"/>
+	<entry name="Eldar/InfantryBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Eldar/InfantryBuildingBonusFlavor" value="Асурмен—основатель пути Воина и первый из Лордов Феникса, создателей Святынь Аспекта. Призыв его имени обязательно приведет на Гладиус Прайм больше воинов, чтобы захватить эту планету для Эльдар."/>
+	<entry name="Eldar/InfluenceBuildingBonus" value="Оракул Лилит"/>
+	<entry name="Eldar/InfluenceBuildingBonusDescription" value="Увеличивает влияние."/>
+	<entry name="Eldar/InfluenceBuildingBonusFlavor" value="Очень немногие смертные существа когда-либо обладали предвидением Провидца—силой, возможно, полученной от потерянной богини Эльдар Лилит, предсказавшей смерть богов от рук смертных Эльдар. Оракул, призывающий ее имя, обращает на вас взоры всех Эльдар..."/>
+	<entry name="Eldar/Jinx" value="Дурной глаз"/>
+	<entry name="Eldar/JinxDescription" value="Снижает броню."/>
+	<entry name="Eldar/JinxFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
+	<entry name="Eldar/KhaineAwakened" value="<string name='Actions/Eldar/KhaineAwakened'/>"/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Увеличивает атаки и урон в ближнем бою, снижает потерю морали и дает иммунитет к страху и сковыванию."/>
+	<entry name="Eldar/KhaineAwakenedFlavor" value="<string name='Actions/Eldar/KhaineAwakenedFlavor'/>"/>
+	<entry name="Eldar/KhainesMight" value="<string name='Actions/Eldar/KhainesMight'/>"/>
+	<entry name="Eldar/KhainesMightDescription" value="Увеличивает атаки ближнего боя."/>
+	<entry name="Eldar/KhainesMightFlavor" value="<string name='Actions/Eldar/KhainesMightFlavor'/>"/>
+	<entry name="Eldar/LinkedFire" value="<string name='Actions/Eldar/LinkedFire'/>"/>
+	<entry name="Eldar/LinkedFireDescription" value="Увеличивает наносимый урон и бронепробиваемость."/>
+	<entry name="Eldar/LinkedFireFlavor" value="<string name='Actions/Eldar/LinkedFireFlavor'/>"/>
+	<entry name="Eldar/MarksmansEye" value="Меткий глаз"/>
+	<entry name="Eldar/MarksmansEyeDescription" value="Повышает точность."/>
+	<entry name="Eldar/MarksmansEyeFlavor" value="Только Багровый Охотник может пилотировать, самый быстрый и маневренный корабль Эльдар, и одновременно прицеливаться и стрелять из трех разных видов оружия с разной скорострельностью."/>
+	<entry name="Eldar/MeleeWeaponBonus" value="Субмолекулярные грани"/>
+	<entry name="Eldar/MeleeWeaponBonusDescription" value="Увеличивает бронепробиваемость."/>
+	<entry name="Eldar/MeleeWeaponBonusFlavor" value="Мономолекулярные волокна и клинки Эльдар сами по себе достаточно смертоносны, но при малейшем добавлении технологии фазирования (как в Ласке Арлекина) они проходят даже через самую толстую броню."/>
+	<entry name="Eldar/MindWar" value="<string name='Actions/Eldar/MindWar'/>"/>
+	<entry name="Eldar/MindWarDescription" value="Уменьшает точность."/>
+	<entry name="Eldar/MindWarFlavor" value="<string name='Actions/Eldar/MindWarFlavor'/>"/>
+	<entry name="Eldar/MoltenBody" value="Расплавленное тело"/>
+	<entry name="Eldar/MoltenBodyDescription" value="Иммунитет к огнестрельному и мелта оружию."/>
+	<entry name="Eldar/MoltenBodyFlavor" value="Аватар Кхейна—это не просто последний фрагмент умирающего бога—с практической точки зрения, это конструкция из перегретого железа с ядром, которое представляет собой лаву, оживляемую психической силой Эльдар и бессмертной яростью бога. Нагревание только злит его..."/>
+	<entry name="Eldar/OreBuildingBonus" value="Эффективная добыча"/>
+	<entry name="Eldar/OreBuildingBonusDescription" value="Увеличивает добычу руды."/>
+	<entry name="Eldar/OreBuildingBonusFlavor" value="Для Эльдар требуется меньше металлов, чем другим расам, учитывая, что почти все их структуры и средства передвижения представляют собой материализованную психическую энергию в форме призрачной кости. Для получения небольшого количества руды, которое им нужно, всегда можно улучшить добычу."/>
+	<entry name="Eldar/PowerField" value="Силовое поле"/>
+	<entry name="Eldar/PowerFieldDescription" value="Увеличивает снижение урона."/>
+	<entry name="Eldar/PowerFieldFlavor" value="Часть своей энергии, машина перенаправляет на Силовое поле, проецирующее сверкающий защитный экрана вокруг нее."/>
+	<entry name="Eldar/Protect" value="Защита"/>
+	<entry name="Eldar/ProtectDescription" value="Увеличивает броню."/>
+	<entry name="Eldar/ProtectFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
+	<entry name="Eldar/RemnantsOfTheFall" value="Следы упадка"/>
+	<entry name="Eldar/RemnantsOfTheFallDescription" value="Уменьшает скорость роста населения."/>
+	<entry name="Eldar/RemnantsOfTheFallFlavor" value="С момента рождения Слаанеш оставшиеся Эльдар изо всех сил пытались выжить во враждебной галактике. Их долгая жизнь означает, что у них всегда был низкий уровень плодовитости и медленная беременность, поэтому они изо всех сил стараются заменить тех, кто погиб в битве. Во многих мирах-кораблях мертвых намного больше, чем живых."/>
+	<entry name="Eldar/ResearchBuildingBonus" value="Черные библиотекари"/>
+	<entry name="Eldar/ResearchBuildingBonusDescription" value="Увеличивает исследования."/>
+	<entry name="Eldar/ResearchBuildingBonusFlavor" value="С этим поручением нас послали Провидцы Черной библиотеки, сейчас они предлагают свою поддержку. Имея доступ к их архивам, мы сможем заново открыть утерянные технологии и быстрее укрепить свои позиции на этой планете."/>
+	<entry name="Eldar/ReturnOfTheAeldari" value="<string name='Actions/Eldar/ReturnOfTheAeldari'/>"/>
+	<entry name="Eldar/ReturnOfTheAeldariDescription" value="<string name='Actions/Eldar/ReturnOfTheAeldariDescription'/>"/>
+	<entry name="Eldar/ReturnOfTheAeldariFlavor" value="<string name='Actions/Eldar/ReturnOfTheAeldariFlavor'/>"/>
+	<entry name="Eldar/RuneArmour" value="Руническая броня"/>
+	<entry name="Eldar/RuneArmourDescription" value="Увеличивает снижение урона."/>
+	<entry name="Eldar/RuneArmourFlavor" value="Псайкеры Эльдар создают элегантные доспехи из призрачных костей украшенных рунами. Говорят, что руническая броня пульсирует синхронно с сердцебиением владельца, она обеспечивает защиту от атак как колдовских, так и физических по своей природе."/>
+	<entry name="Eldar/Scattershield" value="Рассеивающий щит"/>
+	<entry name="Eldar/ScattershieldDescription" value="Увеличивает снижение урона и ослепляет пехоту и атакующих монструозных созданий."/>
+	<entry name="Eldar/ScattershieldFlavor" value="Рассеивающие щиты, используемые для защиты драгоценных боевых построек Эльдар, представляют собой гигантские веерообразные генераторы щитов, которые преобразуют энергию входящих атак в ослепляющие брызги разноцветного света."/>
+	<entry name="Eldar/SerpentShield" value="Змеиный щит"/>
+	<entry name="Eldar/SerpentShieldDescription" value="Увеличивает броню, если оружие Змеиного щита не перезаряжается."/>
+	<entry name="Eldar/SerpentShieldFlavor" value="<string name='Weapons/SerpentShieldFlavor'/>"/>
+	<entry name="Eldar/Skyhunter" value="Небесный охотник"/>
+	<entry name="Eldar/SkyhunterDescription" value="Увеличивает бронепробиваемость против летунов."/>
+	<entry name="Eldar/SkyhunterFlavor" value="Дух потерянного экзарха Биль-Тана заполнил наших Багровых Охотников, раскрыв секреты тысячелетней битвы с врагами Эльдар. Эта вновь открытая мудрость позволит нам доминировать в небе, как никогда раньше."/>
+	<entry name="Eldar/SpiritMark" value="<string name='Actions/Eldar/SpiritMark'/>"/>
+	<entry name="Eldar/SpiritMarkDescription" value="Повышает точность."/>
+	<entry name="Eldar/SpiritMarkFlavor" value="<string name='Actions/Eldar/SpiritMarkFlavor'/>"/>
+	<entry name="Eldar/SpiritPreservation" value="Сохранение духа"/>
+	<entry name="Eldar/SpiritPreservationDescription" value="Дарует энергию от смерти подразделения."/>
+	<entry name="Eldar/SpiritPreservationFlavor" value="Нас мало, и Та-что-жаждет ждет в Варпе, чтобы поглотить наши души. Однако мы носим Камни душ, чтобы уловить нашу сущность в момент смерти; хотя каждый из Эльдар содрогается от отвращения при мысли, что их когда-нибудь воскресят, эти души могут быть использованы для управления нашими боевыми машинами."/>
+	<entry name="Eldar/SpiritStones" value="Камни душ"/>
+	<entry name="Eldar/SpiritStonesDescription" value="Снижает потерю морали."/>
+	<entry name="Eldar/SpiritStonesFlavor" value="Некоторые машины Эльдар содержат большие камни душ с плененной воинственностью, который может управлять машиной, даже если она будет повреждена."/>
+	<entry name="Eldar/StarEngines" value="Звездные двигатели"/>
+	<entry name="Eldar/StarEnginesDescription" value="Увеличивает движение."/>
+	<entry name="Eldar/StarEnginesFlavor" value="Хотя все машины Эльдар стремительны и проворны, те из них, что оснащены звёздными двигателями, способны мчаться с такой скоростью, что за ними невозможно уследить. Низшие расы могут только удивляться такой феноменальной скорости и манёвренности."/>
+	<entry name="Eldar/TitanHoloFields" value="Голополя титана"/>
+	<entry name="Eldar/TitanHoloFieldsDescription" value="<string name='Traits/Eldar/HoloFieldsDescription'/>"/>
+	<entry name="Eldar/TitanHoloFieldsFlavor" value="“Я смотрел все лучшие световые шоу в Улье—эльспаркс, и бэнг-бенгс, и шинис, и суо психоделики ... затем я был в восторге от того, что Иррегуляры были мертвы, а этот инопланетный танк просто прокатился мимо меня, как будто я был статуей.”<br/>  — Солдат Гранде, единственный выживший из Четвертого иррегулярного отряда Некромунды."/>
+	<entry name="Eldar/TranscendentBliss" value="<string name='Actions/Eldar/TranscendentBliss'/>"/>
+	<entry name="Eldar/TranscendentBlissDescription" value="<string name='Actions/Eldar/TranscendentBlissDescription'/>"/>
+	<entry name="Eldar/TranscendentBlissFlavor" value="<string name='Actions/Eldar/TranscendentBlissFlavor'/>"/>
+	<entry name="Eldar/VectorDancer" value="<string name='Actions/Eldar/VectorDancer'/>"/>
+	<entry name="Eldar/VectorDancerDescription" value="<string name='Actions/Eldar/VectorDancerDescription'/>"/>
+	<entry name="Eldar/VectorDancerFlavor" value="<string name='Actions/Eldar/VectorDancerFlavor'/>"/>
+	<entry name="Eldar/VectoredEngines" value="<string name='Actions/Eldar/VectoredEngines'/>"/>
+	<entry name="Eldar/VectoredEnginesDescription" value="<string name='Actions/Eldar/VectoredEnginesDescription'/>"/>
+	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Actions/Eldar/VectoredEnginesFlavor'/>"/>
+	<entry name="Eldar/VehicleBuildingBonus" value="Призыв Ваула"/>
+	<entry name="Eldar/VehicleBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Eldar/VehicleBuildingBonusFlavor" value="Камень душ, найденный на Гладиусе, оказался камнем древнего  Костопевца, умершего здесь тысячелетия назад. Благодаря пониманию его структуры и ресурсов планеты мы можем значительно увеличить производство."/>
 	<entry name="Enslaved" value="Порабощенный"/>
 	<entry name="EnslavedDescription" value="Убейте Поработителей, чтобы освободить подразделение."/>
 	<entry name="EreWeGo" value="Сдеся мы идем!"/>
@@ -419,7 +590,7 @@
 	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
 	<entry name="ExtraInfantryArmour" value="Особая броня пехоты"/>
 	<entry name="ExtraInfantryArmourDescription" value="Увеличивает броню."/>
-	<entry name="ExtraMonstrousCreatureArmour" value="Броня монструозного существа"/>
+	<entry name="ExtraMonstrousCreatureArmour" value="Броня монструозного создания"/>
 	<entry name="ExtraMonstrousCreatureArmourDescription" value="Увеличивает броню."/>
 	<entry name="ExtraVehicleArmour" value="Особая броня техники"/>
 	<entry name="ExtraVehicleArmourDescription" value="Увеличивает броню."/>
@@ -435,13 +606,15 @@
 	<entry name="Flail" value="Цен"/>
 	<entry name="FlailDescription" value="Увеличивает уменьшение получаемого урона в ближнем бою."/>
 	<entry name="FlailFlavor" value="Воины, вооруженные цеповым оружием, мешают атакующим приближаться к себе."/>
+	<entry name="Flame" value="Пламя"/>
+	<entry name="FlameDescription" value="Классификация."/>
 	<entry name="Fleet" value="Парящий"/>
 	<entry name="FleetDescription" value="Увеличивает движение."/>
 	<entry name="FleetFlavor" value="Сверхестественно быстрые, эти воины могут двигаться по земле быстрее, чем их враги."/>
 	<entry name="Fleshbane" value="Ядовитая плоть"/>
 	<entry name="FleshbaneDescription" value="Увеличивает урон против пехоты."/>
 	<entry name="Flyer" value="Летун"/>
-	<entry name="FlyerDescription" value="<icon texture='GUI/Bullet'/>Может летать над горами, водой и вражескими подразделениями.<br/><icon texture='GUI/Bullet'/>Не может захватывать Артефакты или Заставы.<br/><icon texture='GUI/Bullet'/>Игнорирует зону контроля наземных вражеских подразделений.<br/><icon texture='GUI/Bullet'/>Летуны не могут быть сбиты наземным оружием ближнего боя, и в них трудно попасть из оружия без зенитной особенности.<br/><icon texture='GUI/Bullet'/>Нет никакого штрафа от огня тяжелого оружия и артиллерии."/>
+	<entry name="FlyerDescription" value="Может летать над горами, водой и вражескими подразделениями. Не может захватывать Артефакты или Заставы. Игнорирует зону контроля наземных вражеских подразделений. Летуны не могут быть сбиты наземным оружием ближнего боя, и в них трудно попасть из оружия без зенитной особенности. Нет никакого штрафа от огня тяжелого оружия и артиллерии."/>
 	<entry name="FlyerFlavor" value="Воздушное пространство над полем битвы не пустует. Истребители и бомбардировщики проносятся по небу, сходясь в дуэли друг с другом и обеспечивают огневую поддержку войскам на земле."/>
 	<entry name="Forest" value="Лес"/>
 	<entry name="ForestDescription" value="Позволяет уменьшить урон для находящегося в нём подразделения пехоты."/>
@@ -460,6 +633,9 @@
 	<entry name="Gargantuan" value="Гигантское существо"/>
 	<entry name="GargantuanDescription" value="Классификация"/>
 	<entry name="GargantuanFlavor" value="Гигантские существа имеют такой огромный размер, что могут заменить собой целые армии. Они заставляют землю содрогаться продвигаясь по полю битвы, втаптывая меньшие существа в землю своими неуклюжими ногами."/>
+	<entry name="GargantuanCreature" value="<string name='Traits/Gargantuan'/>"/>
+	<entry name="GargantuanCreatureDescription" value="<string name='Traits/GargantuanDescription'/>"/>
+	<entry name="GargantuanCreatureFlavor" value="<string name='Traits/GargantuanFlavor'/>"/>
 	<entry name="Gauss" value="Гаусс"/>
 	<entry name="GaussDescription" value="Изменяет минимальный урон в зависимости от Очков здоровья подразделения-цели."/>
 	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
@@ -476,10 +652,13 @@
 	<entry name="GroundAttack" value="Наземная атака"/>
 	<entry name="GroundAttackDescription" value="Может использоваться только по наземных подразделениям."/>
 	<entry name="GunnersKillOnSight" value="“Пушкарь, убей всё что видишь!”"/>
-	<entry name="GunnersKillOnSightDescription" value="Увеличивает урон."/>
+	<entry name="GunnersKillOnSightDescription" value="Увеличивает сиу дальнобойных атак."/>
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="HammerOfWrathDescription" value="Увеличивает наносимый урон."/>
 	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Hallucination" value="<string name='Actions/Hallucination'/>"/>
+	<entry name="HallucinationDescription" value="Уменьшает атаку."/>
+	<entry name="HallucinationFlavor" value="<string name='Actions/HallucinationFlavor'/>"/>
 	<entry name="HarvestResourceFeatures" value="Использование ресурсных плиток"/>
 	<entry name="HarvestResourceFeaturesDescription" value="Сбор ресурс от смежных специальных способностей ресурсных плиток."/>
 	<entry name="Haywire" value="Безумное"/>
@@ -534,11 +713,11 @@
 	<entry name="Jetbike" value="Реактивный байк"/>
 	<entry name="JetbikeDescription" value="Подразделение может перемещаться по воде и игнорировать штраф за пересечение рек и движения через проволочный сорняк."/>
 	<entry name="JetbikeFlavor" value="Технология создания надежных, небольших и быстрых машин сложнее, чем кажется, и на протяжении многих лет только у Эльдар были технические ноу-хау в этой области. Совсем недавно Орки разработали свою собственную неуклюжую версию, Смертолет, и появляющиеся Некроны принесли с собой непредсказуемые Могильные клинки."/>
-	<entry name="Jink" value="Уклонение"/>
-	<entry name="JinkDescription" value="Позволяет уменьшать урон от дальнего огня, но уменьшает точность."/>
+	<entry name="Jink" value="<string name='Actions/Jink'/>"/>
+	<entry name="JinkDescription" value="Увеличивает снижение урона от дальнего огня, но снижает и точность."/>
 	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
 	<entry name="Killshot" value="Смертельный выстрел"/>
-	<entry name="KillshotDescription" value="Увеличивает урон при атаке моструозных существ, наземной техники и фортификационных сооружений, если рядом расположен союзный Хищник."/>
+	<entry name="KillshotDescription" value="Увеличивает урон при атаке моструозных созданий, наземной техники и фортификационных сооружений, если рядом расположен союзный Хищник."/>
 	<entry name="KillshotFlavor" value="Есть несколько вещей, которые могут устоять перед объединенной мощью отряда Ассасинов Хищников—трио Хищников—их артиллеристы Космодесантники создают блокирующие зоны смерти, чтобы уничтожить даже Гиантские существа Ксеноса или приплющенные боевые машины, фокусируя на них заградительный пушечный огонь."/>
 	<entry name="Lance" value="Ланцет"/>
 	<entry name="LanceDescription" value="Пробивает броню подразделения цели."/>
@@ -546,7 +725,6 @@
 	<entry name="LargeBlast" value="Большой взрыв"/>
 	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="LargeBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	
 	<entry name="LastStand" value="Последний бой"/>
 	<entry name="LastStandDescription" value="Увеличивает мораль."/>
 	<entry name="LastStandFlavor" value="“Здесь мы стоим, и мы здесь умрем, несломленными и непокоренными. Хотя сама смерть стоит за нашими спинами, мы плюём на неё, и выказываем ей своё пренебрежение до конца!”<br/>  — Капеллан-дредноут Тит из Воющих Грифонов."/>
@@ -589,7 +767,10 @@
 	<entry name="MobileCommand" value="Мобильная Команда"/>
 	<entry name="MobileCommandDescription" value="Пассивная способность работающая при погруженном подразделении на этом транспорте."/>
 	<entry name="MobileCommandFlavor" value="Транспортное средство обычно герметично, что делает любые войска неэффективными внутри него (но защищенными) до тех пор, пока они не достигнут места назначения. В отличие от орудийных щелей, коммуникационное оборудование не ставит под угрозу защиту машины, как это доказывает имперский вариант командирской Химеры, позволяя офицерам продолжать руководить своими войсками из нее."/>
-	<entry name="MonstrousCreature" value="Монструозное существо"/>
+	<entry name="Monofilament" value="Моноволокно"/>
+	<entry name="MonofilamentDescription" value="Масштабирует урон в соответствии с максимальным движением выбранного подразделения. Увеличивает пробиваемость брони."/>
+	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
+	<entry name="MonstrousCreature" value="Монструозное создание"/>
 	<entry name="MonstrousCreatureDescription" value="Классификация."/>
 	<entry name="MonstrousCreatureFlavor" value="Эти высокие гиганты, способны сокрушить танк. Подобное Карнифексу тиранидов, это биоинженерное существо превратилось в живой таран."/>
 	<entry name="MoraleSoak" value="Пропитанный моралью"/>
@@ -695,9 +876,12 @@
 	<entry name="Necrons/ShieldVaneFlavor" value="Могильные клинки, которые развёрнуты непосредственно в центре обороны, часто оснащены дополнительными щитами брони."/>
 	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
 	<entry name="Necrons/SleepingSentryDescription" value="Увеличивает уменьшение урона, но препятствует движению или действию подразделения."/>
-	<entry name="Necrons/TargetingRelay" value="<string name='Actions/Necrons/TargetingRelay'/>"/>
-	<entry name="Necrons/TargetingRelayDescription" value="Увеличивает точность дальнего огня."/>
-	<entry name="Necrons/TargetingRelayFlavor" value="<string name='Actions/Necrons/TargetingRelayFlavor'/>"/>
+	<entry name="Necrons/TargetRelayed" value="Смена цели"/>
+	<entry name="Necrons/TargetRelayedDescription" value="Увеличивает точность далнего огня Некронов против подразделения."/>
+	<entry name="Necrons/TargetRelayedFlavor" value="<string name='Traits/Necrons/TargetingRelayFlavor'/>"/>
+	<entry name="Necrons/TargetingRelay" value="Смена наведения"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Временно увеличивает точность дальнего огня Некронов по цели."/>
+	<entry name="Necrons/TargetingRelayFlavor" value="Триархические охотники могут показаться хрупкими, но их защищает уникальный Квантовый Щит, действующий пока Смена наведения усиливает огневую мощь ближайших Некронов."/>
 	<entry name="Necrons/Technomancer" value="Техноколдун"/>
 	<entry name="Necrons/TechnomancerDescription" value="Увеличивает уменьшение урона."/>
 	<entry name="Necrons/VehiclesBuildingBonus" value="Каноптек-рабочий"/>
@@ -710,7 +894,7 @@
 	<entry name="NoEscapeDescription" value="Увеличивает атаку на подразделение с открытым верхом."/>
 	<entry name="OpenTopped" value="Открытый верх"/>
 	<entry name="OpenToppedDescription" value="Классификация"/>
-	<entry name="OpenToppedFlavor" value="У некоторых автомобилей есть только небольшая броня, что делает их более уязвимыми к повреждению из-за их легкой конструкции."/>
+	<entry name="OpenToppedFlavor" value="У некоторых машин есть только небольшая броня, что делает их более уязвимыми к повреждению из-за их легкой конструкции. Однако такие машины отлично подходят для десантных перевозок, поскольку их пассажиры могут с гораздо большей легкостью высадиться."/>
 	<entry name="OrationOfRestoration" value="Оракул восстановления"/>
 	<entry name="OrationOfRestorationDescription" value="Восстанавливает очки жизни."/>
 	<entry name="Ordnance" value="Артиллерия"/>
@@ -749,6 +933,9 @@
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Увеличивает исследования."/>
+	<entry name="Orks/CityEnergy" value="Набор Краклина"/>
+	<entry name="Orks/CityEnergyDescription" value="Увеличивает генерацию энергии."/>
+	<entry name="Orks/CityEnergyFlavor" value="Зеленые и красные дуги молний между замысловатыми зубцами этих устройств усиления мощности поджаривают любого зеленокожего, который подойдет слишком близко. В этой технологии отсутствуют ключевые компоненты, поэтому невозможно подтвердить заявления Меков об увеличении выработки энергии—за исключением изменяющей реальность веры орков в то, что это действительно так."/>
 	<entry name="Orks/CityGrowth" value="Босс оратор"/>
 	<entry name="Orks/CityGrowthDescription" value="Увеличивает темп роста населения."/>
 	<entry name="Orks/CityGrowthFlavor" value="“Счас, я не хачу, штобы тута злобна чирикали. Я хочу, штобы Горк пабасил ... был, каторый падымался над адинатцати!”<br/>  — Краваточащие Уши, Мерфник, военачальник Гоффа и Рока"/>
@@ -861,7 +1048,7 @@
 	<entry name="RampageDescription" value="Увеличивает силу атак, когда в соседних плитках больше врагов, чем союзников."/>
 	<entry name="RampageFlavor" value="Для некоторых воинов, превосходящая численность врагов, это не повод для отчаяния, а возможность бить своих врагов в неистовых контратаках."/>
 	<entry name="RapidFire" value="Быстрый огонь"/>
-	<entry name="RapidFireDescription" value="Увеличивает атаку на половине дальности."/>
+	<entry name="RapidFireDescription" value="Удваивает атаку на половине дальности."/>
 	<entry name="RecoveryGear" value="Ремкомплекты"/>
 	<entry name="RecoveryGearDescription" value="Увеличивает скорость восстановления."/>
 	<entry name="RecoveryGearFlavor" value="Многие экипажи загружают свои автомобили большим количеством инструментов, буксировочных тросов и другого полезного имущества, которые помогут выкопать застрявшую в грязи технику и не бросать её на произвол судьбы."/>
@@ -887,13 +1074,14 @@
 	<entry name="RepulsorGridDescription" value="Увеличивает уменьшение урона от дальнего огня и возвращает атакующему урон от оружия, которое не является взрывным, временным или колдовским."/>
 	<entry name="RitesOfWar" value="Обряды войны"/>
 	<entry name="RitesOfWarDescription" value="Увеличивает урон."/>
+	<entry name="RitesOfWarFlavor" value="<string name='Actions/RitesOfWarFlavor'/>"/>
 	<entry name="Rosarius" value="Розарий"/>
 	<entry name="RosariusDescription" value="Увеличивает уменьшение урона."/>
 	<entry name="RosariusFlavor" value="Розарий носят Капелланы Космического Десанта как для защиты, так и как символ должности. Он излучает защитное энергетическое поле вокруг носителя. Он способен отклонять удары и выстрелы, которые могли бы разбить даже ферробетонный бункер. Говорят, что чем сильнее вера Капеллна в могущество Императора, тем сильнее будет силовое поле розария."/>
 	<entry name="RuinsStealth" value="Невидимый в руинах"/>
 	<entry name="RuinsStealthDescription" value="Уменьшает получаемый урон от дальнего огня подразделению, находящегося в Имперских руинах."/>
 	<entry name="Salvo" value="Залп"/>
-	<entry name="SalvoDescription" value="Увеличивает атаку на половине дальности, если подразделение не двигалось."/>
+	<entry name="SalvoDescription" value="Удваивает атаку на половине дальности, если подразделение не двигалось."/>
 	<entry name="SavantInterlocution" value="Ученый дуэт"/>
 	<entry name="SavantInterlocutionDescription" value="Увеличивает точность дальнего огня против флаеров и скиммеров, когда подразделение стоит рядом с союзным Охотником."/>
 	<entry name="SavantLock" value="Ученый замок"/>
@@ -924,8 +1112,11 @@
 	<entry name="Signum" value="Сигнум"/>
 	<entry name="SignumDescription" value="Увеличивает точность дальнего огня."/>
 	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
+	<entry name="SkilledJink" value="<string name='Actions/SkilledJink'/>"/>
+	<entry name="SkilledJinkDescription" value="<string name='Traits/JinkDescription'/>"/>
+	<entry name="SkilledJinkFlavor" value="<string name='Actions/SkilledJinkFlavor'/>"/>
 	<entry name="Skimmer" value="Скиммер"/>
-	<entry name="SkimmerDescription" value="Подразделение может перемещаться по воде и игнорировать штраф за движение через реки и проволочный сорняк."/>
+	<entry name="SkimmerDescription" value="Подразделение может перемещаться по воде и игнорировать штраф за движение через реки и проволочный сорняк. Снижает штраф за передвижение в лесах и имперских руинах."/>
 	<entry name="SkimmerFlavor" value="Некоторая высокотехнологичная техника оснащена антигравитационными приводами, которые позволяют им быстро перемещаться по трудной местности в отрыве от основных войск, что делает их идеальными подразделениями для неожиданных фланговых атак."/>
 	<entry name="SkullAltar" value="<string name='Features/SkullAltar'/>"/>
 	<entry name="SkullAltarDescription" value="Предоставляет награду подразделениям, входящим в плитку."/>
@@ -934,7 +1125,7 @@
 	<entry name="SkullsForTheSkullThroneDescription" value="Увеличивает уменьшение урона."/>
 	<entry name="SkullsForTheSkullThroneFlavor" value="Кхорн уважает только сильных и безгранично кровожадных."/>
 	<entry name="Skyfire" value="Небесный огонь"/>
-	<entry name="SkyfireDescription" value="Повышает точность против флаеров, и снижает точность против наземных подразделений не скиммеров."/>
+	<entry name="SkyfireDescription" value="Повышает точность против флаеров. Снижает точность против наземных подразделений, которые не являются скиммером, реактивным байком или реактивным ранцем.."/>
 	<entry name="SkyfireFlavor" value="Оружие Небесный огонь превосходно подходит для стрельбы по вражеским самолетам и скиммерам."/>
 	<entry name="SlowAndPurposeful" value="Медленный и целеустремленный"/>
 	<entry name="SlowAndPurposefulDescription" value="Отрицает штраф за тяжелое оружие и артиллерию."/>
@@ -947,6 +1138,9 @@
 	<entry name="SmokeScreen" value="Дымовой экран"/>
 	<entry name="SmokeScreenDescription" value="Позволяет уменьшить урон от дальнего огня."/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
+	<entry name="Sniper" value="Снайпер"/>
+	<entry name="SniperDescription" value="Увеличивает урон и бронепробиваемость пехоты."/>
+	<entry name="SniperFlavor" value="Снайперское оружие—это высокоточный инструмент, используемый для выявления слабых мест цели."/>
 	<entry name="SonicBoom" value="Звуковая стрела"/>
 	<entry name="SonicBoomDescription" value="Увеличивает урон против летунов."/>
 	<entry name="SoulBlaze" value="Пламя души"/>
@@ -995,7 +1189,7 @@
 	<entry name="Summon" value="Призыв"/>
 	<entry name="SummonDescription" value="Классификация"/>
 	<entry name="SuperHeavy" value="Сверхтяжелый"/>
-	<!-- <entry name="SuperHeavyDescription" value="Сверхтяжелые машины взрываются при их уничтожении, нанося ущерб всем соседним подразделениям."/> -->
+	<entry name="SuperHeavyDescription" value="Классификация."/>
 	<entry name="SuperHeavyFlavor" value="Огромные бронированные конструкции, каждая из которых обладает достаточной огневой мощью для разгрома, испарения или сжигания всей армии."/>
 	<entry name="Supersonic" value="Сверхзвуковой"/>
 	<entry name="SupersonicDescription" value="Увеличивает движение."/>
@@ -1074,7 +1268,7 @@
 	<entry name="Tau/MontkaDescription" value="Увеличивает урон при атаке подразделений, имеющих менее 50% очков здоровья."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
 	<entry name="Tau/NetworkedMarkerlight" value="Интегрированный прибор подсветки цели"/>
-	<entry name="Tau/NetworkedMarkerlightDescription" value="Увеличивает наносимый урон и позволяет не замечать снижение урона от дальнего огня выбранному подразделению. Атаки этого подразделения не наносят урона и не уменьшают очки действия выбранного подразделения."/>
+	<entry name="Tau/NetworkedMarkerlightDescription" value="Увеличивает точность дальнего огня и позволяет не замечать снижение урона от дальнего огня выбранному подразделению. Атаки этого подразделения не наносят урона и не уменьшают очки действия выбранного подразделения."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="Эти подсветчики объединены непосредственно с системами вооружения, что позволяет им посылать боеприпасы с высокой точностью."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
 	<entry name="Tau/NovaBoostDescription" value="Увеличивает движение."/>
@@ -1128,7 +1322,7 @@
 	<entry name="Tau/SupportingFireDescription" value="Увеличивает урон от наблюдения за врагом, расположенным рядом с другими союзными подразделениями."/>
 	<entry name="Tau/SupportingFireFlavor" value="Доктрина касты Огня, изложенная в Кодексе Огня, предписывает каждому воину защищать своих товарищей. Используя перекрестный огонь, Команды обеспечивают друг другу эту взаимную поддержку на поле боя."/>
 	<entry name="Tau/TargetAcquired" value="Захват цели"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Увеличивает наносимый урон и уменьшает снижения урона от дальнего огня."/>
+	<entry name="Tau/TargetAcquiredDescription" value="Увеличивает точность дальнего огня Т'ау против врага. Уменьшает снижение урона от дальнего огня  против Т'ау. Заканчивается после того, как отряд атакован Т'ау."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="Ни одна другая раса не стремится к совместной работе так, как Т'ау, и подсветка цели является прекрасным примером этого. Это ручной лазер наведения, который подключен к информационной системе Т'ау, позволяет наносить снайперские удары другими подразделениям Т'ау."/>
 	<entry name="Tau/TidewallShieldline" value="Экранированная стена Волнолом"/>
 	<entry name="Tau/TidewallShieldlineDescription" value="Возвращает атакующему урон от его оружия, которое не является взрывом, временным или колдовским огнем."/>
@@ -1306,7 +1500,7 @@
 	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Уменьшает затраты влияния на содержание."/>
 	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="Разум улья обычно осуществляет строгий контроль над своим роем, направляя все, кроме бессознательных действий,—но ослабив этот контроль, меньшие организмы могут получат достаточные условия, чтобы кормиться самим."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
-	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Уменьшает броню."/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Уменьшает урон."/>
 	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
 	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Уменьшает мораль каждый ход."/>
@@ -1342,13 +1536,15 @@
 	<entry name="TwinLinkedFlavor" value="Для большей точности эти орудия связаны одной и той же системой прицеливания."/>
 	<entry name="Uncommon" value="Редкий"/>
 	<entry name="UncommonDescription" value="Классификация"/>
+	<entry name="Unique" value="Уникальный"/>
+	<entry name="UniqueDescription" value="Ограниченное количество подразделений этого типа."/>
 	<entry name="Unwieldy" value="Неуклюжий"/>
 	<entry name="UnwieldyDescription" value="Снижает точность."/>
 	<entry name="UnwieldyFlavor" value="Это оружие очень большое и более чем неуклюжее, что делает быстрый огонь практически невозможным."/>
 	<entry name="VectoredAfterburners" value="Векторный форсаж"/>
 	<entry name="VectoredAfterburnersDescription" value="Увеличивает скорость передвижения и уменьшает урон от дальнего огня."/>
 	<entry name="Vehicle" value="Техника"/>
-	<entry name="VehicleDescription" value="Отменяет штраф за тяжелое оружие и артиллерию."/>
+	<entry name="VehicleDescription" value="Отменяет штраф за тяжелое оружие и артиллерию. Увеличивает штраф передвижения в лесах и имперских руинах."/>
 	<entry name="VehicleFlavor" value="Война—это не обмен исключительно жизнями солдат, а также могучими военными машинами и танками."/>
 	<entry name="VoidShield" value="Пустотный щит"/>
 	<entry name="VoidShieldDescription" value="Увеличивает снижение урона от дальнего огня."/>
@@ -1359,6 +1555,8 @@
 	<entry name="Waaagh" value="Вааагх!"/>
 	<entry name="WaaaghDescription" value="Увеличивает атаку."/>
 	<entry name="WaaaghFlavor" value="Вааагх! это радость жизни, крестовый поход, огромная психическая сила, осязаемая аура веры и, возможно, сами боги Орков. Всё превращается в один шумный, гудящий рев восхитительной агрессии, гонящий Орков через галактику и требующий от них ввязываться в бой. Это основа бытия Орков."/>
+	<entry name="Walker" value="Шагоход"/>
+	<entry name="WalkerDescription" value="<string name='Traits/DozerBladeDescription'/>"/>
 	<entry name="Weakened" value="Ослабленные"/>
 	<entry name="WeakenedDescription" value="Уменьшает движение и урон."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>

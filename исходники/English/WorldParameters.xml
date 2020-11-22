@@ -26,6 +26,7 @@
 	<entry name="Difficulty0" value="Very Easy"/>
 	<entry name="Difficulty0AstraMilitarum" value="Conscript"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Cultist"/>
+	<entry name="Difficulty0Eldar" value="Guardian"/>
 	<entry name="Difficulty0Necrons" value="Flayed One"/>
 	<entry name="Difficulty0Orks" value="Squig"/>
 	<entry name="Difficulty0Random" value="Very Weak"/>
@@ -36,6 +37,7 @@
 	<entry name="Difficulty1" value="Easy"/>
 	<entry name="Difficulty1AstraMilitarum" value="Guardsman"/>
 	<entry name="Difficulty1ChaosSpaceMarines" value="Spawn"/>
+	<entry name="Difficulty1Eldar" value="Aspect Warrior"/>
 	<entry name="Difficulty1Necrons" value="Warrior"/>
 	<entry name="Difficulty1Orks" value="Grot"/>
 	<entry name="Difficulty1Random" value="Weak"/>
@@ -46,6 +48,7 @@
 	<entry name="Difficulty2" value="Medium"/>
 	<entry name="Difficulty2AstraMilitarum" value="Sergeant"/>
 	<entry name="Difficulty2ChaosSpaceMarines" value="Fallen Brother"/>
+	<entry name="Difficulty2Eldar" value="Ranger"/>
 	<entry name="Difficulty2Necrons" value="Immortal"/>
 	<entry name="Difficulty2Orks" value="Boy"/>
 	<entry name="Difficulty2Random" value="Average"/>
@@ -56,6 +59,7 @@
 	<entry name="Difficulty3" value="Hard"/>
 	<entry name="Difficulty3AstraMilitarum" value="Commissar"/>
 	<entry name="Difficulty3ChaosSpaceMarines" value="Champion of Chaos"/>
+	<entry name="Difficulty3Eldar" value="Exarch"/>
 	<entry name="Difficulty3Necrons" value="Triarch Praetorian"/>
 	<entry name="Difficulty3Orks" value="Nob"/>
 	<entry name="Difficulty3Random" value="Strong"/>
@@ -66,6 +70,7 @@
 	<entry name="Difficulty4" value="Very Hard"/>
 	<entry name="Difficulty4AstraMilitarum" value="General"/>
 	<entry name="Difficulty4ChaosSpaceMarines" value="Chaos Lord"/>
+	<entry name="Difficulty4Eldar" value="Autarch"/>
 	<entry name="Difficulty4Necrons" value="Cryptek"/>
 	<entry name="Difficulty4Orks" value="Boss"/>
 	<entry name="Difficulty4Random" value="Very Strong"/>
@@ -76,6 +81,7 @@
 	<entry name="Difficulty5" value="Ultra Hard"/>
 	<entry name="Difficulty5AstraMilitarum" value="Lord Commander"/>
 	<entry name="Difficulty5ChaosSpaceMarines" value="Daemon Prince"/>
+	<entry name="Difficulty5Eldar" value="Farseer"/>
 	<entry name="Difficulty5Necrons" value="Overlord"/>
 	<entry name="Difficulty5Orks" value="Warboss"/>
 	<entry name="Difficulty5Random" value="Ultra Strong"/>
@@ -86,6 +92,7 @@
 	<entry name="Difficulty6" value="Impossible"/>
 	<entry name="Difficulty6AstraMilitarum" value="Warmaster"/>
 	<entry name="Difficulty6ChaosSpaceMarines" value="Dark God"/>
+	<entry name="Difficulty6Eldar" value="Avatar"/>
 	<entry name="Difficulty6Necrons" value="Silent King"/>
 	<entry name="Difficulty6Orks" value="Prophet of Gork and Mork"/>
 	<entry name="Difficulty6Random" value="Invincible"/>
@@ -197,6 +204,7 @@
 	<entry name="Supplement4" value="Fortification Pack DLC"/>
 	<entry name="Supplement5" value="T'au DLC"/>
 	<entry name="Supplement6" value="Assault Pack DLC"/>
+	<entry name="Supplement7" value="Craftworld Aeldari DLC"/>
 	<entry name="TropicalRegionDensity" value="Tropical Region Density"/>
 	<entry name="TropicalRegionDensity0" value="None"/>
 	<entry name="TropicalRegionDensity1" value="Very Low"/>
@@ -211,6 +219,12 @@
 	<entry name="TurnTimer3" value="Moderate (3 minutes)"/>
 	<entry name="TurnTimer4" value="Long (4 minutes)"/>
 	<entry name="TurnTimer5" value="Very Long (5 minutes)"/>
+	<entry name="WebwayGateDensity" value="Webway Gate Density"/>
+	<entry name="WebwayGateDensity0" value="Very Low"/>
+	<entry name="WebwayGateDensity1" value="Low"/>
+	<entry name="WebwayGateDensity2" value="Medium"/>
+	<entry name="WebwayGateDensity3" value="High"/>
+	<entry name="WebwayGateDensity4" value="Very High"/>	
 	<entry name="WildlifeDensity" value="Wildlife Density"/>
 	<entry name="WildlifeDensity0" value="Very Low"/>
 	<entry name="WildlifeDensity1" value="Low"/>

@@ -21,6 +21,7 @@
 	<entry name="Battle" value="Битва"/>
 	<entry name="BindingHint" value="[Левая кнопка мыши], чтобы изменить привязку.<br/><style color='GUI/Yellow'/>[Средняя кнопка мыши], чтобы добавить новую привязку.<br/><style color='GUI/Red'/>[Правая кнопка мыши], чтобы удалить привязку."/>
 	<entry name="Buildings" value="Здания"/>
+	<entry name="BuildingsConstructed" value="Построенные здания"/>
 	<entry name="CannotDisembarkThisTurn" value="Нельзя выгрузить на этом ходу."/>
 	<entry name="Cancel" value="Отмена"/>
 	<entry name="Cargo" value="Груз"/>
@@ -43,23 +44,29 @@
 	<entry name="Cooldown" value="Время перезарядки"/>
 	<entry name="Copy" value="Копировать"/>
 	<entry name="Cost" value="Цена"/>
+	<entry name="Create" value="Создать"/>
 	<entry name="Credits" value="Создатели игры"/>
 	<entry name="DLC" value="DLC"/>
 	<entry name="DLCNotEnabled" value="<style color='GUI/Red'/>%1% не доступен для этой игры. Включите его в расширенных настройках игрового лобби перед началом новой игры."/>
 	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% не установлено."/>
+	<entry name="DamageDealt" value="Нанесенный урон"/>
+	<entry name="DamageTaken" value="Полученный урон"/>
 	<entry name="Debug" value="Отладка"/>
 	<entry name="Default" value="По умолчанию"/>
 	<entry name="Defeated" value="Побежден"/>
 	<entry name="Delete" value="Удалить"/>
+	<entry name="Details" value="Подробные сведения"/>
 	<entry name="DirectConnect" value="Прямое соединение"/>
 	<entry name="DisableBuildingHint" value="Отключить здание этого типа, освободив работников для других зданий."/>
 	<entry name="DisableTips" value="Отключить советы"/>
 	<entry name="DisableTipsHint" value="Не показывать всплывающие подсказки. Вы можете повторно включить их на панели настроек."/>
 	<entry name="Disconnected" value="Разъединенный"/>
 	<entry name="DismissReports" value="Отклонить всё (%1%)"/>
-	<entry name="DragToChangeLoadOrder" value="Перетащите, чтобы изменить порядок загрузки."/>
+	<entry name="DragToChangeLoadOrder" value="Перетащите, чтобы изменить приоритет загрузки."/>
 	<entry name="Economy" value="Экономика"/>
 	<entry name="Edicts" value="Эдикты"/>
+	<entry name="EldarCityPowers" value="Путь Азуриана"/>
+	<entry name="EldarPlayerPowers" value="Контроль Паутины"/>
 	<entry name="Elite" value="Элита"/>
 	<entry name="EnableBuildingHint" value="Включите здание этого типа, выделив для него работников."/>
 	<entry name="EnableMod" value="Включить мод."/>
@@ -85,10 +92,10 @@
 	<entry name="GameLobby" value="Лобби игры"/>
 	<entry name="Games" value="Игры"/>
 	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
-	<entry name="HoldKeyForMeleeAttack" value="Удерживайте Ctrl, чтобы ускорить ближний бой."/>
+	<entry name="HoldKeyForMeleeAttack" value="Удерживайте Ctrl для максимального урона"/>
 	<entry name="HoldKeyToKeepVisible" value="Удерживайте Shift, чтобы оставаться видимым."/>
 	<entry name="HoldKeyToShowOpponentAttack" value="Удерживайте Alt, чтобы показать атаки противника."/>
-	<entry name="HotseatNotAvailable" value="Хотсит не доступен при одновременных ходах."/>
+	<entry name="HotseatNotAvailable" value="<style color='GUI/Red'/>Пожалуйста, отключите одновременные ходы в расширенных настройках, чтобы разрешить режим Хотсита."/>
 	<entry name="Host" value="Хост"/>
 	<entry name="Inaccessible" value="Недоступный"/>
 	<entry name="IncompatibleVersion" value="Несовместимая версия"/>
@@ -97,17 +104,19 @@
 	<entry name="IntroductionGame" value="Учебная игра"/>
 	<entry name="IntroductionGameHint" value="Начните обучающую игру за Космический Десант на самой легкой сложности."/>
 	<entry name="InviteFriend" value="Пригласить друга"/>
-	<entry name="InviteFriendHint" value="<style color='GUI/Yellow'/>Steam может отправлять приглашение друзьям, только если настройки конфиденциальности вашего профиля (детали игры) не установлены на приватные."/>
-	<entry name="InviteFriendDisabledHint" value="Хост не работает со Steam версией или создание игры в Steam недоступно."/>
+	<entry name="InviteFriendHint" value="<style color='GUI/Yellow'/> Из Steam можно отправлять приглашение друзьям, только если настройки конфиденциальности вашего профиля (детали игры) не установлены на приватные."/>
+	<entry name="InviteFriendDisabledHint" value="Хост не работает со Steam версией или создание такой игры в Steam недоступно."/>
 	<entry name="Invulnerable" value="Неуязвимый"/>
 	<entry name="ItemShop" value="Магазин предметов"/>
 	<entry name="Items" value="Предметы"/>
 	<entry name="Join" value="Присоединиться"/>
 	<entry name="JustOneMoreTurn" value="Подождите! Еще пару... ходов"/>
-	<entry name="LevelHint" value="%1%/%2% опыт<br/>(%3% значение опыта до смерти)"/>
+	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% опыт<br/><icon texture='GUI/Bullet'/>%3% значение опыта до смерти"/>
+	<entry name="LimitReached" value="Достигнут предел."/>
 	<entry name="Load" value="Загрузить"/>
 	<entry name="LoadGame" value="Загрузить игру"/>
 	<entry name="MainMenu" value="Главное меню"/>
+	<entry name="MarkTileHint" value="<style name='Heading'/>Маркировка Плитки [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Поставьте маркер для союзников. Союзный ИИ будет стремиться перемещать свои отряды к маркерам."/>
 	<entry name="MarksOfChaos" value="Знаки Хаоса"/>
 	<entry name="Max" value="max"/>
 	<entry name="Menu" value="Меню"/>
@@ -142,6 +151,7 @@
 	<entry name="OrderUnits" value="Приказ подразделению (%1%)"/>
 	<entry name="OrderUnitsHint" value="Выберите следующее подразделение [<control name='Controls/NextTask'/>]."/>
 	<entry name="Overwrite" value="Перезаписать"/>
+	<entry name="PauseTurnTimer" value="Таймер паузы"/>
 	<entry name="Parameters" value="Параметры"/>
 	<entry name="Passive" value="Пассивный"/>
 	<entry name="PassiveAction" value="Пассивное действие"/>
@@ -190,6 +200,7 @@
 	<entry name="ResourceShortageTitle" value="Недостаток ресурсов"/>
 	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% дефицит"/>
 	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% всего"/>
+	<entry name="ResourcesAccumulated" value="Накопленные ресурсы"/>
 	<entry name="Restart" value="Рестарт"/>
 	<entry name="RestartScenario" value="Рестарт сценария"/>
 	<entry name="RestoreDefaults" value="Значения по умолчанию"/>
@@ -220,6 +231,7 @@
 	<entry name="Social" value="Общественный"/>
 	<entry name="Spectating" value="Наблюдение"/>
 	<entry name="Start" value="Начать"/>
+	<entry name="Stats" value="Статистика"/>
 	<entry name="SteamWorkshop" value="Steam Workshop"/>
 	<entry name="Surrender" value="Капитулировать"/>
 	<entry name="TauPowers" value="Просветление и единство"/>
@@ -242,12 +254,16 @@
 	<entry name="Total" value="Общий"/>
 	<entry name="Traits" value="Особенности подразделений"/>
 	<entry name="Turn" value="Ход"/>
-	<entry name="UnitsKilled" value="%2% %1% убито на Гладиусе"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
-	<entry name="UnitsKilledByPlayer" value="Вы убили: %2%"/>
 	<entry name="UnclaimedItems" value="Невостребованные предметы"/>
 	<entry name="Unexplored" value="Неизученный"/>
 	<entry name="UnholyRites" value="Нечестивые Обряды"/>
 	<entry name="Units" value="Подразделение"/>
+	<entry name="UnitsCreated" value="Создано подразделений"/>
+	<entry name="UnitsLost" value="Потеряно подразделений"/>
+	<entry name="UnitsKilled" value="Убито подразделений"/>
+	<entry name="UnitsKilledByPlayer" value="Вы убили: %2%"/>
+	<entry name="UnitsKilledOnGladius" value="%2% %1% убито на Гладиусе"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
+	<entry name="UnpauseTurnTimer" value="Время без паузы"/>
 	<entry name="Unready" value="Не готов"/>
 	<entry name="Upgrades" value="Модернизация"/>
 	<entry name="Upkeep" value="Содержание"/>

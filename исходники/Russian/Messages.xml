@@ -5,6 +5,7 @@
 	<entry name="ConfirmOverwrite" value="Вы уверены, что хотите переписать “%1%”?"/>
 	<entry name="ConfirmRemoveItem" value="Вы уверены, что хотите уничтожить “%1%”?"/>
 	<entry name="ConfirmRestoreDefaults" value="Вы уверены, что хотите восстановить настройки по умолчанию %1% ?"/>
+	<entry name="ConfirmSurrender" value="Вы уверены, что хотите сдаться?"/>
 	<entry name="ConnectingToServer" value="Подключение к серверу ..."/>
 	<entry name="ConnectionLost" value="Соединение потеряно."/>
 	<entry name="Error" value="Ошибка"/>
@@ -37,6 +38,8 @@
 	<entry name="SelectTarget" value="Выбор цели действия"/>
 	<entry name="TerminatedWithDisableMods" value="Моды были отключены из-за сбоя. Посетите экран модов, чтобы снова включить их."/>
 	<entry name="TermsAndConditions" value="Правила и условия"/>
+	<entry name="TurnTimerPaused" value="%1% время паузы."/>
+	<entry name="TurnTimerUnpaused" value="%1% время без паузы."/>
 	<entry name="UnboundControl" value="Привязки будут удалены у %1%."/>
 	<entry name="Warning" value="Предупреждение"/>
 </language>

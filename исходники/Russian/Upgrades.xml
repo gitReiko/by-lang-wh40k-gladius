@@ -47,6 +47,27 @@
 	<entry name="ChaosSpaceMarines/Vehicles" value="<string name='Buildings/ChaosSpaceMarines/Vehicles'/>"/>
 	<entry name="ChaosSpaceMarines/VehiclesDescription" value="<string name='Buildings/ChaosSpaceMarines/VehiclesDescription'/>"/>
 	<entry name="ChaosSpaceMarines/VehiclesFlavor" value="<string name='Buildings/ChaosSpaceMarines/VehiclesFlavor'/>"/>
+	<entry name="Eldar/Aircraft" value="<string name='Buildings/Eldar/Aircraft'/>"/>
+	<entry name="Eldar/AircraftDescription" value="<string name='Buildings/Eldar/AircraftDescription'/>"/>
+	<entry name="Eldar/AircraftFlavor" value="<string name='Buildings/Eldar/AircraftFlavor'/>"/>
+	<entry name="Eldar/Construction" value="<string name='Buildings/Eldar/Construction'/>"/>
+	<entry name="Eldar/ConstructionDescription" value="<string name='Buildings/Eldar/ConstructionDescription'/>"/>
+	<entry name="Eldar/ConstructionFlavor" value="<string name='Buildings/Eldar/ConstructionFlavor'/>"/>
+	<entry name="Eldar/Heroes" value="<string name='Buildings/Eldar/Heroes'/>"/>
+	<entry name="Eldar/HeroesDescription" value="<string name='Buildings/Eldar/HeroesDescription'/>"/>
+	<entry name="Eldar/HeroesFlavor" value="<string name='Buildings/Eldar/HeroesFlavor'/>"/>
+	<entry name="Eldar/Housing" value="<string name='Buildings/Eldar/Housing'/>"/>
+	<entry name="Eldar/HousingDescription" value="<string name='Buildings/Eldar/HousingDescription'/>"/>
+	<entry name="Eldar/HousingFlavor" value="<string name='Buildings/Eldar/HousingFlavor'/>"/>
+	<entry name="Eldar/Infantry" value="<string name='Buildings/Eldar/Infantry'/>"/>
+	<entry name="Eldar/InfantryDescription" value="<string name='Buildings/Eldar/InfantryDescription'/>"/>
+	<entry name="Eldar/InfantryFlavor" value="<string name='Buildings/Eldar/InfantryFlavor'/>"/>
+	<entry name="Eldar/Loyalty" value="<string name='Buildings/Eldar/Loyalty'/>"/>
+	<entry name="Eldar/LoyaltyDescription" value="<string name='Buildings/Eldar/LoyaltyDescription'/>"/>
+	<entry name="Eldar/LoyaltyFlavor" value="<string name='Buildings/Eldar/LoyaltyFlavor'/>"/>
+	<entry name="Eldar/Vehicles" value="<string name='Buildings/Eldar/Vehicles'/>"/>
+	<entry name="Eldar/VehiclesDescription" value="<string name='Buildings/Eldar/VehiclesDescription'/>"/>
+	<entry name="Eldar/VehiclesFlavor" value="<string name='Buildings/Eldar/VehiclesFlavor'/>"/>
 	<entry name="Necrons/Aircraft" value="<string name='Buildings/Necrons/Aircraft'/>"/>
 	<entry name="Necrons/AircraftDescription" value="<string name='Buildings/Necrons/AircraftDescription'/>"/>
 	<entry name="Necrons/AircraftFlavor" value="<string name='Buildings/Necrons/AircraftFlavor'/>"/>
@@ -279,6 +300,48 @@
 	<entry name="ChaosSpaceMarines/WarpTalon" value="<string name='Units/ChaosSpaceMarines/WarpTalon'/>"/>
 	<entry name="ChaosSpaceMarines/WarpTalonDescription" value="<string name='Units/ChaosSpaceMarines/WarpTalonDescription'/>"/>
 	<entry name="ChaosSpaceMarines/WarpTalonFlavor" value="<string name='Units/ChaosSpaceMarines/WarpTalonFlavor'/>"/>
+	<entry name="Eldar/AvatarOfKhaine" value="<string name='Units/Eldar/AvatarOfKhaine'/>"/>
+	<entry name="Eldar/AvatarOfKhaineDescription" value="<string name='Units/Eldar/AvatarOfKhaineDescription'/>"/>
+	<entry name="Eldar/AvatarOfKhaineFlavor" value="<string name='Units/Eldar/AvatarOfKhaineFlavor'/>"/>
+	<entry name="Eldar/FarseerSkyrunner" value="<string name='Units/Eldar/FarseerSkyrunner'/>"/>
+	<entry name="Eldar/FarseerSkyrunnerDescription" value="<string name='Units/Eldar/FarseerSkyrunnerDescription'/>"/>
+	<entry name="Eldar/FarseerSkyrunnerFlavor" value="<string name='Units/Eldar/FarseerSkyrunnerFlavor'/>"/>
+	<entry name="Eldar/FireDragon" value="<string name='Units/Eldar/FireDragon'/>"/>
+	<entry name="Eldar/FireDragonDescription" value="<string name='Units/Eldar/FireDragonDescription'/>"/>
+	<entry name="Eldar/FireDragonFlavor" value="<string name='Units/Eldar/FireDragonFlavor'/>"/>
+	<entry name="Eldar/FirePrism" value="<string name='Units/Eldar/FirePrism'/>"/>
+	<entry name="Eldar/FirePrismDescription" value="<string name='Units/Eldar/FirePrismDescription'/>"/>
+	<entry name="Eldar/FirePrismFlavor" value="<string name='Units/Eldar/FirePrismFlavor'/>"/>
+	<entry name="Eldar/HemlockWraithfighter" value="<string name='Units/Eldar/HemlockWraithfighter'/>"/>
+	<entry name="Eldar/HemlockWraithfighterDescription" value="<string name='Units/Eldar/HemlockWraithfighterDescription'/>"/>
+	<entry name="Eldar/HemlockWraithfighterFlavor" value="<string name='Units/Eldar/HemlockWraithfighterFlavor'/>"/>
+	<entry name="Eldar/HowlingBanshee" value="<string name='Units/Eldar/HowlingBanshee'/>"/>
+	<entry name="Eldar/HowlingBansheeDescription" value="<string name='Units/Eldar/HowlingBansheeDescription'/>"/>
+	<entry name="Eldar/HowlingBansheeFlavor" value="<string name='Units/Eldar/HowlingBansheeFlavor'/>"/>
+	<entry name="Eldar/Ranger" value="<string name='Units/Eldar/Ranger'/>"/>
+	<entry name="Eldar/RangerDescription" value="<string name='Units/Eldar/RangerDescription'/>"/>
+	<entry name="Eldar/RangerFlavor" value="<string name='Units/Eldar/RangerFlavor'/>"/>
+	<entry name="Eldar/Scorpion" value="<string name='Units/Eldar/Scorpion'/>"/>
+	<entry name="Eldar/ScorpionDescription" value="<string name='Units/Eldar/ScorpionDescription'/>"/>
+	<entry name="Eldar/ScorpionFlavor" value="<string name='Units/Eldar/ScorpionFlavor'/>"/>
+	<entry name="Eldar/Spiritseer" value="<string name='Units/Eldar/Spiritseer'/>"/>
+	<entry name="Eldar/SpiritseerDescription" value="<string name='Units/Eldar/SpiritseerDescription'/>"/>
+	<entry name="Eldar/SpiritseerFlavor" value="<string name='Units/Eldar/SpiritseerFlavor'/>"/>
+	<entry name="Eldar/VaulsWrathSupportBattery" value="<string name='Units/Eldar/VaulsWrathSupportBattery'/>"/>
+	<entry name="Eldar/VaulsWrathSupportBatteryDescription" value="<string name='Units/Eldar/VaulsWrathSupportBatteryDescription'/>"/>
+	<entry name="Eldar/VaulsWrathSupportBatteryFlavor" value="<string name='Units/Eldar/VaulsWrathSupportBatteryFlavor'/>"/>
+	<entry name="Eldar/WarWalker" value="<string name='Units/Eldar/WarWalker'/>"/>
+	<entry name="Eldar/WarWalkerDescription" value="<string name='Units/Eldar/WarWalkerDescription'/>"/>
+	<entry name="Eldar/WarWalkerFlavor" value="<string name='Units/Eldar/WarWalkerFlavor'/>"/>
+	<entry name="Eldar/WaveSerpent" value="<string name='Units/Eldar/WaveSerpent'/>"/>
+	<entry name="Eldar/WaveSerpentDescription" value="<string name='Units/Eldar/WaveSerpentDescription'/>"/>
+	<entry name="Eldar/WaveSerpentFlavor" value="<string name='Units/Eldar/WaveSerpentFlavor'/>"/>
+	<entry name="Eldar/Wraithblade" value="<string name='Units/Eldar/Wraithblade'/>"/>
+	<entry name="Eldar/WraithbladeDescription" value="<string name='Units/Eldar/WraithbladeDescription'/>"/>
+	<entry name="Eldar/WraithbladeFlavor" value="<string name='Units/Eldar/WraithbladeFlavor'/>"/>
+	<entry name="Eldar/Wraithknight" value="<string name='Units/Eldar/Wraithknight'/>"/>
+	<entry name="Eldar/WraithknightDescription" value="<string name='Units/Eldar/WraithknightDescription'/>"/>
+	<entry name="Eldar/WraithknightFlavor" value="<string name='Units/Eldar/WraithknightFlavor'/>"/>
 	<entry name="Necrons/AnnihilationBarge" value="<string name='Units/Necrons/AnnihilationBarge'/>"/>
 	<entry name="Necrons/AnnihilationBargeDescription" value="<string name='Units/Necrons/AnnihilationBargeDescription'/>"/>
 	<entry name="Necrons/AnnihilationBargeFlavor" value="<string name='Units/Necrons/AnnihilationBargeFlavor'/>"/>
@@ -490,7 +553,7 @@
 	<entry name="Tau/SunSharkBomberDescription" value="<string name='Units/Tau/SunSharkBomberDescription'/>"/>
 	<entry name="Tau/SunSharkBomberFlavor" value="<string name='Units/Tau/SunSharkBomberFlavor'/>"/>
 	<entry name="Tau/TidewallGunrig" value="<string name='Units/Tau/TidewallGunrig'/>"/>
-	<entry name="Tau/TidewallGunrigDescription" value="<string name='Units/Tau/TidewallGunrigDescription'/>"/>
+	<entry name="Tau/TidewallGunrigDescription" value="Предоставляет дронам-строителям возможность построить хорошо вооруженное укрепление, которое можно использовать для перебраски войск."/>
 	<entry name="Tau/TidewallGunrigFlavor" value="<string name='Units/Tau/TidewallGunrigFlavor'/>"/>
 	<entry name="Tyranids/Biovore" value="<string name='Units/Tyranids/Biovore'/>"/>
 	<entry name="Tyranids/BiovoreDescription" value="<string name='Units/Tyranids/BiovoreDescription'/>"/>
@@ -651,7 +714,7 @@
 	<entry name="ChaosSpaceMarines/CrystallineBodyDescription" value="Предоставляет Чемпионам Хаоса шанс получить постоянное увеличение Очков здоровья при убийстве врага (Благословение Хаоса)."/>
 	<entry name="ChaosSpaceMarines/CrystallineBodyFlavor" value="<string name='Traits/ChaosSpaceMarines/CrystallineBodyFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/DirgeCaster" value="<string name='Actions/ChaosSpaceMarines/DirgeCaster'/>"/>
-	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Предоставляет Носорогам Хаоса и Осквернителям способность предотвращать атаки из засад."/>
+	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Предоставляет Носорогам Хаоса, Осквернителям и Лендрейдерам Хаоса способность предотвращать атаки из засад."/>
 	<entry name="ChaosSpaceMarines/DirgeCasterFlavor" value="<string name='Actions/ChaosSpaceMarines/DirgeCasterFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="ChaosSpaceMarines/ExtraInfantryArmourDescription" value="Увеличивает броню пехоты."/>
@@ -669,7 +732,7 @@
 	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дает Князь-Демонам, Осквернителям, Хельбрутам, Изверг-истязателям, Злобным ползунам и Варповым когтям возможность совершать более разрушительные атаки."/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncher" value="<string name='Weapons/HavocLauncher'/>"/>
-	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Предоставляет Носорогам Хаоса оружие средней дальности."/>
+	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Предоставляет Носорогам Хаоса и Лендрейдерам Хаоса оружие средней дальности."/>
 	<entry name="ChaosSpaceMarines/HavocLauncherFlavor" value="<string name='Weapons/HavocLauncherFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfDespair" value="<string name='Actions/ChaosSpaceMarines/IconOfDespair'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="<string name='Actions/ChaosSpaceMarines/IconOfDespairDescription'/>"/>
@@ -729,7 +792,7 @@
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasureDescription'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasureFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
-	<entry name="ChaosSpaceMarines/SmokeLauncherDescription" value="Предоставляет Носорогам Хаоса и Осквернителям возможность поставить дымовую завесу, которая увеличивает уменьшение урона от дальнего огня."/>
+	<entry name="ChaosSpaceMarines/SmokeLauncherDescription" value="Предоставляет Носорогам Хаоса, Осквернителям и Лендрейдерам Хаоса возможность поставить дымовую завесу, которая увеличивает уменьшение урона от дальнего огня."/>
 	<entry name="ChaosSpaceMarines/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/TemporalDistortion" value="<string name='Traits/ChaosSpaceMarines/TemporalDistortion'/>"/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Предоставляет Чемпионам Хаоса шанс получить постоянное увеличение движения при убийстве врага (Благословение Хаоса)."/>
@@ -738,12 +801,123 @@
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Увеличивает мораль и точность пехоты в ближнем бою против подразделений фракции Космических Десантников."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWarFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoyles" value="Варп-пламенная горгулья"/>
-	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Позволяет через раз наносить урон оружием Носорога Хаоса и Осквернителя."/>
+	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Позволяет через раз наносить урон оружием Носорога Хаоса, Осквернителя и Лендрейдера Хаоса."/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoylesFlavor" value="Жерла орудий на этой машине мерцают неестественным огнем."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzy" value="<string name='Traits/ChaosSpaceMarines/WarpFrenzy'/>"/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Предоставляет Чемпионам шанс получить постоянное увеличение силы атаки при убийстве врага (Благословение Хаоса)."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyFlavor" value="<string name='Traits/ChaosSpaceMarines/WarpFrenzyFlavor'/>"/>
 	<entry name="CompendiumFlavor" value="Каждая фракция расширяет городах по разному. Иногда, Варбосс Орков приказывает Парням поднять его в буквальном смысле слова и перенести его дальше за защитные стены, или, возможно, Лорд Некронов приказывает своим рабам раскапывать их древние гробницы от поверхности планеты еще дальше. Тем не менее, все делают то, что необходимо для того, чтобы освободить место для новых зданий, которые расширяют возможности их фракции."/>
+	<entry name="Eldar/AircraftBuildingBonus" value="<string name='Traits/Eldar/AircraftBuildingBonus'/>"/>
+	<entry name="Eldar/AircraftBuildingBonusDescription" value="Увеличивает производство Спиралей портала."/>
+	<entry name="Eldar/AircraftBuildingBonusFlavor" value="<string name='Traits/Eldar/AircraftBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/AssaultWeaponBonus" value="<string name='Traits/Eldar/AssaultWeaponBonus'/>"/>
+	<entry name="Eldar/AssaultWeaponBonusDescription" value="Увеличивает бронепробиваемость штурмового оружия."/>
+	<entry name="Eldar/AssaultWeaponBonusFlavor" value="<string name='Traits/Eldar/AssaultWeaponBonusFlavor'/>"/>
+	<entry name="Eldar/AsuryaniArrivalsBonus" value="Призыв Провидца"/>
+	<entry name="Eldar/AsuryaniArrivalsBonusDescription" value="Снижает стоимость Прибытия Азуриан."/>
+	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="Мое слово—больше, чем просто совет: это проклятие, пропущенное через сознание наших легендарных мертвецов, стремящихся навести хоть на йоту порядок в беспорядочной вселенной. Наша раса понимает это и прислушивается к моему слову не как к диктатору, а просто как внимательный ученик.”<br/>  — Провидец Катаймон из Малантаи"/>
+	<entry name="Eldar/AsuryaniArrivalsBonus2" value="Обещание миров-кораблей"/>
+	<entry name="Eldar/AsuryaniArrivalsBonus2Description" value="Уменьшает время перезарядки Призыва Азуриан."/>
+	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="Когда Чернокнижники и Провидцы нескольких миров-кораблей разделяют видение—буквальное видение будущего, разума,—тогда они и их миры-корабли работают как одно целое. Они открывают свои собственные чертоги жизни и духа, чтобы выполнить свое обещание этому будущему.”<br/>  — Стенограмма лекций Григомен Делра, Вольного торговца и любителя-ксенолога"/>
+	<entry name="Eldar/CityTier2" value="<string name='Traits/Eldar/CityTier2'/>"/>
+	<entry name="Eldar/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
+	<entry name="Eldar/CityTier2Flavor" value="<string name='Traits/Eldar/CityTier2Flavor'/>"/>
+	<entry name="Eldar/CityTier3" value="<string name='Traits/Eldar/CityTier3'/>"/>
+	<entry name="Eldar/CityTier3Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
+	<entry name="Eldar/CityTier3Flavor" value="<string name='Traits/Eldar/CityTier3Flavor'/>"/>
+	<entry name="Eldar/ConstructionBuildingBonus" value="<string name='Traits/Eldar/ConstructionBuildingBonus'/>"/>
+	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Увеличивает объем производства в Часовнях Костопевцев."/>
+	<entry name="Eldar/ConstructionBuildingBonusFlavor" value="<string name='Traits/Eldar/ConstructionBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/CrackShot" value="<string name='Traits/Eldar/CrackShot'/>"/>
+	<entry name="Eldar/CrackShotDescription" value="Увеличивает точность и бронепробиваемость Огненных драконов."/>
+	<entry name="Eldar/CrackShotFlavor" value="<string name='Traits/Eldar/CrackShotFlavor'/>"/>
+	<entry name="Eldar/CrystalTargetingMatrix" value="<string name='Traits/Eldar/CrystalTargetingMatrix'/>"/>
+	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Дает Волновым змеям, Огненным призмам и боевым Шагоходам способность временно повышать их точность."/>
+	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="<string name='Traits/Eldar/CrystalTargetingMatrixFlavor'/>"/>
+	<entry name="Eldar/Dominate" value="<string name='Actions/Dominate'/>"/>
+	<entry name="Eldar/DominateDescription" value="Предоставляет истребителю Болиголов возможность оглушать вражеские подразделения, которые не являются ни техникой, ни укреплениями."/>
+	<entry name="Eldar/DominateFlavor" value="<string name='Actions/DominateFlavor'/>"/>
+	<entry name="Eldar/ExpertHunter" value="<string name='Traits/Eldar/ExpertHunter'/>"/>
+	<entry name="Eldar/ExpertHunterDescription" value="Увеличивает урон Странников против монструозных созданий, техники и укреплений."/>
+	<entry name="Eldar/ExpertHunterFlavor" value="<string name='Traits/Eldar/ExpertHunterFlavor'/>"/>
+	<entry name="Eldar/ExtraInfantryArmour" value="Лабиринтианская сетчатая броня"/>
+	<entry name="Eldar/ExtraInfantryArmourDescription" value="Повышает броню пехоты."/>
+	<entry name="Eldar/ExtraInfantryArmourFlavor" value="Броня из термопластической сетки Эльдар предназначена не только для защиты—она также позволяет носителю перемещаться так же свободно, как если бы ее не было. Однако за счет использования её сложных протоколов рассеивания можно повысить её устойчивость без потери подвижности."/>
+	<entry name="Eldar/ExtraVehicleArmour" value="Инфузия Призрачной кости"/>
+	<entry name="Eldar/ExtraVehicleArmourDescription" value="Повышает броню техники."/>
+	<entry name="Eldar/ExtraVehicleArmourFlavor" value="Все машины и сооружения Эльдар буквально «спеты» для реальности Костопевцами, чье владение своим вокальным и психическим диапазоном является конструктивным эквивалентом боевого клича Воющей Баньши. Тем не менее, благодаря ресурсам Гладиус Прайм и изменению их внутренней гармонии, Костопевцы могут вкладывать большую силу в свои творения, еще больше повышая их устойчивость."/>
+	<entry name="Eldar/FoodBuildingBonus" value="<string name='Traits/Eldar/FoodBuildingBonus'/>"/>
+	<entry name="Eldar/FoodBuildingBonusDescription" value="Увеличивает производство еды в садах Иши."/>
+	<entry name="Eldar/FoodBuildingBonusFlavor" value="<string name='Traits/Eldar/FoodBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/GhostwalkMatrix" value="Матрица Призрачного пути"/>
+	<entry name="Eldar/GhostwalkMatrixDescription" value="Позволяет Волновым змеям, Огненным призмам и боевым шагоходам проходить сквозь укрытия."/>
+	<entry name="Eldar/GhostwalkMatrixFlavor" value="Матрица призрачного пути использует знания и мудрость, содержащиеся в камне душ, чтобы направлять технику на правильны путь."/>
+	<entry name="Eldar/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="Eldar/HammerOfWrathDescription" value="Предоставляет Сияющим Копьям, Провидцам Оседлавшим ветер, Аватару Кхейна и Призрачным Рыцарям возможность выполнять более разрушительные атаки."/>
+	<entry name="Eldar/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Eldar/HeavyWeaponBonus" value="<string name='Traits/Eldar/HeavyWeaponBonus'/>"/>
+	<entry name="Eldar/HeavyWeaponBonusDescription" value="Увеличивает бронепробиваемость тяжелого оружия."/>
+	<entry name="Eldar/HeavyWeaponBonusFlavor" value="<string name='Traits/Eldar/HeavyWeaponBonusFlavor'/>"/>
+	<entry name="Eldar/HoloFields" value="<string name='Traits/Eldar/HoloFields'/>"/>
+	<entry name="Eldar/HoloFieldsDescription" value="Дает снижение урона от неуязвимости Волновым змеям, Огненным призмам и боевым шагоходам после перемещения."/>
+	<entry name="Eldar/HoloFieldsFlavor" value="<string name='Traits/Eldar/HoloFieldsFlavor'/>"/>
+	<entry name="Eldar/InfantryBuildingBonus" value="<string name='Traits/Eldar/InfantryBuildingBonus'/>"/>
+	<entry name="Eldar/InfantryBuildingBonusDescription" value="Увеличивает производство Горнил Азуриана."/>
+	<entry name="Eldar/InfantryBuildingBonusFlavor" value="<string name='Traits/Eldar/InfantryBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/InfluenceBuildingBonus" value="<string name='Traits/Eldar/InfluenceBuildingBonus'/>"/>
+	<entry name="Eldar/InfluenceBuildingBonusDescription" value="Увеличивает влияние Купола Провидцев."/>
+	<entry name="Eldar/InfluenceBuildingBonusFlavor" value="<string name='Traits/Eldar/InfluenceBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/MarksmansEye" value="<string name='Traits/Eldar/MarksmansEye'/>"/>
+	<entry name="Eldar/MarksmansEyeDescription" value="Повышает точность Багровых охотников."/>
+	<entry name="Eldar/MarksmansEyeFlavor" value="<string name='Traits/Eldar/MarksmansEyeFlavor'/>"/>
+	<entry name="Eldar/MeleeWeaponBonus" value="<string name='Traits/Eldar/MeleeWeaponBonus'/>"/>
+	<entry name="Eldar/MeleeWeaponBonusDescription" value="Увеличивает бронепробиваемость оружия ближнего боя."/>
+	<entry name="Eldar/MeleeWeaponBonusFlavor" value="<string name='Traits/Eldar/MeleeWeaponBonusFlavor'/>"/>
+	<entry name="Eldar/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
+	<entry name="Eldar/MeltaBombDescription" value="Предоставляет Огненным драконам возможность использовать мелта-бомбу, которая очень эффективна против тяжелой техники и укреплений."/>
+	<entry name="Eldar/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
+	<entry name="Eldar/OreBuildingBonus" value="<string name='Traits/Eldar/OreBuildingBonus'/>"/>
+	<entry name="Eldar/OreBuildingBonusDescription" value="Увеличивает добычу руды в Альтмарле Ваула."/>
+	<entry name="Eldar/OreBuildingBonusFlavor" value="<string name='Traits/Eldar/OreBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/PlasmaGrenade" value="<string name='Weapons/PlasmaGrenade'/>"/>
+	<entry name="Eldar/PlasmaGrenadeDescription" value="Предоставляет Стражникам возможность бросать универсальные гранаты."/>
+	<entry name="Eldar/PlasmaGrenadeFlavor" value="<string name='Weapons/PlasmaGrenadeFlavor'/>"/>
+	<entry name="Eldar/ResearchBuildingBonus" value="<string name='Traits/Eldar/ResearchBuildingBonus'/>"/>
+	<entry name="Eldar/ResearchBuildingBonusDescription" value="Повышает эффективность исследования Пещер душ."/>
+	<entry name="Eldar/ResearchBuildingBonusFlavor" value="<string name='Traits/Eldar/ResearchBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/SpiritPreservationBonus" value="Оправа-щит"/>
+	<entry name="Eldar/SpiritPreservationBonusDescription" value="Увеличивает прирост энергии от смерти отрядов Эльдар."/>
+	<entry name="Eldar/SpiritPreservationBonusFlavor" value="С незапамятных времен мы помещали наши камни душ в простые футляры, полагаясь на умение их владельцев сохранить их. Тем не менее, древние структуры Паутины, с которыми мы столкнулись на Гладиус Прайм, демонстрируют, что сложная защита может быть встроена в любую оболочку из призрачной кости, что позволяет нам выхватить большее количество наших мертвых воинов из пасти Той-что-жаждет."/>
+	<entry name="Eldar/SpiritStones" value="<string name='Traits/Eldar/SpiritStones'/>"/>
+	<entry name="Eldar/SpiritStonesDescription" value="Снижает потерю морали Волновых змей, Огненных призм и боевых шагоходов."/>
+	<entry name="Eldar/SpiritStonesFlavor" value="<string name='Traits/Eldar/SpiritStonesFlavor'/>"/>
+	<entry name="Eldar/StarEngines" value="<string name='Traits/Eldar/StarEngines'/>"/>
+	<entry name="Eldar/StarEnginesDescription" value="Увеличивает движение Волновых Змей, Огненных призм, Боевых шагоходов и Скорпионов."/>
+	<entry name="Eldar/StarEnginesFlavor" value="<string name='Traits/Eldar/StarEnginesFlavor'/>"/>
+	<entry name="Eldar/TranscendentBliss" value="<string name='Actions/Eldar/TranscendentBliss'/>"/>
+	<entry name="Eldar/TranscendentBlissDescription" value="Предоставляет городам возможность тратить влияние на временное повышение лояльности."/>
+	<entry name="Eldar/TranscendentBlissFlavor" value="<string name='Actions/Eldar/TranscendentBlissFlavor'/>"/>
+	<entry name="Eldar/TranscendentBlissBonus" value="Гибель Эльдар"/>
+	<entry name="Eldar/TranscendentBlissBonusDescription" value="Повышает лояльность от Необыкновенного блаженства."/>
+	<entry name="Eldar/TranscendentBlissBonusFlavor" value="”Для свободного разума Эльдар нет ни здравомыслия, ни безумия, а просто волна совершенного существования, воплощенная в их собственном диком импульсе.”<br/>  — Раламин Мунг, Ордо Ксенос"/>
+	<entry name="Eldar/VectoredEngines" value="<string name='Traits/Eldar/VectoredEngines'/>"/>
+	<entry name="Eldar/VectoredEnginesDescription" value="Предоставляет Волновым Змеям, Огненным призмам, Боевым шагоходам и Скорпионам возможность временно усиливать свою броню против вражеского дальнобойного оружия."/>
+	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Traits/Eldar/VectoredEnginesFlavor'/>"/>
+	<entry name="Eldar/VehicleBuildingBonus" value="<string name='Traits/Eldar/VehicleBuildingBonus'/>"/>
+	<entry name="Eldar/VehicleBuildingBonusDescription" value="Увеличивает производство Великих входов."/>
+	<entry name="Eldar/VehicleBuildingBonusFlavor" value="<string name='Traits/Eldar/VehicleBuildingBonusFlavor'/>"/>
+	<entry name="Eldar/WarShout" value="<string name='Actions/Eldar/WarShout'/>"/>
+	<entry name="Eldar/WarShoutDescription" value="Предоставляет Воющим Баньши способность деморализовать соседних врагов."/>
+	<entry name="Eldar/WarShoutFlavor" value="<string name='Actions/Eldar/WarShoutFlavor'/>"/>
+	<entry name="Eldar/WebwayGateBonus" value="Картография Паутины"/>
+	<entry name="Eldar/WebwayGateBonusDescription" value="Снижает стоимость активации врат Паутины."/>
+	<entry name="Eldar/WebwayGateBonusFlavor" value="Только Арлекины и хранители Черной библиотеки действительно знают что-то конкретное о межпространственном расположении Паутины. Но, подарив нам часть этих знаний, относящихся только к этому миру, Библиотекари обеспечили нам возможность с легкостью снова открыть эти древние врата."/>
+	<entry name="Eldar/WebwayGateBonus2" value="Сжатие Паутины"/>
+	<entry name="Eldar/WebwayGateBonus2Description" value="Обнуляет стоимость действия перехода по Паутине."/>
+	<entry name="Eldar/WebwayGateBonus2Flavor" value="Получив руководство от Черной библиотеки по уникальному расположению Паутины Гладиуса, духовидцы спланировали кратчайшие пути между любыми двумя вратами, сделав путь между ними таким же безпроблемным, как и любой другой шаг, который мы можем сделать."/>
+	<entry name="Eldar/WraithknightStarcannon" value="Звездная пушка Призрачного рыцаря"/>
+	<entry name="Eldar/WraithknightStarcannonDescription" value="Дает Звездную пушку Призрачным рыцарям"/>
+	<entry name="Eldar/WraithknightStarcannonFlavor" value="<string name='Weapons/StarcannonFlavor'/>"/>
 	<entry name="Necrons/AircraftBuildingBonus" value="<string name='Traits/Necrons/AircraftBuildingBonus'/>"/>
 	<entry name="Necrons/AircraftBuildingBonusDescription" value="Увеличивает объемы производства Безымянного Пути Причины."/>
 	<entry name="Necrons/AircraftBuildingBonusFlavor" value="<string name='Traits/Necrons/AircraftBuildingBonusFlavor'/>"/>
@@ -751,7 +925,7 @@
 	<entry name="Necrons/AttackCityBonusDescription" value="Повышает точность при атаке вражеских подразделений в городах."/>
 	<entry name="Necrons/AttackCityBonusFlavor" value="<string name='Traits/Necrons/AttackCityBonusFlavor'/>"/>
 	<entry name="Necrons/BlastDamage" value="<string name='Traits/Necrons/BlastDamage'/>"/>
-	<entry name="Necrons/BlastDamageDescription" value="Увеличивает бронепробиваемость от взрывного оружия."/>
+	<entry name="Necrons/BlastDamageDescription" value="Увеличивает бронепробиваемость от взрывного и типового оружия."/>
 	<entry name="Necrons/BlastDamageFlavor" value="<string name='Traits/Necrons/BlastDamageFlavor'/>"/>
 	<entry name="Necrons/CityDefenseBonus" value="Невообразимые препятствия"/>
 	<entry name="Necrons/CityDefenseBonusDescription" value="Увеличивает уменьшение урона подразделений в городах."/>
@@ -892,6 +1066,9 @@
 	<entry name="Orks/Bosspole" value="Боссошест"/>
 	<entry name="Orks/BosspoleDescription" value="Способствует уменьшению потери морали от Правил Мобов для Баших Мекав, Парням, Меганобам, Танкобоям, Баивым матоциклистам и Варбоссам."/>
 	<entry name="Orks/BosspoleFlavor" value="Нобы Орков часто носят трофейные посохи, которые показывают, что с ними не стоит связываться. Ноб с Боссшестом часто считает, что он очень  полезен, когда он им ломает головы, чтобы восстановить порядок в пылу битвы."/>
+	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
+	<entry name="Orks/CityEnergyDescription" value="Увеличивает выработку энергии городами орков."/>
+	<entry name="Orks/CityEnergyFlavor" value="<string name='Traits/Orks/CityEnergyFlavor'/>"/>
 	<entry name="Orks/CityGrowth" value="<string name='Traits/Orks/CityGrowth'/>"/>
 	<entry name="Orks/CityGrowthDescription" value="Увеличивает скорость роста населения городов Орков."/>
 	<entry name="Orks/CityGrowthFlavor" value="<string name='Traits/Orks/CityGrowthFlavor'/>"/>
@@ -986,7 +1163,7 @@
 	<entry name="SpaceMarines/BolterDrillDescription" value="<string name='Actions/BolterDrillDescription'/>"/>
 	<entry name="SpaceMarines/BolterDrillFlavor" value="<string name='Traits/BolterDrillFlavor'/>"/>
 	<entry name="SpaceMarines/CeramitePlating" value="<string name='Traits/CeramitePlating'/>"/>
-	<entry name="SpaceMarines/CeramitePlatingDescription" value="Позволяет Грозовому когтю и Грозовому ворону не получать дополнительный урон от Мелта-оружия."/>
+	<entry name="SpaceMarines/CeramitePlatingDescription" value="Увеличивает броню Грозовому когтю и Грозовому ворону."/>
 	<entry name="SpaceMarines/CeramitePlatingFlavor" value="<string name='Traits/CeramitePlatingFlavor'/>"/>
 	<entry name="SpaceMarines/ChapterUnity" value="<string name='Traits/ChapterUnity'/>"/>
 	<entry name="SpaceMarines/ChapterUnityDescription" value="Увеличивает лояльности Великого зала."/>
@@ -1010,7 +1187,7 @@
 	<entry name="SpaceMarines/DevastatorDoctrineDescription" value="<string name='Actions/DevastatorDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrineFlavor" value="<string name='Traits/DevastatorDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
-	<entry name="SpaceMarines/DozerBladeDescription" value="<string name='Upgrades/AstraMilitarum/DozerBladeDescription'/>"/>
+	<entry name="SpaceMarines/DozerBladeDescription" value="Снижает штраф передвижения для Охотников, Хищников и Секачей в лесах и имперских руинах."/>
 	<entry name="SpaceMarines/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
@@ -1128,7 +1305,7 @@
 	<entry name="Tau/EMPGrenadeDescription" value="Дает Воином Огня и Следопытам возможность метать противотанковые гранаты."/>
 	<entry name="Tau/EMPGrenadeFlavor" value="<string name='Weapons/EMPGrenadeFlavor'/>"/>
 	<entry name="Tau/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
-	<entry name="Tau/ExtraInfantryArmourDescription" value="Увеличивает броню пехоты и Монструозных существ."/>
+	<entry name="Tau/ExtraInfantryArmourDescription" value="Увеличивает броню пехоты и Монструозных созданий."/>
 	<entry name="Tau/ExtraInfantryArmourFlavor" value="Дальнейшее изучение хитинового панциря наших Траксийских товарищей выявило существенные структурные улучшения, которые мы можем внести в состав брони наших Кадров и боевых скафандров."/>
 	<entry name="Tau/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="Tau/ExtraVehicleArmourDescription" value="Увеличивает броню машин."/>
@@ -1251,7 +1428,7 @@
 	<entry name="Tyranids/FleshHooksDescription" value="Даёт Тиранидам-воинам, Тираниду-Прайм и Ликтору дополнительное оружие дальнего боя."/>
 	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
 	<entry name="Tyranids/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tyranids/HammerOfWrathDescription" value="Даёт Экзокринам, Гаргульям, Гаруспикам, Карге, Тервигонам, Тригонам и Тиранофексам способность совершать более разрушительные атаки."/>
+	<entry name="Tyranids/HammerOfWrathDescription" value="Даёт Экзокринам, Гаргульям, Гаруспикам, Карге, Тиранъ улья, Серпоносному Иеродулу, Тервигонам, Тригонам и Тиранофексам способность совершать более разрушительные атаки."/>
 	<entry name="Tyranids/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="<string name='Traits/Tyranids/InfantryUpkeep'/>"/>
 	<entry name="Tyranids/InfantryUpkeepDescription" value="Уменьшает затраты биомассы на содержание пехоты."/>

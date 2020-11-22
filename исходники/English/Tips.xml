@@ -30,7 +30,7 @@
 	<entry name="Tip13" value="Open Item Shop Screen"/>
 	<entry name="Tip13Description" value="Your hero is standing on an <icon height='20' texture='Icons/Actions/Shop'/> item shop. To open it, click on the “<icon height='20' texture='Icons/Actions/Shop'/> Shop” button."/> 
 	<entry name="Tip14" value="Item Shop Screen"/>
-	<entry name="Tip14Description" value="In the <icon height='20' texture='Icons/Actions/Shop'/> item shop you can trade <icon height='20' texture='Icons/Attributes/Influence'/> influence in return for items. Simply click on the items you wish to buy or sell. Note that many common items have a limited number of <icon height='20' texture='Icons/Attributes/Uses'/> uses, but the Jokaero have an endless supply of these. The rarest and most powerful items available are artefact items, many of which cannot be bought, but must be acquired in other unknown ways."/>
+	<entry name="Tip14Description" value="In the <icon height='20' texture='Icons/Actions/Shop'/> item shop you can trade <icon height='20' texture='Icons/Attributes/Influence'/> influence in return for items. Simply click on the items you wish to buy or sell. Note that many common items have a limited number of <icon height='20' texture='Icons/Attributes/Uses'/> uses."/>
 	<entry name="Tip15" value="Cities"/>
 	<entry name="Tip15Description" value="To open the city screen, you can click on the city name or click on the headquarters twice. You can also select the city's defenses by clicking on the headquarters itself or on the icon above the city. All cities have limited firepower and will defend themselves when attacked. Make sure to protect your city at all costs—if you lose all your cities you are defeated!"/>
 	<entry name="Tip16" value="City Buildings"/>
@@ -95,12 +95,12 @@
 	<entry name="Tip45Description" value="Units with action points remaining that have ranged weapons will automatically perform <icon height='20' texture='Icons/Actions/Overwatch'/> overwatch attacks when an enemy unit enters their attack range unless the enemy unit has <icon height='20' texture='Icons/Traits/Infiltrate'/> infiltrate."/>
 	<entry name="Tip46" value="Outposts"/>
 	<entry name="Tip46Description" value="Tiles with special resource features can be captured by moving a unit on them. This will construct an <icon height='20' texture='Icons/Features/Outpost'/> outpost, providing you with a small but important bonus to your resource output and giving the unit stationed there increased damage reduction and healing rate. Defend your outposts or they will be taken over by other factions or the Gladius wildlife."/>
-	<entry name="Tip47" value="Transports—Embarking"/>
+	<entry name="Tip47" value="Transports: Embarking"/>
 	<entry name="Tip47Description" value="This unit is able to carry infantry units as cargo. To embark, move the unit you wish to carry onto the transport's tile. Embarked units will normally not be able to disembark in the turn they have embarked."/>
-	<entry name="Tip48" value="Transports—Disembarking"/>
-	<entry name="Tip48Description" value="You have a unit embarked on this transport. To disembark it, click on the cargo and select a destination tile. You can also rearrange cargo by dragging it into different slots."/>
+	<entry name="Tip48" value="Transports: Disembarking"/>
+	<entry name="Tip48Description" value="You have a unit embarked on this transport. To disembark it, click on the cargo to select it and then right-click the destination tile. You can also rearrange cargo by dragging it into different slots."/>
 	<entry name="Tip49" value="Instinctive Behaviour"/>
-	<entry name="Tip49Description" value="Many Tyranid units will suffer from instinctive behaviour while not in range of a synapse creature or a Tyranid city. Termagants have the <icon height='20' texture='Icons/Traits/Tyranids/InstinctiveBehaviourLurk'/> lurk instinctive behaviour which causes them to lose morale each turn. You can use the unit's <icon height='20' texture='Icons/Actions/Tyranids/InstinctiveBehaviourOverride'/> override instinctive behaviour ability to temporarily fend off the effects."/>
+	<entry name="Tip49Description" value="Many Tyranid units will suffer from instinctive behaviour while not in range of a synapse creature or a Tyranid city. Termagants have <icon height='20' texture='Icons/Traits/Tyranids/InstinctiveBehaviourLurk'/> instinctive behaviour which causes them to lose morale each turn. You can use the unit's <icon height='20' texture='Icons/Actions/Tyranids/InstinctiveBehaviourOverride'/> override instinctive behaviour ability to temporarily fend off the effects."/>
 	<entry name="Tip50" value="Reclamation"/>
 	<entry name="Tip50Description" value="Tyranid units in cities can be reclaimed to regain biomass and accelerate a building's production. Click “<icon height='20' texture='Icons/Actions/Tyranids/ReclaimUnit'/> Reclaim Unit” to show each unit's reclaim value and select a target. The reclamation process is instantaneous and can be executed in parallel with production."/>
 	<entry name="Tip51" value="Feed Upon The Planet"/>
