@@ -2223,4 +2223,294 @@
 	<entry name="Tau/TidewallGunrig:VictoryCount" value="1"/>
 	<entry name="Tyranids/ScythedHierodule" value="Tyranids/Carnifex"/>
 	<entry name="SpaceMarines/Razorback" value="SpaceMarines/Hunter"/>
+	<entry name="Neutral/Umbra:Attack#0" value="...llll..."/>
+	<entry name="Neutral/Umbra:Attack#1" value="(linger)"/>
+	<entry name="Neutral/Umbra:Attack#2" value="Linger..."/>
+	<entry name="Neutral/Umbra:Attack#3" value="...inger..."/>
+	<entry name="Neutral/Umbra:AttackCount" value="4"/>
+	<entry name="Neutral/Umbra:Broken#0" value="Linger..."/>
+	<entry name="Neutral/Umbra:BrokenCount" value="1"/>
+	<entry name="Neutral/Umbra:Hurt#0" value="LIN-"/>
+	<entry name="Neutral/Umbra:HurtCount" value="1"/>
+	<entry name="Neutral/Umbra:Idle#0" value="..."/>
+	<entry name="Neutral/Umbra:Idle#1" value="...linger"/>
+	<entry name="Neutral/Umbra:Idle#2" value="linger..."/>
+	<entry name="Neutral/Umbra:Idle#3" value="...ng..."/>
+	<entry name="Neutral/Umbra:IdleCount" value="4"/>
+	<entry name="Neutral/Umbra:Shaken#0" value="lin...ger..."/>
+	<entry name="Neutral/Umbra:ShakenCount" value="1"/>
+	<entry name="Neutral/Umbra:Victory#0" value="LINGER"/>
+	<entry name="Neutral/Umbra:VictoryCount" value="1"/>
+	<entry name="Eldar/Wraithblade:Attack#0" value="...the enemy will fall..."/>
+	<entry name="Eldar/Wraithblade:Attack#1" value="...join the dead..."/>
+	<entry name="Eldar/Wraithblade:Attack#2" value="...for our Craftworld..."/>
+	<entry name="Eldar/Wraithblade:Attack#3" value="...for the Aeldari..."/>
+	<entry name="Eldar/Wraithblade:AttackCount" value="4"/>
+	<entry name="Eldar/Wraithblade:Broken#0" value="...we fear She Who Thirsts..."/>
+	<entry name="Eldar/Wraithblade:BrokenCount" value="1"/>
+	<entry name="Eldar/Wraithblade:Hurt#0" value="...to die, again?"/>
+	<entry name="Eldar/Wraithblade:HurtCount" value="1"/>
+	<entry name="Eldar/Wraithblade:Idle#0" value="...need guidance..."/>
+	<entry name="Eldar/Wraithblade:Idle#1" value="...we are dead..."/>
+	<entry name="Eldar/Wraithblade:Idle#2" value="...let us rest..."/>
+	<entry name="Eldar/Wraithblade:Idle#3" value="...we live for war..."/>
+	<entry name="Eldar/Wraithblade:IdleCount" value="4"/>
+	<entry name="Eldar/Wraithblade:Shaken#0" value="...fear is beyond us..."/>
+	<entry name="Eldar/Wraithblade:ShakenCount" value="1"/>
+	<entry name="Eldar/Wraithblade:Victory#0" value="...they have joined us..."/>
+	<entry name="Eldar/Wraithblade:VictoryCount" value="1"/>
+	<entry name="Eldar/WaveSerpent:Attack#0" value="Firing all systems"/>
+	<entry name="Eldar/WaveSerpent:Attack#1" value="Yes, we're attacking"/>
+	<entry name="Eldar/WaveSerpent:Attack#2" value="Should we fire our Serpent Shield?"/>
+	<entry name="Eldar/WaveSerpent:Attack#3" value="Transport in combat."/>
+	<entry name="Eldar/WaveSerpent:AttackCount" value="4"/>
+	<entry name="Eldar/WaveSerpent:Broken#0" value="Save yourselves!"/>
+	<entry name="Eldar/WaveSerpent:BrokenCount" value="1"/>
+	<entry name="Eldar/WaveSerpent:Hurt#0" value="Shield penetrated."/>
+	<entry name="Eldar/WaveSerpent:HurtCount" value="1"/>
+	<entry name="Eldar/WaveSerpent:Idle#0" value="Ready to move."/>
+	<entry name="Eldar/WaveSerpent:Idle#1" value="Coiled, ready to spring."/>
+	<entry name="Eldar/WaveSerpent:Idle#2" value="Who needs moving?"/>
+	<entry name="Eldar/WaveSerpent:Idle#3" value="What a wonderful world."/>
+	<entry name="Eldar/WaveSerpent:IdleCount" value="4"/>
+	<entry name="Eldar/WaveSerpent:Shaken#0" value="Get us out of here!"/>
+	<entry name="Eldar/WaveSerpent:ShakenCount" value="1"/>
+	<entry name="Eldar/WaveSerpent:Victory#0" value="Load up for the next target."/>
+	<entry name="Eldar/WaveSerpent:VictoryCount" value="1"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Attack#0" value="Guardian battery firing."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Attack#1" value="Weaving shadows."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Attack#2" value="Artillery ready to move."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:AttackCount" value="3"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Broken#0" value="We cannot hold this alone."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:BrokenCount" value="1"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Hurt#0" value="We will not survive."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:HurtCount" value="1"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Idle#0" value="Spooling monofilament."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Idle#1" value="Checking the anti-gravitic generators."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Idle#2" value="Lets support from the back."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:IdleCount" value="3"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Shaken#0" value="We must disengage!"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:ShakenCount" value="1"/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Victory#0" value="We've... dissolved... the enemy formation."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:VictoryCount" value="1"/>
+	<entry name="Eldar/ShiningSpear:Attack#0" value="We strike faster than the eye can see."/>
+	<entry name="Eldar/ShiningSpear:Attack#1" value="For Drastanta!"/>
+	<entry name="Eldar/ShiningSpear:Attack#2" value="They pale before our virtue."/>
+	<entry name="Eldar/ShiningSpear:Attack#3" value="We are the spear of Khaine!"/>
+	<entry name="Eldar/ShiningSpear:AttackCount" value="4"/>
+	<entry name="Eldar/ShiningSpear:Broken#0" value="The spear is... broken."/>
+	<entry name="Eldar/ShiningSpear:BrokenCount" value="1"/>
+	<entry name="Eldar/ShiningSpear:Hurt#0" value="We must go faster."/>
+	<entry name="Eldar/ShiningSpear:HurtCount" value="1"/>
+	<entry name="Eldar/ShiningSpear:Idle#0" value="We are legend, manifest."/>
+	<entry name="Eldar/ShiningSpear:Idle#1" value="We wait to charge."/>
+	<entry name="Eldar/ShiningSpear:Idle#2" value="Spears at the ready."/>
+	<entry name="Eldar/ShiningSpear:Idle#3" value="I long to remove this War Mask."/>
+	<entry name="Eldar/ShiningSpear:IdleCount" value="4"/>
+	<entry name="Eldar/ShiningSpear:Shaken#0" value="We ride through the valley of fear."/>
+	<entry name="Eldar/ShiningSpear:ShakenCount" value="1"/>
+	<entry name="Eldar/ShiningSpear:Victory#0" value="They didn't see us coming."/>
+	<entry name="Eldar/ShiningSpear:VictoryCount" value="1"/>
+	<entry name="Eldar/Ranger:Attack#0" value="Choosing targets..."/>
+	<entry name="Eldar/Ranger:Attack#1" value="They will die before they know we fired."/>
+	<entry name="Eldar/Ranger:Attack#2" value="My long rifle whispers death."/>
+	<entry name="Eldar/Ranger:Attack#3" value="We. Do. Not. Miss."/>
+	<entry name="Eldar/Ranger:AttackCount" value="4"/>
+	<entry name="Eldar/Ranger:Broken#0" value="Fall back! They come!"/>
+	<entry name="Eldar/Ranger:BrokenCount" value="1"/>
+	<entry name="Eldar/Ranger:Hurt#0" value="We are walking in the dark..."/>
+	<entry name="Eldar/Ranger:HurtCount" value="1"/>
+	<entry name="Eldar/Ranger:Idle#0" value="Our exile is done."/>
+	<entry name="Eldar/Ranger:Idle#1" value="Our cameleoline shields us."/>
+	<entry name="Eldar/Ranger:Idle#2" value="It is good to be somewhere new."/>
+	<entry name="Eldar/Ranger:Idle#3" value="Come, listen to our tales of the galaxy!"/>
+	<entry name="Eldar/Ranger:IdleCount" value="4"/>
+	<entry name="Eldar/Ranger:Shaken#0" value="Away from the frontline, quickly."/>
+	<entry name="Eldar/Ranger:ShakenCount" value="1"/>
+	<entry name="Eldar/Ranger:Victory#0" value="They are gone and we we are free to range once more."/>
+	<entry name="Eldar/Ranger:VictoryCount" value="1"/>
+	<entry name="Eldar/HowlingBanshee:Attack#0" value="Our cries speak your death."/>
+	<entry name="Eldar/HowlingBanshee:Attack#1" value="They fall like grass before our blades."/>
+	<entry name="Eldar/HowlingBanshee:Attack#2" value="We call them to a final judgement."/>
+	<entry name="Eldar/HowlingBanshee:Attack#3" value="Swiftly!"/>
+	<entry name="Eldar/HowlingBanshee:AttackCount" value="4"/>
+	<entry name="Eldar/HowlingBanshee:Broken#0" value="Hear our lamentations!"/>
+	<entry name="Eldar/HowlingBanshee:BrokenCount" value="1"/>
+	<entry name="Eldar/HowlingBanshee:Hurt#0" value="The old familiar sting!"/>
+	<entry name="Eldar/HowlingBanshee:HurtCount" value="1"/>
+	<entry name="Eldar/HowlingBanshee:Idle#0" value="We howl their doom."/>
+	<entry name="Eldar/HowlingBanshee:Idle#1" value="Would that our foes would test our blades, now!"/>
+	<entry name="Eldar/HowlingBanshee:Idle#2" value="We are the children of Morai-Heg"/>
+	<entry name="Eldar/HowlingBanshee:Idle#3" value="Our song is death."/>
+	<entry name="Eldar/HowlingBanshee:IdleCount" value="4"/>
+	<entry name="Eldar/HowlingBanshee:Shaken#0" value="They interrupt our song!"/>
+	<entry name="Eldar/HowlingBanshee:ShakenCount" value="1"/>
+	<entry name="Eldar/HowlingBanshee:Victory#0" value="And only whispers greet their demise."/>
+	<entry name="Eldar/HowlingBanshee:VictoryCount" value="1"/>
+	<entry name="Eldar/Headquarters:Attack#0" value="Defending the webway"/>
+	<entry name="Eldar/Headquarters:Attack#1" value="You shall not pass!"/>
+	<entry name="Eldar/Headquarters:Attack#2" value="Redoubt taking fire."/>
+	<entry name="Eldar/Headquarters:Attack#3" value="Guardians of the webway."/>
+	<entry name="Eldar/Headquarters:AttackCount" value="4"/>
+	<entry name="Eldar/Headquarters:Broken#0" value="They are breaking through!"/>
+	<entry name="Eldar/Headquarters:BrokenCount" value="1"/>
+	<entry name="Eldar/Headquarters:Hurt#0" value="Khaine aid us!"/>
+	<entry name="Eldar/Headquarters:HurtCount" value="1"/>
+	<entry name="Eldar/Headquarters:Idle#0" value="Watching the Webway."/>
+	<entry name="Eldar/Headquarters:Idle#1" value="We stand ready, Seer."/>
+	<entry name="Eldar/Headquarters:Idle#2" value="I long to return to my craftworld, to doff this mask."/>
+	<entry name="Eldar/Headquarters:Idle#3" value="Why are we here?"/>
+	<entry name="Eldar/Headquarters:IdleCount" value="4"/>
+	<entry name="Eldar/Headquarters:Shaken#0" value="I fear death and the Great Enemy."/>
+	<entry name="Eldar/Headquarters:ShakenCount" value="1"/>
+	<entry name="Eldar/Headquarters:Victory#0" value="This gate will not close, yet."/>
+	<entry name="Eldar/Headquarters:VictoryCount" value="1"/>
+	<entry name="Eldar/Guardian:Attack#0" value="Duty calls us."/>
+	<entry name="Eldar/Guardian:Attack#1" value="We must not fall."/>
+	<entry name="Eldar/Guardian:Attack#2" value="Our people stand as one."/>
+	<entry name="Eldar/Guardian:Attack#3" value="Shurikens away."/>
+	<entry name="Eldar/Guardian:AttackCount" value="4"/>
+	<entry name="Eldar/Guardian:Broken#0" value="Is this the end...?"/>
+	<entry name="Eldar/Guardian:BrokenCount" value="1"/>
+	<entry name="Eldar/Guardian:Hurt#0" value="Our doom is upon us."/>
+	<entry name="Eldar/Guardian:HurtCount" value="1"/>
+	<entry name="Eldar/Guardian:Idle#0" value="War is... intense."/>
+	<entry name="Eldar/Guardian:Idle#1" value="When we will return to the crystal halls?"/>
+	<entry name="Eldar/Guardian:Idle#2" value="Asuryan, protect us."/>
+	<entry name="Eldar/Guardian:Idle#3" value="Seer, I hope your sight is true."/>
+	<entry name="Eldar/Guardian:IdleCount" value="4"/>
+	<entry name="Eldar/Guardian:Shaken#0" value="Isha preserve us!"/>
+	<entry name="Eldar/Guardian:ShakenCount" value="1"/>
+	<entry name="Eldar/Guardian:Victory#0" value="Arrogant, to stand against the Aeldari."/>
+	<entry name="Eldar/Guardian:VictoryCount" value="1"/>
+	<entry name="Eldar/FirePrism:Attack#0" value="We shall cut them down."/>
+	<entry name="Eldar/FirePrism:Attack#1" value="They cannot withstand our fire."/>
+	<entry name="Eldar/FirePrism:Attack#2" value="They melt away."/>
+	<entry name="Eldar/FirePrism:Attack#3" value="Weapons of the ancients, do not fail us."/>
+	<entry name="Eldar/FirePrism:AttackCount" value="4"/>
+	<entry name="Eldar/FirePrism:Broken#0" value="...this cannot be."/>
+	<entry name="Eldar/FirePrism:BrokenCount" value="1"/>
+	<entry name="Eldar/FirePrism:Hurt#0" value="This damage is of no consequence."/>
+	<entry name="Eldar/FirePrism:HurtCount" value="1"/>
+	<entry name="Eldar/FirePrism:Idle#0" value="Use us."/>
+	<entry name="Eldar/FirePrism:Idle#1" value="Ancient Vaul designed this machine."/>
+	<entry name="Eldar/FirePrism:Idle#2" value="Why must we use such weaponry?"/>
+	<entry name="Eldar/FirePrism:Idle#3" value="The craftworlds are so far away."/>
+	<entry name="Eldar/FirePrism:IdleCount" value="4"/>
+	<entry name="Eldar/FirePrism:Shaken#0" value="We can take their fire."/>
+	<entry name="Eldar/FirePrism:ShakenCount" value="1"/>
+	<entry name="Eldar/FirePrism:Victory#0" value="As expected, they are defeated."/>
+	<entry name="Eldar/FirePrism:VictoryCount" value="1"/>
+	<entry name="Eldar/FireDragon:Attack#0" value="Burn!"/>
+	<entry name="Eldar/FireDragon:Attack#1" value="Ancestral flames unleashed!"/>
+	<entry name="Eldar/FireDragon:Attack#2" value="We are rage, fiery rage!"/>
+	<entry name="Eldar/FireDragon:Attack#3" value="Come closer, little tanks..."/>
+	<entry name="Eldar/FireDragon:AttackCount" value="4"/>
+	<entry name="Eldar/FireDragon:Broken#0" value="The dream of fire fades..."/>
+	<entry name="Eldar/FireDragon:BrokenCount" value="1"/>
+	<entry name="Eldar/FireDragon:Hurt#0" value="We are burnt ourselves!"/>
+	<entry name="Eldar/FireDragon:HurtCount" value="1"/>
+	<entry name="Eldar/FireDragon:Idle#0" value="Let us tell tale of firestorms and ash."/>
+	<entry name="Eldar/FireDragon:Idle#1" value="Cinders and fury."/>
+	<entry name="Eldar/FireDragon:Idle#2" value="A world encased in flame."/>
+	<entry name="Eldar/FireDragon:Idle#3" value="There is nobility in incineration, is there not?"/>
+	<entry name="Eldar/FireDragon:IdleCount" value="4"/>
+	<entry name="Eldar/FireDragon:Shaken#0" value="We are quite put out."/>
+	<entry name="Eldar/FireDragon:ShakenCount" value="1"/>
+	<entry name="Eldar/FireDragon:Victory#0" value="Their face in death is... ashen."/>
+	<entry name="Eldar/FireDragon:VictoryCount" value="1"/>
+	<entry name="Eldar/CrimsonHunter:Attack#0" value="Kurnous guides us!"/>
+	<entry name="Eldar/CrimsonHunter:Attack#1" value="We hunt!"/>
+	<entry name="Eldar/CrimsonHunter:Attack#2" value="From the air, we dispense... lessons."/>
+	<entry name="Eldar/CrimsonHunter:Attack#3" value="We are the blinding blades!"/>
+	<entry name="Eldar/CrimsonHunter:AttackCount" value="4"/>
+	<entry name="Eldar/CrimsonHunter:Broken#0" value="This is not retreat."/>
+	<entry name="Eldar/CrimsonHunter:BrokenCount" value="1"/>
+	<entry name="Eldar/CrimsonHunter:Hurt#0" value="They... they hit us?"/>
+	<entry name="Eldar/CrimsonHunter:HurtCount" value="1"/>
+	<entry name="Eldar/CrimsonHunter:Idle#0" value="I have a desire... for speed."/>
+	<entry name="Eldar/CrimsonHunter:Idle#1" value="Kurnous desires action."/>
+	<entry name="Eldar/CrimsonHunter:Idle#2" value="This environment is rich in targets..."/>
+	<entry name="Eldar/CrimsonHunter:Idle#3" value="Nothing is more deadly than arrogance in battle."/>
+	<entry name="Eldar/CrimsonHunter:IdleCount" value="4"/>
+	<entry name="Eldar/CrimsonHunter:Shaken#0" value="No time to think!"/>
+	<entry name="Eldar/CrimsonHunter:ShakenCount" value="1"/>
+	<entry name="Eldar/CrimsonHunter:Victory#0" value="Their ego overtook them."/>
+	<entry name="Eldar/CrimsonHunter:VictoryCount" value="1"/>
+	<entry name="Eldar/HemlockWraithfighter" value="Eldar/CrimsonHunter"/>
+	<entry name="Eldar/Scorpion" value="Eldar/FirePrism"/>
+	<entry name="Eldar/WarWalker" value="Eldar/Guardian"/>
+	<entry name="Eldar/Wraithknight" value="Eldar/Wraithblade"/>
+	<entry name="Eldar/Autarch:Attack#0" value="Face all the aspects!"/>
+	<entry name="Eldar/Autarch:Attack#1" value="I know Khaine!"/>
+	<entry name="Eldar/Autarch:Attack#2" value="Fall by my hand!"/>
+	<entry name="Eldar/Autarch:Attack#3" value="I am war incarnate!"/>
+	<entry name="Eldar/Autarch:AttackCount" value="4"/>
+	<entry name="Eldar/Autarch:Broken#0" value="Retreat is a part of war."/>
+	<entry name="Eldar/Autarch:BrokenCount" value="1"/>
+	<entry name="Eldar/Autarch:Hurt#0" value="I... may need another incarnation."/>
+	<entry name="Eldar/Autarch:HurtCount" value="1"/>
+	<entry name="Eldar/Autarch:Idle#0" value="Cegorach makes work for idle Autarchs."/>
+	<entry name="Eldar/Autarch:Idle#1" value="I shall now recite the litany of battle..."/>
+	<entry name="Eldar/Autarch:Idle#2" value="I am lost to war."/>
+	<entry name="Eldar/Autarch:Idle#3" value="There is no peace in my mind."/>
+	<entry name="Eldar/Autarch:IdleCount" value="4"/>
+	<entry name="Eldar/Autarch:Shaken#0" value="Ha! They test me!"/>
+	<entry name="Eldar/Autarch:ShakenCount" value="1"/>
+	<entry name="Eldar/Autarch:Victory#0" value="They will not try my patience again."/>
+	<entry name="Eldar/Autarch:VictoryCount" value="1"/>
+	<entry name="Eldar/FarseerSkyrunner:Attack#0" value="I shape your future... it is short."/>
+	<entry name="Eldar/FarseerSkyrunner:Attack#1" value="With me, Shining Spears."/>
+	<entry name="Eldar/FarseerSkyrunner:Attack#2" value="My witchblade hungers."/>
+	<entry name="Eldar/FarseerSkyrunner:Attack#3" value="I am the helmsman of my people."/>
+	<entry name="Eldar/FarseerSkyrunner:AttackCount" value="4"/>
+	<entry name="Eldar/FarseerSkyrunner:Broken#0" value="I see no future."/>
+	<entry name="Eldar/FarseerSkyrunner:BrokenCount" value="1"/>
+	<entry name="Eldar/FarseerSkyrunner:Hurt#0" value="I must go on!"/>
+	<entry name="Eldar/FarseerSkyrunner:HurtCount" value="1"/>
+	<entry name="Eldar/FarseerSkyrunner:Idle#0" value="The skeins draw tight."/>
+	<entry name="Eldar/FarseerSkyrunner:Idle#1" value="The future is always in motion."/>
+	<entry name="Eldar/FarseerSkyrunner:Idle#2" value="I see the future and shape it too."/>
+	<entry name="Eldar/FarseerSkyrunner:Idle#3" value="I long for the crystal and the circuit."/>
+	<entry name="Eldar/FarseerSkyrunner:IdleCount" value="4"/>
+	<entry name="Eldar/FarseerSkyrunner:Shaken#0" value="It was not meant to be this way!"/>
+	<entry name="Eldar/FarseerSkyrunner:ShakenCount" value="1"/>
+	<entry name="Eldar/FarseerSkyrunner:Victory#0" value="Fallen. As foreseen."/>
+	<entry name="Eldar/FarseerSkyrunner:VictoryCount" value="1"/>
+	<entry name="Eldar/Spiritseer:Attack#0" value="There is no peace."/>
+	<entry name="Eldar/Spiritseer:Attack#1" value="The dead take you!"/>
+	<entry name="Eldar/Spiritseer:Attack#2" value="Fear my blade."/>
+	<entry name="Eldar/Spiritseer:Attack#3" value="I am of an ancient race!"/>
+	<entry name="Eldar/Spiritseer:AttackCount" value="4"/>
+	<entry name="Eldar/Spiritseer:Broken#0" value="I retreat, lest I join my charges."/>
+	<entry name="Eldar/Spiritseer:BrokenCount" value="1"/>
+	<entry name="Eldar/Spiritseer:Hurt#0" value="My life drains into the crystal..."/>
+	<entry name="Eldar/Spiritseer:HurtCount" value="1"/>
+	<entry name="Eldar/Spiritseer:Idle#0" value="The dead are in my care."/>
+	<entry name="Eldar/Spiritseer:Idle#1" value="I speak to you, my departed friends."/>
+	<entry name="Eldar/Spiritseer:Idle#2" value="It is quiet, in the spirit halls."/>
+	<entry name="Eldar/Spiritseer:Idle#3" value="Hear the infinity circuit of the planet. It whispers!"/>
+	<entry name="Eldar/Spiritseer:IdleCount" value="4"/>
+	<entry name="Eldar/Spiritseer:Shaken#0" value="We are so few, left alive."/>
+	<entry name="Eldar/Spiritseer:ShakenCount" value="1"/>
+	<entry name="Eldar/Spiritseer:Victory#0" value="I cannot celebrate death, even a foe's."/>
+	<entry name="Eldar/Spiritseer:VictoryCount" value="1"/>
+	<entry name="Eldar/AvatarOfKhaine:Attack#0" value="YOU DARE BATTLE WITH WAR INCARNATE?!"/>
+	<entry name="Eldar/AvatarOfKhaine:Attack#1" value="IMMOLATION IS YOUR FATE"/>
+	<entry name="Eldar/AvatarOfKhaine:Attack#2" value="FIRE!"/>
+	<entry name="Eldar/AvatarOfKhaine:Attack#3" value="COME, FOOLS, KHAINE WANTS YOU"/>
+	<entry name="Eldar/AvatarOfKhaine:AttackCount" value="4"/>
+	<entry name="Eldar/AvatarOfKhaine:Broken#0" value="I WILL NOT FLEE"/>
+	<entry name="Eldar/AvatarOfKhaine:BrokenCount" value="1"/>
+	<entry name="Eldar/AvatarOfKhaine:Hurt#0" value="YOU FUEL MY RAGE!"/>
+	<entry name="Eldar/AvatarOfKhaine:HurtCount" value="1"/>
+	<entry name="Eldar/AvatarOfKhaine:Idle#0" value="THIS PLANET TEARS AT ME"/>
+	<entry name="Eldar/AvatarOfKhaine:Idle#1" value="THIS HAND WIELDS THE SWORD"/>
+	<entry name="Eldar/AvatarOfKhaine:Idle#2" value="VAUL... DIED"/>
+	<entry name="Eldar/AvatarOfKhaine:Idle#3" value="SUNDERED, I FIGHT ON"/>
+	<entry name="Eldar/AvatarOfKhaine:IdleCount" value="4"/>
+	<entry name="Eldar/AvatarOfKhaine:Shaken#0" value="COME CLOSER, MORTALS"/>
+	<entry name="Eldar/AvatarOfKhaine:ShakenCount" value="1"/>
+	<entry name="Eldar/AvatarOfKhaine:Victory#0" value="KHAINE HAS THEM NOW."/>
+	<entry name="Eldar/AvatarOfKhaine:VictoryCount" value="1"/>
 </language>

@@ -512,7 +512,7 @@
 	<entry name="Eldar/KhainesMightDescription" value="Increases the melee attacks."/>
 	<entry name="Eldar/KhainesMightFlavor" value="<string name='Actions/Eldar/KhainesMightFlavor'/>"/>
 	<entry name="Eldar/LinkedFire" value="<string name='Actions/Eldar/LinkedFire'/>"/>
-	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armour penetration."/>
+	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armour penetration of the Prism Cannon."/>
 	<entry name="Eldar/LinkedFireFlavor" value="<string name='Actions/Eldar/LinkedFireFlavor'/>"/>
 	<entry name="Eldar/MarksmansEye" value="Marksman's Eye"/>
 	<entry name="Eldar/MarksmansEyeDescription" value="Increases the accuracy."/>
@@ -622,7 +622,7 @@
 	<entry name="ForestStealth" value="Forest Stealth"/>
 	<entry name="ForestStealthDescription" value="Increases the ranged damage reduction while in a forest."/>
 	<entry name="Fortification" value="Fortification"/>
-	<entry name="FortificationDescription" value="Stationary, fortified unit. If armed, it exerts control over adjacent outposts."/>
+	<entry name="FortificationDescription" value="Stationary and fortified unit. If armed, it exerts control over adjacent outposts."/>
 	<entry name="FullThrottle" value="“Full Throttle!”"/>
 	<entry name="FullThrottleDescription" value="Increases the movement."/>
 	<entry name="FuelledByRage" value="Fuelled By Rage"/>
@@ -1131,7 +1131,7 @@
 	<entry name="SlowAndPurposefulDescription" value="Negates the penalty for heavy and ordnance weapons."/>
 	<entry name="SlowAndPurposefulFlavor" value="Many warriors are steady but sure, slow to advance but no less deadly for it."/>
 	<entry name="Slowed" value="Slowed"/>
-	<entry name="SlowedDescription" value="Reduces the movement and accuracy."/>
+	<entry name="SlowedDescription" value="Reduces the movement."/>
 	<entry name="Smash" value="Smash"/>
 	<entry name="SmashDescription" value="Increases the melee armour penetration."/>
 	<entry name="SmashFlavor" value="For the most fearsome of creatures, a single blow is sufficient to breach a tank's armour or crush a living creature to bloody pulp."/>

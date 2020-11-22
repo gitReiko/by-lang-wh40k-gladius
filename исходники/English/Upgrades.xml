@@ -859,7 +859,7 @@
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Increases the armour penetration of heavy weapons."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="<string name='Traits/Eldar/HeavyWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/HoloFields" value="<string name='Traits/Eldar/HoloFields'/>"/>
-	<entry name="Eldar/HoloFieldsDescription" value="Grants Wave Serpents, Fire Prisms and War Walkers invulnerable damage reduction after having moved."/>
+	<entry name="Eldar/HoloFieldsDescription" value="Grants Wave Serpents and Fire Prisms invulnerable damage reduction after having moved."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="<string name='Traits/Eldar/HoloFieldsFlavor'/>"/>
 	<entry name="Eldar/InfantryBuildingBonus" value="<string name='Traits/Eldar/InfantryBuildingBonus'/>"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Increases the production output of Asuryan's Crucibles."/>
@@ -910,7 +910,7 @@
 	<entry name="Eldar/WebwayGateBonusDescription" value="Removes the cost of activating Webway Gates."/>
 	<entry name="Eldar/WebwayGateBonusFlavor" value="Only the Harlequins and the custodians of the Black Library truly know anything of the Webway’s transdimensional layout. But by gifting us a portion of that knowledge, pertaining only to this world, the Librarians have ensured we can re-open these ancient gates with ease."/>
 	<entry name="Eldar/WebwayGateBonus2" value="Webway Constriction"/>
-	<entry name="Eldar/WebwayGateBonus2Description" value="Removes the cost from Webway Travel."/>
+	<entry name="Eldar/WebwayGateBonus2Description" value="Removes the action cost from Webway Travel."/>
 	<entry name="Eldar/WebwayGateBonus2Flavor" value="Having received guidance from the Black Library on Gladius’ unique Webway layout, the spiritseers have planned out the shortest paths between any two gates, making the path between them as frictionless as any other step we might take."/>
 	<entry name="Eldar/WraithknightStarcannon" value="Wraithknight Starcannons"/>
 	<entry name="Eldar/WraithknightStarcannonDescription" value="Grants Wraithknights two Starcannons."/>

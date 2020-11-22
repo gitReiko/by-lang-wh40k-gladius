@@ -38,8 +38,28 @@
 	<entry name="ChaosSpaceMarines14" value="Агідны Выкрадальнік Надзеі"/>
 	<entry name="ChaosSpaceMarines15" value="Страчаны Праклён"/>
 	<entry name="ChaosSpaceMarines16" value="Прах Сонца"/>
-	<entry name="ChaosSpaceMarines17" value="Прах імперыума"/>
+	<entry name="ChaosSpaceMarines17" value="Прах Імперыума"/>
 	<entry name="ChaosSpaceMarinesCount" value="18"/>
+	<entry name="Eldar" value="<string name='Factions/Eldar'/>"/>
+	<entry name="Eldar0" value="Афэсдан"/>
+	<entry name="Eldar1" value="Бадбалтрылас"/>
+	<entry name="Eldar2" value="Бенатай"/>
+	<entry name="Eldar3" value="Карэсэнад"/>
+	<entry name="Eldar4" value="Зэйнэт"/>
+	<entry name="Eldar5" value="Ірат"/>
+	<entry name="Eldar6" value="Ксамант"/>
+	<entry name="Eldar7" value="Вівэя"/>
+	<entry name="Eldar8" value="Юліт"/>
+	<entry name="Eldar9" value="Цюсіч"/>
+	<entry name="Eldar10" value="Сюзікіён"/>
+	<entry name="Eldar11" value="Рыліслідыян"/>
+	<entry name="Eldar12" value="Кварын"/>
+	<entry name="Eldar13" value="Партэціён"/>
+	<entry name="Eldar14" value="Ортас"/>
+	<entry name="Eldar15" value="Нэосфі"/>
+	<entry name="Eldar16" value="Мірацюіс"/>
+	<entry name="Eldar17" value="Ламбрют"/>
+	<entry name="EldarCount" value="18"/>
 	<entry name="Necrons" value="<string name='Factions/Necrons'/>"/>
 	<entry name="Necrons0" value="Лэктан Копт"/>
 	<entry name="Necrons1" value="Згуба Абіды"/> 
@@ -47,7 +67,7 @@
 	<entry name="Necrons3" value="Унхі Сайр"/>
 	<entry name="Necrons4" value="Нэхах Бакір"/>
 	<entry name="Necrons5" value="Аз Птэк Санахт"/>
-	<entry name="Necrons6" value="іах Хабім"/>
+	<entry name="Necrons6" value="Іах Хабім"/>
 	<entry name="Necrons7" value="Абду Хмун"/>
 	<entry name="Necrons8" value="Танас Та"/>
 	<entry name="Necrons9" value="Сар Агорэх"/> 
@@ -76,9 +96,9 @@
 	<entry name="Orks12" value="Доктаўн"/>
 	<entry name="Orks13" value="Відэлец Горка"/>
 	<entry name="Orks14" value="Гаргэйтс"/>
-	<entry name="Orks15" value="Скалы-іклы"/> 
-	<entry name="Orks16" value="Да 'іп"/>
-	<entry name="Orks17" value="Да імперыя Да Оркаў"/>
+	<entry name="Orks15" value="Скалы-Іклы"/> 
+	<entry name="Orks16" value="Да 'Іп"/>
+	<entry name="Orks17" value="Да Імперыя Да Оркаў"/>
 	<entry name="OrksCount" value="18"/>
 	<entry name="SpaceMarines" value="<string name='Factions/SpaceMarines'/>"/>
 	<entry name="SpaceMarines0" value="Крэпасць Дорн"/>
@@ -94,7 +114,7 @@
 	<entry name="SpaceMarines10" value="Падзенне Танталайна"/>
 	<entry name="SpaceMarines11" value="Пакоі Прымарха"/>
 	<entry name="SpaceMarines12" value="Капліца Адытума"/>
-	<entry name="SpaceMarines13" value="Сэрца імперыі"/>
+	<entry name="SpaceMarines13" value="Сэрца Імперыі"/>
 	<entry name="SpaceMarines14" value="Айрэкс Морціфэр"/>
 	<entry name="SpaceMarines15" value="Кастэлум Капіталіс"/>
 	<entry name="SpaceMarines16" value="Рэджыя Фунэст"/>

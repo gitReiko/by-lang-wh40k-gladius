@@ -22,8 +22,11 @@
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
 	<entry name="Coast" value="Узбярэжжа"/>
 	<entry name="CoastFlavor" value="Here sits the ruin of an Imperial fishery; there, the abandoned summer villa of a ranking Imperium bureaucrat; there, a camp of desperate, feral human survivors, eking out an existence from the ocean's bounty."/>
-	<entry name="CompendiumFlavor" value="Gladius I has seen many civilisations rise and fall in its 4 billion years of galactic existence. First the Necrontyr made their home here, then the Old Ones and their Eldar successors militarised the surface against the Necrons' return. In more recent years, it was a young Imperium Hive World, before the coming of the Orks. Little wonder that the surface of the planet still shows that disruption—torn asunder, and littered with the relics of the past as it is..."/>
+	<entry name="CompendiumFlavor" value="Gladius I has seen many civilisations rise and fall in its 4 billion years of galactic existence. First the Necrontyr made their home here, then the Old Ones and their Aeldari successors militarised the surface against the Necrons' return. In more recent years, it was a young Imperium Hive World, before the coming of the Orks. Little wonder that the surface of the planet still shows that disruption—torn asunder, and littered with the relics of the past as it is..."/>
 	<entry name="Desert" value="Пустэльня"/>
+	<entry name="EldarCity" value="Штучны Свет Аэльдары"/>
+	<entry name="EldarCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="EldarCityFlavor" value="This construction is not here to stay, yet it has more craftsmanship in it than anything else on the planet. Woven into existence by Bonesingers on the Path of the Artisan, it is as functional as it is delicate. The attenuated strands of Wraithbone croon ancient harmonies as they are warmed by the rising of Gladius’ star. All this surrounding a gateway to the immaterium itself."/>
 	<entry name="DesertFlavor" value="In these bare regions, precipitation is so low as to make life impossible, save for slow-growing extremophiles and the most alien anhydrous lifeforms. The clear land and skies are perfect for solar-capture devices, however."/>
 	<entry name="FermentationPool" value="Ферментацыйны Басейн"/>
 	<entry name="FermentationPoolDescription" value="Асаблівасць павялічвае хуткасць узросту горада, калі апрацоўваецца."/>

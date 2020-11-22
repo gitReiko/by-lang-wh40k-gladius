@@ -295,13 +295,13 @@
 	<entry name="Eldar/ActivateWebwayGateDescription" value="Activates and claims a neutral Webway Gate."/>
 	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime..."/>
 	<entry name="Eldar/AutarchsAssault" value="Autarch's Assault"/>
-	<entry name="Eldar/AutarchsAssaultDescription" value="Kills with the Autarch increase the damage of allied units in the area."/>
+	<entry name="Eldar/AutarchsAssaultDescription" value="Kills with the Autarch increase the damage of allied Craftworld Aeldari units in the area."/>
 	<entry name="Eldar/AutarchsAssaultFlavor" value="The Autarch is the master of warfare, having lived many lives in every Aeldari aspect shrine. Every one of his skilful attacks is both an inspiration to other Aeldari and a lesson in how to conduct war most effectively."/>
 	<entry name="Eldar/AsuryaniArrivals" value="Asuryani Arrivals"/>
 	<entry name="Eldar/AsuryaniArrivalsDescription" value="Increases the growth rate."/>
 	<entry name="Eldar/AsuryaniArrivalsFlavor" value="At a word from the commanding Farseer, a psychic missive is sent out through the Webway, to the craftworlds, exodite planets and roving Rangers, requesting support in this critical endeavour. Though the Aeldari race is dying, they will die fighting—and they come to Gladius to die there."/>
 	<entry name="Eldar/Command" value="Command"/>
-	<entry name="Eldar/CommandDescription" value="Increases the accuracy of allied units in the area."/>
+	<entry name="Eldar/CommandDescription" value="Increases the accuracy of allied Craftworld Aeldari units in the area."/>
 	<entry name="Eldar/CommandFlavor" value="Autarchs walk the Path of Command, and even the Exarchs of the aspect shrines defer to them. An Autarch personally co-ordinates the fire of his army, with deft signals and comms, combining firepower and movement to lure enemies into ingenious death-traps."/>
 	<entry name="Eldar/CrystalTargetingMatrix" value="Crystal Targeting Matrix"/>
 	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Increases the accuracy."/>
@@ -322,7 +322,7 @@
 	<entry name="Eldar/KhainesMightDescription" value="Increases the melee attacks of the Autarch."/>
 	<entry name="Eldar/KhainesMightFlavor" value="An Autarch has mastery of all the Exarch shrines and has learned something from them all. Few mortal creatures can stand against the skill of an Autarch when fully unleashed."/>
 	<entry name="Eldar/LinkedFire" value="Linked Fire"/>
-	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armor penetration of target allied Fire Prism."/>
+	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armor penetration of target allied Fire Prism’s Prism Cannon."/>
 	<entry name="Eldar/LinkedFireFlavor" value="The unusual design of a Fire Prism’s Prism Cannon crystal is designed to allow it to further concentrate its already-intense beam by feeding it into another Fire Prism, focusing both machine’s firepower into a single shot."/>
 	<entry name="Eldar/MindWar" value="Mind War"/>
 	<entry name="Eldar/MindWarDescription" value="Reduces the accuracy of target enemy unit. Deals damage based on the difference in morale between the Farseer Skyrunner and the target unit."/>
@@ -349,7 +349,7 @@
 	<entry name="Eldar/WarShoutDescription" value="Reduces the morale of adjacent enemy units."/>
 	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready..."/>
 	<entry name="Eldar/WebwayRedoubt" value="Found Webway Redoubt"/>
-	<entry name="Eldar/WebwayRedoubtDescription" value="Founds city on a claimed Webway Gate."/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Founds city on a claimed Webway Gate.<br/><br/>Cities can only be found where there are no other cities within a 4 tile radius. Each city after the first decreases loyalty in all cities by 6."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webway’s limitless power to devastate any enemies foolish enough to venture near."/>
 	<entry name="Eldar/WebwayTravel" value="Webway Travel"/>
 	<entry name="Eldar/WebwayTravelDescription" value="Travel from one allied Webway Gate or Webway Redoubt to another."/>

@@ -31,12 +31,21 @@
 	<entry name="EnduranceImplant" value="Endurance Implant"/>
 	<entry name="EnduranceImplantDescription" value="Item that increases the movement."/>
 	<entry name="EnduranceImplantFlavor" value="An atypical Jokaero device, this implant weaves its way into the host organism, to optimise its biological systems. Its user will find itself tireless, able to run faster, fight for longer, and generally keep going—until its overwrought body gives way, that is."/>
+	<entry name="EntropicLocum" value="Entropic Locum"/>
+	<entry name="EntropicLocumDescription" value="Item that increases the armour penetration."/>
+	<entry name="EntropicLocumFlavor" value="Apparently using similar design principles to a Graviton Gun, this Jokaero device can be used alongside a gunsight or parallel to a weapon’s blade. When activated, it causes the molecules in a very small volume of the target to become disordered and collapse inwards, leading to a single weak spot on the target that your weapon just happens to already be pointing at."/>
+	<entry name="FaolchusWing" value="Faolchu's Wing"/>
+	<entry name="FaolchusWingDescription" value="Item that consumes action to increase movement."/>
+	<entry name="FaolchusWingFlavor" value="When Eldanesh fell battling Khaine, the great falcon Faolchú was disconsolate. Faolchú gifted a single golden pinfeather to Eldanesh’s heirs, that perhaps its swiftness might aid them where her own had failed. Legend tells that this artefact is that selfsame token of grief, handed down through generations of Aeldari, and surviving even the tumult of the Fall."/>
 	<entry name="ForbiddenKnowledge" value="Forbidden Knowledge"/>
 	<entry name="ForbiddenKnowledgeDescription" value="Item that increases the level."/>
 	<entry name="ForbiddenKnowledgeFlavor" value="This box of black stone is heavily inscribed in ancient runes, possibly Exodite, possibly Old One. Who knows what it holds? Whispered secrets an aeon-old? Deadly traps? Miracles of knowledge long thought lost? Unholy power from unholy gods? Only a soul brave enough to open it and discover for themselves will ever know..."/>
 	<entry name="JokaeroDigitalWeapon" value="Jokaero Digital Weapon"/>
 	<entry name="JokaeroDigitalWeaponDescription" value="Item that deals damage to the target enemy unit."/>
 	<entry name="JokaeroDigitalWeaponFlavor" value="Miniaturized killing tools of remarkable power, commonly concealed within jewellery, and created by a race of primate-like xenos with an apparently instinctive understanding of technology. The Imperium has, as yet, been unable to replicate the construction of these digi-weapons."/>
+	<entry name="LaurelsOfCommand" value="Laurels of Command"/>
+	<entry name="LaurelsOfCommandDescription" value="Item that restores the morale of adjacent allied units."/>
+	<entry name="LaurelsOfCommandFlavor" value="The Laurels of Command are a callous and controversial means to ensure obedience. Concealed within their peerless artistry is a band of empathic-impulsion circuitry which allows the wearer limited control over the minds of indoctrinated individuals via subliminal suggestion. Under their effects even cowards fight to the last, while orders are executed in perfect synchronisation."/>
 	<entry name="LightningGauntlet" value="Lightning Gauntlet"/>
 	<entry name="LightningGauntletDescription" value="Item that increases the damage of the next melee attack."/>
 	<entry name="LightningGauntletFlavor" value="With talons created from adamantium and the telltale blue glow of a power weapon, Lightning Claws are normally only mounted on Terminator armour. However rare single gauntlets can be found small enough to be carried by a normal warrior."/>
@@ -62,7 +71,7 @@
 	<entry name="ScrollsOfMagnusDescription" value="Item that increases the research output."/>
 	<entry name="ScrollsOfMagnusFlavor" value="These illuminated pages of skin are fragments of the repository of sorcery compiled by the Primarch of the Thousand Sons, and contain arcane lore from across the galaxy. None possess them for long and remain sane, for they have their own ghastly sentience."/>
 	<entry name="StunGrenade" value="Stun Grenade"/>
-	<entry name="StunGrenadeDescription" value="Item that prevents the target enemy infantry unit from acting."/>
+	<entry name="StunGrenadeDescription" value="Item that prevents the target enemy infantry or monstrous creature from acting."/>
 	<entry name="StunGrenadeFlavor" value="An ancient design, Stun grenades use a combination of a loud explosion and a bright flash to temporarily disable any combatants in the blast area."/>
 	<entry name="TantalisingIcon" value="Tantalising Icon"/>
 	<entry name="TantalisingIconDescription" value="Item that increases the influence output."/>

@@ -23,10 +23,14 @@
 	<entry name="BlindGrenadeDescription" value="<string name='Items/BlindGrenadeDescription'/>"/>
 	<entry name="CombatStimulant" value="<string name='Items/CombatStimulant'/>"/>
 	<entry name="CombatStimulantDescription" value="<string name='Items/CombatStimulantDescription'/>"/>
+	<entry name="FaolchusWing" value="<string name='Items/FaolchusWing'/>"/>
+	<entry name="FaolchusWingDescription" value="<string name='Items/FaolchusWingDescription'/>"/>
 	<entry name="ForbiddenKnowledge" value="<string name='Items/ForbiddenKnowledge'/>"/>
 	<entry name="ForbiddenKnowledgeDescription" value="<string name='Items/ForbiddenKnowledgeDescription'/>"/>
 	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
 	<entry name="JokaeroDigitalWeaponDescription" value="<string name='Items/JokaeroDigitalWeaponDescription'/>"/>
+	<entry name="LaurelsOfCommand" value="<string name='Items/LaurelsOfCommand'/>"/>
+	<entry name="LaurelsOfCommandDescription" value="<string name='Items/LaurelsOfCommandDescription'/>"/>
 	<entry name="PoweredBolas" value="<string name='Items/PoweredBolas'/>"/>
 	<entry name="PoweredBolasDescription" value="<string name='Items/PoweredBolasDescription'/>"/>
 	<entry name="StunGrenade" value="<string name='Items/StunGrenade'/>"/>
@@ -212,7 +216,7 @@
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Sacrifices population to Slaanesh to increase the influence output of Altars of Chaos and loyalty output of Meadows of Sorrow in the city."/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="Stop your ears with wax, bind your mouth, stitch up your eyes, and tie yourself down. Only then invoke Slaanesh, so that you may not succumb utterly to the Pleasure God’s irresistible desires."/>
 	<entry name="ChaosSpaceMarines/Sacrifice" value="Sacrifice"/>
-	<entry name="ChaosSpaceMarines/SacrificeDescription" value="Lose hitpoints to restores the hitpoints of the target allied unit."/>
+	<entry name="ChaosSpaceMarines/SacrificeDescription" value="Lose hitpoints to restore the hitpoints of the target allied unit."/>
 	<entry name="ChaosSpaceMarines/SacrificeFlavor" value="The psyker uses a sacrificial soul to remould and repair an unholy Daemon-form. The tainted spirits of Warpsmiths are particularly invigorating offerings to those Daemon Engines that are in their charge."/>
 	<entry name="ChaosSpaceMarines/SelfRepair" value="Self-Repair"/>
 	<entry name="ChaosSpaceMarines/SelfRepairDescription" value="Restores the hitpoints."/>
@@ -284,6 +288,75 @@
 	<entry name="DogmaAstrates" value="Dogma Astartes"/>
 	<entry name="DogmaAstratesDescription" value="Increases the loyalty output of the fortress-city."/>
 	<entry name="DogmaAstratesFlavor" value="The Chaplains of the Space Marines are grim spiritual guardians, whose first duty is to be ever watchful for the dangers of pride, doubt and heresy. Daunting even to their own brethren, Chaplains rely on dogma and liturgy to keep their brothers from spiritual corruption."/>
+	<entry name="Dominate" value="Dominate"/>
+	<entry name="DominateDescription" value="Prevents target enemy infantry or monstrous creature from acting."/>
+	<entry name="DominateFlavor" value="The psyker reaches into his foe’s mind, trammelling his soul and crushing his will to fight on."/>
+	<entry name="Eldar/ActivateWebwayGate" value="Activate Webway Gate"/>
+	<entry name="Eldar/ActivateWebwayGateDescription" value="Activates and claims a neutral Webway Gate."/>
+	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime..."/>
+	<entry name="Eldar/AutarchsAssault" value="Autarch's Assault"/>
+	<entry name="Eldar/AutarchsAssaultDescription" value="Kills with the Autarch increase the damage of allied Craftworld Aeldari units in the area."/>
+	<entry name="Eldar/AutarchsAssaultFlavor" value="The Autarch is the master of warfare, having lived many lives in every Aeldari aspect shrine. Every one of his skilful attacks is both an inspiration to other Aeldari and a lesson in how to conduct war most effectively."/>
+	<entry name="Eldar/AsuryaniArrivals" value="Asuryani Arrivals"/>
+	<entry name="Eldar/AsuryaniArrivalsDescription" value="Increases the growth rate."/>
+	<entry name="Eldar/AsuryaniArrivalsFlavor" value="At a word from the commanding Farseer, a psychic missive is sent out through the Webway, to the craftworlds, exodite planets and roving Rangers, requesting support in this critical endeavour. Though the Aeldari race is dying, they will die fighting—and they come to Gladius to die there."/>
+	<entry name="Eldar/Command" value="Command"/>
+	<entry name="Eldar/CommandDescription" value="Increases the accuracy of allied Craftworld Aeldari units in the area."/>
+	<entry name="Eldar/CommandFlavor" value="Autarchs walk the Path of Command, and even the Exarchs of the aspect shrines defer to them. An Autarch personally co-ordinates the fire of his army, with deft signals and comms, combining firepower and movement to lure enemies into ingenious death-traps."/>
+	<entry name="Eldar/CrystalTargetingMatrix" value="Crystal Targeting Matrix"/>
+	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Increases the accuracy."/>
+	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="Utilising advanced scanner technologies, this targeting matrix allows pinpoint fire even when on the move."/>
+	<entry name="Eldar/DestructorRenewer" value="Renewer / Destructor"/>
+	<entry name="Eldar/DestructorRenewerDescription" value="Restores the hitpoints of target allied unit or damages target enemy unit."/>
+	<entry name="Eldar/DestructorRenewerFlavor" value="Caging a portion of his psychic might, the Spiritseer sends waves of energy forth to destroy his enemies in a burst of azure flame--or, if the need arises, heal the wounds of his allies."/>
+	<entry name="Eldar/Doom" value="Doom"/>
+	<entry name="Eldar/DoomDescription" value="Increases the damage taken by target enemy unit."/>
+	<entry name="Eldar/DoomFlavor" value="With a simple manipulation of that which is to come, the Farseer grants a darkened fate to a chosen foe. While this shadow rests upon the enemy’s soul, death seeks them out above all others, each blow or shot that comes their way rendered inescapably lethal."/>
+	<entry name="Eldar/EmboldenHorrify" value="Embolden / Horrify"/>
+	<entry name="Eldar/EmboldenHorrifyDescription" value="Restores the morale of target allied unit or decreases the morale of target enemy unit."/>
+	<entry name="Eldar/EmboldenHorrifyFlavor" value="The Spiritseer calls down the splendour of battle, instilling his allies with valour or sappingcourage from his foes."/>
+	<entry name="Eldar/KhaineAwakened" value="Khaine Awakened"/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Increases the melee attacks and melee damage, decreases the morale loss and grants immunity to fear and pinning to adjacent friendly Aeldari units."/>
+	<entry name="Eldar/KhaineAwakenedFlavor" value="As the Wailing Doom cries out for blood and the Avatar rouses itself for war, so too are nearby Aeldari driven to greater deeds in his name. Fearing nothing, they throw themselves into the melee battle-crazed."/>
+	<entry name="Eldar/KhainesMight" value="Khaine's Might"/>
+	<entry name="Eldar/KhainesMightDescription" value="Increases the melee attacks of the Autarch."/>
+	<entry name="Eldar/KhainesMightFlavor" value="An Autarch has mastery of all the Exarch shrines and has learned something from them all. Few mortal creatures can stand against the skill of an Autarch when fully unleashed."/>
+	<entry name="Eldar/LinkedFire" value="Linked Fire"/>
+	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armor penetration of target allied Fire Prism’s Prism Cannon."/>
+	<entry name="Eldar/LinkedFireFlavor" value="The unusual design of a Fire Prism’s Prism Cannon crystal is designed to allow it to further concentrate its already-intense beam by feeding it into another Fire Prism, focusing both machine’s firepower into a single shot."/>
+	<entry name="Eldar/MindWar" value="Mind War"/>
+	<entry name="Eldar/MindWarDescription" value="Reduces the accuracy of target enemy unit. Deals damage based on the difference in morale between the Farseer Skyrunner and the target unit."/>
+	<entry name="Eldar/MindWarFlavor" value="The Farseer reaches out to attack the mind of an enemy in a desperate mental duel. Foes find their thoughts invaded by the crushing presence of the Farseer, his ancient and inscrutable will extinguishing their personality with horrific ease, triggering a cascade of psychosomatic trauma."/>
+	<entry name="Eldar/ProtectJinx" value="Protect / Jinx"/>
+	<entry name="Eldar/ProtectJinxDescription" value="Increases the armour of target allied unit or decreases the armour of target enemy unit."/>
+	<entry name="Eldar/ProtectJinxFlavor" value="Chained by runes of power, fate itself is bound to the Spiritseer’s will."/>
+	<entry name="Eldar/ReturnOfTheAeldari" value="Return of the Aeldari"/>
+	<entry name="Eldar/ReturnOfTheAeldariDescription" value="Increases the flat amount of resources gained from outposts."/>
+	<entry name="Eldar/ReturnOfTheAeldariFlavor" value="After the disappearance of the Old Ones, the Aeldari ruled this planet for millions of years. They understand better than anyone else how to best cultivate and access its unique resources."/>
+	<entry name="Eldar/SpiritMark" value="Spirit Mark"/>
+	<entry name="Eldar/SpiritMarkDescription" value="Increases the accuracy of allied Wraithblades and Wraithknights."/>
+	<entry name="Eldar/SpiritMarkFlavor" value="The Avatar’s presence invigorates the dead distinctly from the living. Whilst the latter are filled with Khaine’s incandescent rage, those machines manned by spirit crystals instead find their awareness raised from their usual somnambulance, enabling them to better focus on their targets."/>
+	<entry name="Eldar/TranscendentBliss" value="Transcendent Bliss"/>
+	<entry name="Eldar/TranscendentBlissDescription" value="Increases the loyalty."/>
+	<entry name="Eldar/TranscendentBlissFlavor" value="The life of an Aeldari is infinitely richer than that of a human, given their tremendous sensitivity, intellect and intensity of feeling—and sometimes it takes shared moments of that bliss to remind the Aeldari what they’re fighting for in this dark universe."/>
+	<entry name="Eldar/VectorDancer" value="Vector Dancer"/>
+	<entry name="Eldar/VectorDancerDescription" value="Increases the armour against ranged attacks."/>
+	<entry name="Eldar/VectorDancerFlavor" value="Some aircraft are crafted with an eye towards manoeuvrability."/>
+	<entry name="Eldar/VectoredEngines" value="Vectored Engines"/>
+	<entry name="Eldar/VectoredEnginesDescription" value="Increases the armour against ranged attacks."/>
+	<entry name="Eldar/VectoredEnginesFlavor" value="Vectored engines allow the pilot of an Aeldari vehicle to rapidly alter its facing, placing deadly weapons, or stronger armour, to the fore. Often, this can mean the difference between sustaining critical damage and taking an indirect blow that can soon be shrugged off."/>
+	<entry name="Eldar/WarShout" value="War Shout"/>
+	<entry name="Eldar/WarShoutDescription" value="Reduces the morale of adjacent enemy units."/>
+	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready..."/>
+	<entry name="Eldar/WebwayRedoubt" value="Found Webway Redoubt"/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Founds city on a claimed Webway Gate.<br/><br/>Cities can only be found where there are no other cities within a 4 tile radius. Each city after the first decreases loyalty in all cities by 6."/>
+	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webway’s limitless power to devastate any enemies foolish enough to venture near."/>
+	<entry name="Eldar/WebwayTravel" value="Webway Travel"/>
+	<entry name="Eldar/WebwayTravelDescription" value="Travel from one allied Webway Gate or Webway Redoubt to another."/>
+	<entry name="Eldar/WebwayTravelFlavor" value="The unique Webway sub-structure riddling Gladius Prime enables the Aeldari to travel rapidly between the gateways dotted across the planet—though now that they are active, wise opposing races will recognise their threat and eliminate them on first sight."/>
+	<entry name="Eldar/WillOfAsuryan" value="Will of Asuryan"/>
+	<entry name="Eldar/WillOfAsuryanDescription" value="Restores the morale of allied units in the area."/>
+	<entry name="Eldar/WillOfAsuryanFlavor" value="The leader of the Aeldari Gods, Asuryan provided guidance to the growing Aeldari race before his consumption by Slaanesh. The Farseers of Gladius can draw upon his might to bolster their forces, inspiring them to fight on."/>
 	<entry name="Enfeeble" value="Enfeeble"/>
 	<entry name="EnfeebleDescription" value="Reduces the damage and movement of the target enemy unit."/>
 	<entry name="EnfeebleFlavor" value="As the psyker channels his powers, tendrils of Warp energy lash over his victims, every caress sapping strength and vitality from their bodies."/>
@@ -305,12 +378,14 @@
 	<entry name="GunnersKillOnSight" value="“Gunners, Kill on Sight!”"/>
 	<entry name="GunnersKillOnSightDescription" value="Increases the ranged attacks of the Tank Commander and adjacent allied tanks."/>
 	<entry name="GunnersKillOnSightFlavor" value="The officer gives his men free rein to unleash discretionary fire."/>
+	<entry name="Hallucination" value="Hallucination"/>
+	<entry name="HallucinationDescription" value="Decreases the attacks of target enemy unit."/>
+	<entry name="HallucinationFlavor" value="Paranoia, confusion and panic are heightened to a debilitating degree as the telepath alters his foes’ perceptions."/>
 	<entry name="HammerOfWrath" value="Hammer of Wrath"/>
 	<entry name="HammerOfWrathDescription" value="Increases the damage."/>
 	<entry name="HammerOfWrathFlavor" value="Many warriors hurl themselves headlong into combat, seeking to crush or trample the foe."/>
 	<entry name="Heal" value="Hold Position Until Healed"/>
-	<entry name="HealDescription" value="Holds position until fully healed.<br/><br/>Units automatically heal if they have not taken damage and have full movement and action points remaining."/>
-	<entry name="HealProperties" value="<icon texture='GUI/Bullet'/>This unit heals %1%%% per turn<br/><icon texture='GUI/Bullet'/>%2% turns until fully healed"/>
+	<entry name="HealDescription" value="Holds position until fully healed."/>
 	<entry name="HealingSurge" value="Healing Surge"/>
 	<entry name="HealingSurgeDescription" value="Restores the hitpoints."/>
 	<entry name="HealingSurgeFlavor" value="“I haven't lost an arm, brother. It's right over there.”<br/>  — Captain Alessio Cortez, Crimson Fists"/>
@@ -324,7 +399,7 @@
 	<entry name="JetPack" value="Jet Pack"/>
 	<entry name="JetPackDescription" value="Flies across obstacles to the target tile."/>
 	<entry name="Jink" value="Jink"/>
-	<entry name="JinkDescription" value="Increases the ranged damage reduction, but reduces the accuracy."/>
+	<entry name="JinkDescription" value="Increases the ranged damage reduction but reduces the accuracy. Cannot be used if the unit has attacked this turn."/>
 	<entry name="JinkFlavor" value="Some units favour speed and agility rather than heavy armour to keep them alive on the battlefield, dodging and weaving unscathed through hails of incoming fire."/>
 	<entry name="JumpPack" value="Jump Pack"/>
 	<entry name="JumpPackDescription" value="Flies across obstacles to the target tile."/>
@@ -412,9 +487,6 @@
 	<entry name="Necrons/SolarPulse" value="Solar Pulse"/>
 	<entry name="Necrons/SolarPulseDescription" value="Reduces the accuracy of enemy infantry and monstrous creature units in the area."/>
 	<entry name="Necrons/SolarPulseFlavor" value="The Solar Staff burns with the light of truth and honour, and when its powers are unleashed they are a bane to all shadows. Set loose, the staff's energies blaze outward in a mighty flare, as though a new sun was born. The darkness is driven back by this false dawn, and the foe reels as their eyes are blinded and their deceptions are laid bare."/>
-	<entry name="Necrons/TargetingRelay" value="Targeting Relay"/>
-	<entry name="Necrons/TargetingRelayDescription" value="Increases the ranged accuracy of adjacent allied Necron units that are neither vehicles nor fortifications."/>
-	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers might appear fragile, but their unique Quantum Shielding keeps them in one piece, in order that their Targeting Relay can amplify the firepower of nearby warriors."/>
 	<entry name="Necrons/TheBoundCoalescent" value="The Bound Coalescent"/>
 	<entry name="Necrons/TheBoundCoalescentDescription" value="Merges with an Obelisk to create a Tesseract Vault."/>
 	<entry name="Necrons/TheBoundCoalescentFlavor" value="The C'tan were immeasurably-powerful and wholly evil; these shards, fragmented by the Necrons' desperate conspiracy, are all that remains of them. In desperate times, two shards might be allowed to re-coalesce, to form a greater weapon—but the Necrons never forget the insane power of the originals."/>
@@ -433,7 +505,7 @@
 	<entry name="OrbitalBombardmentDescription" value="Operation that bombards the target enemy unit."/>
 	<entry name="OrbitalBombardmentFlavor" value="“No Exterminatus Extremis order is carried out lightly. To order the death of a planet by Virus Bomb, Cyclonic Torpedo or Atmospheric Incinerator, one must be certain of one's intent. One must accept that millions, even billions, will die so that the rest of humanity may live.”<br/>  — Lord High Admiral Soheil, at the scouring of Colchis"/>
 	<entry name="OrbitalDeployment" value="Orbital Deployment"/>
-	<entry name="OrbitalDeploymentDescription" value="Deploys the unit from within the city to the target tile."/>
+	<entry name="OrbitalDeploymentDescription" value="Deploys the unit from a city tile to the target tile."/>
 	<entry name="OrbitalDeploymentFlavor" value="Some units make their way to battle via tunnelling, teleportation, flying or some other extraordinary means which allows them to appear in the thick of the fighting."/>
 	<entry name="OrbitalScan" value="Orbital Scan"/>
 	<entry name="OrbitalScanDescription" value="Operation that reveals the target tile and adjacent tiles."/>
@@ -448,7 +520,7 @@
 	<entry name="Orks/BustHeadsFlavor" value="“Oi, you zogging berks! Stop 'itting each uvver and start 'itting the beakies! Or do I have to start 'itting... you? I ain't askin'—I's tellin'. Geddit?”<br/>  — Da Rok, Ork Nob"/>
 	<entry name="Orks/ChannelMentalEmissions" value="Channel Mental Emissions"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Increases the research output of the clan."/>
-	<entry name="Orks/ChannelMentalEmissionsFlavor" value="“The Orks are the pinnacle of creation. For them, the great struggle is won. They have evolved a society which knows no stress or angst. Who are we to judge them? We Eldar who have failed, or the Humans, on the road to ruin in their turn? And why? Because we sought answers to questions that an Ork wouldn't even bother to ask! We see a culture that is strong and despise it as crude.”<br/>  — Uthan the Perverse, Eldar Philosopher"/>
+	<entry name="Orks/ChannelMentalEmissionsFlavor" value="“The Orks are the pinnacle of creation. For them, the great struggle is won. They have evolved a society which knows no stress or angst. Who are we to judge them? We Aeldari who have failed, or the Humans, on the road to ruin in their turn? And why? Because we sought answers to questions that an Ork wouldn't even bother to ask! We see a culture that is strong and despise it as crude.”<br/>  — Uthan the Perverse, Aeldari Philosopher"/>
 	<entry name="Orks/CyborkImplants" value="Cybork Implants"/>
 	<entry name="Orks/CyborkImplantsDescription" value="Permanently increases the damage and damage reduction of the target allied infantry unit."/>
 	<entry name="Orks/CyborkImplantsFlavor" value="“Exhibit 40: Ork skin sample. This was from a senior individual in the Orkoid hierarchy, as can be seen from the increased thickness of bone, muscle and ablative skin, and the reduction in nerve structures. The laser grid is there to prevent it attempting to regrow the entire Ork.“<br/>  — Lecture transcripts, Grigomen ”Orklover” Delr, Rogue Trader and amateur Xenologist"/>
@@ -511,12 +583,18 @@
 	<entry name="ShockwaveFlavor" value="<string name='Weapons/ShockwaveFlavor'/>"/>
 	<entry name="Shop" value="Shop"/>
 	<entry name="ShopDescription" value="Buys and sells items for influence. Available at the Jokaero Trader Encampment."/>
+	<entry name="Shrouding" value="Shrouding"/>
+	<entry name="ShroudingDescription" value="Increases the ranged damage reduction of adjacent allied units."/>
+	<entry name="ShroudingFlavor" value="The psyker uses his mastery of the Warp to fog the minds of his enemies, clouding their sight and instincts so that he appears as nothing more than an indistinct shadow."/>
 	<entry name="SiegeMasters" value="Deploy Siege Masters"/>
 	<entry name="SiegeMastersDescription" value="Chapter tactic that increases the damage of units attacking enemy units in cities and fortifications."/>
 	<entry name="SiegeMastersFlavor" value="“A fortress circumvented ceases to be an obstacle. A fortress destroyed ceases to be a threat. Do not forget the difference.”<br/>  — Leman Russ, Primarch of the Space Wolves."/>
 	<entry name="Signum" value="Signum"/>
 	<entry name="SignumDescription" value="Increases the ranged accuracy."/>
 	<entry name="SignumFlavor" value="The signum is a communication device that quickly processes and broadcasts targeting data. This ancient piece of technology allows one member of a Space Marine squad to fire with even greater accuracy, battering vital targets with a hail of unerring shots."/>
+	<entry name="SkilledJink" value="Skilled Jink"/>
+	<entry name="SkilledJinkDescription" value="<string name='Actions/JinkDescription'/>"/>
+	<entry name="SkilledJinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
 	<entry name="Skip" value="Skip"/>
 	<entry name="SkipDescription" value="Skips the turn."/>
 	<entry name="Sleep" value="Sleep"/>
@@ -572,7 +650,7 @@
 	<entry name="Tau/KauyonDescription" value="Metastrategy that increases the ranged damage reduction of allied T'au units in the area. Shares cooldown with other metastrategies."/>
 	<entry name="Tau/KauyonFlavor" value="”Your troops are losing. They fall back! They flee! The enemy pursues, hungry for our valourous blood! Everything is lost… then your troops turn and fire. You reveal the flanking troops. And your enemy is in a pocket, encircled. The patient hunter triumphs.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/Markerlight" value="Markerlight"/>
-	<entry name="Tau/MarkerlightDescription" value="Acquire enemy unit as target for increased damage taken for the next combat."/>
+	<entry name="Tau/MarkerlightDescription" value="Increases the ranged accuracy of T'au against the target enemy unit. Reduces the ranged damage reduction of the target enemy unit against T'au. Ends after the target enemy unit is attacked by T'au."/>
 	<entry name="Tau/MarkerlightFlavor" value="A markerlight is a hand-held device that projects a simple beam onto a target which then transmits a torrent of targeting data to other T'au units, allowing them to engage the target with unerring accuracy."/>
 	<entry name="Tau/Montka" value="Mont'ka (Killing Blow)"/>
 	<entry name="Tau/MontkaDescription" value="Metastrategy that increases the damage of allied T'au units in the area against enemy units below 50% hitpoints. Shares cooldown with other metastrategies."/>
@@ -632,7 +710,7 @@
 	<entry name="Tau/StormOfFireDescription" value="Increases the attacks of the Ethereal and adjacent allied T'au infantry and monstrous creatures. Shares cooldown with Sense of Stone."/>
 	<entry name="Tau/StormOfFireFlavor" value="”It burns so briefly, the light of my children, so briefly. But, by the Greater Good, it burns so bright!”<br/>  — Aun’Va, Master of the Undying Spirit."/>
 	<entry name="Tau/SubvertCity" value="Subvert City"/>
-	<entry name="Tau/SubvertCityDescription" value="Reduces the loyalty of target enemy city."/>
+	<entry name="Tau/SubvertCityDescription" value="Reduces the loyalty of target enemy city. Cost scales with target population."/>
 	<entry name="Tau/SubvertCityFlavor" value="”What’s that? You call that a house!? Someone lives in that?! Oh my. Well, it shows just how brave you all are. Your masters know you don’t need proper shelter or water or food or sleep or rest to die doing your jobs, for the ‘Great Emperator’! If he even exists. Anyway, if you change your mind about joining the T’au, do let me know.”<br/>  — Por'el Dal'kor Slytongue, water caste emissary"/>
 	<entry name="Tau/Unity" value="Unity"/>
 	<entry name="Tau/UnityDescription" value="Increases the loyalty output of all cities."/>
@@ -663,13 +741,13 @@
 	<entry name="Tyranids/AdaptiveBiologyDescription" value="Increases the feel no pain damage reduction for the turn after taking damage."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="This hero has been created to adapt against the weaponry used by the current prey world's defenders."/>
 	<entry name="Tyranids/AlphaWarrior" value="Alpha Warrior"/>
-	<entry name="Tyranids/AlphaWarriorDescription" value="Increases the accuracy of all allied Tyranid Warriors in range."/>
+	<entry name="Tyranids/AlphaWarriorDescription" value="Increases the accuracy of allied Tyranid Warriors in range."/>
 	<entry name="Tyranids/AlphaWarriorFlavor" value="“To think that Tyranids are mindless beasts is a grave mistake. When you fight Tyranids you face not only those before you on the battlefield, but the untold thousands which seek to surround you, which attack your supporting units and destroy your supply lines in perfect synchronicity.”<br/>  — Marneus Calgar, Chapter Master of the Ultramarines"/>
 	<entry name="Tyranids/BroodProgenitor" value="Brood Progenitor"/>
 	<entry name="Tyranids/BroodProgenitorDescription" value="Increases the attacks of allied Termagants."/>
 	<entry name="Tyranids/BroodProgenitorFlavor" value="“This horror, this abomination, has thought and purpose that functions on an unimaginable, galactic scale and all we can do is try to stop the swarms of bioengineered monsters it unleashes upon us by instinct. We have given the horror a name to salve our fears; we call it the Tyranid race, but if it is aware of us at all it must know us only as Prey.”<br/>  — Inquisitor Czevak"/>
 	<entry name="Tyranids/Catalyst" value="Catalyst"/>
-	<entry name="Tyranids/CatalystDescription" value="Restores the hitpoints of the Tervigon and target allied unit."/>
+	<entry name="Tyranids/CatalystDescription" value="Restores the hitpoints of the Tervigon and target allied Tyranids unit."/>
 	<entry name="Tyranids/CatalystFlavor" value="Through its synaptic conduits, the power of the Hive Mind reaches out to infuse the organisms under its control, invigorating their systems with such unnatural vitality that they can ignore the most grievous of wounds."/>
 	<entry name="Tyranids/ClearTile" value="Clear Tile (Tyranids)"/>
 	<entry name="Tyranids/ClearTileDescription" value="Clears the tile of wire weed, imperial ruins and forests, one at a time."/>
