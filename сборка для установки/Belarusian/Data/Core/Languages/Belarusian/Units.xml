@@ -88,7 +88,7 @@
 	<entry name="ChaosSpaceMarines/DefilerDescription" value="Велізарны крокаход з разбуральнай зброяй блізкага і далёкага боя."/>
 	<entry name="ChaosSpaceMarines/DefilerFlavor" value="Defilers are truly massive beasts of war, twice the size of most other Daemon Engines and with a temperament to match. The ground shivers and melts as they stalk towards their foes on six massive, segmented legs, their great pincer-arms twitching and snipping with an impatient need to slice through warm flesh. The Defiler's crab-like body supports a daemonic torso that carries an array of deadly weaponry, ranging from reaper autocannons to racks of highly explosive missiles. It is the battle cannon mounted in its chest turret, however, that is undoubtedly its most potent armament. Each hell-forged shell that thunders out from its growling muzzle is capable of crippling a squad of Space Marines in a single earth-shaking blast."/>
 	<entry name="ChaosSpaceMarines/Havoc" value="Апусташальнікі"/>
-	<entry name="ChaosSpaceMarines/HavocDescription" value="Пяхота далёкага бою, якая больш дакладная ў нерухомым стане."/>
+	<entry name="ChaosSpaceMarines/HavocDescription" value="Пяхота далёкага бою, якая больш трапная ў нерухомым стане."/>
 	<entry name="ChaosSpaceMarines/HavocFlavor" value="Some Chaos Space Marine squads carry a high proportion of heavy weapons, the better to annihilate the hated foe. Known as Havocs, these squads provide devastating anti-infantry and anti-armour firepower, dominating large swathes of the battlefield with volley after punishing volley."/>
 	<entry name="ChaosSpaceMarines/Headquarters" value="<string name='Buildings/ChaosSpaceMarines/Headquarters'/>"/>
 	<entry name="ChaosSpaceMarines/HeadquartersDescription" value="Штаб-кватэра, якая ўяўляе абарону горада."/>
@@ -245,13 +245,13 @@
 	<entry name="Necrons/TriarchPraetorianDescription" value="Элітная скокавая адзінка пяхоты."/>
 	<entry name="Necrons/TriarchPraetorianFlavor" value="The Triarch Praetorians are the ancient law keepers of the Necron race, peerless warriors charged with the survival of the dynasties and the primacy of the ancient Necrontyr codes."/>
 	<entry name="Necrons/TriarchStalker" value="Трыярхі Паляўнічыя"/>
-	<entry name="Necrons/TriarchStalkerDescription" value="Універсальны крокаход, які пасля атакі дзеліцца сваёй цэллю з Некронамі хаўруснікамі для паляпшэння дакладнасці."/>
+	<entry name="Necrons/TriarchStalkerDescription" value="Універсальны крокаход, які пасля атакі дзеліцца сваёй цэллю з Некронамі хаўруснікамі для паляпшэння трапнасці."/>
 	<entry name="Necrons/TriarchStalkerFlavor" value="Like an enormous spider, a Triarch Stalker looms over the battlefield, its devastating weaponry directed by a high-ranking Triarch Praetorian. When a Triarch Stalker advances, it does so with a speed and surety that belies its jerking gait. Indeed, it can cover all manner of terrain with a deftness and precision seldom found in the walkers of less advanced races."/>
 	<entry name="Necrons/Warrior" value="Ваяры-Некроны"/>
 	<entry name="Necrons/WarriorDescription" value="Асноўная адзінка пяхоты."/>
 	<entry name="Necrons/WarriorFlavor" value="Even with only a glimmer of consciousness to guide it, a Necron Warrior is a fearsome and resilient foe. Armed with ancient energy weapons, they can scythe down their enemies with lethal volleys of gauss flayer fire, while their unyielding metal bodies repair themselves should they sustain damage."/>
 	<entry name="Neutral/Artefacts/Accuracy" value="Фантасмагорыўм"/>
-	<entry name="Neutral/Artefacts/AccuracyDescription" value="Стацыянарны артэфакт, які павялічвае дакладнасць."/>
+	<entry name="Neutral/Artefacts/AccuracyDescription" value="Стацыянарны артэфакт, які павялічвае трапнасць."/>
 	<entry name="Neutral/Artefacts/AccuracyFlavor" value="Inside this obelisk's dark metal, is an eggshell-coloured interior. The first explorer reports a feeling of being dismantled atom-by-atom before being rebuilt perfectly. Shortly after, the other faction members begin to experience visual hallucinations, mostly accurate, of what their nearby allies can see, allowing for unparalleled co-ordination of attacks."/>
 	<entry name="Neutral/Artefacts/AncientExterminatusDevice" value="Старажытная Прылада Экстэрмінатус"/>
 	<entry name="Neutral/Artefacts/AncientExterminatusDeviceDescription" value="Мабільны артэфакт, які можа знішчыць планету."/>
