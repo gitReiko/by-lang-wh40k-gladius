@@ -731,7 +731,7 @@
 	<entry name="LifeDrain" value="Life Drain"/>
 	<entry name="LifeDrainDescription" value="Increases the damage against infantry."/>
 	<entry name="LifeSteal" value="Life Steal"/>
-	<entry name="LifeStealDescription" value="Converts damage into healing."/>
+	<entry name="LifeStealDescription" value="Converts damage into healing for this and adjacent infantry units."/>
 	<entry name="LinebreakerBombardment" value="Linebreaker Bombardment"/>
 	<entry name="LinebreakerBombardmentDescription" value="Ignores the ranged damage reduction of the target unit when adjacent to an allied Vindicator."/>
 	<entry name="Luminagen" value="Luminagen"/>

@@ -148,6 +148,8 @@
 	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
 	<entry name="LifeStealFactor" value="Life Steal"/>
 	<entry name="LifeStealFactorIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealRadius" value="Life Steal Radius"/>
+	<entry name="LifeStealRadiusIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
 	<entry name="Loyalty" value="Loyalty"/>
 	<entry name="LoyaltyHint" value="<style name='Title'/>Loyalty<br/><style name='Default'/>Indicates the population's dedication to your cause. Each positive point of loyalty increases the city's total resource output by 1% while each negative point decreases it by 2% (down to -50%). Each city after the first decreases loyalty in all cities by 6."/>
 	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>

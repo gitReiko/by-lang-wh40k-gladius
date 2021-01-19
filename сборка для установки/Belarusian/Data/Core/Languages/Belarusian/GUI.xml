@@ -119,7 +119,7 @@
 	<entry name="Load" value="Загрузіць"/>
 	<entry name="LoadGame" value="Загрузіць гульню"/>
 	<entry name="MainMenu" value="Галоўнае меню"/>
-	<entry name="MarkTileHint" value="<style name='Heading'/>Пазначыць плітку [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Усталюйце пазнаку для хаўруснікаў. Саюзны ШЫ будзе імкнуцца перасоўваць свае адзінкі праз пазнакі."/>
+	<entry name="MarkTileHint" value="<style name='Heading'/>Пазначыць плітку [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Дадайце або выдаліце пазнаку для хаўруснікаў. Саюзны ШЫ будзе імкнуцца перасоўваць свае адзінкі праз пазнакі."/>
 	<entry name="MarksOfChaos" value="Знакі Хаосу"/>
 	<entry name="Max" value="макс"/>
 	<entry name="Menu" value="Меню"/>
@@ -149,6 +149,7 @@
 	<entry name="OnCooldown" value="На перазарадцы."/>
 	<entry name="OpenStore" value="Націсніце, каб адкрыць краму."/>
 	<entry name="Operations" value="Аперацыі і Тактыкі"/>
+	<entry name="Or" value="або"/>
 	<entry name="OrderCity" value="Загады гарадам (%1%)"/>
 	<entry name="OrderCityHint" value="Абраць наступны бяздзейны горад [<control name='Controls/NextTask'/>]."/>
 	<entry name="OrderUnits" value="Загады адзінкам (%1%)"/>

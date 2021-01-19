@@ -815,10 +815,10 @@
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="<string name='Traits/Eldar/AssaultWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus" value="Farseer's Summons"/>
 	<entry name="Eldar/AsuryaniArrivalsBonusDescription" value="Reduces the cost of Asuryani Arrivals."/>
-	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="My word is more than mere advice: it is an imprecation filtered through the consciousness of our storied dead, striving to bring one iota of order to the disordered universe. Our race understands that and listens to my word, not as that of a dictator but as an attentive student.”<br/>  — Farseer Kataimon of Malantai"/>
+	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="&quot;My word is more than mere advice: it is an imprecation filtered through the consciousness of our storied dead, striving to bring one iota of order to the disordered universe. Our race understands that and listens to my word, not as that of a dictator but as an attentive student.”<br/>  — Farseer Kataimon of Malantai"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2" value="Craftworlds' Pledge"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Description" value="Reduces the cooldown of Asuryani Arrivals."/>
-	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="When the Warlocks and Farseers of multiple craftworlds share a vision—a literal vision of the future, mind—then they and their craftworlds work as one. They will denude their own halls of life and spirit to fulfil their pledge to that future.”<br/>  — Lecture transcripts, Grigomen Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="&quot;When the Warlocks and Farseers of multiple craftworlds share a vision—a literal vision of the future, mind—then they and their craftworlds work as one. They will denude their own halls of life and spirit to fulfil their pledge to that future.”<br/>  — Lecture transcripts, Grigomen Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Eldar/CityTier2" value="<string name='Traits/Eldar/CityTier2'/>"/>
 	<entry name="Eldar/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Eldar/CityTier2Flavor" value="<string name='Traits/Eldar/CityTier2Flavor'/>"/>
@@ -912,6 +912,9 @@
 	<entry name="Eldar/WebwayGateBonus2" value="Webway Constriction"/>
 	<entry name="Eldar/WebwayGateBonus2Description" value="Removes the action cost from Webway Travel."/>
 	<entry name="Eldar/WebwayGateBonus2Flavor" value="Having received guidance from the Black Library on Gladius’ unique Webway layout, the spiritseers have planned out the shortest paths between any two gates, making the path between them as frictionless as any other step we might take."/>
+	<entry name="Eldar/WebwayRedoubt" value="Webway Redoubt"/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Grants the ability to found new cities on claimed Webway Gates."/>
+	<entry name="Eldar/WebwayRedoubtFlavor" value="<string name='Actions/Eldar/WebwayRedoubtFlavor'/>"/>
 	<entry name="Eldar/WraithknightStarcannon" value="Wraithknight Starcannons"/>
 	<entry name="Eldar/WraithknightStarcannonDescription" value="Grants Wraithknights two Starcannons."/>
 	<entry name="Eldar/WraithknightStarcannonFlavor" value="<string name='Weapons/StarcannonFlavor'/>"/>

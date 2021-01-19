@@ -148,6 +148,8 @@
 	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
 	<entry name="LifeStealFactor" value="Крадзеж жыцця"/>
 	<entry name="LifeStealFactorIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealRadius" value="Радыус крадзежа жыцця"/>
+	<entry name="LifeStealRadiusIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
 	<entry name="Loyalty" value="Лаяльнасць"/>
 	<entry name="LoyaltyHint" value="<style name='Title'/>Лаяльнасць<br/><style name='Default'/>Адлюстроўвае адданае вам насельніцтва. Кожнае дадатковае станоўчае ачко лаяльнасці павялічвае вытворчасць рэсурсаў на 1%. У той жа час кожнае  адмоўнае ачко лаяльнасці зменшвае вытворчасць на 2% (да -50%). Кожны горад, апроч першага, зменшвае лаяльнасць на 6 ува ўсіх іншых вашых гарадах."/>
 	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>

@@ -119,7 +119,7 @@
 	<entry name="Load" value="Load"/>
 	<entry name="LoadGame" value="Load Game"/>
 	<entry name="MainMenu" value="Main Menu"/>
-	<entry name="MarkTileHint" value="<style name='Heading'/>Mark Tile [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Place a marker for allies. AI allies will tend to move their units towards markers."/>
+	<entry name="MarkTileHint" value="<style name='Heading'/>Mark Tile [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Add or remove a marker for allies. AI allies will tend to move their units towards markers."/>
 	<entry name="MarksOfChaos" value="Marks of Chaos"/>
 	<entry name="Max" value="max"/>
 	<entry name="Menu" value="Menu"/>
@@ -149,6 +149,7 @@
 	<entry name="OnCooldown" value="On cooldown."/>
 	<entry name="OpenStore" value="Click to open store."/>
 	<entry name="Operations" value="Operations and Tactics"/>
+	<entry name="Or" value="or"/>
 	<entry name="OrderCity" value="Order Cities (%1%)"/>
 	<entry name="OrderCityHint" value="Select next idle city [<control name='Controls/NextTask'/>]."/>
 	<entry name="OrderUnits" value="Order Units (%1%)"/>
