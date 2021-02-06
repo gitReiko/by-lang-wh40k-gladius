@@ -133,7 +133,7 @@
 	<entry name="Eldar/CrimsonHunter" value="Барвовы Паляўнічы"/>
 	<entry name="Eldar/CrimsonHunterDescription" value="Лёткая адзінка, якая можа хірургічна дакладна выдаляць нават самых браняваных ворагаў."/>
 	<entry name="Eldar/CrimsonHunterFlavor" value="Leaving a blood-hued blur in their wake, the Crimson Hunters are the assassins of the sky. Perhaps the most unusual of the Aspects of Khaine, they embody the role of the remorseless hunter, who takes wing only to bring destruction to his chosen foes. Armed with pulse lasers and bright lances capable of reducing a man to a pillar of flame in a pinpoint, stabbing beam, the Crimson Hunters can surgically remove the leaders of an enemy army in a single pass."/>
-	<entry name="Eldar/FarseerSkyrunner" value="Вяшчун Бягучы Па Ветры"/>
+	<entry name="Eldar/FarseerSkyrunner" value="Вяшчун нябесны бягун"/>
 	<entry name="Eldar/FarseerSkyrunnerDescription" value="Герой-псайкер на хуткім матацыкле, які аслабляе ворагаў і аднаўляе баявы дух."/>
 	<entry name="Eldar/FarseerSkyrunnerFlavor" value="The Farseers that guide each craftworld are perhaps the most powerful all psykers, for by leading the Aeldari along the paths of fate they can bring salvation or doom to entire races. They are masters of prediction, and even in battle they perform their subtle art, casting up their wraithbone runes and interpreting changes in the glowing icons as they circle in the air."/>
 	<entry name="Eldar/FireDragon" value="Агнявыя Цмокі"/>
@@ -148,7 +148,7 @@
 	<entry name="Eldar/Headquarters" value="<string name='Buildings/Eldar/Headquarters'/>"/>
 	<entry name="Eldar/HeadquartersDescription" value="Штаб-кватэра, якая ўяўляе абарону горада."/>
 	<entry name="Eldar/HeadquartersFlavor" value="<string name='Buildings/Eldar/HeadquartersFlavor'/>"/>
-	<entry name="Eldar/HemlockWraithfighter" value="Знішчальнік-Здань Хэмлок"/>
+	<entry name="Eldar/HemlockWraithfighter" value="Прывідны знішчальнік тсуга"/>
 	<entry name="Eldar/HemlockWraithfighterDescription" value="Разбуральная лёткая адзінка, якая можа адначасна бараніць хаўруснікаў і аглушаць ворагаў."/>
 	<entry name="Eldar/HemlockWraithfighterFlavor" value="The ethereal scream of the Hemlock Wraithfighter drives a spike of terror into the mind, and even its flitting shadow can bring a brave man to his knees. The energies that pour from this eldritch craft are born of a psychic union between the living and the dead. Each Hemlock is piloted by a Spiritseer, a powerful psyker capable of assailing the minds of those below him with morbid visions. Stranger by far is his co-pilot, for the Wraithfighter is crewed by a dead Aeldari soul who controls weapons that would drive a mortal insane. As the Wraithfighter passes over the foe, its D-scythes flare bright – a silent second later, the craft’s victims slump, their souls severed from their bodies."/>
 	<entry name="Eldar/HowlingBanshee" value="Выючыя Баньшы"/>
@@ -365,7 +365,7 @@
 	<entry name="Orks/MekDescription" value="Пяхота, якая рамантуе машыны і засноўвае новыя гарады."/>
 	<entry name="Orks/MekFlavor" value="Without Mekboyz, Orks would lack for light, power, transport, and even guns (they lack for sanitation regardless, but that's another story). Whenever an Ork needs something building, be it a shiny new shoota or the boss' new ride, they go straight to the Meks. Furthermore, an Ork with teef to spare will take existing kit to the nearest Mek in the hope of having damage repaired, and maybe some kustomising done. It is a rare day that the customer gets what he asked for, but whatever the Mek turns out will normally be fairly flash all the same."/>
 	<entry name="Orks/MekGun" value="Гармата Мекаў"/>
-	<entry name="Orks/MekGunDescription" value="Браняваная зенітная адзінка."/>
+	<entry name="Orks/MekGunDescription" value="Браняваная зенітная адзінка"/>
 	<entry name="Orks/MekGunFlavor" value="The roar of Mek Gunz has heralded the end for many a hapless foe. Spitting out blasts of crackling energy, swatting planes out of the air or crushing their victims in crackling fists of bright green force, these big, clanky field guns have enough dakka to stomp even the toughest targets. Of course, as no self-respecting Ork would be left behind when there's a fight in the offing, crewing the gunz is left to the long-suffering grots."/>
 	<entry name="Orks/Painboy" value="Болехлопец"/>
 	<entry name="Orks/PainboyDescription" value="Герой, які лечыць і ўзмацняе саюзную пяхоту."/>
@@ -388,7 +388,7 @@
 	<entry name="SpaceMarines/Apothecary" value="Аптэкарыі"/>
 	<entry name="SpaceMarines/ApothecaryDescription" value="Пяхота, якая лечыць саюзную пяхоту."/>
 	<entry name="SpaceMarines/ApothecaryFlavor" value="These courageous field-surgeons face the full heat of battle, their nartheciums healing even grievous injuries, and their vials of combat stimms and anticoagulants quickly getting wounded brothers back into the fight. They also administer the Emperor's grace to those beyond help, extracting the progenoid glands containing the gene-seed so that the Space Marine's legacy might live on."/>
-	<entry name="SpaceMarines/AquilaMacroCannon" value="Макра-гармата Аквіла"/>
+	<entry name="SpaceMarines/AquilaMacroCannon" value="Макрагармата Аквіла"/>
 	<entry name="SpaceMarines/AquilaMacroCannonDescription" value="Масіўная фартыфікацыя з разбуральнай далёкабойнай гарматай."/>
 	<entry name="SpaceMarines/AquilaMacroCannonFlavor" value="Macro-cannon Aquila Strongpoints are massive fortifications, often used as bastions in Imperial defensive battle lines. Each consists of a munitions silo, topped by a large turret that houses the huge macro-cannon that gives the strongpoint its name."/>
 	<entry name="SpaceMarines/AssaultSpaceMarine" value="Космадэсантнікі-Штурмавікі"/>
