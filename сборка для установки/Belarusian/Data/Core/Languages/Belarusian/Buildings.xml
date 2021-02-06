@@ -51,7 +51,7 @@
 	<entry name="ChaosSpaceMarines/Construction" value="Варп-кузня"/>
 	<entry name="ChaosSpaceMarines/ConstructionDescription" value="Будынак, які будуе новыя будынкі, а таксама генеруе руду і ўплыў."/>
 	<entry name="ChaosSpaceMarines/ConstructionFlavor" value="Though the Warpsmiths’ Soul Forges are deep in the Realm of Chaos and hence inaccessible from Gladius, Chaos is nothing if not flexible. These Warp Forges are kept hot by the daily sacrifice of thousands of civilians, captured in the ruins of their fallen Hive World, to pull the warpbound buildings of Chaos into shimmering existence."/>
-	<entry name="ChaosSpaceMarines/Cult" value="Культ Хаосу"/>
+	<entry name="ChaosSpaceMarines/Cult" value="Культ хаосу"/>
 	<entry name="ChaosSpaceMarines/CultDescription" value="Будынак, які вырабляе адмысловыя адзінкі Хаосу і павялічвае лаяльнасць."/>
 	<entry name="ChaosSpaceMarines/CultFlavor" value="What are gods without followers? Here, Cultists and Dark Apostles alike plot to bring converts to the worship of Chaos—not a hard task on Gladius, once people see the inhuman Xenos, the undoubted effects of the Dark Gods’ powers, and the Daemonic shapes lingering in the chancel."/>
 	<entry name="ChaosSpaceMarines/Energy" value="Генератар звязаны з варпам"/>
@@ -75,7 +75,7 @@
 	<entry name="ChaosSpaceMarines/Infantry" value="Генная лабараторыя абамінатараў"/>
 	<entry name="ChaosSpaceMarines/InfantryDescription" value="Будынак, які падрыхтоўвае пяхоту, а таксама генеруе ежу і даследаванні."/>
 	<entry name="ChaosSpaceMarines/InfantryFlavor" value="Not all Chaos Space Marines date from the 30th millenium—others are recruited from civilians, brutally altered with geneseed taken from a fallen Marine. At this genelab, fallen Apothecaries operate on the strongest cultists drawn from Gladius’ ruined Hives. The few who survive the Abominators’ operations are implanted with Progenoid glands and recruited as new Chaos Space Marines."/>
-	<entry name="ChaosSpaceMarines/Influence" value="Алтар Хаосу"/>
+	<entry name="ChaosSpaceMarines/Influence" value="Алтар хаосу"/>
 	<entry name="ChaosSpaceMarines/InfluenceDescription" value="Будынак, які павялічвае ўплыў."/>
 	<entry name="ChaosSpaceMarines/InfluenceFlavor" value="Chaos Undivided is a contradiction in terms. Looking at the Daemons of each God—the giggling Horrors, the droning Plaguebearers, the raging Bloodletters, the gasping Daemonettes— nothing could be more dissimilar. Yet this altar reveals the brutal commonality behind Chaos: A dark stone. Gore-soaked ground. The raised knife. And the bacchanalia."/>
 	<entry name="ChaosSpaceMarines/Ore" value="Рабскія капальні"/>
@@ -88,7 +88,7 @@
 	<entry name="ChaosSpaceMarines/VehiclesDescription" value="Будынак, які вырабляе наземную тэхніку, а таксама руду і ўплыў."/>
 	<entry name="ChaosSpaceMarines/VehiclesFlavor" value="Normally confined to the Soul Forges of the Warp, these incomprehensible mechanoid structures are responsible for the creation of all Daemon vehicles. Here, Mechatendril-wreathed Warpsmiths oversee the breaking and corruption of Machine Spirits of captured Imperial vehicles, as well as the forcible incorporation of Lesser Daemons, machinery and tortured flesh into Daemon Engines."/>
 	<entry name="CompendiumFlavor" value="From the shanty town huts of the Orks, to the billion-person hives of the Imperium, to the space-faring Craftworlds of the Aeldari, to the ancient mastaba of the Necrons, almost every race produces structures to satisfy their needs—whether that's construction, shelter, or merely pride. Perhaps only the Tyranids, in their insatiable search for new biological materials, lack permanent structures, instead relying on a range of semi-mobile birthing organisms..."/>
-	<entry name="Eldar/Aircraft" value="Партал-Шпіль"/>
+	<entry name="Eldar/Aircraft" value="Партал-шпіль"/>
 	<entry name="Eldar/AircraftDescription" value="Будынак, які вырабляе авіяцыю, а таксама генеруе энергію, даследаванні і ўплыў."/>
 	<entry name="Eldar/AircraftFlavor" value="Raised high above the ground, this coiled Webway opening enables Aeldari aircraft to travel straight from the immaterium to Gladius Prime whilst having a slower transition of air pressure, composition and local gravity compared to the unearthly forms present in the twisted  space between the stars."/>
 	<entry name="Eldar/Construction" value="Капліца спевакоў косці"/>
@@ -118,7 +118,7 @@
 	<entry name="Eldar/Loyalty" value="Піраміда Ултанэша"/>
 	<entry name="Eldar/LoyaltyDescription" value="Будынак, які павялічвае лаяльнасць."/>
 	<entry name="Eldar/LoyaltyFlavor" value="Eldanesh was the first Aeldari. He and his kinsman Ulthanesh were two greatest heroes of Aeldari mythology, battling the new people’s enemies alongside Khaine, the God of War. Eventually, the two heroes fell out and Ulthanesh went his own way. But when Khaine killed Eldanesh in rage, Ulthanesh fought alongside his kinsman’s house against the god and became proverbial for his loyalty."/>
-	<entry name="Eldar/Ore" value="Альтмарл Ваула"/>
+	<entry name="Eldar/Ore" value="Альтмарл Ваўла"/>
 	<entry name="Eldar/OreDescription" value="Будынак, які здабывае руду."/>
 	<entry name="Eldar/OreFlavor" value="The smith god Vaul was known for his fantastic creations. Though the surviving myths focus mostly on his weapons (notably his hundred swords), he created many devices the Aeldari still use today—like this automated mine, which requires the barest supervision to extract the ore needed for his other creations."/>
 	<entry name="Eldar/Research" value="Склеп душ"/>
@@ -154,13 +154,13 @@
 	<entry name="Necrons/Influence" value="Стэла"/>
 	<entry name="Necrons/InfluenceDescription" value="Будынак, які павялічвае ўплыў."/>
 	<entry name="Necrons/InfluenceFlavor" value="Imposing, sky-piercing columns of ancient stone and metal, each Stela records the reign of a long-ago Phaeron of the Necron dynasty. To see the records of millennia of implacable domination makes even the most stolid citizen of the Empire quail."/>
-	<entry name="Necrons/Ore" value="Кар'ер Аль-Хемик"/>
+	<entry name="Necrons/Ore" value="Кар'ер аль-хемік"/>
 	<entry name="Necrons/OreDescription" value="Будынак, які здабывае руду."/>
 	<entry name="Necrons/OreFlavor" value="To find the rare materials the Crypteks need to maintain and repair the living metal necrodermis and weaponry of the Necron troops, slaves live and die in their Al-Khemic quarries and smelters. Only a tiny fraction of the output is used—but it's critical to the Necrons' survival."/>
 	<entry name="Necrons/Research" value="Забаронены архіў"/>
 	<entry name="Necrons/ResearchDescription" value="Будынак, які вырабляе даследаванні."/>
 	<entry name="Necrons/ResearchFlavor" value="Before the fall, Necron Crypteks were already masters of eldritch technology, able to manipulate matter and energy in ways that seemed magical to lesser races. With immortality came generations of learning, and the Cryptek conclaves become more powerful than ever—yet the millenia have made them stagnant. In these archives, the Conclave digs for the wisdom of the ancients, rather discovering the secrets of the universe anew."/>
-	<entry name="Necrons/Vehicles" value="Гипастальны храм"/>
+	<entry name="Necrons/Vehicles" value="Гіпастальны храм"/>
 	<entry name="Necrons/VehiclesDescription" value="Будынак, які вырабляе наземную тэхніку, а таксама генеруе энергію і павялічвае лаяльнасць."/>
 	<entry name="Necrons/VehiclesFlavor" value="This high-roofed building is lined with pillars inside. Between them rest or float the great war machines of the Necrons. Deactivated Doomsday Arks, Annihilation Barges, Monoliths and Obelisks wait in serried ranks for the day when a Lord calls for their repair and they can lead his armies once more."/>
 		
@@ -187,13 +187,13 @@
 	<entry name="Orks/Headquarters" value="Вежа боса"/>
 	<entry name="Orks/HeadquartersDescription" value="Будынак штаб-кватэры, які генеруе рэсурсы."/>
 	<entry name="Orks/HeadquartersFlavor" value="Once a Warboss has amassed an army of a certain size, he can no longer command with the simple cudgelling and swearing his boyz have grown to love. The Boss Tower doubles up as a place for the boss to live and a bully pulpit from which he can bellow at his hordes."/>
-	<entry name="Orks/Heroes" value="Лагір Каманда"/>
+	<entry name="Orks/Heroes" value="Лагір каманда"/>
 	<entry name="Orks/HeroesDescription" value="Будынак, які наймае герояў, а таксама павялічвае ўплыў і лаяльнасць."/>
 	<entry name="Orks/HeroesFlavor" value="The Blood Axe Clan of Orks are somewhat shunned by their brethren, for not being 'real Orks'. This is because they've adapted to the proximity of humans over the long-millenia and adopted some very un-Orky behaviour, like Taktiks and Runnin Away. Blood Axe Kommandos have gone one step further, using camouflage to surprise their enemies."/>
 	<entry name="Orks/Housing" value="Хаціны гротаў"/>
 	<entry name="Orks/HousingDescription" value="Будынак, які павялічвае ліміт насельніцтва."/>
 	<entry name="Orks/HousingFlavor" value="Curiously, the Grotz' Hutz are better than those of the Boyz. Sure, from the outside they look even more ramshackle and run-down, while the inside is still built from garbage festooned with mushrooms, squigs and snotlings. But there's a certain pride and personalisation in the squalor that the Boyz' shacks lack."/>
-	<entry name="Orks/Infantry" value="Куча Дакк"/>
+	<entry name="Orks/Infantry" value="Куча дакк"/>
 	<entry name="Orks/InfantryDescription" value="Будынак, які падрыхтоўвае пяхоту і крокаходы, а таксама павялічвае ўплыў."/>
 	<entry name="Orks/InfantryFlavor" value="'What's better than a gun?' asks an Ork. 'A bigga gun', answers another. Shortly before the fight starts, they agree that, even better than the biggest gun, is a big pile of big guns. That's exactly what we have here—Mek-made guns of all shapes and sizes, loosely stacked, ready for a Boy or Killa Kan to grab when the fighting starts."/>
 	<entry name="Orks/Influence" value="Слуп дзівахлопцаў"/>
@@ -235,13 +235,13 @@
 	<entry name="SpaceMarines/Influence" value="Асімулярум"/>
 	<entry name="SpaceMarines/InfluenceDescription" value="Будынак, які павялічвае ўплыў."/>
 	<entry name="SpaceMarines/InfluenceFlavor" value="An immense and high-ceilinged gathering-place, wherein every member of the Chapter may assemble to attend briefings, ceremonies and even feasts of particular import. In most fortress-monasteries, the Great Hall is the only room to exceed the sheer size of the Assimularum."/>
-	<entry name="SpaceMarines/Loyalty" value="Капліца Ордэна"/>
+	<entry name="SpaceMarines/Loyalty" value="Капліца ордэна"/>
 	<entry name="SpaceMarines/LoyaltyDescription" value="Будынак, які павялічвае лаяльнасць."/>
 	<entry name="SpaceMarines/LoyaltyFlavor" value="Here the Chaplains tend to the spiritual well-being of their charges, ensuring the discipline of every Marine and keeping their minds and spirits pure. In order to accommodate this, each of the Chapter's ten Companies has its own dedicated chapel. Greater ceremonies take place in the Reclusiam itself."/>
 	<entry name="SpaceMarines/Requisitions" value="Трапезная"/>
 	<entry name="SpaceMarines/RequisitionsDescription" value="Будынак, які генеруе рэквізіцыі."/>
 	<entry name="SpaceMarines/RequisitionsFlavor" value="The Chapter's mammoth dining halls and kitchens are contained within its Refectories. The Space Marine diet is a spartan affair, augmented with a cocktail of bio-chemical supplements to ensure constant battle-readiness. The Battle-Brothers consume this repast in complete silence."/>
-	<entry name="SpaceMarines/Research" value="Бібліаріум"/>
+	<entry name="SpaceMarines/Research" value="Бібліарыўм"/>
 	<entry name="SpaceMarines/ResearchDescription" value="Будынак, які вырабляе даследаванні."/>
 	<entry name="SpaceMarines/ResearchFlavor" value="Though also a store for extensive written histories of its Chapter, the Librarium is first and foremost its central command, communications and defence station. Here, Astropaths manage external and intra-base comms, while Librarians and psykers pore over, protect and update the Chapter's centuries of wisdom."/>
 	<entry name="SpaceMarines/Vehicles" value="Збройня"/>
@@ -250,7 +250,7 @@
 	<entry name="Tau/Aircraft" value="Гандола кар'ватра"/>
 	<entry name="Tau/AircraftDescription" value="Будынак, які вырабляе авіяцыю, павялічвае ліміт насельніцтва і ўплыў."/>
 	<entry name="Tau/AircraftFlavor" value="The Air Caste’s slender limbs and hollow bones are so ill-suited to life on the ground that they are often called ‘The Invisible Caste’ by planet-dwellers. Their nacelles are combined factories, hangars and living spaces—throughout holding technology that reduces the effects of Gladius Prime’s gravity on their delicate physiology."/>
-	<entry name="Tau/Construction" value="Ліцейня  брах'юран"/>
+	<entry name="Tau/Construction" value="Ліцейня брах'юран"/>
 	<entry name="Tau/ConstructionDescription" value="Будынак, які будуе новыя будынкі, а таксама генеруе руду, даследаванні і ўплыў."/>
 	<entry name="Tau/ConstructionFlavor" value="The Brachyuran might not be suited to combat—after all, they mostly closely resemble crustaceans similar to tiny Terran crabs—but their compact form conceals a fierce technical intelligence, ideally suited to delicate construction. In this foundry, teams of Brachyuran can aid the Earth Caste in building structures, from the macro to the micro level."/>
 	<entry name="Tau/Energy" value="Усталёўка шо'аўн'пра'іс"/>
@@ -259,22 +259,22 @@
 	<entry name="Tau/Food" value="Гідрапоніка п'гріт'ан"/>
 	<entry name="Tau/FoodDescription" value="Будынак, які вырабляе ежу."/>
 	<entry name="Tau/FoodFlavor" value="Many races have joined the T’au, but not all have some unique skillset. The Greet are an aquatic race, undistinguished in most fields; all they can contribute to the T’au is their labour and knowledge of aquaculture in these sealed hydroponic farms."/>
-	<entry name="Tau/Loyalty" value="Татэм Та'аўн"/>
+	<entry name="Tau/Loyalty" value="Татэм та'аўн"/>
 	<entry name="Tau/LoyaltyDescription" value="Будынак, які павялічвае лаяльнасць."/>
 	<entry name="Tau/LoyaltyFlavor" value="This is a simple statue to Aun’Va, the Ethereal Supreme, showing him supporting the way, sculpted as a portal through which all the races of the galaxy flow. Embedded in its bone-white surface are a range of listening devices, to track the sentiment of the population and isolate dissident elements."/>
 	<entry name="Tau/Headquarters" value="Штаб тау'шыро"/>
 	<entry name="Tau/HeadquartersDescription" value="Будынак штаб-кватэры, які генеруе рэсурсы."/>
 	<entry name="Tau/HeadquartersFlavor" value="Named after the Air Caste’s continent-sized space stations, this fortress acts as the central point of the colony-city. It is theoretically the solitary preserve of the Commanders in a military situation, but in practice is the seat of the colony’s Ethereals."/>
-	<entry name="Tau/Heroes" value="Стазіс Шан'ар'тол"/>
+	<entry name="Tau/Heroes" value="Стазіс шан'ар'тол"/>
 	<entry name="Tau/HeroesDescription" value="Будынак, які наймае герояў, а таксама вырабляе ежу і ўплыў."/>
 	<entry name="Tau/HeroesFlavor" value="Commanders like ShadowSun and PureTide are rare individuals, raised up by the Ethereals to be representatives of all that is good and true about the T’au. So few are they that, when not deployed on campaigns, they are placed in stasis until the next time they are needed."/>
-	<entry name="Tau/Housing" value="Кокан Ціо'ур'м"/>
+	<entry name="Tau/Housing" value="Кокан ціо'ур'м"/>
 	<entry name="Tau/HousingDescription" value="Будынак, які павялічвае ліміт насельніцтва."/>
 	<entry name="Tau/HousingFlavor" value="These sturdy housing units shelter the T’au’s greatest resource—its population of T’au and general workers. It is often the best-defended location next to the Ethereals—because without workers and families to survive and rebuild, where is the worth in fighting?"/>
-	<entry name="Tau/Infantry" value="Жаўнерні Шас'м"/>
+	<entry name="Tau/Infantry" value="Жаўнерні шас'м"/>
 	<entry name="Tau/InfantryDescription" value="Будынак, які падрыхтоўвае пяхоту, павялічвае ліміт насельніцтва і ўплыў."/>
 	<entry name="Tau/InfantryFlavor" value="In this smooth-skinned blister-bunker, Fireblades and other T’au veterans train up the members of the fire caste from Shas’saal recruits into full-blown Shas’la Fire Warriors, administering the Trial of Fire at the end of their fourth year."/>
-	<entry name="Tau/Influence" value="Транслятар Пор'срал"/>
+	<entry name="Tau/Influence" value="Транслятар пор'срал"/>
 	<entry name="Tau/InfluenceDescription" value="Будынак, які павялічвае ўплыў."/>
 	<entry name="Tau/InfluenceFlavor" value="The Water Caste are diplomats-supreme—able to talk round the most intransigent, alien species to the T’au—but on hostile Gladius, their skills are best employed in this lean communications tower proselytising on all channels, attracting the remaining population to the cause."/>
 	<entry name="Tau/MonstrousCreatures" value="Крызісны цэнтр хар'веса"/>
