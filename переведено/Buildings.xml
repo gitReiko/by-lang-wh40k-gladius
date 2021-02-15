@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AstraMilitarum/Aircraft" value="Пусты порт"/>
+	<entry name="AstraMilitarum/Aircraft" value="Пустэчны порт"/>
 	<entry name="AstraMilitarum/AircraftDescription" value="Будынак, які вырабляе авіяцыю, а таксама руду і ўплыў."/>
 	<entry name="AstraMilitarum/AircraftFlavor" value="This landing field was designed for larger craft—almost up to the intra-system scale—but with the endless warpstorms, it's been repurposed to house the Imperial air forces. Much like a Skyshield landing pad, it has limited field generators to protect grounded aircraft from incoming fire."/>
 	<entry name="AstraMilitarum/Construction" value="Працоўны корпус"/>
@@ -36,7 +36,7 @@
 	<entry name="AstraMilitarum/Psykers" value="Ковен псайкераў"/>
 	<entry name="AstraMilitarum/PsykersDescription" value="Будынак, які падрыхтоўвае псайкераў, а таксама генеруе энергію і ўплыў."/>
 	<entry name="AstraMilitarum/PsykersFlavor" value="Whilst the warpstorm rages, the peacetime use of psykers—as astropaths, for long-range communication—is pointless. Similarly, without being able to reach the Black Ships, unwanted psykers can't be transported to Terra for sacrifice at the Golden Throne. Instead, most are executed, with a select few drafted into Imperial service as Sanctioned Psykers."/>
-	<entry name="AstraMilitarum/Research" value="Офіцыё тактыка"/>
+	<entry name="AstraMilitarum/Research" value="Афіцыё тактыка"/>
 	<entry name="AstraMilitarum/ResearchDescription" value="Будынак, які генеруе даследаванні."/>
 	<entry name="AstraMilitarum/ResearchFlavor" value="Learning to be an officer of the Astra Militarum is a thankless, often lethal task. One of the safest postings is to the Officio Tactica, where the smartest tactical minds analyse ongoing military manouevres and refer to the copious texts of the Tactica Imperialis for well-tested advice. They also record their current campaigns, so that future generations might learn from them."/>
 	<entry name="AstraMilitarum/Upgrades" value="Культ механікус"/>
@@ -109,7 +109,7 @@
 	<entry name="Eldar/Housing" value="Прывідныя залы"/>
 	<entry name="Eldar/HousingDescription" value="Будынак, які павялічвае ліміт насельніцтва."/>
 	<entry name="Eldar/HousingFlavor" value="As Asuryan was dying, consumed by Slaanesh, he blessed the Aeldari; he gave them long life and great psychic power; but he also doomed their fertility. Over time, Aeldari numbers have dwindled until now, when the great halls that once housed millions only house thousands. Here, on Gladius Prime, the ghost halls provide a taste of luxurious Aeldari living for those not fighting in the field."/>
-	<entry name="Eldar/Infantry" value="Тыгель Асюрана"/>
+	<entry name="Eldar/Infantry" value="Тыгель Асур'яна"/>
 	<entry name="Eldar/InfantryDescription" value="Будынак, які падрыхтоўвае пяхоту, генеруе лаяльнасць і даследаванні."/>
 	<entry name="Eldar/InfantryFlavor" value="Asuryan, the Phoenix King, was the chief of the Aeldari Gods and the last to be consumed by Slaanesh during the fall of the Aeldari. He has long been an inspiration to the Craftworld Aeldari, who often refer to themselves as ‘Asuryani’. At this muster ground, new arrivals to Gladius are equipped and assigned to squads before being tested in the field."/>
 	<entry name="Eldar/Influence" value="Купал празорцаў"/>
