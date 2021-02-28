@@ -16,7 +16,7 @@
 	<entry name="Armor" value="Браня"/>
 	<entry name="ArmorDescription" value="Змяншае колькасць <icon height='20' texture='Icons/Attributes/Damage'/> шкоды ад зброі і здольнасцях. Кожная адзінка брані зніжае атрыманую шкоду прыкладна на 8.3% ( да 83%), але зброя і здольнасці ігнаруюць колькасць ачкоў броні аж да значэння прабівання брані."/>
 	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
-	<entry name="ArmorDamageReduction" value="Зніжэнне Шкоды Ад Брані"/>
+	<entry name="ArmorDamageReduction" value="Зніжэнне шкоды ад брані"/>
 	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
 	<entry name="ArmorPenetration" value="Прабіванне брані"/>
 	<entry name="ArmorPenetrationDescription" value=""/>
@@ -51,9 +51,9 @@
 	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
 	<entry name="ConstructionCost" value="Кошт будавання"/>
 	<entry name="ConstructionCostIcon" value="<icon height='20' texture='Icons/Attributes/ConstructionCost'/>"/>
-	<entry name="ConsumedActionPoints" value="Спажываемыя Ачкі Дзеянняў"/>
+	<entry name="ConsumedActionPoints" value="Спажываемыя ачкі дзеянняў"/>
 	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
-	<entry name="ConsumedMovement" value="Спажываемы Рух"/>
+	<entry name="ConsumedMovement" value="Спажываемы рух"/>
 	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
 	<entry name="Cooldown" value="Перазарадка"/>
 	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Cooldown'/>"/>
@@ -61,7 +61,7 @@
 	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="DamageFromHitpoints" value="Шкода ад здароўя цэлі"/>
 	<entry name="DamageFromHitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="DamageReduction" value="Зніжэнне Шкоды"/>
+	<entry name="DamageReduction" value="Зніжэнне шкоды"/>
 	<entry name="DamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="DamageReturnFactor" value="Шкоды вернута"/>
 	<entry name="DamageReturnFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
@@ -78,7 +78,7 @@
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyCost" value="Кошт энергіі"/>
 	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
-	<entry name="EnergyFromExperienceValueFactor" value="Энергіі Ад Велічыні Досведу"/>
+	<entry name="EnergyFromExperienceValueFactor" value="Энергіі ад велічыні досведу"/>
 	<entry name="EnergyFromExperienceValueFactorIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyUpkeep" value="Ўтрыманне энергіі"/>
 	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -88,7 +88,7 @@
 	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="FlankingDamageFactor" value="Флангавая шкода"/>
 	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="FlatResourcesFromFeatures" value="Прамыя Рэсурсы Ад Мясцовасці"/>
+	<entry name="FlatResourcesFromFeatures" value="Прамыя рэсурсы ад мясцовасці"/>
 	<entry name="FlatResourcesFromFeaturesIcon" value="<icon height='20' texture='Icons/Features/Grassland'/>"/>
 	<entry name="Food" value="Ежа"/>
 	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
@@ -110,11 +110,11 @@
 	<entry name="HealingRate" value="Хуткасць вылячэння"/>
 	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
 	<entry name="Hitpoints" value="Здароўе"/>
-	<entry name="HitpointsDescription" value="The amount of <icon height='20' texture='Icons/Attributes/Damage'/> колькасць шкоды, якую можа атрымаць адзінка перад смерцю. Адзінкі аўтаматычна вылечваюцца, калі яны не атрымалі пашкоджанняў і ў іх засталіся ўсе ачкі руху і дзеяння."/>
+	<entry name="HitpointsDescription" value="Колькасць <icon height='20' texture='Icons/Attributes/Damage'/> шкоды, якую можа атрымаць адзінка перад смерцю. Адзінкі аўтаматычна вылечваюцца, калі яны не атрымалі пашкоджанняў і ў іх засталіся ўсе ачкі руху і дзеяння."/>
 	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="HitpointsFactorFromMax" value="Здароўе"/>
 	<entry name="HitpointsFactorFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
-	<entry name="HitpointsFactorFromMoraleDifference" value="Здароўе Ад Розніцы Маралі"/>
+	<entry name="HitpointsFactorFromMoraleDifference" value="Здароўе ад розніцы маралі"/>
 	<entry name="HitpointsFactorFromMoraleDifferenceIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="HitpointsMax" value="Макс. здароўе"/>
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
