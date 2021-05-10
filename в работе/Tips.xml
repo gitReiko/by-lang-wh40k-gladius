@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="CompendiumFlavor" value="41-е тысячагоддзе няветлае месца для ўсіх відаў, людзей або ксенасаў. Гэтыя рады павінны дапамагчы вам пачаць вашу наземную вайсковую кампанію."/>
+	<entry name="Tip0" value="Камера"/>
+	<entry name="Tip0Description" value="Сардэчна запрашаем у Гладыус! Каб перасунуць камеру, навядзіце мыш на мясцовасць, націсніце і ўтрымвайце левую кнопку мышы і перасоўвайце мыш убакі. Калі вы асвоіцеся са сваім акружэннем, націсніце OK."/>
+	<entry name="Tip1" value="Каланізацыя"/>
+	<entry name="Tip1Description" value="Гэта адзінка дазваляе вам пабудаваць горад, які стане базай для вашай фракцыі на Гладыусе. Каб пабудаваць свой першы горад, націсніце кнопку «<icon height = '20 'texture =' Icons / Actions / FoundCity '/> Пабудаваць горад» на панэлі ў левым ніжнім куце, потым выберыце пустую плітку. Звярніце ўвагу, што гэтае дзеянне спажывае адзінку."/>
+	<entry name="Tip2" value="Каланізацыя (космадэсант)"/>
+	<entry name="Tip2Description" value="Космадэсант разгортвае найвялікую частку сваёй ключавой інфраструктуры з арбіты. Каб разгарнуць вашу Крэпасць, якая з'яўляецца асновай вашага ордэна на Гладыусе і не толькі, націсніце кнопку «<icon height='20' texture='Icons/Actions/DeployCity'/> Пабудаваць горад» на панэлі аперацый у левым верхнім куце і выберыце вольную плітку ў поле зроку. Звярніце ўвагу, космадэсант абмежаваны адным горадам."/>
+	<entry name="Tip3" value="Кнопка скончыць крок"/>
+	<entry name="Tip3Description" value="Не спяшайцеся, вывучыце інтэрфейс. У кожнага элемента ёсць падказка, якая дасць больш інфармацыі. Калі вы не ведаеце, што рабіць далей, скарыстайцеся чырвонай кнопкай задачы ў правай частцы экрана. Яна дазволіць вам сфакусавацца на наступнай задачы да канца кроку."/>
+	<entry name="Tip4" value="Выведка"/>
+	<entry name="Tip4Description" value="Гладыус поўны невядомых скарбаў і жудасных іншапланетных істот. Па меры выведкі вы будзеце атрымліваць апавяшчэнні пра адкрыцці. Іх можна адкрыць, каб атрымаць дадатковую інфармацыю. Некаторую мясцовасць можна даследаваць, каб атрымаць узнагароду. Іншая можа нашкодзіць вашым адзінкам. Будзьце асцярожныя. Жыццё на планеце можа быць бязлітасным. Але калі вы пакінеце яго ў супакоі, яно можа пашкадаваць вас."/>
+	<entry name="Tip5" value="Рух"/>
+	<entry name="Tip5Description" value="Перасуньце абраную адзінку, націснуўшы правую кнопку мышы на абранай плітцы. Утрымлівайце кнопку націснутай, каб убачыць шлях, па якім будзе перасоўвацца адзінка. Кожная адзінка можа перасоўвацца толькі адзін раз за крок."/>
+	<entry name="Tip6" value="Лячэнне"/>
+	<entry name="Tip6Description" value="Ваша адзінка атрымала <icon height='20' texture='Icons/Attributes/Damage'/> шкоду і з вялікай імавернасцю загіне ў наступным боі. Каб аднавіць сваё <icon height='20' texture='Icons/Attributes/Hitpoints'/> здароўе, адзінка павінна заставацца на месцы і не браць удзел у боі. Націсніце “<icon height='20' texture='Icons/Actions/Heal'/> Утрымліваць пазіцыю да вылячэння”, каб пачакаць поўнага аднаўлення моцы адзінкі. Перасоўванне адзінкі на плітку сяброўскага горада павялічыць хуткасць вылячэння."/>
+	<entry name="Tip7" value="Квэсты & Перамога"/>
+	<entry name="Tip7Description" value="Квэсты раскрываюць гісторыю вашай фракцыі на Гладыус Прайм. Завяршэнне кожнага этапу квэста дасць вам узнагароду, а завяршэнне апошняга этапу квэста прывядзе да поўнай перамогі. Аднак гэта не адзіны шлях. Знішчэнне ўсіх варожых фракцый іншы шлях да перамогі."/>
+	<entry name="Tip8" value="Атака"/>
+	<entry name="Tip8Description" value="Навядзенне курсора на ворага, калі абрана ўласная адзінка, адлюструе важную інфармацыю пра абаронцу і выкарыстоўваемую зброю, а таксама чаканыя страты ў бітве. Звярніце ўвагу, што не кожная зброя можа страляць на ўсіх дыстанцыях - непрыдатная для выкарыстання зброя адлюстроўваецца шэрым колерам. Адзінкі могуць браць удзел у боі толькі адзін раз за крок, пасля чаго значок над адзінкай робіцца празрыстым, паказваючы на тое, што ў яе не засталося ачкоў дзеяння."/>
+	<entry name="Tip9" value="Мараль"/>
+	<entry name="Tip9Description" value="Ваша адзінка атрымала значную шкоду па <icon height='20' texture='Icons/Attributes/Morale'/> маралі з-за ўнутранага перажывання, напрыклад, ад страты найблізкіх хаўруснікаў. Гэта зробіць негатыўны ўплыў на характарыстыкі ў боі. Вы можаце або адступіць, або забіць найблізкіх ксенасаў, каб аднавіцца."/>
+	<entry name="Tip10" value="Адзінкі"/>
+	<entry name="Tip10Description" value="Кожная адзінка валодае мноствам статыстык і ўласцівасцяў, асаблівасцяў, здольнасцяў і зброяй, кожная са сваёй далёкасцю і эфектамі. У некаторых адзінак ёсць толькі <icon height='20' texture='Icons/Traits/Melee'/> зброя блізкага бою, але высокая <icon height='20' texture='Icons/Traits/MoveThroughCover'/> мабільнасць праз перасечаную мясцовасць, тым часам як у іншых <icon height='20' texture='Icons/Actions/AuraOfFear'/> аўра страху або нястрымная моц <icon height='20' texture='Icons/Traits/Barrage'/> артылерыі. Навадзіце мыш на значкі і кнопкі ў панэлі выбару, каб даведацца больш пра абраную адзінку."/>
+	<entry name="Tip11" value="Героі"/>
+	<entry name="Tip11Description" value="<icon height='20' texture='Icons/Traits/Hero'/> герой - гэта магутная адзінка, якая можа праяўляць незвычайныя здольнасці, каб перамагаць сваіх ворагаў або бараніць сваіх хаўруснікаў. Выберыце сваю першую здольнасць, націснуўшы «<icon height='20' texture='Icons/Actions/LevelUp'/> Павялічыць узровень» і выбраўшы жаданую здольнасць. Некаторыя здольнасці могуць быць пасіўнымі, мець доўгі або кароткі <icon height='20' texture='Icons/Attributes/Cooldown'/> час перазарадкі. Большасць здольнасцяў можна палепшыць некалькі разоў, каб павялічыць іх моц."/>
+	<entry name="Tip12" value="Прадметы"/>
+	<entry name="Tip12Description" value="Прадметы для герояў можна знайсці падчас выведкі, атрымаць у якасці ўзнагароды за квэсты або купіць у лагеры гандляроў джакаэро. Прадметы даюць або пасіўны бонус, або новую здольнасць адзінцы, якую можна выкарыстаць адзін або некалькі разоў як дармовае дзеянне. Атрымаць магчымасць экіпіявання прадмета можна толькі пасля наймання і выбару героя."/>
+	<entry name="Tip13" value="Адкрыць экран крамы прадметаў"/>
+	<entry name="Tip13Description" value="Ваш герой стаіць на плітцы з <icon height='20' texture='Icons/Actions/Shop'/> крамай прадметаў. Каб адкрыць яго, націсніце па кнопцы “<icon height='20' texture='Icons/Actions/Shop'/> Крама”."/> 
+	<entry name="Tip14" value="Экран крамы прадметаў"/>
+	<entry name="Tip14Description" value="У <icon height='20' texture='Icons/Actions/Shop'/> краме прадметаў вы можаце купіць прадметы за ўплыў <icon height='20' texture='Icons/Attributes/Influence'/>. Проста націсніце па прадмеце, каб купіць або прадаць яго. Помніце, што многія прадметы маюць абмежаваную колькасць <icon height='20' texture='Icons/Attributes/Uses'/> выкарыстанняў."/>
+	<entry name="Tip15" value="Гарады"/>
+	<entry name="Tip15Description" value="Каб адкрыць экран горада, можна націснуць па назве горада або двойчы па штаб-кватэры. Таксама вы можаце выбраць абарону горада націскам па штаб-кватэры або значку над горадам. Усе гарады маюць абмежаваную агнявую моц і будуць бараніцца пры атацы. Бараніце свае гарады любым коштам. Калі вы страціце ўсе свае гарады, вы прайграеце!"/>
+	<entry name="Tip16" value="Гарадскія будынкі"/>
+	<entry name="Tip16Description" value="Тут пералічаны будынкі з даступнымі для іх дзеяннямі. Звярніце ўвагу, усе будынкі аднаго тыпу згрупаваны разам і могуць выконваць толькі адно дзеянне за раз. Нягледзячы на гэта некалькі дзеянняў могуць быць пастаўлены ў чаргу. Пры гэтым патрэбныя рэсурсы будуць неадкладна вылічаны са скарбу."/>
+	<entry name="Tip17" value="Экран даследаванняў"/>
+	<entry name="Tip17Description" value="На экране даследаванняў пададзена ўнікальнае дрэва тэхналогій вашай фракцыі. Пачніце з выбару тэхналогіі 1 узроўню для даследавання. Каб адкрыць наступны ўзровень тэхналогій, трэба даследаваць дзве тэхналогіі папярэдняга. Вы можаце паскорыць даследаванні пабудаваўшы дадатковыя <icon height='20' texture='Icons/Buildings/AstraMilitarum/Research'/> даследчыя будынкі ў вашых гарадах. Памятайце, увесь прагрэс губляецца пасля змены даследуемай ў дадзены момант тэхналогіі."/> <!-- , while shift-clicking will queue up the research -->
+	<entry name="Tip18" value="Рэсурсы горада"/>
+	<entry name="Tip18Description" value="Гарады акумулююць рэсурсы патрэбныя для працы вашай вайсковай машыны. На экране горада адлюстроўваюцца ўсе рэсурсы, што належаць гораду. Навядзіце вашу мыш на кожны рэсурс, каб даведацца больш."/>
+	<entry name="Tip19" value="Набыць плітку"/>
+	<entry name="Tip19Description" value="Каб пабудаваць дадатковыя будынкі, патрэбна набыць больш плітак. Працягніце, націснуўшы “<icon height='20' texture='Icons/Actions/AcquireTile'/> Набыць плітку”, і выберыце плітку з 1 або некалькімі <icon height='20' texture='Icons/Attributes/BuildingSlots'/>  месцамі для будынкаў. Набыццё пліткі зойме некалькі крокаў і будзе каштаваць некаторы <icon height='20' texture='Icons/Attributes/Influence'/> ўплыў."/>
+	<entry name="Tip20" value="Набыта плітка з рэсурсамі"/>
+	<entry name="Tip20Description" value="Ваш горад набыў асаблівую плітку з рэсурсам без <icon height='20' texture='Icons/Attributes/BuildingSlots'/> месцаў для будынкаў. Тым часам як іншыя пліткі патрабуюць пабудову будынкаў для эксплуатацыі, пліткі з асаблівымі рэсурсамі павялічваюць прыбытак горада."/>
+	<entry name="Tip21" value="Будоўля рэсурсавых будынкаў"/>
+	<entry name="Tip21Description" value="Каб ваша вайсковая машына функцыявала, вам прыйдзецца будаваць адмысловыя рэсурсавыя будынкі. Будаванне рэсурсавых будынкаў аналагічнае будаванню пяхотных. Прыбытак ад рэсурсавага будынка залежыць ад пліткі, на якой ён змесцаваны. Шукайце адпаведныя значкі рэсурсаў. Важна не вычарпаць рэсурсы, інакш вашы будынкі пачнуць працаваць з меншай эфектыўнасцю."/>
+	<entry name="Tip22" value="Будоўля пяхотных будынкаў"/>
+	<entry name="Tip22Description" value="У вашым горадзе ёсць дармовыя <icon height='20' texture='Icons/Attributes/BuildingSlots'/> месцы для будынкаў. Прыдатны час для будавання планаў па пашырэнню вашага войска. Пачніце з будоўлі будынка па рыхтоўлі пяхоты. Націсніце на кнопку будынка, якая міргае, і выберыце плітку горада з пустым месцам <icon height='20' texture='Icons/Attributes/BuildingSlots'/>, каб пачаць там будаванне. Будаванне зойме некалькі крокаў."/>
+	<entry name="Tip23" value="Рыхтоўля пяхоты"/>
+	<entry name="Tip23Description" value="Зараз вы можаце вырабляць адзінкі. Дадайце ў чаргу столькі адзінак колькі жадаеце, але сачыце за рэсурсамі. Паколькі гэты будынак іншага тыпу, ён не ўплывае на вытворчасць іншых будынкаў. Будоўля дадатковых будынкаў па рыхтоўлі пяхоты, павялічыць хуткасць рыхтоўлі пяхоты ў кратны лік раз."/>
+	<entry name="Tip24" value="Насельніцтва"/>
+	<entry name="Tip24Description" value="Кожны будынак апроч штаб-кватэры патрабуе адно <icon height='20' texture='Icons/Attributes/PopulationLimit'/> насельніцтва для функцыявання. Вам патрэбна даследаваць і пабудаваць <icon height='20' texture='Icons/Buildings/AstraMilitarum/Housing'/> жытло, каб павялічыць хуткасць <icon height='20' texture='Icons/Attributes/Growth'/> узроста і ліміт насельніцтва. Калі ў вас узнікнуць праблемы з-за нястачы насельніцтва або іншых рэсурсаў, вы можаце адключыць некаторыя будынкі, каб іншыя працавалі з поўнай аддачай, націснуўшы <icon height='20' texture='Icons/DisableBuilding'/> кнопку поруч з усякай будаўнічай групай."/>
+	<entry name="Tip25" value="Лаяльнасць"/>
+	<entry name="Tip25Description" value="Калі <icon height='20' texture='Icons/Attributes/Loyalty'/> лаяльнасць вашага горада ўпадзе да 0, гэта адмоўна адаб'ецца на эфектыўнасці будынкаў. Таму вы захочаце пабудаваць будынкі, якія вырабляюць лаяльнасць, каб трымаць яе на станоўчым узроўні. Гэта павялічыць эфектыўнасць цэлага горада."/>
+	
+	<!-- there -->
+	
+	<entry name="Tip26" value="Global Pooled Resources"/>
+	<entry name="Tip26Description" value="Vital resources like <icon height='20' texture='Icons/Attributes/Food'/> food, <icon height='20' texture='Icons/Attributes/Ore'/> ore, <icon height='20' texture='Icons/Attributes/Energy'/> energy and <icon height='20' texture='Icons/Attributes/Influence'/> influence are accumulated and shared globally. Every city provides and consumes these resources from the same pool, allowing you to fully specialize cities and even stock up on resources for harsher times."/>
+	<entry name="Tip27" value="City Edicts"/>
+	<entry name="Tip27Description" value="Edicts are city-wide effects that can be issued by expending influence. Multiple can be active at a time, but each activation lasts only a limited amount of time. Timing these correctly can help you prevail on Gladius."/>
+	<entry name="Tip28" value="Artefacts"/>
+	<entry name="Tip28Description" value="Something has attracted objects with extraordinary powers to Gladius, and the surface is littered with Old One tech of all sizes and kinds. While some artefact items may be bought, bigger artefact units must be captured from the tentacles of Enslavers. Once all adjacent units holding control of an artefact have been killed, the artefact can be captured by right-clicking on it with a unit selected."/>
+	<entry name="Tip29" value="Operations"/>
+	<entry name="Tip29Description" value="Space Marines are able to issue strategic and tactical operations by expending influence. One such operation is the deployment of a Fortress of Redemption—a stationary unit that secures adjacent special resource features. Placement of Fortresses of Redemption is key for Space Marines to gather resources beyond their city's reach."/>
+	<entry name="Tip30" value="Stationary Unit"/>
+	<entry name="Tip30Description" value="Some units cannot move but can still perform actions. If they have weapons, like the city headquarters, they can attack. To perform an attack move your mouse over enemies and right click."/>
+	<entry name="Tip31" value="Ruins of Vaul"/>
+	<entry name="Tip31Description" value="There are Ruins of Vaul in sight. These ruins provide rewards for the first player exploring them. Some even provide powerful ancient items that can be later equipped by heroes to make them stronger or excel at specific encounters."/>
+	<entry name="Tip32" value="Enslaved"/>
+	<entry name="Tip32Description" value="Your unit has been taken over by Enslavers! Kill the Enslaver unit to release your troops from their grasp!"/>
+	<entry name="Tip33" value="Heavy Weapon"/>
+	<entry name="Tip33Description" value="This infantry unit has a heavy weapon equipped. Heavy weapons carried by infantry suffer an accuracy penalty if the unit has moved."/>
+	<entry name="Tip34" value="Rapid Fire"/>
+	<entry name="Tip34Description" value="This unit has a rapid fire weapon equipped. Units with rapid fire weapons are able to cause much more damage at close range, but can still fire from further away. It might be worth moving closer before attacking."/>
+	<entry name="Tip35" value="Powerful Creatures"/>
+	<entry name="Tip35Description" value="There are some frighteningly powerful creatures on Gladius Prime. It would be wise to gather a sizable force before engaging these beasts."/>
+	<entry name="Tip36" value="Gladius Compendium"/>
+	<entry name="Tip36Description" value="The Compendium stores a collection of useful game information. You can read up on factions, buildings, units, re-read tips and more. You can open it by clicking the question mark in the top right corner of the screen."/>
+	<entry name="Tip37" value="Out of Resources"/>
+	<entry name="Tip37Description" value="You are low on resources! Move your mouse over the resources on the top left of the screen to find out why. Perhaps it would help to disable a building, construct a building or two, or establish a new city."/>
+	<entry name="Tip38" value="Colonization—Necrons"/>
+	<entry name="Tip38Description" value="Canoptek Spyders allow you to erect a city that will form the backbone of your dynasty on Gladius. To found your first city, click the “<icon height='20' texture='Icons/Actions/FoundCity'/> Found City” button in the selection panel in the bottom left and select an empty tile with a Necron Tomb. Note that this action will consume the unit."/>
+	<entry name="Tip39" value="Clear Tile"/>
+	<entry name="Tip39Description" value="You've acquired a tile with <icon height='20' texture='Icons/Features/WireWeed'/> Wire Weed on it. This razor-sharp weed damages units and prevents construction of buildings. To begin clearing the tile, click the “<icon height='20' texture='Icons/Actions/ClearTile'/> Clear Tile” action and select the tile with the Wire Weed."/>
+	<entry name="Tip40" value="Weak Units"/>
+	<entry name="Tip40Description" value="Units like Guardsmen are very weak by themselves. With such vulnerable units, it's advisable to keep multiple units close together so they can assist each other—especially when venturing into unexplored territory."/>
+	<entry name="Tip41" value="Good Luck!"/>
+	<entry name="Tip41Description" value="You are now able to produce new units, maintain your economy and understand the basic concepts of the game. More tips and suggestions will be shown throughout your interactions, but you will be left to explore the world of Gladius Prime and discover its mysteries alone. Survival is no birthright, but a prize wrested from an uncaring galaxy by forgotten heroes."/>
+	<entry name="Tip42" value="Claim Item"/>
+	<entry name="Tip42Description" value="To claim an item and transfer it to your hero click on it in the unclaimed items panel in the top left. After claiming an item, you can use it at will, just like abilities. You can also transfer it to another hero by dragging it out. Each hero can only have a limited number of items at a time."/>
+	<entry name="Tip43" value="Terrain"/>
+	<entry name="Tip43Description" value="Terrain affects units in a variety of ways. Forests and Imperial ruins have an increased movement cost for ground units and make it harder to see and fire across. Height differences may also prevent your units from having a clear line of fire. Tiles marked with red indicate enemies that can be attacked from your current position."/> <!-- Click OK and hover over a tile marked with a red outline. -->
+	<entry name="Tip44" value="Unit Abilities"/>
+	<entry name="Tip44Description" value="Some units have extra abilities that can be utilized to gain an edge in combat. Use an ability by clicking its button and selecting a target with the left mouse button. Using an ability will consume the unit's action point and all movement, preventing the unit from performing any further movement or attacks this turn."/>
+	<entry name="Tip45" value="Overwatch"/>
+	<entry name="Tip45Description" value="Units with action points remaining that have ranged weapons will automatically perform <icon height='20' texture='Icons/Actions/Overwatch'/> overwatch attacks when an enemy unit enters their attack range unless the enemy unit has <icon height='20' texture='Icons/Traits/Infiltrate'/> infiltrate."/>
+	<entry name="Tip46" value="Outposts"/>
+	<entry name="Tip46Description" value="Tiles with special resource features can be captured by moving a unit on them. This will construct an <icon height='20' texture='Icons/Features/Outpost'/> outpost, providing you with a small but important bonus to your resource output and giving the unit stationed there increased damage reduction and healing rate. Defend your outposts or they will be taken over by other factions or the Gladius wildlife."/>
+	<entry name="Tip47" value="Transports: Embarking"/>
+	<entry name="Tip47Description" value="This unit is able to carry infantry units as cargo. To embark, move the unit you wish to carry onto the transport's tile. Embarked units will normally not be able to disembark in the turn they have embarked."/>
+	<entry name="Tip48" value="Transports: Disembarking"/>
+	<entry name="Tip48Description" value="You have a unit embarked on this transport. To disembark it, click on the cargo to select it and then right-click the destination tile. You can also rearrange cargo by dragging it into different slots."/>
+	<entry name="Tip49" value="Instinctive Behaviour"/>
+	<entry name="Tip49Description" value="Many Tyranid units will suffer from instinctive behaviour while not in range of a synapse creature or a Tyranid city. Termagants have <icon height='20' texture='Icons/Traits/Tyranids/InstinctiveBehaviourLurk'/> instinctive behaviour which causes them to lose morale each turn. You can use the unit's <icon height='20' texture='Icons/Actions/Tyranids/InstinctiveBehaviourOverride'/> override instinctive behaviour ability to temporarily fend off the effects."/>
+	<entry name="Tip50" value="Reclamation"/>
+	<entry name="Tip50Description" value="Tyranid units in cities can be reclaimed to regain biomass and accelerate a building's production. Click “<icon height='20' texture='Icons/Actions/Tyranids/ReclaimUnit'/> Reclaim Unit” to show each unit's reclaim value and select a target. The reclamation process is instantaneous and can be executed in parallel with production."/>
+	<entry name="Tip51" value="Feed Upon The Planet"/>
+	<entry name="Tip51Description" value="Tyranid cities consume all tile <icon height='20' texture='Icons/Attributes/Biomass'/> biomass when acquiring a tile. This biomass is added to your pool of resources and is then forever depleted from the tile. <icon height='20' texture='Icons/Units/Tyranids/Malanthrope'/> Malanthropes, which are at the core of any Tyranid economy, are able to consume tiles across all of Gladius, even in faraway, remote locations."/>
+	<entry name="Tip52" value="Unholy Rites"/>
+	<entry name="Tip52Description" value="Unholy Rites are powerful city-wide effects that can be activated by expending population. Coordinating the rites together with sacrificing Chaos Cultists to increase population growth is a key element to getting the most out of your economy."/>	
+	<entry name="Tip53" value="Champions of Chaos"/>
+	<entry name="Tip53Description" value="Champions of Chaos have a chance to transform into Chaos Spawn or a mighty Daemon Prince when they kill an enemy. Additionally, after Chaos Boons are researched, each Champion of Chaos can gain permanent buffs. Be careful who you deal final blows with."/>
+	<entry name="Tip54" value="Marks of Chaos"/>
+	<entry name="Tip54Description" value="Infantry units can be marked by one of the Dark Gods to increase the unit's powers. Only a single mark can ever exist on a unit, and it can never be removed. Later in the game, Icons of Chaos can be used to increase the unit's favor with the Dark Gods even further."/>
+	<entry name="Tip55" value="Mutated Beyond Reason"/>
+	<entry name="Tip55Description" value="A Chaos Spawn may have several sets of limbs, crab claws or tentacles, armour that bulges beneath the skin, tattered and useless wings, clumps of eye-stalks that wave like grass in a wind, a sinewy prehensile neck or a gaping maw of needle-thin teeth. And each of those can change at a whim, granting the hideous creature different properties each turn. Other Chaos entities can be similarly manic, or simply at the whims of the unpredictable Ruinous Powers."/>
+	<entry name="Tip56" value="Unleashed Wildlife"/>
+	<entry name="Tip56Description" value="Neutral units may not attack you as you move around them, but attacking them will surely make them angry."/>
+	
+<!-- Zone of control: trigger when an enemy is 2 away, after attacking and healing has been shown. -->
+<!-- Set rally point (when unit count above 3?). -->
+<!-- Waaagh! -->
+<!-- Rapid Rise -->
+<!-- Necrodermis Repair -->
+<!-- Rename units, rename city. -->
+<!-- New Game Screen tips. -->
+<!-- Query Space Marines to deploy city before ending turn—end turn button. -->
+
+<!-- Flyers. -->
+<!-- Hero death—resurrect, items when hero below 50%. -->
+</language>
