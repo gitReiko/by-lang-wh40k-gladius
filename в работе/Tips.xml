@@ -53,39 +53,39 @@
 	<entry name="Tip24Description" value="Кожны будынак апроч штаб-кватэры патрабуе адно <icon height='20' texture='Icons/Attributes/PopulationLimit'/> насельніцтва для функцыявання. Вам патрэбна даследаваць і пабудаваць <icon height='20' texture='Icons/Buildings/AstraMilitarum/Housing'/> жытло, каб павялічыць хуткасць <icon height='20' texture='Icons/Attributes/Growth'/> узроста і ліміт насельніцтва. Калі ў вас узнікнуць праблемы з-за нястачы насельніцтва або іншых рэсурсаў, вы можаце адключыць некаторыя будынкі, каб іншыя працавалі з поўнай аддачай, націснуўшы <icon height='20' texture='Icons/DisableBuilding'/> кнопку поруч з усякай будаўнічай групай."/>
 	<entry name="Tip25" value="Лаяльнасць"/>
 	<entry name="Tip25Description" value="Калі <icon height='20' texture='Icons/Attributes/Loyalty'/> лаяльнасць вашага горада ўпадзе да 0, гэта адмоўна адаб'ецца на эфектыўнасці будынкаў. Таму вы захочаце пабудаваць будынкі, якія вырабляюць лаяльнасць, каб трымаць яе на станоўчым узроўні. Гэта павялічыць эфектыўнасць цэлага горада."/>
+	<entry name="Tip26" value="Глабальна назапашаныя рэсурсы"/>
+	<entry name="Tip26Description" value="Жыццёва важныя рэсурсы, такія як <icon height='20' texture='Icons/Attributes/Food'/> ежа, <icon height='20' texture='Icons/Attributes/Ore'/> руда, <icon height='20' texture='Icons/Attributes/Energy'/> энергія і <icon height='20' texture='Icons/Attributes/Influence'/> уплыў назапашваюцца і размяркоўваюцца глабальна. Кожны горад вырабляе і спажывае рэсурсы з аднаго пула. Гэта дазваляе вам спецыялізаваць гарады і нават назапашвацца рэсурсамі на больш суровыя часы."/>
+	<entry name="Tip27" value="Гарадскія эдыкты"/>
+	<entry name="Tip27Description" value="Эдыкты - гэта гарадскія эфекты, якія можна выдаць выдаткаваўшы ўплыў. Адначасна можа быць актыўна некалькі эдыктаў, але кожная актывацыя доўжыцца абмежаваны час. Падбірайце слушны момант, каб перамагчы на Гладыусе."/>
+	<entry name="Tip28" value="Артэфакты"/>
+	<entry name="Tip28Description" value="Нешта прыцягнула да Гладыуса аб'екты з незвычайнай сілай. Уся паверхня пакрыта тэхналогіямі Старажытных усіх памераў і выглядаў. Хаця некаторыя артэфакты можна купіць, найбольш магутныя артэфакты можна захапіць толькі з мацакаў Занявольнікаў. Пасля забойства ўсіх суседніх адзінак, што кантралююць артэфакт, яго можна захапіць націснуўшы па ім правай кнопкай мышы з абранай адзінкай."/>
+	<entry name="Tip29" value="Аперацыі"/>
+	<entry name="Tip29Description" value="Космадэсантнікі могуць праводзіць стратэгічныя і тактычныя аперацыі марнуючы ўплыў. Адна з такіх аперацый разгортванне крэпасці адкуплення: стацыянарнай адзінкі прызначанай для абароны суседняга асаблівага рэсурсу. Месцаванне крэпасцяў адкуплення з'яўляецца ключом космадэсанту да збору рэсурсаў па-за дасягальнасцю горада."/>
+	<entry name="Tip30" value="Стацыянарныя адзінкі"/>
+	<entry name="Tip30Description" value="Некаторыя адзінкі не могуць рухацца, але могуць выконваць дзеянні. Калі ў іх ёсць зброя, напрыклад, як у штаб-кватэр, яны могуць атакаваць. Каб выканаць атаку, навядзіце мыш на ворага і націсніце правую кнопку."/>
+	<entry name="Tip31" value="Руіны Ваўла"/>
+	<entry name="Tip31Description" value="У поле зроку руіны Ваўла. Гэтыя руіны даюць узнагароду першаму гульцу, які іх наведаў. Некаторыя нават даюць магутныя старажытныя прадметы, якія могуць экіпіяваць героі, каб стаць мацней або атрымаць поспех у спецыфічных сутычках."/>
+	<entry name="Tip32" value="Заняволены"/>
+	<entry name="Tip32Description" value="Ваша адзінка была захоплена занявольнікамі! Забіце адзінку занявольнікаў, каб вызваліць свае войскі ад іх хваткі!"/>
+	<entry name="Tip33" value="Цяжкая зброя"/>
+	<entry name="Tip33Description" value="Гэтая пяхотная адзінка экіпіявана цяжкай зброяй. Цяжкае ўзбраенне пяхоты губляе трапнасць, калі адзінка перамеціцца."/>
+	<entry name="Tip34" value="Хуткастрэльная зброя"/>
+	<entry name="Tip34Description" value="Гэтая адзінка экіпіявана хуткастрэльнай зброяй. Адзінкі з хуткастрэльнай зброяй могуць нанесці вялікую шкоду на блізкай дыстанцыі. Тым не менш агонь на сярэдняй дыстанцыі таксама магчымы. Магчыма, варта падысці бліжэй перад атакай."/>
+	<entry name="Tip35" value="Магутныя стварэнні"/>
+	<entry name="Tip35Description" value="На Гладыус Прайм ёсць пужліва магутныя стварэнні. Было б разумна сабраць значныя сілы перад атакай гэтых звяроў."/>
+	<entry name="Tip36" value="Кампендыум Гладыуса"/>
+	<entry name="Tip36Description" value="Кампендыум захоўвае калекцыю карыснай гульнявой інфармацыі. У ім вы можаце прачытаць пра фракцыі, будынкі, адзінкі, перачытаць рады і шмат што іншае. Кампендыум можна адкрыць націскам пытальніка ў правым верхнім куце экрана."/>
+	<entry name="Tip37" value="Няма рэсурсаў"/>
+	<entry name="Tip37Description" value="У вас мала рэсурсаў! Навядзіце вашу мыш на рэсурсы ў левым верхнім куце экрана, каб даведацца чаму. Магчыма карысным будзе адключыць будынак, пабудаваць адзін або некалькі будынкаў, або пабудаваць горад."/>
+	<entry name="Tip38" value="Каланізацыя (некроны)"/>
+	<entry name="Tip38Description" value="Каноптэкавы павук дазволіць вам абудзіць горад, які стане грунтам вашай дынастыі на Гладыусе. Каб абудзіць ваш першы горад, націсніце кнопку “<icon height='20' texture='Icons/Actions/FoundCity'/> Абудзіць горад” на панэлі выбару ў левым ніжнім куце і выберыце пустую плітку з грабніцай некронаў. Звярніце ўвагу, гэтае дзеянне спажывае адзінку."/>
+	<entry name="Tip39" value="Ачысціць плітку"/>
+	<entry name="Tip39Description" value="Вы набылі плітку з <icon height='20' texture='Icons/Features/WireWeed'/> пустазеллем-дротам на ёй. Гэтае вострае, як брытва, пустазелле пашкоджвае адзінкі і перашкоджвае будаванню будынкаў. Каб пачаць ачыстку пліткі, націсніце дзеянне “<icon height='20' texture='Icons/Actions/ClearTile'/> Ачысціць плітку” і выберыце плітку з пустазеллем-дротам."/>
+	<entry name="Tip40" value="Слабыя адзінкі"/>
+	<entry name="Tip40Description" value="Такія адзінкі, як гвардзейцы, самі па сабе вельмі слабыя. Слабыя адзінкі рэкамендуецца трымаць групамі недалёка адзін ад аднаго, каб яны маглі дапамагаць адзін аднаму, асабліва, калі яны выходзяць на нязведаную тэрыторыю."/>
 	
 	<!-- there -->
-	
-	<entry name="Tip26" value="Global Pooled Resources"/>
-	<entry name="Tip26Description" value="Vital resources like <icon height='20' texture='Icons/Attributes/Food'/> food, <icon height='20' texture='Icons/Attributes/Ore'/> ore, <icon height='20' texture='Icons/Attributes/Energy'/> energy and <icon height='20' texture='Icons/Attributes/Influence'/> influence are accumulated and shared globally. Every city provides and consumes these resources from the same pool, allowing you to fully specialize cities and even stock up on resources for harsher times."/>
-	<entry name="Tip27" value="City Edicts"/>
-	<entry name="Tip27Description" value="Edicts are city-wide effects that can be issued by expending influence. Multiple can be active at a time, but each activation lasts only a limited amount of time. Timing these correctly can help you prevail on Gladius."/>
-	<entry name="Tip28" value="Artefacts"/>
-	<entry name="Tip28Description" value="Something has attracted objects with extraordinary powers to Gladius, and the surface is littered with Old One tech of all sizes and kinds. While some artefact items may be bought, bigger artefact units must be captured from the tentacles of Enslavers. Once all adjacent units holding control of an artefact have been killed, the artefact can be captured by right-clicking on it with a unit selected."/>
-	<entry name="Tip29" value="Operations"/>
-	<entry name="Tip29Description" value="Space Marines are able to issue strategic and tactical operations by expending influence. One such operation is the deployment of a Fortress of Redemption—a stationary unit that secures adjacent special resource features. Placement of Fortresses of Redemption is key for Space Marines to gather resources beyond their city's reach."/>
-	<entry name="Tip30" value="Stationary Unit"/>
-	<entry name="Tip30Description" value="Some units cannot move but can still perform actions. If they have weapons, like the city headquarters, they can attack. To perform an attack move your mouse over enemies and right click."/>
-	<entry name="Tip31" value="Ruins of Vaul"/>
-	<entry name="Tip31Description" value="There are Ruins of Vaul in sight. These ruins provide rewards for the first player exploring them. Some even provide powerful ancient items that can be later equipped by heroes to make them stronger or excel at specific encounters."/>
-	<entry name="Tip32" value="Enslaved"/>
-	<entry name="Tip32Description" value="Your unit has been taken over by Enslavers! Kill the Enslaver unit to release your troops from their grasp!"/>
-	<entry name="Tip33" value="Heavy Weapon"/>
-	<entry name="Tip33Description" value="This infantry unit has a heavy weapon equipped. Heavy weapons carried by infantry suffer an accuracy penalty if the unit has moved."/>
-	<entry name="Tip34" value="Rapid Fire"/>
-	<entry name="Tip34Description" value="This unit has a rapid fire weapon equipped. Units with rapid fire weapons are able to cause much more damage at close range, but can still fire from further away. It might be worth moving closer before attacking."/>
-	<entry name="Tip35" value="Powerful Creatures"/>
-	<entry name="Tip35Description" value="There are some frighteningly powerful creatures on Gladius Prime. It would be wise to gather a sizable force before engaging these beasts."/>
-	<entry name="Tip36" value="Gladius Compendium"/>
-	<entry name="Tip36Description" value="The Compendium stores a collection of useful game information. You can read up on factions, buildings, units, re-read tips and more. You can open it by clicking the question mark in the top right corner of the screen."/>
-	<entry name="Tip37" value="Out of Resources"/>
-	<entry name="Tip37Description" value="You are low on resources! Move your mouse over the resources on the top left of the screen to find out why. Perhaps it would help to disable a building, construct a building or two, or establish a new city."/>
-	<entry name="Tip38" value="Colonization—Necrons"/>
-	<entry name="Tip38Description" value="Canoptek Spyders allow you to erect a city that will form the backbone of your dynasty on Gladius. To found your first city, click the “<icon height='20' texture='Icons/Actions/FoundCity'/> Found City” button in the selection panel in the bottom left and select an empty tile with a Necron Tomb. Note that this action will consume the unit."/>
-	<entry name="Tip39" value="Clear Tile"/>
-	<entry name="Tip39Description" value="You've acquired a tile with <icon height='20' texture='Icons/Features/WireWeed'/> Wire Weed on it. This razor-sharp weed damages units and prevents construction of buildings. To begin clearing the tile, click the “<icon height='20' texture='Icons/Actions/ClearTile'/> Clear Tile” action and select the tile with the Wire Weed."/>
-	<entry name="Tip40" value="Weak Units"/>
-	<entry name="Tip40Description" value="Units like Guardsmen are very weak by themselves. With such vulnerable units, it's advisable to keep multiple units close together so they can assist each other—especially when venturing into unexplored territory."/>
+
 	<entry name="Tip41" value="Good Luck!"/>
 	<entry name="Tip41Description" value="You are now able to produce new units, maintain your economy and understand the basic concepts of the game. More tips and suggestions will be shown throughout your interactions, but you will be left to explore the world of Gladius Prime and discover its mysteries alone. Survival is no birthright, but a prize wrested from an uncaring galaxy by forgotten heroes."/>
 	<entry name="Tip42" value="Claim Item"/>
