@@ -83,27 +83,27 @@
 	<entry name="Tip39Description" value="Вы набылі плітку з <icon height='20' texture='Icons/Features/WireWeed'/> пустазеллем-дротам на ёй. Гэтае вострае, як брытва, пустазелле пашкоджвае адзінкі і перашкоджвае будаванню будынкаў. Каб пачаць ачыстку пліткі, націсніце дзеянне “<icon height='20' texture='Icons/Actions/ClearTile'/> Ачысціць плітку” і выберыце плітку з пустазеллем-дротам."/>
 	<entry name="Tip40" value="Слабыя адзінкі"/>
 	<entry name="Tip40Description" value="Такія адзінкі, як гвардзейцы, самі па сабе вельмі слабыя. Слабыя адзінкі рэкамендуецца трымаць групамі недалёка адзін ад аднаго, каб яны маглі дапамагаць адзін аднаму, асабліва, калі яны выходзяць на нязведаную тэрыторыю."/>
+	<entry name="Tip41" value="Поспеху!"/>
+	<entry name="Tip41Description" value="Зараз вы навучыліся вырабляць новыя адзінкі, наладжваць эканоміку і разумееце асноўныя канцэпцыі гульні. Па ходзе гульні вам будуць паказвацца новыя рады, але з гэтага моманту вы будзеце даследаваць Гладыус Прайм у адзіночку. Выжыванне - гэта права па народзінах, а ўзнагарода, выдраная з абыякавай галактыкі забытымі героямі."/>
+	<entry name="Tip42" value="Набыць прадмет"/>
+	<entry name="Tip42Description" value="Каб набыць прадмет і перадаць яго свайму герою, націсніце на яго на панэлі ненабытых прадметаў у левым верхнім куце. Пасля набыцця прадмета вы можаце выкарыстаць яго па сваім жаданні, як і звычайныя здольнасці. Таксама вы можаце перадаць яго іншаму герою, перацягнуўшы яго. У кожнага героя адначасова можа быць толькі абмежаваная колькасць прадметаў."/>
+	<entry name="Tip43" value="Мясцовасць"/>
+	<entry name="Tip43Description" value="Мясцовасць уплывае на адзінкі па-рознаму. Лясы і імперскія руіны патрабуюць больш за ачкоў руху для сухапутных адзінак, а таксама ўскладняюць выяўленне і знішчэнне адзінак. Розніца ў вышыні можа перашкодзіць вашым адзінкам весці прамы агонь па ворагу. Пліткі, адзначаныя чырвоным, указваюць на ворагаў, якіх можна атакаваць з вашай бягучай пазіцыі."/> <!-- Click OK and hover over a tile marked with a red outline. -->
+	<entry name="Tip44" value="Здольнасці адзінак"/>
+	<entry name="Tip44Description" value="Некаторыя адзінкі валодаюць дадатковымі здольнасцямі, якія можна выкарыстоўваць у боі, каб атрымаць перавагу. Выкарыстоўвайце здольнасць, націснуўшы на яе кнопку і выбраўшы цэль левай кнопкай мышы. Выкарыстанне здольнасці спажыве ачкі дзеянняў і руху адзінкі, забараняючы адзінцы выконваць далейшы рух або атаку ў гэтым кроку."/>
+	<entry name="Tip45" value="Назіранне"/>
+	<entry name="Tip45Description" value="Адзінкі, у якіх засталіся ачкі дзеяння, са зброяй далёкага бою будуць аўтаматычна выконваць <icon height='20' texture='Icons/Actions/Overwatch'/> атакі назірання ў момант уваходу варожых адзінак у радыус абстрэлу, за выняткам ворагаў са здольнасцю <icon height='20' texture='Icons/Traits/Infiltrate'/> пранікненні."/>
+	<entry name="Tip46" value="Аванпосты"/>
+	<entry name="Tip46Description" value="Пліткі з асаблівымі рэсурсамі могуць быць захоплены перасоўваннем адзінкі на іх. Дадзенае дзеянне створыць <icon height='20' texture='Icons/Features/Outpost'/> аванпост, якія забяспечыць невялікі, але важны бонус да прыбытку рэсурсу, а таксама павялічыць зніжэнне шкоды па адзінцы змесцаванай у ім і павялічыць хуткасць лячэння. Бараніце свае аванпосты, іначай іншыя фракцыі або фаўна Гладыуса захопіць іх."/>
+	<entry name="Tip47" value="Транспарт: Пасадка"/>
+	<entry name="Tip47Description" value="Гэтая адзінка можа перавозіць пяхотныя адзінкі як груз. Каб пагрузіць адзінку, якую вы жадаеце, перасуньце яе на плітку з транспартам. Пагружаныя адзінкі не змогуць выгрузіцца ў той жа крок, калі пагрузіліся."/>
+	<entry name="Tip48" value="Транспарт: Выгрузка"/>
+	<entry name="Tip48Description" value="У вашым транспарце ёсць пагружаная адзінка. Каб выгрузіць яе, націсніце па грузе для яе абрання. Потым націсніце правай кнопкай мышы па плітцы выгрузкі. Таксама вы можаце перастаўляць груз перацягваннем яго ў розныя слоты."/>
+	<entry name="Tip49" value="Інстынктыўныя паводзіны"/>
+	<entry name="Tip49Description" value="Шматлікія адзінкі тыранідаў пакутуюць ад інстынктыўных паводзін, калі знаходзяцца па-за радыусам дасягальнасці сінапсаў або горада тыранідаў. Тэрмагаўнты валодаюць <icon height='20' texture='Icons/Traits/Tyranids/InstinctiveBehaviourLurk'/> інстынктыўнымі паводзінамі, якія прыводзяць да страты маралі кожны крок. Вы можаце выкарыстоўваць здольнасць <icon height='20' texture='Icons/Actions/Tyranids/InstinctiveBehaviourOverride'/> прыгнечанне інстынктыўных паводзін, каб часова задушыць іх."/>
 	
 	<!-- there -->
 
-	<entry name="Tip41" value="Good Luck!"/>
-	<entry name="Tip41Description" value="You are now able to produce new units, maintain your economy and understand the basic concepts of the game. More tips and suggestions will be shown throughout your interactions, but you will be left to explore the world of Gladius Prime and discover its mysteries alone. Survival is no birthright, but a prize wrested from an uncaring galaxy by forgotten heroes."/>
-	<entry name="Tip42" value="Claim Item"/>
-	<entry name="Tip42Description" value="To claim an item and transfer it to your hero click on it in the unclaimed items panel in the top left. After claiming an item, you can use it at will, just like abilities. You can also transfer it to another hero by dragging it out. Each hero can only have a limited number of items at a time."/>
-	<entry name="Tip43" value="Terrain"/>
-	<entry name="Tip43Description" value="Terrain affects units in a variety of ways. Forests and Imperial ruins have an increased movement cost for ground units and make it harder to see and fire across. Height differences may also prevent your units from having a clear line of fire. Tiles marked with red indicate enemies that can be attacked from your current position."/> <!-- Click OK and hover over a tile marked with a red outline. -->
-	<entry name="Tip44" value="Unit Abilities"/>
-	<entry name="Tip44Description" value="Some units have extra abilities that can be utilized to gain an edge in combat. Use an ability by clicking its button and selecting a target with the left mouse button. Using an ability will consume the unit's action point and all movement, preventing the unit from performing any further movement or attacks this turn."/>
-	<entry name="Tip45" value="Overwatch"/>
-	<entry name="Tip45Description" value="Units with action points remaining that have ranged weapons will automatically perform <icon height='20' texture='Icons/Actions/Overwatch'/> overwatch attacks when an enemy unit enters their attack range unless the enemy unit has <icon height='20' texture='Icons/Traits/Infiltrate'/> infiltrate."/>
-	<entry name="Tip46" value="Outposts"/>
-	<entry name="Tip46Description" value="Tiles with special resource features can be captured by moving a unit on them. This will construct an <icon height='20' texture='Icons/Features/Outpost'/> outpost, providing you with a small but important bonus to your resource output and giving the unit stationed there increased damage reduction and healing rate. Defend your outposts or they will be taken over by other factions or the Gladius wildlife."/>
-	<entry name="Tip47" value="Transports: Embarking"/>
-	<entry name="Tip47Description" value="This unit is able to carry infantry units as cargo. To embark, move the unit you wish to carry onto the transport's tile. Embarked units will normally not be able to disembark in the turn they have embarked."/>
-	<entry name="Tip48" value="Transports: Disembarking"/>
-	<entry name="Tip48Description" value="You have a unit embarked on this transport. To disembark it, click on the cargo to select it and then right-click the destination tile. You can also rearrange cargo by dragging it into different slots."/>
-	<entry name="Tip49" value="Instinctive Behaviour"/>
-	<entry name="Tip49Description" value="Many Tyranid units will suffer from instinctive behaviour while not in range of a synapse creature or a Tyranid city. Termagants have <icon height='20' texture='Icons/Traits/Tyranids/InstinctiveBehaviourLurk'/> instinctive behaviour which causes them to lose morale each turn. You can use the unit's <icon height='20' texture='Icons/Actions/Tyranids/InstinctiveBehaviourOverride'/> override instinctive behaviour ability to temporarily fend off the effects."/>
 	<entry name="Tip50" value="Reclamation"/>
 	<entry name="Tip50Description" value="Tyranid units in cities can be reclaimed to regain biomass and accelerate a building's production. Click “<icon height='20' texture='Icons/Actions/Tyranids/ReclaimUnit'/> Reclaim Unit” to show each unit's reclaim value and select a target. The reclamation process is instantaneous and can be executed in parallel with production."/>
 	<entry name="Tip51" value="Feed Upon The Planet"/>
