@@ -101,23 +101,20 @@
 	<entry name="Tip48Description" value="У вашым транспарце ёсць пагружаная адзінка. Каб выгрузіць яе, націсніце па грузе для яе абрання. Потым націсніце правай кнопкай мышы па плітцы выгрузкі. Таксама вы можаце перастаўляць груз перацягваннем яго ў розныя слоты."/>
 	<entry name="Tip49" value="Інстынктыўныя паводзіны"/>
 	<entry name="Tip49Description" value="Шматлікія адзінкі тыранідаў пакутуюць ад інстынктыўных паводзін, калі знаходзяцца па-за радыусам дасягальнасці сінапсаў або горада тыранідаў. Тэрмагаўнты валодаюць <icon height='20' texture='Icons/Traits/Tyranids/InstinctiveBehaviourLurk'/> інстынктыўнымі паводзінамі, якія прыводзяць да страты маралі кожны крок. Вы можаце выкарыстоўваць здольнасць <icon height='20' texture='Icons/Actions/Tyranids/InstinctiveBehaviourOverride'/> прыгнечанне інстынктыўных паводзін, каб часова задушыць іх."/>
-	
-	<!-- there -->
-
-	<entry name="Tip50" value="Reclamation"/>
-	<entry name="Tip50Description" value="Tyranid units in cities can be reclaimed to regain biomass and accelerate a building's production. Click “<icon height='20' texture='Icons/Actions/Tyranids/ReclaimUnit'/> Reclaim Unit” to show each unit's reclaim value and select a target. The reclamation process is instantaneous and can be executed in parallel with production."/>
-	<entry name="Tip51" value="Feed Upon The Planet"/>
-	<entry name="Tip51Description" value="Tyranid cities consume all tile <icon height='20' texture='Icons/Attributes/Biomass'/> biomass when acquiring a tile. This biomass is added to your pool of resources and is then forever depleted from the tile. <icon height='20' texture='Icons/Units/Tyranids/Malanthrope'/> Malanthropes, which are at the core of any Tyranid economy, are able to consume tiles across all of Gladius, even in faraway, remote locations."/>
-	<entry name="Tip52" value="Unholy Rites"/>
-	<entry name="Tip52Description" value="Unholy Rites are powerful city-wide effects that can be activated by expending population. Coordinating the rites together with sacrificing Chaos Cultists to increase population growth is a key element to getting the most out of your economy."/>	
-	<entry name="Tip53" value="Champions of Chaos"/>
-	<entry name="Tip53Description" value="Champions of Chaos have a chance to transform into Chaos Spawn or a mighty Daemon Prince when they kill an enemy. Additionally, after Chaos Boons are researched, each Champion of Chaos can gain permanent buffs. Be careful who you deal final blows with."/>
-	<entry name="Tip54" value="Marks of Chaos"/>
-	<entry name="Tip54Description" value="Infantry units can be marked by one of the Dark Gods to increase the unit's powers. Only a single mark can ever exist on a unit, and it can never be removed. Later in the game, Icons of Chaos can be used to increase the unit's favor with the Dark Gods even further."/>
-	<entry name="Tip55" value="Mutated Beyond Reason"/>
-	<entry name="Tip55Description" value="A Chaos Spawn may have several sets of limbs, crab claws or tentacles, armour that bulges beneath the skin, tattered and useless wings, clumps of eye-stalks that wave like grass in a wind, a sinewy prehensile neck or a gaping maw of needle-thin teeth. And each of those can change at a whim, granting the hideous creature different properties each turn. Other Chaos entities can be similarly manic, or simply at the whims of the unpredictable Ruinous Powers."/>
-	<entry name="Tip56" value="Unleashed Wildlife"/>
-	<entry name="Tip56Description" value="Neutral units may not attack you as you move around them, but attacking them will surely make them angry."/>
+	<entry name="Tip50" value="Перапрацоўка"/>
+	<entry name="Tip50Description" value="Адзінкі ў гарадах тыранідаў могуць быць перапрацаваны, каб вярнуць біямасу і паскорыць будаванне будынкаў. Націсніце “<icon height='20' texture='Icons/Actions/Tyranids/ReclaimUnit'/> Перапрацаваць адзінку”, каб убачыць кошт усякай адзінкі і абраць цэль. Працэс перапрацоўкі адбываецца імгненна і можа выконвацца паралельна з вытворчасцю."/>
+	<entry name="Tip51" value="Сілкуйцеся планетай"/>
+	<entry name="Tip51Description" value="Гарады спажываюць усю <icon height='20' texture='Icons/Attributes/Biomass'/> біямасу пліткі, пры яе набыцці. Гэтая біямаса дадаецца да агульных запасаў рэсурсаў, і назаўжды высільваецца з пліткі. <icon height='20' texture='Icons/Units/Tyranids/Malanthrope'/> Малантропы з'яўляюцца грунтам усякай эканомікі тыранідаў. Яны здольныя спажываць пліткі ў кожнай частцы Гладыуса, нават у самой далёкай."/>
+	<entry name="Tip52" value="Нязбожныя абрады"/>
+	<entry name="Tip52Description" value="Нязбожныя абрады - гэта магутныя гарадскія эфекты, якія можна актываваць ахвяраваўшы насельніцтвам. Каардынуйце абрады з ахвяраваннем культыстаў хаосу, каб павялічыць узрост насельніцтва. Гэта ключавы элемент для атрымання максімальнай аддачы ад вашай эканомікі."/>	
+	<entry name="Tip53" value="Чэмпіёны хаосу"/>
+	<entry name="Tip53Description" value="Чэмпіёны хаосу маюць шанец трансфармацыі ў параджэнні хаосу або магутнага дэман-прынца, пасля забойства ворага. Таксама, пасля даследавання дарункаў хаосу, кожны чэмпіён хаосу можа атрымаць сталыя бафы. Будзьце асцярожныя з тым, з кім вы нанасіце апошні ўдар."/>
+	<entry name="Tip54" value="Знакі хаосу"/>
+	<entry name="Tip54Description" value="Адзінкі пяхоты могуць быць адзначаны адным са знакаў цёмных багоў, каб павялічыць іх сілы. Адзінка можа быць адзначана толькі адным знакам, які нельга выдаліць. Пазней у гульні, абразы хаосу дапамогуць павялічыць прыхільнасць цёмных багоў да адзінкі."/>
+	<entry name="Tip55" value="Мутацыя без прычыны"/>
+	<entry name="Tip55Description" value="У параджэнняў хаосу можа быць некалькі набораў канечнасцяў, клюшні краба або мацакі, браня, якая выпірае з-пад скуры, абадраныя і бескарысныя крылы, пучкі вокавых сцёблаў, якія калышуцца, як трава на ветры, гужаватая ўчэпістая шыя або шырокая пашча з тонкімі зубамі-іголкамі. Гэтыя змены могуць ажыццяўляцца кожны крок па капрызе багоў, надзяляючы жахлівую істоту рознымі ўласцівасцямі. Іншыя існасці хаосу могуць быць не меней маніякальнымі. З-за простага капрызу непрадказальных разбуральных сіл."/>
+	<entry name="Tip56" value="Вызваленая фаўна"/>
+	<entry name="Tip56Description" value="Нейтральныя адзінкі могуць не атакаваць вас, калі вы рухаецеся каля іх, але, калі вы іх атакуеце, яны раззлуюцца."/>
 	
 <!-- Zone of control: trigger when an enemy is 2 away, after attacking and healing has been shown. -->
 <!-- Set rally point (when unit count above 3?). -->
