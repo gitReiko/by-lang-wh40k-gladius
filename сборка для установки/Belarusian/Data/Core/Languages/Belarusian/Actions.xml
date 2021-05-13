@@ -367,7 +367,7 @@
 	<entry name="EreWeGoFlavor" value="Ever eager to get stuck into the fray, Orks will barrel across the battlefield as quick as they can when the foe is in their sights."/>
 	<entry name="FoundCity" value="Пабудаваць горад"/>
 	<entry name="FoundCityDescription" value="Спажывае адзінку для будавання новага горада.<br/><br/>Гарады можна будаваць толькі ў выпадку адсутнасці іншых гарадоў у радыусе 4 плітак. Кожны горад пасля першага зніжае лаяльнасць ува ўсіх гарадах на 6."/>
-	<entry name="FoundCityNecrons" value="Пабудаваць горад (некроны)"/>
+	<entry name="FoundCityNecrons" value="Абудзіць горад"/>
 	<entry name="FoundCityNecronsDescription" value="Спажывае адзінку для будавання новага горада.<br/><br/>Гарады можна будаваць толькі на месцы грабніц некронаў у выпадку адсутнасці іншых гарадоў у радыусе 4 плітак. Кожны горад пасля першага зніжае лаяльнасць ува ўсіх гарадах на 6."/>
 	<entry name="FullThrottle" value="“Поўны газ!”"/>
 	<entry name="FullThrottleDescription" value="Дадае рух камандзіру танка і суседнім хаўрусным танкам."/>
@@ -384,7 +384,7 @@
 	<entry name="HammerOfWrath" value="Молат гневу"/>
 	<entry name="HammerOfWrathDescription" value="Павялічвае шкоду."/>
 	<entry name="HammerOfWrathFlavor" value="Many warriors hurl themselves headlong into combat, seeking to crush or trample the foe."/>
-	<entry name="Heal" value="Стрымліваць пазіцыю да вылячэння"/>
+	<entry name="Heal" value="Утрымліваць пазіцыю да вылячэння"/>
 	<entry name="HealDescription" value="Стрымліваць пазіцыю да поўнага вылячэння."/>
 	<entry name="HealingSurge" value="Хваля лячэння"/>
 	<entry name="HealingSurgeDescription" value="Аднаўляе здароўе."/>
@@ -794,8 +794,8 @@
 	<entry name="Tyranids/RapaciousHunger" value="Ненаедны голад"/>
 	<entry name="Tyranids/RapaciousHungerDescription" value="Гаруспэкс павялічвае свае атакі."/>
 	<entry name="Tyranids/RapaciousHungerFlavor" value="To see a Haruspex in a full feeding frenzy is to recognise your life is already lost—not in the creature's jetbike-sized maw necessarily, but to what the Haruspex symbolises. These creatures are normally only deployed at the end of a planetary invasion—so to see them is to accept that your planet is almost certainly doomed."/>
-	<entry name="Tyranids/ReclaimUnit" value="Вярнуць адзінку"/>
-	<entry name="Tyranids/ReclaimUnitDescription" value="Вяртае адзінку тыранідаў, каб вярнуць біямасу і вытворчасць цаной уплыву."/>
+	<entry name="Tyranids/ReclaimUnit" value="Перапрацаваць адзінку"/>
+	<entry name="Tyranids/ReclaimUnitDescription" value="Перапрацоўвае адзінку тыранідаў, каб вярнуць біямасу і вытворчасць цаной уплыву."/>
 	<entry name="Tyranids/ReclaimUnitFlavor" value="Though the Hive Mind normally only dispatches the worthless swarms of Rippers into its reclamation pools, in extremis it can render down any creature for its resources. On planets conquered by its Genestealer proxies, it's not unusual to see entire assimilated populations and defense platoons marching themselves happily into the digestive pools."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="Бедства вывадка"/>
 	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Гонар тыранідаў павялічвае сваю шкоду."/>
