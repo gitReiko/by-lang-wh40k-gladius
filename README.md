@@ -4,13 +4,16 @@
 
 1. Загрузіце мод
 
-    Steam
+    **Steam**
+
     Падпішыцеся на мод [спасылка](https://steamcommunity.com/sharedfiles/filedetails/?id=2372249255&searchtext=Belarusian)
 
-    Ubuntu (linux)
+    **Ubuntu (linux)**
+
     Спампуйце мод з рэпазіторыя і перанясіце тэчку Belarusian у тэчку ~/.config/Proxy Studios/Gladius/Mods/Belarusian/
 
-    Windows
+    **Windows**
+
     Спампуйце мод з рэпазіторыя і перанясіце тэчку Belarusian у тэчку \My Documents\Proxy Studios\Gladius\Mods\Belarusian\
 
     Тэчка Belarusian знаходзіцца ў тэчцы рэпазіторыя зборка для ўсталёўкі.
