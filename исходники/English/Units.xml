@@ -46,7 +46,7 @@
 	<entry name="AstraMilitarum/TankCommanderDescription" value="Tank hero unit with formidable strength that also boosts nearby allied tank units."/>
 	<entry name="AstraMilitarum/TankCommanderFlavor" value="A Tank Commander rides to battle in the cupola of a mighty Leman Russ battle tank. These grizzled men are virtually one with their machine, possessing an implicit knowledge of armoured warfare in all its forms. The average Tank Commander is a steely eyed ace, heading up a crew of the very best their regiment has to offer."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer" value="Techpriest Enginseers"/>
-	<entry name="AstraMilitarum/TechpriestEnginseerDescription" value="Infantry unit that supports vehicles and founds new cities."/>
+	<entry name="AstraMilitarum/TechpriestEnginseerDescription" value="Infantry unit that supports vehicles, clears tiles and founds new cities."/>
 	<entry name="AstraMilitarum/TechpriestEnginseerFlavor" value="Tech-Priest Enginseers serve as custodians for the vehicles of the Imperial Guard. With binary prayers and mystic rites, the Enginseers soothe the machine spirits of their tracked congregation. Without the diligent maintenance of the Enginseers, the Imperial Guard would soon find themselves without the heavy armour vital to their very survival."/>
 	<entry name="AstraMilitarum/TempestusScion" value="Tempestus Scions"/>
 	<entry name="AstraMilitarum/TempestusScionDescription" value="Elite shock infantry unit."/>
@@ -64,7 +64,7 @@
 	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="Psyker unit that specializes in debuffs."/>
 	<entry name="AstraMilitarum/WyrdvanePsykerFlavor" value="Wyrdvane Psykers transform the howling might of the Warp into a deadly weapon of Imperial supremacy. They are formed from those Scholastica Psykana inductees not able to control their burgeoning powers without guidance and aid. As individuals, such psykers are unpredictable and unsafe. Yet working in concert, these deadly mutants can be a valuable asset."/>
 	<entry name="ChaosSpaceMarines/ChaosCultist" value="Chaos Cultists"/>
-	<entry name="ChaosSpaceMarines/ChaosCultistDescription" value="Mass infantry unit that can found cities and sacrifice itself to the Dark Gods."/>
+	<entry name="ChaosSpaceMarines/ChaosCultistDescription" value="Mass infantry unit that can clear tiles, found cities and sacrifice itself to the Dark Gods."/>
 	<entry name="ChaosSpaceMarines/ChaosCultistFlavor" value="The cultists of Chaos can be found, in one form or another, almost anywhere the Imperium has spread. At first glance, they are indistinguishable from normal men, but under their clothes, their flesh is tattooed and branded with sigils that hurt the eyes of any faithful who look upon them. When the Chaos Space Marines come to a planet, the true colours of the cultists are revealed. The powers of darkness are ever quick to promise glory, and even the lowliest initiate knows that to fight alongside such legendary warriors is to court the gaze of the gods."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider" value="Chaos Land Raider"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaiderDescription" value="Massively armoured and heavily armed transport unit."/>
@@ -167,7 +167,7 @@
 	<entry name="Eldar/SpiritseerDescription" value="Psyker hero unit that can choose to channel his abilities in two ways: either to protect or to destroy."/>
 	<entry name="Eldar/SpiritseerFlavor" value="The Spiritseer has a dual existence, caught on the cusp of life and death. The power of life he delivers to the ghost warriors of the craftworlds, not only by placing the spirit stones that animate them within their wraithbone shells, but by using his psychic powers to enhance and invigorate them during battle. The gift of death he brings to those who threaten the craftworld. A simple gesture from a Spiritseer can see his enemies assailed by lithe, powerful constructs that are all but indestructible, each immortal hero burning with a cold malevolence from beyond the grave."/>
 	<entry name="Eldar/VaulsWrathSupportBattery" value="Vaul’s Wrath Support Battery"/>
-	<entry name="Eldar/VaulsWrathSupportBatteryDescription" value="Artillery unit that excels against slow targets."/>
+	<entry name="Eldar/VaulsWrathSupportBatteryDescription" value="Artillery unit that can clear tiles and excels against slow targets."/>
 	<entry name="Eldar/VaulsWrathSupportBatteryFlavor" value="Aeldari artillery glides forward upon broad grav-platforms, each gun’s generator thrumming low as it obliterates the craftworld’s enemies. Unlike the crude solid explosives hurled by the ordnance of lesser races, these elegant weapons of death cast forth clouds of monofilament strands, waves of sonic fury and roiling blasts of carefully contained Warp energy."/>
 	<entry name="Eldar/WarWalker" value="War Walkers"/>
 	<entry name="Eldar/WarWalkerDescription" value="Well-balanced and well-equipped walker unit."/>
@@ -191,7 +191,7 @@
 	<entry name="Necrons/CanoptekScarabDescription" value="Close combat swarm unit that overwhelms the enemy with large numbers."/>
 	<entry name="Necrons/CanoptekScarabFlavor" value="Canoptek Scarabs sweep across the battlefield in vast, undulating swarms that devour all in their path. Mindless feeding machines, the Scarabs are constructs designed to break down matter into raw energy that can then be woven into fresh forms. Within the confines of a tomb this process is one of clearing and manufacture, but on the battlefield it is a powerful force of destruction."/>
 	<entry name="Necrons/CanoptekSpyder" value="Canoptek Spyder"/>
-	<entry name="Necrons/CanoptekSpyderDescription" value="Monstrous support unit that founds new cities."/>
+	<entry name="Necrons/CanoptekSpyderDescription" value="Monstrous support unit that clears tiles and founds new cities."/>
 	<entry name="Necrons/CanoptekSpyderFlavor" value="Though essentially an automated drone, a Canoptek Spyder is nonetheless a formidable foe. Its vast array of self-repair and backup systems—vital for enduring uncaring millennia—offer substantial protection against incoming fire. In return, any enemy that strays within reach of the Canoptek Spyder will have flesh scoured from bone by a multitude of mechanical tools and pincers."/>
 	<entry name="Necrons/Cryptek" value="Cryptek"/>
 	<entry name="Necrons/CryptekDescription" value="Hero unit with powerful support abilities."/>
@@ -362,7 +362,7 @@
 	<entry name="Orks/MeganobDescription" value="Heavy infantry unit."/>
 	<entry name="Orks/MeganobFlavor" value="The richest and most battle-hardened Nobz can become Meganobz by paying a Mek to build them a suit of mega armour. Piston-driven and covered in enough protective plating to turn its wearer into a walking tank, this armour is incredibly expensive. Yet it serves as the ultimate greenskin status symbol. Though other Orks mock the Meganobz for wearing so much armour, only the dullest would do so within earshot. Even a direct hit from a tank round is unlikely to do more than knock a Meganob over, worsening his already foul temper. For many, the only chance of surviving an encounter with an angry Meganob is to outrun him."/>
 	<entry name="Orks/Mek" value="Meks"/>
-	<entry name="Orks/MekDescription" value="Infantry unit that repairs vehicles and founds new cities."/>
+	<entry name="Orks/MekDescription" value="Infantry unit that repairs vehicles, clears tiles and founds new cities."/>
 	<entry name="Orks/MekFlavor" value="Without Mekboyz, Orks would lack for light, power, transport, and even guns (they lack for sanitation regardless, but that's another story). Whenever an Ork needs something building, be it a shiny new shoota or the boss' new ride, they go straight to the Meks. Furthermore, an Ork with teef to spare will take existing kit to the nearest Mek in the hope of having damage repaired, and maybe some kustomising done. It is a rare day that the customer gets what he asked for, but whatever the Mek turns out will normally be fairly flash all the same."/>
 	<entry name="Orks/MekGun" value="Mek Gunz"/>
 	<entry name="Orks/MekGunDescription" value="Armoured anti-air unit."/>
@@ -455,7 +455,7 @@
 	<entry name="Tau/BroadsideBattlesuitDescription" value="Heavily armoured infantry unit with long range weaponry."/>
 	<entry name="Tau/BroadsideBattlesuitFlavor" value="With deliberate strides, XV88 Broadside Battlesuits advance into optimum firing positions. Inside each of the heavily armoured battlesuits, holotargeting data dances across the retinas of the grim-faced pilot as he swings the suit's mighty guns towards the foe. Each Broadside is a walking gun battery, carrying either a twin-linked heavy rail rifle that can smash through Imperial power armour as though it were glass, or high-yield missile pods capable of wiping out swathes of enemy infantry in lethal explosions."/>
 	<entry name="Tau/BuilderDrone" value="Builder Drones"/>
-	<entry name="Tau/BuilderDroneDescription" value="Drone unit that repairs units and founds new cities."/>
+	<entry name="Tau/BuilderDroneDescription" value="Drone unit that repairs units, clears tiles and founds new cities."/>
 	<entry name="Tau/BuilderDroneFlavor" value="T’au Drones are small hovering AI machines that fulfil a large variety of support functions. Unlike the Imperium’s AIs, which are very simple and heavily constrained following the Men of Iron rebellion, T’au AIs are intelligent and operate independently. Builder Drones are an Earth Caste flavour."/>
 	<entry name="Tau/CadreFireblade" value="Cadre Fireblade"/>
 	<entry name="Tau/CadreFirebladeDescription" value="Hero unit that excels at empowering steady firing lines."/>

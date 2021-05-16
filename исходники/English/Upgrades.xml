@@ -1275,7 +1275,7 @@
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Grants vehicles hitpoint restoration each turn."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="<string name='Traits/Tau/AutomatedRepairSystemFlavor'/>"/>
 	<entry name="Tau/BlacksunFilter" value="<string name='Traits/Tau/BlacksunFilter'/>"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight of vehicles and Ethereal."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight of vehicles, Ethereal and Pathfinders."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="<string name='Traits/Tau/BlacksunFilterFlavor'/>"/>
 	<entry name="Tau/BlastDamage" value="<string name='Traits/Tau/BlastDamage'/>"/>
 	<entry name="Tau/BlastDamageDescription" value="Increases the armour penetration of flame and missile weapons."/>

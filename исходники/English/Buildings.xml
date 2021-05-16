@@ -90,9 +90,9 @@
 	<entry name="CompendiumFlavor" value="From the shanty town huts of the Orks, to the billion-person hives of the Imperium, to the space-faring Craftworlds of the Aeldari, to the ancient mastaba of the Necrons, almost every race produces structures to satisfy their needs—whether that's construction, shelter, or merely pride. Perhaps only the Tyranids, in their insatiable search for new biological materials, lack permanent structures, instead relying on a range of semi-mobile birthing organisms..."/>
 	<entry name="Eldar/Aircraft" value="Portal Spire"/>
 	<entry name="Eldar/AircraftDescription" value="Building that produces aircraft as well as generates energy, research and influence."/>
-	<entry name="Eldar/AircraftFlavor" value="Raised high above the ground, this coiled Webway opening enables Aeldari aircraft to travel straight from the immaterium to Gladius Prime whilst having a slower transition of air pressure, composition and local gravity compared to the unearthly forms present in the twisted  space between the stars."/>
+	<entry name="Eldar/AircraftFlavor" value="Raised high above the ground, this coiled Webway opening enables Aeldari aircraft to travel straight from the immaterium to Gladius Prime whilst having a slower transition of air pressure, composition and local gravity compared to the unearthly forms present in the twisted space between the stars."/>
 	<entry name="Eldar/Construction" value="Bonesingers Chantry"/>
-	<entry name="Eldar/ConstructionDescription" value="Building that constructs new buildings as well as harvests ore and generates research."/>
+	<entry name="Eldar/ConstructionDescription" value="Building that constructs new buildings as well as harvests ore, generates research and increases growth."/>
 	<entry name="Eldar/ConstructionFlavor" value="Many of the paths that Aeldari walk in their long lives are non-violent—indeed, most are, for the Craftworld Aeldari were those who rejected the hedonistic lives of their peers for one of contemplation. Bonesingers are artisans who psychically manipulate Wraithbone into the structures and machinery that Aeldari use."/>
 	<entry name="Eldar/Energy" value="Thermo Plasma Generator"/>
 	<entry name="Eldar/EnergyDescription" value="Building that generates energy."/>
@@ -104,13 +104,13 @@
 	<entry name="Eldar/HeadquartersDescription" value="Headquarters building that generates resources."/>
 	<entry name="Eldar/HeadquartersFlavor" value="The Webway riddles Gladius Prime, but many of the gateways have been lost. Even those that survive are unimaginably ancient, but still they stand, ignored by the younger races. Around them, the Aeldari build emplacements and machinery, to stabilise the gateways renewed connection with the immaterium and defend it against incursion."/>
 	<entry name="Eldar/Heroes" value="Shrine of Khaine"/>
-	<entry name="Eldar/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
+	<entry name="Eldar/HeroesDescription" value="Building that produces heroes as well as generates research and influence."/>
 	<entry name="Eldar/HeroesFlavor" value="Though Asuryan was the chief deity of the Aeldari, his brother Khaine was his match in power. All warriors devote themselves to Khaine, with those who are lost on the Path of War becoming his Exarchs and Autarchs. In contrast, those lost on the Path of the Seer become Farseers, unable to return to the other paths they may have walked—and the Aeldari do not consider the sacrifice of freedom for power worthwhile."/>
 	<entry name="Eldar/Housing" value="Ghost Halls"/>
 	<entry name="Eldar/HousingDescription" value="Building that increases population limit."/>
 	<entry name="Eldar/HousingFlavor" value="As Asuryan was dying, consumed by Slaanesh, he blessed the Aeldari; he gave them long life and great psychic power; but he also doomed their fertility. Over time, Aeldari numbers have dwindled until now, when the great halls that once housed millions only house thousands. Here, on Gladius Prime, the ghost halls provide a taste of luxurious Aeldari living for those not fighting in the field."/>
 	<entry name="Eldar/Infantry" value="Asyuran's Crucible"/>
-	<entry name="Eldar/InfantryDescription" value="Building that produces infantry as well as generates loyalty and research."/>
+	<entry name="Eldar/InfantryDescription" value="Building that produces infantry as well as generates research and increases loyalty."/>
 	<entry name="Eldar/InfantryFlavor" value="Asuryan, the Phoenix King, was the chief of the Aeldari Gods and the last to be consumed by Slaanesh during the fall of the Aeldari. He has long been an inspiration to the Craftworld Aeldari, who often refer to themselves as ‘Asuryani’. At this muster ground, new arrivals to Gladius are equipped and assigned to squads before being tested in the field."/>
 	<entry name="Eldar/Influence" value="Dome of the Seers"/>
 	<entry name="Eldar/InfluenceDescription" value="Building that generates influence."/>

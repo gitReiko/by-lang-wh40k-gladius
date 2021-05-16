@@ -430,7 +430,7 @@
 	<entry name="Necrons/BloodyCrusadeDescription" value="Increases the attacks."/>
 	<entry name="Necrons/BloodyCrusadeFlavor" value="In its desire to rid the universe of organic life, a Destroyer Lord can descend into a savage insanity, raining blow after blow on its opponents, far beyond safe protocols."/>
 	<entry name="Necrons/Chronometron" value="Chronometron"/>
-	<entry name="Necrons/ChronometronDescription" value="Increases damage reduction to the target allied unit."/>
+	<entry name="Necrons/ChronometronDescription" value="Increases damage reduction of the target allied unit."/>
 	<entry name="Necrons/ChronometronFlavor" value="These eye-shaped devices project a bubble of energy that can alter the flow of time itself, slowing incoming projectiles such that those nearby can simply move out of their path."/>
 	<entry name="Necrons/DefensiveProtocols" value="Defensive Protocols"/>
 	<entry name="Necrons/DefensiveProtocolsDescription" value="Increases the armour of the Lord and adjacent allied Necron infantry."/>
@@ -491,7 +491,7 @@
 	<entry name="Necrons/TheBoundCoalescentDescription" value="Merges with an Obelisk to create a Tesseract Vault."/>
 	<entry name="Necrons/TheBoundCoalescentFlavor" value="The C'tan were immeasurably-powerful and wholly evil; these shards, fragmented by the Necrons' desperate conspiracy, are all that remains of them. In desperate times, two shards might be allowed to re-coalesce, to form a greater weapon—but the Necrons never forget the insane power of the originals."/>
 	<entry name="Necrons/VoidStrike" value="Void Strike"/>
-	<entry name="Necrons/VoidStrikeDescription" value="Consumes all charges to add 1 attack to the weapon for each available charge. Gains 1 charge each turn."/>
+	<entry name="Necrons/VoidStrikeDescription" value="Performs a Voidblade attack with increased attacks."/>
 	<entry name="Necrons/VoidStrikeFlavor" value="”The best weapon is the one that you never have to use.”<br/>  — Kanaa the Tranquil, Necron Cryptek, creator of the Void Strike."/>
 	<entry name="Necrons/WrithingWorldscape" value="Writhing Worldscape"/>
 	<entry name="Necrons/WrithingWorldscapeDescription" value="Reduces the movement of adjacent enemy units."/>
@@ -509,7 +509,7 @@
 	<entry name="OrbitalDeploymentFlavor" value="Some units make their way to battle via tunnelling, teleportation, flying or some other extraordinary means which allows them to appear in the thick of the fighting."/>
 	<entry name="OrbitalScan" value="Orbital Scan"/>
 	<entry name="OrbitalScanDescription" value="Operation that reveals the target tile and adjacent tiles."/>
-	<entry name="OrbitalScanFlavor" value="A Space Marine Chapter commonly possesses an entire fleet of ships, ranging from tiny Thunderhawk Gunships to massive Strike Cruisers. On Gladius Prime, the Chapter fleet was decimated by the warp storm. Only one ship survives, swinging around the planet in an low, erratic orbit. Yet for sufficiently important targets, the Techmarine and Servitor crew will focus all its sensors onto the planet's surface."/>
+	<entry name="OrbitalScanFlavor" value="A Space Marine Chapter commonly possesses an entire fleet of ships, ranging from tiny Thunderhawk Gunships to massive Strike Cruisers. On Gladius Prime, the Chapter fleet was decimated by the warp storm. Only one ship survives, swinging around the planet in a low, erratic orbit. Yet for sufficiently important targets, the Techmarine and Servitor crew will focus all its sensors onto the planet's surface."/>
 	<entry name="OrbitalStrike" value="Orbital Strike"/>
 	<entry name="OrbitalStrikeDescription" value="Calls down an orbital strike upon the target enemy unit."/>
 	<entry name="Orks/BigBoss" value="Big Boss"/>

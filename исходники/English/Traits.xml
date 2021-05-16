@@ -967,7 +967,7 @@
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Increases the damage and damage reduction."/>
 	<entry name="Orks/Flyboss" value="Flyboss"/>
-	<entry name="Orks/FlybossDescription" value="Increases the ranged accuracy."/>
+	<entry name="Orks/FlybossDescription" value="Increases the ranged accuracy against flyers, jetbikes and skimmers.."/>
 	<entry name="Orks/FlybossFlavor" value="Flybosses are ace pilots who have survived more dogfights than they can count (even when using their toes)."/>
 	<entry name="Orks/Gitfinda" value="Gitfinda"/>
 	<entry name="Orks/GitfindaDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
