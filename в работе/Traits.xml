@@ -78,26 +78,26 @@
 	<entry name="AerialAttackDescription" value="Можа атакаваць толькі авіяцыю."/>
 	<entry name="Agile" value="<string name='Actions/Agile'/>"/>
 	<entry name="AgileDescription" value="<string name='Actions/AgileDescription'/>"/>
+	<entry name="AmmoRunt" value="Карантышка з боепрыпасамі"/>
+	<entry name="AmmoRuntDescription" value="Павялічвае трапнасць у далёкім боі."/>
+	<entry name="AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
+	<entry name="Amphibious" value="Амфібія"/>
+	<entry name="AmphibiousDescription" value="Адзінка можа перасоўвацца праз ваду і ігнаруе штрафы рэк."/>
+	<entry name="AmphibiousFlavor" value="Very few of the standard military vehicles of the 41st millenium are designed with amphibious assault in mind—to reduce weight by eliminating ammunition and armour is often seen as a step too far. However, the Imperial Chimera was designed many millennia ago to be the ultimate flexible light tank and is quite capable of fording rivers."/>
+	<entry name="AndTheyShallKnowNoFear" value="І яны не будуць ведаць страху"/>
+	<entry name="AndTheyShallKnowNoFearDescription" value="Зніжае страты маралі і дае імунітэт да страху."/>
+	<entry name="AndTheyShallKnowNoFearFlavor" value="Some warriors refuse to surrender, fighting on whatever the odds."/>
+	<entry name="Animosity" value="Варожасць"/>
+	<entry name="AnimosityDescription" value="Зменшвае атакі."/>
+	<entry name="AnimosityFlavor" value="When the tides of Waaagh! flow, the Orks are visibly larger and stronger—but when the tides ebb, the Orks are weakened too."/>
+	<entry name="AntiGravUpwash" value="Антыгравітацыйная падушка"/>
+	<entry name="AntiGravUpwashDescription" value="Павялічвае рух, калі здароўе вышэй за 66%."/>
+	<entry name="ApocalypticBarrage" value="Апакаліптычны загараджальны агонь"/>
+	<entry name="ApocalypticBarrageDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="ApocalypticBarrageFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	
 	<!-- there -->
 	
-	<entry name="AmmoRunt" value="Ammo Runt"/>
-	<entry name="AmmoRuntDescription" value="Increases the ranged accuracy."/>
-	<entry name="AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
-	<entry name="Amphibious" value="Amphibious"/>
-	<entry name="AmphibiousDescription" value="The unit can move over water and ignores the penalties of rivers."/>
-	<entry name="AmphibiousFlavor" value="Very few of the standard military vehicles of the 41st millenium are designed with amphibious assault in mind—to reduce weight by eliminating ammunition and armour is often seen as a step too far. However, the Imperial Chimera was designed many millennia ago to be the ultimate flexible light tank and is quite capable of fording rivers."/>
-	<entry name="AndTheyShallKnowNoFear" value="And They Shall Know No Fear"/>
-	<entry name="AndTheyShallKnowNoFearDescription" value="Reduces the morale loss and grants immunity to fear."/>
-	<entry name="AndTheyShallKnowNoFearFlavor" value="Some warriors refuse to surrender, fighting on whatever the odds."/>
-	<entry name="Animosity" value="Animosity"/>
-	<entry name="AnimosityDescription" value="Reduces the attacks."/>
-	<entry name="AnimosityFlavor" value="When the tides of Waaagh! flow, the Orks are visibly larger and stronger—but when the tides ebb, the Orks are weakened too."/>
-	<entry name="AntiGravUpwash" value="Anti-Grav Upwash"/>
-	<entry name="AntiGravUpwashDescription" value="Increases the movement when the health is above 66%."/>
-	<entry name="ApocalypticBarrage" value="Apocalyptic Barrage"/>
-	<entry name="ApocalypticBarrageDescription" value="<string name='Traits/BlastDescription'/>"/>
-	<entry name="ApocalypticBarrageFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="ApocalypticBlast" value="Apocalyptic Blast"/>
 	<entry name="ApocalypticBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="ApocalypticBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
