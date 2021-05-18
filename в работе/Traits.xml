@@ -95,37 +95,37 @@
 	<entry name="ApocalypticBarrage" value="Апакаліптычны загараджальны агонь"/>
 	<entry name="ApocalypticBarrageDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="ApocalypticBarrageFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	
-	<!-- there -->
-	
-	<entry name="ApocalypticBlast" value="Apocalyptic Blast"/>
+	<entry name="ApocalypticBlast" value="Апакаліптычны выбух"/>
 	<entry name="ApocalypticBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="ApocalypticBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="ApocalypticMegaBlast" value="Apocalyptic Mega-Blast"/>
+	<entry name="ApocalypticMegaBlast" value="Апакаліптычны мегавыбух"/>
 	<entry name="ApocalypticMegaBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="ApocalypticMegaBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="ArmoriumCherub" value="<string name='Actions/ArmoriumCherub'/>"/>
-	<entry name="ArmoriumCherubDescription" value="Increases the accuracy."/>
+	<entry name="ArmoriumCherubDescription" value="Павялічвае трапнасць."/>
 	<entry name="ArmoriumCherubFlavor" value="<string name='Actions/ArmoriumCherubFlavor'/>"/>
-	<entry name="Armourbane" value="Armourbane"/>
-	<entry name="ArmourbaneDescription" value="Increases the armour penetration."/>
+	<entry name="Armourbane" value="Праклён брані"/>
+	<entry name="ArmourbaneDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ArmourbaneFlavor" value="This weapon has been crafted with one aim in mind: to pierce the hides of armoured vehicles."/>
-	<entry name="Artefact" value="Artefact"/>
-	<entry name="ArtefactDescription" value="Classification."/>
+	<entry name="Artefact" value="Артэфакт"/>
+	<entry name="ArtefactDescription" value="Класіфікацыя."/>
 	<entry name="ArtefactFlavor" value="Over the millennia, something in the Old One structures dotting Gladius has attracted many races to this planet. They have brought with them objects with extraordinary powers, meaning the surface is littered with alien technologies of all sizes and kinds."/>
-	<entry name="Assault" value="Assault"/>
-	<entry name="AssaultDescription" value="Classification."/>
-	<entry name="AssaultDoctrine" value="Assault Doctrine"/>
-	<entry name="AssaultDoctrineDescription" value="Increases the accuracy."/>
+	<entry name="Assault" value="Штурм"/>
+	<entry name="AssaultDescription" value="Класіфікацыя."/>
+	<entry name="AssaultDoctrine" value="Дактрына штурму"/>
+	<entry name="AssaultDoctrineDescription" value="Павялічвае трапнасць."/>
 	<entry name="AssaultDoctrineFlavor" value="<string name='Actions/AssaultDoctrineFlavor'/>"/>
-	<entry name="AssaultVehicle" value="Assault Vehicle"/>
-	<entry name="AssaultVehicleDescription" value="Disembarking does not consume movement."/>
+	<entry name="AssaultVehicle" value="Штурмавая машына"/>
+	<entry name="AssaultVehicleDescription" value="Высадка не спажывае рух."/>
 	<entry name="AssaultVehicleFlavor" value="This vehicle is specifically designed to disgorge troops into the thick of the fray."/>
-	<entry name="AstraMilitarum/BlastDamage" value="Improved Frag Casings"/>
-	<entry name="AstraMilitarum/BlastDamageDescription" value="Increases the armour penetration."/>
+	<entry name="AstraMilitarum/BlastDamage" value="Палепшаная аскепкавая абалонка"/>
+	<entry name="AstraMilitarum/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="AstraMilitarum/BlastDamageFlavor" value="By using a more advanced engraving protocol on the casing, the lethality of explosive is much improved."/>
+	
+	<!-- there -->
+	
 	<entry name="AstraMilitarum/BoltDamage" value="Kraken Bolts"/>
-	<entry name="AstraMilitarum/BoltDamageDescription" value="Increases the armour penetration."/>
+	<entry name="AstraMilitarum/BoltDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="AstraMilitarum/BoltDamageFlavor" value="An Astartes-derived upgrade to the standard bolter, this kit allows a bolter to fire Kraken penetrator rounds, hard-tipped projectiles with a heavier explosive charge. These heavier rounds are much favoured by the Space Marine Deathwatch alien hunters."/>
 	<entry name="AstraMilitarum/CityTier2" value="Substructure Extension"/>
 	<entry name="AstraMilitarum/CityTier2Description" value="Increases the tile acquisition radius."/>
@@ -155,7 +155,7 @@
 	<entry name="AstraMilitarumInfluenceEdictDescription" value="Increases the influence output."/>
 	<entry name="AstraMilitarumInfluenceEdictFlavor" value="<string name='Actions/AstraMilitarumInfluenceEdictFlavor'/>"/>
 	<entry name="AstraMilitarum/LasDamage" value="Hotshot Power Packs"/>
-	<entry name="AstraMilitarum/LasDamageDescription" value="Increases the armour penetration."/>
+	<entry name="AstraMilitarum/LasDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="AstraMilitarum/LasDamageFlavor" value="These superior modular packs convert the standard lasgun into a 'Hellgun', with improved range and power, but reduced power pack capacity and degraded reliability, requiring constant maintenance. Even units that already have dedicated Hotshot lasguns benefit from more reliable Hotshot power pack supplies."/>
 	<entry name="AstraMilitarumLoyaltyEdict" value="<string name='Actions/AstraMilitarumLoyaltyEdict'/>"/>
 	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Increases the loyalty output."/>
@@ -181,7 +181,7 @@
 	<entry name="Beam" value="Beam"/>
 	<entry name="BeamDescription" value="Hits with increased accuracy against multiple group members of the target unit."/>
 	<entry name="Bike" value="Bike"/>
-	<entry name="BikeDescription" value="Classification."/>
+	<entry name="BikeDescription" value="Класіфікацыя."/>
 	<entry name="BikeFlavor" value="Units mounted on Bikes excel at vanguard strikes. They are able to use their fast speed to strike deep into enemy territory, complete their mission and escape before an enemy is able to react. These warriors are often regarded as dangerously hot-headed risk-takers, but their effectiveness cannot be denied."/>
 	<entry name="Bladestorm" value="Bladestorm"/>
 	<entry name="BladestormDescription" value="Increases the damage and armour penetration."/>
@@ -204,7 +204,7 @@
 	<entry name="BoltWeapon" value="Bolt Weapon"/>
 	<entry name="BoltWeaponFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	<entry name="BolterDrill" value="Bolter Drill"/>
-	<entry name="BolterDrillDescription" value="Increases the accuracy."/>
+	<entry name="BolterDrillDescription" value="Павялічвае трапнасць."/>
 	<entry name="BolterDrillFlavor" value="<string name='Actions/BolterDrillFlavor'/>"/>
 	<entry name="Bomb" value="Bomb"/>
 	<entry name="BombDescription" value="Fixed accuracy."/>
@@ -212,7 +212,7 @@
 	<entry name="BosspoleDescription" value="Reduces the morale loss based on the amount of allied units in the area."/>
 	<entry name="BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
 	<entry name="BringItDown" value="“Bring it Down!”"/>
-	<entry name="BringItDownDescription" value="Increases the armour penetration."/>
+	<entry name="BringItDownDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Broken" value="Broken"/>
 	<entry name="BrokenDescription" value="Reduces the accuracy and increases the damage taken."/>
 	<entry name="BruteShield" value="Brute Shield"/>
@@ -232,7 +232,7 @@
 	<entry name="ChaosSpaceMarines/ArcaneOcculumDescription" value="Boon of Chaos that increases the accuracy."/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumFlavor" value="A blood-shot eye pushes through the flesh."/>
 	<entry name="ChaosSpaceMarines/BlastDamage" value="Daemonbone Casings"/>
-	<entry name="ChaosSpaceMarines/BlastDamageDescription" value="Increases the armour penetration."/>
+	<entry name="ChaosSpaceMarines/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/BlastDamageFlavor" value="The Warpsmiths may have only trapped minor horrors in the casings of these explosive shells, but their rage at the point of impact isn’t minor—as they shatter and return to the warp, they rage and snatch at anything nearby."/>
 	<entry name="ChaosSpaceMarines/Bloated" value="Bloated"/>
 	<entry name="ChaosSpaceMarines/BloatedDescription" value="Restores hitpoints."/>
@@ -243,7 +243,7 @@
 	<entry name="ChaosSpaceMarines/BloodRageDescription" value="Increases the melee attacks and movement."/>
 	<entry name="ChaosSpaceMarines/BloodRageFlavor" value="The Helbrute launches itself at nearby enemies, driving its cursed Dreadnought prison past its ancient safety limits into behaviour thoroughly daemonic."/> <!-- Hellbrute Crazed result. -->
 	<entry name="ChaosSpaceMarines/BoltDamage" value="Warpborne Bolts"/>
-	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Increases the armour penetration."/>
+	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/BoltDamageFlavor" value="Bridging the promethium-powered Inferno Bolts of the Imperium and the psychically-powered Inferno Bolts of the Thousand Sons Traitor Legion, Warpborne Bolt skip through the Warp to unleash superheated chemical fire upon their targets."/>
 	<entry name="ChaosSpaceMarines/CityTier2" value="Call of the Dark Gods"/>
 	<entry name="ChaosSpaceMarines/CityTier2Description" value="Increases the tile acquisition radius."/>
@@ -303,7 +303,7 @@
 	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Increases the accuracy and damage."/>
 	<entry name="ChaosSpaceMarines/InfernalPowerFlavor" value="<string name='Actions/ChaosSpaceMarines/InfernalPowerFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamage" value="Forbidden Energies"/>
-	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Increases the armour penetration."/>
+	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/LasDamageFlavor" value="Going beyond the Imperium’s proscribed technologies has allowed the Dark Mechanicum to unlock more lethal and more horrifying weapon capabilities."/>
 	<entry name="ChaosSpaceMarines/LasherTendrils" value="<string name='Actions/ChaosSpaceMarines/LasherTendrils'/>"/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Decreases the melee attacks."/>
@@ -330,7 +330,7 @@
 	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Boon of Chaos that increases the armour."/>
 	<entry name="ChaosSpaceMarines/MechanoidFlavor" value="The champion's flesh bonds with his armour."/>
 	<entry name="ChaosSpaceMarines/MeleeDamage" value="Conjoined Weaponry"/>
-	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Increases the armour penetration."/>
+	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="It’s normal for soldiers to grow close to a trusted weapon—but the marines of the Traitor Legions have gone further. Over the centuries, the troops of the Adeptus Astartes have literally grown into their weaponry, becoming one with their guns and blades, exponentially increasing their effectiveness."/>
 	<entry name="ChaosSpaceMarines/MutatedBeyondReason" value="Mutated Beyond Reason"/>
 	<entry name="ChaosSpaceMarines/MutatedBeyondReasonDescription" value="At the start of each turn, the unit gains one of the following random mutations for one turn: Grasping Pseudopods, Subcutaneous Armour, Toxic Haemorrhage."/>
@@ -339,7 +339,7 @@
 	<entry name="ChaosSpaceMarines/PossessionDescription" value="<string name='Actions/ChaosSpaceMarines/PossessionDescription'/>"/>
 	<entry name="ChaosSpaceMarines/PossessionFlavor" value="<string name='Actions/ChaosSpaceMarines/PossessionFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaos" value="<string name='Actions/ChaosSpaceMarines/PrinceOfChaos'/>"/>
-	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Increases the accuracy."/>
+	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Павялічвае трапнасць."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaosFlavor" value="<string name='Actions/ChaosSpaceMarines/PrinceOfChaosFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergy" value="<string name='Actions/ChaosSpaceMarines/ReservoirOfDaemonicEnergy'/>"/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyDescription" value="Reduces the cooldown of Incursion."/>
@@ -418,10 +418,10 @@
 	<entry name="DestroyerWeapon" value="Destroyer Weapon"/>
 	<entry name="DestroyerWeaponDescription" value="Increases the damage."/>
 	<entry name="DevastatorDoctrine" value="Devastator Doctrine"/>
-	<entry name="DevastatorDoctrineDescription" value="Increases the accuracy."/>
+	<entry name="DevastatorDoctrineDescription" value="Павялічвае трапнасць."/>
 	<entry name="DevastatorDoctrineFlavor" value="<string name='Actions/DevastatorDoctrineFlavor'/>"/>
 	<entry name="Discipline" value="Discipline"/>
-	<entry name="DisciplineDescription" value="Increases the accuracy."/>
+	<entry name="DisciplineDescription" value="Павялічвае трапнасць."/>
 	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
 	<entry name="DistortScythe" value="Distort Scythe"/>
 	<entry name="DistortScytheDescription" value="Increases the damage."/>
@@ -445,7 +445,7 @@
 	<entry name="Eldar/AncientDoomDescription" value="Increases the accuracy and damage taken against Chaos units."/>
 	<entry name="Eldar/AncientDoomFlavor" value="The Aeldari loathe and fear She Who Thirsts above all else, for in Slaanesh they see their doom made manifest."/>
 	<entry name="Eldar/AssaultWeaponBonus" value="Sub-Molecular Ammunition"/>
-	<entry name="Eldar/AssaultWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Eldar/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="The unique shuriken ammunition of the Aeldari consists of monomolecular spinning blades fired at great speed. But molecules are so limiting when there are smaller, more deadly structures to use."/>
 	<entry name="Eldar/AssuredDestruction" value="Assured Destruction"/>
 	<entry name="Eldar/AssuredDestructionDescription" value="Increases the damage against vehicles."/>
@@ -470,7 +470,7 @@
 	<entry name="Eldar/CityTier3Description" value="Increases the tile acquisition radius."/>
 	<entry name="Eldar/CityTier3Flavor" value="Experienced Exodite construction designs are being employed by the Craftworld’s Bonesingers here. Only having worked on the ancient Craftworlds, the idea of building a city for the first time is something utterly new to their minds."/>
 	<entry name="Eldar/Command" value="<string name='Actions/Eldar/Command'/>"/>
-	<entry name="Eldar/CommandDescription" value="Increases the accuracy."/>
+	<entry name="Eldar/CommandDescription" value="Павялічвае трапнасць."/>
 	<entry name="Eldar/CommandFlavor" value="<string name='Actions/Eldar/CommandFlavor'/>"/>
 	<entry name="Eldar/ConstructionBuildingBonus" value="Bonesinger Convocation"/>
 	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Increases the production output."/>
@@ -494,7 +494,7 @@
 	<entry name="Eldar/ForceshieldDescription" value="Increases the damage reduction."/>
 	<entry name="Eldar/ForceshieldFlavor" value="These powerful shield projectors can deflect almost any blow."/>
 	<entry name="Eldar/HeavyWeaponBonus" value="Engine of Vaul"/>
-	<entry name="Eldar/HeavyWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="Whilst humanity’s plasma weaponry is often fatal to its users, the elegant Aeldari equivalents harbour no such threats. And now a chance discovery on Gladius Prime’s surface has allowed the Bonesingers and Exarchs to further improve their focus."/>
 	<entry name="Eldar/HoloFields" value="Holo-Fields"/>
 	<entry name="Eldar/HoloFieldsDescription" value="Increases the damage reduction if the unit has moved this turn."/>
@@ -518,10 +518,10 @@
 	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armour penetration of the Prism Cannon."/>
 	<entry name="Eldar/LinkedFireFlavor" value="<string name='Actions/Eldar/LinkedFireFlavor'/>"/>
 	<entry name="Eldar/MarksmansEye" value="Marksman's Eye"/>
-	<entry name="Eldar/MarksmansEyeDescription" value="Increases the accuracy."/>
+	<entry name="Eldar/MarksmansEyeDescription" value="Павялічвае трапнасць."/>
 	<entry name="Eldar/MarksmansEyeFlavor" value="Only a Crimson Hunter would consider piloting the fastest, most manuevrable Aeldari craft to involve so little challenge, that they also are able to aim and fire three separate weapons with differing fire rates at the same time."/>
 	<entry name="Eldar/MeleeWeaponBonus" value="Sub-Molecular Planes"/>
-	<entry name="Eldar/MeleeWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Eldar/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Eldar/MeleeWeaponBonusFlavor" value="The monomolecular filaments and blades of the Aeldari are lethal enough by themselves, but with the smallest addition of phasing technology (as used in the Harlequin’s Caress), they pass through even the thickest armour."/>
 	<entry name="Eldar/MindWar" value="<string name='Actions/Eldar/MindWar'/>"/>
 	<entry name="Eldar/MindWarDescription" value="Decreases the accuracy."/>
@@ -560,7 +560,7 @@
 	<entry name="Eldar/SkyhunterDescription" value="Increases the armour penetration against flyers."/>
 	<entry name="Eldar/SkyhunterFlavor" value="The spirit of a lost Exarch of Biel-Tan has infused our Crimson Hunters, revealing secrets from millenia of battling the foes of the Aeldari. Her rediscovered wisdom will enable us to dominate the skies as never before."/>
 	<entry name="Eldar/SpiritMark" value="<string name='Actions/Eldar/SpiritMark'/>"/>
-	<entry name="Eldar/SpiritMarkDescription" value="Increases the accuracy."/>
+	<entry name="Eldar/SpiritMarkDescription" value="Павялічвае трапнасць."/>
 	<entry name="Eldar/SpiritMarkFlavor" value="<string name='Actions/Eldar/SpiritMarkFlavor'/>"/>
 	<entry name="Eldar/SpiritPreservation" value="Spirit Preservation"/>
 	<entry name="Eldar/SpiritPreservationDescription" value="Grants energy on death."/>
@@ -610,7 +610,7 @@
 	<entry name="FlailDescription" value="Increases the melee damage reduction."/>
 	<entry name="FlailFlavor" value="Equipped with a flail weapon, these warriors hinder attackers on approach."/>
 	<entry name="Flame" value="Flame"/>
-	<entry name="FlameDescription" value="Classification."/>
+	<entry name="FlameDescription" value="Класіфікацыя."/>
 	<entry name="Fleet" value="Fleet"/>
 	<entry name="FleetDescription" value="Increases the movement."/>
 	<entry name="FleetFlavor" value="Preternaturally agile, these warriors can cover ground more quickly than their plodding foes."/>
@@ -634,7 +634,7 @@
 	<entry name="FuriousChargeDescription" value="Increases the melee damage."/>
 	<entry name="FuriousChargeFlavor" value="Some warriors use the impetus of the charge to fuel their own fury."/>
 	<entry name="Gargantuan" value="Gargantuan"/>
-	<entry name="GargantuanDescription" value="Classification."/>
+	<entry name="GargantuanDescription" value="Класіфікацыя."/>
 	<entry name="GargantuanFlavor" value="Gargantuan creatures are of such immense size that they can take on entire armies. They tower over the battlefield, making the ground shudder as they advance upon the foe, crushing lesser creatures beneath their feet as they lumber forwards."/>
 	<entry name="GargantuanCreature" value="<string name='Traits/Gargantuan'/>"/>
 	<entry name="GargantuanCreatureDescription" value="<string name='Traits/GargantuanDescription'/>"/>
@@ -643,7 +643,7 @@
 	<entry name="GaussDescription" value="Scales the minimum damage with the hitpoints of the target unit."/>
 	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
 	<entry name="GaussDamage" value="Atomic Flayers"/>
-	<entry name="GaussDamageDescription" value="Increases the armour penetration."/>
+	<entry name="GaussDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="GaussDamageFlavor" value="For a galaxy full of cruel, monstrous or insane weaponry, Gauss technology is particularly feared. A bolter shell will just explode inside you, but a Gauss weapon will flay you alive, atom by atom."/>
 	<entry name="GetsHot" value="Gets Hot"/>
 	<entry name="GetsHotDescription" value="The unit loses hitpoints each time a ranged weapon fires."/>
@@ -771,10 +771,10 @@
 	<entry name="MobileCommandDescription" value="Passive abilities work for cargo embarked on this transport."/>
 	<entry name="MobileCommandFlavor" value="A transport vehicle is typically sealed, rendering any troops ineffective (but protected) until they reach their destination. Unlike gun slits, communication equipment doesn’t compromise the protection, as the Imperial Chimera command variant proves out, enabling commanders to continue to direct their forces."/>
 	<entry name="Monofilament" value="Monofilament"/>
-	<entry name="MonofilamentDescription" value="Scales the accuracy with the maximum movement of the target unit. Increases the armour penetration."/>
+	<entry name="MonofilamentDescription" value="Scales the accuracy with the maximum movement of the target unit. Павялічвае бронепрабівальнасць."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Monstrous Creature"/>
-	<entry name="MonstrousCreatureDescription" value="Classification."/>
+	<entry name="MonstrousCreatureDescription" value="Класіфікацыя."/>
 	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank – like theTyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
 	<entry name="MoraleSoak" value="Morale Soak"/>
 	<entry name="MoraleSoakDescription" value="Reduces the damage by the target's morale."/>
@@ -788,7 +788,7 @@
 	<entry name="Necrons/AttackCityBonusDescription" value="Increases the accuracy against units in cities."/>
 	<entry name="Necrons/AttackCityBonusFlavor" value="The Necrons' technology may have been raised from dusty ancient tombs, but few races in the past 60 million years have matched their prowess in manipulating dimensional variables. No wall, bunker or laser grid is a defense against such weaponry."/>
 	<entry name="Necrons/BlastDamage" value="Dispersed Targetting"/>
-	<entry name="Necrons/BlastDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Necrons/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Necrons/BlastDamageFlavor" value="Human targeting systems tend to focus on accuracy, narrowing the dispersal of a weapon's shots. Counter-intuitively, the more advanced Necron targeting systems spread a weapon's attacks out, yet somehow still increase the chance of each shot to hit."/>
 	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
 	<entry name="Necrons/BloodyCrusadeDescription" value="Increases the damage."/>
@@ -839,7 +839,7 @@
 	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Increases the influence ouput."/>
 	<entry name="Necrons/InfluenceBuildingBonusFlavor" value="Woe betide any mortal man who gazes on these inscriptions—their sharp edges seem to waver in the corner of the eye, driving fear into human hearts."/>
 	<entry name="Necrons/InvasionBeams" value="Invasion Beams"/>
-	<entry name="Necrons/InvasionBeamsDescription" value="Disembarking does not consume movement."/>
+	<entry name="Necrons/InvasionBeamsDescription" value="Высадка не спажывае рух."/>
 	<entry name="Necrons/JetCharge" value="<string name='Actions/Necrons/JetCharge'/>"/>
 	<entry name="Necrons/JetChargeDescription" value="Increases the damage reduction."/>
 	<entry name="Necrons/LivingMetal" value="Living Metal"/>
@@ -849,7 +849,7 @@
 	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Increases the loyalty ouput."/>
 	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="More of the Shrine's hidden tale is now revealed, though the story still ends before the Silent King can revenge himself on the voracious Star Gods that stripped his people of their souls."/>
 	<entry name="Necrons/MeleeDamage" value="Necrodermic Blades"/>
-	<entry name="Necrons/MeleeDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Necrons/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Necrons/MeleeDamageFlavor" value="Made from impossibly thin slices of the Necron's utilitarian living metal, these blades pass through most skin, bone and armour with disturbing ease."/>
 	<entry name="Necrons/Nebuloscope" value="Nebuloscope"/>
 	<entry name="Necrons/NebuloscopeDescription" value="Ignores enemy ranged damage reduction."/>
@@ -896,7 +896,7 @@
 	<entry name="NoEscape" value="No Escape"/>
 	<entry name="NoEscapeDescription" value="Increases the attacks against open-topped units."/>
 	<entry name="OpenTopped" value="Open-Topped"/>
-	<entry name="OpenToppedDescription" value="Classification."/>
+	<entry name="OpenToppedDescription" value="Класіфікацыя."/>
 	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction. However, such vehicles make for excellent assault transports as their passengers can disembark with much greater ease."/>
 	<entry name="OrationOfRestoration" value="Oration of Restoration"/>
 	<entry name="OrationOfRestorationDescription" value="Restores hitpoints."/>
@@ -984,12 +984,12 @@
 	<entry name="Orks/GreenTideHealingDescription" value="Increases the healing rate."/>
 	<entry name="Orks/GreenTideHealingFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
 	<entry name="Orks/GrotGunner" value="Grot Gunner"/>
-	<entry name="Orks/GrotGunnerDescription" value="Increases the accuracy."/>
+	<entry name="Orks/GrotGunnerDescription" value="Павялічвае трапнасць."/>
 	<entry name="Orks/KustomForceField" value="<string name='Actions/Orks/KustomForceField'/>"/>
 	<entry name="Orks/KustomForceFieldDescription" value="Increases the ranged damage reduction."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="<string name='Actions/Orks/KustomForceFieldFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="Bigga Choppas"/>
-	<entry name="Orks/MeleeDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas... and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
 	<entry name="Orks/MightMakesRight" value="Might Makes Right"/>
 	<entry name="Orks/MightMakesRightDescription" value="Grants influence when attacking."/>
@@ -1023,12 +1023,12 @@
 	<entry name="PowerOfTheMachineSpiritDescription" value="<string name='Actions/PowerOfTheMachineSpiritDescription'/>"/>
 	<entry name="PowerOfTheMachineSpiritFlavor" value="<string name='Actions/PowerOfTheMachineSpiritFlavor'/>"/>
 	<entry name="PrecisionShots" value="Precision Shots"/>
-	<entry name="PrecisionShotsDescription" value="Increases the accuracy."/>
+	<entry name="PrecisionShotsDescription" value="Павялічвае трапнасць."/>
 	<entry name="PreferredEnemy" value="Preferred Enemy"/>
-	<entry name="PreferredEnemyDescription" value="Increases the accuracy."/>
+	<entry name="PreferredEnemyDescription" value="Павялічвае трапнасць."/>
 	<entry name="PreferredEnemyFlavor" value="Many of the galaxy's warriors train hard to overcome a particular foe, allowing them to predict the enemy's battlestances and thus land a blow or shot with greater ease."/>
 	<entry name="PrimaryWeapon" value="Primary Weapon"/>
-	<entry name="PrimaryWeaponDescription" value="Increases the armour penetration."/>
+	<entry name="PrimaryWeaponDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="PsychicBlock" value="Psychic Block"/>
 	<entry name="PsychicBlockDescription" value="Blocks the damage and effects of the next enemy psychic power."/>
 	<entry name="PsychicHood" value="Psychic Hood"/>
@@ -1036,13 +1036,13 @@
 	<entry name="PsychicLash" value="Psychic Lash"/>
 	<entry name="PsychicLashDescription" value="Attacks penetrate all armour."/>
 	<entry name="PsychicPower" value="Psychic Power"/>
-	<entry name="PsychicPowerDescription" value="Classification."/>
+	<entry name="PsychicPowerDescription" value="Класіфікацыя."/>
 	<entry name="PsychneueinInfest" value="Psychneuein Infest"/>
 	<entry name="PsychneueinInfestDescription" value="Causes the target unit to spawn a Psychneuein when killed."/>
 	<entry name="PsychneueinInfestation" value="Psychneuein Infestation"/>
 	<entry name="PsychneueinInfestationDescription" value="Spawns a Psychneuein when dying."/>
 	<entry name="Psyker" value="Psyker"/>
-	<entry name="PsykerDescription" value="Classification."/>
+	<entry name="PsykerDescription" value="Класіфікацыя."/>
 	<entry name="PsykerFlavor" value="Psykers are battlefield mystics who harness the power of the Warp."/>
 	<entry name="Rage" value="Rage"/>
 	<entry name="RageDescription" value="Increases the attacks."/>
@@ -1169,7 +1169,7 @@
 	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Traits/AstraMilitarum/LasDamageDescription'/>"/>
 	<entry name="SpaceMarines/LasDamageFlavor" value="<string name='Traits/AstraMilitarum/LasDamageFlavor'/>"/>
 	<entry name="SpaceMarines/MeleeDamage" value="Close Combat Mastery"/>
-	<entry name="SpaceMarines/MeleeDamageDescription" value="Increases the armour penetration."/>
+	<entry name="SpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="Certain Adeptus Astartes chapters—the Space Wolves, the Blood Drinkers, the Minotaurs—are renowned for their mastery of close-quarters combat. To come to blows with even the lowliest Scout Marine from such a chapter is to fight generations of knowledge and training."/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
 	<entry name="SpaceSlipDescription" value="Increases the damage reduction."/>
@@ -1190,9 +1190,9 @@
 	<entry name="Suicider" value="Suicider"/>
 	<entry name="SuiciderDescription" value="Enemies do not gain experience when this unit kills itself."/>
 	<entry name="Summon" value="Summon"/>
-	<entry name="SummonDescription" value="Classification."/>
+	<entry name="SummonDescription" value="Класіфікацыя."/>
 	<entry name="SuperHeavy" value="Super-Heavy"/>
-	<entry name="SuperHeavyDescription" value="Classification."/>
+	<entry name="SuperHeavyDescription" value="Класіфікацыя."/>
 	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
 	<entry name="Supersonic" value="Supersonic"/>
 	<entry name="SupersonicDescription" value="Increases the movement."/>
@@ -1203,10 +1203,10 @@
 	<entry name="Swiftstrike" value="Swiftstrike"/>
 	<entry name="SwiftstrikeDescription" value="Increases the attacks."/>
 	<entry name="TacticalDoctrine" value="Tactical Doctrine"/>
-	<entry name="TacticalDoctrineDescription" value="Increases the accuracy."/>
+	<entry name="TacticalDoctrineDescription" value="Павялічвае трапнасць."/>
 	<entry name="TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
 	<entry name="Tank" value="Tank"/>
-	<entry name="TankDescription" value="Classification."/>
+	<entry name="TankDescription" value="Класіфікацыя."/>
 	<entry name="TankFlavor" value="Tanks can use their mass as a weapon, driving right into and through densely packed enemies. This often throws the opposing battle line into disarray, as having some monstrous metal behemoth coming straight at you is unnerving for anybody."/>
 	<entry name="TankHunters" value="Tank Hunters"/>
 	<entry name="TankHuntersDescription" value="Increases the armour penetration against enemy vehicles."/>
@@ -1221,10 +1221,10 @@
 	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="This optical filtering suite allows vehicle sensors to target enemies at full efficiency and range, even during night fighting operations."/>
 	<entry name="Tau/BlastDamage" value="Blast Phasing"/>
-	<entry name="Tau/BlastDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Tau/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tau/BlastDamageFlavor" value="Area-effect weaponry has always been better placed to attack large infantry formations than hard targets like vehicles—but the Earth Caste engineers have figured a way past that. By phase-shifting the energy components of explosive and incendiary weapons, they can ensure that at least some of their effect will ‘leak’ past any shielding."/>
 	<entry name="Tau/BoltDamage" value="Brachyuran Assemblies"/>
-	<entry name="Tau/BoltDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Tau/BoltDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tau/BoltDamageFlavor" value="Even the finest Earth Caste technician can’t assemble the components of their rail weapons by hand. But by entrusting this work to the tiny Brachyuran race and supplying them with miniaturised tools, they can shrink the scale and lower the fundamental deviation of any delicate operations, allowing for even more finerly tuned weaponry."/>
 	<entry name="Tau/BreakComposure" value="<string name='Actions/Tau/BreakComposure'/>"/>
 	<entry name="Tau/BreakComposureDescription" value="Attacked units lose morale."/>
@@ -1245,7 +1245,7 @@
 	<entry name="Tau/DroneControllerDescription" value="Increases the accuracy of adjacent drones."/>
 	<entry name="Tau/DroneControllerFlavor" value="<string name='Actions/Tau/DroneControllerFlavor'/>"/>
 	<entry name="Tau/DroneControllerInRange" value="Drone Controller In Range"/>
-	<entry name="Tau/DroneControllerInRangeDescription" value="Increases the accuracy."/>
+	<entry name="Tau/DroneControllerInRangeDescription" value="Павялічвае трапнасць."/>
 	<entry name="Tau/DroneControllerInRangeFlavor" value="<string name='Actions/Tau/DroneControllerFlavor'/>"/>
 	<entry name="Tau/FireTeam" value="Fire Team"/>
 	<entry name="Tau/FireTeamDescription" value="Increases the ranged accuracy when adjacent to an allied vehicle or monstrous creature."/>
@@ -1263,7 +1263,7 @@
 	<entry name="Tau/KauyonDescription" value="Increases the ranged damage reduction."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
 	<entry name="Tau/LasDamage" value="Mor'tonium Accelerators"/>
-	<entry name="Tau/LasDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tau/LasDamageFlavor" value="As humanity has discovered to its cost, over and over, using radioactive materials in weaponry is always dangerous. It’s reasonable to assume the T’au are cognisant of this, but choose to use the recently discovered Mor’tonium in their military technology anyway. Upon exposure to air, it rapidly decays into a massive burst of ionic energy that the T’au use."/>
 	<entry name="Tau/MobileDefencePlatform" value="Mobile Defence Platform"/>
 	<entry name="Tau/MobileDefencePlatformDescription" value="Increases the movement while transporting cargo."/>
@@ -1369,7 +1369,7 @@
 	<entry name="TeslaDescription" value="Increases the attacks."/>
 	<entry name="TeslaFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
 	<entry name="TeslaDamage" value="Viridian Discharge"/>
-	<entry name="TeslaDamageDescription" value="Increases the armour penetration."/>
+	<entry name="TeslaDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="TeslaDamageFlavor" value="The luminous green lightning discharged by these exotic and ancient Necron weapons crackles with life, writhing and seemingly clawing at any target it hits, moving as if it had a mind of its own."/>
 	<entry name="TheFleshIsWeak" value="The Flesh Is Weak"/>
 	<entry name="TheFleshIsWeakDescription" value="Increases the damage reduction."/>
@@ -1393,12 +1393,12 @@
 	<entry name="Tyranids/AdaptiveBiologyDescription" value="Increases the damage reduction."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="<string name='Actions/Tyranids/AdaptiveBiologyFlavor'/>"/>
 	<entry name="Tyranids/AlphaWarrior" value="<string name='Actions/Tyranids/AlphaWarrior'/>"/>
-	<entry name="Tyranids/AlphaWarriorDescription" value="Increases the accuracy."/>
+	<entry name="Tyranids/AlphaWarriorDescription" value="Павялічвае трапнасць."/>
 	<entry name="Tyranids/AlphaWarriorFlavor" value="<string name='Actions/Tyranids/AlphaWarriorFlavor'/>"/>
 	<entry name="Tyranids/Biomorph" value="Biomorph"/>
-	<entry name="Tyranids/BiomorphDescription" value="Classification."/>
+	<entry name="Tyranids/BiomorphDescription" value="Класіфікацыя."/>
 	<entry name="Tyranids/BiomorphDamage" value="Biomorph Adaptation"/>
-	<entry name="Tyranids/BiomorphDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Tyranids/BiomorphDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/BiomorphDamageFlavor" value="Far from being born perfectly ready for every situation, Tyranids have variable amounts of adaptability inherent in their DNA. Ramping this capability up is expensive in terms of resources, but allows them to change their behaviour and physical capabilities in the field."/>
 	<entry name="Tyranids/BoundingLeap" value="Bounding Leap"/>
 	<entry name="Tyranids/BoundingLeapDescription" value="Negates the movement penalty of rivers."/>
@@ -1464,13 +1464,13 @@
 	<entry name="Tyranids/LivingBatteringRamDescription" value="Increases the damage."/>
 	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/Tyranids/LivingBatteringRamFlavor'/>"/>
 	<entry name="Tyranids/LongRangedDamage" value="Ocular Proliferation"/>
-	<entry name="Tyranids/LongRangedDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Tyranids/LongRangedDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/LongRangedDamageFlavor" value="Targeting enemies at range can be difficult with simple binocular vision. A sensible adaptation is to increase the variety and number of ocular sensors available to the organism, to improve the targeting of all enemy types."/>
 	<entry name="Tyranids/MassIncubation" value="<string name='Actions/Tyranids/MassIncubation'/>"/>
 	<entry name="Tyranids/MassIncubationDescription" value="<string name='Actions/Tyranids/MassIncubationDescription'/>"/>
 	<entry name="Tyranids/MassIncubationFlavor" value="<string name='Actions/Tyranids/MassIncubationFlavor'/>"/>
 	<entry name="Tyranids/MeleeDamage" value="Bioweapon Symbiosis"/>
-	<entry name="Tyranids/MeleeDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Tyranids/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/MeleeDamageFlavor" value="When the Tyranids were first encountered, particularly their forerunners the Zoats, their weaponry was typically a range of separate organisms. As time has gone by, the Tyranids and their weapons have grown closer together."/>
 	<entry name="Tyranids/Onslaught" value="<string name='Actions/Tyranids/Onslaught'/>"/>
 	<entry name="Tyranids/OnslaughtDescription" value="Increases the movement."/>
@@ -1509,7 +1509,7 @@
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduces the morale each turn."/>
 	<entry name="Tyranids/ShadowInTheWarpFlavor" value="<string name='Actions/Tyranids/ShadowInTheWarpFlavor'/>"/>
 	<entry name="Tyranids/ShortRangedDamage" value="Gigaborer Hives"/>
-	<entry name="Tyranids/ShortRangedDamageDescription" value="Increases the armour penetration."/>
+	<entry name="Tyranids/ShortRangedDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/ShortRangedDamageFlavor" value="The unique and disgusting Borer nest is comprised of a compact nest of Borer beetles, acidic insectoids that launch themselves in a frenzy from the weapon. Gigaborer Hives contain fewer, much larger beetles, simply enabling more damage."/>
 	<entry name="Tyranids/SporeCloud" value="<string name='Actions/Tyranids/SporeCloud'/>"/>
 	<entry name="Tyranids/SporeCloudDescription" value="Increases the ranged damage reduction."/>
@@ -1535,10 +1535,10 @@
 	<entry name="Tyranids/WarpFieldDescription" value="Increases the damage reduction."/>
 	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes are vital nodes for harnessing the Hive Mind's psychic might and are created with a powerful sense of self-preservation. Therefore, they instinctively project a potent Warp field to protect themselves in battle – a mental shield that is invisible but for a slight shimmer when small-arms and heavy-weapons fire alike patters harmlessly against it."/>
 	<entry name="TwinLinked" value="Twin-Linked"/>
-	<entry name="TwinLinkedDescription" value="Increases the accuracy."/>
+	<entry name="TwinLinkedDescription" value="Павялічвае трапнасць."/>
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
 	<entry name="Uncommon" value="Uncommon"/>
-	<entry name="UncommonDescription" value="Classification."/>
+	<entry name="UncommonDescription" value="Класіфікацыя."/>
 	<entry name="Unique" value="Unique"/>
 	<entry name="UniqueDescription" value="Limits the amount of units of this type."/>
 	<entry name="Unwieldy" value="Unwieldy"/>
@@ -1566,7 +1566,7 @@
 	<entry name="WireWeedDescription" value="Deals damage each turn."/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
 	<entry name="Witchfire" value="Witchfire"/>
-	<entry name="WitchfireDescription" value="Classification."/>
+	<entry name="WitchfireDescription" value="Класіфікацыя."/>
 	<entry name="Zzap" value="Zzap"/>
 	<entry name="ZzapFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
 	<entry name="Zealot" value="Zealot"/>
