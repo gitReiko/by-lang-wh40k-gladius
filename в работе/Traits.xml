@@ -195,62 +195,62 @@
 	<entry name="BloodBlessing" value="Дабраславенне крыві"/>
 	<entry name="BloodBlessingDescription" value="Павялічвае атакі."/>
 	<entry name="BloodBlessingFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
-	
-	<!-- there -->
-	
 	<entry name="BolsterDefences" value="<string name='Actions/BolsterDefences'/>"/>
-	<entry name="BolsterDefencesDescription" value="Increases the ranged damage reduction."/>
+	<entry name="BolsterDefencesDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="BolsterDefencesFlavor" value="<string name='Actions/BolsterDefencesFlavor'/>"/>
-	<entry name="BoltWeapon" value="Bolt Weapon"/>
+	<entry name="BoltWeapon" value="Болт зброя"/>
 	<entry name="BoltWeaponFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
-	<entry name="BolterDrill" value="Bolter Drill"/>
+	<entry name="BolterDrill" value="Болтар дрыль"/>
 	<entry name="BolterDrillDescription" value="Павялічвае трапнасць."/>
 	<entry name="BolterDrillFlavor" value="<string name='Actions/BolterDrillFlavor'/>"/>
-	<entry name="Bomb" value="Bomb"/>
-	<entry name="BombDescription" value="Fixed accuracy."/>
-	<entry name="Bosspole" value="Bosspole"/>
-	<entry name="BosspoleDescription" value="Reduces the morale loss based on the amount of allied units in the area."/>
+	<entry name="Bomb" value="Бомба"/>
+	<entry name="BombDescription" value="Фіксаваная трапнасць."/>
+	<entry name="Bosspole" value="Шост боса"/>
+	<entry name="BosspoleDescription" value="Зніжае страты маралі ў залежнасці ад колькасці хаўрусных адзінак у вобласці."/>
 	<entry name="BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
-	<entry name="BringItDown" value="“Bring it Down!”"/>
+	<entry name="BringItDown" value="“Разарвіце іх!”"/>
 	<entry name="BringItDownDescription" value="Павялічвае бронепрабівальнасць."/>
-	<entry name="Broken" value="Broken"/>
-	<entry name="BrokenDescription" value="Reduces the accuracy and increases the damage taken."/>
-	<entry name="BruteShield" value="Brute Shield"/>
-	<entry name="BruteShieldDescription" value="Increases the damage reduction."/>
+	<entry name="Broken" value="Зламаны"/>
+	<entry name="BrokenDescription" value="Зніжае трапнасць і павялічвае атрымліваемую шкоду."/>
+	<entry name="BruteShield" value="Грубы шчыт"/>
+	<entry name="BruteShieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="BruteShieldFlavor" value="These shields resemble large and resilient energised bucklers. They are carried by some Bullgryns, serving equally well in combat as a defensive measure and handy bludgeon."/>
-	<entry name="CamoNetting" value="Camo Netting"/>
-	<entry name="CamoNettingDescription" value="Increases the ranged damage reduction of ground vehicles."/>
+	<entry name="CamoNetting" value="Камуфляжная сетка"/>
+	<entry name="CamoNettingDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою для наземнай тэхнікі."/>
 	<entry name="CamoNettingFlavor" value="Whether rare cameleoline netting or crude webbing woven with local flora, camo netting helps conceal a vehicle from prying eyes."/>
-	<entry name="Capturable" value="Capturable"/>
-	<entry name="CapturableDescription" value="The unit can be captured by another adjacent unit."/>
-	<entry name="CeramitePlating" value="Ceramite Plating"/>
+	<entry name="Capturable" value="Захопліваемы"/>
+	<entry name="CapturableDescription" value="Адзінка можа быць захоплена іншай суседняй адзінкай."/>
+	<entry name="CeramitePlating" value="Керамітавая абшыўка"/>
 	<entry name="CeramitePlatingDescription" value="Павялічвае браню."/>
 	<entry name="CeramitePlatingFlavor" value="These hull plates are thrice-blessed by the Chapter's Techmarines and anointed with the seven sacred unguents of thermic warding to protect against the extreme conditions of orbital re-entry. Such precautions also serve to thwart the fury of certain weapons, absorbing and dispersing even the most extreme temperatures and microwave emissions."/>
-	<entry name="Chaff" value="Chaff"/>
-	<entry name="ChaffDescription" value="Increases the ranged damage reduction."/>
-	<entry name="ChaosSpaceMarines/ArcaneOcculum" value="Arcane Occulum"/>
-	<entry name="ChaosSpaceMarines/ArcaneOcculumDescription" value="Boon of Chaos that increases the accuracy."/>
+	<entry name="Chaff" value="Адбівальнікі"/>
+	<entry name="ChaffDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
+	<entry name="ChaosSpaceMarines/ArcaneOcculum" value="Містычны окулум"/>
+	<entry name="ChaosSpaceMarines/ArcaneOcculumDescription" value="Дарунак Хаосу, які павялічвае трапнасць."/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumFlavor" value="A blood-shot eye pushes through the flesh."/>
-	<entry name="ChaosSpaceMarines/BlastDamage" value="Daemonbone Casings"/>
+	<entry name="ChaosSpaceMarines/BlastDamage" value="Пакрыццё дэманічнай косткай"/>
 	<entry name="ChaosSpaceMarines/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/BlastDamageFlavor" value="The Warpsmiths may have only trapped minor horrors in the casings of these explosive shells, but their rage at the point of impact isn’t minor—as they shatter and return to the warp, they rage and snatch at anything nearby."/>
-	<entry name="ChaosSpaceMarines/Bloated" value="Bloated"/>
-	<entry name="ChaosSpaceMarines/BloatedDescription" value="Restores hitpoints."/>
+	<entry name="ChaosSpaceMarines/Bloated" value="Распухлы"/>
+	<entry name="ChaosSpaceMarines/BloatedDescription" value="Аднаўляе здароўе."/>
 	<entry name="ChaosSpaceMarines/BloatedFlavor" value="Though Nurgle’s cursed diseases rot a man both physically and spiritually, they also imbue their subjects decaying flesh with inhuman resilience. To such bloated forms, spreading their pox can often bring with it minor blessings from the plague God."/>
-	<entry name="ChaosSpaceMarines/BloodForTheBloodGod" value="Blood for the Blood God"/>
+	<entry name="ChaosSpaceMarines/BloodForTheBloodGod" value="Кроў крываваму богу"/>
 	<entry name="ChaosSpaceMarines/BloodForTheBloodGodDescription" value="Павялічвае атакі."/>
-	<entry name="ChaosSpaceMarines/BloodRage" value="Blood Rage"/>
-	<entry name="ChaosSpaceMarines/BloodRageDescription" value="Increases the melee attacks and movement."/>
+	<entry name="ChaosSpaceMarines/BloodRage" value="Крывавая лютасць"/>
+	<entry name="ChaosSpaceMarines/BloodRageDescription" value="Павялічвае атакі блізкага бою і рух."/>
 	<entry name="ChaosSpaceMarines/BloodRageFlavor" value="The Helbrute launches itself at nearby enemies, driving its cursed Dreadnought prison past its ancient safety limits into behaviour thoroughly daemonic."/> <!-- Hellbrute Crazed result. -->
-	<entry name="ChaosSpaceMarines/BoltDamage" value="Warpborne Bolts"/>
+	<entry name="ChaosSpaceMarines/BoltDamage" value="Балты народжаныя ў варпе"/>
 	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/BoltDamageFlavor" value="Bridging the promethium-powered Inferno Bolts of the Imperium and the psychically-powered Inferno Bolts of the Thousand Sons Traitor Legion, Warpborne Bolt skip through the Warp to unleash superheated chemical fire upon their targets."/>
-	<entry name="ChaosSpaceMarines/CityTier2" value="Call of the Dark Gods"/>
+	<entry name="ChaosSpaceMarines/CityTier2" value="Кліч цёмных багоў"/>
 	<entry name="ChaosSpaceMarines/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="ChaosSpaceMarines/CityTier2Flavor" value="The people of the Imperium will listen to any lies, believe any tale, which tells them that they’re not doomed. That way, sadly, lies perdition, and the gates of Chaos stand wide open to the lost and the damned—at least, on the way in."/>
-	<entry name="ChaosSpaceMarines/CityTier3" value="Nexus of Doom"/>
+	<entry name="ChaosSpaceMarines/CityTier3" value="Сувязь з рокам"/>
 	<entry name="ChaosSpaceMarines/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="ChaosSpaceMarines/CityTier3Flavor" value="The worshippers of Chaos have shed their pretences. Where before they drew souls to them by their weaknesses or by daemon seduction, now they do it by whips and chains. Packs of slavers and warbands hunt their city’s hinterland for lives to sacrifice. Only the strongest can escape their reach; the weak are grist to the mill for Chaos."/>
+	
+	<!-- there -->
+
 	<entry name="ChaosSpaceMarines/Crazed" value="Crazed"/>
 	<entry name="ChaosSpaceMarines/CrazedDescription" value="If the unit was damaged in the previous turn, it gains one of the following traits at random for one turn: Fire Frenzy, Rising Fury, Blood Rage."/>
 	<entry name="ChaosSpaceMarines/CrazedFlavor" value="All Helbrutes are psychotic and dangerous monstrosities—a veteran of the Long War driven insane by tortured entombment. So attacking a Helbrute might seem rational, but if you fail to destroy it outright, you will only make it angrier and crazier."/> <!-- Hellbrute. -->
@@ -291,7 +291,7 @@
 	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Increases the melee damage reduction when attacked by fearful enemies."/>
 	<entry name="ChaosSpaceMarines/IconOfDespairFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfDespairFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfExcess" value="<string name='Actions/ChaosSpaceMarines/IconOfExcess'/>"/>
-	<entry name="ChaosSpaceMarines/IconOfExcessDescription" value="Increases the damage reduction."/>
+	<entry name="ChaosSpaceMarines/IconOfExcessDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="ChaosSpaceMarines/IconOfExcessFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfExcessFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrath" value="<string name='Actions/ChaosSpaceMarines/IconOfWrath'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="Increases the damage."/>
@@ -324,7 +324,7 @@
 	<entry name="ChaosSpaceMarines/MarkOfSlaaneshDescription" value="Increases the movement."/>
 	<entry name="ChaosSpaceMarines/MarkOfSlaaneshFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfSlaaneshFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentch" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentch'/>"/>
-	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="Increases the damage reduction."/>
+	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentchFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Mechanoid" value="Mechanoid"/>
 	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Boon of Chaos that increases the armour."/>
@@ -392,7 +392,7 @@
 	<entry name="ClusterMinesDescription" value="Deals damage upon entering the tile."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
 	<entry name="CombatShield" value="Combat Shield"/>
-	<entry name="CombatShieldDescription" value="Increases the damage reduction."/>
+	<entry name="CombatShieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="CombatShieldFlavor" value="A combat shield is a lighter version of the storm shield fitted to the wearer's vambrace, leaving their hand free to wield another weapon whilst providing protection from incoming attacks."/>
 	<entry name="CompendiumFlavor" value="If the warriors of the 41st millenium were identical, these wars would be a matter of sheer manpower—and humanity would have won long ago. Instead, each race, troop type and soldier has their own traits, which make them ideal for certain situations—and leave them horribly exposed in others."/>
 	<entry name="Concussion" value="Concussion"/>
@@ -406,7 +406,7 @@
 	<entry name="CultAmbushDescription" value="Increases the accuracy of overwatch attacks."/>
 	<entry name="CultAmbushFlavor" value="Genestealer Cults plan meticulously before each strike, their strategies honed to give every advantage when they rise up as one."/>
 	<entry name="Daemon" value="Daemon"/>
-	<entry name="DaemonDescription" value="Increases the damage reduction."/>
+	<entry name="DaemonDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
 	<entry name="Damaged" value="Damaged"/>
 	<entry name="DamagedDescription" value="Decreases the accuracy."/>
@@ -491,7 +491,7 @@
 	<entry name="Eldar/FoodBuildingBonusDescription" value="Павялічвае вытворчасць ежы. "/>
 	<entry name="Eldar/FoodBuildingBonusFlavor" value="So intensely do the Aeldari feel that even their basic foodstuffs are works of art, cultivated by craftsmen that have spent millenia perfecting their cuisine. With a wider range of ingredients and seasonings, they can work miracles with the seeming simplest foodstuffs."/>
 	<entry name="Eldar/Forceshield" value="Forceshield"/>
-	<entry name="Eldar/ForceshieldDescription" value="Increases the damage reduction."/>
+	<entry name="Eldar/ForceshieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Eldar/ForceshieldFlavor" value="These powerful shield projectors can deflect almost any blow."/>
 	<entry name="Eldar/HeavyWeaponBonus" value="Engine of Vaul"/>
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
@@ -533,7 +533,7 @@
 	<entry name="Eldar/OreBuildingBonusDescription" value="Павялічвае вытворчасць руды."/>
 	<entry name="Eldar/OreBuildingBonusFlavor" value="The Aeldari require metals less than other races, given that almost all of their structures and vehicles are psychic energy made tangible, in the form of wraithbone. But for the small amount they need, there are always improvements to be made."/>
 	<entry name="Eldar/PowerField" value="Power Field"/>
-	<entry name="Eldar/PowerFieldDescription" value="Increases the damage reduction."/>
+	<entry name="Eldar/PowerFieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Eldar/PowerFieldFlavor" value="Power fields reroute a portion of the vehicle’s energy supply to project a glimmering shield of protection around the vehicle."/>
 	<entry name="Eldar/Protect" value="Protect"/>
 	<entry name="Eldar/ProtectDescription" value="Павялічвае браню."/>
@@ -548,7 +548,7 @@
 	<entry name="Eldar/ReturnOfTheAeldariDescription" value="<string name='Actions/Eldar/ReturnOfTheAeldariDescription'/>"/>
 	<entry name="Eldar/ReturnOfTheAeldariFlavor" value="<string name='Actions/Eldar/ReturnOfTheAeldariFlavor'/>"/>
 	<entry name="Eldar/RuneArmour" value="Rune Armour"/>
-	<entry name="Eldar/RuneArmourDescription" value="Increases the damage reduction."/>
+	<entry name="Eldar/RuneArmourDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Eldar/RuneArmourFlavor" value="Aeldari psykers fashion themselves elegant armour decorated with wraithbone runes. Said to pulse in time with the wearer’s heartbeat, rune armour offers protection against attacks both spiritual and physical in nature."/>
 	<entry name="Eldar/Scattershield" value="Scattershield"/>
 	<entry name="Eldar/ScattershieldDescription" value="Increases the damage reduction and blinds infantry and monstrous creature attackers."/>
@@ -604,7 +604,7 @@
 	<entry name="FearlessDescription" value="Reduces the morale loss and grants immunity to fear and pinning."/>
 	<entry name="FearlessFlavor" value="Fearless troops never give up and seldom take full use of cover—even if it would be wiser to do so."/>
 	<entry name="FeelNoPain" value="Feel No Pain"/>
-	<entry name="FeelNoPainDescription" value="Increases the damage reduction."/>
+	<entry name="FeelNoPainDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="FeelNoPainFlavor" value="Whether through force of will, bionic augmentation or foul sorcery, this warrior can fight despite fearsome wounds."/>
 	<entry name="Flail" value="Flail"/>
 	<entry name="FlailDescription" value="Increases the melee damage reduction."/>
@@ -702,7 +702,7 @@
 	<entry name="Invulnerable" value="Invulnerable"/>
 	<entry name="InvulnerableDescription" value="This unit is invulnerable."/>
 	<entry name="IronHalo" value="Iron Halo"/>
-	<entry name="IronHaloDescription" value="Increases the damage reduction."/>
+	<entry name="IronHaloDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="IronHaloFlavor" value="The iron halo is an honour granted to Space Marine commanders and a symbol of their exceptional bravery and wisdom. Usually mounted upon the backpack or built into an armoured collar, it contains an energy field that wards against even the most potent of enemy weapons."/>
 	<entry name="IronWill" value="Iron Will"/>
 	<entry name="IronWillDescription" value="<string name='Actions/IronWillDescription'/>"/>
@@ -765,7 +765,7 @@
 	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
 	<entry name="Missing" value="Missing"/>
 	<entry name="MobRule" value="Mob Rule"/>
-	<entry name="MobRuleDescription" value="Reduces the morale loss based on the amount of allied units in the area."/>
+	<entry name="MobRuleDescription" value="Зніжае страты маралі ў залежнасці ад колькасці хаўрусных адзінак у вобласці."/>
 	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
 	<entry name="MobileCommand" value="Mobile Command"/>
 	<entry name="MobileCommandDescription" value="Passive abilities work for cargo embarked on this transport."/>
@@ -802,7 +802,7 @@
 	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="Minor modifications to your slaves' bodies and minds enables them to sleep less and work more, for as long as their fragile bodies last."/>
 	<entry name="Necrons/CtanNecrodermis" value="C'tan Necrodermis"/>
-	<entry name="Necrons/CtanNecrodermisDescription" value="Increases the damage reduction."/>
+	<entry name="Necrons/CtanNecrodermisDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Necrons/CtanNecrodermisBlast" value="C'tan Necrodermis Blast"/>
 	<entry name="Necrons/CtanNecrodermisBlastDescription" value="Damages nearby units when dying."/>
 	<entry name="Necrons/DefensiveProtocols" value="<string name='Actions/Necrons/DefensiveProtocols'/>"/>
@@ -841,7 +841,7 @@
 	<entry name="Necrons/InvasionBeams" value="Invasion Beams"/>
 	<entry name="Necrons/InvasionBeamsDescription" value="Высадка не спажывае рух."/>
 	<entry name="Necrons/JetCharge" value="<string name='Actions/Necrons/JetCharge'/>"/>
-	<entry name="Necrons/JetChargeDescription" value="Increases the damage reduction."/>
+	<entry name="Necrons/JetChargeDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Necrons/LivingMetal" value="Living Metal"/>
 	<entry name="Necrons/LivingMetalDescription" value="Restores hitpoints each turn."/>
 	<entry name="Necrons/LivingMetalFlavor" value="It's understandable why the Necrons build their vehicles from the same living metal as their own bodies, given how durable it is and how well-suited it is to repairing damage sustained in the field."/>
@@ -858,7 +858,7 @@
 	<entry name="Necrons/OreBuildingBonusDescription" value="Increases the ore ouput."/>
 	<entry name="Necrons/OreBuildingBonusFlavor" value="Putting some faith in the enslaved young races of Old One creation and improving their lot might seem foolish, but it increases productivity."/>
 	<entry name="Necrons/Chronometron" value="<string name='Actions/Necrons/Chronometron'/>"/>
-	<entry name="Necrons/ChronometronDescription" value="Increases the damage reduction."/>
+	<entry name="Necrons/ChronometronDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Necrons/ChronometronFlavor" value="<string name='Actions/Necrons/ChronometronFlavor'/>"/>
 	<entry name="Necrons/PhaseShiftGenerator" value="<string name='Actions/Necrons/PhaseShiftGenerator'/>"/>
 	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Increases the invulnerable damage reduction."/>
@@ -886,7 +886,7 @@
 	<entry name="Necrons/TargetingRelayDescription" value="Temporarily increases the ranged accuracy of Necrons against the target unit."/>
 	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers might appear fragile, but their unique Quantum Shielding keeps them in one piece, in order that their Targeting Relay can amplify the firepower of nearby Necrons."/>
 	<entry name="Necrons/Technomancer" value="Technomancer"/>
-	<entry name="Necrons/TechnomancerDescription" value="Increases the damage reduction."/>
+	<entry name="Necrons/TechnomancerDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Necrons/VehiclesBuildingBonus" value="Canoptek Workers"/>
 	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Increases the production ouput."/>
 	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Assigning Canoptek constructors to maintain and repair the various long-dormant war machines greatly speeds up their refurbishment."/>
@@ -986,7 +986,7 @@
 	<entry name="Orks/GrotGunner" value="Grot Gunner"/>
 	<entry name="Orks/GrotGunnerDescription" value="Павялічвае трапнасць."/>
 	<entry name="Orks/KustomForceField" value="<string name='Actions/Orks/KustomForceField'/>"/>
-	<entry name="Orks/KustomForceFieldDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Orks/KustomForceFieldDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="<string name='Actions/Orks/KustomForceFieldFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="Bigga Choppas"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
@@ -1059,7 +1059,7 @@
 	<entry name="RedPaintJobDescription" value="Increases the damage."/>
 	<entry name="RedPaintJobFlavor" value="Orks believe that a vehicle painted red can outstrip a similar vehicle that isn't. As odd as it may seem, they're not wrong."/>
 	<entry name="RefractorField" value="Refractor Field"/>
-	<entry name="RefractorFieldDescription" value="Increases the damage reduction."/>
+	<entry name="RefractorFieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="RefractorFieldFlavor" value="Often carried by high-ranking officers and Imperial heroes, shimmering refractor fields refract incoming energy around their bearer, batting aside blasts and swinging blades that would otherwise lay them low."/>
 	<entry name="Regeneration" value="Regeneration"/>
 	<entry name="RegenerationDescription" value="Restores hitpoints each turn."/>
@@ -1079,7 +1079,7 @@
 	<entry name="RitesOfWarDescription" value="Increases the damage."/>
 	<entry name="RitesOfWarFlavor" value="<string name='Actions/RitesOfWarFlavor'/>"/>
 	<entry name="Rosarius" value="Rosarius"/>
-	<entry name="RosariusDescription" value="Increases the damage reduction."/>
+	<entry name="RosariusDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="RosariusFlavor" value="A rosarius is worn by Space Marine Chaplains for protection and as a symbol of office. It emits a protective energy field around the wearer capable of deflecting blows and shots that would smash a ferrocrete bunker. It is said that the stronger the bearer's belief in the might of the Emperor, the stronger a rosarius' force field will be."/>
 	<entry name="RuinsStealth" value="Ruins Stealth"/>
 	<entry name="RuinsStealthDescription" value="Increases the ranged damage reduction while in Imperial Ruins."/>
@@ -1095,9 +1095,9 @@
 	<entry name="Seeking" value="Seeking"/>
 	<entry name="SeekingDescription" value="Increases the ranged accuracy against flyers."/>
 	<entry name="Shaken" value="Shaken"/>
-	<entry name="ShakenDescription" value="Reduces the accuracy and increases the damage taken."/>
+	<entry name="ShakenDescription" value="Зніжае трапнасць і павялічвае атрымліваемую шкоду."/>
 	<entry name="Shielded" value="Shielded"/>
-	<entry name="ShieldedDescription" value="Increases the damage reduction."/>
+	<entry name="ShieldedDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="ShieldedFlavor" value="Some warriors are protected by more than mere physical armour. They may be shielded by force fields, enveloped in mystical energies or have a constitution that can shrug off hits that would put holes in a battle tank."/>
 	<entry name="Shop" value="Shop"/>
 	<entry name="ShopDescription" value="Allows hero units to purchase and sell items."/>
@@ -1105,7 +1105,7 @@
 	<entry name="ShredDescription" value="Increases the damage."/>
 	<entry name="ShredFlavor" value="Some weapons and warriors strike in a flurry of blows, tearing flesh asunder in a series of brutal strikes."/>
 	<entry name="Shrouded" value="Shrouded"/>
-	<entry name="ShroudedDescription" value="Increases the ranged damage reduction."/>
+	<entry name="ShroudedDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="ShroudedFlavor" value="The source of the darkness around these warriors matters not—only a lucky shot has any chance of piercing the shroud that hides them from view."/>
 	<entry name="SiegeMasters" value="Siege Masters"/>
 	<entry name="SiegeMastersDescription" value="Increases the damage against enemy units in cities and fortifications."/>
@@ -1125,7 +1125,7 @@
 	<entry name="SkullAltarDescription" value="Provides a reward to units entering the tile."/>
 	<entry name="SkullAltarFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
 	<entry name="SkullsForTheSkullThrone" value="Skulls for the Skull Throne"/>
-	<entry name="SkullsForTheSkullThroneDescription" value="Increases the damage reduction."/>
+	<entry name="SkullsForTheSkullThroneDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="SkullsForTheSkullThroneFlavor" value="Khorne respects only the strong and boundlessly murderous."/>	
 	<entry name="Skyfire" value="Skyfire"/>
 	<entry name="SkyfireDescription" value="Increases the accuracy against flyers. Reduces the accuracy against ground units that are not skimmer, jetbike or jet pack."/>
@@ -1139,7 +1139,7 @@
 	<entry name="SmashDescription" value="Increases the melee armour penetration."/>
 	<entry name="SmashFlavor" value="For the most fearsome of creatures, a single blow is sufficient to breach a tank's armour or crush a living creature to bloody pulp."/>
 	<entry name="SmokeScreen" value="Smoke Screen"/>
-	<entry name="SmokeScreenDescription" value="Increases the ranged damage reduction."/>
+	<entry name="SmokeScreenDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
 	<entry name="Sniper" value="Sniper"/>
 	<entry name="SniperDescription" value="Increases the damage and armour penetration against infantry units."/>
@@ -1172,9 +1172,9 @@
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="Certain Adeptus Astartes chapters—the Space Wolves, the Blood Drinkers, the Minotaurs—are renowned for their mastery of close-quarters combat. To come to blows with even the lowliest Scout Marine from such a chapter is to fight generations of knowledge and training."/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
-	<entry name="SpaceSlipDescription" value="Increases the damage reduction."/>
+	<entry name="SpaceSlipDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Stealth" value="Stealth"/>
-	<entry name="StealthDescription" value="Increases the ranged damage reduction."/>
+	<entry name="StealthDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
 	<entry name="StrafingRun" value="Strafing Run"/>
 	<entry name="StrafingRunDescription" value="Increases the ranged accuracy against ground units."/>
@@ -1239,7 +1239,7 @@
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Increases the accuracy of overwatch attacks."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="<string name='Actions/Tau/CounterfireDefenceSystemFlavor'/>"/>
 	<entry name="Tau/DisruptionPod" value="Disruption Pod"/>
-	<entry name="Tau/DisruptionPodDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Tau/DisruptionPodDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Tau/DisruptionPodFlavor" value="A disruption pod throws out distorting images in both visual and magnetic spectra, making it hard to target the vehicle at range."/>
 	<entry name="Tau/DroneController" value="Drone Controller"/>
 	<entry name="Tau/DroneControllerDescription" value="Increases the accuracy of adjacent drones."/>
@@ -1260,7 +1260,7 @@
 	<entry name="Tau/HolophotonCountermeasuresDescription" value="Decreases the ranged accuracy."/>
 	<entry name="Tau/HolophotonCountermeasuresFlavor" value="<string name='Actions/Tau/HolophotonCountermeasuresFlavor'/>"/>
 	<entry name="Tau/Kauyon" value="<string name='Actions/Tau/Kauyon'/>"/>
-	<entry name="Tau/KauyonDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Tau/KauyonDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
 	<entry name="Tau/LasDamage" value="Mor'tonium Accelerators"/>
 	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасць."/>
@@ -1280,7 +1280,7 @@
 	<entry name="Tau/NovaFireDescription" value="Павялічвае атакі."/>
 	<entry name="Tau/NovaFireFlavor" value="<trait name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/NovaShield" value="<string name='Actions/Tau/NovaShield'/>"/>
-	<entry name="Tau/NovaShieldDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/NovaShieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/NovaShieldFlavor" value="<trait name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelay" value="Point Defence Targeting Relay"/>
 	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Increases overwatch damage against enemy units adjacent to other friendly units."/>
@@ -1292,7 +1292,7 @@
 	<entry name="Tau/RinyonDescription" value="Increases the accuracy against units adjacent to other allied units."/>
 	<entry name="Tau/RinyonFlavor" value="<string name='Actions/Tau/RinyonFlavor'/>"/>
 	<entry name="Tau/RiptideShieldGenerator" value="Riptide Shield Generator"/>
-	<entry name="Tau/RiptideShieldGeneratorDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/RiptideShieldGeneratorDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/RiptideShieldGeneratorFlavor" value="Within a Riptide battlesuit's ablative shield is housed a small energy field generator whose potency can be further boosted by diverting power from the XV104's nova reactor."/>
 	<entry name="Tau/Ripyka" value="<string name='Actions/Tau/Ripyka'/>"/>
 	<entry name="Tau/RipykaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
@@ -1301,16 +1301,16 @@
 	<entry name="Tau/RipykaVaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaVaFlavor" value="Commander Coldflame was famed for her subtlety, her ability to layer tactics on tactics but somehow inspire her troops to strive to match her strategic complexity. Some whispered, however, that she concerned herself too deeply with the Greater Good for a mere Fire Warrior..."/>
 	<entry name="Tau/SenseOfStone" value="<string name='Actions/Tau/SenseOfStone'/>"/>
-	<entry name="Tau/SenseOfStoneDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/SenseOfStoneDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/SenseOfStoneFlavor" value="<string name='Actions/Tau/SenseOfStoneFlavor'/>"/>
 	<entry name="Tau/ShieldGenerator" value="Shield Generator"/>
-	<entry name="Tau/ShieldGeneratorDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Actions/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StabilisingAnchors" value="Stabilising Anchors"/>
 	<entry name="Tau/StabilisingAnchorsDescription" value="Increases the ranged attacks if the unit has not moved this turn."/>
 	<entry name="Tau/StabilisingAnchorsFlavor" value="KV128 Stormsurge Ballistic Suits are too large to mount a jetpack like their Battle Suit counterparts. Instead, the Earth Case scientist Bork'an designed them to lock into place once deployed, allowing them to divert all their reactor power to their immense weaponry."/>
 	<entry name="Tau/StimulantInjector" value="Stimulant Injector"/>
-	<entry name="Tau/StimulantInjectorDescription" value="Increases the damage reduction."/>
+	<entry name="Tau/StimulantInjectorDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Actions/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/StormOfFire" value="<string name='Actions/Tau/StormOfFire'/>"/>
 	<entry name="Tau/StormOfFireDescription" value="Павялічвае атакі."/>
@@ -1355,7 +1355,7 @@
 	<entry name="Tau/ZephyrsGraceDescription" value="Increases the action points."/>
 	<entry name="Tau/ZephyrsGraceFlavor" value="<string name='Actions/Tau/ZephyrsGraceFlavor'/>"/>
 	<entry name="TelekineDome" value="Telekine Dome"/>
-	<entry name="TelekineDomeDescription" value="Increases the ranged damage reduction."/>
+	<entry name="TelekineDomeDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
 	<entry name="TeleportHomer" value="Teleport Homer"/>
 	<entry name="TeleportHomerDescription" value="Causes orbital deployment to not consume action points when deploying Terminators adjacent to this unit."/>
@@ -1363,7 +1363,7 @@
 	<entry name="Template" value="Template"/>
 	<entry name="TemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
 	<entry name="TerminatorArmour" value="Terminator Armour"/>
-	<entry name="TerminatorArmourDescription" value="Increases the damage reduction."/>
+	<entry name="TerminatorArmourDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="TerminatorArmourFlavor" value="Terminator armour is the best protection a Space Marine can be equipped with. It is even said that Terminator armour can withstand the titanic energies at a plasma generator's core and that this was, in fact, the armour's original purpose."/>
 	<entry name="Tesla" value="Tesla"/>
 	<entry name="TeslaDescription" value="Павялічвае атакі."/>
@@ -1372,7 +1372,7 @@
 	<entry name="TeslaDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="TeslaDamageFlavor" value="The luminous green lightning discharged by these exotic and ancient Necron weapons crackles with life, writhing and seemingly clawing at any target it hits, moving as if it had a mind of its own."/>
 	<entry name="TheFleshIsWeak" value="The Flesh Is Weak"/>
-	<entry name="TheFleshIsWeakDescription" value="Increases the damage reduction."/>
+	<entry name="TheFleshIsWeakDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
 	<entry name="TrainedSentinelPilots" value="Trained Sentinel Pilots"/>
 	<entry name="TrainedSentinelPilotsDescription" value="Increases the damage."/>
@@ -1390,7 +1390,7 @@
 	<entry name="Tyranids/AcidBloodDescription" value="Enemies take damage when they cause melee damage."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="The alien blood spilt from certain Tyranids is so corrosive that it can eat through ceramite armour and dissolve flesh in mere moments."/>
 	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
-	<entry name="Tyranids/AdaptiveBiologyDescription" value="Increases the damage reduction."/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="<string name='Actions/Tyranids/AdaptiveBiologyFlavor'/>"/>
 	<entry name="Tyranids/AlphaWarrior" value="<string name='Actions/Tyranids/AlphaWarrior'/>"/>
 	<entry name="Tyranids/AlphaWarriorDescription" value="Павялічвае трапнасць."/>
@@ -1512,7 +1512,7 @@
 	<entry name="Tyranids/ShortRangedDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/ShortRangedDamageFlavor" value="The unique and disgusting Borer nest is comprised of a compact nest of Borer beetles, acidic insectoids that launch themselves in a frenzy from the weapon. Gigaborer Hives contain fewer, much larger beetles, simply enabling more damage."/>
 	<entry name="Tyranids/SporeCloud" value="<string name='Actions/Tyranids/SporeCloud'/>"/>
-	<entry name="Tyranids/SporeCloudDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Tyranids/SporeCloudDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
 	<entry name="Tyranids/SymbioticTargeting" value="Symbiotic Targeting"/>
 	<entry name="Tyranids/SymbioticTargetingDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
@@ -1532,7 +1532,7 @@
 	<entry name="Tyranids/VehiclesUpkeepDescription" value="Reduces the biomass upkeep."/>
 	<entry name="Tyranids/VehiclesUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions, save for its alpha creatures—but by loosening that control, larger organisms can direct or predate on the smaller organisms, enabling them to survive without direct control."/>
 	<entry name="Tyranids/WarpField" value="Warp Field"/>
-	<entry name="Tyranids/WarpFieldDescription" value="Increases the damage reduction."/>
+	<entry name="Tyranids/WarpFieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes are vital nodes for harnessing the Hive Mind's psychic might and are created with a powerful sense of self-preservation. Therefore, they instinctively project a potent Warp field to protect themselves in battle – a mental shield that is invisible but for a slight shimmer when small-arms and heavy-weapons fire alike patters harmlessly against it."/>
 	<entry name="TwinLinked" value="Twin-Linked"/>
 	<entry name="TwinLinkedDescription" value="Павялічвае трапнасць."/>
@@ -1550,7 +1550,7 @@
 	<entry name="VehicleDescription" value="Negates the penalty for heavy and ordnance weapons. Increases the movement penalty in forests and imperial ruins."/>
 	<entry name="VehicleFlavor" value="War is not a trade solely for living soldiers, but also for mighty war engines and tanks."/>
 	<entry name="VoidShield" value="Void Shield"/>
-	<entry name="VoidShieldDescription" value="Increases the ranged damage reduction."/>
+	<entry name="VoidShieldDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
 	<entry name="VoxCaster" value="Vox-Caster"/>
 	<entry name="VoxCasterDescription" value="Reduces the morale loss."/>
