@@ -248,92 +248,89 @@
 	<entry name="ChaosSpaceMarines/CityTier3" value="Сувязь з рокам"/>
 	<entry name="ChaosSpaceMarines/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="ChaosSpaceMarines/CityTier3Flavor" value="The worshippers of Chaos have shed their pretences. Where before they drew souls to them by their weaknesses or by daemon seduction, now they do it by whips and chains. Packs of slavers and warbands hunt their city’s hinterland for lives to sacrifice. Only the strongest can escape their reach; the weak are grist to the mill for Chaos."/>
-	
-	<!-- there -->
-
-	<entry name="ChaosSpaceMarines/Crazed" value="Crazed"/>
-	<entry name="ChaosSpaceMarines/CrazedDescription" value="If the unit was damaged in the previous turn, it gains one of the following traits at random for one turn: Fire Frenzy, Rising Fury, Blood Rage."/>
+	<entry name="ChaosSpaceMarines/Crazed" value="Звар'яцелы"/>
+	<entry name="ChaosSpaceMarines/CrazedDescription" value="Калі адзінка атрымала пашкоджанні ў папярэднім кроку, яна атрымвае выпадковым чынам адну з наступных асаблівасцяў: агнявую нястрымнасць, узрослы гнеў, крывавую лютасць."/>
 	<entry name="ChaosSpaceMarines/CrazedFlavor" value="All Helbrutes are psychotic and dangerous monstrosities—a veteran of the Long War driven insane by tortured entombment. So attacking a Helbrute might seem rational, but if you fail to destroy it outright, you will only make it angrier and crazier."/> <!-- Hellbrute. -->
-	<entry name="ChaosSpaceMarines/ChampionOfChaos" value="Champion of Chaos"/>
-	<entry name="ChaosSpaceMarines/ChampionOfChaosDescription" value="Killing an enemy unit may reward this unit with an unlocked Boon of Chaos or transform non-heroes into a Chaos Spawn or Daemon Prince."/>
+	<entry name="ChaosSpaceMarines/ChampionOfChaos" value="Чэмпіён хаосу"/>
+	<entry name="ChaosSpaceMarines/ChampionOfChaosDescription" value="Забойства варожай адзінкі можа ўзнагародзіць адзінку дарункам хаосу або ператварыць не герояў у спараджэнне хаосу або дэман-прынца."/>
 	<entry name="ChaosSpaceMarines/ChampionOfChaosFlavor" value="It is not unusual for the Chaos powers to bestow strange boons and mutations upon those who kill in their name. Not all of these boons are beneficial—the dark ones are as fickle as they are inscrutable, and even their most ardent followers are little more than pawns in a celestial game."/>
-	<entry name="ChaosSpaceMarines/CrystallineBody" value="Crystalline Body"/>
-	<entry name="ChaosSpaceMarines/CrystallineBodyDescription" value="Boon of Chaos that increases the hitpoints."/>
+	<entry name="ChaosSpaceMarines/CrystallineBody" value="Крышталічнае цела"/>
+	<entry name="ChaosSpaceMarines/CrystallineBodyDescription" value="Дарунак хаосу павялічвае здароўе."/>
 	<entry name="ChaosSpaceMarines/CrystallineBodyFlavor" value="The champion's flesh changes to diamond."/>
 	<entry name="ChaosSpaceMarines/CultistSacrifice" value="<string name='Actions/ChaosSpaceMarines/CultistSacrifice'/>"/>
 	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Павялічвае хуткасць узросту гарадоў."/>
 	<entry name="ChaosSpaceMarines/CultistSacrificeFlavor" value="<string name='Actions/ChaosSpaceMarines/CultistSacrificeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Daemonforge" value="<string name='Actions/ChaosSpaceMarines/Daemonforge'/>"/>
-	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Increases the damage and armour penetration."/>
+	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Павялічвае шкоду і бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/DaemonforgeFlavor" value="<string name='Actions/ChaosSpaceMarines/DaemonforgeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/DarkGlory" value="<string name='Actions/ChaosSpaceMarines/DarkGlory'/>"/>
 	<entry name="ChaosSpaceMarines/DarkGloryDescription" value="<string name='Actions/ChaosSpaceMarines/DarkGloryDescription'/>"/>
 	<entry name="ChaosSpaceMarines/DarkGloryFlavor" value="<string name='Actions/ChaosSpaceMarines/DarkGloryFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/DevourerOfSouls" value="Devourer of Souls"/>
-	<entry name="ChaosSpaceMarines/DevourerOfSoulsDescription" value="Restores hitpoints each turn and each time this unit kills an enemy unit."/>
+	<entry name="ChaosSpaceMarines/DevourerOfSouls" value="Паглынальнік душ"/>
+	<entry name="ChaosSpaceMarines/DevourerOfSoulsDescription" value="Аднаўляе здароўе кожны крок або пры кожным забойстве варожай адзінкі."/>
 	<entry name="ChaosSpaceMarines/DevourerOfSoulsFlavor" value="Venomcrawlers are perhaps the most sophisticated works of the Warpsmith, spider-like Daemon Engines that crave empyric energy and will consume other daemonic entities to get it—or even the living."/> <!-- Venomcrawler -->
 	<entry name="ChaosSpaceMarines/DirgeCaster" value="<string name='Actions/ChaosSpaceMarines/DirgeCaster'/>"/>
-	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Prevents the unit from doing overwatch attacks."/>
+	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Не дае адзінцы здзяйсняць атакі назірання."/>
 	<entry name="ChaosSpaceMarines/DirgeCasterFlavor" value="<string name='Actions/ChaosSpaceMarines/DirgeCasterFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/FireFrenzy" value="Fire Frenzy"/>
-	<entry name="ChaosSpaceMarines/FireFrenzyDescription" value="Prevents movement and increases the ranged attacks."/>
+	<entry name="ChaosSpaceMarines/FireFrenzy" value="Агнявая нястрымнасць"/>
+	<entry name="ChaosSpaceMarines/FireFrenzyDescription" value="Прадухіляе рух і павялічвае атакі далёкага бою."/>
 	<entry name="ChaosSpaceMarines/FireFrenzyFlavor" value="In response to the pitiful fire of mortals, the Hellbrute unloads its weapons relentlessly, blind to anything but the deafening roar of its daemonic ammunition."/> <!-- Hellbrute Crazed result. -->
-	<entry name="ChaosSpaceMarines/GiftOfMutation" value="Gift of Mutation"/>
-	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="At the start of the next turn, the unit gains a new random unlocked Boon of Chaos and this trait ends."/>
+	<entry name="ChaosSpaceMarines/GiftOfMutation" value="Дарунак мутацыі"/>
+	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Напачатку наступнага кроку адзінка атрымлівае новы выпадковы адблакаваны дарунак хаосу і прыбірае гэту асаблівасць."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="The Dark Gods have granted their champion a malign reward, which is as likely to be a razor-sharp appendage as it is to be an inconveniently placed tongue."/>
-	<entry name="ChaosSpaceMarines/GraspingPseudopods" value="Grasping Pseudopods"/>
-	<entry name="ChaosSpaceMarines/GraspingPseudopodsDescription" value="Increases the melee attacks."/>
+	<entry name="ChaosSpaceMarines/GraspingPseudopods" value="Хваткія лжэножкі"/>
+	<entry name="ChaosSpaceMarines/GraspingPseudopodsDescription" value="Павялічвае атакі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/GraspingPseudopodsFlavor" value="From the spawn’s twisting form come meaty tentacles, flailing and gibbering at nearby opponents. Come too close and they reflexively wrap themselves around a target, drawing it to whatever maws and teeth the spawn currently has."/> <!-- MutatedBeyondReason result. -->
 	<entry name="ChaosSpaceMarines/IchorBlood" value="<string name='Actions/ChaosSpaceMarines/IchorBlood'/>"/>
 	<entry name="ChaosSpaceMarines/IchorBloodDescription" value="<string name='Actions/ChaosSpaceMarines/IchorBloodDescription'/>"/>
 	<entry name="ChaosSpaceMarines/IchorBloodFlavor" value="<string name='Actions/ChaosSpaceMarines/IchorBloodFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfDespair" value="<string name='Actions/ChaosSpaceMarines/IconOfDespair'/>"/>
-	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Increases the melee damage reduction when attacked by fearful enemies."/>
+	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Павялічвае зніжэнне шкоды ў блізкім боі ад атакі жудасным ворагам."/>
 	<entry name="ChaosSpaceMarines/IconOfDespairFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfDespairFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfExcess" value="<string name='Actions/ChaosSpaceMarines/IconOfExcess'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfExcessDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="ChaosSpaceMarines/IconOfExcessFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfExcessFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrath" value="<string name='Actions/ChaosSpaceMarines/IconOfWrath'/>"/>
-	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="Increases the damage."/>
+	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="Павялічвае шкоду."/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/InfernalIndustry" value="<string name='Actions/ChaosSpaceMarines/InfernalIndustry'/>"/>
 	<entry name="ChaosSpaceMarines/InfernalIndustryDescription" value="<string name='Actions/ChaosSpaceMarines/InfernalIndustryDescription'/>"/>
 	<entry name="ChaosSpaceMarines/InfernalIndustryFlavor" value="<string name='Actions/ChaosSpaceMarines/InfernalIndustryFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/InfernalPower" value="<string name='Actions/ChaosSpaceMarines/InfernalPower'/>"/>
-	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Increases the accuracy and damage."/>
+	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Павялічвае трапнасць і шкоду."/>
 	<entry name="ChaosSpaceMarines/InfernalPowerFlavor" value="<string name='Actions/ChaosSpaceMarines/InfernalPowerFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/LasDamage" value="Forbidden Energies"/>
+	<entry name="ChaosSpaceMarines/LasDamage" value="Забароненыя энергіі"/>
 	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/LasDamageFlavor" value="Going beyond the Imperium’s proscribed technologies has allowed the Dark Mechanicum to unlock more lethal and more horrifying weapon capabilities."/>
 	<entry name="ChaosSpaceMarines/LasherTendrils" value="<string name='Actions/ChaosSpaceMarines/LasherTendrils'/>"/>
-	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Decreases the melee attacks."/>
+	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Зменшвае атакі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsFlavor" value="<string name='Actions/ChaosSpaceMarines/LasherTendrilsFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LoathsomeAura" value="<string name='Actions/ChaosSpaceMarines/LoathsomeAura'/>"/>
-	<entry name="ChaosSpaceMarines/LoathsomeAuraDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="ChaosSpaceMarines/LoathsomeAuraDescription" value="Павялічвае непаражальнае зніжэнне шкоды."/>
 	<entry name="ChaosSpaceMarines/LoathsomeAuraFlavor" value="<string name='Actions/ChaosSpaceMarines/LoathsomeAuraFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MalevolentLocus" value="<string name='Actions/ChaosSpaceMarines/MalevolentLocus'/>"/>
-	<entry name="ChaosSpaceMarines/MalevolentLocusDescription" value="Deals damage each turn."/>
+	<entry name="ChaosSpaceMarines/MalevolentLocusDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="ChaosSpaceMarines/MalevolentLocusFlavor" value="<string name='Actions/ChaosSpaceMarines/MalevolentLocusFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfKhorne" value="<string name='Actions/ChaosSpaceMarines/MarkOfKhorne'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfKhorneDescription" value="Павялічвае атакі."/>
 	<entry name="ChaosSpaceMarines/MarkOfKhorneFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfKhorneFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfNurgle" value="<string name='Actions/ChaosSpaceMarines/MarkOfNurgle'/>"/>
-	<entry name="ChaosSpaceMarines/MarkOfNurgleDescription" value="Increases the hitpoints."/>
+	<entry name="ChaosSpaceMarines/MarkOfNurgleDescription" value="Павялічвае здароўе."/>
 	<entry name="ChaosSpaceMarines/MarkOfNurgleFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfNurgleFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfSlaanesh" value="<string name='Actions/ChaosSpaceMarines/MarkOfSlaanesh'/>"/>
-	<entry name="ChaosSpaceMarines/MarkOfSlaaneshDescription" value="Increases the movement."/>
+	<entry name="ChaosSpaceMarines/MarkOfSlaaneshDescription" value="Павялічвае рух."/>
 	<entry name="ChaosSpaceMarines/MarkOfSlaaneshFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfSlaaneshFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentch" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentch'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentchFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/Mechanoid" value="Mechanoid"/>
-	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Boon of Chaos that increases the armour."/>
+	<entry name="ChaosSpaceMarines/Mechanoid" value="Механоід"/>
+	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Дарунак хаосу, які павялічвае браню."/>
 	<entry name="ChaosSpaceMarines/MechanoidFlavor" value="The champion's flesh bonds with his armour."/>
-	<entry name="ChaosSpaceMarines/MeleeDamage" value="Conjoined Weaponry"/>
+	<entry name="ChaosSpaceMarines/MeleeDamage" value="Злучанае ўзбраенне"/>
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="It’s normal for soldiers to grow close to a trusted weapon—but the marines of the Traitor Legions have gone further. Over the centuries, the troops of the Adeptus Astartes have literally grown into their weaponry, becoming one with their guns and blades, exponentially increasing their effectiveness."/>
-	<entry name="ChaosSpaceMarines/MutatedBeyondReason" value="Mutated Beyond Reason"/>
-	<entry name="ChaosSpaceMarines/MutatedBeyondReasonDescription" value="At the start of each turn, the unit gains one of the following random mutations for one turn: Grasping Pseudopods, Subcutaneous Armour, Toxic Haemorrhage."/>
+	<entry name="ChaosSpaceMarines/MutatedBeyondReason" value="Мутацыя без прычыны"/>
+	<entry name="ChaosSpaceMarines/MutatedBeyondReasonDescription" value="Напачатку кожнага кроку адзінка атрымлівае выпадковым чынам адну з наступных мутацый на адзін крок: хваткія лжэножкі, падскурная браня, таксічны крывацёк."/>
 	<entry name="ChaosSpaceMarines/MutatedBeyondReasonFlavor" value="When they fall from their god’s favour, Chaos worshippers are blessed and cursed in equal measure, turning into the foul Chaos Spawn—writhing masses of mutation, endlessly sprouting new features at their god’s whim."/>
 	<entry name="ChaosSpaceMarines/Possession" value="<string name='Actions/ChaosSpaceMarines/Possession'/>"/>
 	<entry name="ChaosSpaceMarines/PossessionDescription" value="<string name='Actions/ChaosSpaceMarines/PossessionDescription'/>"/>
@@ -342,47 +339,51 @@
 	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Павялічвае трапнасць."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaosFlavor" value="<string name='Actions/ChaosSpaceMarines/PrinceOfChaosFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergy" value="<string name='Actions/ChaosSpaceMarines/ReservoirOfDaemonicEnergy'/>"/>
-	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyDescription" value="Reduces the cooldown of Incursion."/>
+	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyDescription" value="Зніжае час перазарадкі ўварвання."/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyFlavor" value="<string name='Actions/ChaosSpaceMarines/ReservoirOfDaemonicEnergyFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBlood" value="<string name='Actions/ChaosSpaceMarines/RiteOfBlood'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfBloodFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfChange" value="<string name='Actions/ChaosSpaceMarines/RiteOfChange'/>"/>
-	<entry name="ChaosSpaceMarines/RiteOfChangeDescription" value="Increases the production and research output."/>
+	<entry name="ChaosSpaceMarines/RiteOfChangeDescription" value="Павялічвае аб'ём вытворчасці і даследаванняў."/>
 	<entry name="ChaosSpaceMarines/RiteOfChangeFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfChangeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfPestilence" value="<string name='Actions/ChaosSpaceMarines/RiteOfPestilence'/>"/>
-	<entry name="ChaosSpaceMarines/RiteOfPestilenceDescription" value="Increases the food output and growth rate."/>
+	<entry name="ChaosSpaceMarines/RiteOfPestilenceDescription" value="Павялічвае вытворчасць ежы і хуткасць узросту гарадоў."/>
 	<entry name="ChaosSpaceMarines/RiteOfPestilenceFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfPestilenceFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasure" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasure'/>"/>
-	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Increases the influence and loyalty output."/>
+	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Павялічвае вытворчасць уплыву і лаяльнасці."/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasureFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/RisingFury" value="Rising Fury"/>
-	<entry name="ChaosSpaceMarines/RisingFuryDescription" value="Increases the melee attacks."/>
+	<entry name="ChaosSpaceMarines/RisingFury" value="Узрослы гнеў"/>
+	<entry name="ChaosSpaceMarines/RisingFuryDescription" value="Павялічвае атакі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/RisingFuryFlavor" value="The Helbrute’s rage overtakes it, throwing it into a frenzy of blows against anything nearby."/> <!-- Hellbrute Crazed result. -->
 	<entry name="ChaosSpaceMarines/ShatterDefences" value="<string name='Actions/ChaosSpaceMarines/ShatterDefences'/>"/>
-	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Reduces the ranged damage reduction."/>
+	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Зменшвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="<string name='Actions/ChaosSpaceMarines/ShatterDefencesFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/SiegeCrawler" value="Siege Crawler"/>
-	<entry name="ChaosSpaceMarines/SiegeCrawlerDescription" value="Increases the armour penetration against fortifications."/>
+	<entry name="ChaosSpaceMarines/SiegeCrawler" value="Аблогавы паўзун"/>
+	<entry name="ChaosSpaceMarines/SiegeCrawlerDescription" value="Павялічвае бронепрабівальнасць супраць фартыфікацый."/>
 	<entry name="ChaosSpaceMarines/SiegeCrawlerFlavor" value="Maulerfiends lack ranged weapons of any kind, unusual for a vehicle of their size. Yet their agility and their various cutting weapons mean that they are a huge threat to static fortifications, able to explore them, find a weak spot, and exploit it."/> <!-- Maulerfiend. -->
-	<entry name="ChaosSpaceMarines/SubcutaneousArmour" value="Subcutaneous Armour"/>
+	<entry name="ChaosSpaceMarines/SubcutaneousArmour" value="Падскурная браня"/>
 	<entry name="ChaosSpaceMarines/SubcutaneousArmourDescription" value="Павялічвае браню."/>
 	<entry name="ChaosSpaceMarines/SubcutaneousArmourFlavor" value="Space Marine armour, even as old as that owned by the Traitor Legions, integrates with the unique Black Carapace interface of an Adeptus Astartes. But over the millenia, many Chaos Space Marines have become one with their armour, with the Black Carapace extending throughout their flesh and bones."/> <!-- MutatedBeyondReason result. -->
-	<entry name="ChaosSpaceMarines/TemporalDistortion" value="Temporal Distortion"/>
-	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Boon of Chaos that increases the movement."/>
+	<entry name="ChaosSpaceMarines/TemporalDistortion" value="Часовае скрыўленне"/>
+	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Дарунак хаосу, які павялічвае рух."/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionFlavor" value="Time is altered around the champion."/>
-	<entry name="ChaosSpaceMarines/ToxicHaemorrhage" value="Toxic Haemorrhage"/>
-	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Increases the damage against infantry units."/>
+	<entry name="ChaosSpaceMarines/ToxicHaemorrhage" value="Таксічны крывацёк"/>
+	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageFlavor" value="Spurting vile vapours and heinous fluids, the Chaos Spawn’s cursed innards could spell the death of a less-blessed creature."/> <!-- MutatedBeyondReason result. -->
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="Veterans of the Long War"/>
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Increases the morale, and increases the melee accuracy against units of the Space Marines faction."/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="Ветэраны доўгай вайны"/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Павялічвае мараль і трапнасць у блізкім боі супраць адзінак фракцыі космадэсанта."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="Many Chaos Space Marine factions have been locked in a constant, grinding war against the Imperium of Man for centuries, if not millennia. The burning hate they feel for their loyalist brothers has had time to fester, now eclipsing all other emotions. This applies, above all, to the original nine Traitor Legions who flocked to Horus' banner ten millennia ago and continue their war against their loyal brethren to this day."/>
-	<entry name="ChaosSpaceMarines/WarpFrenzy" value="Warp Frenzy"/>
-	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Boon of Chaos that increases the attacks."/>
+	<entry name="ChaosSpaceMarines/WarpFrenzy" value="Вар'яцтва варпу"/>
+	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Дарунак хаосу, які павялічвае атакі."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyFlavor" value="The champion is consumed with anger."/>
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="<string name='Actions/ChaosSpaceMarines/WorthyOffering'/>"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="<string name='Actions/ChaosSpaceMarines/WorthyOfferingDescription'/>"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="<string name='Actions/ChaosSpaceMarines/WorthyOfferingFlavor'/>"/>
+	
+	<!-- there -->
+	
+	
 	<entry name="ChapterUnity" value="Chapter Unity"/>
 	<entry name="ChapterUnityDescription" value="Павялічвае вытворчасць лаяльнасці."/>
 	<entry name="ChapterUnityFlavor" value="The relics housed in the Great Hall remind the Adeptus Astartes of the heroes of the past, and that one day their armour, weapons and bones could also be revered here."/>
@@ -416,7 +417,7 @@
 	<entry name="DeedsOfGlory" value="Deeds of Glory"/>
 	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
 	<entry name="DestroyerWeapon" value="Destroyer Weapon"/>
-	<entry name="DestroyerWeaponDescription" value="Increases the damage."/>
+	<entry name="DestroyerWeaponDescription" value="Павялічвае шкоду."/>
 	<entry name="DevastatorDoctrine" value="Devastator Doctrine"/>
 	<entry name="DevastatorDoctrineDescription" value="Павялічвае трапнасць."/>
 	<entry name="DevastatorDoctrineFlavor" value="<string name='Actions/DevastatorDoctrineFlavor'/>"/>
@@ -424,7 +425,7 @@
 	<entry name="DisciplineDescription" value="Павялічвае трапнасць."/>
 	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
 	<entry name="DistortScythe" value="Distort Scythe"/>
-	<entry name="DistortScytheDescription" value="Increases the damage."/>
+	<entry name="DistortScytheDescription" value="Павялічвае шкоду."/>
 	<entry name="DistortScytheFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
 	<entry name="DogmaAstrates" value="Dogma Astartes"/>
 	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
@@ -454,7 +455,7 @@
 	<entry name="Eldar/AsuryaniArrivalsDescription" value="<string name='Actions/Eldar/AsuryaniArrivalsDescription'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsFlavor" value="<string name='Actions/Eldar/AsuryaniArrivalsFlavor'/>"/>
 	<entry name="Eldar/AutarchsAssault" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
-	<entry name="Eldar/AutarchsAssaultDescription" value="Increases the damage."/>
+	<entry name="Eldar/AutarchsAssaultDescription" value="Павялічвае шкоду."/>
 	<entry name="Eldar/AutarchsAssaultFlavor" value="<string name='Actions/Eldar/AutarchsAssaultFlavor'/>"/>
 	<entry name="Eldar/AutarchsAssaultPassive" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
 	<entry name="Eldar/BansheeMask" value="Banshee Mask"/>
@@ -512,7 +513,7 @@
 	<entry name="Eldar/KhaineAwakenedDescription" value="Increases the melee attacks and melee damage, decreases the morale loss and grants immunity to fear and pinning."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="<string name='Actions/Eldar/KhaineAwakenedFlavor'/>"/>
 	<entry name="Eldar/KhainesMight" value="<string name='Actions/Eldar/KhainesMight'/>"/>
-	<entry name="Eldar/KhainesMightDescription" value="Increases the melee attacks."/>
+	<entry name="Eldar/KhainesMightDescription" value="Павялічвае атакі блізкага бою."/>
 	<entry name="Eldar/KhainesMightFlavor" value="<string name='Actions/Eldar/KhainesMightFlavor'/>"/>
 	<entry name="Eldar/LinkedFire" value="<string name='Actions/Eldar/LinkedFire'/>"/>
 	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armour penetration of the Prism Cannon."/>
@@ -569,7 +570,7 @@
 	<entry name="Eldar/SpiritStonesDescription" value="Reduces the morale loss."/>
 	<entry name="Eldar/SpiritStonesFlavor" value="Some Aeldari vehicles incorporate large spirit stones with a captive animus that can control the vehicle should it be disabled."/>
 	<entry name="Eldar/StarEngines" value="Star Engines"/>
-	<entry name="Eldar/StarEnginesDescription" value="Increases the movement."/>
+	<entry name="Eldar/StarEnginesDescription" value="Павялічвае рух."/>
 	<entry name="Eldar/StarEnginesFlavor" value="Whilst all Aeldari vehicles are swift and agile, those that mount star engines are often able to move faster than the eye can follow. Lesser races can only marvel at the phenomenal speed and manoeuvrability of a craft so equipped."/>
 	<entry name="Eldar/TitanHoloFields" value="Titan Holo-Fields"/>
 	<entry name="Eldar/TitanHoloFieldsDescription" value="<string name='Traits/Eldar/HoloFieldsDescription'/>"/>
@@ -589,7 +590,7 @@
 	<entry name="Enslaved" value="Enslaved"/>
 	<entry name="EnslavedDescription" value="Kill Enslaver to free the unit."/>
 	<entry name="EreWeGo" value="'Ere We Go!"/>
-	<entry name="EreWeGoDescription" value="Increases the movement."/>
+	<entry name="EreWeGoDescription" value="Павялічвае рух."/>
 	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
 	<entry name="ExtraInfantryArmour" value="Extra Infantry Armour"/>
 	<entry name="ExtraInfantryArmourDescription" value="Павялічвае браню."/>
@@ -612,10 +613,10 @@
 	<entry name="Flame" value="Flame"/>
 	<entry name="FlameDescription" value="Класіфікацыя."/>
 	<entry name="Fleet" value="Fleet"/>
-	<entry name="FleetDescription" value="Increases the movement."/>
+	<entry name="FleetDescription" value="Павялічвае рух."/>
 	<entry name="FleetFlavor" value="Preternaturally agile, these warriors can cover ground more quickly than their plodding foes."/>
 	<entry name="Fleshbane" value="Fleshbane"/>
-	<entry name="FleshbaneDescription" value="Increases the damage against infantry units."/>
+	<entry name="FleshbaneDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
 	<entry name="Flyer" value="Flyer"/>
 	<entry name="FlyerDescription" value="Can fly over cliffs, water and enemy units. Cannot capture artefacts or outposts. Ignores zone of control of enemy ground units. Cannot be hit by ground melee weapons and are hard to hit by ground weapons without skyfire. No penalty for heavy and ordnance weapons."/>
 	<entry name="FlyerFlavor" value="The airspace above a battle is thronged with activity. Fighters and bomber craft hurtle through the skies, duelling with one another providing fire support for the troops on the ground."/>
@@ -627,7 +628,7 @@
 	<entry name="Fortification" value="Fortification"/>
 	<entry name="FortificationDescription" value="Stationary and fortified unit. If armed, it exerts control over adjacent outposts."/>
 	<entry name="FullThrottle" value="“Full Throttle!”"/>
-	<entry name="FullThrottleDescription" value="Increases the movement."/>
+	<entry name="FullThrottleDescription" value="Павялічвае рух."/>
 	<entry name="FuelledByRage" value="Fuelled By Rage"/>
 	<entry name="FuelledByRageDescription" value="Increases the attacks when the unit's hitpoints decrease."/>
 	<entry name="FuriousCharge" value="Furious Charge"/>
@@ -657,7 +658,7 @@
 	<entry name="GunnersKillOnSight" value="“Gunners, Kill on Sight!”"/>
 	<entry name="GunnersKillOnSightDescription" value="Increases the ranged attacks."/>
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="HammerOfWrathDescription" value="Increases the damage."/>
+	<entry name="HammerOfWrathDescription" value="Павялічвае шкоду."/>
 	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Hallucination" value="<string name='Actions/Hallucination'/>"/>
 	<entry name="HallucinationDescription" value="Decreases the attacks."/>
@@ -791,7 +792,7 @@
 	<entry name="Necrons/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Necrons/BlastDamageFlavor" value="Human targeting systems tend to focus on accuracy, narrowing the dispersal of a weapon's shots. Counter-intuitively, the more advanced Necron targeting systems spread a weapon's attacks out, yet somehow still increase the chance of each shot to hit."/>
 	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
-	<entry name="Necrons/BloodyCrusadeDescription" value="Increases the damage."/>
+	<entry name="Necrons/BloodyCrusadeDescription" value="Павялічвае шкоду."/>
 	<entry name="Necrons/CityTier2" value="Preliminary Excavation"/>
 	<entry name="Necrons/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Necrons/CityTier2Flavor" value="More of the ancient city has been uncovered by the digging slaves, who are now turned to restoring the long-buried buildings."/>
@@ -912,7 +913,7 @@
 	<entry name="OrkoidFungusFoodDescription" value="Павялічвае вытворчасць ежы. "/>
 	<entry name="OrkoidFungusFoodFlavor" value="The tiny Snotlings, like all Orkoids, are derived from the same base fungus genetic structure. Unlike other Orkoids though, particularly lazy Snotlings can settle back into the fungus patch, and revert to become giant half-mushroom creatures, a particular delicacy for their larger Ork brethren."/>
 	<entry name="Orks/BigBoss" value="<string name='Actions/Orks/BigBoss'/>"/>
-	<entry name="Orks/BigBossDescription" value="Increases the hitpoints."/>
+	<entry name="Orks/BigBossDescription" value="Павялічвае здароўе."/>
 	<entry name="Orks/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
 	<entry name="Orks/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
 	<entry name="Orks/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
@@ -1017,7 +1018,7 @@
 	<entry name="PinningDescription" value="Temporarily reduces the movement of the target fearful infantry unit and prevents it from doing overwatch attacks."/>
 	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
 	<entry name="Poisoned" value="Poisoned"/>
-	<entry name="PoisonedDescription" value="Increases the damage against infantry units."/>
+	<entry name="PoisonedDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
 	<entry name="PoisonedFlavor" value="There are many virulent and lethal poisons in the dark future. It is simplicity itself to adapt such toxins for battlefield use. It does not matter whether they coat weapon-blades or bullets, or are secreted by alien monstrosities – all are lethal."/>
 	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
 	<entry name="PowerOfTheMachineSpiritDescription" value="<string name='Actions/PowerOfTheMachineSpiritDescription'/>"/>
@@ -1056,7 +1057,7 @@
 	<entry name="RecoveryGearDescription" value="Increases the healing rate."/>
 	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
 	<entry name="RedPaintJob" value="Red Paint Job"/>
-	<entry name="RedPaintJobDescription" value="Increases the damage."/>
+	<entry name="RedPaintJobDescription" value="Павялічвае шкоду."/>
 	<entry name="RedPaintJobFlavor" value="Orks believe that a vehicle painted red can outstrip a similar vehicle that isn't. As odd as it may seem, they're not wrong."/>
 	<entry name="RefractorField" value="Refractor Field"/>
 	<entry name="RefractorFieldDescription" value="Павялічвае зніжэнне шкоды."/>
@@ -1071,12 +1072,12 @@
 	<entry name="RelicPlatingDescription" value="Increases the witchfire damage reduction."/>
 	<entry name="RelicPlatingFlavor" value="Occasionally a crew will achieve an empathic relationship with the machine spirit of their battle tank. When such a crew perishes, their remains may be interred within their vehicle, spirits lingering protectively to drive away the baleful energies of the void."/>
 	<entry name="Rending" value="Rending"/>
-	<entry name="RendingDescription" value="Increases the damage and armour penetration."/>
+	<entry name="RendingDescription" value="Павялічвае шкоду і бронепрабівальнасць."/>
 	<entry name="RendingFlavor" value="Some weapons can inflict critical strikes against which no armour can protect."/>
 	<entry name="RepulsorGrid" value="Repulsor Grid"/>
 	<entry name="RepulsorGridDescription" value="Increases the ranged damage reduction and returns ranged damage from weapons that are not blast, template or witchfire back to the attacker."/>
 	<entry name="RitesOfWar" value="Rites of War"/>
-	<entry name="RitesOfWarDescription" value="Increases the damage."/>
+	<entry name="RitesOfWarDescription" value="Павялічвае шкоду."/>
 	<entry name="RitesOfWarFlavor" value="<string name='Actions/RitesOfWarFlavor'/>"/>
 	<entry name="Rosarius" value="Rosarius"/>
 	<entry name="RosariusDescription" value="Павялічвае зніжэнне шкоды."/>
@@ -1102,7 +1103,7 @@
 	<entry name="Shop" value="Shop"/>
 	<entry name="ShopDescription" value="Allows hero units to purchase and sell items."/>
 	<entry name="Shred" value="Shred"/>
-	<entry name="ShredDescription" value="Increases the damage."/>
+	<entry name="ShredDescription" value="Павялічвае шкоду."/>
 	<entry name="ShredFlavor" value="Some weapons and warriors strike in a flurry of blows, tearing flesh asunder in a series of brutal strikes."/>
 	<entry name="Shrouded" value="Shrouded"/>
 	<entry name="ShroudedDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
@@ -1147,7 +1148,7 @@
 	<entry name="SonicBoom" value="Sonic Boom"/>
 	<entry name="SonicBoomDescription" value="Increases the damage against flyers."/>
 	<entry name="SoulBlaze" value="Soul Blaze"/>
-	<entry name="SoulBlazeDescription" value="Deals damage each turn."/>
+	<entry name="SoulBlazeDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="SoulBlazed" value="Soul Blazed"/>
 	<entry name="SoulBlazedDescription" value="<string name='Traits/SoulBlazeDescription'/>"/>
 	<entry name="SpaceMarines/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
@@ -1195,7 +1196,7 @@
 	<entry name="SuperHeavyDescription" value="Класіфікацыя."/>
 	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
 	<entry name="Supersonic" value="Supersonic"/>
-	<entry name="SupersonicDescription" value="Increases the movement."/>
+	<entry name="SupersonicDescription" value="Павялічвае рух."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
 	<entry name="Swarms" value="Swarms"/>
 	<entry name="SwarmsDescription" value="Damage taken is spread evenly across the whole unit group, but the group takes additional hits against blast and template weapons."/>
@@ -1274,7 +1275,7 @@
 	<entry name="Tau/NetworkedMarkerlightDescription" value="Increases the ranged accuracy and ranged damage reduction bypass. The unit's attacks do not benefit from or consume Target Acquired."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
-	<entry name="Tau/NovaBoostDescription" value="Increases the movement."/>
+	<entry name="Tau/NovaBoostDescription" value="Павялічвае рух."/>
 	<entry name="Tau/NovaBoostFlavor" value="<trait name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/NovaFire" value="<string name='Actions/Tau/NovaFire'/>"/>
 	<entry name="Tau/NovaFireDescription" value="Павялічвае атакі."/>
@@ -1375,7 +1376,7 @@
 	<entry name="TheFleshIsWeakDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
 	<entry name="TrainedSentinelPilots" value="Trained Sentinel Pilots"/>
-	<entry name="TrainedSentinelPilotsDescription" value="Increases the damage."/>
+	<entry name="TrainedSentinelPilotsDescription" value="Павялічвае шкоду."/>
 	<entry name="TrainedSentinelPilotsFlavor" value="Sentinels are used in a wide variety of roles throughout the Imperium of man—from power lifters used to load starship weaponry to open-canopy scouts. Some Sentinels are equipped with improved armour and stabilisers to carry heavier weaponry. This changes the Sentinel's role from support and reconnaissance to that of a heavy fire platform."/>
 	<entry name="Traktor" value="Traktor"/>
 	<entry name="TraktorDescription" value="Immobilizes enemy flyers."/>
@@ -1383,7 +1384,7 @@
 	<entry name="TransportDescription" value="Allows transportation of infantry units."/>
 	<entry name="TransportFlavor" value="Some vehicles can carry infantry across the battlefield, providing speed and protection. Of course, if the transport is destroyed, the passengers will be burnt alive in the explosion."/>
 	<entry name="TurboBoost" value="Turbo-Boost"/>
-	<entry name="TurboBoostDescription" value="Increases the movement."/>
+	<entry name="TurboBoostDescription" value="Павялічвае рух."/>
 	<entry name="Tusked" value="Tusked"/>
 	<entry name="TuskedDescription" value="Increases the attacks of melee weapons."/>
 	<entry name="Tyranids/AcidBlood" value="Acid Blood"/>
@@ -1408,7 +1409,7 @@
 	<entry name="Tyranids/ChameleonicSkin" value="Chameleonic Skin"/>
 	<entry name="Tyranids/ChameleonicSkinDescription" value="Allows overwatch attacks with melee weapons."/>
 	<entry name="Tyranids/CityDamage" value="The Spiders' Parlour"/>
-	<entry name="Tyranids/CityDamageDescription" value="Deals damage each turn."/>
+	<entry name="Tyranids/CityDamageDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="Tyranids/CityDamageFlavor" value="To enter into a mature Tyranid city, is to walk inside giants—hostile, biologically-crafted giants, determined to consume you. Toxin-coated villi lash infantry, valleys sprout teeth and close like maws, and town square-sized sphincters open suddenly, dumping entire unwary armies into acidic reclamation pools."/>
 	<entry name="Tyranids/CityGrowth" value="Aggressive Expansion"/>
 	<entry name="Tyranids/CityGrowthDescription" value="Павялічвае хуткасць узросту гарадоў."/>
@@ -1461,7 +1462,7 @@
 	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="The unit's instinctive behaviour is overridden."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
 	<entry name="Tyranids/LivingBatteringRam" value="<string name='Actions/Tyranids/LivingBatteringRam'/>"/>
-	<entry name="Tyranids/LivingBatteringRamDescription" value="Increases the damage."/>
+	<entry name="Tyranids/LivingBatteringRamDescription" value="Павялічвае шкоду."/>
 	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/Tyranids/LivingBatteringRamFlavor'/>"/>
 	<entry name="Tyranids/LongRangedDamage" value="Ocular Proliferation"/>
 	<entry name="Tyranids/LongRangedDamageDescription" value="Павялічвае бронепрабівальнасць."/>
@@ -1473,7 +1474,7 @@
 	<entry name="Tyranids/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/MeleeDamageFlavor" value="When the Tyranids were first encountered, particularly their forerunners the Zoats, their weaponry was typically a range of separate organisms. As time has gone by, the Tyranids and their weapons have grown closer together."/>
 	<entry name="Tyranids/Onslaught" value="<string name='Actions/Tyranids/Onslaught'/>"/>
-	<entry name="Tyranids/OnslaughtDescription" value="Increases the movement."/>
+	<entry name="Tyranids/OnslaughtDescription" value="Павялічвае рух."/>
 	<entry name="Tyranids/OnslaughtFlavor" value="<string name='Actions/Tyranids/OnslaughtFlavor'/>"/>
 	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
 	<entry name="Tyranids/ParoxysmDescription" value="Reduces the accuracy."/>
@@ -1503,7 +1504,7 @@
 	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
 	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
-	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Increases the damage."/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Павялічвае шкоду."/>
 	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
 	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduces the morale each turn."/>
@@ -1526,7 +1527,7 @@
 	<entry name="Tyranids/ToxinSacsDescription" value="Increases the damage of melee weapons against infantry units."/>
 	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
 	<entry name="Tyranids/Tunnel2" value="Echiurean Walls"/>
-	<entry name="Tyranids/Tunnel2Description" value="Increases the hitpoints."/>
+	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
 	<entry name="Tyranids/VehiclesUpkeep" value="Megaunt Instincts"/>
 	<entry name="Tyranids/VehiclesUpkeepDescription" value="Reduces the biomass upkeep."/>
@@ -1563,7 +1564,7 @@
 	<entry name="Weakened" value="Weakened"/>
 	<entry name="WeakenedDescription" value="Reduces the movement and damage."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
-	<entry name="WireWeedDescription" value="Deals damage each turn."/>
+	<entry name="WireWeedDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
 	<entry name="Witchfire" value="Witchfire"/>
 	<entry name="WitchfireDescription" value="Класіфікацыя."/>
