@@ -380,62 +380,61 @@
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="<string name='Actions/ChaosSpaceMarines/WorthyOffering'/>"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="<string name='Actions/ChaosSpaceMarines/WorthyOfferingDescription'/>"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="<string name='Actions/ChaosSpaceMarines/WorthyOfferingFlavor'/>"/>
-	
-	<!-- there -->
-	
-	
-	<entry name="ChapterUnity" value="Chapter Unity"/>
+	<entry name="ChapterUnity" value="Адзінства ордэна"/>
 	<entry name="ChapterUnityDescription" value="Павялічвае вытворчасць лаяльнасці."/>
 	<entry name="ChapterUnityFlavor" value="The relics housed in the Great Hall remind the Adeptus Astartes of the heroes of the past, and that one day their armour, weapons and bones could also be revered here."/>
-	<entry name="City" value="City"/>
-	<entry name="CityDescription" value="Increases the damage reduction and the healing rate for allied units. Decreases the movement cost of units. Increases the ranged damage reduction of infantry units."/>
+	<entry name="City" value="Горад"/>
+	<entry name="CityDescription" value="Павялічвае зніжэнне шкоды і хуткасць вылячэння хаўрусных адзінак. Зменшвае кошт руху адзінак. Павялічвае зніжэнне шкоды ад далёкага бою пяхотным адзінкам."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
-	<entry name="ClusterMinesDescription" value="Deals damage upon entering the tile."/>
+	<entry name="ClusterMinesDescription" value="Наносіць шкоду пры ўваходзе на плітку."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
-	<entry name="CombatShield" value="Combat Shield"/>
+	<entry name="CombatShield" value="Баявы шчыт"/>
 	<entry name="CombatShieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="CombatShieldFlavor" value="A combat shield is a lighter version of the storm shield fitted to the wearer's vambrace, leaving their hand free to wield another weapon whilst providing protection from incoming attacks."/>
 	<entry name="CompendiumFlavor" value="If the warriors of the 41st millenium were identical, these wars would be a matter of sheer manpower—and humanity would have won long ago. Instead, each race, troop type and soldier has their own traits, which make them ideal for certain situations—and leave them horribly exposed in others."/>
-	<entry name="Concussion" value="Concussion"/>
-	<entry name="ConcussionDescription" value="Reduces the accuracy."/>
-	<entry name="Concussive" value="Concussive"/>
-	<entry name="ConcussiveDescription" value="Temporarily reduces the accuracy of the target infantry unit."/>
+	<entry name="Concussion" value="Кантузія"/>
+	<entry name="ConcussionDescription" value="Зніжае трапнасць."/>
+	<entry name="Concussive" value="Кантужаны"/>
+	<entry name="ConcussiveDescription" value="Часова зніжае трапнасць абранай пяхотнай адзінкі."/>
 	<entry name="ConcussiveFlavor" value="Some weapons are designed to leave any foe that manages to survive their strike disoriented and easy to slay."/>
-	<entry name="ConvergentTargeting" value="Convergent Targeting"/>
-	<entry name="ConvergentTargetingDescription" value="Increases the accuracy when adjacent to an allied Thunderfire Cannon."/>
-	<entry name="CultAmbush" value="Cult Ambush"/>
-	<entry name="CultAmbushDescription" value="Increases the accuracy of overwatch attacks."/>
+	<entry name="ConvergentTargeting" value="Канвергентнае нацэльванне"/>
+	<entry name="ConvergentTargetingDescription" value="Павялічвае трапнасць, калі знаходзіцца поруч з хаўруснай гарматай грамавы агонь."/>
+	<entry name="CultAmbush" value="Засада культу"/>
+	<entry name="CultAmbushDescription" value="Павялічвае трапнасць атак назірання."/>
 	<entry name="CultAmbushFlavor" value="Genestealer Cults plan meticulously before each strike, their strategies honed to give every advantage when they rise up as one."/>
-	<entry name="Daemon" value="Daemon"/>
+	<entry name="Daemon" value="Дэман"/>
 	<entry name="DaemonDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
-	<entry name="Damaged" value="Damaged"/>
-	<entry name="DamagedDescription" value="Decreases the accuracy."/>
-	<entry name="Deathshriek" value="Deathshriek"/>
-	<entry name="DeathshriekDescription" value="Damages attacker on death."/>
+	<entry name="Damaged" value="Пашкоджаны"/>
+	<entry name="DamagedDescription" value="Зменшвае трапнасць."/>
+	<entry name="Deathshriek" value="Віскат смерці"/>
+	<entry name="DeathshriekDescription" value="Наносіць шкоду атакоўцу перад смерцю."/>
 	<entry name="DeathshriekFlavor" value="At the point of an Umbra’s death, all those around it receive a vision—of the long ago creature that was torn asunder and cast into the Warp, whilst a voice, horrifying and alluring, whispers a curse… “LINGER…”"/>
-	<entry name="DeedsOfGlory" value="Deeds of Glory"/>
+	<entry name="DeedsOfGlory" value="Справы славы"/>
 	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
-	<entry name="DestroyerWeapon" value="Destroyer Weapon"/>
+	<entry name="DestroyerWeapon" value="Разбуральная зброя"/>
 	<entry name="DestroyerWeaponDescription" value="Павялічвае шкоду."/>
-	<entry name="DevastatorDoctrine" value="Devastator Doctrine"/>
+	<entry name="DevastatorDoctrine" value="Дактрына спусташальніка"/>
 	<entry name="DevastatorDoctrineDescription" value="Павялічвае трапнасць."/>
 	<entry name="DevastatorDoctrineFlavor" value="<string name='Actions/DevastatorDoctrineFlavor'/>"/>
-	<entry name="Discipline" value="Discipline"/>
+	<entry name="Discipline" value="Дысцыпліна"/>
 	<entry name="DisciplineDescription" value="Павялічвае трапнасць."/>
 	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
-	<entry name="DistortScythe" value="Distort Scythe"/>
+	<entry name="DistortScythe" value="Скажоная каса"/>
 	<entry name="DistortScytheDescription" value="Павялічвае шкоду."/>
 	<entry name="DistortScytheFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
-	<entry name="DogmaAstrates" value="Dogma Astartes"/>
+	<entry name="DogmaAstrates" value="Догма астартэс"/>
 	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
 	<entry name="DogmaAstratesFlavor" value="<string name='Actions/DogmaAstratesFlavor'/>"/>
-	<entry name="DozerBlade" value="Dozer Blade"/>
-	<entry name="DozerBladeDescription" value="Reduces the movement penalty in forests and imperial ruins."/>
+	<entry name="DozerBlade" value="Коўш бульдозера"/>
+	<entry name="DozerBladeDescription" value="Зніжае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="DozerBladeFlavor" value="Dozer blades are heavy ploughs, blades, rams, or scoops, used to clear obstacles from the vehicle's path."/>
-	<entry name="EavyArmour" value="'Eavy Armor"/>
+	<entry name="EavyArmour" value="Цяжкая браня"/>
 	<entry name="EavyArmourDescription" value="Павялічвае браню."/>
 	<entry name="EavyArmourFlavor" value="Ork 'eavy armour is hammered out of scrap iron, sheet metal and the looted battle-plate of fallen foes. Though its fit is dubious, 'eavy armour provides a solid defence for its wearer."/>
+	
+	<!-- there -->
+	
 	<entry name="Eldar/AerobaticGrace" value="Aerobatic Grace"/>
 	<entry name="Eldar/AerobaticGraceDescription" value="Grants ranged damage reduction if the unit has moved this turn."/>
 	<entry name="Eldar/AerobaticGraceFlavor" value="While the Harlequins are the true masters of dance amonst the Aeldari, the Shining Spears approach them in their control of their jetbikes, seeming to pirouette between storms of bolter fire as they charge their foe."/>
@@ -525,7 +524,7 @@
 	<entry name="Eldar/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Eldar/MeleeWeaponBonusFlavor" value="The monomolecular filaments and blades of the Aeldari are lethal enough by themselves, but with the smallest addition of phasing technology (as used in the Harlequin’s Caress), they pass through even the thickest armour."/>
 	<entry name="Eldar/MindWar" value="<string name='Actions/Eldar/MindWar'/>"/>
-	<entry name="Eldar/MindWarDescription" value="Decreases the accuracy."/>
+	<entry name="Eldar/MindWarDescription" value="Зменшвае трапнасць."/>
 	<entry name="Eldar/MindWarFlavor" value="<string name='Actions/Eldar/MindWarFlavor'/>"/>
 	<entry name="Eldar/MoltenBody" value="Molten Body"/>
 	<entry name="Eldar/MoltenBodyDescription" value="Immune to flame and melta weapons."/>
@@ -718,7 +717,7 @@
 	<entry name="JetbikeDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
 	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Aeldari had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
 	<entry name="Jink" value="<string name='Actions/Jink'/>"/>
-	<entry name="JinkDescription" value="Increases the ranged damage reduction but reduces the accuracy."/>
+	<entry name="JinkDescription" value="Increases the ranged damage reduction but Зніжае трапнасць."/>
 	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
 	<entry name="Killshot" value="Killshot"/>
 	<entry name="KillshotDescription" value="Increases the damage against monstrous creatures, vehicles and fortifications when adjacent to an allied Predator."/>
@@ -1477,7 +1476,7 @@
 	<entry name="Tyranids/OnslaughtDescription" value="Павялічвае рух."/>
 	<entry name="Tyranids/OnslaughtFlavor" value="<string name='Actions/Tyranids/OnslaughtFlavor'/>"/>
 	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
-	<entry name="Tyranids/ParoxysmDescription" value="Reduces the accuracy."/>
+	<entry name="Tyranids/ParoxysmDescription" value="Зніжае трапнасць."/>
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
 	<entry name="Tyranids/PreyAdaptation" value="Prey Adaptation"/>
 	<entry name="Tyranids/PreyAdaptationDescription" value="The Hive mind gains research when the Malanthrope gains experience from combat."/>
@@ -1543,7 +1542,7 @@
 	<entry name="Unique" value="Unique"/>
 	<entry name="UniqueDescription" value="Limits the amount of units of this type."/>
 	<entry name="Unwieldy" value="Unwieldy"/>
-	<entry name="UnwieldyDescription" value="Reduces the accuracy."/>
+	<entry name="UnwieldyDescription" value="Зніжае трапнасць."/>
 	<entry name="UnwieldyFlavor" value="This weapon is very large, and more than a little clumsy, making swift blows all but impossible to achieve."/>
 	<entry name="VectoredAfterburners" value="Vectored Afterburners"/>
 	<entry name="VectoredAfterburnersDescription" value="Increases the movement and ranged damage reduction."/>
