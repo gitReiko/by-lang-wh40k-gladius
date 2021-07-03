@@ -588,84 +588,84 @@
 	<entry name="EreWeGo" value="Мы ідзём!"/>
 	<entry name="EreWeGoDescription" value="Павялічвае рух."/>
 	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
-	
-
-	<!-- there -->
-
-	
-	<entry name="ExtraInfantryArmour" value="Extra Infantry Armour"/>
+	<entry name="ExtraInfantryArmour" value="Дадатковая браня машын пяхоты"/>
 	<entry name="ExtraInfantryArmourDescription" value="Павялічвае браню."/>
-	<entry name="ExtraMonstrousCreatureArmour" value="Extra Monstrous Creature Armour"/>
+	<entry name="ExtraMonstrousCreatureArmour" value="Дадатковая браня жахлівых стварэнняў"/>
 	<entry name="ExtraMonstrousCreatureArmourDescription" value="Павялічвае браню."/>
-	<entry name="ExtraVehicleArmour" value="Extra Vehicle Armour"/>
+	<entry name="ExtraVehicleArmour" value="Дадатковая браня машын"/>
 	<entry name="ExtraVehicleArmourDescription" value="Павялічвае браню."/>
-	<entry name="Fear" value="Fear"/>
-	<entry name="FearDescription" value="Reduces the morale each turn."/>
+	<entry name="Fear" value="Страх"/>
+	<entry name="FearDescription" value="Зніжае мараль кожны крок."/>
 	<entry name="FearFlavor" value="<string name='Actions/AuraOfFearFlavor'/>"/>
-	<entry name="Fearless" value="Fearless"/>
-	<entry name="FearlessDescription" value="Reduces the morale loss and grants immunity to fear and pinning."/>
+	<entry name="Fearless" value="Адважны"/>
+	<entry name="FearlessDescription" value="Зніжае страту маралі і дае імунітэт да страху і скаванасці."/>
 	<entry name="FearlessFlavor" value="Fearless troops never give up and seldom take full use of cover—even if it would be wiser to do so."/>
-	<entry name="FeelNoPain" value="Feel No Pain"/>
+	<entry name="FeelNoPain" value="Адсутнасць пачуцця болю"/>
 	<entry name="FeelNoPainDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="FeelNoPainFlavor" value="Whether through force of will, bionic augmentation or foul sorcery, this warrior can fight despite fearsome wounds."/>
-	<entry name="Flail" value="Flail"/>
-	<entry name="FlailDescription" value="Increases the melee damage reduction."/>
+	<entry name="Flail" value="Цэп"/>
+	<entry name="FlailDescription" value="Павялічвае зніжэнне шкоды ад блізкага бою."/>
 	<entry name="FlailFlavor" value="Equipped with a flail weapon, these warriors hinder attackers on approach."/>
-	<entry name="Flame" value="Flame"/>
+	<entry name="Flame" value="Полымя"/>
 	<entry name="FlameDescription" value="Класіфікацыя."/>
-	<entry name="Fleet" value="Fleet"/>
+	<entry name="Fleet" value="Флот"/>
 	<entry name="FleetDescription" value="Павялічвае рух."/>
 	<entry name="FleetFlavor" value="Preternaturally agile, these warriors can cover ground more quickly than their plodding foes."/>
-	<entry name="Fleshbane" value="Fleshbane"/>
+	<entry name="Fleshbane" value="Атручванне плоці"/>
 	<entry name="FleshbaneDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
-	<entry name="Flyer" value="Flyer"/>
-	<entry name="FlyerDescription" value="Can fly over cliffs, water and enemy units. Cannot capture artefacts or outposts. Ignores zone of control of enemy ground units. Cannot be hit by ground melee weapons and are hard to hit by ground weapons without skyfire. No penalty for heavy and ordnance weapons."/>
+	<entry name="Flyer" value="Авіяцыя"/>
+	<entry name="FlyerDescription" value="Можа лётаць над скаламі, вадой і варожымі адзінкамі. Не можа захопліваць артэфакты і аванпосты. Ігнаруе зону кантролю наземных варожых адзінак. Не можа быць паражана наземнай зброяй блізкага бою і дрэнна паражаная не супрацьпаветранай наземнай зброяй. Няма штрафу за цяжкую і артылерыйную зброю."/>
 	<entry name="FlyerFlavor" value="The airspace above a battle is thronged with activity. Fighters and bomber craft hurtle through the skies, duelling with one another providing fire support for the troops on the ground."/>
-	<entry name="Forest" value="Forest"/>
-	<entry name="ForestDescription" value="Increases the ranged damage reduction of infantry units."/>
+	<entry name="Forest" value="Лес"/>
+	<entry name="ForestDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
 	<entry name="ForestFlavor" value="<string name='Features/ForestFlavor'/>"/>
-	<entry name="ForestStealth" value="Forest Stealth"/>
-	<entry name="ForestStealthDescription" value="Increases the ranged damage reduction while in a forest."/>
-	<entry name="Fortification" value="Fortification"/>
-	<entry name="FortificationDescription" value="Stationary and fortified unit. If armed, it exerts control over adjacent outposts."/>
-	<entry name="FullThrottle" value="“Full Throttle!”"/>
+	<entry name="ForestStealth" value="Утойлівасць у лесе"/>
+	<entry name="ForestStealthDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою ў лесе."/>
+	<entry name="Fortification" value="Фартыфікацыя"/>
+	<entry name="FortificationDescription" value="Стацыянарная фартыфікаваная адзінка. Калі адзінка ўзброена, то яна кантралюе суседнія аванпосты."/>
+	<entry name="FullThrottle" value="“Поўны газ!”"/>
 	<entry name="FullThrottleDescription" value="Павялічвае рух."/>
-	<entry name="FuelledByRage" value="Fuelled By Rage"/>
-	<entry name="FuelledByRageDescription" value="Increases the attacks when the unit's hitpoints decrease."/>
-	<entry name="FuriousCharge" value="Furious Charge"/>
-	<entry name="FuriousChargeDescription" value="Increases the melee damage."/>
+	<entry name="FuelledByRage" value="Падсілкаванне лютасцю"/>
+	<entry name="FuelledByRageDescription" value="Павялічвае атакі пры змяншэнні здароўя адзінкі."/>
+	<entry name="FuriousCharge" value="Парыў лютасці"/>
+	<entry name="FuriousChargeDescription" value="Павялічвае шкоду ў блізкім боі."/>
 	<entry name="FuriousChargeFlavor" value="Some warriors use the impetus of the charge to fuel their own fury."/>
-	<entry name="Gargantuan" value="Gargantuan"/>
+	<entry name="Gargantuan" value="Гіганцкі"/>
 	<entry name="GargantuanDescription" value="Класіфікацыя."/>
 	<entry name="GargantuanFlavor" value="Gargantuan creatures are of such immense size that they can take on entire armies. They tower over the battlefield, making the ground shudder as they advance upon the foe, crushing lesser creatures beneath their feet as they lumber forwards."/>
 	<entry name="GargantuanCreature" value="<string name='Traits/Gargantuan'/>"/>
 	<entry name="GargantuanCreatureDescription" value="<string name='Traits/GargantuanDescription'/>"/>
 	<entry name="GargantuanCreatureFlavor" value="<string name='Traits/GargantuanFlavor'/>"/>
-	<entry name="Gauss" value="Gauss"/>
-	<entry name="GaussDescription" value="Scales the minimum damage with the hitpoints of the target unit."/>
+	<entry name="Gauss" value="Гаўс"/>
+	<entry name="GaussDescription" value="Мінімальная шкода залежыць ад здароўя мэтавай адзінкі."/>
 	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
-	<entry name="GaussDamage" value="Atomic Flayers"/>
+	<entry name="GaussDamage" value="Атамныя скуралупы"/>
 	<entry name="GaussDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="GaussDamageFlavor" value="For a galaxy full of cruel, monstrous or insane weaponry, Gauss technology is particularly feared. A bolter shell will just explode inside you, but a Gauss weapon will flay you alive, atom by atom."/>
-	<entry name="GetsHot" value="Gets Hot"/>
-	<entry name="GetsHotDescription" value="The unit loses hitpoints each time a ranged weapon fires."/>
+	<entry name="GetsHot" value="Перагрэў"/>
+	<entry name="GetsHotDescription" value="Адзінка губляе здароўе пасля кожнага выстралу зброі далёкага бою."/>
 	<entry name="GetsHotFlavor" value="Some weapons are fuelled by unstable power sources and risk overheating with each shot—often to the detriment of the wielder."/>
-	<entry name="Grenade" value="Grenade"/>
-	<entry name="GrotRiggers" value="Grot Riggers"/>
-	<entry name="GrotRiggersDescription" value="Restores hitpoints each turn."/>
+	<entry name="Grenade" value="Граната"/>
+	<entry name="GrotRiggers" value="Гроты-такелажнікі"/>
+	<entry name="GrotRiggersDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="GrotRiggersFlavor" value="Whether hurriedly re-attaching gubbinz with rivet guns, or just getting out and pushing, a crew of grot riggers can help to keep an Ork vehicle in the fight long after it should have fallen apart."/>
-	<entry name="GroundAttack" value="Ground Attack"/>
-	<entry name="GroundAttackDescription" value="Can only target ground units."/>
-	<entry name="GunnersKillOnSight" value="“Gunners, Kill on Sight!”"/>
-	<entry name="GunnersKillOnSightDescription" value="Increases the ranged attacks."/>
+	<entry name="GroundAttack" value="Наземная атака"/>
+	<entry name="GroundAttackDescription" value="Можа нацэльвацца толькі на наземныя адзінкі."/>
+	<entry name="GunnersKillOnSight" value="“Стрэлкі забівайце ўсё, што бачыце!”"/>
+	<entry name="GunnersKillOnSightDescription" value="Павялічвае атакі далёкага бою."/>
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="HammerOfWrathDescription" value="Павялічвае шкоду."/>
 	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Hallucination" value="<string name='Actions/Hallucination'/>"/>
-	<entry name="HallucinationDescription" value="Decreases the attacks."/>
+	<entry name="HallucinationDescription" value="Змяншае атакі."/>
 	<entry name="HallucinationFlavor" value="<string name='Actions/HallucinationFlavor'/>"/>
-	<entry name="HarvestResourceFeatures" value="Harvest Resource Tiles"/>
-	<entry name="HarvestResourceFeaturesDescription" value="Harvests resources from adjacent special resource features."/>
+	<entry name="HarvestResourceFeatures" value="Збор рэсурсаў пліткі"/>
+	<entry name="HarvestResourceFeaturesDescription" value="Здабывае рэсурсы з суседніх адмысловых рэсурсаў."/>
+	
+	
+	<!-- there -->
+
+	
 	<entry name="Haywire" value="Haywire"/>
 	<entry name="HaywireDescription" value="Increases the damage and ignores armour against vehicles and fortifications."/>
 	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
@@ -693,7 +693,7 @@
 	<entry name="Immobilized" value="Immobilised"/>
 	<entry name="ImmobilizedDescription" value="The unit cannot move."/>
 	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
-	<entry name="ImperialRuinDescription" value="Increases the ranged damage reduction of infantry units."/>
+	<entry name="ImperialRuinDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
 	<entry name="ImperialRuinFlavor" value="<string name='Features/ImperialRuinFlavor'/>"/>
 	<entry name="ImperialSplendour" value="Imperial Splendour"/>
 	<entry name="ImperialSplendourDescription" value="Increases the influence."/>
@@ -710,7 +710,7 @@
 	<entry name="IronWillDescription" value="<string name='Actions/IronWillDescription'/>"/>
 	<entry name="IronWillFlavor" value="<string name='Actions/IronWillFlavor'/>"/>
 	<entry name="ItWillNotDie" value="It Will Not Die"/>
-	<entry name="ItWillNotDieDescription" value="Restores hitpoints each turn."/>
+	<entry name="ItWillNotDieDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="ItWillNotDieFlavor" value="In the dark corners of the galaxy, there are creatures that heal at a terrifying speed."/>
 	<entry name="JetPack" value="Jet Pack"/>
 	<entry name="JetPackDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
@@ -761,7 +761,7 @@
 	<entry name="MeltaDescription" value="Increases the armour penetration at half range."/>
 	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="MindControl" value="Mind Control"/>
-	<entry name="MindControlDescription" value="Reduces the morale each turn."/>
+	<entry name="MindControlDescription" value="Зніжае мараль кожны крок."/>
 	<entry name="Misfortune" value="<string name='Actions/Misfortune'/>"/>
 	<entry name="MisfortuneDescription" value="Павялічвае атрымліваемую шкоду."/>
 	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
@@ -817,7 +817,7 @@
 	<entry name="Necrons/EnergyBuildingBonusDescription" value="Павялічвае вытворчасць энергіі."/>
 	<entry name="Necrons/EnergyBuildingBonusFlavor" value="Little has changed on the outside of this baroque sarcophagus—yet, inside its unheimlich interior, dark Cryptek devices are stabilising a much improved device."/>
 	<entry name="Necrons/EntropicStrike" value="Entropic Strike"/>
-	<entry name="Necrons/EntropicStrikeDescription" value="Scales the minimum damage with the hitpoints of the target unit."/>
+	<entry name="Necrons/EntropicStrikeDescription" value="Мінімальная шкода залежыць ад здароўя мэтавай адзінкі."/>
 	<entry name="Necrons/EternityGate" value="Eternity Gate"/>
 	<entry name="Necrons/EternityGateDescription" value="Necron units can teleport to adjacent tiles."/>
 	<entry name="Necrons/EternityGateFlavor" value="A Monolith's eternity gate is a dimensional corridor between the battlefield and a tomb world, allowing legions of Necron warriors to cross vast distances and enter the fray with a single step."/>
@@ -845,7 +845,7 @@
 	<entry name="Necrons/JetCharge" value="<string name='Actions/Necrons/JetCharge'/>"/>
 	<entry name="Necrons/JetChargeDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Necrons/LivingMetal" value="Living Metal"/>
-	<entry name="Necrons/LivingMetalDescription" value="Restores hitpoints each turn."/>
+	<entry name="Necrons/LivingMetalDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Necrons/LivingMetalFlavor" value="It's understandable why the Necrons build their vehicles from the same living metal as their own bodies, given how durable it is and how well-suited it is to repairing damage sustained in the field."/>
 	<entry name="Necrons/LoyaltyBuildingBonus" value="Baroque Covenant"/>
 	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Increases the loyalty ouput."/>
@@ -869,7 +869,7 @@
 	<entry name="Necrons/QuantumShieldingDescription" value="Павялічвае браню."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
 	<entry name="Necrons/ReanimationProtocols" value="Reanimation Protocols"/>
-	<entry name="Necrons/ReanimationProtocolsDescription" value="Restores hitpoints each turn."/>
+	<entry name="Necrons/ReanimationProtocolsDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Necrons/ReanimationProtocolsFlavor" value="Necrons have sophisticated self-repair systems that return even critically damaged warriors to the fight."/>
 	<entry name="Necrons/Reaper" value="<string name='Actions/Necrons/Reaper'/>"/>
 	<entry name="Necrons/ReaperFlavor" value="<string name='Actions/Necrons/ReaperFlavor'/>"/>
@@ -1008,7 +1008,7 @@
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
 	<entry name="Outpost" value="Outpost"/>
-	<entry name="OutpostDescription" value="Increases the damage reduction and the healing rate of allied units. Increases the ranged damage reduction of infantry units."/>
+	<entry name="OutpostDescription" value="Increases the damage reduction and the healing rate of allied units. Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
 	<entry name="Outflank" value="Outflank"/>
 	<entry name="OutflankDescription" value="Increases the accuracy when adjacent to an allied unit."/>
 	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
@@ -1064,7 +1064,7 @@
 	<entry name="RefractorFieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="RefractorFieldFlavor" value="Often carried by high-ranking officers and Imperial heroes, shimmering refractor fields refract incoming energy around their bearer, batting aside blasts and swinging blades that would otherwise lay them low."/>
 	<entry name="Regeneration" value="Regeneration"/>
-	<entry name="RegenerationDescription" value="Restores hitpoints each turn."/>
+	<entry name="RegenerationDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="RegenerationFlavor" value="Some units have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
 	<entry name="Relentless" value="Relentless"/>
 	<entry name="RelentlessDescription" value="Negates the penalty for heavy and ordnance weapons."/>
@@ -1217,7 +1217,7 @@
 	<entry name="Tau/AdvancedTargetingSystemDescription" value="Increases the ranged accuracy."/>
 	<entry name="Tau/AdvancedTargetingSystemFlavor" value="An advanced targeting system assists the vehicle's gunner by identifying targets of particular value or danger and plotting fire plans to counter them."/>
 	<entry name="Tau/AutomatedRepairSystem" value="Automated Repair System"/>
-	<entry name="Tau/AutomatedRepairSystemDescription" value="Restores hitpoints each turn."/>
+	<entry name="Tau/AutomatedRepairSystemDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="Tiny maintenance drones swarm over damaged systems to repair them in the midst of battle."/>
 	<entry name="Tau/BlacksunFilter" value="Blacksun Filter"/>
 	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight."/>
@@ -1442,7 +1442,7 @@
 	<entry name="Tyranids/HiveCommanderDescription" value="Increases the damage and damage reduction."/>
 	<entry name="Tyranids/HiveCommanderFlavor" value="<string name='Actions/Tyranids/HiveCommanderFlavor'/>"/>
 	<entry name="Tyranids/IndescribableHorror" value="<string name='Actions/Tyranids/IndescribableHorror'/>"/>
-	<entry name="Tyranids/IndescribableHorrorDescription" value="Reduces the morale each turn."/>
+	<entry name="Tyranids/IndescribableHorrorDescription" value="Зніжае мараль кожны крок."/>
 	<entry name="Tyranids/IndescribableHorrorFlavor" value="<string name='Actions/Tyranids/IndescribableHorrorFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="Gaunt Instincts"/>
 	<entry name="Tyranids/InfantryUpkeepDescription" value="Reduces the biomass upkeep."/>
@@ -1499,7 +1499,7 @@
 	<entry name="Tyranids/Reclamation3Description" value="Removes the cooldown."/>
 	<entry name="Tyranids/Reclamation3Flavor" value="Reclamation has to be an efficient process to best serve the Hive Mind—every basis point of biomass that has to be abandoned could spell defeat. This adaptation makes reclamation a continuous process, which enables high percentage biomass recovery."/>
 	<entry name="Tyranids/Regeneration" value="Regeneration"/>
-	<entry name="Tyranids/RegenerationDescription" value="Restores hitpoints each turn."/>
+	<entry name="Tyranids/RegenerationDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Tyranids/RegenerationFlavor" value="Some Tyranids have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
 	<entry name="Tyranids/ResourceBuildingUpkeep" value="Scavenger Adaptation"/>
 	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
@@ -1508,7 +1508,7 @@
 	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Павялічвае шкоду."/>
 	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
 	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
-	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduces the morale each turn."/>
+	<entry name="Tyranids/ShadowInTheWarpDescription" value="Зніжае мараль кожны крок."/>
 	<entry name="Tyranids/ShadowInTheWarpFlavor" value="<string name='Actions/Tyranids/ShadowInTheWarpFlavor'/>"/>
 	<entry name="Tyranids/ShortRangedDamage" value="Gigaborer Hives"/>
 	<entry name="Tyranids/ShortRangedDamageDescription" value="Павялічвае бронепрабівальнасць."/>
