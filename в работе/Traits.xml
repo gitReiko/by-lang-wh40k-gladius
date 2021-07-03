@@ -432,23 +432,20 @@
 	<entry name="EavyArmour" value="Цяжкая браня"/>
 	<entry name="EavyArmourDescription" value="Павялічвае браню."/>
 	<entry name="EavyArmourFlavor" value="Ork 'eavy armour is hammered out of scrap iron, sheet metal and the looted battle-plate of fallen foes. Though its fit is dubious, 'eavy armour provides a solid defence for its wearer."/>
-	
-	<!-- there -->
-	
-	<entry name="Eldar/AerobaticGrace" value="Aerobatic Grace"/>
-	<entry name="Eldar/AerobaticGraceDescription" value="Grants ranged damage reduction if the unit has moved this turn."/>
+	<entry name="Eldar/AerobaticGrace" value="Найвысокі пілатаж"/>
+	<entry name="Eldar/AerobaticGraceDescription" value="Дае змяншэнне шкоды ад далёкага бою, калі адзінка перасунецца ў гэты крок."/>
 	<entry name="Eldar/AerobaticGraceFlavor" value="While the Harlequins are the true masters of dance amonst the Aeldari, the Shining Spears approach them in their control of their jetbikes, seeming to pirouette between storms of bolter fire as they charge their foe."/>
-	<entry name="Eldar/AircraftBuildingBonus" value="Kurnous' Summons"/>
+	<entry name="Eldar/AircraftBuildingBonus" value="Прызыў Курноўса"/>
 	<entry name="Eldar/AircraftBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Eldar/AircraftBuildingBonusFlavor" value="he Crimson Hunters owe their allegiance to Kurnous, the Aeldari God of the Hunt. Though he is 60 million years dead, when his name is invoked they redouble their efforts, both in recruitment and construction."/>
-	<entry name="Eldar/AncientDoom" value="Ancient Doom"/>
-	<entry name="Eldar/AncientDoomDescription" value="Increases the accuracy and damage taken against Chaos units."/>
+	<entry name="Eldar/AncientDoom" value="Старажытны рок"/>
+	<entry name="Eldar/AncientDoomDescription" value="Павялічвае трапнасць і шкоду супраць адзінак Хаосу."/>
 	<entry name="Eldar/AncientDoomFlavor" value="The Aeldari loathe and fear She Who Thirsts above all else, for in Slaanesh they see their doom made manifest."/>
-	<entry name="Eldar/AssaultWeaponBonus" value="Sub-Molecular Ammunition"/>
+	<entry name="Eldar/AssaultWeaponBonus" value="Субмалекульныя боепрыпасы"/>
 	<entry name="Eldar/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="The unique shuriken ammunition of the Aeldari consists of monomolecular spinning blades fired at great speed. But molecules are so limiting when there are smaller, more deadly structures to use."/>
-	<entry name="Eldar/AssuredDestruction" value="Assured Destruction"/>
-	<entry name="Eldar/AssuredDestructionDescription" value="Increases the damage against vehicles."/>
+	<entry name="Eldar/AssuredDestruction" value="Гарантаванае разбурэнне"/>
+	<entry name="Eldar/AssuredDestructionDescription" value="Павялічвае шкоду супраць машын."/>
 	<entry name="Eldar/AssuredDestructionFlavor" value="”If a captain is foolish enough to allow five Aeldari with meltaguns and several millenia of combat experience to get within 20 metres of his tank… well, frankly, he deserves to be a molten puddle of ichor on the floor.”<br/>  — Commissar Gruber."/>
 	<entry name="Eldar/AsuryaniArrivals" value="<string name='Actions/Eldar/AsuryaniArrivals'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsDescription" value="<string name='Actions/Eldar/AsuryaniArrivalsDescription'/>"/>
@@ -457,121 +454,121 @@
 	<entry name="Eldar/AutarchsAssaultDescription" value="Павялічвае шкоду."/>
 	<entry name="Eldar/AutarchsAssaultFlavor" value="<string name='Actions/Eldar/AutarchsAssaultFlavor'/>"/>
 	<entry name="Eldar/AutarchsAssaultPassive" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
-	<entry name="Eldar/BansheeMask" value="Banshee Mask"/>
+	<entry name="Eldar/BansheeMask" value="Маска баншы"/>
 	<entry name="Eldar/BansheeMaskDescription" value="<string name='Traits/InfiltrateDescription'/>"/>
 	<entry name="Eldar/BansheeMaskFlavor" value="These amplify the Aeldari’s battle cry, inflicting psychic paralysis."/>
-	<entry name="Eldar/BattleFocus" value="Battle Focus"/>
-	<entry name="Eldar/BattleFocusDescription" value="Actions do not consume movement."/>
+	<entry name="Eldar/BattleFocus" value="Баявы фокус"/>
+	<entry name="Eldar/BattleFocusDescription" value="Дзеянні не спажываюць руху."/>
 	<entry name="Eldar/BattleFocusFlavor" value="When the Asuryani don their war masks, they enter a battle trance so focused that they flow across the battlefield like quicksilver, killing their foes without breaking stride."/>
-	<entry name="Eldar/CityTier2" value="Exodite Foothold"/>
+	<entry name="Eldar/CityTier2" value="Экзадытавая апора"/>
 	<entry name="Eldar/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Eldar/CityTier2Flavor" value="Despite the millenia they’ve spent drifting the stars, some Rangers of the Craftworld Aeldari have passed time on the Exodite worlds and Maiden worlds, and have learned how to establish life planetside, growing food and constructing their wraithbone buildings in the ancient ways."/>
-	<entry name="Eldar/CityTier3" value="Exodite Infrastructure"/>
+	<entry name="Eldar/CityTier3" value="Экзадытавая інфраструктура"/>
 	<entry name="Eldar/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Eldar/CityTier3Flavor" value="Experienced Exodite construction designs are being employed by the Craftworld’s Bonesingers here. Only having worked on the ancient Craftworlds, the idea of building a city for the first time is something utterly new to their minds."/>
 	<entry name="Eldar/Command" value="<string name='Actions/Eldar/Command'/>"/>
 	<entry name="Eldar/CommandDescription" value="Павялічвае трапнасць."/>
 	<entry name="Eldar/CommandFlavor" value="<string name='Actions/Eldar/CommandFlavor'/>"/>
-	<entry name="Eldar/ConstructionBuildingBonus" value="Bonesinger Convocation"/>
+	<entry name="Eldar/ConstructionBuildingBonus" value="Сход спевакоў касці"/>
 	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Eldar/ConstructionBuildingBonusFlavor" value="Bonesingers are rare and cherished, even among the scattered Aeldari—but they have come in numbers to the Farseer’s summons, to capture this unique planet for their dying race."/>
-	<entry name="Eldar/CrackShot" value="Crack Shot"/>
-	<entry name="Eldar/CrackShotDescription" value="Increases the accuracy and armour penetration."/>
+	<entry name="Eldar/CrackShot" value="Раздзіралы стрэл"/>
+	<entry name="Eldar/CrackShotDescription" value="Павялічвае трапнасць і бронепрабівальнасць."/>
 	<entry name="Eldar/CrackShotFlavor" value="The Fire Dragons are rightly feared as tank hunters and none more so than their Exarch, who leads his squad from the front, inspiring his squad to more destruction with his own devastating feats."/>
 	<entry name="Eldar/CrystalTargetingMatrix" value="<string name='Actions/Eldar/CrystalTargetingMatrix'/>"/>
 	<entry name="Eldar/CrystalTargetingMatrixDescription" value="<string name='Actions/Eldar/CrystalTargetingMatrixDescription'/>"/>
 	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="<string name='Actions/Eldar/CrystalTargetingMatrixFlavor'/>"/>
 	<entry name="Eldar/Doom" value="<string name='Actions/Eldar/Doom'/>"/>
-	<entry name="Eldar/DoomDescription" value="Increases the damage taken."/>
+	<entry name="Eldar/DoomDescription" value="Павялічвае атрымліваемую шкоду."/>
 	<entry name="Eldar/DoomFlavor" value="<string name='Actions/Eldar/DoomFlavor'/>"/>
-	<entry name="Eldar/ExpertHunter" value="Expert Hunter"/>
-	<entry name="Eldar/ExpertHunterDescription" value="Increases the damage against monstrous creatures, vehicles and fortifications."/>
+	<entry name="Eldar/ExpertHunter" value="Дасведчаны паляўнічы"/>
+	<entry name="Eldar/ExpertHunterDescription" value="Павялічвае шкоду жудасным стварэнням, машынам і фартыфікацыям."/>
 	<entry name="Eldar/ExpertHunterFlavor" value="The Shining Spears weaponry might be short-ranged but their Star Lances and Laser Lances are incredibly powerful, as they weave around larger targets, spying out their weak points."/>
-	<entry name="Eldar/FoodBuildingBonus" value="Exquisite Cultivation"/>
-	<entry name="Eldar/FoodBuildingBonusDescription" value="Павялічвае вытворчасць ежы. "/>
+	<entry name="Eldar/FoodBuildingBonus" value="Дасканалая культывацыя"/>
+	<entry name="Eldar/FoodBuildingBonusDescription" value="Павялічвае вытворчасць ежы."/>
 	<entry name="Eldar/FoodBuildingBonusFlavor" value="So intensely do the Aeldari feel that even their basic foodstuffs are works of art, cultivated by craftsmen that have spent millenia perfecting their cuisine. With a wider range of ingredients and seasonings, they can work miracles with the seeming simplest foodstuffs."/>
-	<entry name="Eldar/Forceshield" value="Forceshield"/>
+	<entry name="Eldar/Forceshield" value="Сілавы шчыт"/>
 	<entry name="Eldar/ForceshieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Eldar/ForceshieldFlavor" value="These powerful shield projectors can deflect almost any blow."/>
-	<entry name="Eldar/HeavyWeaponBonus" value="Engine of Vaul"/>
+	<entry name="Eldar/HeavyWeaponBonus" value="Рухавік Ваўла"/>
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="Whilst humanity’s plasma weaponry is often fatal to its users, the elegant Aeldari equivalents harbour no such threats. And now a chance discovery on Gladius Prime’s surface has allowed the Bonesingers and Exarchs to further improve their focus."/>
-	<entry name="Eldar/HoloFields" value="Holo-Fields"/>
-	<entry name="Eldar/HoloFieldsDescription" value="Increases the damage reduction if the unit has moved this turn."/>
+	<entry name="Eldar/HoloFields" value="Галапалі"/>
+	<entry name="Eldar/HoloFieldsDescription" value="Павялічвае зніжэнне шкоды, калі адзінка перасунулася ў гэты крок."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="Harnessing kinetic energy to shimmer and distort the vehicle’s silhouette, holo-fields prevent the foe from accurately targeting the craft as it sweeps across the battlefield."/>
-	<entry name="Eldar/InfantryBuildingBonus" value="Asuryan's Summons"/>
+	<entry name="Eldar/InfantryBuildingBonus" value="Прызыў Асур'яна"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Eldar/InfantryBuildingBonusFlavor" value="Asurmen is the founder of the path of the Warrior and the first of the Phoenix Lords, the creators of the Aspect Shrines. Invoking his name will surely bring more warriors to Gladius Prime, to seize this planet for the Aeldari."/>
-	<entry name="Eldar/InfluenceBuildingBonus" value="Lileath's Oracle"/>
+	<entry name="Eldar/InfluenceBuildingBonus" value="Аракул Ліліат"/>
 	<entry name="Eldar/InfluenceBuildingBonusDescription" value="Павялічвае вытворчасць уплыву."/>
 	<entry name="Eldar/InfluenceBuildingBonusFlavor" value="Very few mortal beings have ever had the foresight of a Farseer—a power perhaps derived from the lost Aeldari goddess Lileath, who predicted the death of the gods at the hands of the mortal Aeldari. An oracle that invokes her name draws the eyes of all Aeldari upon you..."/>
-	<entry name="Eldar/Jinx" value="Jinx"/>
-	<entry name="Eldar/JinxDescription" value="Decreases the armour."/>
+	<entry name="Eldar/Jinx" value="Сурокі"/>
+	<entry name="Eldar/JinxDescription" value="Зніжае браню."/>
 	<entry name="Eldar/JinxFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
 	<entry name="Eldar/KhaineAwakened" value="<string name='Actions/Eldar/KhaineAwakened'/>"/>
-	<entry name="Eldar/KhaineAwakenedDescription" value="Increases the melee attacks and melee damage, decreases the morale loss and grants immunity to fear and pinning."/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім боі, зніжае страту маралі і дае імунітэт да страху і скоўвання."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="<string name='Actions/Eldar/KhaineAwakenedFlavor'/>"/>
 	<entry name="Eldar/KhainesMight" value="<string name='Actions/Eldar/KhainesMight'/>"/>
 	<entry name="Eldar/KhainesMightDescription" value="Павялічвае атакі блізкага бою."/>
 	<entry name="Eldar/KhainesMightFlavor" value="<string name='Actions/Eldar/KhainesMightFlavor'/>"/>
 	<entry name="Eldar/LinkedFire" value="<string name='Actions/Eldar/LinkedFire'/>"/>
-	<entry name="Eldar/LinkedFireDescription" value="Increases the damage and armour penetration of the Prism Cannon."/>
+	<entry name="Eldar/LinkedFireDescription" value="Павялічвае шкоду і бронепрабівальнасць прызмавай гарматы."/>
 	<entry name="Eldar/LinkedFireFlavor" value="<string name='Actions/Eldar/LinkedFireFlavor'/>"/>
-	<entry name="Eldar/MarksmansEye" value="Marksman's Eye"/>
+	<entry name="Eldar/MarksmansEye" value="Вока снайпера"/>
 	<entry name="Eldar/MarksmansEyeDescription" value="Павялічвае трапнасць."/>
 	<entry name="Eldar/MarksmansEyeFlavor" value="Only a Crimson Hunter would consider piloting the fastest, most manuevrable Aeldari craft to involve so little challenge, that they also are able to aim and fire three separate weapons with differing fire rates at the same time."/>
-	<entry name="Eldar/MeleeWeaponBonus" value="Sub-Molecular Planes"/>
+	<entry name="Eldar/MeleeWeaponBonus" value="Субмалекульныя плоскасці"/>
 	<entry name="Eldar/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Eldar/MeleeWeaponBonusFlavor" value="The monomolecular filaments and blades of the Aeldari are lethal enough by themselves, but with the smallest addition of phasing technology (as used in the Harlequin’s Caress), they pass through even the thickest armour."/>
 	<entry name="Eldar/MindWar" value="<string name='Actions/Eldar/MindWar'/>"/>
 	<entry name="Eldar/MindWarDescription" value="Зменшвае трапнасць."/>
 	<entry name="Eldar/MindWarFlavor" value="<string name='Actions/Eldar/MindWarFlavor'/>"/>
-	<entry name="Eldar/MoltenBody" value="Molten Body"/>
-	<entry name="Eldar/MoltenBodyDescription" value="Immune to flame and melta weapons."/>
+	<entry name="Eldar/MoltenBody" value="Расплаўленае цела"/>
+	<entry name="Eldar/MoltenBodyDescription" value="Імунітэт да агнявой і мелта-зброі."/>
 	<entry name="Eldar/MoltenBodyFlavor" value="The Avatar of Khaine isn’t merely the last fragment of a dying god—more practically, it’s a construct of super-heated iron with a core that is literally lava, animated by the psychic power of the Aeldari and the god’s undying rage. Heating it up only makes it more angry…"/>
-	<entry name="Eldar/OreBuildingBonus" value="Extraction Efficiency"/>
+	<entry name="Eldar/OreBuildingBonus" value="Эфектыўнае здабыванне"/>
 	<entry name="Eldar/OreBuildingBonusDescription" value="Павялічвае вытворчасць руды."/>
 	<entry name="Eldar/OreBuildingBonusFlavor" value="The Aeldari require metals less than other races, given that almost all of their structures and vehicles are psychic energy made tangible, in the form of wraithbone. But for the small amount they need, there are always improvements to be made."/>
-	<entry name="Eldar/PowerField" value="Power Field"/>
+	<entry name="Eldar/PowerField" value="Сілавое поле"/>
 	<entry name="Eldar/PowerFieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Eldar/PowerFieldFlavor" value="Power fields reroute a portion of the vehicle’s energy supply to project a glimmering shield of protection around the vehicle."/>
-	<entry name="Eldar/Protect" value="Protect"/>
+	<entry name="Eldar/Protect" value="Абарона"/>
 	<entry name="Eldar/ProtectDescription" value="Павялічвае браню."/>
 	<entry name="Eldar/ProtectFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
-	<entry name="Eldar/RemnantsOfTheFall" value="Remnants of the Fall"/>
-	<entry name="Eldar/RemnantsOfTheFallDescription" value="Decreases the growth rate."/>
+	<entry name="Eldar/RemnantsOfTheFall" value="Наступствы заняпаду"/>
+	<entry name="Eldar/RemnantsOfTheFallDescription" value="Змяншае хуткасць узросту."/>
 	<entry name="Eldar/RemnantsOfTheFallFlavor" value="Since the birth of Slaanesh, the remaining Aeldari have struggled to survive in a hostile galaxy. Their aeon-long lifespans mean that they always had a low fertility rate and slow gestation, so they struggle to replace those who fall in battle. On many Craftworlds, the dead far outnumber the living."/>
-	<entry name="Eldar/ResearchBuildingBonus" value="Black Librarians"/>
+	<entry name="Eldar/ResearchBuildingBonus" value="Чорныя бібліятэкары"/>
 	<entry name="Eldar/ResearchBuildingBonusDescription" value="Павялічвае вытворчасць даследаванняў."/>
 	<entry name="Eldar/ResearchBuildingBonusFlavor" value="The Farseers of the Black Library dispatched us on this errand and now they offer their support. With access to their archives, we should be able to rediscover lost technologies and more rapidly improve our foothold on this planet."/>
 	<entry name="Eldar/ReturnOfTheAeldari" value="<string name='Actions/Eldar/ReturnOfTheAeldari'/>"/>
 	<entry name="Eldar/ReturnOfTheAeldariDescription" value="<string name='Actions/Eldar/ReturnOfTheAeldariDescription'/>"/>
 	<entry name="Eldar/ReturnOfTheAeldariFlavor" value="<string name='Actions/Eldar/ReturnOfTheAeldariFlavor'/>"/>
-	<entry name="Eldar/RuneArmour" value="Rune Armour"/>
+	<entry name="Eldar/RuneArmour" value="Рунічная браня"/>
 	<entry name="Eldar/RuneArmourDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Eldar/RuneArmourFlavor" value="Aeldari psykers fashion themselves elegant armour decorated with wraithbone runes. Said to pulse in time with the wearer’s heartbeat, rune armour offers protection against attacks both spiritual and physical in nature."/>
-	<entry name="Eldar/Scattershield" value="Scattershield"/>
-	<entry name="Eldar/ScattershieldDescription" value="Increases the damage reduction and blinds infantry and monstrous creature attackers."/>
+	<entry name="Eldar/Scattershield" value="Рассейвальны шчыт"/>
+	<entry name="Eldar/ScattershieldDescription" value="Павялічвае зніжэнне шкоды ды асляпляе пяхоту і жахлівых стварэнняў, якія атакуюць."/>
 	<entry name="Eldar/ScattershieldFlavor" value="Used to protect precious Aeldari war-constructs, scattershields are gigantic fan-shaped shield generators that convert the energy of incoming attacks into blinding sprays of multicoloured light."/>
-	<entry name="Eldar/SerpentShield" value="Serpent Shield"/>
-	<entry name="Eldar/SerpentShieldDescription" value="Increases the armour while Serpent Shield weapon is not on cooldown."/>
+	<entry name="Eldar/SerpentShield" value="Змяіны шчыт"/>
+	<entry name="Eldar/SerpentShieldDescription" value="Павялічвае браню, калі зброя «Змяіны шчыт» не перазараджваецца."/>
 	<entry name="Eldar/SerpentShieldFlavor" value="<string name='Weapons/SerpentShieldFlavor'/>"/>
-	<entry name="Eldar/Skyhunter" value="Skyhunter"/>
-	<entry name="Eldar/SkyhunterDescription" value="Increases the armour penetration against flyers."/>
+	<entry name="Eldar/Skyhunter" value="Нябесны паляўнічы"/>
+	<entry name="Eldar/SkyhunterDescription" value="Павялічвае бронепрабівальнасць супраць авіяцыі."/>
 	<entry name="Eldar/SkyhunterFlavor" value="The spirit of a lost Exarch of Biel-Tan has infused our Crimson Hunters, revealing secrets from millenia of battling the foes of the Aeldari. Her rediscovered wisdom will enable us to dominate the skies as never before."/>
 	<entry name="Eldar/SpiritMark" value="<string name='Actions/Eldar/SpiritMark'/>"/>
 	<entry name="Eldar/SpiritMarkDescription" value="Павялічвае трапнасць."/>
 	<entry name="Eldar/SpiritMarkFlavor" value="<string name='Actions/Eldar/SpiritMarkFlavor'/>"/>
-	<entry name="Eldar/SpiritPreservation" value="Spirit Preservation"/>
-	<entry name="Eldar/SpiritPreservationDescription" value="Grants energy on death."/>
+	<entry name="Eldar/SpiritPreservation" value="Захаванне душы"/>
+	<entry name="Eldar/SpiritPreservationDescription" value="Дае энергію за смерць."/>
 	<entry name="Eldar/SpiritPreservationFlavor" value="We are few in number and She Who Thirsts waits in the Warp, to consume our souls. However, we wear Spirit Stones to capture our essence at the moment of death; though every Aeldari shudders in distaste at the thought, when recovered these spirits can be used to guide our war machines."/>
-	<entry name="Eldar/SpiritStones" value="Spirit Stones"/>
-	<entry name="Eldar/SpiritStonesDescription" value="Reduces the morale loss."/>
+	<entry name="Eldar/SpiritStones" value="Камяні душ"/>
+	<entry name="Eldar/SpiritStonesDescription" value="Зніжае страту маралі."/>
 	<entry name="Eldar/SpiritStonesFlavor" value="Some Aeldari vehicles incorporate large spirit stones with a captive animus that can control the vehicle should it be disabled."/>
-	<entry name="Eldar/StarEngines" value="Star Engines"/>
+	<entry name="Eldar/StarEngines" value="Зорныя рухавікі"/>
 	<entry name="Eldar/StarEnginesDescription" value="Павялічвае рух."/>
 	<entry name="Eldar/StarEnginesFlavor" value="Whilst all Aeldari vehicles are swift and agile, those that mount star engines are often able to move faster than the eye can follow. Lesser races can only marvel at the phenomenal speed and manoeuvrability of a craft so equipped."/>
-	<entry name="Eldar/TitanHoloFields" value="Titan Holo-Fields"/>
+	<entry name="Eldar/TitanHoloFields" value="Галапалі тытану"/>
 	<entry name="Eldar/TitanHoloFieldsDescription" value="<string name='Traits/Eldar/HoloFieldsDescription'/>"/>
 	<entry name="Eldar/TitanHoloFieldsFlavor" value="“I was watching the best-best light show in the Hive, all elsparks and bang-bangs and shinies and sooo psychedelic… then I wowed around and the Irregulars was dead-dead and that alien tank just rolled on past me like I was plastidough.”<br/>  — Trooper Grande, sole survivor of the Necromundan Fourth Irregulars."/>
 	<entry name="Eldar/TranscendentBliss" value="<string name='Actions/Eldar/TranscendentBliss'/>"/>
@@ -583,14 +580,19 @@
 	<entry name="Eldar/VectoredEngines" value="<string name='Actions/Eldar/VectoredEngines'/>"/>
 	<entry name="Eldar/VectoredEnginesDescription" value="<string name='Actions/Eldar/VectoredEnginesDescription'/>"/>
 	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Actions/Eldar/VectoredEnginesFlavor'/>"/>
-	<entry name="Eldar/VehicleBuildingBonus" value="Vaul's Summons"/>
+	<entry name="Eldar/VehicleBuildingBonus" value="Прызыў Ваўла"/>
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Eldar/VehicleBuildingBonusFlavor" value="A spirit stone recovered from Gladius proved to be that of an ancient Bonesinger, lost here millenia past. With their insights into the planet’s structure and resources, we’re able to greatly increase our production."/>
-	<entry name="Enslaved" value="Enslaved"/>
-	<entry name="EnslavedDescription" value="Kill Enslaver to free the unit."/>
-	<entry name="EreWeGo" value="'Ere We Go!"/>
+	<entry name="Enslaved" value="Заняволены"/>
+	<entry name="EnslavedDescription" value="Забіце занявольніка, каб вызваліць адзінку."/>
+	<entry name="EreWeGo" value="Мы ідзём!"/>
 	<entry name="EreWeGoDescription" value="Павялічвае рух."/>
 	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
+	
+
+	<!-- there -->
+
+	
 	<entry name="ExtraInfantryArmour" value="Extra Infantry Armour"/>
 	<entry name="ExtraInfantryArmourDescription" value="Павялічвае браню."/>
 	<entry name="ExtraMonstrousCreatureArmour" value="Extra Monstrous Creature Armour"/>
@@ -761,7 +763,7 @@
 	<entry name="MindControl" value="Mind Control"/>
 	<entry name="MindControlDescription" value="Reduces the morale each turn."/>
 	<entry name="Misfortune" value="<string name='Actions/Misfortune'/>"/>
-	<entry name="MisfortuneDescription" value="Increases the damage taken."/>
+	<entry name="MisfortuneDescription" value="Павялічвае атрымліваемую шкоду."/>
 	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
 	<entry name="Missing" value="Missing"/>
 	<entry name="MobRule" value="Mob Rule"/>
@@ -808,7 +810,7 @@
 	<entry name="Necrons/DefensiveProtocols" value="<string name='Actions/Necrons/DefensiveProtocols'/>"/>
 	<entry name="Necrons/DefensiveProtocolsDescription" value="Павялічвае браню."/>
 	<entry name="Necrons/DestructionProtocols" value="<string name='Actions/Necrons/DestructionProtocols'/>"/>
-	<entry name="Necrons/DestructionProtocolsDescription" value="Increases the damage taken."/>
+	<entry name="Necrons/DestructionProtocolsDescription" value="Павялічвае атрымліваемую шкоду."/>
 	<entry name="Necrons/Dynasty" value="<string name='Actions/Necrons/Dynasty'/>"/>
 	<entry name="Necrons/DynastyDescription" value="<string name='Actions/Necrons/DynastyDescription'/>"/>
 	<entry name="Necrons/EnergyBuildingBonus" value="Empyreal Accumulators"/>
@@ -932,7 +934,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="Increases the production output of Kults ov Speed."/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work—vital components are often missing or the device is simply impossible. The Ork's single-minded belief—realised in the form of the Waaagh! energy that surrounds them—fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality..."/>
 	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
-	<entry name="Orks/BustHeadsDescription" value="Reduces the morale loss."/>
+	<entry name="Orks/BustHeadsDescription" value="Зніжае страту маралі."/>
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Павялічвае вытворчасць даследаванняў."/>
@@ -1183,7 +1185,7 @@
 	<entry name="StrikedownDescription" value="Temporarily reduces the movement of target infantry unit."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
 	<entry name="Stubborn" value="Stubborn"/>
-	<entry name="StubbornDescription" value="Reduces the morale loss."/>
+	<entry name="StubbornDescription" value="Зніжае страту маралі."/>
 	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
 	<entry name="Stunned" value="Stunned"/>
 	<entry name="StunnedDescription" value="Prevents the unit from moving or acting."/>
@@ -1553,7 +1555,7 @@
 	<entry name="VoidShieldDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
 	<entry name="VoxCaster" value="Vox-Caster"/>
-	<entry name="VoxCasterDescription" value="Reduces the morale loss."/>
+	<entry name="VoxCasterDescription" value="Зніжае страту маралі."/>
 	<entry name="VoxCasterFlavor" value="A vox-caster is a reliable communications array connected to the tactical command net via tight-beam transmitters."/>
 	<entry name="Waaagh" value="Waaagh!"/>
 	<entry name="WaaaghDescription" value="Павялічвае атакі."/>
