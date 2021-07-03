@@ -661,43 +661,43 @@
 	<entry name="HallucinationFlavor" value="<string name='Actions/HallucinationFlavor'/>"/>
 	<entry name="HarvestResourceFeatures" value="Збор рэсурсаў пліткі"/>
 	<entry name="HarvestResourceFeaturesDescription" value="Здабывае рэсурсы з суседніх адмысловых рэсурсаў."/>
+	<entry name="Haywire" value="Вар'ят"/>
+	<entry name="HaywireDescription" value="Павялічвае шкоду і ігнаруе браню варожых машын і фартыфікацый."/>
+	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
+	<entry name="Headquarters" value="Штаб-кватэра"/>
+	<entry name="HeadquartersDescription" value="Знішчэнне штаб-кватэры знішчае ўвесь горад."/>
+	<entry name="HeavyWeapon" value="Цяжкі"/>
+	<entry name="HeavyWeaponDescription" value="Пасля перасоўвання зніжаецца трапнасць."/>
+	<entry name="HellstormTemplate" value="Шаблон пякельны шторм"/>
+	<entry name="HellstormTemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
+	<entry name="Hero" value="Герой"/>
+	<entry name="HeroDescription" value="Павялічвае зніжэнне шкоды для пяхотных адзінак."/>
+	<entry name="HeroFlavor" value="What is it to be a hero? Many would define one as an unusually brave, smart or strong member of a species. In a universe of endless war, that sadly tends to mean someone who is very, very good at causing the deaths of their enemies, and somehow surviving."/>
+	<entry name="HighPower" value="Высокая напруга"/>
+	<entry name="HighPowerDescription" value="Актывуйце перад рухам."/>
+	<entry name="HitAndRun" value="Бі і бяжы"/>
+	<entry name="HitAndRunDescription" value="Ігнаруе зону кантролю ворага."/>
+	<entry name="HitAndRunFlavor" value="Some troops employ a flexible battle stance, engaging the foe at close quarters one moment, before peeling off to strike with renewed vigour the next."/>
+	<entry name="Homing" value="Саманавядзенне"/>
+	<entry name="HomingDescription" value="Не патрабуе прамой бачнасці."/>
+	<entry name="IgnoresCover" value="Ігнаруе хованкі"/>
+	<entry name="IgnoresCoverDescription" value="Ігнаруе змяншэнне шкоды ад далёкага бою для цэлевай адзінкі."/>
+	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
+	<entry name="Illuminated" value="Асветлены"/>
+	<entry name="IlluminatedDescription" value="Змяншае зніжэнне шкоды ад далёкага бою для цэлевай адзінкі."/>
+	<entry name="Immobilized" value="Знерухомлены"/>
+	<entry name="ImmobilizedDescription" value="Адзінка не можа рухацца."/>
+	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
+	<entry name="ImperialRuinDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
+	<entry name="ImperialRuinFlavor" value="<string name='Features/ImperialRuinFlavor'/>"/>
+	<entry name="ImperialSplendour" value="Імперская веліч"/>
+	<entry name="ImperialSplendourDescription" value="Павялічвае ўплыў."/>
+	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium—mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
 	
 	
 	<!-- there -->
 
 	
-	<entry name="Haywire" value="Haywire"/>
-	<entry name="HaywireDescription" value="Increases the damage and ignores armour against vehicles and fortifications."/>
-	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
-	<entry name="Headquarters" value="Headquarters"/>
-	<entry name="HeadquartersDescription" value="Destroying the headquarters unit destroys the entire city."/>
-	<entry name="HeavyWeapon" value="Heavy"/>
-	<entry name="HeavyWeaponDescription" value="Reduces the accuracy after moving."/>
-	<entry name="HellstormTemplate" value="Hellstorm Template"/>
-	<entry name="HellstormTemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
-	<entry name="Hero" value="Hero"/>
-	<entry name="HeroDescription" value="Increases the damage reduction of infantry units."/>
-	<entry name="HeroFlavor" value="What is it to be a hero? Many would define one as an unusually brave, smart or strong member of a species. In a universe of endless war, that sadly tends to mean someone who is very, very good at causing the deaths of their enemies, and somehow surviving."/>
-	<entry name="HighPower" value="High Power"/>
-	<entry name="HighPowerDescription" value="Active before moving."/>
-	<entry name="HitAndRun" value="Hit & Run"/>
-	<entry name="HitAndRunDescription" value="Ignores enemy zone of control."/>
-	<entry name="HitAndRunFlavor" value="Some troops employ a flexible battle stance, engaging the foe at close quarters one moment, before peeling off to strike with renewed vigour the next."/>
-	<entry name="Homing" value="Homing"/>
-	<entry name="HomingDescription" value="Does not require line of sight."/>
-	<entry name="IgnoresCover" value="Ignores Cover"/>
-	<entry name="IgnoresCoverDescription" value="Ignores the ranged damage reduction of the target unit."/>
-	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
-	<entry name="Illuminated" value="Illuminated"/>
-	<entry name="IlluminatedDescription" value="Reduces the ranged damage reduction of the target unit."/>
-	<entry name="Immobilized" value="Immobilised"/>
-	<entry name="ImmobilizedDescription" value="The unit cannot move."/>
-	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
-	<entry name="ImperialRuinDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
-	<entry name="ImperialRuinFlavor" value="<string name='Features/ImperialRuinFlavor'/>"/>
-	<entry name="ImperialSplendour" value="Imperial Splendour"/>
-	<entry name="ImperialSplendourDescription" value="Increases the influence."/>
-	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium—mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
 	<entry name="Infiltrate" value="Infiltrate"/>
 	<entry name="InfiltrateDescription" value="Prevents the unit from being targeted by overwatch attacks."/>
 	<entry name="InfiltrateFlavor" value="Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike."/>
