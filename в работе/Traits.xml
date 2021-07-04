@@ -170,7 +170,7 @@
 	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="<string name='Actions/AstraMilitarumVehicleProductionEdictFlavor'/>"/>
 	<entry name="AversionToLight" value="Агіда да святла"/>
-	<entry name="AversionToLightDescription" value="Павялічвае атрымліваемую шкоду ад агнявой і мелта зброі."/>
+	<entry name="AversionToLightDescription" value="Павялічвае атрымліваемую шкоду ад агнявой і мельта зброі."/>
 	<entry name="AversionToLightFlavor" value="The horrors of the Umbra shard flourish at night, in the dark corners of Gladius. But bring a light to them and they shrink, the nightmares turning away. And bring a flamer to them…"/>
 	<entry name="Barrage" value="Загараджальны агонь"/>
 	<entry name="BarrageDescription" value="Не патрабуе прамой бачнасці, але не можа назіраць."/>
@@ -524,7 +524,7 @@
 	<entry name="Eldar/MindWarDescription" value="Зменшвае трапнасць."/>
 	<entry name="Eldar/MindWarFlavor" value="<string name='Actions/Eldar/MindWarFlavor'/>"/>
 	<entry name="Eldar/MoltenBody" value="Расплаўленае цела"/>
-	<entry name="Eldar/MoltenBodyDescription" value="Імунітэт да агнявой і мелта-зброі."/>
+	<entry name="Eldar/MoltenBodyDescription" value="Імунітэт да агнявой і мельта-зброі."/>
 	<entry name="Eldar/MoltenBodyFlavor" value="The Avatar of Khaine isn’t merely the last fragment of a dying god—more practically, it’s a construct of super-heated iron with a core that is literally lava, animated by the psychic power of the Aeldari and the god’s undying rage. Heating it up only makes it more angry…"/>
 	<entry name="Eldar/OreBuildingBonus" value="Эфектыўнае здабыванне"/>
 	<entry name="Eldar/OreBuildingBonusDescription" value="Павялічвае вытворчасць руды."/>
@@ -674,7 +674,7 @@
 	<entry name="HeroDescription" value="Павялічвае зніжэнне шкоды для пяхотных адзінак."/>
 	<entry name="HeroFlavor" value="What is it to be a hero? Many would define one as an unusually brave, smart or strong member of a species. In a universe of endless war, that sadly tends to mean someone who is very, very good at causing the deaths of their enemies, and somehow surviving."/>
 	<entry name="HighPower" value="Высокая напруга"/>
-	<entry name="HighPowerDescription" value="Актывуйце перад рухам."/>
+	<entry name="HighPowerDescription" value="Актывуецца перад рухам."/>
 	<entry name="HitAndRun" value="Бі і бяжы"/>
 	<entry name="HitAndRunDescription" value="Ігнаруе зону кантролю ворага."/>
 	<entry name="HitAndRunFlavor" value="Some troops employ a flexible battle stance, engaging the foe at close quarters one moment, before peeling off to strike with renewed vigour the next."/>
@@ -693,79 +693,79 @@
 	<entry name="ImperialSplendour" value="Імперская веліч"/>
 	<entry name="ImperialSplendourDescription" value="Павялічвае ўплыў."/>
 	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium—mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
+	<entry name="Infiltrate" value="Праніканне"/>
+	<entry name="InfiltrateDescription" value="Прадухіляе атаку адзінкі з боку назіральніка."/>
+	<entry name="InfiltrateFlavor" value="Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike."/>
+	<entry name="Invulnerable" value="Непаражальны"/>
+	<entry name="InvulnerableDescription" value="Гэтая адзінка непаражальная."/>
+	<entry name="IronHalo" value="Жалезны арэол"/>
+	<entry name="IronHaloDescription" value="Павялічвае зніжэнне шкоды."/>
+	<entry name="IronHaloFlavor" value="The iron halo is an honour granted to Space Marine commanders and a symbol of their exceptional bravery and wisdom. Usually mounted upon the backpack or built into an armoured collar, it contains an energy field that wards against even the most potent of enemy weapons."/>
+	<entry name="IronWill" value="Жалезная воля"/>
+	<entry name="IronWillDescription" value="<string name='Actions/IronWillDescription'/>"/>
+	<entry name="IronWillFlavor" value="<string name='Actions/IronWillFlavor'/>"/>
+	<entry name="ItWillNotDie" value="Гэта не памрэ"/>
+	<entry name="ItWillNotDieDescription" value="Аднаўляе здароўе кожны крок."/>
+	<entry name="ItWillNotDieFlavor" value="In the dark corners of the galaxy, there are creatures that heal at a terrifying speed."/>
+	<entry name="JetPack" value="Рэактыўны ранец"/>
+	<entry name="JetPackDescription" value="Адзінка можа перасоўвацца праз ваду. Ігнаруе штрафы ад ракі і пустазелля-дроту."/>
+	<entry name="JetPackFlavor" value="Jet packs are designed to provide stable firing platforms rather than a means of getting into close combat."/>
+	<entry name="Jetbike" value="Рэактыўны матацыкл"/>
+	<entry name="JetbikeDescription" value="Адзінка можа перасоўвацца праз ваду. Ігнаруе штрафы ад ракі і пустазелля-дроту."/>
+	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Aeldari had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
+	<entry name="Jink" value="<string name='Actions/Jink'/>"/>
+	<entry name="JinkDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою, але зніжае трапнасць."/>
+	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
+	<entry name="Killshot" value="Смяротны стрэл"/>
+	<entry name="KillshotDescription" value="Павялічвае шкоду супраць жахлівых стварэнняў, машын і фартыфікацый, калі знаходзіцца поруч з хаўрусным драпежнікам."/>
+	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron—a trio of Predators—their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
+	<entry name="Lance" value="Дзіда"/>
+	<entry name="LanceDescription" value="Абмяжоўвае браню цэлевай адзінкі."/>
+	<entry name="LanceFlavor" value="The terror of tank commanders, a lance weapon fires a concentrated beam of energy that can bore through any armour, regardless of thickness."/>
+	<entry name="LargeBlast" value="Вялікі выбух"/>
+	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="LargeBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="LastStand" value="Апошні бой"/>
+	<entry name="LastStandDescription" value="Павялічвае мараль."/>
+	<entry name="LastStandFlavor" value="“Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”<br/>  — Chaplain Armand Titus of the Howling Griffons"/>
+	<entry name="LifeDrain" value="Знясіленне жыцця"/>
+	<entry name="LifeDrainDescription" value="Павялічвае шкоду па пяхоце."/>
+	<entry name="LifeSteal" value="Крадзеж жыцця"/>
+	<entry name="LifeStealDescription" value="Ператворвае шкоду ў вылячэнне для гэтай і суседніх пяхотных адзінак."/>
+	<entry name="LinebreakerBombardment" value="Лінейнае бамбаванне"/>
+	<entry name="LinebreakerBombardmentDescription" value="Ігнаруе зніжэнне шкоды ад далёкага бою цэлевай адзінкі, калі знаходзіцца поруч з хаўрусным ачышчальнікам."/>
+	<entry name="Luminagen" value="Люмінаген"/>
+	<entry name="LuminagenDescription" value="Часова зніжае зніжае шкоду ад далёкага бою цэлевай адзінкі."/>
+	<entry name="LocatorBeacon" value="Маяк-лакатар"/>
+	<entry name="LocatorBeaconDescription" value="Дазваляе не губляць ачкоў дзеянняў за арбітальнае разгортванне, калі разгортванне адбываецца поруч з гэтай адзінкай."/>
+	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
+	<entry name="LowPower" value="Малая напруга"/>
+	<entry name="LowPowerDescription" value="Актывуецца пасля руху."/>
+	<entry name="MachineEmpathy" value="Эмпатыя машын"/>
+	<entry name="MachineEmpathyDescription" value="Аднаўляе здароўе."/>
+	<entry name="MachineEmpathyFlavor" value="<string name='Actions/MachineEmpathyFlavor'/>"/>
+	<entry name="MannedWeapon" value="Пілатаваная зброя"/>
+	<entry name="MannedWeaponDescription" value="Патрабуе груз для стральбы."/>
+	<entry name="MassiveBlast" value="Масіўны выбух"/>
+	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Melee" value="Блізкі бой"/>
+	<entry name="MeleeDescription" value="Не можа назіраць."/>
+	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="Melta" value="Мельта"/>
+	<entry name="MeltaDescription" value="Павялічвае бронепрабівальнасць на палове дыстанцыі."/>
+	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="MindControl" value="Кантроль розуму"/>
+	<entry name="MindControlDescription" value="Зніжае мараль кожны крок."/>
+	<entry name="Misfortune" value="<string name='Actions/Misfortune'/>"/>
+	<entry name="MisfortuneDescription" value="Павялічвае атрымліваемую шкоду."/>
+	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
+	<entry name="Missing" value="Адсутнічае"/>
 	
 	
 	<!-- there -->
 
 	
-	<entry name="Infiltrate" value="Infiltrate"/>
-	<entry name="InfiltrateDescription" value="Prevents the unit from being targeted by overwatch attacks."/>
-	<entry name="InfiltrateFlavor" value="Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike."/>
-	<entry name="Invulnerable" value="Invulnerable"/>
-	<entry name="InvulnerableDescription" value="This unit is invulnerable."/>
-	<entry name="IronHalo" value="Iron Halo"/>
-	<entry name="IronHaloDescription" value="Павялічвае зніжэнне шкоды."/>
-	<entry name="IronHaloFlavor" value="The iron halo is an honour granted to Space Marine commanders and a symbol of their exceptional bravery and wisdom. Usually mounted upon the backpack or built into an armoured collar, it contains an energy field that wards against even the most potent of enemy weapons."/>
-	<entry name="IronWill" value="Iron Will"/>
-	<entry name="IronWillDescription" value="<string name='Actions/IronWillDescription'/>"/>
-	<entry name="IronWillFlavor" value="<string name='Actions/IronWillFlavor'/>"/>
-	<entry name="ItWillNotDie" value="It Will Not Die"/>
-	<entry name="ItWillNotDieDescription" value="Аднаўляе здароўе кожны крок."/>
-	<entry name="ItWillNotDieFlavor" value="In the dark corners of the galaxy, there are creatures that heal at a terrifying speed."/>
-	<entry name="JetPack" value="Jet Pack"/>
-	<entry name="JetPackDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
-	<entry name="JetPackFlavor" value="Jet packs are designed to provide stable firing platforms rather than a means of getting into close combat."/>
-	<entry name="Jetbike" value="Jetbike"/>
-	<entry name="JetbikeDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed."/>
-	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Aeldari had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
-	<entry name="Jink" value="<string name='Actions/Jink'/>"/>
-	<entry name="JinkDescription" value="Increases the ranged damage reduction but Зніжае трапнасць."/>
-	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
-	<entry name="Killshot" value="Killshot"/>
-	<entry name="KillshotDescription" value="Increases the damage against monstrous creatures, vehicles and fortifications when adjacent to an allied Predator."/>
-	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron—a trio of Predators—their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
-	<entry name="Lance" value="Lance"/>
-	<entry name="LanceDescription" value="Limits the armour of the target unit."/>
-	<entry name="LanceFlavor" value="The terror of tank commanders, a lance weapon fires a concentrated beam of energy that can bore through any armour, regardless of thickness."/>
-	<entry name="LargeBlast" value="Large Blast"/>
-	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
-	<entry name="LargeBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="LastStand" value="Last Stand"/>
-	<entry name="LastStandDescription" value="Increases the morale."/>
-	<entry name="LastStandFlavor" value="“Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”<br/>  — Chaplain Armand Titus of the Howling Griffons"/>
-	<entry name="LifeDrain" value="Life Drain"/>
-	<entry name="LifeDrainDescription" value="Increases the damage against infantry."/>
-	<entry name="LifeSteal" value="Life Steal"/>
-	<entry name="LifeStealDescription" value="Converts damage into healing for this and adjacent infantry units."/>
-	<entry name="LinebreakerBombardment" value="Linebreaker Bombardment"/>
-	<entry name="LinebreakerBombardmentDescription" value="Ignores the ranged damage reduction of the target unit when adjacent to an allied Vindicator."/>
-	<entry name="Luminagen" value="Luminagen"/>
-	<entry name="LuminagenDescription" value="Temporarily decreases the ranged damage reduction of the target unit."/>
-	<entry name="LocatorBeacon" value="Locator Beacon"/>
-	<entry name="LocatorBeaconDescription" value="Causes orbital deployment to not consume action points when deploying adjacent to this unit."/>
-	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
-	<entry name="LowPower" value="Low Power"/>
-	<entry name="LowPowerDescription" value="Active after moving."/>
-	<entry name="MachineEmpathy" value="Machine Empathy"/>
-	<entry name="MachineEmpathyDescription" value="Restores hitpoints."/>
-	<entry name="MachineEmpathyFlavor" value="<string name='Actions/MachineEmpathyFlavor'/>"/>
-	<entry name="MannedWeapon" value="Manned Weapon"/>
-	<entry name="MannedWeaponDescription" value="Requires cargo to fire."/>
-	<entry name="MassiveBlast" value="Massive Blast"/>
-	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
-	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="Melee" value="Melee"/>
-	<entry name="MeleeDescription" value="Cannot overwatch."/>
-	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
-	<entry name="Melta" value="Melta"/>
-	<entry name="MeltaDescription" value="Increases the armour penetration at half range."/>
-	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
-	<entry name="MindControl" value="Mind Control"/>
-	<entry name="MindControlDescription" value="Зніжае мараль кожны крок."/>
-	<entry name="Misfortune" value="<string name='Actions/Misfortune'/>"/>
-	<entry name="MisfortuneDescription" value="Павялічвае атрымліваемую шкоду."/>
-	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
-	<entry name="Missing" value="Missing"/>
 	<entry name="MobRule" value="Mob Rule"/>
 	<entry name="MobRuleDescription" value="Зніжае страты маралі ў залежнасці ад колькасці хаўрусных адзінак у вобласці."/>
 	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
@@ -901,7 +901,7 @@
 	<entry name="OpenToppedDescription" value="Класіфікацыя."/>
 	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction. However, such vehicles make for excellent assault transports as their passengers can disembark with much greater ease."/>
 	<entry name="OrationOfRestoration" value="Oration of Restoration"/>
-	<entry name="OrationOfRestorationDescription" value="Restores hitpoints."/>
+	<entry name="OrationOfRestorationDescription" value="Аднаўляе здароўе."/>
 	<entry name="Ordnance" value="Ordnance"/>
 	<entry name="OrdnanceDescription" value="Increases the armour penetration against vehicles and fortifications. Not usable by infantry after moving."/>
 	<entry name="OrkoidFungus" value="Orkoid Fungus"/>
