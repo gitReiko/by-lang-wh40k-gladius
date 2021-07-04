@@ -761,140 +761,140 @@
 	<entry name="MisfortuneDescription" value="Павялічвае атрымліваемую шкоду."/>
 	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
 	<entry name="Missing" value="Адсутнічае"/>
-	
-	
-	<!-- there -->
-
-	
-	<entry name="MobRule" value="Mob Rule"/>
+	<entry name="MobRule" value="Самасуд"/>
 	<entry name="MobRuleDescription" value="Зніжае страты маралі ў залежнасці ад колькасці хаўрусных адзінак у вобласці."/>
 	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
-	<entry name="MobileCommand" value="Mobile Command"/>
-	<entry name="MobileCommandDescription" value="Passive abilities work for cargo embarked on this transport."/>
+	<entry name="MobileCommand" value="Мабільная каманда"/>
+	<entry name="MobileCommandDescription" value="Пасіўныя здольнасці працуюць на загружаны на гэты транспарт груз."/>
 	<entry name="MobileCommandFlavor" value="A transport vehicle is typically sealed, rendering any troops ineffective (but protected) until they reach their destination. Unlike gun slits, communication equipment doesn’t compromise the protection, as the Imperial Chimera command variant proves out, enabling commanders to continue to direct their forces."/>
-	<entry name="Monofilament" value="Monofilament"/>
-	<entry name="MonofilamentDescription" value="Scales the accuracy with the maximum movement of the target unit. Павялічвае бронепрабівальнасць."/>
+	<entry name="Monofilament" value="Мананітка"/>
+	<entry name="MonofilamentDescription" value="Трапнасць залежыць ад максімальнага руху адзінкі-цэлі. Павялічвае бронепрабівальнасць."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
-	<entry name="MonstrousCreature" value="Monstrous Creature"/>
+	<entry name="MonstrousCreature" value="Жахлівае стварэнне"/>
 	<entry name="MonstrousCreatureDescription" value="Класіфікацыя."/>
 	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank – like theTyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
-	<entry name="MoraleSoak" value="Morale Soak"/>
-	<entry name="MoraleSoakDescription" value="Reduces the damage by the target's morale."/>
-	<entry name="MoveThroughCover" value="Move Through Cover"/>
-	<entry name="MoveThroughCoverDescription" value="Negates the movement penalty in forests and imperial ruins."/>
+	<entry name="MoraleSoak" value="Паглынанне маралі"/>
+	<entry name="MoraleSoakDescription" value="Зніжае шкоду мараллю цэлі."/>
+	<entry name="MoveThroughCover" value="Рух праз хованкі"/>
+	<entry name="MoveThroughCoverDescription" value="Адмаўляе штраф за перасоўванне ў лясах і імперскіх руінах."/>
 	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
-	<entry name="Necrons/AircraftBuildingBonus" value="Orphic Starkness"/>
+	<entry name="Necrons/AircraftBuildingBonus" value="Арфічная дасканаласць"/>
 	<entry name="Necrons/AircraftBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Necrons/AircraftBuildingBonusFlavor" value="This inhuman expanse of stone now seems to bend impossibly, filling more space than there is. The Necron flying machines stretch and flicker in and out of existence as they traverse it."/>
-	<entry name="Necrons/AttackCityBonus" value="Static Targetting"/>
-	<entry name="Necrons/AttackCityBonusDescription" value="Increases the accuracy against units in cities."/>
+	<entry name="Necrons/AttackCityBonus" value="Статычнае нацэльванне"/>
+	<entry name="Necrons/AttackCityBonusDescription" value="Павялічвае трапнасць супраць адзінак у гарадах."/>
 	<entry name="Necrons/AttackCityBonusFlavor" value="The Necrons' technology may have been raised from dusty ancient tombs, but few races in the past 60 million years have matched their prowess in manipulating dimensional variables. No wall, bunker or laser grid is a defense against such weaponry."/>
-	<entry name="Necrons/BlastDamage" value="Dispersed Targetting"/>
+	<entry name="Necrons/BlastDamage" value="Дыспергаванае нацэльванне"/>
 	<entry name="Necrons/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Necrons/BlastDamageFlavor" value="Human targeting systems tend to focus on accuracy, narrowing the dispersal of a weapon's shots. Counter-intuitively, the more advanced Necron targeting systems spread a weapon's attacks out, yet somehow still increase the chance of each shot to hit."/>
 	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
 	<entry name="Necrons/BloodyCrusadeDescription" value="Павялічвае шкоду."/>
-	<entry name="Necrons/CityTier2" value="Preliminary Excavation"/>
+	<entry name="Necrons/CityTier2" value="Папярэднія раскопы"/>
 	<entry name="Necrons/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Necrons/CityTier2Flavor" value="More of the ancient city has been uncovered by the digging slaves, who are now turned to restoring the long-buried buildings."/>
-	<entry name="Necrons/CityTier3" value="Unearthed City"/>
+	<entry name="Necrons/CityTier3" value="Падняты горад"/>
 	<entry name="Necrons/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Necrons/CityTier3Flavor" value="The entirety of the buried necropolis has now been revealed, resplendent in its mind-bending horror."/>
-	<entry name="Necrons/ConstructionBuildingBonus" value="Slave Enrichment"/>
+	<entry name="Necrons/ConstructionBuildingBonus" value="Узбагачэнне за кошт рабоў"/>
 	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="Minor modifications to your slaves' bodies and minds enables them to sleep less and work more, for as long as their fragile bodies last."/>
-	<entry name="Necrons/CtanNecrodermis" value="C'tan Necrodermis"/>
+	<entry name="Necrons/CtanNecrodermis" value="Нэкрадэрміс к'тан"/>
 	<entry name="Necrons/CtanNecrodermisDescription" value="Павялічвае зніжэнне шкоды."/>
-	<entry name="Necrons/CtanNecrodermisBlast" value="C'tan Necrodermis Blast"/>
-	<entry name="Necrons/CtanNecrodermisBlastDescription" value="Damages nearby units when dying."/>
+	<entry name="Necrons/CtanNecrodermisBlast" value="Выбух нэкрадэрміса к'тан"/>
+	<entry name="Necrons/CtanNecrodermisBlastDescription" value="Пры смерці наносіць шкоду найблізкім адзінкам."/>
 	<entry name="Necrons/DefensiveProtocols" value="<string name='Actions/Necrons/DefensiveProtocols'/>"/>
 	<entry name="Necrons/DefensiveProtocolsDescription" value="Павялічвае браню."/>
 	<entry name="Necrons/DestructionProtocols" value="<string name='Actions/Necrons/DestructionProtocols'/>"/>
 	<entry name="Necrons/DestructionProtocolsDescription" value="Павялічвае атрымліваемую шкоду."/>
 	<entry name="Necrons/Dynasty" value="<string name='Actions/Necrons/Dynasty'/>"/>
 	<entry name="Necrons/DynastyDescription" value="<string name='Actions/Necrons/DynastyDescription'/>"/>
-	<entry name="Necrons/EnergyBuildingBonus" value="Empyreal Accumulators"/>
+	<entry name="Necrons/EnergyBuildingBonus" value="Эмпірэйскія акумулятары"/>
 	<entry name="Necrons/EnergyBuildingBonusDescription" value="Павялічвае вытворчасць энергіі."/>
 	<entry name="Necrons/EnergyBuildingBonusFlavor" value="Little has changed on the outside of this baroque sarcophagus—yet, inside its unheimlich interior, dark Cryptek devices are stabilising a much improved device."/>
-	<entry name="Necrons/EntropicStrike" value="Entropic Strike"/>
+	<entry name="Necrons/EntropicStrike" value="Энтрапічны ўдар"/>
 	<entry name="Necrons/EntropicStrikeDescription" value="Мінімальная шкода залежыць ад здароўя мэтавай адзінкі."/>
-	<entry name="Necrons/EternityGate" value="Eternity Gate"/>
-	<entry name="Necrons/EternityGateDescription" value="Necron units can teleport to adjacent tiles."/>
+	<entry name="Necrons/EternityGate" value="Брама вечнасці"/>
+	<entry name="Necrons/EternityGateDescription" value="Адзінкі некронаў могуць тэлепартавацца на суседнія пліткі."/>
 	<entry name="Necrons/EternityGateFlavor" value="A Monolith's eternity gate is a dimensional corridor between the battlefield and a tomb world, allowing legions of Necron warriors to cross vast distances and enter the fray with a single step."/>
 	<entry name="Necrons/GloomPrism" value="<string name='Actions/Necrons/GloomPrism'/>"/>
-	<entry name="Necrons/GloomPrismDescription" value="Increases the witchfire damage reduction."/>
+	<entry name="Necrons/GloomPrismDescription" value="Павялічвае зніжэнне шкоды ад вядзьмарскага агню."/>
 	<entry name="Necrons/GloomPrismFlavor" value="<string name='Actions/Necrons/GloomPrismFlavor'/>"/>
 	<entry name="Necrons/GravityPulse" value="<string name='Actions/Necrons/GravityPulse'/>"/>
 	<entry name="Necrons/GravityPulseDescription" value="Reduces the movement of and deals damage to adjacent flyers, jetbikes and skimmers."/>
-	<entry name="Necrons/GrowthBonus" value="Reanimation Rituals"/>
+	<entry name="Necrons/GrowthBonus" value="Рытуалы рэанімацыі"/>
 	<entry name="Necrons/GrowthBonusDescription" value="Павялічвае хуткасць узросту гарадоў."/>
 	<entry name="Necrons/GrowthBonusFlavor" value="Establishing more efficient protocols for recovering the long-buried Necrons from their tombs reduces the loss from clumsy slave excavators."/>
-	<entry name="Necrons/HousingBuildingBonus" value="Shelter Compression"/>
-	<entry name="Necrons/HousingBuildingBonusDescription" value="Increases the population limit."/>
+	<entry name="Necrons/HousingBuildingBonus" value="Кампрэсія сховішчаў"/>
+	<entry name="Necrons/HousingBuildingBonusDescription" value="Павялічвае ліміт насельніцтва."/>
 	<entry name="Necrons/HousingBuildingBonusFlavor" value="By altering the dimensional constraints of each shelter, many more Necrons can be accommodated for repair or maintenance."/>
-	<entry name="Necrons/ImmuneToNaturalLaw" value="Immune to Natural Law"/>
-	<entry name="Necrons/ImmuneToNaturalLawDescription" value="The unit can move over water and ignores the penalties of rivers and wire weed. Ignores enemy zone of control."/>
-	<entry name="Necrons/InfantryBuildingBonus" value="Core Refinements"/>
-	<entry name="Necrons/InfantryBuildingBonusDescription" value="Increases the production ouput."/>
+	<entry name="Necrons/ImmuneToNaturalLaw" value="Імунітэт да натуральнага закона"/>
+	<entry name="Necrons/ImmuneToNaturalLawDescription" value="Адзінка можа перасоўвацца праз ваду і ігнаруе штрафы ад рэк і пустазелля-дроту. Ігнаруе зону кантролю ворага."/>
+	<entry name="Necrons/InfantryBuildingBonus" value="Паляпшэнні ядра"/>
+	<entry name="Necrons/InfantryBuildingBonusDescription" value="Павялічвае вытворчасць прадукцыі."/>
 	<entry name="Necrons/InfantryBuildingBonusFlavor" value="With better tools and less constraints, the Crypteks and Canopteks are able to recover a higher proportion of the buried Necrons, faster."/>
-	<entry name="Necrons/InfluenceBuildingBonus" value="Haunting Inscriptions"/>
-	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Increases the influence ouput."/>
+	<entry name="Necrons/InfluenceBuildingBonus" value="Прывідныя надпісы"/>
+	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Павялічвае вытворчасць уплыву."/>
 	<entry name="Necrons/InfluenceBuildingBonusFlavor" value="Woe betide any mortal man who gazes on these inscriptions—their sharp edges seem to waver in the corner of the eye, driving fear into human hearts."/>
-	<entry name="Necrons/InvasionBeams" value="Invasion Beams"/>
+	<entry name="Necrons/InvasionBeams" value="Прамені ўварвання"/>
 	<entry name="Necrons/InvasionBeamsDescription" value="Высадка не спажывае рух."/>
 	<entry name="Necrons/JetCharge" value="<string name='Actions/Necrons/JetCharge'/>"/>
 	<entry name="Necrons/JetChargeDescription" value="Павялічвае зніжэнне шкоды."/>
-	<entry name="Necrons/LivingMetal" value="Living Metal"/>
+	<entry name="Necrons/LivingMetal" value="Жывы метал"/>
 	<entry name="Necrons/LivingMetalDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Necrons/LivingMetalFlavor" value="It's understandable why the Necrons build their vehicles from the same living metal as their own bodies, given how durable it is and how well-suited it is to repairing damage sustained in the field."/>
-	<entry name="Necrons/LoyaltyBuildingBonus" value="Baroque Covenant"/>
-	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Increases the loyalty ouput."/>
+	<entry name="Necrons/LoyaltyBuildingBonus" value="Барочны храм"/>
+	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Павялічвае вытворчасць лаяльнасці."/>
 	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="More of the Shrine's hidden tale is now revealed, though the story still ends before the Silent King can revenge himself on the voracious Star Gods that stripped his people of their souls."/>
-	<entry name="Necrons/MeleeDamage" value="Necrodermic Blades"/>
+	<entry name="Necrons/MeleeDamage" value="Клінкі з нэкрадэрміса"/>
 	<entry name="Necrons/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Necrons/MeleeDamageFlavor" value="Made from impossibly thin slices of the Necron's utilitarian living metal, these blades pass through most skin, bone and armour with disturbing ease."/>
-	<entry name="Necrons/Nebuloscope" value="Nebuloscope"/>
-	<entry name="Necrons/NebuloscopeDescription" value="Ignores enemy ranged damage reduction."/>
+	<entry name="Necrons/Nebuloscope" value="Нэбуласкоп"/>
+	<entry name="Necrons/NebuloscopeDescription" value="Ігнаруе змяншэнне шкоды ад далёкага бою ворага."/>
 	<entry name="Necrons/NebuloscopeFlavor" value="This arcane device allows the Tomb Blade's pilot to track his prey through different dimensions, leaving them no place to hide."/>
-	<entry name="Necrons/OreBuildingBonus" value="Trusted Slaves"/>
-	<entry name="Necrons/OreBuildingBonusDescription" value="Increases the ore ouput."/>
+	<entry name="Necrons/OreBuildingBonus" value="Надзейныя рабы"/>
+	<entry name="Necrons/OreBuildingBonusDescription" value="Павялічвае здабычу руды."/>
 	<entry name="Necrons/OreBuildingBonusFlavor" value="Putting some faith in the enslaved young races of Old One creation and improving their lot might seem foolish, but it increases productivity."/>
 	<entry name="Necrons/Chronometron" value="<string name='Actions/Necrons/Chronometron'/>"/>
 	<entry name="Necrons/ChronometronDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Necrons/ChronometronFlavor" value="<string name='Actions/Necrons/ChronometronFlavor'/>"/>
 	<entry name="Necrons/PhaseShiftGenerator" value="<string name='Actions/Necrons/PhaseShiftGenerator'/>"/>
-	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Павялічвае непаражальнае зніжэнне шкоды."/>
 	<entry name="Necrons/PhaseShiftGeneratorFlavor" value="<string name='Actions/Necrons/PhaseShiftGeneratorFlavor'/>"/>
 	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
 	<entry name="Necrons/QuantumShieldingDescription" value="Павялічвае браню."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
-	<entry name="Necrons/ReanimationProtocols" value="Reanimation Protocols"/>
+	<entry name="Necrons/ReanimationProtocols" value="Пратаколы рэанімацыі"/>
 	<entry name="Necrons/ReanimationProtocolsDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Necrons/ReanimationProtocolsFlavor" value="Necrons have sophisticated self-repair systems that return even critically damaged warriors to the fight."/>
 	<entry name="Necrons/Reaper" value="<string name='Actions/Necrons/Reaper'/>"/>
 	<entry name="Necrons/ReaperFlavor" value="<string name='Actions/Necrons/ReaperFlavor'/>"/>
-	<entry name="Necrons/ResearchBuildingBonus" value="Cryptek Datastyles"/>
-	<entry name="Necrons/ResearchBuildingBonusDescription" value="Increases the research ouput."/>
+	<entry name="Necrons/ResearchBuildingBonus" value="Стылі дадзеных крыптэкаў"/>
+	<entry name="Necrons/ResearchBuildingBonusDescription" value="Павялічвае вытворчасць даследаванняў."/>
 	<entry name="Necrons/ResearchBuildingBonusFlavor" value="Dreaming up new technologies is the purview of the Crypteks—and with Datastyles they can access shared information without the risks presented by a direct mind-to-mind connection."/>
-	<entry name="Necrons/ShieldVane" value="Shield Vane"/>
+	<entry name="Necrons/ShieldVane" value="Стабілізатар шчытоў"/>
 	<entry name="Necrons/ShieldVaneDescription" value="Павялічвае браню."/>
 	<entry name="Necrons/ShieldVaneFlavor" value="Tomb Blades that are deployed directly into the midst of a world's defences are often equipped with additional armour panels."/>
 	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
-	<entry name="Necrons/SleepingSentryDescription" value="Increases the damage reduction but prevents the unit from moving or taking an action."/>
-	<entry name="Necrons/TargetRelayed" value="Target Relayed"/>
-	<entry name="Necrons/TargetRelayedDescription" value="Increases the ranged accuracy of Necrons against the unit."/>
+	<entry name="Necrons/SleepingSentryDescription" value="Павялічвае зніжэнне шкоды, але не дае адзінцы рухацца або здзяйсняць дзеянні."/>
+	<entry name="Necrons/TargetRelayed" value="Рэтрансляцыя цэлі"/>
+	<entry name="Necrons/TargetRelayedDescription" value="Павялічвае трапнасць стральбы некронаў супраць адзінак."/>
 	<entry name="Necrons/TargetRelayedFlavor" value="<string name='Traits/Necrons/TargetingRelayFlavor'/>"/>
-	<entry name="Necrons/TargetingRelay" value="Targeting Relay"/>
-	<entry name="Necrons/TargetingRelayDescription" value="Temporarily increases the ranged accuracy of Necrons against the target unit."/>
+	<entry name="Necrons/TargetingRelay" value="Рэле нацэльвання"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Часова павялічвае трапнасць стральбы некронаў па цэлі."/>
 	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers might appear fragile, but their unique Quantum Shielding keeps them in one piece, in order that their Targeting Relay can amplify the firepower of nearby Necrons."/>
-	<entry name="Necrons/Technomancer" value="Technomancer"/>
+	<entry name="Necrons/Technomancer" value="Тэхнамант"/>
 	<entry name="Necrons/TechnomancerDescription" value="Павялічвае зніжэнне шкоды."/>
-	<entry name="Necrons/VehiclesBuildingBonus" value="Canoptek Workers"/>
-	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Increases the production ouput."/>
+	<entry name="Necrons/VehiclesBuildingBonus" value="Каноптэкавыя працоўныя"/>
+	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Павялічвае вытворчасць прадукцыі."/>
 	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Assigning Canoptek constructors to maintain and repair the various long-dormant war machines greatly speeds up their refurbishment."/>
-	<entry name="Necrons/VengeanceOfTheEnchained" value="Vengeance of the Enchained"/>
-	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Death explosion causes extra damage."/>
+	<entry name="Necrons/VengeanceOfTheEnchained" value="Помста скаваных"/>
+	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Смяротны выбух наносіць дадатковую шкоду."/>
 	<entry name="Necrons/WrithingWorldscape" value="<string name='Actions/Necrons/WrithingWorldscape'/>"/>
+	
+	
+	<!-- there -->
+
+
 	<entry name="NoEscape" value="No Escape"/>
 	<entry name="NoEscapeDescription" value="Increases the attacks against open-topped units."/>
 	<entry name="OpenTopped" value="Open-Topped"/>
@@ -1345,7 +1345,7 @@
 	<entry name="Tau/UtopiaBonusDescription" value="Increases the loyalty bonus from new building types."/>
 	<entry name="Tau/UtopiaBonusFlavor" value="The ideal T’au city is an example to all others, displaying a perfect balance of the various castes of the T’au race with their client and auxiliary races, all living in harmony."/>
 	<entry name="Tau/VectoredRetroThrusters" value="Vectored Retro-Thrusters"/>
-	<entry name="Tau/VectoredRetroThrustersDescription" value="Increases the movement and ignores enemy zone of control."/>
+	<entry name="Tau/VectoredRetroThrustersDescription" value="Increases the movement and Ігнаруе зону кантролю ворага."/>
 	<entry name="Tau/VectoredRetroThrustersFlavor" value="<string name='Actions/Tau/VectoredRetroThrustersFlavor'/>"/>
 	<entry name="Tau/VelocityTracker" value="Velocity Tracker"/>
 	<entry name="Tau/VelocityTrackerDescription" value="Increases the ranged accuracy against flyers."/>
