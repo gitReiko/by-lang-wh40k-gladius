@@ -1147,131 +1147,131 @@
 	<entry name="SoulBlazeDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="SoulBlazed" value="Падпаленая душа"/>
 	<entry name="SoulBlazedDescription" value="<string name='Traits/SoulBlazeDescription'/>"/>
-	
-	
-	<!-- there -->
-
-	
 	<entry name="SpaceMarines/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
 	<entry name="SpaceMarines/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
 	<entry name="SpaceMarines/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
 	<entry name="SpaceMarines/BoltDamage" value="<string name='Traits/AstraMilitarum/BoltDamage'/>"/>
 	<entry name="SpaceMarines/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
 	<entry name="SpaceMarines/BoltDamageFlavor" value="<string name='Traits/AstraMilitarum/BoltDamageFlavor'/>"/>
-	<entry name="SpaceMarines/CityTier2" value="Fortress Expansion"/>
+	<entry name="SpaceMarines/CityTier2" value="Разбудова крэпасці"/>
 	<entry name="SpaceMarines/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="SpaceMarines/CityTier2Flavor" value="The second stage of the Fortress' construction has started. With the core facilities established, the Techmarines are authorised to expand their operations and create a second defensive line."/>
-	<entry name="SpaceMarines/CityTier3" value="Advanced Redoubts"/>
+	<entry name="SpaceMarines/CityTier3" value="Прасунутыя рэдуты"/>
 	<entry name="SpaceMarines/CityTier3Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
 	<entry name="SpaceMarines/CityTier3Flavor" value="The third stage of the Fortress construction involves the creation of independent garrisons and buttresses along an additional line of city walls. In the shadow of those cyclopean barriers, Servitors and serfs spend their lives, scurrying from one task to another."/>
-	<entry name="SpaceMarines/CityTier4" value="Fortress Supreme"/>
+	<entry name="SpaceMarines/CityTier4" value="Найвялікая крэпасць"/>
 	<entry name="SpaceMarines/CityTier4Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
 	<entry name="SpaceMarines/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
 	<entry name="SpaceMarines/LasDamage" value="<string name='Traits/AstraMilitarum/LasDamage'/>"/>
 	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Traits/AstraMilitarum/LasDamageDescription'/>"/>
 	<entry name="SpaceMarines/LasDamageFlavor" value="<string name='Traits/AstraMilitarum/LasDamageFlavor'/>"/>
-	<entry name="SpaceMarines/MeleeDamage" value="Close Combat Mastery"/>
+	<entry name="SpaceMarines/MeleeDamage" value="Майстэрства блізкага бою"/>
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="Certain Adeptus Astartes chapters—the Space Wolves, the Blood Drinkers, the Minotaurs—are renowned for their mastery of close-quarters combat. To come to blows with even the lowliest Scout Marine from such a chapter is to fight generations of knowledge and training."/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
 	<entry name="SpaceSlipDescription" value="Павялічвае зніжэнне шкоды."/>
-	<entry name="Stealth" value="Stealth"/>
+	<entry name="Stealth" value="Утойлівасць"/>
 	<entry name="StealthDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
-	<entry name="StrafingRun" value="Strafing Run"/>
-	<entry name="StrafingRunDescription" value="Increases the ranged accuracy against ground units."/>
+	<entry name="StrafingRun" value="Стральба на бегу"/>
+	<entry name="StrafingRunDescription" value="Павялічвае трапнасць далёкага бою па наземных адзінках."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
-	<entry name="Strikedown" value="Strikedown"/>
-	<entry name="StrikedownDescription" value="Temporarily reduces the movement of target infantry unit."/>
+	<entry name="Strikedown" value="Збіць з ног"/>
+	<entry name="StrikedownDescription" value="Часова зменшвае рух цэлевай пяхотнай адзінкі."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
-	<entry name="Stubborn" value="Stubborn"/>
+	<entry name="Stubborn" value="Упарты"/>
 	<entry name="StubbornDescription" value="Зніжае страту маралі."/>
 	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
-	<entry name="Stunned" value="Stunned"/>
-	<entry name="StunnedDescription" value="Prevents the unit from moving or acting."/>
-	<entry name="Suicider" value="Suicider"/>
-	<entry name="SuiciderDescription" value="Enemies do not gain experience when this unit kills itself."/>
-	<entry name="Summon" value="Summon"/>
+	<entry name="Stunned" value="Ашаломлены"/>
+	<entry name="StunnedDescription" value="Прадухіляе рух або дзеянне адзінкі."/>
+	<entry name="Suicider" value="Самазгубца"/>
+	<entry name="SuiciderDescription" value="Ворагі не атрымваюць досведу, калі гэтая адзінка забівае сябе."/>
+	<entry name="Summon" value="Прызваны"/>
 	<entry name="SummonDescription" value="Класіфікацыя."/>
-	<entry name="SuperHeavy" value="Super-Heavy"/>
+	<entry name="SuperHeavy" value="Звышцяжкі"/>
 	<entry name="SuperHeavyDescription" value="Класіфікацыя."/>
 	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
-	<entry name="Supersonic" value="Supersonic"/>
+	<entry name="Supersonic" value="Звышгукавы"/>
 	<entry name="SupersonicDescription" value="Павялічвае рух."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
-	<entry name="Swarms" value="Swarms"/>
-	<entry name="SwarmsDescription" value="Damage taken is spread evenly across the whole unit group, but the group takes additional hits against blast and template weapons."/>
+	<entry name="Swarms" value="Раі"/>
+	<entry name="SwarmsDescription" value="Атрыманая шкода размяркоўваецца раўнамерна па ўсёй групе адзінак, але група атрымлівае дадатковыя ўдары ад выбуховай і шаблоннай зброі."/>
 	<entry name="SwarmsFlavor" value="These creatures are so multitudinous that they cannot be picked out individually and must be fought as a group."/>
-	<entry name="Swiftstrike" value="Swiftstrike"/>
+	<entry name="Swiftstrike" value="Хуткі ўдар"/>
 	<entry name="SwiftstrikeDescription" value="Павялічвае атакі."/>
-	<entry name="TacticalDoctrine" value="Tactical Doctrine"/>
+	<entry name="TacticalDoctrine" value="Тактычная дактрына"/>
 	<entry name="TacticalDoctrineDescription" value="Павялічвае трапнасць."/>
 	<entry name="TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
-	<entry name="Tank" value="Tank"/>
+	<entry name="Tank" value="Танк"/>
 	<entry name="TankDescription" value="Класіфікацыя."/>
 	<entry name="TankFlavor" value="Tanks can use their mass as a weapon, driving right into and through densely packed enemies. This often throws the opposing battle line into disarray, as having some monstrous metal behemoth coming straight at you is unnerving for anybody."/>
-	<entry name="TankHunters" value="Tank Hunters"/>
-	<entry name="TankHuntersDescription" value="Increases the armour penetration against enemy vehicles."/>
+	<entry name="TankHunters" value="Паляўнічыя за танкамі"/>
+	<entry name="TankHuntersDescription" value="Павялічвае бронепрабівальнасць супраць тэхнікі ворага."/>
 	<entry name="TankHuntersFlavor" value="These veterans of armoured warfare are able to identify the weak points of enemy vehicles and target their fire appropriately."/>
-	<entry name="Tau/AdvancedTargetingSystem" value="Advanced Targeting System"/>
-	<entry name="Tau/AdvancedTargetingSystemDescription" value="Increases the ranged accuracy."/>
+	<entry name="Tau/AdvancedTargetingSystem" value="Прасунутая сістэма нацэльвання"/>
+	<entry name="Tau/AdvancedTargetingSystemDescription" value="Павялічвае трапнасць далёкага бою."/>
 	<entry name="Tau/AdvancedTargetingSystemFlavor" value="An advanced targeting system assists the vehicle's gunner by identifying targets of particular value or danger and plotting fire plans to counter them."/>
-	<entry name="Tau/AutomatedRepairSystem" value="Automated Repair System"/>
+	<entry name="Tau/AutomatedRepairSystem" value="Аўтаматызаваная сістэма рамонту"/>
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="Tiny maintenance drones swarm over damaged systems to repair them in the midst of battle."/>
-	<entry name="Tau/BlacksunFilter" value="Blacksun Filter"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight."/>
+	<entry name="Tau/BlacksunFilter" value="Фільтр чорнага сонца"/>
+	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае бачнасць."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="This optical filtering suite allows vehicle sensors to target enemies at full efficiency and range, even during night fighting operations."/>
-	<entry name="Tau/BlastDamage" value="Blast Phasing"/>
+	<entry name="Tau/BlastDamage" value="Выбуховае фазаванне"/>
 	<entry name="Tau/BlastDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tau/BlastDamageFlavor" value="Area-effect weaponry has always been better placed to attack large infantry formations than hard targets like vehicles—but the Earth Caste engineers have figured a way past that. By phase-shifting the energy components of explosive and incendiary weapons, they can ensure that at least some of their effect will ‘leak’ past any shielding."/>
-	<entry name="Tau/BoltDamage" value="Brachyuran Assemblies"/>
+	<entry name="Tau/BoltDamage" value="Брахюранскія зборкі"/>
 	<entry name="Tau/BoltDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tau/BoltDamageFlavor" value="Even the finest Earth Caste technician can’t assemble the components of their rail weapons by hand. But by entrusting this work to the tiny Brachyuran race and supplying them with miniaturised tools, they can shrink the scale and lower the fundamental deviation of any delicate operations, allowing for even more finerly tuned weaponry."/>
 	<entry name="Tau/BreakComposure" value="<string name='Actions/Tau/BreakComposure'/>"/>
-	<entry name="Tau/BreakComposureDescription" value="Attacked units lose morale."/>
+	<entry name="Tau/BreakComposureDescription" value="Атакаваныя адзінкі губляюць мараль."/>
 	<entry name="Tau/BreakComposureFlavor" value="<string name='Actions/Tau/BreakComposureFlavor'/>"/>
-	<entry name="Tau/CityTier2" value="Dissemination"/>
+	<entry name="Tau/CityTier2" value="Распаўсюджванне"/>
 	<entry name="Tau/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Tau/CityTier2Flavor" value="Once a city is a certain size, the Water Caste begin a diplomatic offensive to bring more civilians to the Way—bombarding them with tailored propaganda of every form, from pamphlast drops to vid, rad and loudhailer broadcasts."/>
-	<entry name="Tau/CityTier3" value="Anthrazod Foundations"/>
+	<entry name="Tau/CityTier3" value="Антаразодавы падмурак"/>
 	<entry name="Tau/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Tau/CityTier3Flavor" value="The thick-skinned Anthrazods are a slow-thinking race normally employed by the T'au for dangerous, heavy-duty activities like asteroid mining—but directed by the Demiurg and Earth Caste, they can produce city substructures and transport tunnels like no-one else, linking up distant sectors with ease."/>
-	<entry name="Tau/CounterfireDefenceSystem" value="Counterfire Defence System"/>
-	<entry name="Tau/CounterfireDefenceSystemDescription" value="Increases the accuracy of overwatch attacks."/>
+	<entry name="Tau/CounterfireDefenceSystem" value="Сістэма абароны супраць агню"/>
+	<entry name="Tau/CounterfireDefenceSystemDescription" value="Павялічвае трапнасць атак назірання."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="<string name='Actions/Tau/CounterfireDefenceSystemFlavor'/>"/>
-	<entry name="Tau/DisruptionPod" value="Disruption Pod"/>
+	<entry name="Tau/DisruptionPod" value="Скажальная капсула"/>
 	<entry name="Tau/DisruptionPodDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Tau/DisruptionPodFlavor" value="A disruption pod throws out distorting images in both visual and magnetic spectra, making it hard to target the vehicle at range."/>
-	<entry name="Tau/DroneController" value="Drone Controller"/>
-	<entry name="Tau/DroneControllerDescription" value="Increases the accuracy of adjacent drones."/>
+	<entry name="Tau/DroneController" value="Дрон-кантролер"/>
+	<entry name="Tau/DroneControllerDescription" value="Павялічвае трапнасць суседніх дронаў."/>
 	<entry name="Tau/DroneControllerFlavor" value="<string name='Actions/Tau/DroneControllerFlavor'/>"/>
-	<entry name="Tau/DroneControllerInRange" value="Drone Controller In Range"/>
+	<entry name="Tau/DroneControllerInRange" value="Дрон-кантролер у радыусе дзеяння "/>
 	<entry name="Tau/DroneControllerInRangeDescription" value="Павялічвае трапнасць."/>
 	<entry name="Tau/DroneControllerInRangeFlavor" value="<string name='Actions/Tau/DroneControllerFlavor'/>"/>
-	<entry name="Tau/FireTeam" value="Fire Team"/>
-	<entry name="Tau/FireTeamDescription" value="Increases the ranged accuracy when adjacent to an allied vehicle or monstrous creature."/>
+	<entry name="Tau/FireTeam" value="Каманда агню"/>
+	<entry name="Tau/FireTeamDescription" value="Павялічвае трапнасць далёкага бою, калі знаходзіцца поруч з хаўруснай машынай або жахлівым стварэннем."/>
 	<entry name="Tau/FireTeamFlavor" value="Some battlesuits and battle tank sensor-systems can be networked to provide enhanced efficiency when they fight in dedicated fire teams."/>
-	<entry name="Tau/FlechetteDischarger" value="Flechette Discharger"/>
-	<entry name="Tau/FlechetteDischargerDescription" value="Damages melee attackers."/>
+	<entry name="Tau/FlechetteDischarger" value="Стралаваты разраднік"/>
+	<entry name="Tau/FlechetteDischargerDescription" value="Наносіць шкоду атакоўцам у блізкім боі."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="Powerful clusters of reactive charges are attached to the hulls of many T'au vehicles. If the enemy approaches, the clusters fire off vicious clouds of high velocity flechettes."/>
-	<entry name="Tau/GhostkeelElectrowarfareSuite" value="Ghostkeel Electrowarfare Suite"/>
-	<entry name="Tau/GhostkeelElectrowarfareSuiteDescription" value="Increases the ranged damage reduction against attacks from range 2 or higher."/>
+	<entry name="Tau/GhostkeelElectrowarfareSuite" value="Прывідны набор электразмагання"/>
+	<entry name="Tau/GhostkeelElectrowarfareSuiteDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою супраць атак з далёкасці 2 або вышэй."/>
 	<entry name="Tau/GhostkeelElectrowarfareSuiteFlavor" value="The Ghostkeel's AI electrowarfare suite aggressively scans enemy targeting spectrums and invades the foe's sensor arrays, filling them with false information and scrap-data that makes it almost impossible to effectively fire upon the battlesuit at range."/>
 	<entry name="Tau/HolophotonCountermeasures" value="<string name='Actions/Tau/HolophotonCountermeasures'/>"/>
-	<entry name="Tau/HolophotonCountermeasuresDescription" value="Decreases the ranged accuracy."/>
+	<entry name="Tau/HolophotonCountermeasuresDescription" value="Зменшвае трапнасць далёкага бою."/>
 	<entry name="Tau/HolophotonCountermeasuresFlavor" value="<string name='Actions/Tau/HolophotonCountermeasuresFlavor'/>"/>
 	<entry name="Tau/Kauyon" value="<string name='Actions/Tau/Kauyon'/>"/>
 	<entry name="Tau/KauyonDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
-	<entry name="Tau/LasDamage" value="Mor'tonium Accelerators"/>
+	<entry name="Tau/LasDamage" value="Мар'тоніумавые паскаральнікі"/>
 	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tau/LasDamageFlavor" value="As humanity has discovered to its cost, over and over, using radioactive materials in weaponry is always dangerous. It’s reasonable to assume the T’au are cognisant of this, but choose to use the recently discovered Mor’tonium in their military technology anyway. Upon exposure to air, it rapidly decays into a massive burst of ionic energy that the T’au use."/>
-	<entry name="Tau/MobileDefencePlatform" value="Mobile Defence Platform"/>
-	<entry name="Tau/MobileDefencePlatformDescription" value="Increases the movement while transporting cargo."/>
+	<entry name="Tau/MobileDefencePlatform" value="Мабільная абарончая платформа"/>
+	<entry name="Tau/MobileDefencePlatformDescription" value="Павялічвае рух пры транспартоўцы грузу."/>
 	<entry name="Tau/Montka" value="<string name='Actions/Tau/Montka'/>"/>
-	<entry name="Tau/MontkaDescription" value="Increases the damage against units below 50% hitpoints."/>
+	<entry name="Tau/MontkaDescription" value="Павялічвае шкоду па адзінках са здароўем ніжэй за 50%."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
+	
+	
+	<!-- there -->
+
+	
 	<entry name="Tau/NetworkedMarkerlight" value="Networked Markerlight"/>
 	<entry name="Tau/NetworkedMarkerlightDescription" value="Increases the ranged accuracy and ranged damage reduction bypass. The unit's attacks do not benefit from or consume Target Acquired."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
