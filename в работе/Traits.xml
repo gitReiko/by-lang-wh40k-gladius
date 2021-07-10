@@ -897,7 +897,7 @@
 	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction. However, such vehicles make for excellent assault transports as their passengers can disembark with much greater ease."/>
 	<entry name="OrationOfRestoration" value="Рэстаўрацыйная гаворка"/>
 	<entry name="OrationOfRestorationDescription" value="Аднаўляе здароўе."/>
-	<entry name="Ordnance" value="Боепрыпасы"/>
+	<entry name="Ordnance" value="Артылерыя"/>
 	<entry name="OrdnanceDescription" value="Павялічвае бронепрабівальнасць супраць машын і фартыфікацый. Нельга выкарыстоўваць пяхотай пасля перасоўвання."/>
 	<entry name="OrkoidFungus" value="Оркоідны Грыб"/>
 	<entry name="OrkoidFungusDescription" value="Аднаўляе здароўе кожны крок наземным адзінкам оркаў."/>
@@ -1002,156 +1002,156 @@
 	<entry name="Orks/Warpath" value="<string name='Actions/Orks/Warpath'/>"/>
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
-	
-	
-	<!-- there -->
-
-	
-	<entry name="Outpost" value="Outpost"/>
-	<entry name="OutpostDescription" value="Increases the damage reduction and the healing rate of allied units. Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
-	<entry name="Outflank" value="Outflank"/>
-	<entry name="OutflankDescription" value="Increases the accuracy when adjacent to an allied unit."/>
+	<entry name="Outpost" value="Аванпост"/>
+	<entry name="OutpostDescription" value="Павялічвае зніжэнне шкоды і хуткасць лячэння хаўрусных адзінак. Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
+	<entry name="Outflank" value="Абыход фланга"/>
+	<entry name="OutflankDescription" value="Павялічвае трапнасць, калі знаходзіцца поруч з хаўруснай адзінкай."/>
 	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
-	<entry name="Pinned" value="Pinned"/>
-	<entry name="PinnedDescription" value="Reduces the movement and ranged accuracy, increases the ranged damage reduction and prevents the unit from doing overwatch attacks."/>
+	<entry name="Pinned" value="Скаваны"/>
+	<entry name="PinnedDescription" value="Зменшвае рух і трапнасць у далёкім боі, павялічвае зніжэнне шкоды ад далёкага бою і не дае адзінцы здзяйсняць атакі назірання."/>
 	<entry name="PinnedFlavor" value="Coming under fire without knowing where the shots are coming from, or having ordnance rain down from the skies, can shake the resolve of even the bravest warriors, making them dive flat and cling to whatever cover presents itself."/>
-	<entry name="Pinning" value="Pinning"/>
-	<entry name="PinningDescription" value="Temporarily reduces the movement of the target fearful infantry unit and prevents it from doing overwatch attacks."/>
+	<entry name="Pinning" value="Скоўванне"/>
+	<entry name="PinningDescription" value="Часова зніжае рух цэлевай напалоханай пяхотнай адзінцы і не дае адзінцы здзяйсняць атакі назірання."/>
 	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
-	<entry name="Poisoned" value="Poisoned"/>
+	<entry name="Poisoned" value="Атручаны"/>
 	<entry name="PoisonedDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
 	<entry name="PoisonedFlavor" value="There are many virulent and lethal poisons in the dark future. It is simplicity itself to adapt such toxins for battlefield use. It does not matter whether they coat weapon-blades or bullets, or are secreted by alien monstrosities – all are lethal."/>
 	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
 	<entry name="PowerOfTheMachineSpiritDescription" value="<string name='Actions/PowerOfTheMachineSpiritDescription'/>"/>
 	<entry name="PowerOfTheMachineSpiritFlavor" value="<string name='Actions/PowerOfTheMachineSpiritFlavor'/>"/>
-	<entry name="PrecisionShots" value="Precision Shots"/>
+	<entry name="PrecisionShots" value="Трапныя стрэлы"/>
 	<entry name="PrecisionShotsDescription" value="Павялічвае трапнасць."/>
-	<entry name="PreferredEnemy" value="Preferred Enemy"/>
+	<entry name="PreferredEnemy" value="Упадабаны вораг"/>
 	<entry name="PreferredEnemyDescription" value="Павялічвае трапнасць."/>
 	<entry name="PreferredEnemyFlavor" value="Many of the galaxy's warriors train hard to overcome a particular foe, allowing them to predict the enemy's battlestances and thus land a blow or shot with greater ease."/>
-	<entry name="PrimaryWeapon" value="Primary Weapon"/>
+	<entry name="PrimaryWeapon" value="Асноўная зброя"/>
 	<entry name="PrimaryWeaponDescription" value="Павялічвае бронепрабівальнасць."/>
-	<entry name="PsychicBlock" value="Psychic Block"/>
-	<entry name="PsychicBlockDescription" value="Blocks the damage and effects of the next enemy psychic power."/>
-	<entry name="PsychicHood" value="Psychic Hood"/>
-	<entry name="PsychicHoodDescription" value="Increases the witchfire damage reduction."/>
-	<entry name="PsychicLash" value="Psychic Lash"/>
-	<entry name="PsychicLashDescription" value="Attacks penetrate all armour."/>
-	<entry name="PsychicPower" value="Psychic Power"/>
+	<entry name="PsychicBlock" value="Псіхічны блок"/>
+	<entry name="PsychicBlockDescription" value="Блакуе шкоду і эфекты наступнай псіхічнай атакі ворага."/>
+	<entry name="PsychicHood" value="Псіхічны каўпак"/>
+	<entry name="PsychicHoodDescription" value="Павялічвае зніжэнне шкоды ад вядзьмарскага агню."/>
+	<entry name="PsychicLash" value="Псіхічная пуга"/>
+	<entry name="PsychicLashDescription" value="Атакі прабіваюць усю браню."/>
+	<entry name="PsychicPower" value="Псіхічная сіла"/>
 	<entry name="PsychicPowerDescription" value="Класіфікацыя."/>
-	<entry name="PsychneueinInfest" value="Psychneuein Infest"/>
-	<entry name="PsychneueinInfestDescription" value="Causes the target unit to spawn a Psychneuein when killed."/>
-	<entry name="PsychneueinInfestation" value="Psychneuein Infestation"/>
-	<entry name="PsychneueinInfestationDescription" value="Spawns a Psychneuein when dying."/>
-	<entry name="Psyker" value="Psyker"/>
+	<entry name="PsychneueinInfest" value="Заражэнне псіханэйна"/>
+	<entry name="PsychneueinInfestDescription" value="Прымушае цэлевую адзінку пасля смерці парадзіць псіханэйна."/>
+	<entry name="PsychneueinInfestation" value="Заражаны псіханэйна"/>
+	<entry name="PsychneueinInfestationDescription" value="Спараджае псіханэйна пасля смерці."/>
+	<entry name="Psyker" value="Псайкер"/>
 	<entry name="PsykerDescription" value="Класіфікацыя."/>
 	<entry name="PsykerFlavor" value="Psykers are battlefield mystics who harness the power of the Warp."/>
-	<entry name="Rage" value="Rage"/>
+	<entry name="Rage" value="Лютасць"/>
 	<entry name="RageDescription" value="Павялічвае атакі."/>
 	<entry name="RageFlavor" value="Bloodlust is a powerful weapon on the battlefield, spurring a warrior to hack his foes apart in a flurry of mindless (but eminently satisfying) carnage."/>
-	<entry name="Rampage" value="Rampage"/>
-	<entry name="RampageDescription" value="Increases the attacks when there are more enemies than allies in adjacent tiles."/>
+	<entry name="Rampage" value="Буянства"/>
+	<entry name="RampageDescription" value="Павялічвае атакі, калі ворагаў на суседніх плітках больш, чым хаўруснікаў."/>
 	<entry name="RampageFlavor" value="For some warriors, being outnumbered is not a cause for despair, but a call to set about their foes with a berserk counter-attack."/>
-	<entry name="RapidFire" value="Rapid Fire"/>
-	<entry name="RapidFireDescription" value="Doubles the attacks at half range."/>
-	<entry name="RecoveryGear" value="Recovery Gear"/>
+	<entry name="RapidFire" value="Хуткі агонь"/>
+	<entry name="RapidFireDescription" value="Падвойвае атакі на палове дыстанцыі."/>
+	<entry name="RecoveryGear" value="Набор для аднаўлення"/>
 	<entry name="RecoveryGearDescription" value="Павялічвае хуткасць лячэння."/>
 	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
-	<entry name="RedPaintJob" value="Red Paint Job"/>
+	<entry name="RedPaintJob" value="Чырвоная фарба"/>
 	<entry name="RedPaintJobDescription" value="Павялічвае шкоду."/>
 	<entry name="RedPaintJobFlavor" value="Orks believe that a vehicle painted red can outstrip a similar vehicle that isn't. As odd as it may seem, they're not wrong."/>
-	<entry name="RefractorField" value="Refractor Field"/>
+	<entry name="RefractorField" value="Рэфрактарнае поле"/>
 	<entry name="RefractorFieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="RefractorFieldFlavor" value="Often carried by high-ranking officers and Imperial heroes, shimmering refractor fields refract incoming energy around their bearer, batting aside blasts and swinging blades that would otherwise lay them low."/>
-	<entry name="Regeneration" value="Regeneration"/>
+	<entry name="Regeneration" value="Рэгенерацыя"/>
 	<entry name="RegenerationDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="RegenerationFlavor" value="Some units have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
-	<entry name="Relentless" value="Relentless"/>
-	<entry name="RelentlessDescription" value="Negates the penalty for heavy and ordnance weapons."/>
+	<entry name="Relentless" value="Бязлітасны"/>
+	<entry name="RelentlessDescription" value=" Здымае штраф за цяжкую і артылерыйную зброю."/>
 	<entry name="RelentlessFlavor" value="Relentless warriors are strong of arm—nothing can slow their implacable advance."/>
-	<entry name="RelicPlating" value="Relic Plating"/>
-	<entry name="RelicPlatingDescription" value="Increases the witchfire damage reduction."/>
+	<entry name="RelicPlating" value="Пакрыццё рэліквіяй"/>
+	<entry name="RelicPlatingDescription" value="Павялічвае зніжэнне шкоды ад вядзьмарскага агню."/>
 	<entry name="RelicPlatingFlavor" value="Occasionally a crew will achieve an empathic relationship with the machine spirit of their battle tank. When such a crew perishes, their remains may be interred within their vehicle, spirits lingering protectively to drive away the baleful energies of the void."/>
-	<entry name="Rending" value="Rending"/>
+	<entry name="Rending" value="Раздзіранне"/>
 	<entry name="RendingDescription" value="Павялічвае шкоду і бронепрабівальнасць."/>
 	<entry name="RendingFlavor" value="Some weapons can inflict critical strikes against which no armour can protect."/>
-	<entry name="RepulsorGrid" value="Repulsor Grid"/>
-	<entry name="RepulsorGridDescription" value="Increases the ranged damage reduction and returns ranged damage from weapons that are not blast, template or witchfire back to the attacker."/>
-	<entry name="RitesOfWar" value="Rites of War"/>
+	<entry name="RepulsorGrid" value="Рэпульсорная сетка"/>
+	<entry name="RepulsorGridDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою і вяртае атакоўцу шкоду ад далёкага бою ад зброі, якая не з'яўляецца выбуховай, шаблоннай або вядзьмоўскім агнём."/>
+	<entry name="RitesOfWar" value="Рытуалы вайны"/>
 	<entry name="RitesOfWarDescription" value="Павялічвае шкоду."/>
 	<entry name="RitesOfWarFlavor" value="<string name='Actions/RitesOfWarFlavor'/>"/>
-	<entry name="Rosarius" value="Rosarius"/>
+	<entry name="Rosarius" value="Разарый"/>
 	<entry name="RosariusDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="RosariusFlavor" value="A rosarius is worn by Space Marine Chaplains for protection and as a symbol of office. It emits a protective energy field around the wearer capable of deflecting blows and shots that would smash a ferrocrete bunker. It is said that the stronger the bearer's belief in the might of the Emperor, the stronger a rosarius' force field will be."/>
-	<entry name="RuinsStealth" value="Ruins Stealth"/>
-	<entry name="RuinsStealthDescription" value="Increases the ranged damage reduction while in Imperial Ruins."/>
-	<entry name="Salvo" value="Salvo"/>
-	<entry name="SalvoDescription" value="Doubles the attacks at half range if the unit has not moved."/>
-	<entry name="SavantInterlocution" value="Savant Interlocution"/>
-	<entry name="SavantInterlocutionDescription" value="Increases the ranged accuracy against flyers and skimmers when adjacent to an allied Hunter."/>
-	<entry name="SavantLock" value="Savant Lock"/>
-	<entry name="SavantLockDescription" value="Increases the accuracy against flyers, jetbikes and skimmers."/>
+	<entry name="RuinsStealth" value="Утойлівасць у руінах"/>
+	<entry name="RuinsStealthDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою ў імперскіх руінах."/>
+	<entry name="Salvo" value="Залп"/>
+	<entry name="SalvoDescription" value="Падвойвае атакі на палове дыстанцыі, калі адзінка не рухалася."/>
+	<entry name="SavantInterlocution" value="Гутарка з навукоўцам"/>
+	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі і луналых адзінак, калі знаходзіцца поруч з хаўрусным паляўнічым."/>
+	<entry name="SavantLock" value="Замок навукоўца"/>
+	<entry name="SavantLockDescription" value="Павялічвае трапнасць супраць авіяцыі, рэактыўных матацыклаў і луналых адзінак."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
-	<entry name="SeekerMissileDescription" value="Reduced range against targets not acquired by markerlight. Does not require line of sight against targets acquired by markerlight."/>
+	<entry name="SeekerMissileDescription" value="Зменшвае далёкасць супраць цэлей не пазначаных маркерам. Не патрабуе прамой бачнасці супраць цэлей не пазначаных маркерам."/>
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
-	<entry name="Seeking" value="Seeking"/>
-	<entry name="SeekingDescription" value="Increases the ranged accuracy against flyers."/>
-	<entry name="Shaken" value="Shaken"/>
+	<entry name="Seeking" value="Пошук"/>
+	<entry name="SeekingDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі."/>
+	<entry name="Shaken" value="Падтрэсены"/>
 	<entry name="ShakenDescription" value="Зніжае трапнасць і павялічвае атрымліваемую шкоду."/>
-	<entry name="Shielded" value="Shielded"/>
+	<entry name="Shielded" value="Абаронены"/>
 	<entry name="ShieldedDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="ShieldedFlavor" value="Some warriors are protected by more than mere physical armour. They may be shielded by force fields, enveloped in mystical energies or have a constitution that can shrug off hits that would put holes in a battle tank."/>
-	<entry name="Shop" value="Shop"/>
-	<entry name="ShopDescription" value="Allows hero units to purchase and sell items."/>
-	<entry name="Shred" value="Shred"/>
+	<entry name="Shop" value="Крама"/>
+	<entry name="ShopDescription" value="Дазваляе героям набываць і прадаваць прадметы."/>
+	<entry name="Shred" value="Шрапнэль"/>
 	<entry name="ShredDescription" value="Павялічвае шкоду."/>
 	<entry name="ShredFlavor" value="Some weapons and warriors strike in a flurry of blows, tearing flesh asunder in a series of brutal strikes."/>
-	<entry name="Shrouded" value="Shrouded"/>
+	<entry name="Shrouded" value="Ахінуты"/>
 	<entry name="ShroudedDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="ShroudedFlavor" value="The source of the darkness around these warriors matters not—only a lucky shot has any chance of piercing the shroud that hides them from view."/>
-	<entry name="SiegeMasters" value="Siege Masters"/>
-	<entry name="SiegeMastersDescription" value="Increases the damage against enemy units in cities and fortifications."/>
-	<entry name="SiegeShield" value="Siege Shield"/>
-	<entry name="SiegeShieldDescription" value="Increases the armour and reduces the movement penalty in forests and imperial ruins."/>
+	<entry name="SiegeMasters" value="Майстры аблогі"/>
+	<entry name="SiegeMastersDescription" value="Павялічвае шкоду супраць варожых адзінак у гарадах і фартыфікацыях."/>
+	<entry name="SiegeShield" value="Аблогавы шчыт"/>
+	<entry name="SiegeShieldDescription" value="Павялічвае браню і зніжае штраф перасоўвання па лясах і імперскіх руінах."/>
 	<entry name="SiegeShieldFlavor" value="Many Vindicators are equipped with an enormous bulldozer blade, allowing them to shoulder aside battlefield detritus without risk."/>
-	<entry name="Signum" value="Signum"/>
-	<entry name="SignumDescription" value="Increases the ranged accuracy."/>
+	<entry name="Signum" value="Сігнум"/>
+	<entry name="SignumDescription" value="Павялічвае трапнасць у далёкім боі. "/>
 	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
 	<entry name="SkilledJink" value="<string name='Actions/SkilledJink'/>"/>
 	<entry name="SkilledJinkDescription" value="<string name='Traits/JinkDescription'/>"/>
 	<entry name="SkilledJinkFlavor" value="<string name='Actions/SkilledJinkFlavor'/>"/>
-	<entry name="Skimmer" value="Skimmer"/>
-	<entry name="SkimmerDescription" value="The unit can move over water. Ignores the penalties of rivers and wire weed. Reduces the movement penalty in forests and imperial ruins."/>
+	<entry name="Skimmer" value="Луналая адзінка"/>
+	<entry name="SkimmerDescription" value="Адзінка можа перасоўвацца праз ваду. Ігнаруе штрафы ад рэк і пустазелля-дроту. Зніжае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="SkimmerFlavor" value="Some highly advanced vehicles are fitted with anti-gravity drives that allow them to skim swiftly over tough terrain and intervening troops, making them perfect for surprise flanking attacks."/>
 	<entry name="SkullAltar" value="<string name='Features/SkullAltar'/>"/>
-	<entry name="SkullAltarDescription" value="Provides a reward to units entering the tile."/>
+	<entry name="SkullAltarDescription" value="Дае ўзнагароду адзінцы, якая ўваходзіць на плітку."/>
 	<entry name="SkullAltarFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
-	<entry name="SkullsForTheSkullThrone" value="Skulls for the Skull Throne"/>
+	<entry name="SkullsForTheSkullThrone" value="Чэрапы для трона чэрапаў"/>
 	<entry name="SkullsForTheSkullThroneDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="SkullsForTheSkullThroneFlavor" value="Khorne respects only the strong and boundlessly murderous."/>	
-	<entry name="Skyfire" value="Skyfire"/>
-	<entry name="SkyfireDescription" value="Increases the accuracy against flyers. Reduces the accuracy against ground units that are not skimmer, jetbike or jet pack."/>
+	<entry name="Skyfire" value="Нябесны агонь"/>
+	<entry name="SkyfireDescription" value="Павялічвае трапнасць супраць авіяцыі. Зніжае трапнасць супраць наземных адзінак апроч луналых адзінак, рэактыўных матацыклаў або ранцаў."/>
 	<entry name="SkyfireFlavor" value="Skyfire weapons excel at shooting down enemy aircraft and skimmers."/>
-	<entry name="SlowAndPurposeful" value="Slow and Purposeful"/>
-	<entry name="SlowAndPurposefulDescription" value="Negates the penalty for heavy and ordnance weapons."/>
+	<entry name="SlowAndPurposeful" value="Павольна і мэтліва"/>
+	<entry name="SlowAndPurposefulDescription" value="Здымае штраф за цяжкую і артылерыйную зброю."/>
 	<entry name="SlowAndPurposefulFlavor" value="Many warriors are steady but sure, slow to advance but no less deadly for it."/>
-	<entry name="Slowed" value="Slowed"/>
-	<entry name="SlowedDescription" value="Reduces the movement."/>
-	<entry name="Smash" value="Smash"/>
-	<entry name="SmashDescription" value="Increases the melee armour penetration."/>
+	<entry name="Slowed" value="Запаволены"/>
+	<entry name="SlowedDescription" value="Зменшвае рух."/>
+	<entry name="Smash" value="Разбурэнне"/>
+	<entry name="SmashDescription" value="Павялічвае прабіццё брані ў блізкім боі."/>
 	<entry name="SmashFlavor" value="For the most fearsome of creatures, a single blow is sufficient to breach a tank's armour or crush a living creature to bloody pulp."/>
-	<entry name="SmokeScreen" value="Smoke Screen"/>
+	<entry name="SmokeScreen" value="Дымавая заслона"/>
 	<entry name="SmokeScreenDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
-	<entry name="Sniper" value="Sniper"/>
-	<entry name="SniperDescription" value="Increases the damage and armour penetration against infantry units."/>
+	<entry name="Sniper" value="Снайпер"/>
+	<entry name="SniperDescription" value="Павялічвае шкоду і бронепрабівальнасць супраць пяхотных адзінак."/>
 	<entry name="SniperFlavor" value="Sniper weapons are precision instruments, used to pick out a target’s weak points."/>
-	<entry name="SonicBoom" value="Sonic Boom"/>
-	<entry name="SonicBoomDescription" value="Increases the damage against flyers."/>
-	<entry name="SoulBlaze" value="Soul Blaze"/>
+	<entry name="SonicBoom" value="Гукавая хваля"/>
+	<entry name="SonicBoomDescription" value="Павялічвае шкоду супраць авіяцыі."/>
+	<entry name="SoulBlaze" value="Гарэнне душы"/>
 	<entry name="SoulBlazeDescription" value="Наносіць шкоду кожны крок."/>
-	<entry name="SoulBlazed" value="Soul Blazed"/>
+	<entry name="SoulBlazed" value="Падпаленая душа"/>
 	<entry name="SoulBlazedDescription" value="<string name='Traits/SoulBlazeDescription'/>"/>
+	
+	
+	<!-- there -->
+
+	
 	<entry name="SpaceMarines/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
 	<entry name="SpaceMarines/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
 	<entry name="SpaceMarines/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
@@ -1549,7 +1549,7 @@
 	<entry name="VectoredAfterburners" value="Vectored Afterburners"/>
 	<entry name="VectoredAfterburnersDescription" value="Increases the movement and ranged damage reduction."/>
 	<entry name="Vehicle" value="Vehicle"/>
-	<entry name="VehicleDescription" value="Negates the penalty for heavy and ordnance weapons. Increases the movement penalty in forests and imperial ruins."/>
+	<entry name="VehicleDescription" value="Здымае штраф за цяжкую і артылерыйную зброю. Increases the movement penalty in forests and imperial ruins."/>
 	<entry name="VehicleFlavor" value="War is not a trade solely for living soldiers, but also for mighty war engines and tanks."/>
 	<entry name="VoidShield" value="Void Shield"/>
 	<entry name="VoidShieldDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
