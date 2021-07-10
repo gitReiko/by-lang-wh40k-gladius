@@ -1267,13 +1267,8 @@
 	<entry name="Tau/Montka" value="<string name='Actions/Tau/Montka'/>"/>
 	<entry name="Tau/MontkaDescription" value="Павялічвае шкоду па адзінках са здароўем ніжэй за 50%."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
-	
-	
-	<!-- there -->
-
-	
-	<entry name="Tau/NetworkedMarkerlight" value="Networked Markerlight"/>
-	<entry name="Tau/NetworkedMarkerlightDescription" value="Increases the ranged accuracy and ranged damage reduction bypass. The unit's attacks do not benefit from or consume Target Acquired."/>
+	<entry name="Tau/NetworkedMarkerlight" value="Сеткавая пазнака цэлі"/>
+	<entry name="Tau/NetworkedMarkerlightDescription" value="Павялічвае трапнасць стральбы ў далёкім боі і абыход змяншэння шкоды ў далёкім боі. Атакі адзінак не атрымліваюць або выдаткоўваюць выгаду ад пазначэння цэлі."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
 	<entry name="Tau/NovaBoostDescription" value="Павялічвае рух."/>
@@ -1284,53 +1279,53 @@
 	<entry name="Tau/NovaShield" value="<string name='Actions/Tau/NovaShield'/>"/>
 	<entry name="Tau/NovaShieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/NovaShieldFlavor" value="<trait name='Actions/Tau/NovaBoostFlavor'/>"/>
-	<entry name="Tau/PointDefenceTargetingRelay" value="Point Defence Targeting Relay"/>
-	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Increases overwatch damage against enemy units adjacent to other friendly units."/>
+	<entry name="Tau/PointDefenceTargetingRelay" value="Абарончы пункт рэле нацэльвання"/>
+	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду назірання супраць варожых адзінак, суседніх з іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/PointDefenceTargetingRelayFlavor" value="Designed to provide superior covering fire for nearby Fire caste units, a point defense relay automatically targets and engages enemies that attempt to assault."/>
-	<entry name="Tau/PulseAccelerator" value="Pulse Accelerator"/>
-	<entry name="Tau/PulseAcceleratorDescription" value="Increases the range of pulse weapons."/>
+	<entry name="Tau/PulseAccelerator" value="Імпульсны паскаральнік"/>
+	<entry name="Tau/PulseAcceleratorDescription" value="Павялічвае далёкасць імпульснай зброі."/>
 	<entry name="Tau/PulseAcceleratorFlavor" value="<trait name='Actions/Tau/PulseAcceleratorFlavor'/>"/>
 	<entry name="Tau/Rinyon" value="<string name='Actions/Tau/Rinyon'/>"/>
-	<entry name="Tau/RinyonDescription" value="Increases the accuracy against units adjacent to other allied units."/>
+	<entry name="Tau/RinyonDescription" value="Павялічвае трапнасць супраць варожых адзінак, суседніх з іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/RinyonFlavor" value="<string name='Actions/Tau/RinyonFlavor'/>"/>
-	<entry name="Tau/RiptideShieldGenerator" value="Riptide Shield Generator"/>
+	<entry name="Tau/RiptideShieldGenerator" value="Генератар шчыта рэжучага струменя"/>
 	<entry name="Tau/RiptideShieldGeneratorDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/RiptideShieldGeneratorFlavor" value="Within a Riptide battlesuit's ablative shield is housed a small energy field generator whose potency can be further boosted by diverting power from the XV104's nova reactor."/>
 	<entry name="Tau/Ripyka" value="<string name='Actions/Tau/Ripyka'/>"/>
 	<entry name="Tau/RipykaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaFlavor" value="<string name='Actions/Tau/RipykaFlavor'/>"/>
-	<entry name="Tau/RipykaVa" value="Ripyka'va"/>
+	<entry name="Tau/RipykaVa" value="Рыпайка'ва"/>
 	<entry name="Tau/RipykaVaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaVaFlavor" value="Commander Coldflame was famed for her subtlety, her ability to layer tactics on tactics but somehow inspire her troops to strive to match her strategic complexity. Some whispered, however, that she concerned herself too deeply with the Greater Good for a mere Fire Warrior..."/>
 	<entry name="Tau/SenseOfStone" value="<string name='Actions/Tau/SenseOfStone'/>"/>
 	<entry name="Tau/SenseOfStoneDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/SenseOfStoneFlavor" value="<string name='Actions/Tau/SenseOfStoneFlavor'/>"/>
-	<entry name="Tau/ShieldGenerator" value="Shield Generator"/>
+	<entry name="Tau/ShieldGenerator" value="Генератар шчыта"/>
 	<entry name="Tau/ShieldGeneratorDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Actions/Tau/ShieldGeneratorFlavor'/>"/>
-	<entry name="Tau/StabilisingAnchors" value="Stabilising Anchors"/>
-	<entry name="Tau/StabilisingAnchorsDescription" value="Increases the ranged attacks if the unit has not moved this turn."/>
+	<entry name="Tau/StabilisingAnchors" value="Якары стабілізацыі"/>
+	<entry name="Tau/StabilisingAnchorsDescription" value="Павялічвае атакі далёкага бою, калі адзінка не рухалася ў гэты крок."/>
 	<entry name="Tau/StabilisingAnchorsFlavor" value="KV128 Stormsurge Ballistic Suits are too large to mount a jetpack like their Battle Suit counterparts. Instead, the Earth Case scientist Bork'an designed them to lock into place once deployed, allowing them to divert all their reactor power to their immense weaponry."/>
-	<entry name="Tau/StimulantInjector" value="Stimulant Injector"/>
+	<entry name="Tau/StimulantInjector" value="Інжэктар стымулятара"/>
 	<entry name="Tau/StimulantInjectorDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Actions/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/StormOfFire" value="<string name='Actions/Tau/StormOfFire'/>"/>
 	<entry name="Tau/StormOfFireDescription" value="Павялічвае атакі."/>
 	<entry name="Tau/StormOfFireFlavor" value="<string name='Actions/Tau/StormOfFireFlavor'/>"/>
 	<entry name="Tau/SubvertCity" value="<string name='Actions/Tau/SubvertCity'/>"/>
-	<entry name="Tau/SubvertCityDescription" value="Reduces the loyalty."/>
+	<entry name="Tau/SubvertCityDescription" value="Зніжае лаяльнасць."/>
 	<entry name="Tau/SubvertCityFlavor" value="<string name='Actions/Tau/SubvertCityFlavor'/>"/>
-	<entry name="Tau/SupportSystems" value="Support Systems"/>
-	<entry name="Tau/SupportSystemsDescription" value="Allows installation of support systems."/>
+	<entry name="Tau/SupportSystems" value="Сістэмы падтрымкі"/>
+	<entry name="Tau/SupportSystemsDescription" value="Дазваляе ўсталёўку сістэм падтрымкі."/>
 	<entry name="Tau/SupportSystemsFlavor" value="T’au Battle Suits are designed to be modular, so that the Earth Caste may customise them easily to suit different combat situations. Each suit only has a limited number of hardpoints though and reducing a suit’s firepower is always a hard choice."/>
-	<entry name="Tau/SupportingFire" value="Supporting Fire"/>
-	<entry name="Tau/SupportingFireDescription" value="Increases overwatch damage against enemy units adjacent to other allied units."/>
+	<entry name="Tau/SupportingFire" value="Агонь падтрымкі"/>
+	<entry name="Tau/SupportingFireDescription" value="Павялічвае шкоду назірання супраць варожых адзінак, суседніх з іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/SupportingFireFlavor" value="Fire caste doctrine, as laid down in the Code of Fire, instructs every warrior to protect their comrades. Using overlapping fields of fire, teams provide each other this mutual support on the battlefield."/>
-	<entry name="Tau/TargetAcquired" value="Target Acquired"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Increases the ranged accuracy of T'au against the unit. Reduces the ranged damage reduction of the unit against T'au. Ends after the unit is attacked by T'au."/>
+	<entry name="Tau/TargetAcquired" value="Пазначэнне цэлі"/>
+	<entry name="Tau/TargetAcquiredDescription" value="Павялічвае трапнасць т'аў ў далёкім боі супраць адзінак. Зменшвае зніжэнне шкоды ад далёкага бою адзінкі супраць т'аў. Скончваецца пасля таго, як адзінка атакавана т'аў."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the T’au, and the Markerlight is an excellent example of this. It’s a handheld targeting laser that is networked into the T’au’s information system, allowing for pinpoint strikes by other T’au forces."/>
-	<entry name="Tau/TidewallShieldline" value="Tidewall Shieldline"/>
-	<entry name="Tau/TidewallShieldlineDescription" value="Returns ranged damage from weapons that are not blast, template or witchfire back to the attacker."/>
+	<entry name="Tau/TidewallShieldline" value="Лінія шчытоў сцяна з хваль"/>
+	<entry name="Tau/TidewallShieldlineDescription" value="Вяртае шкоду ад далёкага бою ад зброі, якая не з'яўляецца выбуховай, шаблоннай або вядзьмоўскім агнём, назад атакоўцу."/>
 	<entry name="Tau/TidewallShieldlineFlavor" value="The most commonly seen fortification utilised by the forces of the T'au Empire is the Tidewall Shieldline, a wall of energy behind which infantry can take cover. As the enemy's fusillades hiss and crack harmlessly from the Shieldline's refractive field, the Fire Warriors it protects unleash a blistering hail of pulse fire in return. Worse still for any aggressor attempting to drive the T'au from cover, this force-wall can redirect kinetic energy, sending las-blasts and armour-piercing shells ricocheting back into the enemy ranks."/>
 	<entry name="Tau/TidewallShieldlineCity" value="<string name='Traits/Tau/TidewallShieldline'/>"/>
 	<entry name="Tau/TidewallShieldlineCityDescription" value="<string name='Traits/Tau/TidewallShieldlineDescription'/>"/>
@@ -1341,21 +1336,26 @@
 	<entry name="Tau/Unity" value="<string name='Actions/Tau/Unity'/>"/>
 	<entry name="Tau/UnityDescription" value="<string name='Actions/Tau/UnityDescription'/>"/>
 	<entry name="Tau/UnityFlavor" value="<string name='Actions/Tau/UnityFlavor'/>"/>
-	<entry name="Tau/UtopiaBonus" value="In Diversity, Unity"/>
-	<entry name="Tau/UtopiaBonusDescription" value="Increases the loyalty bonus from new building types."/>
+	<entry name="Tau/UtopiaBonus" value="У разнастайнасці, адзінства"/>
+	<entry name="Tau/UtopiaBonusDescription" value="Павялічвае бонус лаяльнасці ад новых тыпаў будынкаў."/>
 	<entry name="Tau/UtopiaBonusFlavor" value="The ideal T’au city is an example to all others, displaying a perfect balance of the various castes of the T’au race with their client and auxiliary races, all living in harmony."/>
-	<entry name="Tau/VectoredRetroThrusters" value="Vectored Retro-Thrusters"/>
-	<entry name="Tau/VectoredRetroThrustersDescription" value="Increases the movement and Ігнаруе зону кантролю ворага."/>
+	<entry name="Tau/VectoredRetroThrusters" value="Вектарныя рэтрарухавікі"/>
+	<entry name="Tau/VectoredRetroThrustersDescription" value="Павялічвае рух ды ігнаруе зону кантролю ворага."/>
 	<entry name="Tau/VectoredRetroThrustersFlavor" value="<string name='Actions/Tau/VectoredRetroThrustersFlavor'/>"/>
-	<entry name="Tau/VelocityTracker" value="Velocity Tracker"/>
-	<entry name="Tau/VelocityTrackerDescription" value="Increases the ranged accuracy against flyers."/>
+	<entry name="Tau/VelocityTracker" value="Трэкер хуткасці"/>
+	<entry name="Tau/VelocityTrackerDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="<string name='Actions/Tau/VelocityTrackerFlavor'/>"/>
 	<entry name="Tau/VolleyFire" value="<string name='Actions/Tau/VolleyFire'/>"/>
-	<entry name="Tau/VolleyFireDescription" value="Increases the ranged attacks if the unit has not moved."/>
+	<entry name="Tau/VolleyFireDescription" value="Павялічвае атакі далёкага бою, калі адзінка не рухалася."/>
 	<entry name="Tau/VolleyFireFlavor" value="<string name='Actions/Tau/VolleyFireFlavor'/>"/>
 	<entry name="Tau/ZephyrsGrace" value="<string name='Actions/Tau/ZephyrsGrace'/>"/>
-	<entry name="Tau/ZephyrsGraceDescription" value="Increases the action points."/>
+	<entry name="Tau/ZephyrsGraceDescription" value="Павялічвае ачкі дзеяння."/>
 	<entry name="Tau/ZephyrsGraceFlavor" value="<string name='Actions/Tau/ZephyrsGraceFlavor'/>"/>
+	
+	
+	<!-- there -->
+
+	
 	<entry name="TelekineDome" value="Telekine Dome"/>
 	<entry name="TelekineDomeDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
