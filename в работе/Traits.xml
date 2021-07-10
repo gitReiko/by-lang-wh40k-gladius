@@ -890,27 +890,22 @@
 	<entry name="Necrons/VengeanceOfTheEnchained" value="Помста скаваных"/>
 	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Смяротны выбух наносіць дадатковую шкоду."/>
 	<entry name="Necrons/WrithingWorldscape" value="<string name='Actions/Necrons/WrithingWorldscape'/>"/>
-	
-	
-	<!-- there -->
-
-
-	<entry name="NoEscape" value="No Escape"/>
-	<entry name="NoEscapeDescription" value="Increases the attacks against open-topped units."/>
-	<entry name="OpenTopped" value="Open-Topped"/>
+	<entry name="NoEscape" value="Няма выратавання"/>
+	<entry name="NoEscapeDescription" value="Павялічвае атакі супраць адзінак з адкрытым верхам."/>
+	<entry name="OpenTopped" value="Адкрыты верх"/>
 	<entry name="OpenToppedDescription" value="Класіфікацыя."/>
 	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction. However, such vehicles make for excellent assault transports as their passengers can disembark with much greater ease."/>
-	<entry name="OrationOfRestoration" value="Oration of Restoration"/>
+	<entry name="OrationOfRestoration" value="Рэстаўрацыйная гаворка"/>
 	<entry name="OrationOfRestorationDescription" value="Аднаўляе здароўе."/>
-	<entry name="Ordnance" value="Ordnance"/>
-	<entry name="OrdnanceDescription" value="Increases the armour penetration against vehicles and fortifications. Not usable by infantry after moving."/>
-	<entry name="OrkoidFungus" value="Orkoid Fungus"/>
-	<entry name="OrkoidFungusDescription" value="Restores hitpoints each turn of Ork ground units."/>
+	<entry name="Ordnance" value="Боепрыпасы"/>
+	<entry name="OrdnanceDescription" value="Павялічвае бронепрабівальнасць супраць машын і фартыфікацый. Нельга выкарыстоўваць пяхотай пасля перасоўвання."/>
+	<entry name="OrkoidFungus" value="Оркоідны Грыб"/>
+	<entry name="OrkoidFungusDescription" value="Аднаўляе здароўе кожны крок наземным адзінкам оркаў."/>
 	<entry name="OrkoidFungusFlavor" value="Orks have a weirdly symbiotic relationship with the fungus that spreads across their planets—it's genetically identical to them, Squigs and Grots, and all these species tend to emerge from it rather than being born. Ork units depleted by battle would be wise to retreat to these fields to acquire (literally) fresh recruits."/>
-	<entry name="OrkoidFungusBonusHealingRate" value="Fungal Forests"/>
-	<entry name="OrkoidFungusBonusHealingRateDescription" value="Restores hitpoints each turn of Ork ground units."/>
+	<entry name="OrkoidFungusBonusHealingRate" value="Грыбны лес"/>
+	<entry name="OrkoidFungusBonusHealingRateDescription" value="Аднаўляе здароўе кожны крок наземным адзінкам оркаў."/>
 	<entry name="OrkoidFungusBonusHealingRateFlavor" value="Once the Ork fungal spores are well-established across a planet, they can resemble forests—albeit, comprised of immense mushrooms, spewing out feral Orks, Grots and Squigs."/>
-	<entry name="OrkoidFungusFood" value="Mushling Bloom"/>
+	<entry name="OrkoidFungusFood" value="Квітненне мушлінга"/>
 	<entry name="OrkoidFungusFoodDescription" value="Павялічвае вытворчасць ежы. "/>
 	<entry name="OrkoidFungusFoodFlavor" value="The tiny Snotlings, like all Orkoids, are derived from the same base fungus genetic structure. Unlike other Orkoids though, particularly lazy Snotlings can settle back into the fungus patch, and revert to become giant half-mushroom creatures, a particular delicacy for their larger Ork brethren."/>
 	<entry name="Orks/BigBoss" value="<string name='Actions/Orks/BigBoss'/>"/>
@@ -918,88 +913,88 @@
 	<entry name="Orks/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
 	<entry name="Orks/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
 	<entry name="Orks/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
-	<entry name="Orks/BoltDamage" value="Bigga Boltz"/>
+	<entry name="Orks/BoltDamage" value="Вялікія болтары"/>
 	<entry name="Orks/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
 	<entry name="Orks/BoltDamageFlavor" value="Like the Space Marine Kraken bolts, this Mek barrel modification allows this Shoota to hold even larger calibre ammunition, letting the lucky recipient show off by toting an even larger gun that hits even harder."/>
-	<entry name="Orks/BonusBeastsProduction" value="Bigger Whips"/>
-	<entry name="Orks/BonusBeastsProductionDescription" value="Increases the production output of Runtherd Groundz."/>
+	<entry name="Orks/BonusBeastsProduction" value="Вялікія пугі"/>
+	<entry name="Orks/BonusBeastsProductionDescription" value="Павялічвае вытворчасць загонаў паганятых."/>
 	<entry name="Orks/BonusBeastsProductionFlavor" value="“We's gonna need a bigger whip.”<br/>  — Runtherd Gark Snotsmeer, shortly before a Squiggoth stepped on him"/>
-	<entry name="Orks/BonusColonizersProduction" value="Scrap Hammers"/>
-	<entry name="Orks/BonusColonizersProductionDescription" value="Increases the production output of Mek Bitz Yards."/>
+	<entry name="Orks/BonusColonizersProduction" value="Молаты з ламачча"/>
+	<entry name="Orks/BonusColonizersProductionDescription" value="Павялічвае вытворчасць двароў мекаў."/>
 	<entry name="Orks/BonusColonizersProductionFlavor" value="When there isn't enough small-sized scrap to hand to build their ungainly creations, Mekboys acquire more by devising weird and wonderful machines which ravage the ruins and wreckage of their conquered worlds."/>
-	<entry name="Orks/BonusInfantryProduction" value="More Dakka"/>
-	<entry name="Orks/BonusInfantryProductionDescription" value="Increases the production output of Pile O' Dakkas."/>
+	<entry name="Orks/BonusInfantryProduction" value="Болей дак"/>
+	<entry name="Orks/BonusInfantryProductionDescription" value="Павялічвае вытворчасць кучаў дак."/>
 	<entry name="Orks/BonusInfantryProductionFlavor" value="“Da best shoota I eva made, dat iz. Loadza barrulz, so dat it's ded shooty. 'Sept dat wun, 'cos dat's da skorcha, dat's burny insted. Yeah, good an' propa. An' da bullitz is 'splosiv...dey goez boom inna fings wot you'z shootin.' An' dat button dere...dat's da best bit. Wot it duz, see, iz...iz...oh, zog. Nah, it's nuffin' boss. Nah, you'z don't need ta see wot dat button duz...'onist. Don't push it!”<br/>  — Last words, Nazdakka Boomsnik, Mek"/>
-	<entry name="Orks/BonusVehiclesProduction" value="Bodge Jobs"/>
-	<entry name="Orks/BonusVehiclesProductionDescription" value="Increases the production output of Kults ov Speed."/>
+	<entry name="Orks/BonusVehiclesProduction" value="Рамонтныя працы"/>
+	<entry name="Orks/BonusVehiclesProductionDescription" value="Павялічвае вытворчасць культаў хуткасці."/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work—vital components are often missing or the device is simply impossible. The Ork's single-minded belief—realised in the form of the Waaagh! energy that surrounds them—fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality..."/>
 	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
 	<entry name="Orks/BustHeadsDescription" value="Зніжае страту маралі."/>
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Павялічвае вытворчасць даследаванняў."/>
-	<entry name="Orks/CityEnergy" value="Kraklin Gubbinz"/>
+	<entry name="Orks/CityEnergy" value="Габін Кракліна"/>
 	<entry name="Orks/CityEnergyDescription" value="Павялічвае вытворчасць энергіі."/>
 	<entry name="Orks/CityEnergyFlavor" value="Green and red lightning arcs between the intricate prongs of these power amplification devices, frying any Greenskin who wanders too near. It's quite the spectator sport, but the technology is missing key components so couldn't possibly bear out the Meks' claims of its increase in energy output—save for the Orks' reality-altering faith that it does."/>
-	<entry name="Orks/CityGrowth" value="Boss Speakers"/>
+	<entry name="Orks/CityGrowth" value="Прамоўцы боса"/>
 	<entry name="Orks/CityGrowthDescription" value="Павялічвае хуткасць узросту гарадоў."/>
 	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz... wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
-	<entry name="Orks/CityInfluence" value="Big Shinies"/>
+	<entry name="Orks/CityInfluence" value="Вялікія бліскучкі"/>
 	<entry name="Orks/CityInfluenceDescription" value="Павялічвае вытворчасць уплыву."/>
 	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”-- Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
-	<entry name="Orks/CityLoyalty" value="Trophy Poles"/>
+	<entry name="Orks/CityLoyalty" value="Трафейныя шасты"/>
 	<entry name="Orks/CityLoyaltyDescription" value="Павялічвае вытворчасць лаяльнасці."/>
 	<entry name="Orks/CityLoyaltyFlavor" value="There's nothing that so stirs up the vim of an Ork as the sight of their defeated enemies (or their remaining parts) strung up high for all to see."/>
-	<entry name="Orks/CityPopulationLimit" value="Deep Diggaz"/>
-	<entry name="Orks/CityPopulationLimitDescription" value="Increases the population limit."/>
+	<entry name="Orks/CityPopulationLimit" value="Глыбокія норы"/>
+	<entry name="Orks/CityPopulationLimitDescription" value="Павялічвае ліміт насельніцтва."/>
 	<entry name="Orks/CityPopulationLimitFlavor" value="Using the Mek's latest contraptions, the Ork shacks and forges now extend deep beneath the city's surface. Sure, the occasional collapse drags Orks screaming into the depths, but it's worth it for the extra legroom."/>
-	<entry name="Orks/CityResearch" value="Finking Rooms"/>
+	<entry name="Orks/CityResearch" value="Пакоі для разважання"/>
 	<entry name="Orks/CityResearchDescription" value="Павялічвае вытворчасць даследаванняў."/>
 	<entry name="Orks/CityResearchFlavor" value="Given that technology is wired into the genes of normal Orks, a smart Warboss will find that dedicating space, manpower and time to locking his Mekz inside a small room full of scrap and ordering them come up with some really good Dakka invariably pays off."/>
-	<entry name="Orks/CityTier2" value="Slum Town"/>
+	<entry name="Orks/CityTier2" value="Горад трушчоб"/>
 	<entry name="Orks/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Orks/CityTier2Flavor" value="Outside each fortress' original walls, a slum town of Gretchin, Squigs, Snotlings and low-tier Orks has sprung up, whilst the insidious green fungus has spread everywhere, remaking this world in the Orks' genetic image."/>
-	<entry name="Orks/CityTier3" value="Shanty City"/>
+	<entry name="Orks/CityTier3" value="Горад халупаў"/>
 	<entry name="Orks/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Orks/CityTier3Flavor" value="The Warboss' fame has spread across the entire planet, with the invisible Waaagh! energies paralleling its path. Wherever Orks are freshly-spawned, they feel the irresistible tugging towards the Warboss' cities, which are now sprawled across the nearby landscape in endless slums and shanties."/>
-	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Rapid Decomposition"/>
-	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Causes units to create orkoid fungus when they die."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Хуткае разлажэнне"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Прыводзіць да з'яўлення оркоідных грыбоў пасля смерці адзінак."/>
 	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="“Exhibit 27: a single 'spore' of xenos species #0451 'Ork'. Acolytes, you should note the fungoid texture and microhomuncular structures. We theorise that these 'spores' generate new 'Orks' in any sufficiently fertile setting. When an Ork reaches maturity (typically 30 minutes after emergence) it emits these constantly—but they are released en masse at the moment of death. Please don't drop it.”<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
-	<entry name="Orks/CyborkImplantsDescription" value="Increases the damage and damage reduction."/>
+	<entry name="Orks/CyborkImplantsDescription" value="Павялічвае шкоду і зніжэнне шкоды."/>
 	<entry name="Orks/ExtraBitz" value="<string name='Actions/Orks/ExtraBitz'/>"/>
-	<entry name="Orks/ExtraBitzDescription" value="Reduces the food, ore and energy upkeep."/>
+	<entry name="Orks/ExtraBitzDescription" value="Зменшвае ўтрыманне ежы, руды і энергіі."/>
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
-	<entry name="Orks/ExperimentalProcedureDescription" value="Increases the damage and damage reduction."/>
-	<entry name="Orks/Flyboss" value="Flyboss"/>
-	<entry name="Orks/FlybossDescription" value="Increases the ranged accuracy against flyers, jetbikes and skimmers.."/>
+	<entry name="Orks/ExperimentalProcedureDescription" value="Павялічвае шкоду і зніжэнне шкоды."/>
+	<entry name="Orks/Flyboss" value="Бос летуноў"/>
+	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі, рэактыўных матацыклаў і луналых адзінак."/>
 	<entry name="Orks/FlybossFlavor" value="Flybosses are ace pilots who have survived more dogfights than they can count (even when using their toes)."/>
-	<entry name="Orks/Gitfinda" value="Gitfinda"/>
-	<entry name="Orks/GitfindaDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
+	<entry name="Orks/Gitfinda" value="Шукальнікі"/>
+	<entry name="Orks/GitfindaDescription" value="Павялічвае трапнасць стральбы ў далёкім боі, калі адзінка застаецца нерухомай."/>
 	<entry name="Orks/GitfindaFlavor" value="These can be elaborate ocular bionics, monocular head-sets, oversized telescopes, or Mork knows what else. The function of a gitfinda is to improve the accuracy of its user to near-average levels."/>
-	<entry name="Orks/GreenTide" value="Green Tide"/>
+	<entry name="Orks/GreenTide" value="Зялёны хваля"/>
 	<entry name="Orks/GreenTideFlavor" value="Orks are pretty damn hard to kill. Orks seemingly killed in one battle often return in the next, either fixed up by a Mad Dok or simply miraculously healed—and tougher and stronger for the experience."/>
 	<entry name="Orks/GreenTideGrowth" value="<string name='Traits/Orks/GreenTide'/>"/>
 	<entry name="Orks/GreenTideGrowthDescription" value="Павялічвае хуткасць узросту гарадоў."/>
 	<entry name="Orks/GreenTideGrowthFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
 	<entry name="Orks/GreenTideHealing" value="<string name='Traits/Orks/GreenTide'/>"/>
-	<entry name="Orks/GreenTideHealingDescription" value="Increases the healing rate."/>
+	<entry name="Orks/GreenTideHealingDescription" value="Павялічвае хуткасць лячэння."/>
 	<entry name="Orks/GreenTideHealingFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
-	<entry name="Orks/GrotGunner" value="Grot Gunner"/>
+	<entry name="Orks/GrotGunner" value="Грот-стралок"/>
 	<entry name="Orks/GrotGunnerDescription" value="Павялічвае трапнасць."/>
 	<entry name="Orks/KustomForceField" value="<string name='Actions/Orks/KustomForceField'/>"/>
 	<entry name="Orks/KustomForceFieldDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="<string name='Actions/Orks/KustomForceFieldFlavor'/>"/>
-	<entry name="Orks/MeleeDamage" value="Bigga Choppas"/>
+	<entry name="Orks/MeleeDamage" value="Вялікія чопы"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas... and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
-	<entry name="Orks/MightMakesRight" value="Might Makes Right"/>
-	<entry name="Orks/MightMakesRightDescription" value="Grants influence when attacking."/>
+	<entry name="Orks/MightMakesRight" value="Моц робіць права"/>
+	<entry name="Orks/MightMakesRightDescription" value="Дае ўплыў за атаку."/>
 	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
-	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Grants influence based on the upkeep when attacking."/>
-	<entry name="Orks/Scavenger" value="Scavenger"/>
-	<entry name="Orks/ScavengerDescription" value="Grants ore when killing an enemy."/>
+	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Дае ўплыў, які залежыць ад утрымання, пры атацы."/>
+	<entry name="Orks/Scavenger" value="Смяцяр"/>
+	<entry name="Orks/ScavengerDescription" value="Дае руду за забойства ворага."/>
 	<entry name="Orks/ScavengerFlavor" value="Orks aren't known for their love of labour, preferring to sit around between battles picking bits of Squig out of their mouths and fighting each other. So rather than mine minerals from the ground, they tend to salvage them from, well, anywhere. Or rather their Grot underlings do."/>
 	<entry name="Orks/WarbikeTurboBoost" value="<string name='Actions/Orks/WarbikeTurboBoost'/>"/>
 	<entry name="Orks/WarbikeTurboBoostDescription" value="<string name='Actions/Orks/WarbikeTurboBoostDescription'/>"/>
@@ -1007,6 +1002,11 @@
 	<entry name="Orks/Warpath" value="<string name='Actions/Orks/Warpath'/>"/>
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
+	
+	
+	<!-- there -->
+
+	
 	<entry name="Outpost" value="Outpost"/>
 	<entry name="OutpostDescription" value="Increases the damage reduction and the healing rate of allied units. Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
 	<entry name="Outflank" value="Outflank"/>
@@ -1055,7 +1055,7 @@
 	<entry name="RapidFire" value="Rapid Fire"/>
 	<entry name="RapidFireDescription" value="Doubles the attacks at half range."/>
 	<entry name="RecoveryGear" value="Recovery Gear"/>
-	<entry name="RecoveryGearDescription" value="Increases the healing rate."/>
+	<entry name="RecoveryGearDescription" value="Павялічвае хуткасць лячэння."/>
 	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
 	<entry name="RedPaintJob" value="Red Paint Job"/>
 	<entry name="RedPaintJobDescription" value="Павялічвае шкоду."/>
@@ -1419,7 +1419,7 @@
 	<entry name="Tyranids/CityLoyaltyDescription" value="Decreases the loyalty penalty from city amount."/>
 	<entry name="Tyranids/CityLoyaltyFlavor" value="Throughout the hive, from the great producer organisms, to the smaller maintenance creatures, to the substrate itself, small packages of grey matter are dispersed, increasing the ease with which swarm creatures can be controlled."/>
 	<entry name="Tyranids/CityPopulationLimit" value="Biogenesis Organelles"/>
-	<entry name="Tyranids/CityPopulationLimitDescription" value="Increases the population limit."/>
+	<entry name="Tyranids/CityPopulationLimitDescription" value="Павялічвае ліміт насельніцтва."/>
 	<entry name="Tyranids/CityPopulationLimitFlavor" value="Nothing truly “lives” in a Tyranid city-hive. Mindless 'organelle' creatures spawn and perform crucial functions before being reassimilated. Alterations to the city structure can be made, enabling these organisms to be spawned and reabsorbed in much shorter windows, allowing for their overall population to increase."/>
 	<entry name="Tyranids/CityProduction" value="Propulsive Parturition"/>
 	<entry name="Tyranids/CityProductionDescription" value="Павялічвае вытворчасць гарадоў."/>
@@ -1439,7 +1439,7 @@
 	<entry name="Tyranids/GraspingTailDescription" value="Reduces the attacks."/>
 	<entry name="Tyranids/GraspingTailFlavor" value="<string name='Actions/Tyranids/GraspingTailFlavor'/>"/>
 	<entry name="Tyranids/HiveCommander" value="<string name='Actions/Tyranids/HiveCommander'/>"/>
-	<entry name="Tyranids/HiveCommanderDescription" value="Increases the damage and damage reduction."/>
+	<entry name="Tyranids/HiveCommanderDescription" value="Павялічвае шкоду і зніжэнне шкоды."/>
 	<entry name="Tyranids/HiveCommanderFlavor" value="<string name='Actions/Tyranids/HiveCommanderFlavor'/>"/>
 	<entry name="Tyranids/IndescribableHorror" value="<string name='Actions/Tyranids/IndescribableHorror'/>"/>
 	<entry name="Tyranids/IndescribableHorrorDescription" value="Зніжае мараль кожны крок."/>
