@@ -31,9 +31,9 @@
 	<entry name="ReceivingInfo" value="Атрыманне інфармацыі ..."/>
 	<entry name="RestartRequired" value="Вы павінны перазапусціць гульню, каб змены набылі моц."/>
 	<entry name="RetrievingServerList" value="Атрыманне спіса сервераў ..."/>
+	<entry name="ScreenShotSaveError" value="Памылка пры захаванні здымка экрана"/>
 	<entry name="ScreenShotSaved" value="Здымак экрана захаваны"/>
 	<entry name="SetBinding" value="Націсніце новую камбінацыю клавіш для прывязкі да %1%."/>
-	<entry name="ScreenShotSaveError" value="Памылка пры захаванні здымка экрана"/>
 	<entry name="ServerUnreachable" value="Не атрымалася далучыцца да сервера. <br/> <br/> Каб палепшыць падлучэнне, пераканайцеся, што вы адключылі брандмаўэры і ўключылі UPnP на маршрутызатары або перанакіравалі порт TCP% 1% на лакальны кампутар."/>
 	<entry name="SelectTarget" value="Абярыце цэль"/>
 	<entry name="TerminatedWithDisableMods" value="Моды адключаны з-за збою. Наведайце экран модаў, каб ізноў іх уключыць."/>
