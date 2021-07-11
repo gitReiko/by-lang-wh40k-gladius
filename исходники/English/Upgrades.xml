@@ -237,6 +237,9 @@
 	<entry name="AstraMilitarum/PrimarisPsyker" value="<string name='Units/AstraMilitarum/PrimarisPsyker'/>"/>
 	<entry name="AstraMilitarum/PrimarisPsykerDescription" value="<string name='Units/AstraMilitarum/PrimarisPsykerDescription'/>"/>
 	<entry name="AstraMilitarum/PrimarisPsykerFlavor" value="<string name='Units/AstraMilitarum/PrimarisPsykerFlavor'/>"/>
+	<entry name="AstraMilitarum/Ratling" value="<string name='Units/AstraMilitarum/Ratling'/>"/>
+	<entry name="AstraMilitarum/RatlingDescription" value="<string name='Units/AstraMilitarum/RatlingDescription'/>"/>
+	<entry name="AstraMilitarum/RatlingFlavor" value="<string name='Units/AstraMilitarum/RatlingFlavor'/>"/>
 	<entry name="AstraMilitarum/ScoutSentinel" value="<string name='Units/AstraMilitarum/ScoutSentinel'/>"/>
 	<entry name="AstraMilitarum/ScoutSentinelDescription" value="<string name='Units/AstraMilitarum/ScoutSentinelDescription'/>"/>
 	<entry name="AstraMilitarum/ScoutSentinelFlavor" value="<string name='Units/AstraMilitarum/ScoutSentinelFlavor'/>"/>
@@ -267,6 +270,9 @@
 	<entry name="ChaosSpaceMarines/DaemonPrince" value="<string name='Units/ChaosSpaceMarines/DaemonPrince'/>"/>
 	<entry name="ChaosSpaceMarines/DaemonPrinceDescription" value="<string name='Units/ChaosSpaceMarines/DaemonPrinceDescription'/>"/>
 	<entry name="ChaosSpaceMarines/DaemonPrinceFlavor" value="<string name='Units/ChaosSpaceMarines/DaemonPrinceFlavor'/>"/>
+	<entry name="ChaosSpaceMarines/DarkDisciple" value="<string name='Units/ChaosSpaceMarines/DarkDisciple'/>"/>
+	<entry name="ChaosSpaceMarines/DarkDiscipleDescription" value="<string name='Units/ChaosSpaceMarines/DarkDiscipleDescription'/>"/>
+	<entry name="ChaosSpaceMarines/DarkDiscipleFlavor" value="<string name='Units/ChaosSpaceMarines/DarkDiscipleFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Defiler" value="<string name='Units/ChaosSpaceMarines/Defiler'/>"/>
 	<entry name="ChaosSpaceMarines/DefilerDescription" value="<string name='Units/ChaosSpaceMarines/DefilerDescription'/>"/>
 	<entry name="ChaosSpaceMarines/DefilerFlavor" value="<string name='Units/ChaosSpaceMarines/DefilerFlavor'/>"/>
@@ -333,6 +339,9 @@
 	<entry name="Eldar/WarWalker" value="<string name='Units/Eldar/WarWalker'/>"/>
 	<entry name="Eldar/WarWalkerDescription" value="<string name='Units/Eldar/WarWalkerDescription'/>"/>
 	<entry name="Eldar/WarWalkerFlavor" value="<string name='Units/Eldar/WarWalkerFlavor'/>"/>
+	<entry name="Eldar/Warlock" value="<string name='Units/Eldar/Warlock'/>"/>
+	<entry name="Eldar/WarlockDescription" value="<string name='Units/Eldar/WarlockDescription'/>"/>
+	<entry name="Eldar/WarlockFlavor" value="<string name='Units/Eldar/WarlockFlavor'/>"/>
 	<entry name="Eldar/WaveSerpent" value="<string name='Units/Eldar/WaveSerpent'/>"/>
 	<entry name="Eldar/WaveSerpentDescription" value="<string name='Units/Eldar/WaveSerpentDescription'/>"/>
 	<entry name="Eldar/WaveSerpentFlavor" value="<string name='Units/Eldar/WaveSerpentFlavor'/>"/>
@@ -348,6 +357,9 @@
 	<entry name="Necrons/CanoptekSpyder" value="<string name='Units/Necrons/CanoptekSpyder'/>"/>
 	<entry name="Necrons/CanoptekSpyderDescription" value="<string name='Units/Necrons/CanoptekSpyderDescription'/>"/>
 	<entry name="Necrons/CanoptekSpyderFlavor" value="<string name='Units/Necrons/CanoptekSpyderFlavor'/>"/>
+	<entry name="Necrons/CanoptekWraith" value="<string name='Units/Necrons/CanoptekWraith'/>"/>
+	<entry name="Necrons/CanoptekWraithDescription" value="<string name='Units/Necrons/CanoptekWraithDescription'/>"/>
+	<entry name="Necrons/CanoptekWraithFlavor" value="<string name='Units/Necrons/CanoptekWraithFlavor'/>"/>
 	<entry name="Necrons/Cryptek" value="<string name='Units/Necrons/Cryptek'/>"/>
 	<entry name="Necrons/CryptekDescription" value="<string name='Units/Necrons/CryptekDescription'/>"/>
 	<entry name="Necrons/CryptekFlavor" value="<string name='Units/Necrons/CryptekFlavor'/>"/>
@@ -417,6 +429,9 @@
 	<entry name="Orks/Gorkanaut" value="<string name='Units/Orks/Gorkanaut'/>"/>
 	<entry name="Orks/GorkanautDescription" value="<string name='Units/Orks/GorkanautDescription'/>"/>
 	<entry name="Orks/GorkanautFlavor" value="<string name='Units/Orks/GorkanautFlavor'/>"/>
+	<entry name="Orks/KillBursta" value="<string name='Units/Orks/KillBursta'/>"/>
+	<entry name="Orks/KillBurstaDescription" value="<string name='Units/Orks/KillBurstaDescription'/>"/>
+	<entry name="Orks/KillBurstaFlavor" value="<string name='Units/Orks/KillBurstaFlavor'/>"/>
 	<entry name="Orks/KillaKan" value="<string name='Units/Orks/KillaKan'/>"/>
 	<entry name="Orks/KillaKanDescription" value="<string name='Units/Orks/KillaKanDescription'/>"/>
 	<entry name="Orks/KillaKanFlavor" value="<string name='Units/Orks/KillaKanFlavor'/>"/>
@@ -462,6 +477,9 @@
 	<entry name="SpaceMarines/Chaplain" value="<string name='Units/SpaceMarines/Chaplain'/>"/>
 	<entry name="SpaceMarines/ChaplainDescription" value="<string name='Units/SpaceMarines/ChaplainDescription'/>"/>
 	<entry name="SpaceMarines/ChaplainFlavor" value="<string name='Units/SpaceMarines/ChaplainFlavor'/>"/>
+	<entry name="SpaceMarines/DevastatorCenturion" value="<string name='Units/SpaceMarines/DevastatorCenturion'/>"/>
+	<entry name="SpaceMarines/DevastatorCenturionDescription" value="<string name='Units/SpaceMarines/DevastatorCenturionDescription'/>"/>
+	<entry name="SpaceMarines/DevastatorCenturionFlavor" value="<string name='Units/SpaceMarines/DevastatorCenturionFlavor'/>"/>
 	<entry name="SpaceMarines/DevastatorSpaceMarine" value="<string name='Units/SpaceMarines/DevastatorSpaceMarine'/>"/>
 	<entry name="SpaceMarines/DevastatorSpaceMarineDescription" value="<string name='Units/SpaceMarines/DevastatorSpaceMarineDescription'/>"/>
 	<entry name="SpaceMarines/DevastatorSpaceMarineFlavor" value="<string name='Units/SpaceMarines/DevastatorSpaceMarineFlavor'/>"/>
@@ -528,6 +546,9 @@
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
 	<entry name="Tau/HammerheadGunshipFlavor" value="<string name='Units/Tau/HammerheadGunshipFlavor'/>"/>
+	<entry name="Tau/KrootoxRider" value="<string name='Units/Tau/KrootoxRider'/>"/>
+	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
+	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
 	<entry name="Tau/MarkerDrone" value="<string name='Units/Tau/MarkerDrone'/>"/>
 	<entry name="Tau/MarkerDroneDescription" value="Grants Fire Warriors, XV8 Crisis Battlesuits, XV25 Stealth Battlesuits, XV88 Broadside Battlesuits, Cadre Fireblade, Ethereal and Commander the ability to deploy temporary drones that mark enemies for increased damage."/>
 	<entry name="Tau/MarkerDroneFlavor" value="<string name='Units/Tau/MarkerDroneFlavor'/>"/>
@@ -591,6 +612,9 @@
 	<entry name="Tyranids/Tyrannofex" value="<string name='Units/Tyranids/Tyrannofex'/>"/>
 	<entry name="Tyranids/TyrannofexDescription" value="<string name='Units/Tyranids/TyrannofexDescription'/>"/>
 	<entry name="Tyranids/TyrannofexFlavor" value="<string name='Units/Tyranids/TyrannofexFlavor'/>"/>
+	<entry name="Tyranids/Venomthrope" value="<string name='Units/Tyranids/Venomthrope'/>"/>
+	<entry name="Tyranids/VenomthropeDescription" value="<string name='Units/Tyranids/VenomthropeDescription'/>"/>
+	<entry name="Tyranids/VenomthropeFlavor" value="<string name='Units/Tyranids/VenomthropeFlavor'/>"/>
 	<entry name="Tyranids/Warrior" value="<string name='Units/Tyranids/Warrior'/>"/>
 	<entry name="Tyranids/WarriorDescription" value="<string name='Units/Tyranids/WarriorDescription'/>"/>
 	<entry name="Tyranids/WarriorFlavor" value="<string name='Units/Tyranids/WarriorFlavor'/>"/>
@@ -815,16 +839,19 @@
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="<string name='Traits/Eldar/AssaultWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus" value="Farseer's Summons"/>
 	<entry name="Eldar/AsuryaniArrivalsBonusDescription" value="Reduces the cost of Asuryani Arrivals."/>
-	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="&quot;My word is more than mere advice: it is an imprecation filtered through the consciousness of our storied dead, striving to bring one iota of order to the disordered universe. Our race understands that and listens to my word, not as that of a dictator but as an attentive student.”<br/>  — Farseer Kataimon of Malantai"/>
+	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="“My word is more than mere advice: it is an imprecation filtered through the consciousness of our storied dead, striving to bring one iota of order to the disordered universe. Our race understands that and listens to my word, not as that of a dictator but as an attentive student.”<br/>  — Farseer Kataimon of Malantai"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2" value="Craftworlds' Pledge"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Description" value="Reduces the cooldown of Asuryani Arrivals."/>
-	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="&quot;When the Warlocks and Farseers of multiple craftworlds share a vision—a literal vision of the future, mind—then they and their craftworlds work as one. They will denude their own halls of life and spirit to fulfil their pledge to that future.”<br/>  — Lecture transcripts, Grigomen Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="”When the Warlocks and Farseers of multiple craftworlds share a vision—a literal vision of the future—then they and their craftworlds work as one. They will denude their own halls of life and spirit to fulfil their pledge to that future.”<br/>  — Lecture transcripts, Grigomen Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Eldar/CityTier2" value="<string name='Traits/Eldar/CityTier2'/>"/>
 	<entry name="Eldar/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Eldar/CityTier2Flavor" value="<string name='Traits/Eldar/CityTier2Flavor'/>"/>
 	<entry name="Eldar/CityTier3" value="<string name='Traits/Eldar/CityTier3'/>"/>
 	<entry name="Eldar/CityTier3Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Eldar/CityTier3Flavor" value="<string name='Traits/Eldar/CityTier3Flavor'/>"/>
+	<entry name="Eldar/CleansingFlame" value="<string name='Actions/CleansingFlame'/>"/>
+	<entry name="Eldar/CleansingFlameDescription" value="Grants Warlocks the ability to blast adjacent foes with white-hot psychic flame."/>
+	<entry name="Eldar/CleansingFlameFlavor" value="<string name='Actions/CleansingFlameFlavor'/>"/>
 	<entry name="Eldar/ConstructionBuildingBonus" value="<string name='Traits/Eldar/ConstructionBuildingBonus'/>"/>
 	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Increases the production output of Bonesinger Chantries."/>
 	<entry name="Eldar/ConstructionBuildingBonusFlavor" value="<string name='Traits/Eldar/ConstructionBuildingBonusFlavor'/>"/>
@@ -832,7 +859,7 @@
 	<entry name="Eldar/CrackShotDescription" value="Increases the accuracy and armour penetration of Fire Dragons."/>
 	<entry name="Eldar/CrackShotFlavor" value="<string name='Traits/Eldar/CrackShotFlavor'/>"/>
 	<entry name="Eldar/CrystalTargetingMatrix" value="<string name='Traits/Eldar/CrystalTargetingMatrix'/>"/>
-	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Grants Wave Serpents, Fire Prisms and War Walkers the ability to temporarily increases their accuracy."/>
+	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Grants Wave Serpents, Fire Prisms and War Walkers the ability to temporarily increase their accuracy."/>
 	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="<string name='Traits/Eldar/CrystalTargetingMatrixFlavor'/>"/>
 	<entry name="Eldar/Dominate" value="<string name='Actions/Dominate'/>"/>
 	<entry name="Eldar/DominateDescription" value="Grants Hemlock Wraithfighters the ability to stun enemy units that are neither vehicles nor fortifications."/>
@@ -877,7 +904,7 @@
 	<entry name="Eldar/OreBuildingBonusDescription" value="Increases the ore output of Altmarls of Vaul."/>
 	<entry name="Eldar/OreBuildingBonusFlavor" value="<string name='Traits/Eldar/OreBuildingBonusFlavor'/>"/>
 	<entry name="Eldar/PlasmaGrenade" value="<string name='Weapons/PlasmaGrenade'/>"/>
-	<entry name="Eldar/PlasmaGrenadeDescription" value="Grants Guardians the ability to throw versatile grenades."/>
+	<entry name="Eldar/PlasmaGrenadeDescription" value="Grants Guardians and Autarchs the ability to throw versatile grenades."/>
 	<entry name="Eldar/PlasmaGrenadeFlavor" value="<string name='Weapons/PlasmaGrenadeFlavor'/>"/>
 	<entry name="Eldar/ResearchBuildingBonus" value="<string name='Traits/Eldar/ResearchBuildingBonus'/>"/>
 	<entry name="Eldar/ResearchBuildingBonusDescription" value="Increases the research output of Spirit Ossuaries."/>
@@ -889,7 +916,7 @@
 	<entry name="Eldar/SpiritStonesDescription" value="Reduces the morale loss of Wave Serpents, Fire Prisms and War Walkers."/>
 	<entry name="Eldar/SpiritStonesFlavor" value="<string name='Traits/Eldar/SpiritStonesFlavor'/>"/>
 	<entry name="Eldar/StarEngines" value="<string name='Traits/Eldar/StarEngines'/>"/>
-	<entry name="Eldar/StarEnginesDescription" value="Increases the movement of Wave Serpents, Fire Prisms, War Walkers and Scorpoins."/>
+	<entry name="Eldar/StarEnginesDescription" value="Increases the movement of Wave Serpents, Fire Prisms, War Walkers and Scorpions"/>
 	<entry name="Eldar/StarEnginesFlavor" value="<string name='Traits/Eldar/StarEnginesFlavor'/>"/>
 	<entry name="Eldar/TranscendentBliss" value="<string name='Actions/Eldar/TranscendentBliss'/>"/>
 	<entry name="Eldar/TranscendentBlissDescription" value="Grants cities the ability to spend influence for a temporary increase in loyalty."/>
@@ -898,7 +925,7 @@
 	<entry name="Eldar/TranscendentBlissBonusDescription" value="Increases the loyalty gain from Transcendent Bliss."/>
 	<entry name="Eldar/TranscendentBlissBonusFlavor" value="”To an unfettered Aeldari mind there is neither sanity nor madness, but merely a wave of perfect existence fulfilled by its own savage momentum.”<br/>  — Ralamine Mung, Ordo Xenos"/>
 	<entry name="Eldar/VectoredEngines" value="<string name='Traits/Eldar/VectoredEngines'/>"/>
-	<entry name="Eldar/VectoredEnginesDescription" value="Grants Wave Serpents, Fire Prisms, War Walkers and Scrorpions the ability to temporarily increase their armour against enemy ranged weapons."/>
+	<entry name="Eldar/VectoredEnginesDescription" value="Grants Wave Serpents, Fire Prisms, War Walkers and Scorpions the ability to temporarily increase their armour against enemy ranged weapons."/>
 	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Traits/Eldar/VectoredEnginesFlavor'/>"/>
 	<entry name="Eldar/VehicleBuildingBonus" value="<string name='Traits/Eldar/VehicleBuildingBonus'/>"/>
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Increases the production output of Greater Ingresses."/>
@@ -1070,7 +1097,7 @@
 	<entry name="Orks/CityEnergyDescription" value="Increases the energy output of Ork cities."/>
 	<entry name="Orks/CityEnergyFlavor" value="<string name='Traits/Orks/CityEnergyFlavor'/>"/>
 	<entry name="Orks/CityGrowth" value="<string name='Traits/Orks/CityGrowth'/>"/>
-	<entry name="Orks/CityGrowthDescription" value="Increases the growth rate of Ork cities."/>
+	<entry name="Orks/CityGrowthDescription" value="<string name='Traits/Orks/CityGrowthDescription'/>"/>
 	<entry name="Orks/CityGrowthFlavor" value="<string name='Traits/Orks/CityGrowthFlavor'/>"/>
 	<entry name="Orks/CityInfluence" value="<string name='Traits/Orks/CityInfluence'/>"/>
 	<entry name="Orks/CityInfluenceDescription" value="Increases the influence output of Ork cities."/>
@@ -1112,7 +1139,7 @@
 	<entry name="Orks/GrabbinKlawDescription" value="Grants Battlewagons the ability to immobilize enemy ground vehicles."/>
 	<entry name="Orks/GrabbinKlawFlavor" value="<string name='Actions/GrabbinKlawFlavor'/>"/>
 	<entry name="Orks/GrotRiggers" value="Grot Riggers"/>
-	<entry name="Orks/GrotRiggersDescription" value="Grants Warbuggies, Killa Kans, Battlewagons and Gorkanauts passive hitpoint regeneration."/>
+	<entry name="Orks/GrotRiggersDescription" value="Grants Warbuggies, Killa Kans, Battlewagons, Gorkanauts and Kill Burstas passive hitpoint regeneration."/>
 	<entry name="Orks/GrotRiggersFlavor" value="<string name='Traits/GrotRiggersFlavor'/>"/>
 	<entry name="Orks/HealingRate" value="Green Flood"/>
 	<entry name="Orks/HealingRateDescription" value="Increases the healing rate of units."/>
@@ -1235,6 +1262,9 @@
 	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
 	<entry name="SpaceMarines/MeltaBombDescription" value="Grants Tactical Space Marines, Assault Space Marines, Devastator Space Marines and Scout Bikers the ability to deploy a melta bomb that is highly effective against heavy vehicles and fortifications."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
+	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="Grants Devastator Centurions the ability to bypass ranged damaged reduction."/>
+	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
 	<entry name="SpaceMarines/OrbitalBombardment" value="<string name='Actions/OrbitalBombardment'/>"/>
 	<entry name="SpaceMarines/OrbitalBombardmentDescription" value="<string name='Actions/OrbitalBombardmentDescription'/>"/>
 	<entry name="SpaceMarines/OrbitalBombardmentFlavor" value="<string name='Actions/OrbitalBombardmentFlavor'/>"/>

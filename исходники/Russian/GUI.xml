@@ -38,6 +38,7 @@
 	<entry name="Compendium" value="Краткое руководство"/>
 	<entry name="CompendiumFlavor" value="Краткое руководство хранит много полезной информации об игре. Здесь вы можете прочитать о фракциях, зданиях, подразделениях, перечитать советы и многое другое."/>
 	<entry name="Connect" value="Соединение"/>
+	<entry name="ConnectEpicAccount" value="Соединение с учетной записью Epic"/>
 	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Потребляет действие<style color='Default'/>"/>
 	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Потребляет движение<style color='Default'/>"/>
 	<entry name="Continue" value="Продолжить"/>
@@ -60,7 +61,8 @@
 	<entry name="DisableBuildingHint" value="Отключить здание этого типа, освободив работников для других зданий."/>
 	<entry name="DisableTips" value="Отключить советы"/>
 	<entry name="DisableTipsHint" value="Не показывать всплывающие подсказки. Вы можете повторно включить их на панели настроек."/>
-	<entry name="Disconnected" value="Разъединенный"/>
+	<entry name="DisconnectEpicAccount" value="Остоединить от учетной записи Epic"/>
+	<entry name="Disconnected" value="Отсоединить"/>
 	<entry name="DismissReports" value="Отклонить всё (%1%)"/>
 	<entry name="DragToChangeLoadOrder" value="Перетащите, чтобы изменить приоритет загрузки."/>
 	<entry name="Economy" value="Экономика"/>
@@ -103,9 +105,10 @@
 	<entry name="Installed" value="Установлено"/>
 	<entry name="IntroductionGame" value="Учебная игра"/>
 	<entry name="IntroductionGameHint" value="Начните обучающую игру за Космический Десант на самой легкой сложности."/>
-	<entry name="InviteFriend" value="Пригласить друга"/>
-	<entry name="InviteFriendHint" value="<style color='GUI/Yellow'/> Из Steam можно отправлять приглашение друзьям, только если настройки конфиденциальности вашего профиля (детали игры) не установлены на приватные."/>
-	<entry name="InviteFriendDisabledHint" value="Хост не работает со Steam версией или создание такой игры в Steam недоступно."/>
+	<entry name="InviteEpicFriend" value="Пригласить друга из Epic"/>
+	<entry name="InviteSteamFriend" value="Пригласить друга из Steam"/>
+	<entry name="InviteSteamFriendHint" value="<style color='GUI/Yellow'/> Из Steam можно отправлять приглашение друзьям, только если настройки конфиденциальности вашего профиля (детали игры) не установлены на приватные."/>
+	<entry name="InviteSteamFriendDisabledHint" value="Хост не работает со Steam версией или создание такой игры в Steam недоступно."/>
 	<entry name="Invulnerable" value="Неуязвимый"/>
 	<entry name="ItemShop" value="Магазин предметов"/>
 	<entry name="Items" value="Предметы"/>
@@ -116,7 +119,7 @@
 	<entry name="Load" value="Загрузить"/>
 	<entry name="LoadGame" value="Загрузить игру"/>
 	<entry name="MainMenu" value="Главное меню"/>
-	<entry name="MarkTileHint" value="<style name='Heading'/>Маркировка Плитки [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Поставьте маркер для союзников. Союзный ИИ будет стремиться перемещать свои отряды к маркерам."/>
+	<entry name="MarkTileHint" value="<style name='Heading'/>Маркировка Плитки [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Добавить или удалить маркер для союзников. Союзный ИИ будет стремиться перемещать свои отряды к маркерам."/>
 	<entry name="MarksOfChaos" value="Знаки Хаоса"/>
 	<entry name="Max" value="max"/>
 	<entry name="Menu" value="Меню"/>
@@ -146,6 +149,7 @@
 	<entry name="OnCooldown" value="Время перезарядки."/>
 	<entry name="OpenStore" value="Нажмите, чтобы открыть магазин."/>
 	<entry name="Operations" value="Действия и тактика"/>
+	<entry name="Or" value="или"/>
 	<entry name="OrderCity" value="Действия в городах (%1%)"/>
 	<entry name="OrderCityHint" value="Выберите следующий город без производства [<control name='Controls/NextTask'/>]."/>
 	<entry name="OrderUnits" value="Приказ подразделению (%1%)"/>
@@ -268,6 +272,7 @@
 	<entry name="Upgrades" value="Модернизация"/>
 	<entry name="Upkeep" value="Содержание"/>
 	<entry name="UploadModHint" value="Загрузить мод."/>
+	<entry name="UserData" value="Дата пользователя"/>
 	<entry name="VS" value=":"/>
 	<entry name="Version" value="Версия"/>
 	<entry name="VersionRevisionsDiffer" value="Версии игры отличаются друг от друга (локальная = %1%, серверная = %2%)."/>

@@ -23,6 +23,8 @@
 	<entry name="BlindGrenadeDescription" value="<string name='Items/BlindGrenadeDescription'/>"/>
 	<entry name="CombatStimulant" value="<string name='Items/CombatStimulant'/>"/>
 	<entry name="CombatStimulantDescription" value="<string name='Items/CombatStimulantDescription'/>"/>
+	<entry name="FaolchusWing" value="<string name='Items/FaolchusWing'/>"/>
+	<entry name="FaolchusWingDescription" value="<string name='Items/FaolchusWingDescription'/>"/>
 	<entry name="ForbiddenKnowledge" value="<string name='Items/ForbiddenKnowledge'/>"/>
 	<entry name="ForbiddenKnowledgeDescription" value="<string name='Items/ForbiddenKnowledgeDescription'/>"/>
 	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
@@ -124,6 +126,9 @@
 	<entry name="ChaosSpaceMarines/DarkGlory" value="Темная слава"/>
 	<entry name="ChaosSpaceMarines/DarkGloryDescription" value="Увеличивает уменьшение урона."/>
 	<entry name="ChaosSpaceMarines/DarkGloryFlavor" value="Некоторые чемпионы Хаоса настолько благословлены своим божеством-покровителем, что они сверхъестественно защищены от получаемого урона. Они могут быть окружены мощным, потрескивающим щитом энергии, или же пули, нацеленные на них, могут странным образом отвернуть в сторону перед тем, как нанести им урон. В любом случае ясно, что Темные Боги следят за ними."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolution" value="Отсроченное отпущение грехов"/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Увеличивает  снижение урона соседних союзных подразделений Хаоса."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="Согнутые фигуры Темных последователей непрестанно выкрикивают имена Богов Хаоса, взывая к их защите. Обычно непостоянные боги вместо этого склонны благословлять тех, кто находится поблизости, оставляя отчаявшихся последователей такими же бренными, как и всегда."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrike" value="Возвышающий удар"/>
 	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Убивает подразделение с менее чем 20% Очков здоровья."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="Столкнуться с Лордом Хаоса в битве—это не просто сражаться с элитой Адептус Астартес или ветераном десяти тысяч лет войны,—это встретиться с лучшими из тех немногих выживших, которые благословлены богами. После десяти тысячелетий они хорошо знают слабость противника и как ее использовать."/> <!-- Chaos Lord elite ability. -->
@@ -228,6 +233,8 @@
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="Достойная жертва"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Увеличивает вероятность того, что смежные Чемпионы Хаоса получат Благословение Хаоса."/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="Присмотр за вами богов означает, что те, кто находится рядом, также подвергаются более тщательному изучению—превращает ли это их в Отродье или Князя-Демона, зависит от того, насколько хорошо они действуют, и от непостижимой прихоти богов."/> <!-- Chaos Lord levelable ability. -->
+	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
+	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
 	<entry name="ClearTile" value="Очистить Плитку"/>
 	<entry name="ClearTileDescription" value="Восстанавливает плитку до нормального состояния и очищает ее от сорняков, имперских руин и лесов, по одной за раз"/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
@@ -273,7 +280,7 @@
 	<entry name="DeployUnit" value="Развертывает %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Развертывает %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
 	<entry name="DevastatorDoctrine" value="Доктрина Опустошителей "/>
-	<entry name="DevastatorDoctrineDescription" value="Тактика Ордена, повышающая точность Опустошителей Космодесанта."/>
+	<entry name="DevastatorDoctrineDescription" value="Тактика Ордена, повышающая точность Опустошителей Космодесанта и Центурионов Опустошителей."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Победа часто опирается на правильное вооружение, оказывающееся в нужном месте и в нужное время. Даже самое разрушительное оружие войны бесполезно, если оно не участвует в бою.”<br/>—Артор Амхрад, Мастер Ордена Астральных Рыцарей"/>
 	<entry name="Disappear" value="Исчезать"/>
 	<entry name="Disband" value="Расформировать"/>
@@ -293,13 +300,13 @@
 	<entry name="Eldar/ActivateWebwayGateDescription" value="Активирует и привязывает нейтральные врата Паутины."/>
 	<entry name="Eldar/ActivateWebwayGateFlavor" value="Когда-то Паутина была основой империи Эльдар—туннели, построенные через Варп во времена Древних, которые соединяли их системы золотого ядра с девственными мирами. Теперь это основная система рассеяна Хаосом. Коронные Миры и Паутина разваливаются на части—но не на Гладиус Прайм..."/>
 	<entry name="Eldar/AutarchsAssault" value="Штурм Автарха"/>
-	<entry name="Eldar/AutarchsAssaultDescription" value="Убийство подразделения Автархом увеличивает наносимый урон союзными отрядами в области."/>
+	<entry name="Eldar/AutarchsAssaultDescription" value="Убийство подразделения Автархом увеличивает наносимый урон союзными отрядами мира-корабля Эльдар в области."/>
 	<entry name="Eldar/AutarchsAssaultFlavor" value="Автарх—мастер войны, проживший много жизней в каждом святилище Аспекта Эльдар. Каждая из его умелых атак является одновременно источником вдохновения для других Эльдар и уроком того, как вести войну наиболее эффективно."/>
 	<entry name="Eldar/AsuryaniArrivals" value="Прибытие Азуриан"/>
 	<entry name="Eldar/AsuryaniArrivalsDescription" value="Увеличивает скорость роста населения."/>
 	<entry name="Eldar/AsuryaniArrivalsFlavor" value="По словам главного Провидца, через Паутину отправляется экстрасенсорное послание на миры-корабли, на планеты Ушедших и бродячим Странникам с просьбой о поддержке в этом важном деле. Хотя раса Эльдар погибает, но они умрут в битве—и они приходят на Гладиус, чтобы умереть здесь."/>
 	<entry name="Eldar/Command" value="Приказ"/>
-	<entry name="Eldar/CommandDescription" value="Повышает точность союзных подразделений в области."/>
+	<entry name="Eldar/CommandDescription" value="Повышает точность союзных подразделений мира-корабля Эльдар в области."/>
 	<entry name="Eldar/CommandFlavor" value="Автархи идут по Пути Власти, и даже Экзархи святынь Аспекта подчиняются им. Автарх лично координирует огонь своей армии с помощью сигналов и связи, сочетая огневую мощь и движение, чтобы заманить врагов в хитроумные смертельные ловушки."/>
 	<entry name="Eldar/CrystalTargetingMatrix" value="Кристаллическая матрица целенаведения"/>
 	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Повышает точность."/>
@@ -339,7 +346,7 @@
 	<entry name="Eldar/TranscendentBlissFlavor" value="Жизнь Эльдар бесконечно богаче, чем жизнь человека, учитывая их огромную чувственность, интеллект и интенсивность чувств—и иногда требуются подчеркнуть моменты этого блаженства, чтобы напомнить Эльдар, за что они борются в этой темной вселенной."/>
 	<entry name="Eldar/VectorDancer" value="Векторный танцор"/>
 	<entry name="Eldar/VectorDancerDescription" value="Повышает броню при дальних атаках на подразделение."/>
-	<entry name="Eldar/VectorDancerFlavor" value="Некоторые самолеты созданы с учетом большой маневренности. Они жертвуют скоростью, чтобы стрелять более эффективно."/>
+	<entry name="Eldar/VectorDancerFlavor" value="Некоторые самолеты созданы с учетом большой маневренности."/>
 	<entry name="Eldar/VectoredEngines" value="Векторные двигатели"/>
 	<entry name="Eldar/VectoredEnginesDescription" value="Повышает броню при дальних атаках на подразделение."/>
 	<entry name="Eldar/VectoredEnginesFlavor" value="Векторные двигатели позволяют пилоту машины Эльдар быстро менять направление, решая что важнее—смертоносное оружие или более прочную броню. Часто это может означать дилемму между нанесением критического урона врагу и получением непрямого удара, на который скорее всего можно не обращать внимания."/>
@@ -347,7 +354,7 @@
 	<entry name="Eldar/WarShoutDescription" value="Снижает мораль соседних вражеских подразделений."/>
 	<entry name="Eldar/WarShoutFlavor" value="В мифологии Эльдар Баньши своим воем предвещают смерть воинов. Воины аспекта Воющей Баньши носят специальную маску, которая усиливает и превращает их мысли в психические крики. Пока их враги ошеломлены, Баньши приближаются, их силовые мечи наготове..."/>
 	<entry name="Eldar/WebwayRedoubt" value="Найти редут Паутины"/>
-	<entry name="Eldar/WebwayRedoubtDescription" value="Основывает город на найденных Вратах Паутины."/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Основывает город на найденных Вратах Паутины.<br/><br/>Города можно построить только там, где нет других городов в радиусе 4 плиток. Каждый город после первого снижает лояльность во всех городах на 6."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="Чтобы сохранить древние врата Паутины на Гладиусе, Эльдар знают, что они должны их защищать. Эти быстро построенные редуты обеспечивают некоторую защиту, опирающуюся на безграничную силу Паутины, способную уничтожить любого врага, достаточно глупого, чтобы рискнуть приблизиться к ним."/>
 	<entry name="Eldar/WebwayTravel" value="Перемещение по Паутине"/>
 	<entry name="Eldar/WebwayTravelDescription" value="Перемещайтесь от одних союзных Врат Паутины или Редута Паутины к другим."/>
@@ -370,6 +377,9 @@
 	<entry name="FullThrottle" value="“Полный Вперед!”"/>
 	<entry name="FullThrottleDescription" value="Позволяет использовать Танковому командиру и смежным союзным подразделениям танков оставшиеся очки движения."/>
 	<entry name="FullThrottleFlavor" value="Офицер ведет славный отряд танков, который перемалывает врага своими гусеницами."/>
+	<entry name="GateOfInfinity" value="Врата бесконечности"/>
+	<entry name="GateOfInfinityDescription" value="Телепортация на исследуемую плитку."/>
+	<entry name="GateOfInfinityFlavor" value="Псайкер пробивает коридор через бурлящий Имматериум, позволяя ему преодолевать большие расстояния в мгновение ока."/>
 	<entry name="GrabbinKlaw" value="Клишня-хваталка"/>
 	<entry name="GrabbinKlawDescription" value="Обездвиживает наземную технику противника."/>
 	<entry name="GrabbinKlawFlavor" value="В своих стремлениях к все большей по размерам Силавой клишне, Мек Орков иногда делает такие, которые просто слишком велики для даже самого крупного Босса или Смертодреда. Они устанавливают их на транспортных средствах, где они используются для обездвиживания вражеской техники, и совершают странные движения при торможении."/>
@@ -382,6 +392,9 @@
 	<entry name="HammerOfWrath" value="Молот Гнева"/>
 	<entry name="HammerOfWrathDescription" value="Увеличивает наносимый урон врагу."/>
 	<entry name="HammerOfWrathFlavor" value="Многие воины бросаются сломя голову в бой, стремясь раздавить или затоптать супостата."/>
+	<entry name="Hammerhand" value="Рука-молот"/>
+	<entry name="HammerhandDescription" value="Увеличивает урон в ближнем бою"/>
+	<entry name="HammerhandFlavor" value="Сосредоточив неистовую мощь своего разума, псайкер увеличивает силу своих товарищей до такой степени, что они могут сокрушить плоть и кости одним ударом."/>
 	<entry name="Heal" value="Удерживать позицию, пока не восстановиться"/>
 	<entry name="HealDescription" value="Удерживает позицию, пока полностью не восстановит Очки здоровья."/>
 	<entry name="HealingSurge" value="Исцеляющая волна"/>
@@ -489,7 +502,7 @@
 	<entry name="Necrons/TheBoundCoalescentDescription" value="Позволяет сливаться с Обелиском, чтобы создать Тессерактовый Склеп."/>
 	<entry name="Necrons/TheBoundCoalescentFlavor" value="К'тан был неизмеримо мощным и абсолютно порочным; эти осколки и фрагменты-всё, что осталось от этих богов в результате отчаянного заговора Некронов. В безнадежные времена двум осколкам может быть позволено снова объединиться, сформировав более мощное оружие, но Некроны никогда не забывают о безумной силе оригиналов."/>
 	<entry name="Necrons/VoidStrike" value="Пустотный Удар"/>
-	<entry name="Necrons/VoidStrikeDescription" value="Расходует все заряды, чтобы добавить +1 к атаке оружия за каждый доступный заряд. Получает +1 заряд каждый ход."/>
+	<entry name="Necrons/VoidStrikeDescription" value="Выполняет усиленную атаку пустотным клинком."/>
 	<entry name="Necrons/VoidStrikeFlavor" value="”Лучшее оружие-это то, которое вам никогда не придется использовать.”<br/>  — Канаа Транкуил, Криптек Некронов, создатель Пустотного удара."/>
 	<entry name="Necrons/WrithingWorldscape" value="Искривленный ландшафт "/>
 	<entry name="Necrons/WrithingWorldscapeDescription" value="Уменьшает движение соседних вражеских подразделений."/>
@@ -597,6 +610,9 @@
 	<entry name="SkipDescription" value="Пропускает свой ход."/>
 	<entry name="Sleep" value="Спать"/>
 	<entry name="SleepDescription" value="Остановить производство до тех пор, пока это действие не будет отменено."/>
+	<entry name="SpaceMarines/Omniscope" value="Омнископ"/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="Игнорирует снижение урона в дальнем бою."/>
+	<entry name="SpaceMarines/OmniscopeFlavor" value="Центурионы используют омнископы, чтобы лучше направить свою грозную огневую мощь и пробиться сквозь мрак враждебной галактики."/>
 	<entry name="SpaceSlip" value="Пространство Скольжения"/>
 	<entry name="SpaceSlipDescription" value="Увеличивает уменьшение получаемого урона."/>
 	<entry name="SpawnUnits" value="Вызвать %1%"/>

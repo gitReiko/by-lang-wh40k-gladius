@@ -2287,7 +2287,7 @@
 	<entry name="Eldar/VaulsWrathSupportBattery:HurtCount" value="1"/>
 	<entry name="Eldar/VaulsWrathSupportBattery:Idle#0" value="Spooling monofilament."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:Idle#1" value="Checking the anti-gravitic generators."/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Idle#2" value="Lets support from the back."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Idle#2" value="Let's support from the back."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:IdleCount" value="3"/>
 	<entry name="Eldar/VaulsWrathSupportBattery:Shaken#0" value="We must disengage!"/>
 	<entry name="Eldar/VaulsWrathSupportBattery:ShakenCount" value="1"/>
@@ -2340,7 +2340,7 @@
 	<entry name="Eldar/HowlingBanshee:HurtCount" value="1"/>
 	<entry name="Eldar/HowlingBanshee:Idle#0" value="We howl their doom."/>
 	<entry name="Eldar/HowlingBanshee:Idle#1" value="Would that our foes would test our blades, now!"/>
-	<entry name="Eldar/HowlingBanshee:Idle#2" value="We are the children of Morai-Heg"/>
+	<entry name="Eldar/HowlingBanshee:Idle#2" value="We are the children of Morai-Heg."/>
 	<entry name="Eldar/HowlingBanshee:Idle#3" value="Our song is death."/>
 	<entry name="Eldar/HowlingBanshee:IdleCount" value="4"/>
 	<entry name="Eldar/HowlingBanshee:Shaken#0" value="They interrupt our song!"/>
@@ -2408,7 +2408,7 @@
 	<entry name="Eldar/FireDragon:AttackCount" value="4"/>
 	<entry name="Eldar/FireDragon:Broken#0" value="The dream of fire fades..."/>
 	<entry name="Eldar/FireDragon:BrokenCount" value="1"/>
-	<entry name="Eldar/FireDragon:Hurt#0" value="We are burnt ourselves!"/>
+	<entry name="Eldar/FireDragon:Hurt#0" value="We burnt ourselves!"/>
 	<entry name="Eldar/FireDragon:HurtCount" value="1"/>
 	<entry name="Eldar/FireDragon:Idle#0" value="Let us tell tale of firestorms and ash."/>
 	<entry name="Eldar/FireDragon:Idle#1" value="Cinders and fury."/>

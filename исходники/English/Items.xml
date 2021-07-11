@@ -25,6 +25,9 @@
 	<entry name="ConcealedWeaponSystem" value="Concealed Weapon System"/>
 	<entry name="ConcealedWeaponSystemDescription" value="Item that increases the attacks."/>
 	<entry name="ConcealedWeaponSystemFlavor" value="Hiding a weapon isn't a new idea, but a true Concealed Weapon System secretes the killing tool in such a way that it's undetectable until use—as clothing, jewellery or even as biological elements. The element of surprise heavily increases its efficacy."/>
+	<entry name="DimensionalKey" value="Dimensional Key"/>
+	<entry name="DimensionalKeyDescription" value="Item that allows the hero to teleport to an explored tile."/>
+	<entry name="DimensionalKeyFlavor" value="This ancient key is carved from the thighbone of a Daemon Prince. When thrust into the heart of a dying warrior, it unlocks the barriers between worlds: a howling gale of Chaos blows, disorienting any nearby mortals not pledged to the Dark Gods. Worse still, the key guides those nearing the battlefield through the Warp."/>
 	<entry name="DuskBlade" value="Dusk Blade"/>
 	<entry name="DuskBladeDescription" value="Item that grants life steal to all melee weapons."/>
 	<entry name="DuskBladeFlavor" value="The Dawn Blade that the traitor Commander Farsight discovered was unique—but to erase his memory Earth Caste artisans and Water Caste diplomats created this weapon for Coldflame. It may look the same as the iconic Dawn Blade, but it possesses none of its unearthly power—instead, the advanced medical technology embedded in it can draw on the battlesuit’s power to heal the wielder."/>
@@ -34,7 +37,7 @@
 	<entry name="EntropicLocum" value="Entropic Locum"/>
 	<entry name="EntropicLocumDescription" value="Item that increases the armour penetration."/>
 	<entry name="EntropicLocumFlavor" value="Apparently using similar design principles to a Graviton Gun, this Jokaero device can be used alongside a gunsight or parallel to a weapon’s blade. When activated, it causes the molecules in a very small volume of the target to become disordered and collapse inwards, leading to a single weak spot on the target that your weapon just happens to already be pointing at."/>
-	<entry name="FaolchusWing" value="Faolchu's Wing"/>
+	<entry name="FaolchusWing" value="Faolchú's Wing"/>
 	<entry name="FaolchusWingDescription" value="Item that consumes action to increase movement."/>
 	<entry name="FaolchusWingFlavor" value="When Eldanesh fell battling Khaine, the great falcon Faolchú was disconsolate. Faolchú gifted a single golden pinfeather to Eldanesh’s heirs, that perhaps its swiftness might aid them where her own had failed. Legend tells that this artefact is that selfsame token of grief, handed down through generations of Aeldari, and surviving even the tumult of the Fall."/>
 	<entry name="ForbiddenKnowledge" value="Forbidden Knowledge"/>

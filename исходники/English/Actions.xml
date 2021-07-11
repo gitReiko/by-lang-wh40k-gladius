@@ -126,9 +126,12 @@
 	<entry name="ChaosSpaceMarines/DarkGlory" value="Dark Glory"/>
 	<entry name="ChaosSpaceMarines/DarkGloryDescription" value="Increases the damage reduction."/>
 	<entry name="ChaosSpaceMarines/DarkGloryFlavor" value="Some champions of Chaos are so blessed by their patron deity that they are supernaturally protected from harm. They might be surrounded by a powerful, crackling shield of energy, or else bullets aimed at them may be strangely turned aside just before they strike. In either case, it is clear that the Dark Gods are watching over them."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolution" value="Deferred Absolution"/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Increases the invulnerable damage reduction of adjacent allied Chaos units."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="The bowed figures of the Dark Disciples incessantly shriek the names of the Chaos Gods, calling for their protection. Typically fickle, the Gods are prone to bless those nearby instead, leaving the desperate Disciples as frail as ever."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrike" value="Exalted Strike"/>
 	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Performs a devastating Thunder Hammer attack against the target enemy unit with less than 50% hitpoints."/>
-	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isn’t just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—it’s to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/> <!-- Chaos Lord elite ability. -->
+	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isn’t just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—it’s to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagion" value="Gift of Contagion"/>
 	<entry name="ChaosSpaceMarines/GiftOfContagionDescription" value="Deals damage to the target enemy infantry unit."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagionFlavor" value="The psyker gathers clouds of contagion and rot-flies about his enemies, granting them Father Nurgle's blessing."/>
@@ -230,6 +233,8 @@
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="Worthy Offering"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Increases the chance that adjacent allied Champions of Chaos receive a Boon of Chaos."/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="Having the eye of the gods upon you means those nearby are also subject to greater scrutiny—whether that turns them to Spawn or Daemon Prince, depends on how well they perform and the inscrutable whim of the Gods."/> <!-- Chaos Lord levelable ability. -->
+	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
+	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
 	<entry name="ClearTile" value="Clear Tile"/>
 	<entry name="ClearTileDescription" value="Restores the tile to its normal state and clears it of wire weed, imperial ruins and forests, one at a time."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
@@ -275,7 +280,7 @@
 	<entry name="DeployUnit" value="Deploy %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Deploy %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="DevastatorDoctrine" value="Deploy Devastator Doctrine"/>
-	<entry name="DevastatorDoctrineDescription" value="Chapter tactic that increases the accuracy of Devastator Space Marines."/>
+	<entry name="DevastatorDoctrineDescription" value="Chapter tactic that increases the accuracy of Devastator Space Marines and Devastator Centurions."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
 	<entry name="Disappear" value="Disappear"/>
 	<entry name="Disband" value="Disband"/>
@@ -352,7 +357,7 @@
 	<entry name="Eldar/WebwayRedoubtDescription" value="Founds city on a claimed Webway Gate.<br/><br/>Cities can only be found where there are no other cities within a 4 tile radius. Each city after the first decreases loyalty in all cities by 6."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webway’s limitless power to devastate any enemies foolish enough to venture near."/>
 	<entry name="Eldar/WebwayTravel" value="Webway Travel"/>
-	<entry name="Eldar/WebwayTravelDescription" value="Travel from one allied Webway Gate or Webway Redoubt to another."/>
+	<entry name="Eldar/WebwayTravelDescription" value="Travels from one allied Webway Gate or Webway Redoubt to another."/>
 	<entry name="Eldar/WebwayTravelFlavor" value="The unique Webway sub-structure riddling Gladius Prime enables the Aeldari to travel rapidly between the gateways dotted across the planet—though now that they are active, wise opposing races will recognise their threat and eliminate them on first sight."/>
 	<entry name="Eldar/WillOfAsuryan" value="Will of Asuryan"/>
 	<entry name="Eldar/WillOfAsuryanDescription" value="Restores the morale of allied units in the area."/>
@@ -372,6 +377,9 @@
 	<entry name="FullThrottle" value="“Full Throttle!”"/>
 	<entry name="FullThrottleDescription" value="Grants movement to the Tank Commander and adjacent allied tanks with movement remaining."/>
 	<entry name="FullThrottleFlavor" value="The officer leads a glorious tank charge that grinds the enemy beneath his treads."/>
+	<entry name="GateOfInfinity" value="Gate of Infinity"/>
+	<entry name="GateOfInfinityDescription" value="Teleports to target explored tile."/>
+	<entry name="GateOfInfinityFlavor" value="The psyker punches a corridor through the roiling Immaterium, allowing him to cross great distances in the blink of an eye."/>
 	<entry name="GrabbinKlaw" value="Grabbin' Klaw"/>
 	<entry name="GrabbinKlawDescription" value="Immobilizes the target enemy ground vehicle unit."/>
 	<entry name="GrabbinKlawFlavor" value="In their pursuit of ever-larger Power Klaws, Ork Meks occasionally make ones that are simply too large for even the most over-sized Boss or Deff Dread. These are mounted on vehicles, where they are used to immobilise enemy vehicles or perform outrageous handbrake turns."/>
@@ -384,6 +392,9 @@
 	<entry name="HammerOfWrath" value="Hammer of Wrath"/>
 	<entry name="HammerOfWrathDescription" value="Increases the damage."/>
 	<entry name="HammerOfWrathFlavor" value="Many warriors hurl themselves headlong into combat, seeking to crush or trample the foe."/>
+	<entry name="Hammerhand" value="Hammerhand"/>
+	<entry name="HammerhandDescription" value="Increases melee damage"/>
+	<entry name="HammerhandFlavor" value="Focussing the raging power of his mind, the psyker augments the strength of his comrades to the point where they can crush flesh and bone with a single blow."/>
 	<entry name="Heal" value="Hold Position Until Healed"/>
 	<entry name="HealDescription" value="Holds position until fully healed."/>
 	<entry name="HealingSurge" value="Healing Surge"/>
@@ -396,8 +407,6 @@
 	<entry name="IronWill" value="Iron Will"/>
 	<entry name="IronWillDescription" value="After dying, the Lord Commissar immediately comes back to life."/>
 	<entry name="IronWillFlavor" value="“Pain is temporary, Honour is forever.”<br/>  — Colonel-Commissar Ibram Gaunt, Tanith First and Only"/>
-	<entry name="JetPack" value="Jet Pack"/>
-	<entry name="JetPackDescription" value="Flies across obstacles to the target tile."/>
 	<entry name="Jink" value="Jink"/>
 	<entry name="JinkDescription" value="Increases the ranged damage reduction but reduces the accuracy. Cannot be used if the unit has attacked this turn."/>
 	<entry name="JinkFlavor" value="Some units favour speed and agility rather than heavy armour to keep them alive on the battlefield, dodging and weaving unscathed through hails of incoming fire."/>
@@ -599,6 +608,9 @@
 	<entry name="SkipDescription" value="Skips the turn."/>
 	<entry name="Sleep" value="Sleep"/>
 	<entry name="SleepDescription" value="Sleeps production until canceled."/>
+	<entry name="SpaceMarines/Omniscope" value="Omniscope"/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="Ignores enemy ranged damage reduction."/>
+	<entry name="SpaceMarines/OmniscopeFlavor" value="Centurions make use of omniscopes to better direct their fearsome firepower and pierce the gloom of a hostile galaxy."/>
 	<entry name="SpaceSlip" value="Space Slip"/>
 	<entry name="SpaceSlipDescription" value="Increases damage reduction."/>
 	<entry name="SpawnUnits" value="Spawn %1%"/>

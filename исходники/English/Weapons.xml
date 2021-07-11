@@ -7,10 +7,11 @@
 	<entry name="BlastFlavor" value="Blast weapons fire shells, missiles or packets of energy that explode on impact."/>
 	<entry name="BoltFlavor" value="The boltgun, or bolter, fires small missiles known as 'bolts'. Each self-propelled bolt explodes with devastating effect once it has penetrated its target. There are many variations of boltguns, from the short-barreled bolt pistol to the Vulcan mega-bolter often mounted on Titans and other super-heavy vehicles."/>
 	<entry name="BurstFlavor" value="Burst weaponry finds use across the T'au military, primarily mounted on battlesuits and vehicles. Utilising a similar plasma induction technology found in T'au pulse technology, burst cannons are multibarrelled weapons able to sustain high rates of fire."/>
+	<entry name="DestroyerFlavor" value="Also known as Titan-killers, destroyer weapons deliver horrifying amounts of damage."/>
 	<entry name="DistortionFlavor" value="The most dangerous of all Aeldari weapons enable their user to open a portal to the Warp. Often called D-weapons, these technological terrors collapse an area of the material universe. Whether the rift is localised or dispersed, the result is invariably fatal for those nearby."/>
 	<entry name="FlamerFlavor" value="Flamers are short-ranged weapons that spew out highly volatile clouds of liquid chemicals that ignite on contact with air. They are primarily used to scour the enemy from defended positions, as walls are of no defence against blasts of superheated vapour."/>
 	<entry name="ForceFlavor" value="Force weapons are potent psychic weapons used exclusively by trained psykers. By instilling a portion of his mental might into the weapon, a psyker can strike his foe with an incredible storm of power that ravages and overloads his enemy's nervous system, leaving him a mindless shell."/>
-	<entry name="FusionFlavor" value="Fusion weapons are anti-tank weapons that reduce reinforced armour to molten slag in the blink of eye."/>
+	<entry name="FusionFlavor" value="Fusion weapons are anti-tank weapons that reduce reinforced armour to molten slag in the blink of an eye."/>
 	<entry name="GaussFlavor" value="Gauss weapons vary in appearance from the rifle-sized flayers to the massive heavy gauss cannon. Unlike more conventional energy weapons, a gauss projector emits a molecular disassembling beam, reducing flesh, bone and even armour to its constituent atoms."/>
 	<entry name="GhostFlavor" value="The rudimentary sentience within the spirit stone core of each ghost weapon, whether axe, glaive or sword, empowers the blade and guides its wielder’s blows toward the vital points of his foe."/>
 	<entry name="IonFlavor" value="The high-energy streams fired by ion weapons react destructively with their target, vaporising flesh and metal with equal ease. Ion weapons can be overcharged to generate a more devastating attack, but at a risk of overheating its primary power cells."/>
@@ -83,6 +84,8 @@
 	<entry name="BurnaBombFlavor" value="A burna bomb is a large metal canister with an internal fuse. They are filled to the gunwales with sloshing promethium and squig-oil, and detonate on impact to spread flaming death across a wide area."/>
 	<entry name="BurstCannon" value="Burst Cannon"/>
 	<entry name="BurstCannonFlavor" value="<string name='Weapons/BurstFlavor'/>"/>
+	<entry name="BurstaKannon" value="Bursta Kannon"/>
+	<entry name="BurstaKannonFlavor" value="<string name='Weapons/DestroyerFlavor'/>"/>
 	<entry name="Chainaxe" value="Chainaxe"/>
 	<entry name="ChainaxeFlavor" value="A brutal variant of the chainsword that has its origins in the Horus Heresy, a chainaxe's hand whirs with razor-like teeth that chew through armour, ripping and tearing the vulnerable flesh beneath."/>
 	<entry name="Chainsword" value="Chainsword"/>
@@ -93,6 +96,8 @@
 	<entry name="CombiBolterFlavor" value="Essentially a twin-linked boltgun, the combi-bolter emerged from the Horus Heresy as the most tactically flexible weapon available to Space Marine Terminators. Whilst the Space Marines loyal to the Emperor developed the weapon into the storm bolter, the older combi-bolters are still abundant in the armies of the Traitor Legions."/>
 	<entry name="CrushingClaws" value="Crushing Claws"/>
 	<entry name="CrushingClawsFlavor" value="The obscene strength of these claws allows them to smash any foe."/>
+	<entry name="CleansingFlame" value="Cleansing Flame"/>
+	<entry name="CleansingFlameFlavor" value="The psyker harnesses the very fire in his soul, creating a wall of white-hot psychic flame that blasts forth and purges his foes from the battlefield."/>
 	<entry name="CloseCombatWeapon" value="Close Combat Weapon"/>
 	<entry name="CloseCombatWeaponFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="ClusterMines" value="Cluster Mines"/>
@@ -221,6 +226,8 @@
 	<entry name="FlameBreathFlavor" value="A torrent of psychic flames pour forth from the psyker's eyes and mouth, engulfing the target."/>
 	<entry name="FlayerClaws" value="Flayer Claws"/>
 	<entry name="FlayerClawsFlavor" value="Flayed Ones replace their hands with an array of lethally sharp blades, claws and mechanical shears to better tear and shred their prey into ribbons of bloody flesh."/>
+	<entry name="FragMissileLauncher" value="Frag Missile Launcher"/>
+	<entry name="FragMissileLauncherFlavor" value="Missile launchers can fire a variety of different missiles, making them incredibly versatile weapons."/>
 	<entry name="Frazzle" value="Frazzle"/>
 	<entry name="FrazzleFlavor" value="The Weirdboy sends out arcs of crackling psychic energy that ground themselves upon the enemy, reducing them to shrivelled husks before the eyes of their terrified comrades."/>
 	<entry name="IncendineCombustor" value="Incendine Combustor"/>
@@ -243,9 +250,11 @@
 	<entry name="KrakGrenade" value="Krak Grenade"/>
 	<entry name="KrakGrenadeFlavor" value="Krak grenades are implosive charges designed to crack vehicle armour."/>
 	<entry name="KrakMissileLauncher" value="Krak Missile Launcher"/>
-	<entry name="KrakMissileLauncherFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="KrakMissileLauncherFlavor" value="<string name='Weapons/FragMissileLauncherFlavor'/>"/>
 	<entry name="KrakstormMissileSilo" value="Krakstorm Missile Silo"/>
 	<entry name="KrakstormMissileSiloFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="KrootGun" value="Kroot Gun"/>
+	<entry name="KrootGunFlavor" value="Kroot use primitive slug-throwers adapted by the T'au to fire pulse rounds."/>
 	<entry name="KustomMegaBlasta" value="Kustom Mega-Blasta"/>
 	<entry name="KustomMegaBlastaFlavor" value="<string name='Weapons/KustomMegaSluggaFlavor'/>"/>
 	<entry name="KustomMegaSlugga" value="Kustom Mega-Slugga"/>
@@ -262,6 +271,8 @@
 	<entry name="LasgunArrayFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="LashWhipAndBonesword" value="Lash Whip and Bonesword"/>
 	<entry name="LashWhipAndBoneswordFlavor" value="Some Tyranid creatures wield these bio-weapons as a deadly symbiotic combination."/>
+	<entry name="LashWhips" value="Lash Whips"/>
+	<entry name="LashWhipsFlavor" value="Lash whips are cords of muscle that move at lightning speeds to slash their prey."/>
 	<entry name="LashingWarpEnergies" value="Lashing Warp Energies"/>
 	<entry name="LashingWarpEnergiesFlavor" value="If it’s loathsome aura wasn’t enough warning, the nearer you get to the Noctilith Crown, the more it’s unholy energies pull at you, shredding the strongest defences, or even pulling weaker assailants wholesale into the warp."/>
 	<entry name="Laspistol" value="Laspistol"/>
@@ -378,6 +389,10 @@
 	<entry name="ShadowWeaverFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="Shadowlimbs" value="Shadowlimbs"/>
 	<entry name="ShadowlimbsFlavor" value="To tackle an Umbra in combat is to face a ceaseless assault of distorted horrors drawn from the millions of years that the shadow-thing has persisted for, after whatever befell it in ancient times. Formed from the stuff of the Umbra itself, these nightmares aren’t just mere dreamstuff but tangible and lethal."/>
+	<entry name="SingingSpearMelee" value="Singing Spear (Melee)"/>
+	<entry name="SingingSpearMeleeFlavor" value="When hurled by an Aeldari psyker, a singing spear can sunder both armour and flesh, and will always return to its wielder."/>
+	<entry name="SingingSpearRanged" value="Singing Spear (Ranged)"/>
+	<entry name="SingingSpearRangedFlavor" value="<string name='Weapons/SingingSpearMeleeFlavor'/>"/>
 	<entry name="Shockwave" value="Shockwave"/>
 	<entry name="ShockwaveFlavor" value="The psyker slams his palms together and the noise is magnified a hundredfold, releasing a shockwave that snaps bones and knocks foes from their feet."/>
 	<entry name="Shoota" value="Shoota"/>
@@ -405,6 +420,8 @@
 	<entry name="SluggaFlavor" value="This ugly and brutish handgun is perfectly designed for its ugly and brutish owner to kill his foes, either by shooting them through the face at point-blank range or by beating them to death with it."/>
 	<entry name="Snazzgun" value="Snazzgun"/>
 	<entry name="SnazzgunFlavor" value="Snazzguns are marvels of Orky know-wotz. Their owners pour countless teef into having additional barrels, drum magazines, and all manner of widgets and gubbinz attached to their prized guns. The resultant weapons have been known to fire clouds of flaming bullets, blasts of plasma or volleys of rocket-propelled grenades."/>
+	<entry name="SniperRifle" value="Sniper Rifle"/>
+	<entry name="SniperRifleFlavor" value="Sniper rifles have powerful telescopic sights, enabling the firer to target weak points and distant foes with unerring accuracy. Some commanders see the sniper rifle as a dishonourable weapon, but they are in the minority. Most understand that pragmatism, and dead enemies, win more battles than honour ever will."/>
 	<entry name="SoulBlaze" value="Soul Blaze"/>
 	<entry name="SoulBlazeFlavor" value="Some psychically-imbued weapons set the very soul ablaze, consuming the unfortunate victim in clouds of ethereal fire."/>
 	<entry name="SoulflayerTendrils" value="Soulflayer Tendrils"/>
@@ -417,7 +434,7 @@
 	<entry name="StaffOfLight" value="Staff of Light"/>
 	<entry name="StaffOfLightFlavor" value="The staff of light is both a weapon and a symbol of authority. Its haft is actually a disguised power generator rod, and the crest a finely tuned focussing device, allowing the wielder to unleash crackling bolts of energy at his foes."/>
 	<entry name="Starcannon" value="Starcannon"/>
-	<entry name="StarcannonFlavor" value="It is a testament to the idiocy of Man that he creates plasma weapons that frequently maim or kill the wielder. Starcannons and suncannons have no such flaw, their plasma cores producing the heat of a star while the guns remains cool to the touch."/>
+	<entry name="StarcannonFlavor" value="It is a testament to the idiocy of Man that he creates plasma weapons that frequently maim or kill the wielder. Starcannons and suncannons have no such flaw, their plasma cores producing the heat of a star while the guns remain cool to the touch."/>
 	<entry name="StingerSalvo" value="Stinger Salvo"/>
 	<entry name="StingerSalvoFlavor" value="Stinger salvoes are simple but effective weapons that fire rows of metre-long, razor-sharp spikes."/>
 	<entry name="Stikkbomb" value="Stikkbomb"/>
@@ -535,6 +552,8 @@
 	<entry name="WarscytheFlavor" value="Warscythes are energy-bladed battle staves, and have been the favoured weapons of Necron Lords and their bodyguards for many thousands of years. Heavy and cumbersome, in the hands of a lesser creature a warscythe would be of little threat, but when wielded by the tireless mechanical musculature of a Necron, it is a most formidable weapon."/>
 	<entry name="WeirdboyStaff" value="Weirdboy Staff"/>
 	<entry name="WeirdboyStaffFlavor" value="The shiny charms and jangling bells that bedeck a Weirdboy staff belie the horrific damage they can wreak in battle. The copper pole at their core allows their wielder to earth the rampant Waaagh! energy that riddles them, and these weapons discharge crackling green blasts with every blow the Weirdboy lands."/>
+	<entry name="WhipCoils" value="Whip Coils"/>
+	<entry name="WhipCoilsFlavor" value="Some Canoptek Wraiths are equipped with writhing mechanical tendrils that whip around at high speeds, splitting flesh and flensing their prey in an eye-blink."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
 	<entry name="WitchStaff" value="Witch Staff"/>

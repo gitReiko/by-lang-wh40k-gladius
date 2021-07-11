@@ -126,9 +126,12 @@
 	<entry name="ChaosSpaceMarines/DarkGlory" value="Цёмная слава"/>
 	<entry name="ChaosSpaceMarines/DarkGloryDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="ChaosSpaceMarines/DarkGloryFlavor" value="Some champions of Chaos are so blessed by their patron deity that they are supernaturally protected from harm. They might be surrounded by a powerful, crackling shield of energy, or else bullets aimed at them may be strangely turned aside just before they strike. In either case, it is clear that the Dark Gods are watching over them."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolution" value="Адкладзенае дараванне"/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Павялічвае непаражальнае зніжэнне шкоды суседніх хаўрусных адзінак хаосу."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="The bowed figures of the Dark Disciples incessantly shriek the names of the Chaos Gods, calling for their protection. Typically fickle, the Gods are prone to bless those nearby instead, leaving the desperate Disciples as frail as ever."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrike" value="Узвышаны ўдар"/>
 	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Здзяйсняе разбуральную атаку грымотным молатам супраць цэлевой варожай адзінкі, здароўе якой ніжэй за 50%.."/>
-	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isn’t just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—it’s to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/> <!-- Chaos Lord elite ability. -->
+	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isn’t just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—it’s to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagion" value="Дарунак заражэння"/>
 	<entry name="ChaosSpaceMarines/GiftOfContagionDescription" value="Наносіць шкоду цэлевай пяхоце ворага."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagionFlavor" value="The psyker gathers clouds of contagion and rot-flies about his enemies, granting them Father Nurgle's blessing."/>
@@ -230,6 +233,8 @@
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="Годнае прынашэнне"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Павялічвае шанец атрымання дарунка хаосу для суседніх хаўрусных чэмпіёнаў хаосу."/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="Having the eye of the gods upon you means those nearby are also subject to greater scrutiny—whether that turns them to Spawn or Daemon Prince, depends on how well they perform and the inscrutable whim of the Gods."/> <!-- Chaos Lord levelable ability. -->
+	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
+	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
 	<entry name="ClearTile" value="Ачысціць плітку"/>
 	<entry name="ClearTileDescription" value="Вяртае плітцы яе нармальны стан і ачышчае яе ад пустазелля-дроту, імперскіх руін і лясоў, ад адной асаблівасці за раз."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
@@ -275,7 +280,7 @@
 	<entry name="DeployUnit" value="Разгарнуць %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Разгарнуць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="DevastatorDoctrine" value="Выкарыстаць дактрыну разбуральнікаў"/>
-	<entry name="DevastatorDoctrineDescription" value="Тактыка ордэна, якая павялічвае трапнасць космадэсантнікаў-разбуральнікаў."/>
+	<entry name="DevastatorDoctrineDescription" value="Тактыка ордэна, якая павялічвае трапнасць космадэсантнікаў-разбуральнікаў ды цэнтурыёнаў-разбуральнікаў."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
 	<entry name="Disappear" value="Знікнуць"/>
 	<entry name="Disband" value="Расфармаваць"/>
@@ -372,6 +377,9 @@
 	<entry name="FullThrottle" value="“Поўны газ!”"/>
 	<entry name="FullThrottleDescription" value="Дадае рух камандзіру танка і суседнім хаўрусным танкам."/>
 	<entry name="FullThrottleFlavor" value="The officer leads a glorious tank charge that grinds the enemy beneath his treads."/>
+	<entry name="GateOfInfinity" value="Брама бясконцасці"/>
+	<entry name="GateOfInfinityDescription" value="Тэлепартуецца да абранай даследаванай пліткі."/>
+	<entry name="GateOfInfinityFlavor" value="The psyker punches a corridor through the roiling Immaterium, allowing him to cross great distances in the blink of an eye."/>
 	<entry name="GrabbinKlaw" value="Клюшня хапала"/>
 	<entry name="GrabbinKlawDescription" value="Знерухомлівае абраную варожую наземную тэхніку."/>
 	<entry name="GrabbinKlawFlavor" value="In their pursuit of ever-larger Power Klaws, Ork Meks occasionally make ones that are simply too large for even the most over-sized Boss or Deff Dread. These are mounted on vehicles, where they are used to immobilise enemy vehicles or perform outrageous handbrake turns."/>
@@ -384,6 +392,9 @@
 	<entry name="HammerOfWrath" value="Молат гневу"/>
 	<entry name="HammerOfWrathDescription" value="Павялічвае шкоду."/>
 	<entry name="HammerOfWrathFlavor" value="Many warriors hurl themselves headlong into combat, seeking to crush or trample the foe."/>
+	<entry name="Hammerhand" value="Рука-молат"/>
+	<entry name="HammerhandDescription" value="Павялічвае шкоду ў блізкім боі."/>
+	<entry name="HammerhandFlavor" value="Focussing the raging power of his mind, the psyker augments the strength of his comrades to the point where they can crush flesh and bone with a single blow."/>
 	<entry name="Heal" value="Утрымліваць пазіцыю да вылячэння"/>
 	<entry name="HealDescription" value="Стрымліваць пазіцыю да поўнага вылячэння."/>
 	<entry name="HealingSurge" value="Хваля лячэння"/>
@@ -396,8 +407,6 @@
 	<entry name="IronWill" value="Жалезная воля"/>
 	<entry name="IronWillDescription" value="Пасля смерці лорд-камісар адразу ж ажывае."/>
 	<entry name="IronWillFlavor" value="“Pain is temporary, Honour is forever.”<br/>  — Colonel-Commissar Ibram Gaunt, Tanith First and Only"/>
-	<entry name="JetPack" value="Рэактыўны ранец"/>
-	<entry name="JetPackDescription" value="Ляціць праз перашкоды да абранай пліткі."/>
 	<entry name="Jink" value="Хітрыкі"/>
 	<entry name="JinkDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою, але зніжае трапнасць. Нельга выкарыстоўваць, калі адзінка атакавала ў гэты крок."/>
 	<entry name="JinkFlavor" value="Some units favour speed and agility rather than heavy armour to keep them alive on the battlefield, dodging and weaving unscathed through hails of incoming fire."/>
@@ -599,6 +608,9 @@
 	<entry name="SkipDescription" value="Прапусціць гэта крок."/>
 	<entry name="Sleep" value="Спаць"/>
 	<entry name="SleepDescription" value="Спыняе вытворчасць да скасавання."/>
+	<entry name="SpaceMarines/Omniscope" value="Омніскоп"/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="Ігнаруе змяншэнне шкоды ад далёкага бою."/>
+	<entry name="SpaceMarines/OmniscopeFlavor" value="Centurions make use of omniscopes to better direct their fearsome firepower and pierce the gloom of a hostile galaxy."/>
 	<entry name="SpaceSlip" value="Касмічнае ўхіленне"/>
 	<entry name="SpaceSlipDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="SpawnUnits" value="Выклікае %1%"/>

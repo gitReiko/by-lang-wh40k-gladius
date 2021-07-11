@@ -148,6 +148,8 @@
 	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
 	<entry name="LifeStealFactor" value="Кража жизни"/>
 	<entry name="LifeStealFactorIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealRadius" value="Радиус кражи жизни"/>
+	<entry name="LifeStealRadiusIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
 	<entry name="Loyalty" value="Лояльность"/>
 	<entry name="LoyaltyHint" value="<style name='Title'/>Лояльность<br/><style name='Default'/> указывает на приверженность населения своему делу. Каждое положительное очко лояльности увеличивает производство ресурсов города на 1%, тогда как каждое отрицательное очко  уменьшается производство ресурсов города на 2% (до -50%). Основание каждого города кроме первого снижает лояльность во всех городах на 6 очков."/>
 	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>

@@ -130,6 +130,9 @@
 	<entry name="AstraMilitarum/CityTier3" value="Инфраструктура туннелей снабжения"/>
 	<entry name="AstraMilitarum/CityTier3Description" value="Увеличивает радиус присоединения плиток."/>
 	<entry name="AstraMilitarum/CityTier3Flavor" value="Департаменто Муниторум может быть где-то неэффективным, но зато они могут планировать, а Техножрецы Геологи и Сервиторы могут это построить. Эти бункерные туннели позволяют командованию Астра Милитарум надзирать за гораздо большей площадью города, не теряя оборонительного потенциала."/>
+	<entry name="AstraMilitarum/ShootSharpAndScarper" value="Пристрели и сматывайся"/>
+	<entry name="AstraMilitarum/ShootSharpAndScarperDescription" value="Действие не потребляют движения."/>
+	<entry name="AstraMilitarum/ShootSharpAndScarperFlavor" value="То, чего Ратлингу не хватает в военном отношении, они восполняют инстинктами, зная когда пора стрелять, а когда пора бежать."/>
 	<entry name="AstraMilitarumAircraftProductionEdict" value="<string name='Actions/AstraMilitarumAircraftProductionEdict'/>"/>
 	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Увеличивает выпуск продукции."/>
 	<entry name="AstraMilitarumAircraftProductionEdictFlavor" value="<string name='Actions/AstraMilitarumAircraftProductionEdictFlavor'/>"/>
@@ -275,6 +278,9 @@
 	<entry name="ChaosSpaceMarines/FireFrenzy" value="Огненное безумие"/>
 	<entry name="ChaosSpaceMarines/FireFrenzyDescription" value="Препятствует движению и увеличивает эффективность дальних атак."/>
 	<entry name="ChaosSpaceMarines/FireFrenzyFlavor" value="В ответ на жалкий огонь смертных, Хельбрут беспощадно пуляет из своего оружия, глухой ко всему, кроме оглушительного рева своих демонических боеприпасов."/> <!-- Hellbrute Crazed result. -->
+	<entry name="ChaosSpaceMarines/DeferredAbsolution" value="<string name='Actions/ChaosSpaceMarines/DeferredAbsolution'/>"/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Увеличивает снижение урона."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="<string name='Actions/ChaosSpaceMarines/DeferredAbsolutionFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutation" value="Дар Мутации"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="В начале следующего хода подразделение получит новое случайное разблокированное Благословение Хаоса, и эта особенность закончится."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="Темные Боги наградили своего Чемпиона зловещей наградой, которая, скорее всего, будет острым как бритва придатком, а может и языком в неудобном месте."/>
@@ -413,7 +419,7 @@
 	<entry name="DeedsOfGlory" value="Славные подвиги"/>
 	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
 	<entry name="DestroyerWeapon" value="Оружие Разрушителя"/>
-	<entry name="DestroyerWeaponDescription" value="Увеличивает урон и бронепробиваемость."/>
+	<entry name="DestroyerWeaponDescription" value="Увеличивает урон."/>
 	<entry name="DevastatorDoctrine" value="Доктрина Разрушителя"/>
 	<entry name="DevastatorDoctrineDescription" value="Повышает точность."/>
 	<entry name="DevastatorDoctrineFlavor" value="<string name='Actions/DevastatorDoctrineFlavor'/>"/>
@@ -421,7 +427,7 @@
 	<entry name="DisciplineDescription" value="Повышает точность."/>
 	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
 	<entry name="DistortScythe" value="Коса искажения"/>
-	<entry name="DistortScytheDescription" value="Увеличивает урон и бронепробиваемость."/>
+	<entry name="DistortScytheDescription" value="Увеличивает урон."/>
 	<entry name="DistortScytheFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
 	<entry name="DogmaAstrates" value="Догма Астратес"/>
 	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
@@ -512,7 +518,7 @@
 	<entry name="Eldar/KhainesMightDescription" value="Увеличивает атаки ближнего боя."/>
 	<entry name="Eldar/KhainesMightFlavor" value="<string name='Actions/Eldar/KhainesMightFlavor'/>"/>
 	<entry name="Eldar/LinkedFire" value="<string name='Actions/Eldar/LinkedFire'/>"/>
-	<entry name="Eldar/LinkedFireDescription" value="Увеличивает наносимый урон и бронепробиваемость."/>
+	<entry name="Eldar/LinkedFireDescription" value="Увеличивает наносимый урон и бронепробиваемость Призменной пушки."/>
 	<entry name="Eldar/LinkedFireFlavor" value="<string name='Actions/Eldar/LinkedFireFlavor'/>"/>
 	<entry name="Eldar/MarksmansEye" value="Меткий глаз"/>
 	<entry name="Eldar/MarksmansEyeDescription" value="Повышает точность."/>
@@ -656,6 +662,9 @@
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="HammerOfWrathDescription" value="Увеличивает наносимый урон."/>
 	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Hammerhand" value="<string name='Actions/Hammerhand'/>"/>
+	<entry name="HammerhandDescription" value="<string name='Actions/HammerhandDescription'/>"/>
+	<entry name="HammerhandFlavor" value="<string name='Actions/HammerhandFlavor'/>"/>
 	<entry name="Hallucination" value="<string name='Actions/Hallucination'/>"/>
 	<entry name="HallucinationDescription" value="Уменьшает атаку."/>
 	<entry name="HallucinationFlavor" value="<string name='Actions/HallucinationFlavor'/>"/>
@@ -731,7 +740,7 @@
 	<entry name="LifeDrain" value="Осушение жизни"/>
 	<entry name="LifeDrainDescription" value="Увеличивает урон против пехоты."/>
 	<entry name="LifeSteal" value="Кража жизни"/>
-	<entry name="LifeStealDescription" value="Преобразует урон в очки жизни."/>
+	<entry name="LifeStealDescription" value="Преобразует урон в очки жизни для этого и соседних пехотных подразделений."/>
 	<entry name="LinebreakerBombardment" value="Бомбардировка линии"/>
 	<entry name="LinebreakerBombardmentDescription" value="Игнорирует уменьшение урона от дальнего огня при смежном расположении с союзным Поборником."/>
 	<entry name="Luminagen" value="Люминаген"/>
@@ -768,7 +777,7 @@
 	<entry name="MobileCommandDescription" value="Пассивная способность работающая при погруженном подразделении на этом транспорте."/>
 	<entry name="MobileCommandFlavor" value="Транспортное средство обычно герметично, что делает любые войска неэффективными внутри него (но защищенными) до тех пор, пока они не достигнут места назначения. В отличие от орудийных щелей, коммуникационное оборудование не ставит под угрозу защиту машины, как это доказывает имперский вариант командирской Химеры, позволяя офицерам продолжать руководить своими войсками из нее."/>
 	<entry name="Monofilament" value="Моноволокно"/>
-	<entry name="MonofilamentDescription" value="Масштабирует урон в соответствии с максимальным движением выбранного подразделения. Увеличивает пробиваемость брони."/>
+	<entry name="MonofilamentDescription" value="Масштабирует точность в соответствии с максимальным движением выбранного подразделения. Увеличивает пробиваемость брони."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Монструозное создание"/>
 	<entry name="MonstrousCreatureDescription" value="Классификация."/>
@@ -828,7 +837,7 @@
 	<entry name="Necrons/HousingBuildingBonusDescription" value="Увеличивает лимит населения."/>
 	<entry name="Necrons/HousingBuildingBonusFlavor" value="Изменяя размерные ограничения для каждого укрытия, много других Некронов могут быть привлечены для ремонта или обслуживания в городе."/>
 	<entry name="Necrons/ImmuneToNaturalLaw" value="Иммунитет к естественным законам"/>
-	<entry name="Necrons/ImmuneToNaturalLawDescription" value="Подразделение может перемещаться по воде и игнорировать штраф за движение через реки и проволочный сорняк. Игнорирует вражескую зону контроля"/>
+	<entry name="Necrons/ImmuneToNaturalLawDescription" value="Подразделение может перемещаться по воде, через вражеские подразделения и игнорировать штраф за движение через реки и проволочный сорняк."/>
 	<entry name="Necrons/InfantryBuildingBonus" value="Рафинированное ядро"/>
 	<entry name="Necrons/InfantryBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
 	<entry name="Necrons/InfantryBuildingBonusFlavor" value="Благодаря лучшим инструментам и меньшим ограничениям Криптеки и Каноптеки способны быстрее пробуждать спящих Некронов."/>
@@ -889,6 +898,12 @@
 	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Назначение конструкторов Каноптеков, для обслуживания и ремонта различных долго бездействующих боевых машин, значительно ускоряет их ремонт."/>
 	<entry name="Necrons/VengeanceOfTheEnchained" value="Отмщение прикованного"/>
 	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Смертельный взрыв наносит дополнительный урон."/>
+	<entry name="Necrons/WraithForm" value="Форма Призрака"/>
+	<entry name="Necrons/WraithFormDescription" value="Увеличивает снижение урона."/>
+	<entry name="Necrons/WraithFormFlavor" value="Как Каноптековая машина, Призрак был предназначен для сохранения спящих Некронов на протяжении тысячелетий их спячки, и был способен пространственно дестабилизировать себя, чтобы восстанавливать неисправные внутренние компоненты. Теперь его заряды пробуждаются, он использует ту же технологию, чтобы летать по полю боя, поскольку вражеские боеприпасы просто проходят через него не причиняя вреда."/>
+	<entry name="Necrons/Wraithflight" value="Полет Призрака"/>
+	<entry name="Necrons/WraithflightDescription" value="<string name='Traits/Necrons/ImmuneToNaturalLawDescription'/>"/>
+	<entry name="Necrons/WraithflightFlavor" value="Их матрица размерной дестабилизации не только делает Призраков практически неубиваемыми-она также позволяет им проходить через любые препятствия, будь то реки, проволочный сорняк или даже вражеских воинов."/>
 	<entry name="Necrons/WrithingWorldscape" value="<string name='Actions/Necrons/WrithingWorldscape'/>"/>
 	<entry name="NoEscape" value="Отступление невозможно"/>
 	<entry name="NoEscapeDescription" value="Увеличивает атаку на подразделение с открытым верхом."/>
@@ -967,7 +982,7 @@
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Увеличивает урон и уменьшение урона."/>
 	<entry name="Orks/Flyboss" value="Летунабосс"/>
-	<entry name="Orks/FlybossDescription" value="Увеличивает точность дальнобойного огня."/>
+	<entry name="Orks/FlybossDescription" value="Увеличивает точность дальнобойного огня летунов, реактивных байков и скиммеров."/>
 	<entry name="Orks/FlybossFlavor" value="Летунабосс—летун-ас, который пережил больше боев, чем он может посчитать (даже используя пальцы ног)."/>
 	<entry name="Orks/Gitfinda" value="Паискавик"/>
 	<entry name="Orks/GitfindaDescription" value="Повышает точность дальнего огня, если подразделение остается неподвижным."/>
@@ -1131,7 +1146,7 @@
 	<entry name="SlowAndPurposefulDescription" value="Отрицает штраф за тяжелое оружие и артиллерию."/>
 	<entry name="SlowAndPurposefulFlavor" value="Многие воины неуклюжи,но уверено и медленно продвигаются вперед, и от этого они не менее смертоносны."/>
 	<entry name="Slowed" value="Тормознутый"/>
-	<entry name="SlowedDescription" value="Снижает точность и движение."/>
+	<entry name="SlowedDescription" value="Снижает движение."/>
 	<entry name="Smash" value="Разгром"/>
 	<entry name="SmashDescription" value="Увеличивает бронепробиваемость в ближнем бою."/>
 	<entry name="SmashFlavor" value="Самым страшным существам достаточно одного удара, чтобы пробить броню танков или раздавить живое существо в кровавую лепёшку."/>
@@ -1168,6 +1183,9 @@
 	<entry name="SpaceMarines/MeleeDamage" value="Мастера ближнего боя"/>
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Увеличивает бронепробиваемость."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="Некоторые Ордена Адептус Астартеса—Космические Волки, Кровопийцы, Минотавры—славятся своим мастерством ближнего боя. Чтобы выучить технику ударов, даже вновь посвященным скаутам Десантникам из этих Орденов, нужно впитать в себя поколениями накопленные знания и много учиться."/>
+	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="<string name='Actions/SpaceMarines/OmniscopeDescription'/>"/>
+	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
 	<entry name="SpaceSlipDescription" value="Увеличивает уменьшение урона."/>
 	<entry name="Stealth" value="По тихому"/>
@@ -1500,7 +1518,7 @@
 	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Уменьшает затраты влияния на содержание."/>
 	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="Разум улья обычно осуществляет строгий контроль над своим роем, направляя все, кроме бессознательных действий,—но ослабив этот контроль, меньшие организмы могут получат достаточные условия, чтобы кормиться самим."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
-	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Уменьшает урон."/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Увеличивает урон."/>
 	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
 	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Уменьшает мораль каждый ход."/>

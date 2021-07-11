@@ -4,7 +4,7 @@
 	<entry name="AstraMilitarum/AircraftDescription" value="Building that produces aircraft as well as generates ore and influence."/>
 	<entry name="AstraMilitarum/AircraftFlavor" value="This landing field was designed for larger craft—almost up to the intra-system scale—but with the endless warpstorms, it's been repurposed to house the Imperial air forces. Much like a Skyshield landing pad, it has limited field generators to protect grounded aircraft from incoming fire."/>
 	<entry name="AstraMilitarum/Construction" value="Labour Corps"/>
-	<entry name="AstraMilitarum/ConstructionDescription" value="Building that constructs new buildings and generates influence."/>
+	<entry name="AstraMilitarum/ConstructionDescription" value="Building that constructs new buildings as well as generates food and minerals."/>
 	<entry name="AstraMilitarum/ConstructionFlavor" value="Whilst the Administratum runs the entire Empire of man, the Departmento Munitorum is tasked solely with supplying the manpower and supplies for the Astra Militarum. Among their many tasks is the construction of large facilities, such as airfields or orbital stations. The poor grunts who have to do the work are the Labour Corps, indentured or penal workers and mind-wiped servitors."/>
 	<entry name="AstraMilitarum/Energy" value="Plasma Ioniser"/>
 	<entry name="AstraMilitarum/EnergyDescription" value="Building that generates energy."/>
@@ -114,10 +114,10 @@
 	<entry name="Eldar/InfantryFlavor" value="Asuryan, the Phoenix King, was the chief of the Aeldari Gods and the last to be consumed by Slaanesh during the fall of the Aeldari. He has long been an inspiration to the Craftworld Aeldari, who often refer to themselves as ‘Asuryani’. At this muster ground, new arrivals to Gladius are equipped and assigned to squads before being tested in the field."/>
 	<entry name="Eldar/Influence" value="Dome of the Seers"/>
 	<entry name="Eldar/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="Eldar/InfluenceFlavor" value="When one sees the tracery of wraithbone growing into the sky; when one hears an  unearthly song from a labourer who has lived longer than the Imperium has existed; when one sees an elegant figure talking with authority about the future to come; perhaps you might concede that the Aeldari have good reason to behave with arrogance..."/>
+	<entry name="Eldar/InfluenceFlavor" value="When one sees the tracery of wraithbone growing into the sky; when one hears an unearthly song from a labourer who has lived longer than the Imperium has existed; when one sees an elegant figure talking with authority about the future to come; perhaps you might concede that the Aeldari have good reason to behave with arrogance..."/>
 	<entry name="Eldar/Loyalty" value="Cairn of Ulthanesh"/>
 	<entry name="Eldar/LoyaltyDescription" value="Building that increases loyalty."/>
-	<entry name="Eldar/LoyaltyFlavor" value="Eldanesh was the first Aeldari. He and his kinsman Ulthanesh were two greatest heroes of Aeldari mythology, battling the new people’s enemies alongside Khaine, the God of War. Eventually, the two heroes fell out and Ulthanesh went his own way. But when Khaine killed Eldanesh in rage, Ulthanesh fought alongside his kinsman’s house against the god and became proverbial for his loyalty."/>
+	<entry name="Eldar/LoyaltyFlavor" value="Eldanesh was the first Aeldari. He and his kinsman Ulthanesh were the two greatest heroes of Aeldari mythology, battling the new people’s enemies alongside Khaine, the God of War. Eventually, the two heroes fell out and Ulthanesh went his own way. But when Khaine killed Eldanesh in rage, Ulthanesh fought alongside his kinsman’s house against the god and became proverbial for his loyalty."/>
 	<entry name="Eldar/Ore" value="Altmarl of Vaul"/>
 	<entry name="Eldar/OreDescription" value="Building that harvests ore."/>
 	<entry name="Eldar/OreFlavor" value="The smith god Vaul was known for his fantastic creations. Though the surviving myths focus mostly on his weapons (notably his hundred swords), he created many devices the Aeldari still use today—like this automated mine, which requires the barest supervision to extract the ore needed for his other creations."/>

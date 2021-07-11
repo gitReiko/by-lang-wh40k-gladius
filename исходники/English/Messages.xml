@@ -31,9 +31,9 @@
 	<entry name="ReceivingInfo" value="Receiving info ..."/>
 	<entry name="RestartRequired" value="You must restart the game for the changes to take effect."/>
 	<entry name="RetrievingServerList" value="Retrieving server list ..."/>
+	<entry name="ScreenShotSaveError" value="Error saving screen shot"/>
 	<entry name="ScreenShotSaved" value="Screen shot saved"/>
 	<entry name="SetBinding" value="Press a new key combination to bind to %1%."/>
-	<entry name="ScreenShotSaveError" value="Error saving screen shot"/>
 	<entry name="ServerUnreachable" value="Could not connect to server.<br/><br/>To improve connectivity, ensure you have disabled your firewalls and enabled UPnP on your router or forwarded TCP port %1% to your local machine."/>
 	<entry name="SelectTarget" value="Select target"/>
 	<entry name="TerminatedWithDisableMods" value="Mods have been disabled because of a crash. Visit the mods screen to re-enable them."/>

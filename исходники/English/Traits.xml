@@ -130,6 +130,9 @@
 	<entry name="AstraMilitarum/CityTier3" value="Substructure Supply Tunnels"/>
 	<entry name="AstraMilitarum/CityTier3Description" value="Increases the tile acquisition radius."/>
 	<entry name="AstraMilitarum/CityTier3Flavor" value="The Departmento Munitorum might be inefficient, but they can plan and the Techpriest Explorators and Servitors can build. These bunkered tunnels allow the Astra Militarum commander to oversee a much larger city area, without losing defensive control."/>
+	<entry name="AstraMilitarum/ShootSharpAndScarper" value="Shoot Sharp and Scarper"/>
+	<entry name="AstraMilitarum/ShootSharpAndScarperDescription" value="Actions do not consume movement."/>
+	<entry name="AstraMilitarum/ShootSharpAndScarperFlavor" value="What Ratlings lack militarily in, well, everything, they make up in knowing when it’s the right time to shoot and when it’s the right time to run."/>
 	<entry name="AstraMilitarumAircraftProductionEdict" value="<string name='Actions/AstraMilitarumAircraftProductionEdict'/>"/>
 	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Increases the production output."/>
 	<entry name="AstraMilitarumAircraftProductionEdictFlavor" value="<string name='Actions/AstraMilitarumAircraftProductionEdictFlavor'/>"/>
@@ -275,6 +278,9 @@
 	<entry name="ChaosSpaceMarines/FireFrenzy" value="Fire Frenzy"/>
 	<entry name="ChaosSpaceMarines/FireFrenzyDescription" value="Prevents movement and increases the ranged attacks."/>
 	<entry name="ChaosSpaceMarines/FireFrenzyFlavor" value="In response to the pitiful fire of mortals, the Hellbrute unloads its weapons relentlessly, blind to anything but the deafening roar of its daemonic ammunition."/> <!-- Hellbrute Crazed result. -->
+	<entry name="ChaosSpaceMarines/DeferredAbsolution" value="<string name='Actions/ChaosSpaceMarines/DeferredAbsolution'/>"/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="<string name='Actions/ChaosSpaceMarines/DeferredAbsolutionFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutation" value="Gift of Mutation"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="At the start of the next turn, the unit gains a new random unlocked Boon of Chaos and this trait ends."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="The Dark Gods have granted their champion a malign reward, which is as likely to be a razor-sharp appendage as it is to be an inconveniently placed tongue."/>
@@ -437,7 +443,7 @@
 	<entry name="Eldar/AerobaticGraceFlavor" value="While the Harlequins are the true masters of dance amonst the Aeldari, the Shining Spears approach them in their control of their jetbikes, seeming to pirouette between storms of bolter fire as they charge their foe."/>
 	<entry name="Eldar/AircraftBuildingBonus" value="Kurnous' Summons"/>
 	<entry name="Eldar/AircraftBuildingBonusDescription" value="Increases the production output."/>
-	<entry name="Eldar/AircraftBuildingBonusFlavor" value="he Crimson Hunters owe their allegiance to Kurnous, the Aeldari God of the Hunt. Though he is 60 million years dead, when his name is invoked they redouble their efforts, both in recruitment and construction."/>
+	<entry name="Eldar/AircraftBuildingBonusFlavor" value="The Crimson Hunters owe their allegiance to Kurnous, the Aeldari God of the Hunt. Though he is 60 million years dead, when his name is invoked they redouble their efforts, both in recruitment and construction."/>
 	<entry name="Eldar/AncientDoom" value="Ancient Doom"/>
 	<entry name="Eldar/AncientDoomDescription" value="Increases the accuracy and damage taken against Chaos units."/>
 	<entry name="Eldar/AncientDoomFlavor" value="The Aeldari loathe and fear She Who Thirsts above all else, for in Slaanesh they see their doom made manifest."/>
@@ -446,7 +452,7 @@
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="The unique shuriken ammunition of the Aeldari consists of monomolecular spinning blades fired at great speed. But molecules are so limiting when there are smaller, more deadly structures to use."/>
 	<entry name="Eldar/AssuredDestruction" value="Assured Destruction"/>
 	<entry name="Eldar/AssuredDestructionDescription" value="Increases the damage against vehicles."/>
-	<entry name="Eldar/AssuredDestructionFlavor" value="”If a captain is foolish enough to allow five Aeldari with meltaguns and several millenia of combat experience to get within 20 metres of his tank… well, frankly, he deserves to be a molten puddle of ichor on the floor.”<br/>  — Commissar Gruber."/>
+	<entry name="Eldar/AssuredDestructionFlavor" value="”If a captain is foolish enough to allow five Aeldari with meltaguns and several millenia of combat experience to get within 20 metres of his tank… well, frankly, he deserves to be a molten puddle of ichor on the floor.”<br/>  — Commissar Gruber"/>
 	<entry name="Eldar/AsuryaniArrivals" value="<string name='Actions/Eldar/AsuryaniArrivals'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsDescription" value="<string name='Actions/Eldar/AsuryaniArrivalsDescription'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsFlavor" value="<string name='Actions/Eldar/AsuryaniArrivalsFlavor'/>"/>
@@ -570,7 +576,7 @@
 	<entry name="Eldar/StarEnginesFlavor" value="Whilst all Aeldari vehicles are swift and agile, those that mount star engines are often able to move faster than the eye can follow. Lesser races can only marvel at the phenomenal speed and manoeuvrability of a craft so equipped."/>
 	<entry name="Eldar/TitanHoloFields" value="Titan Holo-Fields"/>
 	<entry name="Eldar/TitanHoloFieldsDescription" value="<string name='Traits/Eldar/HoloFieldsDescription'/>"/>
-	<entry name="Eldar/TitanHoloFieldsFlavor" value="“I was watching the best-best light show in the Hive, all elsparks and bang-bangs and shinies and sooo psychedelic… then I wowed around and the Irregulars was dead-dead and that alien tank just rolled on past me like I was plastidough.”<br/>  — Trooper Grande, sole survivor of the Necromundan Fourth Irregulars."/>
+	<entry name="Eldar/TitanHoloFieldsFlavor" value="“I was watching the best-best light show in the Hive, all elsparks and bang-bangs and shinies and sooo psychedelic… then I wowed around and the Irregulars was dead-dead and that alien tank just rolled on past me like I was plastidough.”<br/>  — Trooper Grande, sole survivor of the Necromundan Fourth Irregulars"/>
 	<entry name="Eldar/TranscendentBliss" value="<string name='Actions/Eldar/TranscendentBliss'/>"/>
 	<entry name="Eldar/TranscendentBlissDescription" value="<string name='Actions/Eldar/TranscendentBlissDescription'/>"/>
 	<entry name="Eldar/TranscendentBlissFlavor" value="<string name='Actions/Eldar/TranscendentBlissFlavor'/>"/>
@@ -656,6 +662,9 @@
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="HammerOfWrathDescription" value="Increases the damage."/>
 	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Hammerhand" value="<string name='Actions/Hammerhand'/>"/>
+	<entry name="HammerhandDescription" value="<string name='Actions/HammerhandDescription'/>"/>
+	<entry name="HammerhandFlavor" value="<string name='Actions/HammerhandFlavor'/>"/>
 	<entry name="Hallucination" value="<string name='Actions/Hallucination'/>"/>
 	<entry name="HallucinationDescription" value="Decreases the attacks."/>
 	<entry name="HallucinationFlavor" value="<string name='Actions/HallucinationFlavor'/>"/>
@@ -772,7 +781,7 @@
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Monstrous Creature"/>
 	<entry name="MonstrousCreatureDescription" value="Classification."/>
-	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank – like theTyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
+	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank–like the Tyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
 	<entry name="MoraleSoak" value="Morale Soak"/>
 	<entry name="MoraleSoakDescription" value="Reduces the damage by the target's morale."/>
 	<entry name="MoveThroughCover" value="Move Through Cover"/>
@@ -828,7 +837,7 @@
 	<entry name="Necrons/HousingBuildingBonusDescription" value="Increases the population limit."/>
 	<entry name="Necrons/HousingBuildingBonusFlavor" value="By altering the dimensional constraints of each shelter, many more Necrons can be accommodated for repair or maintenance."/>
 	<entry name="Necrons/ImmuneToNaturalLaw" value="Immune to Natural Law"/>
-	<entry name="Necrons/ImmuneToNaturalLawDescription" value="The unit can move over water and ignores the penalties of rivers and wire weed. Ignores enemy zone of control."/>
+	<entry name="Necrons/ImmuneToNaturalLawDescription" value="The unit can move over water, through enemy units and ignores the penalties of rivers and wire weed."/>
 	<entry name="Necrons/InfantryBuildingBonus" value="Core Refinements"/>
 	<entry name="Necrons/InfantryBuildingBonusDescription" value="Increases the production ouput."/>
 	<entry name="Necrons/InfantryBuildingBonusFlavor" value="With better tools and less constraints, the Crypteks and Canopteks are able to recover a higher proportion of the buried Necrons, faster."/>
@@ -889,6 +898,12 @@
 	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Assigning Canoptek constructors to maintain and repair the various long-dormant war machines greatly speeds up their refurbishment."/>
 	<entry name="Necrons/VengeanceOfTheEnchained" value="Vengeance of the Enchained"/>
 	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Death explosion causes extra damage."/>
+	<entry name="Necrons/WraithForm" value="Wraith Form"/>
+	<entry name="Necrons/WraithFormDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Necrons/WraithFormFlavor" value="As a Canoptek device, the Wraith was intended to maintain the sleeping Necrons through the millennia they slumbered and was able to dimensionally destabilise itself to repair failing internal components. Now its charges are awoken, it uses the same technology to flit across the battlefield as enemy munitions pass harmlessly through it."/>
+	<entry name="Necrons/Wraithflight" value="Wraithflight"/>
+	<entry name="Necrons/WraithflightDescription" value="<string name='Traits/Necrons/ImmuneToNaturalLawDescription'/>"/>
+	<entry name="Necrons/WraithflightFlavor" value="Their dimensional destabilisation matrix doesn’t just make Wraiths almost impossible to kill—it also allows them to pass through any obstacle, be that rivers, wire weed or even enemy warriors."/>
 	<entry name="Necrons/WrithingWorldscape" value="<string name='Actions/Necrons/WrithingWorldscape'/>"/>
 	<entry name="NoEscape" value="No Escape"/>
 	<entry name="NoEscapeDescription" value="Increases the attacks against open-topped units."/>
@@ -937,7 +952,7 @@
 	<entry name="Orks/CityEnergyDescription" value="Increases the energy output."/>
 	<entry name="Orks/CityEnergyFlavor" value="Green and red lightning arcs between the intricate prongs of these power amplification devices, frying any Greenskin who wanders too near. It's quite the spectator sport, but the technology is missing key components so couldn't possibly bear out the Meks' claims of its increase in energy output—save for the Orks' reality-altering faith that it does."/>
 	<entry name="Orks/CityGrowth" value="Boss Speakers"/>
-	<entry name="Orks/CityGrowthDescription" value="Increases the growth rate."/>
+	<entry name="Orks/CityGrowthDescription" value="Increases the production output of Scrap Shedz."/>
 	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz... wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
 	<entry name="Orks/CityInfluence" value="Big Shinies"/>
 	<entry name="Orks/CityInfluenceDescription" value="Increases the influence output."/>
@@ -967,7 +982,7 @@
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Increases the damage and damage reduction."/>
 	<entry name="Orks/Flyboss" value="Flyboss"/>
-	<entry name="Orks/FlybossDescription" value="Increases the ranged accuracy against flyers, jetbikes and skimmers.."/>
+	<entry name="Orks/FlybossDescription" value="Increases the ranged accuracy against flyers, jetbikes and skimmers."/>
 	<entry name="Orks/FlybossFlavor" value="Flybosses are ace pilots who have survived more dogfights than they can count (even when using their toes)."/>
 	<entry name="Orks/Gitfinda" value="Gitfinda"/>
 	<entry name="Orks/GitfindaDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
@@ -1081,7 +1096,7 @@
 	<entry name="RuinsStealth" value="Ruins Stealth"/>
 	<entry name="RuinsStealthDescription" value="Increases the ranged damage reduction while in Imperial Ruins."/>
 	<entry name="Salvo" value="Salvo"/>
-	<entry name="SalvoDescription" value="Doubles the attacks at half range if the unit has not moved."/>
+	<entry name="SalvoDescription" value="Halves the attacks and range if the unit has moved."/>
 	<entry name="SavantInterlocution" value="Savant Interlocution"/>
 	<entry name="SavantInterlocutionDescription" value="Increases the ranged accuracy against flyers and skimmers when adjacent to an allied Hunter."/>
 	<entry name="SavantLock" value="Savant Lock"/>
@@ -1168,6 +1183,9 @@
 	<entry name="SpaceMarines/MeleeDamage" value="Close Combat Mastery"/>
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Increases the armour penetration."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="Certain Adeptus Astartes chapters—the Space Wolves, the Blood Drinkers, the Minotaurs—are renowned for their mastery of close-quarters combat. To come to blows with even the lowliest Scout Marine from such a chapter is to fight generations of knowledge and training."/>
+	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="<string name='Actions/SpaceMarines/OmniscopeDescription'/>"/>
+	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
 	<entry name="SpaceSlipDescription" value="Increases the damage reduction."/>
 	<entry name="Stealth" value="Stealth"/>
