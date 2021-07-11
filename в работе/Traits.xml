@@ -1351,45 +1351,40 @@
 	<entry name="Tau/ZephyrsGrace" value="<string name='Actions/Tau/ZephyrsGrace'/>"/>
 	<entry name="Tau/ZephyrsGraceDescription" value="Павялічвае ачкі дзеяння."/>
 	<entry name="Tau/ZephyrsGraceFlavor" value="<string name='Actions/Tau/ZephyrsGraceFlavor'/>"/>
-	
-	
-	<!-- there -->
-
-	
-	<entry name="TelekineDome" value="Telekine Dome"/>
+	<entry name="TelekineDome" value="Тэлекінетычны купал"/>
 	<entry name="TelekineDomeDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
-	<entry name="TeleportHomer" value="Teleport Homer"/>
-	<entry name="TeleportHomerDescription" value="Causes orbital deployment to not consume action points when deploying Terminators adjacent to this unit."/>
+	<entry name="TeleportHomer" value="Тэлепорт Гамера"/>
+	<entry name="TeleportHomerDescription" value="Прымушае арбітальнае разгортванне не губляць ачкоў дзеянняў пры разгортванні тэрмінатараў поруч з гэтай адзінкай."/>
 	<entry name="TeleportHomerFlavor" value="Teleport homers emit a powerful signal enabling orbiting Strike Cruisers to lock onto them with their teleportation equipment. By matching the exact coordinates of this signal, the risk of missing the intended mark is greatly reduced."/>
-	<entry name="Template" value="Template"/>
+	<entry name="Template" value="Шаблон"/>
 	<entry name="TemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
-	<entry name="TerminatorArmour" value="Terminator Armour"/>
+	<entry name="TerminatorArmour" value="Тэрмінатарская браня"/>
 	<entry name="TerminatorArmourDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="TerminatorArmourFlavor" value="Terminator armour is the best protection a Space Marine can be equipped with. It is even said that Terminator armour can withstand the titanic energies at a plasma generator's core and that this was, in fact, the armour's original purpose."/>
-	<entry name="Tesla" value="Tesla"/>
+	<entry name="Tesla" value="Тэсла"/>
 	<entry name="TeslaDescription" value="Павялічвае атакі."/>
 	<entry name="TeslaFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
-	<entry name="TeslaDamage" value="Viridian Discharge"/>
+	<entry name="TeslaDamage" value="Вірыдыянавы разрад"/>
 	<entry name="TeslaDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="TeslaDamageFlavor" value="The luminous green lightning discharged by these exotic and ancient Necron weapons crackles with life, writhing and seemingly clawing at any target it hits, moving as if it had a mind of its own."/>
-	<entry name="TheFleshIsWeak" value="The Flesh Is Weak"/>
+	<entry name="TheFleshIsWeak" value="Цела слабое"/>
 	<entry name="TheFleshIsWeakDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
-	<entry name="TrainedSentinelPilots" value="Trained Sentinel Pilots"/>
+	<entry name="TrainedSentinelPilots" value="Навучаныя пілоты-вартаўнікі"/>
 	<entry name="TrainedSentinelPilotsDescription" value="Павялічвае шкоду."/>
 	<entry name="TrainedSentinelPilotsFlavor" value="Sentinels are used in a wide variety of roles throughout the Imperium of man—from power lifters used to load starship weaponry to open-canopy scouts. Some Sentinels are equipped with improved armour and stabilisers to carry heavier weaponry. This changes the Sentinel's role from support and reconnaissance to that of a heavy fire platform."/>
-	<entry name="Traktor" value="Traktor"/>
-	<entry name="TraktorDescription" value="Immobilizes enemy flyers."/>
-	<entry name="Transport" value="Transport"/>
-	<entry name="TransportDescription" value="Allows transportation of infantry units."/>
+	<entry name="Traktor" value="Трактар"/>
+	<entry name="TraktorDescription" value="Знерухаўляе варожую авіяцыю."/>
+	<entry name="Transport" value="Транспарт"/>
+	<entry name="TransportDescription" value="Дазваляе перавозіць пяхотныя адзінкі."/>
 	<entry name="TransportFlavor" value="Some vehicles can carry infantry across the battlefield, providing speed and protection. Of course, if the transport is destroyed, the passengers will be burnt alive in the explosion."/>
-	<entry name="TurboBoost" value="Turbo-Boost"/>
+	<entry name="TurboBoost" value="Турбафарсаж"/>
 	<entry name="TurboBoostDescription" value="Павялічвае рух."/>
-	<entry name="Tusked" value="Tusked"/>
-	<entry name="TuskedDescription" value="Increases the attacks of melee weapons."/>
-	<entry name="Tyranids/AcidBlood" value="Acid Blood"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Enemies take damage when they cause melee damage."/>
+	<entry name="Tusked" value="Іклаты"/>
+	<entry name="TuskedDescription" value="Павялічвае атакі зброі блізкага бою."/>
+	<entry name="Tyranids/AcidBlood" value="Кіслотная кроў"/>
+	<entry name="Tyranids/AcidBloodDescription" value="Ворагі атрымліваюць шкоду, калі наносяць шкоду ў блізкім боі."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="The alien blood spilt from certain Tyranids is so corrosive that it can eat through ceramite armour and dissolve flesh in mere moments."/>
 	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
 	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зніжэнне шкоды."/>
@@ -1397,46 +1392,46 @@
 	<entry name="Tyranids/AlphaWarrior" value="<string name='Actions/Tyranids/AlphaWarrior'/>"/>
 	<entry name="Tyranids/AlphaWarriorDescription" value="Павялічвае трапнасць."/>
 	<entry name="Tyranids/AlphaWarriorFlavor" value="<string name='Actions/Tyranids/AlphaWarriorFlavor'/>"/>
-	<entry name="Tyranids/Biomorph" value="Biomorph"/>
+	<entry name="Tyranids/Biomorph" value="Біяморф"/>
 	<entry name="Tyranids/BiomorphDescription" value="Класіфікацыя."/>
-	<entry name="Tyranids/BiomorphDamage" value="Biomorph Adaptation"/>
+	<entry name="Tyranids/BiomorphDamage" value="Біяморфная адаптацыя"/>
 	<entry name="Tyranids/BiomorphDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/BiomorphDamageFlavor" value="Far from being born perfectly ready for every situation, Tyranids have variable amounts of adaptability inherent in their DNA. Ramping this capability up is expensive in terms of resources, but allows them to change their behaviour and physical capabilities in the field."/>
-	<entry name="Tyranids/BoundingLeap" value="Bounding Leap"/>
-	<entry name="Tyranids/BoundingLeapDescription" value="Negates the movement penalty of rivers."/>
+	<entry name="Tyranids/BoundingLeap" value="Накіраваны скок"/>
+	<entry name="Tyranids/BoundingLeapDescription" value="Здымае штраф за рух па рэках."/>
 	<entry name="Tyranids/BroodProgenitor" value="<string name='Actions/Tyranids/BroodProgenitor'/>"/>
 	<entry name="Tyranids/BroodProgenitorDescription" value="Павялічвае атакі."/>
 	<entry name="Tyranids/BroodProgenitorFlavor" value="<string name='Actions/Tyranids/BroodProgenitorFlavor'/>"/>
-	<entry name="Tyranids/ChameleonicSkin" value="Chameleonic Skin"/>
-	<entry name="Tyranids/ChameleonicSkinDescription" value="Allows overwatch attacks with melee weapons."/>
-	<entry name="Tyranids/CityDamage" value="The Spiders' Parlour"/>
+	<entry name="Tyranids/ChameleonicSkin" value="Хамелеонавая скура"/>
+	<entry name="Tyranids/ChameleonicSkinDescription" value="Дазваляе здзяйсняць атакі назірання з выкарыстаннем зброі блізкага бою."/>
+	<entry name="Tyranids/CityDamage" value="Зала павукоў"/>
 	<entry name="Tyranids/CityDamageDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="Tyranids/CityDamageFlavor" value="To enter into a mature Tyranid city, is to walk inside giants—hostile, biologically-crafted giants, determined to consume you. Toxin-coated villi lash infantry, valleys sprout teeth and close like maws, and town square-sized sphincters open suddenly, dumping entire unwary armies into acidic reclamation pools."/>
-	<entry name="Tyranids/CityGrowth" value="Aggressive Expansion"/>
+	<entry name="Tyranids/CityGrowth" value="Агрэсіўная экспансія"/>
 	<entry name="Tyranids/CityGrowthDescription" value="Павялічвае хуткасць узросту гарадоў."/>
 	<entry name="Tyranids/CityGrowthFlavor" value="Tyranid cities place little value on size, but focus instead on productivity. As long as a city is efficiently churning out troops, it doesn't matter if it occupies land. But when a city must expand, it can do it extremely rapidly—from sphincters fly hooked tendons, dragging seed pods out to the landscape, where they erupt like Barbed Stranglers. In moments the land is occupied, rapidly gestating a new structure."/>
-	<entry name="Tyranids/CityLoyalty" value="Grey Matter Dispersion"/>
-	<entry name="Tyranids/CityLoyaltyDescription" value="Decreases the loyalty penalty from city amount."/>
+	<entry name="Tyranids/CityLoyalty" value="Дысперсія шэрай матэрыі"/>
+	<entry name="Tyranids/CityLoyaltyDescription" value="Зменшвае штраф лаяльнасці за суму гарадоў."/>
 	<entry name="Tyranids/CityLoyaltyFlavor" value="Throughout the hive, from the great producer organisms, to the smaller maintenance creatures, to the substrate itself, small packages of grey matter are dispersed, increasing the ease with which swarm creatures can be controlled."/>
-	<entry name="Tyranids/CityPopulationLimit" value="Biogenesis Organelles"/>
+	<entry name="Tyranids/CityPopulationLimit" value="Арганэлы біягенезу"/>
 	<entry name="Tyranids/CityPopulationLimitDescription" value="Павялічвае ліміт насельніцтва."/>
 	<entry name="Tyranids/CityPopulationLimitFlavor" value="Nothing truly “lives” in a Tyranid city-hive. Mindless 'organelle' creatures spawn and perform crucial functions before being reassimilated. Alterations to the city structure can be made, enabling these organisms to be spawned and reabsorbed in much shorter windows, allowing for their overall population to increase."/>
-	<entry name="Tyranids/CityProduction" value="Propulsive Parturition"/>
+	<entry name="Tyranids/CityProduction" value="Прапульсіўныя роды"/>
 	<entry name="Tyranids/CityProductionDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Tyranids/CityProductionFlavor" value="Waiting for Tyranid newborns to leave their respective mother-buildings is relatively inefficient. Genetors have sighted certain adapted buildings, however, which eject the newborn creature from its birthing sac with an convulsive electric impulse, enabling it to be rapidly re-used."/>
-	<entry name="Tyranids/CityTier2" value="Ripper Dispersion"/>
+	<entry name="Tyranids/CityTier2" value="Дысперсія рыхліцеля"/>
 	<entry name="Tyranids/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
 	<entry name="Tyranids/CityTier2Flavor" value="As the hive matures, the Rippers no longer need to swarm together in such huge numbers for safety. Dispersing them, allows the hive mind to co-ordinate their reclamation behaviour over a wider range."/>
 	<entry name="Tyranids/Dominion" value="<string name='Actions/Tyranids/Dominion'/>"/>
 	<entry name="Tyranids/DominionDescription" value="Павялічвае вытворчасць лаяльнасці."/>
 	<entry name="Tyranids/DominionFlavor" value="<string name='Actions/Tyranids/DominionFlavor'/>"/>
 	<entry name="Tyranids/ExploitWeaknesses" value="<string name='Actions/Tyranids/ExploitWeaknesses'/>"/>
-	<entry name="Tyranids/ExploitWeaknessesDescription" value="Reduces the armour."/>
+	<entry name="Tyranids/ExploitWeaknessesDescription" value="Зніжае браню."/>
 	<entry name="Tyranids/ExploitWeaknessesFlavor" value="<string name='Actions/Tyranids/ExploitWeaknessesFlavor'/>"/>
-	<entry name="Tyranids/FeederBeast" value="Feeder-Beast"/>
-	<entry name="Tyranids/FeederBeastDescription" value="Damage caused by this unit is converted into healing."/>
+	<entry name="Tyranids/FeederBeast" value="Звер-з'ядальнік"/>
+	<entry name="Tyranids/FeederBeastDescription" value="Шкода, нанесеная гэтай адзінкай, ператвараецца ў вылячэнне."/>
 	<entry name="Tyranids/GraspingTail" value="<string name='Actions/Tyranids/GraspingTail'/>"/>
-	<entry name="Tyranids/GraspingTailDescription" value="Reduces the attacks."/>
+	<entry name="Tyranids/GraspingTailDescription" value="Зніжае атакі."/>
 	<entry name="Tyranids/GraspingTailFlavor" value="<string name='Actions/Tyranids/GraspingTailFlavor'/>"/>
 	<entry name="Tyranids/HiveCommander" value="<string name='Actions/Tyranids/HiveCommander'/>"/>
 	<entry name="Tyranids/HiveCommanderDescription" value="Павялічвае шкоду і зніжэнне шкоды."/>
@@ -1444,34 +1439,34 @@
 	<entry name="Tyranids/IndescribableHorror" value="<string name='Actions/Tyranids/IndescribableHorror'/>"/>
 	<entry name="Tyranids/IndescribableHorrorDescription" value="Зніжае мараль кожны крок."/>
 	<entry name="Tyranids/IndescribableHorrorFlavor" value="<string name='Actions/Tyranids/IndescribableHorrorFlavor'/>"/>
-	<entry name="Tyranids/InfantryUpkeep" value="Gaunt Instincts"/>
-	<entry name="Tyranids/InfantryUpkeepDescription" value="Reduces the biomass upkeep."/>
+	<entry name="Tyranids/InfantryUpkeep" value="Інстынкты галадання"/>
+	<entry name="Tyranids/InfantryUpkeepDescription" value="Зменшвае ўтрыманне біямасы."/>
 	<entry name="Tyranids/InfantryUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything save for unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
-	<entry name="Tyranids/InstinctiveBehaviour" value="Instinctive Behaviour"/>
+	<entry name="Tyranids/InstinctiveBehaviour" value="Інстынктыўныя паводзіны"/>
 	<entry name="Tyranids/InstinctiveBehaviourDescription" value="<string name='Traits/Tyranids/InstinctiveBehaviourLurkDescription'/>"/>
 	<entry name="Tyranids/InstinctiveBehaviourFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourLurkFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourFeed" value="Instinctive Behaviour (Feed)"/>
-	<entry name="Tyranids/InstinctiveBehaviourFeedDescription" value="The unit loses hitpoints each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourFeed" value="Інстынктыўныя паводзіны (сілкаванне)"/>
+	<entry name="Tyranids/InstinctiveBehaviourFeedDescription" value="Адзінка губляе здароўе кожны крок, пакуль яна не знаходзіцца ў межах дасягальнасці сінапсаў."/>
 	<entry name="Tyranids/InstinctiveBehaviourFeedFlavor" value="Unless controlled or coordinated by the domineering will of the Hive Mind, many Tyranid organisms will revert to their baser instincts."/>
-	<entry name="Tyranids/InstinctiveBehaviourHunt" value="Instinctive Behaviour (Hunt)"/>
-	<entry name="Tyranids/InstinctiveBehaviourHuntDescription" value="The unit loses movement each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourHunt" value="Інстынктыўныя паводзіны (паляванне)"/>
+	<entry name="Tyranids/InstinctiveBehaviourHuntDescription" value="Адзінка губляе рух кожны крок, пакуль яна не знаходзіцца ў межах дасягальнасці сінапсаў."/>
 	<entry name="Tyranids/InstinctiveBehaviourHuntFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Instinctive Behaviour (Lurk)"/>
-	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="The unit loses morale each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Інстынктыўныя паводзіны (хаванне)"/>
+	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="Адзінка губляе мараль кожны крок, пакуль яна не знаходзіцца ў межах дасягальнасці сінапсаў."/>
 	<entry name="Tyranids/InstinctiveBehaviourLurkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Override Instinctive Behaviour"/>
-	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="The unit's instinctive behaviour is overridden."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Пераазначэнне інстынктыўных паводзін"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="Інстынктыўныя паводзіны адзінкі ігнаруюцца."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
 	<entry name="Tyranids/LivingBatteringRam" value="<string name='Actions/Tyranids/LivingBatteringRam'/>"/>
 	<entry name="Tyranids/LivingBatteringRamDescription" value="Павялічвае шкоду."/>
 	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/Tyranids/LivingBatteringRamFlavor'/>"/>
-	<entry name="Tyranids/LongRangedDamage" value="Ocular Proliferation"/>
+	<entry name="Tyranids/LongRangedDamage" value="Вокавая праліферацыя"/>
 	<entry name="Tyranids/LongRangedDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/LongRangedDamageFlavor" value="Targeting enemies at range can be difficult with simple binocular vision. A sensible adaptation is to increase the variety and number of ocular sensors available to the organism, to improve the targeting of all enemy types."/>
 	<entry name="Tyranids/MassIncubation" value="<string name='Actions/Tyranids/MassIncubation'/>"/>
 	<entry name="Tyranids/MassIncubationDescription" value="<string name='Actions/Tyranids/MassIncubationDescription'/>"/>
 	<entry name="Tyranids/MassIncubationFlavor" value="<string name='Actions/Tyranids/MassIncubationFlavor'/>"/>
-	<entry name="Tyranids/MeleeDamage" value="Bioweapon Symbiosis"/>
+	<entry name="Tyranids/MeleeDamage" value="Сімбіёз біязброі"/>
 	<entry name="Tyranids/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/MeleeDamageFlavor" value="When the Tyranids were first encountered, particularly their forerunners the Zoats, their weaponry was typically a range of separate organisms. As time has gone by, the Tyranids and their weapons have grown closer together."/>
 	<entry name="Tyranids/Onslaught" value="<string name='Actions/Tyranids/Onslaught'/>"/>
@@ -1480,29 +1475,29 @@
 	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
 	<entry name="Tyranids/ParoxysmDescription" value="Зніжае трапнасць."/>
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
-	<entry name="Tyranids/PreyAdaptation" value="Prey Adaptation"/>
-	<entry name="Tyranids/PreyAdaptationDescription" value="The Hive mind gains research when the Malanthrope gains experience from combat."/>
+	<entry name="Tyranids/PreyAdaptation" value="Адаптацыя палявання"/>
+	<entry name="Tyranids/PreyAdaptationDescription" value="Розум вулля атрымлівае даследаванні, калі малантрон атрымлівае досвед за бітвы."/>
 	<entry name="Tyranids/PreyAdaptationFlavor" value="The Malanthrope doesn't just garner new genetic data from fallen corpses—it is also quite capable of observing the learned patterns communicated by creatures to one another, whether parent or teacher, and retaining that for encoding into the Hive Mind's creatures."/>
-	<entry name="Tyranids/ProductionBuildingUpkeep" value="Birthing Canals"/>
-	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
+	<entry name="Tyranids/ProductionBuildingUpkeep" value="Радавыя каналы"/>
+	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Зніжае ўтрыманне уплыву."/>
 	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="A simple shift in the structure of the great organisms that make up the Tyranid hive, birthing canals are something like biological production lines, enabling many creatures to be produced in parallel without the direct oversight of the Hive Mind."/>
-	<entry name="Tyranids/RakingStrike" value="Raking Strike"/>
-	<entry name="Tyranids/RakingStrikeDescription" value="Increases the Hive Crone's melee attacks. Additionally increases the melee attacks against flyers."/>
+	<entry name="Tyranids/RakingStrike" value="Грабучы ўдар"/>
+	<entry name="Tyranids/RakingStrikeDescription" value="Павялічвае атакі блізкага бою каргі вулля. Дадаткова павялічвае атакі блізкага бою супраць авіяцыі."/>
 	<entry name="Tyranids/RakingStrikeFlavor" value="Lengthening and hardening the bladed spurs on a Hive Crone's underside allows it to perform lethal fly-by strikes against enemies. In addition, sharpened wingtips enable the Crone to accurately target enemy pilots."/>
 	<entry name="Tyranids/RapaciousHunger" value="<string name='Actions/Tyranids/RapaciousHunger'/>"/>
 	<entry name="Tyranids/RapaciousHungerDescription" value="Павялічвае атакі."/>
 	<entry name="Tyranids/RapaciousHungerFlavor" value="<string name='Actions/Tyranids/RapaciousHungerFlavor'/>"/>
-	<entry name="Tyranids/Reclamation2" value="Synapse Archevores"/>
-	<entry name="Tyranids/Reclamation2Description" value="Reduces the influence cost."/>
+	<entry name="Tyranids/Reclamation2" value="Сінаптычныя арчеворы"/>
+	<entry name="Tyranids/Reclamation2Description" value="Зніжае кошт уплыву."/>
 	<entry name="Tyranids/Reclamation2Flavor" value="Reclamation pools may seem the simplest of Tyranid organisms—bubbling digestive pits to render down biomass—but given their core function to the Tyranid lifecycle, they have doubtless seen generations of design refinement. This particular adaptation places control synapses at each pool's edge to manage digestion with less Hive Mind oversight."/>
-	<entry name="Tyranids/Reclamation3" value="Assimilation Accelerants"/>
-	<entry name="Tyranids/Reclamation3Description" value="Removes the cooldown."/>
+	<entry name="Tyranids/Reclamation3" value="Паскаральнікі асіміляцыі"/>
+	<entry name="Tyranids/Reclamation3Description" value="Прыбірае час перазарадкі."/>
 	<entry name="Tyranids/Reclamation3Flavor" value="Reclamation has to be an efficient process to best serve the Hive Mind—every basis point of biomass that has to be abandoned could spell defeat. This adaptation makes reclamation a continuous process, which enables high percentage biomass recovery."/>
-	<entry name="Tyranids/Regeneration" value="Regeneration"/>
+	<entry name="Tyranids/Regeneration" value="Рэгенерацыя"/>
 	<entry name="Tyranids/RegenerationDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Tyranids/RegenerationFlavor" value="Some Tyranids have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
-	<entry name="Tyranids/ResourceBuildingUpkeep" value="Scavenger Adaptation"/>
-	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
+	<entry name="Tyranids/ResourceBuildingUpkeep" value="Адаптацыя смецяра"/>
+	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Зніжае ўтрыманне уплыву."/>
 	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
 	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Павялічвае шкоду."/>
@@ -1510,17 +1505,22 @@
 	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Зніжае мараль кожны крок."/>
 	<entry name="Tyranids/ShadowInTheWarpFlavor" value="<string name='Actions/Tyranids/ShadowInTheWarpFlavor'/>"/>
-	<entry name="Tyranids/ShortRangedDamage" value="Gigaborer Hives"/>
+	<entry name="Tyranids/ShortRangedDamage" value="Гигабарэйскія вуллі"/>
 	<entry name="Tyranids/ShortRangedDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Tyranids/ShortRangedDamageFlavor" value="The unique and disgusting Borer nest is comprised of a compact nest of Borer beetles, acidic insectoids that launch themselves in a frenzy from the weapon. Gigaborer Hives contain fewer, much larger beetles, simply enabling more damage."/>
 	<entry name="Tyranids/SporeCloud" value="<string name='Actions/Tyranids/SporeCloud'/>"/>
 	<entry name="Tyranids/SporeCloudDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
-	<entry name="Tyranids/SymbioticTargeting" value="Symbiotic Targeting"/>
-	<entry name="Tyranids/SymbioticTargetingDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
-	<entry name="Tyranids/SynapseLink" value="Synapse Link"/>
-	<entry name="Tyranids/SynapseLinkDescription" value="The unit cannot be shaken or broken, is immune to fear and is not subject to instinctive behaviour."/>
+	<entry name="Tyranids/SymbioticTargeting" value="Сімбіятычнае нацэльванне"/>
+	<entry name="Tyranids/SymbioticTargetingDescription" value="Павялічвае трапнасць далёкага бою, калі адзінка застаецца нерухомым."/>
+	<entry name="Tyranids/SynapseLink" value="Злучалы сінапс"/>
+	<entry name="Tyranids/SynapseLinkDescription" value="Адзінка не можа быць ашаломлена і зламана. Валодае імунітэтам да страху і не схільная да інстынктыўных паводзін."/>
 	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	
+	
+	<!-- there -->
+
+	
 	<entry name="Tyranids/SynapticBacklash" value="Synaptic Backlash"/>
 	<entry name="Tyranids/SynapticBacklashDescription" value="Termagants in the area take damage when the Tervigon dies."/>
 	<entry name="Tyranids/SynapticBacklashFlavor" value="Though Tyranids have no affection one another—they will watch calmly as their nest-mates die or walk into the reclamation pool—the psychic trauma a Tervigon's brood suffers at the moment of its death is odd, particularly given the Hive Mind's seeming inability to eliminate it. Perhaps it is a legacy of whatever long-dead race the Tervigon's genetic data was based on—and a symbol that the Hive Mind rarely innovates, but mostly plagiarises."/>
