@@ -1516,62 +1516,57 @@
 	<entry name="Tyranids/SynapseLink" value="Злучалы сінапс"/>
 	<entry name="Tyranids/SynapseLinkDescription" value="Адзінка не можа быць ашаломлена і зламана. Валодае імунітэтам да страху і не схільная да інстынктыўных паводзін."/>
 	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	
-	
-	<!-- there -->
-
-	
-	<entry name="Tyranids/SynapticBacklash" value="Synaptic Backlash"/>
-	<entry name="Tyranids/SynapticBacklashDescription" value="Termagants in the area take damage when the Tervigon dies."/>
+	<entry name="Tyranids/SynapticBacklash" value="Сінаптычны зазор"/>
+	<entry name="Tyranids/SynapticBacklashDescription" value="Тэрмагаўнты ў гэтай вобласці атрымліваюць шкоду, калі тэрвігон памірае."/>
 	<entry name="Tyranids/SynapticBacklashFlavor" value="Though Tyranids have no affection one another—they will watch calmly as their nest-mates die or walk into the reclamation pool—the psychic trauma a Tervigon's brood suffers at the moment of its death is odd, particularly given the Hive Mind's seeming inability to eliminate it. Perhaps it is a legacy of whatever long-dead race the Tervigon's genetic data was based on—and a symbol that the Hive Mind rarely innovates, but mostly plagiarises."/>
-	<entry name="Tyranids/ToxinSacs" value="Toxin Sacs"/>
-	<entry name="Tyranids/ToxinSacsDescription" value="Increases the damage of melee weapons against infantry units."/>
+	<entry name="Tyranids/ToxinSacs" value="Мех з таксінам"/>
+	<entry name="Tyranids/ToxinSacsDescription" value="Павялічвае шкоду зброі блізкага бою па пяхотных адзінках."/>
 	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
-	<entry name="Tyranids/Tunnel2" value="Echiurean Walls"/>
+	<entry name="Tyranids/Tunnel2" value="Эчурыянскія муры"/>
 	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
-	<entry name="Tyranids/VehiclesUpkeep" value="Megaunt Instincts"/>
-	<entry name="Tyranids/VehiclesUpkeepDescription" value="Reduces the biomass upkeep."/>
+	<entry name="Tyranids/VehiclesUpkeep" value="Інстынкты мегонта"/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Зменшвае ўтрыманне біямасы."/>
 	<entry name="Tyranids/VehiclesUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions, save for its alpha creatures—but by loosening that control, larger organisms can direct or predate on the smaller organisms, enabling them to survive without direct control."/>
-	<entry name="Tyranids/WarpField" value="Warp Field"/>
+	<entry name="Tyranids/WarpField" value="Варп поле"/>
 	<entry name="Tyranids/WarpFieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes are vital nodes for harnessing the Hive Mind's psychic might and are created with a powerful sense of self-preservation. Therefore, they instinctively project a potent Warp field to protect themselves in battle – a mental shield that is invisible but for a slight shimmer when small-arms and heavy-weapons fire alike patters harmlessly against it."/>
-	<entry name="TwinLinked" value="Twin-Linked"/>
+	<entry name="TwinLinked" value="Падвойная сувязь"/>
 	<entry name="TwinLinkedDescription" value="Павялічвае трапнасць."/>
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
-	<entry name="Uncommon" value="Uncommon"/>
+	<entry name="Uncommon" value="Незвычайны"/>
 	<entry name="UncommonDescription" value="Класіфікацыя."/>
-	<entry name="Unique" value="Unique"/>
-	<entry name="UniqueDescription" value="Limits the amount of units of this type."/>
-	<entry name="Unwieldy" value="Unwieldy"/>
+	<entry name="Unique" value="Унікальны"/>
+	<entry name="UniqueDescription" value="Абмяжоўвае колькасць адзінак гэтага тыпу."/>
+	<entry name="Unwieldy" value="Грувасткі"/>
 	<entry name="UnwieldyDescription" value="Зніжае трапнасць."/>
 	<entry name="UnwieldyFlavor" value="This weapon is very large, and more than a little clumsy, making swift blows all but impossible to achieve."/>
-	<entry name="VectoredAfterburners" value="Vectored Afterburners"/>
-	<entry name="VectoredAfterburnersDescription" value="Increases the movement and ranged damage reduction."/>
-	<entry name="Vehicle" value="Vehicle"/>
-	<entry name="VehicleDescription" value="Здымае штраф за цяжкую і артылерыйную зброю. Increases the movement penalty in forests and imperial ruins."/>
+	<entry name="VectoredAfterburners" value="Вектарныя фарсажныя камеры"/>
+	<entry name="VectoredAfterburnersDescription" value="Павялічвае рух і зніжае шкоду ад далёкага бою."/>
+	<entry name="Vehicle" value="Машына"/>
+	<entry name="VehicleDescription" value="Здымае штраф за цяжкую і артылерыйную зброю. Павялічвае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="VehicleFlavor" value="War is not a trade solely for living soldiers, but also for mighty war engines and tanks."/>
-	<entry name="VoidShield" value="Void Shield"/>
+	<entry name="VoidShield" value="Пустэчны шчыт"/>
 	<entry name="VoidShieldDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
-	<entry name="VoxCaster" value="Vox-Caster"/>
+	<entry name="VoxCaster" value="Галасавы перадатнік"/>
 	<entry name="VoxCasterDescription" value="Зніжае страту маралі."/>
 	<entry name="VoxCasterFlavor" value="A vox-caster is a reliable communications array connected to the tactical command net via tight-beam transmitters."/>
-	<entry name="Waaagh" value="Waaagh!"/>
+	<entry name="Waaagh" value="Вааагх!"/>
 	<entry name="WaaaghDescription" value="Павялічвае атакі."/>
 	<entry name="WaaaghFlavor" value="The Waaagh! is joie de vivre, crusade, immense psychic power, a tangible belief aura and perhaps the Ork gods themselves, all rolled into one teeth-rattling, gut-wrenching roar of delighted aggression pushing the Orks across the galaxy and into battle. It is the core of being an Ork."/>
-	<entry name="Walker" value="Walker"/>
+	<entry name="Walker" value="Хадун"/>
 	<entry name="WalkerDescription" value="<string name='Traits/DozerBladeDescription'/>"/>
-	<entry name="Weakened" value="Weakened"/>
-	<entry name="WeakenedDescription" value="Reduces the movement and damage."/>
+	<entry name="Weakened" value="Саслабелы"/>
+	<entry name="WeakenedDescription" value="Зменшвае рух і шкоду."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
 	<entry name="WireWeedDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
-	<entry name="Witchfire" value="Witchfire"/>
+	<entry name="Witchfire" value="Вядзьмарскі агонь"/>
 	<entry name="WitchfireDescription" value="Класіфікацыя."/>
-	<entry name="Zzap" value="Zzap"/>
+	<entry name="Zzap" value="Ззап"/>
 	<entry name="ZzapFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
-	<entry name="Zealot" value="Zealot"/>
-	<entry name="ZealotDescription" value="Reduces the morale loss, increases the melee damage and grants immunity to fear and pinning."/>
+	<entry name="Zealot" value="Фанатык"/>
+	<entry name="ZealotDescription" value="Зніжае мараль, павялічвае шкоду ў блізкім боі і дае імунітэт да страху і скоўвання."/>
 	<entry name="ZealotFlavor" value="Zealots fight on regardless of their casualties or the terrors of war; they are driven forwards by their conviction."/>
 </language>
