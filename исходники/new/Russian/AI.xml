@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Махар"/>
+	<entry name="AstraMilitarum1" value="Бастониус"/>
+	<entry name="AstraMilitarum2" value="Калиги"/>
+	<entry name="AstraMilitarum3" value="Кайде"/>
+	<entry name="AstraMilitarum4" value="Камир"/>
+	<entry name="AstraMilitarum5" value="Драун"/>
+	<entry name="AstraMilitarum6" value="МакМенн"/>
+	<entry name="AstraMilitarum7" value="Стракен"/>
+	<entry name="AstraMilitarum8" value="Таррик"/>
+	<entry name="AstraMilitarum9" value="Рухман"/>
+	<entry name="AstraMilitarum10" value="Киллен"/>
+	<entry name="AstraMilitarum11" value="Бреднор"/>
+	<entry name="AstraMilitarum12" value="Граттон"/>
+	<entry name="AstraMilitarum13" value="Мониц"/>
+	<entry name="AstraMilitarum14" value="Джото"/>
+	<entry name="AstraMilitarum15" value="Чикорский"/>
+	<entry name="AstraMilitarum16" value="Руц"/>
+	<entry name="AstraMilitarum17" value="Греванд"/>
+	<entry name="AstraMilitarum18" value="Дадли"/>
+	<entry name="AstraMilitarum19" value="Сковцов"/>
+	<entry name="AstraMilitarum20" value="Байкси"/>
+	<entry name="AstraMilitarumCount" value="21"/>
+	<entry name="ChaosSpaceMarines0" value="Люциус"/>
+	<entry name="ChaosSpaceMarines1" value="Хорус"/>
+	<entry name="ChaosSpaceMarines2" value="Валериан"/>
+	<entry name="ChaosSpaceMarines3" value="Агриппа"/>
+	<entry name="ChaosSpaceMarines4" value="Морбус"/>
+	<entry name="ChaosSpaceMarines5" value="Кенкер"/>
+	<entry name="ChaosSpaceMarines6" value="Озисмос"/>
+	<entry name="ChaosSpaceMarines7" value="Филакс"/>
+	<entry name="ChaosSpaceMarines8" value="Пугна"/>
+	<entry name="ChaosSpaceMarines9" value="Рудис"/>
+	<entry name="ChaosSpaceMarines10" value="Салпинкс"/>
+	<entry name="ChaosSpaceMarines11" value="Таблифус"/>
+	<entry name="ChaosSpaceMarines12" value="Йовариан"/>
+	<entry name="ChaosSpaceMarines13" value="Купис"/>
+	<entry name="ChaosSpaceMarines14" value="Драконис"/>
+	<entry name="ChaosSpaceMarines15" value="Папилус"/>
+	<entry name="ChaosSpaceMarines16" value="Румпенс"/>
+	<entry name="ChaosSpaceMarines17" value="Энгрон"/>
+	<entry name="ChaosSpaceMarines18" value="Либидус"/>
+	<entry name="ChaosSpaceMarines19" value="Артифицион"/>
+	<entry name="ChaosSpaceMarinesCount" value="20"/>
+	<entry name="Eldar0" value="Петух предвещающий смерть"/>
+	<entry name="Eldar1" value="Кхейнотир Охотник"/>
+	<entry name="Eldar2" value="Ткач путаницы Азуриада"/>
+	<entry name="Eldar3" value="Инньянская песня ведьм"/>
+	<entry name="Eldar4" value="Liath Stardancer"/>
+	<entry name="Eldar5" value="Лилайр Бегущая по небу"/>
+	<entry name="Eldar6" value="Курнеат солнечный взрыв"/>
+	<entry name="Eldar7" value="Древний Эльданос"/>
+	<entry name="Eldar8" value="Дрейшор Дневное копье"/>
+	<entry name="Eldar9" value="Элениум дерзкий"/>
+	<entry name="Eldar10" value="Этех Скульптор"/>
+	<entry name="Eldar11" value="Кондри отец карги"/>
+	<entry name="Eldar12" value="Фуе Ра"/>
+	<entry name="Eldar13" value="Каранзар"/>
+	<entry name="Eldar14" value="Артраган"/> 
+	<entry name="Eldar15" value="Зидеры Невидимые"/>
+	<entry name="Eldar16" value="Гибель Маугик"/>
+	<entry name="Eldar17" value="Иллан Ра"/>
+	<entry name="Eldar18" value="Аулирель Мастер звезд"/>
+	<entry name="Eldar19" value="Ультиэль Призрачный выстрел"/>
+	<entry name="EldarCount" value="20"/>
+	<entry name="Necrons0" value="Хуфех"/>
+	<entry name="Necrons1" value="Аменсес"/> 
+	<entry name="Necrons2" value="Азогард"/>
+	<entry name="Necrons3" value="Варзис"/>
+	<entry name="Necrons4" value="Мендрех"/>
+	<entry name="Necrons5" value="Занес"/>
+	<entry name="Necrons6" value="Джет"/>
+	<entry name="Necrons7" value="Семерхет"/>
+	<entry name="Necrons8" value="Нунетджерх"/>
+	<entry name="Necrons9" value="Сектыр"/> 
+	<entry name="Necrons10" value="Анрахет"/>
+	<entry name="Necrons11" value="Аххойрун"/>
+	<entry name="Necrons12" value="Саубехар"/>
+	<entry name="Necrons13" value="Сахтех"/>
+	<entry name="Necrons14" value="Менх"/>
+	<entry name="Necrons15" value="Тех"/>
+	<entry name="Necrons16" value="Номарх"/>
+	<entry name="Necrons17" value="Неферзин"/>
+	<entry name="Necrons18" value="Кендарх"/>
+	<entry name="Necrons19" value="Грилиополус"/>
+	<entry name="NecronsCount" value="20"/>
+	<entry name="Orks0" value="Скар"/>
+	<entry name="Orks1" value="Жилезариппа"/>
+	<entry name="Orks2" value="Фатум"/>
+	<entry name="Orks3" value="Гаргаш"/>
+	<entry name="Orks4" value="Базгак"/>
+	<entry name="Orks5" value="Бедтуф"/>
+	<entry name="Orks6" value="Горсник"/>
+	<entry name="Orks7" value="Вурдакка"/>
+	<entry name="Orks8" value="Уотсит"/>
+	<entry name="Orks9" value="Жилезагрог"/>
+	<entry name="Orks10" value="Крашриппер"/>
+	<entry name="Orks11" value="Ургрубд"/>
+	<entry name="Orks12" value="Моркрек"/>
+	<entry name="Orks13" value="Угскав"/>
+	<entry name="Orks14" value="Углуг"/>
+	<entry name="Orks15" value="Фрагкрак"/> 
+	<entry name="Orks16" value="Туфбос"/>
+	<entry name="Orks17" value="Вотшок"/>
+	<entry name="Orks18" value="Тингуц"/>
+	<entry name="OrksCount" value="19"/>
+	<entry name="SpaceMarines0" value="Суллиус"/>
+	<entry name="SpaceMarines1" value="Доменико"/>
+	<entry name="SpaceMarines2" value="Хиппарчус"/>
+	<entry name="SpaceMarines3" value="Фаедрон"/>
+	<entry name="SpaceMarines4" value="Драко"/>
+	<entry name="SpaceMarines5" value="Леонатус"/>
+	<entry name="SpaceMarines6" value="Тэламон"/>
+	<entry name="SpaceMarines7" value="Беллерафон"/>
+	<entry name="SpaceMarines8" value="Ясон"/>
+	<entry name="SpaceMarines9" value="Мелиагер"/>
+	<entry name="SpaceMarines10" value="Асториус"/>
+	<entry name="SpaceMarines11" value="Хаган"/>
+	<entry name="SpaceMarines12" value="Персетер"/>
+	<entry name="SpaceMarines13" value="Хагани"/>
+	<entry name="SpaceMarines14" value="Тарвиц"/>
+	<entry name="SpaceMarines15" value="Пенатес"/>
+	<entry name="SpaceMarines16" value="Ахилес"/>
+	<entry name="SpaceMarines17" value="Аякс"/>
+	<entry name="SpaceMarines18" value="Диомелес"/>
+	<entry name="SpaceMarines19" value="Мерионес"/>
+	<entry name="SpaceMarines20" value="Теуксер"/>
+	<entry name="SpaceMarinesCount" value="21"/>
+	<entry name="Tyranids0" value="Азазоз"/>
+	<entry name="Tyranids1" value="Хексаноз"/>
+	<entry name="Tyranids2" value="Созоз"/>
+	<entry name="Tyranids3" value="Дизалла"/>
+	<entry name="Tyranids4" value="Ктохха"/>
+	<entry name="Tyranids5" value="Хастур"/>
+	<entry name="Tyranids6" value="Мномгуах"/>
+	<entry name="Tyranids7" value="Оорн"/>
+	<entry name="Tyranids8" value="Персэ"/>
+	<entry name="Tyranids9" value="Шазак"/>
+	<entry name="Tyranids10" value="Вайбур"/>
+	<entry name="Tyranids11" value="Т’лла"/>
+	<entry name="Tyranids12" value="Зушакон"/>
+	<entry name="Tyranids13" value="Даолоз"/>
+	<entry name="Tyranids14" value="Олкоз"/>
+	<entry name="Tyranids15" value="Пизия"/> 
+	<entry name="Tyranids16" value="Грендел"/>
+	<entry name="Tyranids17" value="Химаера"/>
+	<entry name="TyranidsCount" value="18"/>
+	<entry name="Tau0" value="Командующий Дальний удар"/>
+	<entry name="Tau1" value="Адмирал Канонада"/>
+	<entry name="Tau2" value="Посол Медленный разговор"/>
+	<entry name="Tau3" value="Планировщик Помощь страху"/>
+	<entry name="Tau4" value="Принц Одинокий огонь"/>
+	<entry name="Tau5" value="Командующий Серебряный язык"/>
+	<entry name="Tau6" value="Командующий Неуловимый зверь"/>
+	<entry name="Tau7" value="Командующий Обжигающая Мудрость"/>
+	<entry name="Tau8" value="Командующий Пустотная ловушка"/>
+	<entry name="Tau9" value="Командующий Широкий шаг"/>
+	<entry name="Tau10" value="Адмирал Двойной сейф"/>
+	<entry name="Tau11" value="Посол Старая сказка"/>
+	<entry name="Tau12" value="Планировщик Многоталантный"/>
+	<entry name="Tau13" value="Командующий Скрытый Удар"/>
+	<entry name="Tau14" value="Прелат Великое сердце"/> 
+	<entry name="Tau15" value="Уважающий вызов"/>
+	<entry name="Tau16" value="Святая гвардия"/>
+	<entry name="Tau17" value="Командующий Безопасная мысль"/>
+	<entry name="Tau18" value="Командующий Сияющее падение"/>
+	<entry name="TauCount" value="16"/>
+</language>

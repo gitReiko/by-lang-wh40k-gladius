@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum" value="<string name='Factions/AstraMilitarum'/>"/>
+	<entry name="AstraMilitarum0" value="Ананке"/>
+	<entry name="AstraMilitarum1" value="Вилае Алеа"/>
+	<entry name="AstraMilitarum2" value="Легоменон"/>
+	<entry name="AstraMilitarum3" value="Аристон"/>
+	<entry name="AstraMilitarum4" value="Урания"/>
+	<entry name="AstraMilitarum5" value="Теон"/>
+	<entry name="AstraMilitarum6" value="Викус Фобос"/>
+	<entry name="AstraMilitarum7" value="Хрисофорус"/>
+	<entry name="AstraMilitarum8" value="Генесин"/>
+	<entry name="AstraMilitarum9" value="Эврика"/>
+	<entry name="AstraMilitarum10" value="Моеня Крид"/>
+	<entry name="AstraMilitarum11" value="Муниципия Селестина"/>
+	<entry name="AstraMilitarum12" value="Урбс Коул"/>
+	<entry name="AstraMilitarum13" value="Астикус Грейфакс"/>
+	<entry name="AstraMilitarum14" value="Парадисиус Махариус"/>
+	<entry name="AstraMilitarum15" value="Оппидум Виридиум"/>
+	<entry name="AstraMilitarum16" value="Тенакс"/>
+	<entry name="AstraMilitarum17" value="Цивитус Полипус"/>
+	<entry name="AstraMilitarumCount" value="18"/>
+	<entry name="ChaosSpaceMarines" value="<string name='Factions/ChaosSpaceMarines'/>"/>
+	<entry name="ChaosSpaceMarines0" value="Крепость Дробителя Черепов"/>
+	<entry name="ChaosSpaceMarines1" value="Нижайшее проклятие"/>
+	<entry name="ChaosSpaceMarines2" value="Цепь связанных судеб"/>
+	<entry name="ChaosSpaceMarines3" value="Траектория Хаоса"/>
+	<entry name="ChaosSpaceMarines4" value="Чумной костёр"/>
+	<entry name="ChaosSpaceMarines5" value="Тень Марса"/>
+	<entry name="ChaosSpaceMarines6" value=" Неразделенная Вера"/>
+	<entry name="ChaosSpaceMarines7" value="Кровавый Костёл"/>
+	<entry name="ChaosSpaceMarines8" value="Суть еретика"/>
+	<entry name="ChaosSpaceMarines9" value="Жестокое наказание"/>
+	<entry name="ChaosSpaceMarines10" value="Ядро Чёрного Сердца"/>
+	<entry name="ChaosSpaceMarines11" value="Кнут наказания"/>
+	<entry name="ChaosSpaceMarines12" value="Тёмный траур"/>
+	<entry name="ChaosSpaceMarines13" value="Кулак Воителя"/>
+	<entry name="ChaosSpaceMarines14" value="Грязный похититель надежды"/>
+	<entry name="ChaosSpaceMarines15" value="Потерянное проклятие"/>
+	<entry name="ChaosSpaceMarines16" value="Соль отбросов"/>
+	<entry name="ChaosSpaceMarines17" value="Пепел Империума"/>
+	<entry name="ChaosSpaceMarinesCount" value="18"/>
+	<entry name="Eldar" value="<string name='Factions/Eldar'/>"/>
+	<entry name="Eldar0" value="Афесдан"/>
+	<entry name="Eldar1" value="Испытания Бадбала"/>
+	<entry name="Eldar2" value="Бенатхай"/>
+	<entry name="Eldar3" value="Карресенад"/>
+	<entry name="Eldar4" value="Зайнет"/>
+	<entry name="Eldar5" value="Йиррайт"/>
+	<entry name="Eldar6" value="Ксамант"/>
+	<entry name="Eldar7" value="Вивея"/>
+	<entry name="Eldar8" value="Улит"/>
+	<entry name="Eldar9" value="Начало"/>
+	<entry name="Eldar10" value="Сюзикион"/>
+	<entry name="Eldar11" value="Риллислиддиан"/>
+	<entry name="Eldar12" value="Куаарин"/>
+	<entry name="Eldar13" value="Партецион"/>
+	<entry name="Eldar14" value="Орфос"/>
+	<entry name="Eldar15" value="Неосфи"/>
+	<entry name="Eldar16" value="Мирротюис"/>
+	<entry name="Eldar17" value="Ламбрют"/>
+	<entry name="EldarCount" value="18"/>
+	<entry name="Necrons" value="<string name='Factions/Necrons'/>"/>
+	<entry name="Necrons0" value="Лектон Копт"/>
+	<entry name="Necrons1" value="Гибель Абиды"/> 
+	<entry name="Necrons2" value="Обол Хермонх"/>
+	<entry name="Necrons3" value="Анхи Сайр"/>
+	<entry name="Necrons4" value="Нехах Бакыр"/>
+	<entry name="Necrons5" value="Аз Птэк Санахт"/>
+	<entry name="Necrons6" value="Ях Хабимх"/>
+	<entry name="Necrons7" value="Абду Хмун"/>
+	<entry name="Necrons8" value="Танис Та"/>
+	<entry name="Necrons9" value="Сзар Агорех"/> 
+	<entry name="Necrons10" value="Шабт Мандрех"/>
+	<entry name="Necrons11" value="Трамун Жех"/>
+	<entry name="Necrons12" value="Фтан Хека"/>
+	<entry name="Necrons13" value="Эчатон Джет"/>
+	<entry name="Necrons14" value="Бакенхон"/>
+	<entry name="Necrons15" value="Хиерак Хар"/>
+	<entry name="Necrons16" value="Д'кан Мефет"/>
+	<entry name="Necrons17" value="Город'тыр"/>
+	<entry name="NecronsCount" value="18"/>
+	<entry name="Orks" value="<string name='Factions/Orks'/>"/>
+	<entry name="Orks0" value="Да Дропс"/>
+	<entry name="Orks1" value="Сум Аб'едки "/>
+	<entry name="Orks2" value="Гроттаун"/>
+	<entry name="Orks3" value="Дат Рок"/>
+	<entry name="Orks4" value="Оо ета Валнует?"/>
+	<entry name="Orks5" value="Наздрег был сдеся"/>
+	<entry name="Orks6" value="Гарагхак"/>
+	<entry name="Orks7" value="Вазздакка"/>
+	<entry name="Orks8" value="Да Места Босса"/>
+	<entry name="Orks9" value="Да Дакка Клуб"/>
+	<entry name="Orks10" value="Дат Весчь"/>
+	<entry name="Orks11" value="Д'ом"/>
+	<entry name="Orks12" value="Доктаун"/>
+	<entry name="Orks13" value="Вилка Горка"/>
+	<entry name="Orks14" value="Гаргатес"/>
+	<entry name="Orks15" value="Рокклешня"/> 
+	<entry name="Orks16" value="Да 'Еп"/>
+	<entry name="Orks17" value="Да Империя да Орки"/>
+	<entry name="OrksCount" value="18"/>
+	<entry name="SpaceMarines" value="<string name='Factions/SpaceMarines'/>"/>
+	<entry name="SpaceMarines0" value="Крепость Дорн"/>
+	<entry name="SpaceMarines1" value="Примарис Ревенант"/>
+	<entry name="SpaceMarines2" value="Кузня Вулкана"/>
+	<entry name="SpaceMarines3" value="Шпиль"/>
+	<entry name="SpaceMarines4" value="Крылья Коракса"/>
+	<entry name="SpaceMarines5" value="Хелбрехт"/>
+	<entry name="SpaceMarines6" value="Обитель Верных"/>
+	<entry name="SpaceMarines7" value="Цитадель Умбран "/>
+	<entry name="SpaceMarines8" value="Патер Фиделиум"/>
+	<entry name="SpaceMarines9" value="Гнев Азраила "/>
+	<entry name="SpaceMarines10" value="Осень Танталина"/>
+	<entry name="SpaceMarines11" value="Покои Примарха"/>
+	<entry name="SpaceMarines12" value="Часовня Святого"/>
+	<entry name="SpaceMarines13" value="Кор Империи"/>
+	<entry name="SpaceMarines14" value="Аркс Мортифер"/>
+	<entry name="SpaceMarines15" value="Кастеллум Кэпиталис"/>
+	<entry name="SpaceMarines16" value="Регия Фунестес"/>
+	<entry name="SpaceMarines17" value="Стигиан Моенэ"/>
+	<entry name="SpaceMarinesCount" value="18"/>
+	<entry name="Tau" value="<string name='Factions/Tau'/>"/>
+	<entry name="Tau0" value="Еур’так"/>
+	<entry name="Tau1" value="Фио’веса"/>
+	<entry name="Tau2" value="Хо’йор"/>
+	<entry name="Tau3" value="Каис"/>
+	<entry name="Tau4" value="Кор’ши"/>
+	<entry name="Tau5" value="Я’ва"/>
+	<entry name="Tau6" value="Кир’ла"/>
+	<entry name="Tau7" value="Фу’нох"/>
+	<entry name="Tau8" value="Ве’са"/>
+	<entry name="Tau9" value="Ню’анул"/>
+	<entry name="Tau10" value="Н’лан"/>
+	<entry name="Tau11" value="Мон’токай"/>
+	<entry name="Tau12" value="Вон’на"/>
+	<entry name="Tau13" value="Сан’ал"/>
+	<entry name="Tau14" value="Ор’ес"/>
+	<entry name="Tau15" value="Пор’л"/>
+	<entry name="Tau16" value="Фио’лаз"/>
+	<entry name="Tau17" value="Мал’каара"/>
+	<entry name="TauCount" value="18"/>
+	<entry name="Tyranids" value="<string name='Factions/Tyranids'/>"/>
+	<entry name="Tyranids0" value="Ямолод"/>
+	<entry name="Tyranids1" value="Двойной пожиратель"/>
+	<entry name="Tyranids2" value="Трахеинс"/>
+	<entry name="Tyranids3" value="Фархор"/>
+	<entry name="Tyranids4" value="Бронхея"/>
+	<entry name="Tyranids5" value="Ёсофекс"/>
+	<entry name="Tyranids6" value="Паниратор"/>
+	<entry name="Tyranids7" value="Электроволос"/>
+	<entry name="Tyranids8" value="Гиполимфекс"/>
+	<entry name="Tyranids9" value="Тервитроид"/>
+	<entry name="Tyranids10" value="Такмать"/>
+	<entry name="Tyranids11" value="Эндотелон"/>
+	<entry name="Tyranids12" value="Ресница"/>
+	<entry name="Tyranids13" value="Тиранотелиум"/>
+	<entry name="Tyranids14" value="Димачера"/>
+	<entry name="Tyranids15" value="Гауфагус"/> 
+	<entry name="Tyranids16" value="Гонадренал"/>
+	<entry name="Tyranids17" value="Паралимпекс"/>
+	<entry name="TyranidsCount" value="18"/>
+</language>

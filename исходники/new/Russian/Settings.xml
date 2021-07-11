@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Audio" value="Аудио"/>
+	<entry name="Audio/AmbientVolume" value="Громкость Окружения "/>
+	<entry name="Audio/AmbientVolumeHint" value="Регулирует громкость окружающей среды."/>
+	<entry name="Audio/CinematicVolume" value="Громкость внутриигровых роликов"/>
+	<entry name="Audio/CinematicVolumeHint" value="Регулирует громкость кинематографических роликов."/>
+	<entry name="Audio/EffectVolume" value="Громкость эффектов "/>
+	<entry name="Audio/EffectVolumeHint" value="Регулирует громкость эффектов."/>
+	<entry name="Audio/EnvironmentalProcessing" value="Обработка Окружения"/>
+	<entry name="Audio/EnvironmentalProcessingHint" value="Обработка звуковых эффектов окружающей среды. Необходимо для таких эфектов, как реверберация, отражение и звуковая окклюзия или обструкция промежуточных объектов. Без этих окружающих эффектов слушатель может понять направление каждого источника звука, но будет сложнее точно определить, как далеко он находиться от их источников. Кроме того, слушатель не имеет представления о среде, где находятся источники."/>
+	<entry name="Audio/HRTF" value="HRTF"/>
+	<entry name="Audio/HRTFHint" value="Это требуется для смешения звука с помощью передаточной функции слухового аппарата человека, или HRTF.<br/><br/>HRTF может обеспечить лучшую пространственную остроту звуков при использовании наушников с помощью специальных фильтров, предназначенных для репликации, так как звуки зависят от формы головы слушателя, и они приходят из заданного направления.<br/><br/>Включение  HRTF смешивания может привести к переконфигурированию устройства на определенный режим воспроизведения и ограничению используемого диапазона частот.<br/><br/><style color='GUI/Yellow'/>Предупреждаем: хотя HRTF может давать лучший  звук с наушниками, он может привести к увеличению использования ресурсов и это может оказаться не очень хорошим выбором для обычных динамиков, особенно если у пользователя есть звук Surround."/>
+	<entry name="Audio/InterfaceVolume" value="Громкость интерфейса"/>
+	<entry name="Audio/InterfaceVolumeHint" value="Регулировка звуков Интерфейса."/>
+	<entry name="Audio/MasterVolume" value="Мастер громкости"/>
+	<entry name="Audio/MasterVolumeHint" value="Регулирует уровень громкости."/>
+	<entry name="Audio/MusicVolume" value="Громкость Музыки "/>
+	<entry name="Audio/MusicVolumeHint" value="Регулирует громкость музыки."/>
+	<entry name="Audio/OutputDevice" value="Устройство вывода"/>
+	<entry name="Audio/OutputDeviceHint" value=""/>
+	<entry name="Audio/VoiceVolume" value="Громкость голоса"/>
+	<entry name="Audio/VoiceVolumeHint" value="Регулировка громкости голоса."/>
+	<entry name="Controls" value="Управление"/>
+	<entry name="Controls/Cancel" value="Отменить"/>
+	<entry name="Controls/Cargo0" value="Груз 1"/>
+	<entry name="Controls/Cargo1" value="Груз 2"/>
+	<entry name="Controls/Cargo2" value="Груз 3"/>
+	<entry name="Controls/Cargo3" value="Груз 4"/>
+	<entry name="Controls/Cargo4" value="Груз 5"/>
+	<entry name="Controls/Cargo5" value="Груз 6"/>
+	<entry name="Controls/Cargo6" value="Груз 7"/>
+	<entry name="Controls/Cargo7" value="Груз 8"/>
+	<entry name="Controls/Cargo8" value="Груз 9"/>
+	<entry name="Controls/Cargo9" value="Груз 10"/>
+	<entry name="Controls/Chat" value="Чат"/>
+	<entry name="Controls/ForceEndTurn" value="Действия на конец хода"/>
+	<entry name="Controls/MarkTile" value="Маркировка плитки"/>
+	<entry name="Controls/NextMusicTrack" value="Следующий музыкальный трек"/>
+	<entry name="Controls/NextTask" value="Следующая задача"/>
+	<entry name="Controls/OK" value="OK"/>
+	<entry name="Controls/OpenCompendiumScreen" value="Открыть окно Краткого описания"/>
+	<entry name="Controls/OpenQuestsScreen" value="Открыть окно Квестов"/>
+	<entry name="Controls/OpenResearchScreen" value="Открыть окно Исследований"/>
+	<entry name="Controls/PlayerAction0" value="Действие игрока 1"/>
+	<entry name="Controls/PlayerAction1" value="Действие игрока 2"/>
+	<entry name="Controls/PlayerAction2" value="Действие игрока 3"/>
+	<entry name="Controls/PlayerAction3" value="Действие игрока 4"/>
+	<entry name="Controls/PlayerAction4" value="Действие игрока 5"/>
+	<entry name="Controls/PlayerAction5" value="Действие игрока 6"/>
+	<entry name="Controls/PlayerAction6" value="Действие игрока 7"/>
+	<entry name="Controls/PlayerAction7" value="Действие игрока 8"/>
+	<entry name="Controls/PlayerAction8" value="Действие игрока 9"/>
+	<entry name="Controls/PlayerAction9" value="Действие игрока 10"/>
+	<entry name="Controls/QuickLoad" value="Быстрая Загрузка"/>
+	<entry name="Controls/QuickSave" value="Быстрое Сохранение"/>
+	<entry name="Controls/ReloadModifiedResources" value="Перезагрузить Измененные Ресурсы"/>
+	<entry name="Controls/SaveJPGScreenShot" value="Сохранить снимок экрана в JPG"/>
+	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Сохранить снимок экрана в JPG без HUD"/>
+	<entry name="Controls/SavePNGScreenShot" value="Сохранить снимок экрана в PNG"/>
+	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Сохранить снимок экрана в PNG без HUD"/>
+	<entry name="Controls/ScrollDown" value="Прокрутка вниз"/>
+	<entry name="Controls/ScrollLeft" value="Прокрутка Влево"/>
+	<entry name="Controls/ScrollRight" value="Прокрутка вправо"/>
+	<entry name="Controls/ScrollUp" value="Прокрутка вверх"/>
+	<entry name="Controls/SelectNext" value="Выбор следующего"/>
+	<entry name="Controls/SelectPrevious" value="Выбор предыдущего"/>
+	<entry name="Controls/ToggleDebugPanel" value="Переключить в панель отладки"/>
+	<entry name="Controls/ToggleDisplayMode" value="Переключить в режим отображения"/>
+	<entry name="Controls/ToggleFPSDisplay" value="Переключить для показа FPS"/>
+	<entry name="Controls/ToggleHUD" value="Переключить HUD"/>
+	<entry name="Controls/ToggleLoadScreen" value="Переключить в экран загрузки"/>
+	<entry name="Controls/ToggleMixerPanel" value="Переключить в панель Микшера "/>
+	<entry name="Controls/ToggleSaveScreen" value="Переключить в экран сохранения"/>
+	<entry name="Controls/ToggleSettingsScreen" value="Переключить в экран настроек"/>
+	<entry name="Controls/ToggleStatsPanel" value="Переключить в экран Статистики"/>
+	<entry name="Controls/ToggleUnitOverlay" value="Переключить в слой подразделений"/>
+	<entry name="Controls/ToggleYieldOverlay" value="Переключить в слой дохода"/>
+	<entry name="Controls/UnitAction0" value="1  действие подразделения"/>
+	<entry name="Controls/UnitAction1" value="2 действие подразделения"/>
+	<entry name="Controls/UnitAction2" value="3 действие подразделения"/>
+	<entry name="Controls/UnitAction3" value="4 действие подразделения"/>
+	<entry name="Controls/UnitAction4" value="5 действие подразделения"/>
+	<entry name="Controls/UnitAction5" value="6 действие подразделения"/>
+	<entry name="Controls/UnitAction6" value="7 действие подразделения"/>
+	<entry name="Controls/UnitAction7" value="8 действие подразделения"/>
+	<entry name="Controls/UnitAction8" value="9 действие подразделения"/>
+	<entry name="Controls/UnitAction9" value="10 действие подразделения"/>
+	<entry name="Controls/UnitAction10" value="11 действие подразделения"/>
+	<entry name="Controls/UnitAction11" value="12 действие подразделения"/>
+	<entry name="Controls/UnitAction12" value="13 действие подразделения"/>
+	<entry name="Controls/UnitAction13" value="14 действие подразделения"/>
+	<entry name="Controls/UnitAction14" value="15 действие подразделения"/>
+	<entry name="Controls/UnitItem0" value="1-й предмет подразделения"/>
+	<entry name="Controls/UnitItem1" value="2-й предмет подразделения"/>
+	<entry name="Controls/UnitItem2" value="3-й предмет подразделения"/>
+	<entry name="Controls/UnitItem3" value="4-й предмет подразделения"/>
+	<entry name="Controls/UnitItem4" value="5-й предмет подразделения"/>
+	<entry name="Controls/UnitItem5" value="6-й предмет подразделения"/>
+	<entry name="Controls/UnitItem6" value="7-й предмет подразделения"/>
+	<entry name="Controls/UnitItem7" value="8-й предмет подразделения"/>
+	<entry name="Controls/UnitItem8" value="9-й предмет подразделения"/>
+	<entry name="Controls/UnitItem9" value="10-й предмет подразделения"/>
+	<entry name="General" value="Общие"/>
+	<entry name="General/AnimationSpeed" value="Скорость анимации"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General/AutoCycleUnits" value="Автоцикл подразделений"/>
+	<entry name="General/AutoCycleUnitsHint" value="Автоматический цикл для перехода к следующему подразделению."/>
+	<entry name="General/AutoSendReports" value="Отправка статистики использования и отчетов о сбоях"/>
+	<entry name="General/AutoSendReportsHint" value="Автоматически отправлять статистику игры и отчеты о сбоях в Proxy Studios, чтобы помочь улучшить функциональность игры, стабильность и производительность.<br/><br/><style color='GUI/Yellow'/>Конфиденциальность очень важна для нас. Мы стремимся собрать только те данные, что нам нужны, чтобы улучшить игру для всех. Собранные данные включают анонимные данные взаимодействия игрока с игрой (например, количество попыток и сбоев многопользовательского соединения, типы запущенных игр, используемые функции, нажатые кнопки и время игры), а также анонимную техническую информацию (например, версию и язык игры, конфигурацию операционной системы и аппаратного обеспечения, а также основную информацию о сбоях и ошибках). Эти данные обрабатываются в соответствии с законодательством для предоставлении качественного, надежного продукта.Данные хранятся до 1 года и никогда не передается третьим лицам."/>
+	<entry name="General/Language" value="Язык"/>
+	<entry name="General/LanguageHint" value="Выбор языка.<br/><br/><style color='GUI/Red'/>Изменение этого параметра требует перезапуска игры, чтобы изменения вступили в силу."/>
+	<entry name="General/ResetTips" value="Сбросить Советы"/>
+	<entry name="General/ResetTipsHint" value="Сбросить советы игры."/>
+	<entry name="General/ScrollAcceleration" value="Ускорение Прокрутки "/>
+	<entry name="General/ScrollAccelerationHint" value=""/>
+	<entry name="General/ScrollSpeed" value="Скорость Прокрутки "/>
+	<entry name="General/ScrollSpeedHint" value=""/>
+	<entry name="General/ScrollToAction" value="Фокус на действии"/>
+	<entry name="General/ScrollToActionHint" value="Камера автоматически фокусируется на любом действии, которое происходит во время хода ИИ."/>
+	<entry name="General/ShowBarks" value="Показать шкурку"/>
+	<entry name="General/ShowBarksHint" value="Показать шкурку подразделения."/>
+	<entry name="General/ShowCinematics" value="Показывать игровые ролики"/>
+	<entry name="General/ShowCinematicsHint" value="Показывать игровые ролики"/>
+	<entry name="General/ShowPerformance" value="Показывать вступительный ролик"/>
+	<entry name="General/ShowPerformanceHint" value="Показывать вступительный ролик."/>
+	<entry name="General/ShowSubtitles" value="Показывать субтитры"/>
+	<entry name="General/ShowSubtitlesHint" value="Показывать субтитры внизу кинематографических роликов, которые переводят или расшифровывают диалоги и повествование."/>
+	<entry name="General/ShowTips" value="Показать Советы"/>
+	<entry name="General/ShowTipsHint" value="Показывать полезные советы в игре."/>
+	<entry name="Network" value="Сеть"/>
+	<entry name="Network/ListenPort" value="Прослушать порт"/>
+	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/RemoteAddress" value="Удалённый адрес"/>
+	<entry name="Network/RemotePort" value="Удалённый порт"/>
+	<entry name="Video" value="Видео"/>
+	<entry name="Video/AnisotropicFiltering" value="Анизотропная фильтрация"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="Яркость"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="Тени облаков"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="Контраст"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="Глубина Тумана"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="Глубина резкости"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/DisplayMode" value="Режим Отображения "/>
+	<entry name="Video/DisplayMode0" value="Полноэкранный"/>
+	<entry name="Video/DisplayMode1" value="Оконный"/>
+	<entry name="Video/DisplayMode2" value="Оконный не украшенный"/>
+	<entry name="Video/DisplayModeHint" value="Позволяет изменять режим отображения игры. Оконный режимы может привести к снижению производительности.<br/><br/><style color='GUI/Yellow'/>Оконный режим может работать лучше для записи в родном разрешении."/>
+	<entry name="Video/FixedTimeOfDay" value="Определенное время суток"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="Фиксировать время суток на"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="Анти-сглаживание"/>
+	<entry name="Video/FXAAHint" value="Уменьшает сглаживание, сглаживая края с помощью FXAA, но может снизить производительность. Зависит от вычислительной мощности вашей видеокарты."/>
+	<entry name="Video/Gamma" value="Гамма"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/MaxFocusedTickrate" value="Max фокусировка FPS"/>
+	<entry name="Video/MaxFocusedTickrateHint" value=""/>
+	<entry name="Video/MaxMinimizedTickrate" value="Max минимизация FPS"/>
+	<entry name="Video/MaxMinimizedTickrateHint" value=""/>
+	<entry name="Video/MaxUnfocusedTickrate" value="Max расфокусировка FPS"/>
+	<entry name="Video/MaxUnfocusedTickrateHint" value=""/>
+	<entry name="Video/Monitor" value="Монитор"/>
+	<entry name="Video/MonitorHint" value=""/>
+	<entry name="Video/MultiThreadedRendering" value="Многопоточный рендеринг"/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Использует несколько ядер процессора для рендеринга, что может повысить производительность. Отключение этого параметра может удалить потенциальные визуальные артефакты."/>
+	<entry name="Video/Resolution" value="Разрешение"/>
+	<entry name="Video/ResolutionHint" value="Позволяет изменить Разрешение экрана игры. Более высокое разрешение приведет к увеличению четкости, но существенно повлиять на производительность."/>
+	<entry name="Video/ShadowQuality" value="Качество Теней "/>
+	<entry name="Video/ShadowQuality0" value="Низкое"/>
+	<entry name="Video/ShadowQuality1" value="Среднее"/>
+	<entry name="Video/ShadowQuality2" value="Высокое"/>
+	<entry name="Video/ShadowQualityHint" value="Определяет размер карты теней, которая используется для рендеринга теней. Более качественные тени приведут к более детализированным теням, но требует большей мощной видеокарты."/>
+	<entry name="Video/ShowCliffHighlights" value="Показывать подсветку скал"/>
+	<entry name="Video/ShowCliffHighlightsHint" value="Отображение пунктирных линий для выделения скал."/>
+	<entry name="Video/ShowGrid" value="Показать Сетку"/>
+	<entry name="Video/ShowGridHint" value="Показывает сетку на земле."/>
+	<entry name="Video/TextureQuality" value="Качество Текстур "/>
+	<entry name="Video/TextureQuality0" value="Низкое"/>
+	<entry name="Video/TextureQuality1" value="Среднее"/>
+	<entry name="Video/TextureQuality2" value="Высокое"/>
+	<entry name="Video/TextureQualityHint" value="Определяет размер текстуры, используемый на протяжении всей игры. Высокое качество текстур приведет к более детальным прорисовкам рельефа и подразделений, но требуется больше видео памяти .<br/><br/>Низкое: 1 ГБ<br/>Среднее: 2 ГБ<br/>Высокое: 3 ГБ"/>
+	<entry name="Video/UIScale" value="Масштаб интерфейса"/>
+	<entry name="Video/UIScale0" value="100%"/>
+	<entry name="Video/UIScale1" value="125%"/>
+	<entry name="Video/UIScale2" value="150%"/>
+	<entry name="Video/UIScale3" value="175%"/>
+	<entry name="Video/UIScale4" value="200%"/>
+	<entry name="Video/UIScaleHint" value="Масштабирование пользовательского интерфейса."/>
+	<entry name="Video/VerticalSynchronization" value="Вертикальная Синхронизация"/>
+	<entry name="Video/VerticalSynchronization-1" value="Адаптивная"/> <!-- TODO: Hints -->
+	<entry name="Video/VerticalSynchronization0" value="Нет"/>
+	<entry name="Video/VerticalSynchronization1" value="Регулярная"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Синхронизирует частоту кадров с частотой обновления вашего монитора."/>
+	<entry name="World" value="Мир"/>
+</language>
