@@ -15,6 +15,8 @@
 	<entry name="ArtefactDensity2" value="Сярэдняя"/>
 	<entry name="ArtefactDensity3" value="Высокая"/>
 	<entry name="ArtefactDensity4" value="Вельмі Высокая"/>
+	<entry name="AvoidDuplicateRandomFactions" value="Не дапускаць паўтору выпадковых фракцый"/>
+	<entry name="AvoidDuplicateRandomFactionsHint" value="Адрэгулюйце шанцы выпадковых фракцый так, каб кожная фракцыя з'яўлялася ў гульні аднолькавую колькасць разоў."/>
 	<entry name="DesertRegionDensity" value="Шчыльнасць Пустэльнай Мясцовасці"/>
 	<entry name="DesertRegionDensity0" value="Ніякая"/>
 	<entry name="DesertRegionDensity1" value="Вельмі Нізкая"/>
@@ -24,6 +26,7 @@
 	<entry name="DesertRegionDensity5" value="Вельмі Высокая"/>
 	<entry name="Difficulty" value="Складанасць"/>
 	<entry name="Difficulty0" value="Вельмі Лёгкая"/>
+	<entry name="Difficulty0AdeptusMechanicus" value="Адсікулярыс"/>
 	<entry name="Difficulty0AstraMilitarum" value="Прызыўнік"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Культыст"/>
 	<entry name="Difficulty0Eldar" value="Вартавы"/>
@@ -35,6 +38,7 @@
 	<entry name="Difficulty0Tyranids" value="Скарабей"/>
 	<entry name="Difficulty0FactionHint" value="%1%: церпіць ад сярэдняй нястачы лаяльнасці."/>
 	<entry name="Difficulty1" value="Лёгкая"/>
+	<entry name="Difficulty1AdeptusMechanicus" value="Сервітор"/>
 	<entry name="Difficulty1AstraMilitarum" value="Гвардзеец"/>
 	<entry name="Difficulty1ChaosSpaceMarines" value="Вырадак"/>
 	<entry name="Difficulty1Eldar" value="Ваяр Аспекту"/>
@@ -46,6 +50,7 @@
 	<entry name="Difficulty1Tyranids" value="Тэрмагант"/>
 	<entry name="Difficulty1FactionHint" value="%1%: церпіць ад маленькай нястачы лаяльнасці."/>
 	<entry name="Difficulty2" value="Сярэдняя"/>
+	<entry name="Difficulty2AdeptusMechanicus" value="Машынабачац"/>
 	<entry name="Difficulty2AstraMilitarum" value="Сяржант"/>
 	<entry name="Difficulty2ChaosSpaceMarines" value="Паўшы брат"/>
 	<entry name="Difficulty2Eldar" value="Рэйнджар"/>
@@ -57,6 +62,7 @@
 	<entry name="Difficulty2Tyranids" value="Ваяр"/>
 	<entry name="Difficulty2FactionHint" value="%1%: без пераваг і нястач."/>
 	<entry name="Difficulty3" value="Цяжкая"/>
+	<entry name="Difficulty3AdeptusMechanicus" value="Магас"/>
 	<entry name="Difficulty3AstraMilitarum" value="Камісар"/>
 	<entry name="Difficulty3ChaosSpaceMarines" value="Чэмпіён Хаосу"/>
 	<entry name="Difficulty3Eldar" value="Экзарх"/>
@@ -68,6 +74,7 @@
 	<entry name="Difficulty3Tyranids" value="Ліктар"/>
 	<entry name="Difficulty3FactionHint" value="%1%: атрымлівае невялікую перавагу ў лаяльнасці і ўзроўні."/>
 	<entry name="Difficulty4" value="Вельмі Цяжкая"/>
+	<entry name="Difficulty4AdeptusMechanicus" value="Фабрікэйтар Локум"/>
 	<entry name="Difficulty4AstraMilitarum" value="Генерал"/>
 	<entry name="Difficulty4ChaosSpaceMarines" value="Валадар Хаосу"/>
 	<entry name="Difficulty4Eldar" value="Автарх"/>
@@ -79,6 +86,7 @@
 	<entry name="Difficulty4Tyranids" value="Тыран Вулля"/>
 	<entry name="Difficulty4FactionHint" value="%1%: атрымлівае сярэднюю перавагу ў лаяльнасці і ўзроўні."/>
 	<entry name="Difficulty5" value="Ультра Цяжкая"/>
+	<entry name="Difficulty5AdeptusMechanicus" value="Фабрікэйтар Генерал"/>
 	<entry name="Difficulty5AstraMilitarum" value="Лорд-Камандзір"/>
 	<entry name="Difficulty5ChaosSpaceMarines" value="Князь-Дэман"/>
 	<entry name="Difficulty5Eldar" value="Вяшчун"/>
@@ -90,6 +98,7 @@
 	<entry name="Difficulty5Tyranids" value="Дамінатрыца"/>
 	<entry name="Difficulty5FactionHint" value="%1%: атрымлівае вялікую перавагу ў лаяльнасці і ўзроўні."/>
 	<entry name="Difficulty6" value="Немагчымая"/>
+	<entry name="Difficulty6AdeptusMechanicus" value="Амнісія"/>
 	<entry name="Difficulty6AstraMilitarum" value="Майстар вайны"/>
 	<entry name="Difficulty6ChaosSpaceMarines" value="Цёмны Бог"/>
 	<entry name="Difficulty6Eldar" value="Аватар"/>
@@ -207,6 +216,7 @@
 	<entry name="Supplement6" value=" DLC Набор Штурм"/>
 	<entry name="Supplement7" value="DLC Штучны Свет Аэльдары"/>
 	<entry name="Supplement8" value="DLC Набор адмыслоўцаў"/>
+	<entry name="Supplement9" value="DLC Адэптус Механікус"/>
 	<entry name="TropicalRegionDensity" value="Шчыльнасць Трапічнай Мясцовасці"/>
 	<entry name="TropicalRegionDensity0" value="None"/>
 	<entry name="TropicalRegionDensity1" value="Вельмі Нізкая"/>
