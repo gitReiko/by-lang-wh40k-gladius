@@ -2,6 +2,24 @@
 <language>
 
 	<!-- Buildings -->
+	<entry name="AdeptusMechanicus/Aircraft" value="<string name='Buildings/AdeptusMechanicus/Aircraft'/>"/>
+	<entry name="AdeptusMechanicus/AircraftDescription" value="<string name='Buildings/AdeptusMechanicus/AircraftDescription'/>"/>
+	<entry name="AdeptusMechanicus/AircraftFlavor" value="<string name='Buildings/AdeptusMechanicus/AircraftFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Construction" value="<string name='Buildings/AdeptusMechanicus/Construction'/>"/>
+	<entry name="AdeptusMechanicus/ConstructionDescription" value="<string name='Buildings/AdeptusMechanicus/ConstructionDescription'/>"/>
+	<entry name="AdeptusMechanicus/ConstructionFlavor" value="<string name='Buildings/AdeptusMechanicus/ConstructionFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Heroes" value="<string name='Buildings/AdeptusMechanicus/Heroes'/>"/>
+	<entry name="AdeptusMechanicus/HeroesDescription" value="<string name='Buildings/AdeptusMechanicus/HeroesDescription'/>"/>
+	<entry name="AdeptusMechanicus/HeroesFlavor" value="<string name='Buildings/AdeptusMechanicus/HeroesFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Housing" value="<string name='Buildings/AdeptusMechanicus/Housing'/>"/>
+	<entry name="AdeptusMechanicus/HousingDescription" value="<string name='Buildings/AdeptusMechanicus/HousingDescription'/>"/>
+	<entry name="AdeptusMechanicus/HousingFlavor" value="<string name='Buildings/AdeptusMechanicus/HousingFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Loyalty" value="<string name='Buildings/AdeptusMechanicus/Loyalty'/>"/>
+	<entry name="AdeptusMechanicus/LoyaltyDescription" value="<string name='Buildings/AdeptusMechanicus/LoyaltyDescription'/>"/>
+	<entry name="AdeptusMechanicus/LoyaltyFlavor" value="<string name='Buildings/AdeptusMechanicus/LoyaltyFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Vehicles" value="<string name='Buildings/AdeptusMechanicus/Vehicles'/>"/>
+	<entry name="AdeptusMechanicus/VehiclesDescription" value="<string name='Buildings/AdeptusMechanicus/VehiclesDescription'/>"/>
+	<entry name="AdeptusMechanicus/VehiclesFlavor" value="<string name='Buildings/AdeptusMechanicus/VehiclesFlavor'/>"/>
 	<entry name="AstraMilitarum/Aircraft" value="<string name='Buildings/AstraMilitarum/Aircraft'/>"/>
 	<entry name="AstraMilitarum/AircraftDescription" value="<string name='Buildings/AstraMilitarum/AircraftDescription'/>"/>
 	<entry name="AstraMilitarum/AircraftFlavor" value="<string name='Buildings/AstraMilitarum/AircraftFlavor'/>"/>
@@ -207,6 +225,48 @@
 	<entry name="AstraMilitarum/VehicleProductionEdictFlavor" value="<string name='Actions/AstraMilitarumVehicleProductionEdictFlavor'/>"/>
 		
 	<!-- Units -->
+	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="<string name='Units/AdeptusMechanicus/ArchaeopterStratoraptor'/>"/>
+	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorDescription" value="<string name='Units/AdeptusMechanicus/ArchaeopterStratoraptorDescription'/>"/>
+	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorFlavor" value="<string name='Units/AdeptusMechanicus/ArchaeopterStratoraptorFlavor'/>"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest" value="<string name='Units/AdeptusMechanicus/FulguriteElectroPriest'/>"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriestDescription" value="<string name='Units/AdeptusMechanicus/FulguriteElectroPriestDescription'/>"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriestFlavor" value="<string name='Units/AdeptusMechanicus/FulguriteElectroPriestFlavor'/>"/>
+	<entry name="AdeptusMechanicus/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
+	<entry name="AdeptusMechanicus/KastelanRobotDescription" value="<string name='Units/Neutral/KastelanRobotDescription'/>"/>
+	<entry name="AdeptusMechanicus/KastelanRobotFlavor" value="<string name='Units/Neutral/KastelanRobotFlavor'/>"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer" value="<string name='Units/AdeptusMechanicus/KataphronDestroyer'/>"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyerDescription" value="<string name='Units/AdeptusMechanicus/KataphronDestroyerDescription'/>"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyerFlavor" value="<string name='Units/AdeptusMechanicus/KataphronDestroyerFlavor'/>"/>
+	<entry name="AdeptusMechanicus/KnightCrusader" value="<string name='Units/AdeptusMechanicus/KnightCrusader'/>"/>
+	<entry name="AdeptusMechanicus/KnightCrusaderDescription" value="<string name='Units/AdeptusMechanicus/KnightCrusaderDescription'/>"/>
+	<entry name="AdeptusMechanicus/KnightCrusaderFlavor" value="<string name='Units/AdeptusMechanicus/KnightCrusaderFlavor'/>"/>
+	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="<string name='Units/AdeptusMechanicus/OnagerDunecrawler'/>"/>
+	<entry name="AdeptusMechanicus/OnagerDunecrawlerDescription" value="<string name='Units/AdeptusMechanicus/OnagerDunecrawlerDescription'/>"/>
+	<entry name="AdeptusMechanicus/OnagerDunecrawlerFlavor" value="<string name='Units/AdeptusMechanicus/OnagerDunecrawlerFlavor'/>"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor" value="<string name='Units/AdeptusMechanicus/PteraxiiSterylizor'/>"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizorDescription" value="<string name='Units/AdeptusMechanicus/PteraxiiSterylizorDescription'/>"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizorFlavor" value="<string name='Units/AdeptusMechanicus/PteraxiiSterylizorFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SerberysSulphurhound" value="<string name='Units/AdeptusMechanicus/SerberysSulphurhound'/>"/>
+	<entry name="AdeptusMechanicus/SerberysSulphurhoundDescription" value="<string name='Units/AdeptusMechanicus/SerberysSulphurhoundDescription'/>"/>
+	<entry name="AdeptusMechanicus/SerberysSulphurhoundFlavor" value="<string name='Units/AdeptusMechanicus/SerberysSulphurhoundFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator" value="<string name='Units/AdeptusMechanicus/SicarianInfiltrator'/>"/>
+	<entry name="AdeptusMechanicus/SicarianInfiltratorDescription" value="<string name='Units/AdeptusMechanicus/SicarianInfiltratorDescription'/>"/>
+	<entry name="AdeptusMechanicus/SicarianInfiltratorFlavor" value="<string name='Units/AdeptusMechanicus/SicarianInfiltratorFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal" value="<string name='Units/AdeptusMechanicus/SkitariiMarshal'/>"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshalDescription" value="<string name='Units/AdeptusMechanicus/SkitariiMarshalDescription'/>"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshalFlavor" value="<string name='Units/AdeptusMechanicus/SkitariiMarshalFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="<string name='Units/AdeptusMechanicus/SkorpiusDisintegrator'/>"/>
+	<entry name="AdeptusMechanicus/SkorpiusDisintegratorDescription" value="<string name='Units/AdeptusMechanicus/SkorpiusDisintegratorDescription'/>"/>
+	<entry name="AdeptusMechanicus/SkorpiusDisintegratorFlavor" value="<string name='Units/AdeptusMechanicus/SkorpiusDisintegratorFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SkorpiusDunerider" value="<string name='Units/AdeptusMechanicus/SkorpiusDunerider'/>"/>
+	<entry name="AdeptusMechanicus/SkorpiusDuneriderDescription" value="<string name='Units/AdeptusMechanicus/SkorpiusDuneriderDescription'/>"/>
+	<entry name="AdeptusMechanicus/SkorpiusDuneriderFlavor" value="<string name='Units/AdeptusMechanicus/SkorpiusDuneriderFlavor'/>"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus" value="<string name='Units/AdeptusMechanicus/TechPriestDominus'/>"/>
+	<entry name="AdeptusMechanicus/TechPriestDominusDescription" value="<string name='Units/AdeptusMechanicus/TechPriestDominusDescription'/>"/>
+	<entry name="AdeptusMechanicus/TechPriestDominusFlavor" value="<string name='Units/AdeptusMechanicus/TechPriestDominusFlavor'/>"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus" value="<string name='Units/AdeptusMechanicus/TechPriestManipulus'/>"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulusDescription" value="<string name='Units/AdeptusMechanicus/TechPriestManipulusDescription'/>"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulusFlavor" value="<string name='Units/AdeptusMechanicus/TechPriestManipulusFlavor'/>"/>
 	<entry name="AstraMilitarum/Baneblade" value="<string name='Units/AstraMilitarum/Baneblade'/>"/>
 	<entry name="AstraMilitarum/BanebladeDescription" value="<string name='Units/AstraMilitarum/BanebladeDescription'/>"/>
 	<entry name="AstraMilitarum/BanebladeFlavor" value="<string name='Units/AstraMilitarum/BanebladeFlavor'/>"/>
@@ -626,6 +686,123 @@
 	<entry name="SmokeLauncher" value="Дымавая пускавая ўсталёўка"/>
 	<entry name="SmokeLauncherDescription" value="Дадае наземнай тэхніцы магчымасць запускаць дымавую заслону, якая зніжае шкоду ад далёкіх атак."/>
 	<entry name="SmokeLauncherFlavor" value="Some vehicles have small launchers mounted onto them that carry smoke canisters. These are used to temporarily obscure the vehicle behind billowing clouds of smoke, allowing it to cross open areas in greater safety—although it does so at the cost of being able to fire its own weapons."/>
+	<entry name="AdeptusMechanicus/AdjacencyIntegration" value="<string name='Traits/AdeptusMechanicus/AdjacencyIntegration'/>"/>
+	<entry name="AdeptusMechanicus/AdjacencyIntegrationDescription" value="Павялічвае вытворчасць даследаванняў будынка за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/AdjacencyIntegrationFlavor" value="<string name='Traits/AdeptusMechanicus/AdjacencyIntegrationFlavor'/>"/>
+	<entry name="AdeptusMechanicus/AggressorImperative" value="<string name='Actions/AdeptusMechanicus/AggressorImperative'/>"/>
+	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="<string name='Actions/AdeptusMechanicus/AggressorImperativeDescription'/>"/>
+	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/AggressorImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/AssaultWeaponBonus" value="<string name='Traits/AdeptusMechanicus/AssaultWeaponBonus'/>"/>
+	<entry name="AdeptusMechanicus/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасць штурмавой зброі."/>
+	<entry name="AdeptusMechanicus/AssaultWeaponBonusFlavor" value="<string name='Traits/AdeptusMechanicus/AssaultWeaponBonusFlavor'/>"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscience'/>"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceDescription'/>"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceFlavor'/>"/>
+	<entry name="AdeptusMechanicus/BlessedConduits" value="Дабраславёныя трубаводы"/>
+	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Змяншае час перазарадкі павышэння магутнасці."/>
+	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="“And when at last he came upon the vehicle, he perceived the distress of the engine therein and forthwith struck the rune and it was good. Thereupon the engine ignited and was filled with strength…“<br/>—Lord of the Engines, 16th Tome, Verse 2001"/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTether'/>"/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Дае жалезным балістарыўсам-вандроўнікам, скорпіўсам дзюнавым наезнікам, анаграм дзюнаходам і скорпіўсам-дэзынтэгратарам здольнасць змяншэння страт маралі суседніх адзінак Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTetherFlavor'/>"/>
+	<entry name="AdeptusMechanicus/BulwarkImperative" value="<string name='Actions/AdeptusMechanicus/BulwarkImperative'/>"/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="<string name='Actions/AdeptusMechanicus/BulwarkImperativeDescription'/>"/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/BulwarkImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFist" value="<string name='Actions/AdeptusMechanicus/ChantOfTheRemorselessFist'/>"/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="<string name='Actions/AdeptusMechanicus/ChantOfTheRemorselessFistDescription'/>"/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="<string name='Actions/AdeptusMechanicus/ChantOfTheRemorselessFistFlavor'/>"/>
+	<entry name="AdeptusMechanicus/CityTier2" value="<string name='Traits/AdeptusMechanicus/CityTier2'/>"/>
+	<entry name="AdeptusMechanicus/CityTier2Description" value="<string name='Traits/AdeptusMechanicus/CityTier2Description'/>"/>
+	<entry name="AdeptusMechanicus/CityTier2Flavor" value="<string name='Traits/AdeptusMechanicus/CityTier2Flavor'/>"/>
+	<entry name="AdeptusMechanicus/CityTier3" value="<string name='Traits/AdeptusMechanicus/CityTier3'/>"/>
+	<entry name="AdeptusMechanicus/CityTier3Description" value="<string name='Traits/AdeptusMechanicus/CityTier3Description'/>"/>
+	<entry name="AdeptusMechanicus/CityTier3Flavor" value="<string name='Traits/AdeptusMechanicus/CityTier3Flavor'/>"/>
+	<entry name="AdeptusMechanicus/CognisHeavyStubber" value="<string name='Weapons/CognisHeavyStubber'/>"/>
+	<entry name="AdeptusMechanicus/CognisHeavyStubberDescription" value="Дае анаграм дзюнаходам цяжкі когніс стаббер."/>
+	<entry name="AdeptusMechanicus/CognisHeavyStubberFlavor" value="<string name='Weapons/CognisHeavyStubberFlavor'/>"/>
+	<entry name="AdeptusMechanicus/CommandUplink" value="<string name='Traits/AdeptusMechanicus/CommandUplink'/>"/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Дае археоптарам-трансвектарам і археоптарам-стратараптарам здольнасць змяншэння страт маралі суседніх адзінак Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="<string name='Traits/AdeptusMechanicus/CommandUplinkFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ConquerorImperative" value="<string name='Actions/AdeptusMechanicus/ConquerorImperative'/>"/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="<string name='Actions/AdeptusMechanicus/ConquerorImperativeDescription'/>"/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/ConquerorImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/EnhancedDataTether" value="<string name='Traits/AdeptusMechanicus/EnhancedDataTether'/>"/>
+	<entry name="AdeptusMechanicus/EnhancedDataTetherDescription" value="Павялічвае мараль скітарыям-авангарда."/>
+	<entry name="AdeptusMechanicus/EnhancedDataTetherFlavor" value="<string name='Traits/AdeptusMechanicus/EnhancedDataTetherFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ExtraInfantryArmour" value="Пратаколы Граяна"/>
+	<entry name="AdeptusMechanicus/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
+	<entry name="AdeptusMechanicus/ExtraInfantryArmourFlavor" value="The integration of Graian protocols into a Skitarii’s command circuits further enhances their already impressive survivability. The Forge World of Graia is known for its refusal to ever yield, given that their logic is simply irrefutable."/>
+	<entry name="AdeptusMechanicus/ExtraVehicleArmour" value="Абляцыя Агрыпінана"/>
+	<entry name="AdeptusMechanicus/ExtraVehicleArmourDescription" value="Павялічвае браню машынаў."/>
+	<entry name="AdeptusMechanicus/ExtraVehicleArmourFlavor" value="Living by the Eye of Terror after the fall of Cadia has transformed the Adeptus Mechanicus on Agripinaa into defensive experts—particularly, when it comes to keeping their machines running under fire."/>
+	<entry name="AdeptusMechanicus/FidorumVossPrime" value="<string name='Traits/AdeptusMechanicus/FidorumVossPrime'/>"/>
+	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Павялічвае вытворчасць уплыву будынка за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="<string name='Traits/AdeptusMechanicus/FidorumVossPrimeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="AdeptusMechanicus/HammerOfWrathDescription" value="Дае жалезным балістарыўсам-вандроўнікам, фульгурытавым электрасвятарам, анаграм дзюнаходам і рыцарам-крыжакам здольнасць выконваць больш разбуральныя атакі."/>
+	<entry name="AdeptusMechanicus/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="AdeptusMechanicus/HeavyWeaponBonus" value="<string name='Traits/AdeptusMechanicus/HeavyWeaponBonus'/>"/>
+	<entry name="AdeptusMechanicus/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць цяжкай зброі."/>
+	<entry name="AdeptusMechanicus/HeavyWeaponBonusFlavor" value="<string name='Traits/AdeptusMechanicus/HeavyWeaponBonusFlavor'/>"/>
+	<entry name="AdeptusMechanicus/IconsOfTheOmnissiah" value="<string name='Traits/AdeptusMechanicus/IconsOfTheOmnissiah'/>"/>
+	<entry name="AdeptusMechanicus/IconsOfTheOmnissiahDescription" value="Павялічвае вытворчасць лаяльнасці будынка за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/IconsOfTheOmnissiahFlavor" value="<string name='Traits/AdeptusMechanicus/IconsOfTheOmnissiahFlavor'/>"/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoul" value="<string name='Actions/AdeptusMechanicus/IncantationOfTheIronSoul'/>"/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulDescription" value="<string name='Actions/AdeptusMechanicus/IncantationOfTheIronSoulDescription'/>"/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulFlavor" value="<string name='Actions/AdeptusMechanicus/IncantationOfTheIronSoulFlavor'/>"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMight" value="<string name='Actions/AdeptusMechanicus/InvocationOfMachineMight'/>"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightDescription" value="<string name='Actions/AdeptusMechanicus/InvocationOfMachineMightDescription'/>"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightFlavor" value="<string name='Actions/AdeptusMechanicus/InvocationOfMachineMightFlavor'/>"/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancer'/>"/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancerDescription'/>"/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancerFlavor'/>"/>
+	<entry name="AdeptusMechanicus/LucianSpecialisation" value="<string name='Traits/AdeptusMechanicus/LucianSpecialisation'/>"/>
+	<entry name="AdeptusMechanicus/LucianSpecialisationDescription" value="<string name='Traits/AdeptusMechanicus/LucianSpecialisationDescription'/>"/>
+	<entry name="AdeptusMechanicus/LucianSpecialisationFlavor" value="<string name='Traits/AdeptusMechanicus/LucianSpecialisationFlavor'/>"/>
+	<entry name="AdeptusMechanicus/MeleeWeaponBonus" value="<string name='Traits/AdeptusMechanicus/MeleeWeaponBonus'/>"/>
+	<entry name="AdeptusMechanicus/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
+	<entry name="AdeptusMechanicus/MeleeWeaponBonusFlavor" value="<string name='Traits/AdeptusMechanicus/MeleeWeaponBonusFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Omnispex" value="<string name='Traits/AdeptusMechanicus/Omnispex'/>"/>
+	<entry name="AdeptusMechanicus/OmnispexDescription" value="Дазваляе скітарыям-авангарду ігнараваць зніжэнне шкоды ў далёкім боі."/>
+	<entry name="AdeptusMechanicus/OmnispexFlavor" value="<string name='Traits/AdeptusMechanicus/OmnispexFlavor'/>"/>
+	<entry name="AdeptusMechanicus/OptateRestrictions" value="<string name='Traits/AdeptusMechanicus/OptateRestrictions'/>"/>
+	<entry name="AdeptusMechanicus/OptateRestrictionsDescription" value="Павялічвае ліміт насельніцтва хаб фэйнаў."/>
+	<entry name="AdeptusMechanicus/OptateRestrictionsFlavor" value="<string name='Traits/AdeptusMechanicus/OptateRestrictionsFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ProtectorImperative" value="<string name='Actions/AdeptusMechanicus/ProtectorImperative'/>"/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="<string name='Actions/AdeptusMechanicus/ProtectorImperativeDescription'/>"/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/ProtectorImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ReclaimatorProtocols" value="<string name='Traits/AdeptusMechanicus/ReclaimatorProtocols'/>"/>
+	<entry name="AdeptusMechanicus/ReclaimatorProtocolsDescription" value="<string name='Traits/AdeptusMechanicus/ReclaimatorProtocolsDescription'/>"/>
+	<entry name="AdeptusMechanicus/ReclaimatorProtocolsFlavor" value="<string name='Traits/AdeptusMechanicus/ReclaimatorProtocolsFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Shroudpsalm" value="<string name='Actions/AdeptusMechanicus/Shroudpsalm'/>"/>
+	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="<string name='Actions/AdeptusMechanicus/ShroudpsalmDescription'/>"/>
+	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="<string name='Actions/AdeptusMechanicus/ShroudpsalmFlavor'/>"/>
+ 	<entry name="AdeptusMechanicus/SolarReflectors" value="<string name='Traits/AdeptusMechanicus/SolarReflectors'/>"/>
+	<entry name="AdeptusMechanicus/SolarReflectorsDescription" value="Павялічвае вытворчасць энергіі будынка за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/SolarReflectorsFlavor" value="<string name='Traits/AdeptusMechanicus/SolarReflectorsFlavor'/>"/>
+ 	<entry name="AdeptusMechanicus/SoylensAcquisitionTeams" value="<string name='Traits/AdeptusMechanicus/SoylensAcquisitionTeams'/>"/>
+	<entry name="AdeptusMechanicus/SoylensAcquisitionTeamsDescription" value="Павялічвае вытворчасць ежы будынка за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/SoylensAcquisitionTeamsFlavor" value="<string name='Traits/AdeptusMechanicus/SoylensAcquisitionTeamsFlavor'/>"/>
+	<entry name="AdeptusMechanicus/StygianEnlightenment" value="<string name='Traits/AdeptusMechanicus/StygianEnlightenment'/>"/>
+	<entry name="AdeptusMechanicus/StygianEnlightenmentDescription" value="<string name='Traits/AdeptusMechanicus/StygianEnlightenmentDescription'/>"/>
+	<entry name="AdeptusMechanicus/StygianEnlightenmentFlavor" value="<string name='Traits/AdeptusMechanicus/StygianEnlightenmentFlavor'/>"/>
+	<entry name="AdeptusMechanicus/TerranGeneralism" value="<string name='Traits/AdeptusMechanicus/TerranGeneralism'/>"/>
+	<entry name="AdeptusMechanicus/TerranGeneralismDescription" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismDescription'/>"/>
+	<entry name="AdeptusMechanicus/TerranGeneralismFlavor" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ThermoExchangeEfficiency" value="Эфектыўнасць тэрмаабмену"/>
+	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyDescription" value="Павялічвае бонус выхаду павышэння магутнасці."/>
+	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyFlavor" value="Paradoxically, slowing down the inputs to the ThermoExchanger and feeding the plasma through a second set of heat couplings and condensers can stretch the length of time it can operate beyond nominal goals—or at least reduce the amount of lives lost and repairs needed."/>
+	<entry name="AdeptusMechanicus/TriplexNecessity" value="<string name='Traits/AdeptusMechanicus/TriplexNecessity'/>"/>
+	<entry name="AdeptusMechanicus/TriplexNecessityDescription" value="Павялічвае вытворчасць руды будынка за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/TriplexNecessityFlavor" value="<string name='Traits/AdeptusMechanicus/TriplexNecessityFlavor'/>"/>
+	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannon" value="<string name='Weapons/TwinLinkedIcarusAutocannon'/>"/>
+	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonDescription" value="Дае рыцарам-крыжакам здвоеную аўтагармату Ікарус."/>
+	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/TwinLinkedIcarusAutocannonFlavor'/>"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCode" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCode'/>"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Павялічвае страты маралі варожых адзінак суседніх да сікарыйскіх лазутчыкаў."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/XenariteAcceptance" value="Прыняцце ксенарыта"/>
+	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Павялічвае фіксаваную колькасць даследаванняў, што атрымліваюцца ад аванпостаў."/>
+	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="It seems the Xenarite Tech-Priests from Stygies VIII are having their way on Gladius Prime too—setting up observation units and drones at every Outpost to understand the Xenos better. The practical applications in terms of research are immediately obvious…"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Дадатковыя цяжкія болтары"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дадае цяжкія болтары гібельным клінкам, баявым танкам Леман Рус ды валькірыям."/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
@@ -642,7 +819,7 @@
 	<entry name="AstraMilitarum/BoltDamageDescription" value="Павялічвае бронепрабівальнасць болтараў."/>
 	<entry name="AstraMilitarum/BoltDamageFlavor" value="<string name='Traits/AstraMilitarum/BoltDamageFlavor'/>"/>
 	<entry name="AstraMilitarum/BruteShield" value="<string name='Traits/BruteShield'/>"/>
-	<entry name="AstraMilitarum/BruteShieldDescription" value="Павялічвае зніжэнне шкоды быкрынаў."/>
+	<entry name="AstraMilitarum/BruteShieldDescription" value="Павялічвае шкоду і зніжэнне шкоды быкрынаў."/>
 	<entry name="AstraMilitarum/BruteShieldFlavor" value="<string name='Traits/BruteShieldFlavor'/>"/>
 	<entry name="AstraMilitarum/CamoNetting" value="<string name='Traits/CamoNetting'/>"/>
 	<entry name="AstraMilitarum/CamoNettingDescription" value="<string name='Traits/CamoNettingDescription'/>"/>
@@ -666,7 +843,7 @@
 	<entry name="AstraMilitarum/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
 	<entry name="AstraMilitarum/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="AstraMilitarum/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="AstraMilitarum/FragGrenadeDescription" value="Дае пяхоце здольнасць кідаць супрацьпяхотныя гранаты."/>
+	<entry name="AstraMilitarum/FragGrenadeDescription" value="Дае быкрынам, гвардзейцам, цяжкаўзброенай камандзе, лорду-камісару, прымарыс-псайкеру, тэхнажрэцам-машынабачцам, нашчадкам тэмпестус здольнасць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="AstraMilitarum/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="AstraMilitarum/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Дае выведнікам-вартавым ды быкрынам здольнасць здзяйсняць больш разбуральныя атакі."/>
@@ -681,7 +858,7 @@
 	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Дае тэхнажрэцам-машынабачцам здольнасць будаваць фартыфікацыі з цяжкімі болтарамі."/>
 	<entry name="AstraMilitarum/ImperialStrongpointFlavor" value="<string name='Units/AstraMilitarum/ImperialStrongpointFlavor'/>"/>
 	<entry name="AstraMilitarum/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="AstraMilitarum/KrakGrenadeDescription" value="Grants infantry the ability to throw anti-armour grenades."/>
+	<entry name="AstraMilitarum/KrakGrenadeDescription" value="Дае гвардзейцам, цяжкаўзброенай камандзе, лорду-камісару, тэхнажрэцам-машынабачцам, нашчадкам тэмпестус здольнасць кідаць супрацьтанкавыя гранаты."/>
 	<entry name="AstraMilitarum/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="AstraMilitarum/LasDamage" value="<string name='Traits/AstraMilitarum/LasDamage'/>"/>
 	<entry name="AstraMilitarum/LasDamageDescription" value="Павялічвае бронепрабівальнасць лазернай зброі."/>
@@ -842,7 +1019,7 @@
 	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="“My word is more than mere advice: it is an imprecation filtered through the consciousness of our storied dead, striving to bring one iota of order to the disordered universe. Our race understands that and listens to my word, not as that of a dictator but as an attentive student.”<br/>  — Farseer Kataimon of Malantai"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2" value="Абяцанне штучных светаў"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Description" value="Зніжае час перазарадкі прызыву Асур'яні."/>
-	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="”When the Warlocks and Farseers of multiple craftworlds share a vision—a literal vision of the future—then they and their craftworlds work as one. They will denude their own halls of life and spirit to fulfil their pledge to that future.”<br/>  — Lecture transcripts, Grigomen Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="“When the Warlocks and Farseers of multiple craftworlds share a vision—a literal vision of the future—then they and their craftworlds work as one. They will denude their own halls of life and spirit to fulfil their pledge to that future.”<br/>  — Lecture transcripts, Grigomen Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Eldar/CityTier2" value="<string name='Traits/Eldar/CityTier2'/>"/>
 	<entry name="Eldar/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Eldar/CityTier2Flavor" value="<string name='Traits/Eldar/CityTier2Flavor'/>"/>
@@ -880,7 +1057,7 @@
 	<entry name="Eldar/GhostwalkMatrixDescription" value="Дазваляе хвалевым змеям, агнявым прызмам і баявым крокаходам праходзіць праз сховішчы."/>
 	<entry name="Eldar/GhostwalkMatrixFlavor" value="A ghostwalk matrix utilises the knowledge and wisdom contained within a spirit stone to guide the vehicle on its path."/>
 	<entry name="Eldar/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Eldar/HammerOfWrathDescription" value="Дае бліскучым дзідам, вяшчунам нябесным бягунам, аватарам Кхайна і прывідным рыцар магчымасць здзяйсняць больш разбуральныя атакі."/>
+	<entry name="Eldar/HammerOfWrathDescription" value="Дае бліскучым дзідам, вяшчунам нябесным бягунам, аватарам Кхайна, баявыям крокаходам і прывідным рыцарам магчымасць здзяйсняць больш разбуральныя атакі."/>
 	<entry name="Eldar/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Eldar/HeavyWeaponBonus" value="<string name='Traits/Eldar/HeavyWeaponBonus'/>"/>
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць цяжкай зброі."/>
@@ -923,7 +1100,7 @@
 	<entry name="Eldar/TranscendentBlissFlavor" value="<string name='Actions/Eldar/TranscendentBlissFlavor'/>"/>
 	<entry name="Eldar/TranscendentBlissBonus" value="Гібель Аэльдары"/>
 	<entry name="Eldar/TranscendentBlissBonusDescription" value="Павялічвае лаяльнасць ад трансцэндэнтальнай асалоды."/>
-	<entry name="Eldar/TranscendentBlissBonusFlavor" value="”To an unfettered Aeldari mind there is neither sanity nor madness, but merely a wave of perfect existence fulfilled by its own savage momentum.”<br/>  — Ralamine Mung, Ordo Xenos"/>
+	<entry name="Eldar/TranscendentBlissBonusFlavor" value="“To an unfettered Aeldari mind there is neither sanity nor madness, but merely a wave of perfect existence fulfilled by its own savage momentum.”<br/>  — Ralamine Mung, Ordo Xenos"/>
 	<entry name="Eldar/VectoredEngines" value="<string name='Traits/Eldar/VectoredEngines'/>"/>
 	<entry name="Eldar/VectoredEnginesDescription" value="Дае хвалевым змеям, агнявым прызмам, баявым крокаходам і скарпіёнам здольнасць часова павялічваць сваю браню супраць варожай зброі далёкага бою."/>
 	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Traits/Eldar/VectoredEnginesFlavor'/>"/>
