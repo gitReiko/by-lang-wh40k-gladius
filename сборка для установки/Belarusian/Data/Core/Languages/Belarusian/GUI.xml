@@ -9,6 +9,7 @@
 	<entry name="AddPlayerHint" value="Дадаць гульца."/>
 	<entry name="AdditionalContentAvailable" value="Дадатковы кантэнт даступны"/>
 	<entry name="Advanced" value="Пашыраныя"/>
+	<entry name="AdeptusMechanicusPlayerPowers" value="Слава Бога Машын"/>
 	<entry name="Agree" value="Згодзен"/>
 	<entry name="AgreeTermsAndConditionsHint" value="Я прачытаў і згодзен з умовамі."/>
 	<entry name="All" value="Усё"/>
@@ -105,6 +106,7 @@
 	<entry name="Installed" value="Усталяваны"/>
 	<entry name="IntroductionGame" value="Навучанне"/>
 	<entry name="IntroductionGameHint" value="Пачніце навучальную гульню за Космадэсант на найлягчэйшай складанасці."/>
+	<entry name="InvalidName" value="Няправільнае імя."/>
 	<entry name="InviteEpicFriend" value="Запрасіць Сябра з Epic"/>
 	<entry name="InviteSteamFriend" value="Запрасіць Сябра з Steam"/>
 	<entry name="InviteSteamFriendHint" value="<style color='GUI/Yellow'/>Steam дазваляе запрашаць сяброў толькі, калі ўсталяваны публічныя налады сакрэтнасці."/>
@@ -113,7 +115,7 @@
 	<entry name="ItemShop" value="Крама прадметаў"/>
 	<entry name="Items" value="Прадметы"/>
 	<entry name="Join" value="Далучыцца"/>
-	<entry name="JustOneMoreTurn" value="Пачакайце! Яшчэ...  адзін... крок..."/>
+	<entry name="JustOneMoreTurn" value="Пачакайце! Яшчэ…  адзін… крок…"/>
 	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% досвед<br/><icon texture='GUI/Bullet'/>%3% досвед за смерць"/>
 	<entry name="LimitReached" value="Дасягнуты ліміт."/>
 	<entry name="Load" value="Загрузіць"/>
@@ -166,7 +168,7 @@
 	<entry name="Player" value="Гулец"/>
 	<entry name="PlayerXTurn" value="%1% крок"/>
 	<entry name="Players" value="Гульцы"/>
-	<entry name="PleaseWait" value="Калі ласка пачакайце..."/>
+	<entry name="PleaseWait" value="Калі ласка пачакайце…"/>
 	<entry name="PleaseWaitHint" value="Калі ласка пачакайце іншых гульцоў."/>
 	<entry name="Quests" value="Заданні"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітка"/>
@@ -188,6 +190,7 @@
 	<entry name="Research" value="Даследаванне"/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% набыта"/>
+	<entry name="ResourceFromAdjacentBuildings" value="    <icon texture='GUI/Bullet'/>%1% ад суседніх будынкаў"/>
 	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% ад будынкаў"/>
 	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% ад колькасці гарадоў"/>
 	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% ад разбурэнняў"/>
