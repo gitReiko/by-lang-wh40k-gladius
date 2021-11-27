@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AdeptusMechanicus0" value="Пылавыя наезнікі"/>
+	<entry name="AdeptusMechanicus1" value="Дзінайзайры"/>
+	<entry name="AdeptusMechanicus2" value="Гатычная маніпула"/>
+	<entry name="AdeptusMechanicus3" value="Уд Удзіанс"/>
+	<entry name="AdeptusMechanicus4" value="Зайбатсун"/>
+	<entry name="AdeptusMechanicus5" value="Тэрават рэмбренсары"/>
+	<entry name="AdeptusMechanicus6" value="Сталёвыя, паспавяданыя"/>
+	<entry name="AdeptusMechanicus7" value="Марсіянскія драгуны"/>
+	<entry name="AdeptusMechanicus8" value="Наземныя млынары"/>
+	<entry name="AdeptusMechanicus9" value="Гальдэн скрыпторыя"/>
+	<entry name="AdeptusMechanicus10" value="Квэстар пельтасты"/>
+	<entry name="AdeptusMechanicus11" value="Кіберыядес"/>
+	<entry name="AdeptusMechanicus12" value="Белізарыян"/>
+	<entry name="AdeptusMechanicusCount" value="13"/>
 	<entry name="AstraMilitarum0" value="Ветэраны Мірала"/>
 	<entry name="AstraMilitarum1" value="Нерэгуляры Катура"/>
 	<entry name="AstraMilitarum2" value="Гвардыя пустэчаў Нурта"/>
@@ -43,7 +57,7 @@
 	<entry name="Necrons1" value="Залатыя гарпіі"/>
 	<entry name="Necrons2" value="Шляхетная гвардыя "/>
 	<entry name="Necrons3" value="Абраныя валадара"/>
-	<entry name="Necrons4" value="Анатамы"/>
+	<entry name="Necrons4" value="Анатамісты"/>
 	<entry name="Necrons5" value="Ёта бясконцага рою"/>
 	<entry name="Necrons6" value="Языкі Ашуканца"/>
 	<entry name="Necrons7" value="Згуба Скуралупа"/>
