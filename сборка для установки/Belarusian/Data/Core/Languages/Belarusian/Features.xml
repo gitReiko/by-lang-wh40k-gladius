@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AdeptusMechanicusCity" value="Горад Адэптус Механікус"/>
+	<entry name="AdeptusMechanicusCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="AdeptusMechanicusCityFlavor" value="A proto-Hive, the Adeptus Mechanicus make their home here. Everything moves, everything is a machine, nothing is natural or soft or clean. It is a place not designed for the comfort of man—the flesh is weak after all—but here the teeming mass of humanity live short, sad lives in the shadows of sacred and mighty machines."/>
 	<entry name="Arctic" value="Арктыка"/>
 	<entry name="ArcticFlavor" value="On most human-habitable planets, the icy, treeless 'arctic' climates are located towards the poles of the planet. On Gladius Prime, however, ancient climate management means the frozen regions are less predictably-distributed."/>
-	<entry name="AstraMilitarumCity" value="Горад астра мілітарум"/>
+	<entry name="AstraMilitarumCity" value="Горад Астра Мілітарум"/>
 	<entry name="AstraMilitarumCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="AstraMilitarumCityFlavor" value="Humans are crammed into this city's high walls, but that doesn't mean their behaviour is confined to it. For miles around, the landscape is devastated, polluted and exploited, whilst the various human workers, machines and soldiers roam further, to truly 'terraform' the planet's once-fertile surface."/>
 	<entry name="Bedrock" value="Карэнная парода"/>
 	<entry name="BedrockDescription" value=""/>
-	<entry name="BedrockFlavor" value="Over the millenia, Gladius Prime's foliage, fauna and habitat has changed drastically—but no change so drastic as that effected by the Tyranids. In this area, not only has the wildlife and the foliage been consumed, but the Ripper swarms have dug up the soil, subsoil and regolith, leaving only bare stone behind.  Give the Tyranids enough time and the whole planet will be like this."/>
+	<entry name="BedrockFlavor" value="Over the millenia, Gladius Prime's foliage, fauna and habitat has changed drastically—but no change so drastic as that effected by the Tyranids. In this area, not only has the wildlife and the foliage been consumed, but the Ripper swarms have dug up the soil, subsoil and regolith, leaving only bare stone behind. Give the Tyranids enough time and the whole planet will be like this."/>
 	<entry name="BolsterDefences" value="<string name='Traits/BolsterDefences'/>"/>
 	<entry name="BolsterDefencesDescription" value="<string name='Traits/BolsterDefencesDescription'/>"/>
 	<entry name="BolsterDefencesFlavor" value="<string name='Traits/BolsterDefencesFlavor'/>"/>
 	<entry name="Brush" value="Хмызняк"/>
 	<entry name="BrushFlavor" value="This low scrubland is scattered with the detritus and debris from human habitation, and xenos invasion. It might not be attractive to the eye, but it's fertile enough for basic subsistence."/>
-	<entry name="ChaosSpaceMarinesCity" value="Горад космадэсанту хаосу"/>
+	<entry name="ChaosSpaceMarinesCity" value="Горад Космадэсанту Хаосу"/>
 	<entry name="ChaosSpaceMarinesCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="ChaosSpaceMarinesCityFlavor" value="Life here is short. Born in the Slave Mills, only the strongest endure the Slaaneshis’ agonizing sacrifices, survive the Khornate hunting parties, escape Nurgle’s pandemics and are used by Tzeentch’s all-seeing plans without being destroyed. And, in this prison of a city, no-one survives all of this for long, intact or uncorrupted."/>
 	<entry name="City" value="Горад"/>
@@ -22,9 +25,9 @@
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
 	<entry name="Coast" value="Узбярэжжа"/>
 	<entry name="CoastFlavor" value="Here sits the ruin of an Imperial fishery; there, the abandoned summer villa of a ranking Imperium bureaucrat; there, a camp of desperate, feral human survivors, eking out an existence from the ocean's bounty."/>
-	<entry name="CompendiumFlavor" value="Gladius I has seen many civilisations rise and fall in its 4 billion years of galactic existence. First the Necrontyr made their home here, then the Old Ones and their Aeldari successors militarised the surface against the Necrons' return. In more recent years, it was a young Imperium Hive World, before the coming of the Orks. Little wonder that the surface of the planet still shows that disruption—torn asunder, and littered with the relics of the past as it is..."/>
+	<entry name="CompendiumFlavor" value="Gladius I has seen many civilisations rise and fall in its 4 billion years of galactic existence. First the Necrontyr made their home here, then the Old Ones and their Aeldari successors militarised the surface against the Necrons' return. In more recent years, it was a young Imperium Hive World, before the coming of the Orks. Little wonder that the surface of the planet still shows that disruption—torn asunder, and littered with the relics of the past as it is…"/>
 	<entry name="Desert" value="Пустэльня"/>
-	<entry name="EldarCity" value="Штучны свет аэльдары"/>
+	<entry name="EldarCity" value="Штучны Свет Аэльдары"/>
 	<entry name="EldarCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="EldarCityFlavor" value="This construction is not here to stay, yet it has more craftsmanship in it than anything else on the planet. Woven into existence by Bonesingers on the Path of the Artisan, it is as functional as it is delicate. The attenuated strands of Wraithbone croon ancient harmonies as they are warmed by the rising of Gladius’ star. All this surrounding a gateway to the immaterium itself."/>
 	<entry name="DesertFlavor" value="In these bare regions, precipitation is so low as to make life impossible, save for slow-growing extremophiles and the most alien anhydrous lifeforms. The clear land and skies are perfect for solar-capture devices, however."/>
@@ -45,14 +48,14 @@
 	<entry name="ImperialRuinFlavor" value="The pre-invasion human colony was built for defense and mineral exploitation. Nothing was designed to stand the tectonic shifts and warp-born horrors that came with the Ork invasion, and hence very few structures weathered it. This ruin is a rare survivor."/>
 	<entry name="JokaeroTraderEncampment" value="Лагер гандляроў джакаэро"/>
 	<entry name="JokaeroTraderEncampmentDescription" value="Асаблівасць, якая дазваляе героям на гэтай клетцы набываць і прадаваць прадметы. Таксама асаблівасць павялічвае вытворчасць уплыву ў горадзе, калі апрацоўваецца."/>
-	<entry name="JokaeroTraderEncampmentFlavor" value="If you have little regard for your life and seek excitement, visit the Jokaero. Imbued with an instinctive technical creativity that exceeds even that of an Ork Mekboy, these orange-furred aliens resemble a great Terran ape but can create wonders beyond imagining—the challenge is in acquiring them and safely working out what they do..."/>
+	<entry name="JokaeroTraderEncampmentFlavor" value="If you have little regard for your life and seek excitement, visit the Jokaero. Imbued with an instinctive technical creativity that exceeds even that of an Ork Mekboy, these orange-furred aliens resemble a great Terran ape but can create wonders beyond imagining—the challenge is in acquiring them and safely working out what they do…"/>
 	<entry name="LightBrush" value="Рэдкі хмызняк"/>
-	<entry name="NecronsCity" value="Горад некронаў"/>
+	<entry name="NecronsCity" value="Горад Некронаў"/>
 	<entry name="NecronsCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="NecronsCityFlavor" value="Insane obelisks, mastabas and half-buried crypts make this sprawling city resemble an ancient human necropolis. Yet it is far from deserted, instead filled with the soulless Necrons—warriors and machines of living metal that regard other sentient races as at best a source of slaves, and at worst a plague to be wiped from existence."/>
 	<entry name="NecronTomb" value="Грабніца некронаў"/>
 	<entry name="NecronTombDescription" value="Асаблівасць, якая дазваляе Некронам засноўваць горад на гэтай клетцы."/>
-	<entry name="NecronTombFlavor" value="Deep beneath this innocuous patch of land lies a Tomb City, where the Necrons have slept away the long millenia. To one who knows the correct protocols, it's a simple matter to begin the procedure of awakening it and its inhabitants from their dreamless sleep..."/>
+	<entry name="NecronTombFlavor" value="Deep beneath this innocuous patch of land lies a Tomb City, where the Necrons have slept away the long millenia. To one who knows the correct protocols, it's a simple matter to begin the procedure of awakening it and its inhabitants from their dreamless sleep…"/>
 	<entry name="Ocean" value="Акіян"/>
 	<entry name="OceanFlavor" value="Who knows what treasures have been swept into Gladius' mighty seas? What long-lost artefacts lie crusted with coral amidst its deep-ocean smokers and light-fearing sea aberrations? Given the richness of the land, no-one has ever explored these questions."/>
 	<entry name="OreField" value="Радовішча руды"/>
@@ -61,9 +64,9 @@
 	<entry name="OrkoidFungus" value="Оркоідныя грыбы"/>
 	<entry name="OrkoidFungusDescription" value="Асаблівасць, якая павялічвае вытворчасць ежы і лечыць Оркаў."/>
 	<entry name="OrkoidFungusFlavor" value="<string name='Traits/OrkoidFungusFlavor'/>"/>
-	<entry name="OrksCity" value="Горад оркаў"/>
+	<entry name="OrksCity" value="Горад Оркаў"/>
 	<entry name="OrksCityDescription" value="<string name='Traits/CityDescription'/>"/>
-	<entry name="OrksCityFlavor" value="This monstrous shanty town barely merits the name of city, when placed alongside the structures of other races, but it is the closest that the Orks ever get to an urban existence. Battered plates of scavenged metal and stone surround a junkyard filled with crude fighting pits,  deep sumps, and pungent mushrooms."/>
+	<entry name="OrksCityFlavor" value="This monstrous shanty town barely merits the name of city, when placed alongside the structures of other races, but it is the closest that the Orks ever get to an urban existence. Battered plates of scavenged metal and stone surround a junkyard filled with crude fighting pits, deep sumps, and pungent mushrooms."/>
 	<entry name="Outpost" value="Аванпост"/>
 	<entry name="OutpostDescription" value="Асаблівасць, якая дае невялікі бонус рэсурсаў кантралюючаму гульцу."/>
 	<entry name="OutpostFlavor" value="The long history of Gladius Prime has left the planet dotted with a wide range of geology, flora and fauna from across the known galaxy. To take advantage of the useful ones, most civilisations establish a small group responsible for maintenance and gathering and a temporary outpost to house them."/>
@@ -94,10 +97,10 @@
 	<entry name="SmokeScreen" value="<string name='Traits/SmokeScreen'/>"/>
 	<entry name="SmokeScreenDescription" value="<string name='Traits/SmokeScreenDescription'/>"/>
 	<entry name="SmokeScreenFlavor" value="<string name='Traits/SmokeScreenFlavor'/>"/>
-	<entry name="SpaceMarinesCity" value="Горад космадэсанта"/>
+	<entry name="SpaceMarinesCity" value="Горад Космадэсанта"/>
 	<entry name="SpaceMarinesCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="SpaceMarinesCityFlavor" value="Where other races have cities, the Space Marines have their solitary fortress-monastery—a bastion of their kind, part-chapel, part-armoury, where new Adeptus Astartes are recruited and altered using the age-old and pitiless techniques devised by the Emperor himself."/>
-	<entry name="TauCity" value="Горад тау"/>
+	<entry name="TauCity" value="Горад Тау"/>
 	<entry name="TauCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="TauCityFlavor" value="This is the nearest any citizen of the galaxy can get to utopia—an open welcoming city of elegant construction, where every species can live in comfort and studious peace—even man. Sad, then, that it has been built on Gladius Prime, surrounded by hostile aliens determined to wipe the T’au and their allies out."/>
 	<entry name="TelekineDome" value="<string name='Traits/TelekineDome'/>"/>
@@ -105,7 +108,7 @@
 	<entry name="TelekineDomeFlavor" value="<string name='Traits/TelekineDomeFlavor'/>"/>
 	<entry name="Tundra" value="Тундра"/>
 	<entry name="TundraFlavor" value="A stark landscape dominates here, where short growing seasons and low temperatures offered only a bitter existence for the erstwhile human settlers. Food can still be found here, but hydroponic or intensive systems are required for survival."/>
-	<entry name="TyranidsCity" value="Горад тыранідаў"/>
+	<entry name="TyranidsCity" value="Горад Тыранідаў"/>
 	<entry name="TyranidsCityDescription" value="<string name='Traits/CityDescription'/>"/>
 	<entry name="TyranidsCityFlavor" value="To call this a city is a strange act. What would you call a group of leviathan symbiotic organisms, clustered in one place and infested by smaller creatures, with the intelligence of a Norn Queen guiding it all? This is more a person and its limbs than a city—but if there's one thing common to all the galaxy's races, it's that they interpret everything modelled after their own experience. To man, then, this is a city."/>
 	<entry name="Volcanic" value="Вулканічная парода"/>
