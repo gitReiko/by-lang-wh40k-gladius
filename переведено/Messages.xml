@@ -6,7 +6,7 @@
 	<entry name="ConfirmRemoveItem" value="Вы ўпэўнены, што жадаеце знішчыць “%1%”?"/>
 	<entry name="ConfirmRestoreDefaults" value="Вы ўпэўнены, што жадаеце аднавіць налады %1% па змаўчанні?"/>
 	<entry name="ConfirmSurrender" value="Вы ўпэўнены, што жадаеце здацца?"/>
-	<entry name="ConnectingToServer" value="Падлучэнне да сервера ..."/>
+	<entry name="ConnectingToServer" value="Падлучэнне да сервера…"/>
 	<entry name="ConnectionLost" value="Злучэнне страчана."/>
 	<entry name="Error" value="Памылка"/>
 	<entry name="GameLoaded" value="Гульня загружана"/>
@@ -17,7 +17,7 @@
 	<entry name="Kicked" value="Вас выгналі з сервера."/>
 	<entry name="MasterServerUnreachable" value="Не атрымалася далучыцца да галоўнага сервера."/>
 	<entry name="MissingDLC" value="Адсутнічае DLC."/>
-	<entry name="ModUploading" value="Загрузка мода ..."/>
+	<entry name="ModUploading" value="Загрузка мода…"/>
 	<entry name="ModUploadComplete" value="Мод загружаны."/>
 	<entry name="ModUploadFailed" value="Няўдалая загрузка мода."/>
 	<entry name="NoFreeSlots" value="На серверы няма свабодных месцаў."/>
@@ -28,9 +28,9 @@
 	<entry name="PlayerLeft" value="%1% выйшаў."/>
 	<entry name="PleaseEnterYourName" value="Калі ласка, увядзіце Ваша імя."/>
 	<entry name="PleaseWait" value="<style color='GUI/Red'/>Калі ласка, пачакайце"/>
-	<entry name="ReceivingInfo" value="Атрыманне інфармацыі ..."/>
+	<entry name="ReceivingInfo" value="Атрыманне інфармацыі…"/>
 	<entry name="RestartRequired" value="Вы павінны перазапусціць гульню, каб змены набылі моц."/>
-	<entry name="RetrievingServerList" value="Атрыманне спіса сервераў ..."/>
+	<entry name="RetrievingServerList" value="Атрыманне спіса сервераў…"/>
 	<entry name="ScreenShotSaveError" value="Памылка пры захаванні здымка экрана"/>
 	<entry name="ScreenShotSaved" value="Здымак экрана захаваны"/>
 	<entry name="SetBinding" value="Націсніце новую камбінацыю клавіш для прывязкі да %1%."/>
