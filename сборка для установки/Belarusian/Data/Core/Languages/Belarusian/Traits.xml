@@ -74,6 +74,179 @@
 	<entry name="Items/ZoatHideJerkinDescription" value="<string name='Items/ZoatHideJerkinDescription'/>"/>
 	<entry name="Items/ZoatHideJerkinFlavor" value="<string name='Items/ZoatHideJerkinFlavor'/>"/>
 	
+	<entry name="AdeptusMechanicus/AdjacencyIntegration" value="Сумежная інтэграцыя"/>
+	<entry name="AdeptusMechanicus/AdjacencyIntegrationDescription" value="Павялічвае вытворчасць даследаванняў за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/AdjacencyIntegrationFlavor" value="The rediscovery of knowledge is such a holy rite, that supporting rites have been mandated throughout the Hive. As population density grows, the faithful constantly pour libations and imprecate the city’s integrated machine spirits to give up their secrets to the Tech-Priests in the Librarium Omnis."/>
+	<entry name="AdeptusMechanicus/AggressionOverride" value="<string name='Actions/AdeptusMechanicus/AggressionOverride'/>"/>
+	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Павялічвае атакі."/>
+	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="<string name='Actions/AdeptusMechanicus/AggressionOverrideFlavor'/>"/>
+	<entry name="AdeptusMechanicus/AggressorImperative" value="<string name='Actions/AdeptusMechanicus/AggressorImperative'/>"/>
+	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Павялічвае рух, але змяншае браню."/>
+	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/AggressorImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/AssaultWeaponBonus" value="Догма металіка"/>
+	<entry name="AdeptusMechanicus/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
+	<entry name="AdeptusMechanicus/AssaultWeaponBonusFlavor" value="The zealots of Metalica are famed for bringing with them an ear-shattering clamour, redolent of their forge world’s endless industry—and for not pausing in their relentless advance, obliterating their foes mid-march."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscience'/>"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Павялічвае трапнасць у далёкім баі."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Bionics" value="Біёніка"/>
+	<entry name="AdeptusMechanicus/BionicsDescription" value="Павялічвае непаражальнае зніжэнне шкоды."/>
+	<entry name="AdeptusMechanicus/BionicsFlavor" value="It’s a rare Adeptus Mechanicus Magos who goes completely unaugmented, since the days of Arkhan Land. Some, vainer, conceal their augmentation, but most bionic augmentation is deliberately crude and inhuman, acting as physical symbols of the Omnissiah’s blessing."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="<string name='Actions/AdeptusMechanicus/BroadSpectrumDataTether'/>"/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Змяншае страты маралі."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="<string name='Actions/AdeptusMechanicus/BroadSpectrumDataTetherFlavor'/>"/>
+	<entry name="AdeptusMechanicus/BulwarkImperative" value="<string name='Actions/AdeptusMechanicus/BulwarkImperative'/>"/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Павялічвае браню, але змяншае рух."/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/BulwarkImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/CanticlesOfTheOmnissiah" value="Спевы Амнісіі"/>
+	<entry name="AdeptusMechanicus/CanticlesOfTheOmnissiahDescription" value="Класіфікацыя."/>
+	<entry name="AdeptusMechanicus/CanticlesOfTheOmnissiahFlavor" value="In times of war, the disciples of the Omnissiah incant complex war-blessings. These are as much optimisation subroutines as they are expressions of faith in their all-knowing, all-comprehending deity."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFist" value="<string name='Actions/AdeptusMechanicus/ChantOfTheRemorselessFist'/>"/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Павялічвае трапнасць у блізкім баі."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="<string name='Actions/AdeptusMechanicus/ChantOfTheRemorselessFistFlavor'/>"/>
+	<entry name="AdeptusMechanicus/CityTier2" value="Мавораформінг"/>
+	<entry name="AdeptusMechanicus/CityTier2Description" value="Павялічвае радыус захопу пліткі."/>
+	<entry name="AdeptusMechanicus/CityTier2Flavor" value="Terraforming is the ironically-named process of making a planet more livable for humans, exactly unlike the devastated bulk of Earth, hidden beneath the continent-sprawling Imperial Palace. Mavoraforming has no such pretensions, turning a planet into an exploited, poisoned dotted with incredibly productive cities, just like home."/>
+	<entry name="AdeptusMechanicus/CityTier3" value="Усталяванне свету-вулля"/>
+	<entry name="AdeptusMechanicus/CityTier3Description" value="Павялічвае радыус захопу пліткі."/>
+	<entry name="AdeptusMechanicus/CityTier3Flavor" value="The final conversion of a planet to a Hive World is visible from space. Gone are the rolling hills, the valleys, the trees. Vanished the lakes, seas and breathable atmosphere. Biting grit blows over dust bowls where a few recalcitrant Imperials eke out subsistence farms in the shadows of sky-piercing Hive spires, filled with billions of souls."/>
+	<entry name="AdeptusMechanicus/Cognis" value="Когніс"/>
+	<entry name="AdeptusMechanicus/CognisDescription" value="Абмяжоўвае страту трапнасці."/>
+	<entry name="AdeptusMechanicus/CognisFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
+	<entry name="AdeptusMechanicus/CommandUplink" value="<string name='Actions/AdeptusMechanicus/CommandUplink'/>"/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Змяншае страту маралі."/>
+	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="<string name='Actions/AdeptusMechanicus/CommandUplinkFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ConquerorImperative" value="<string name='Actions/AdeptusMechanicus/ConquerorImperative'/>"/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Павялічвае трапнасць у блізкім баі, але змяншае ў далёкім."/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/ConquerorImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ControlEdict" value="<string name='Actions/AdeptusMechanicus/ControlEdict'/>"/>
+	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Выдаляе Дактрына імператыў малус."/>
+	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="<string name='Actions/AdeptusMechanicus/ControlEdictFlavor'/>"/>
+	<entry name="AdeptusMechanicus/DartingHunters" value="Імклівыя паляўнічыя"/>
+	<entry name="AdeptusMechanicus/DartingHuntersDescription" value="Дзеянні не спажываюць рух."/>
+	<entry name="AdeptusMechanicus/DartingHuntersFlavor" value="Pteraxii’s reflexes are accentuated by paring back elements of cogitation that impede their primary function."/>
+	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="<string name='Actions/AdeptusMechanicus/DataBlessedAutosermon'/>"/>
+	<entry name="AdeptusMechanicus/DataBlessedAutosermonDescription" value="Дае даследаванні за забойствы ворагаў."/>
+	<entry name="AdeptusMechanicus/DataBlessedAutosermonFlavor" value="<string name='Actions/AdeptusMechanicus/DataBlessedAutosermonFlavor'/>"/>
+	<entry name="AdeptusMechanicus/DoctrinaImperatives" value="Дактрына імператыў"/>
+	<entry name="AdeptusMechanicus/DoctrinaImperativesDescription" value="Класіфікацыя."/>
+	<entry name="AdeptusMechanicus/DoctrinaImperativesFlavor" value="The Skitarii are fearsome foes, relentless in the pursuit of the Omnissiah’s agenda and equipped with the most advanced weaponry in the Imperium. Ultimately, though, each is but a cybernetic vessel for the will of the Tech-Priests. In the heat of battle, the Skitarii will be remotely controlled by data imperatives that boost their minds and bodies to inhuman levels."/>
+	<entry name="AdeptusMechanicus/Dunestrider" value="Дзюнавы наезнік"/>
+	<entry name="AdeptusMechanicus/DunestriderDescription" value="Павялічвае рух."/>
+	<entry name="AdeptusMechanicus/DunestriderFlavor" value="Some Skitarii are able to march across the most hostile terrain at relentless pace, their augmetic limbs never tiring nor wearing out."/>
+	<entry name="AdeptusMechanicus/EmanatusForceField" value="Сілавое поле іманатус"/>
+	<entry name="AdeptusMechanicus/EmanatusForceFieldDescription" value="Павялічвае зніжэнне шкоды."/>
+	<entry name="AdeptusMechanicus/EmanatusForceFieldFlavor" value="The overlapping force fields generated by Dunecrawlers are marvels of military science. Much like the refractor fields common to the lesser orders of the Martian Priesthood, they disperse hostile energies into the atmosphere, each incoming bullet transformed into little more than a flash of actinic blue light and a sudden tang of ozone."/>
+	<entry name="AdeptusMechanicus/EnhancedDataTether" value="Палепшаная сувязь дадзеных"/>
+	<entry name="AdeptusMechanicus/EnhancedDataTetherDescription" value="Павялічвае мараль."/>
+	<entry name="AdeptusMechanicus/EnhancedDataTetherFlavor" value="Seen as the mouthpieces of the Tech-Priests, who in turn are the prophets of the Machine God himself, those honoured with bearing enhanced data-tethers are obeyed without hesitation by their reverent Skitarii comrades."/>
+	<entry name="AdeptusMechanicus/EnrichedRounds" value="<string name='Actions/AdeptusMechanicus/EnrichedRounds'/>"/>
+	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Павялічвае шкоду."/>
+	<entry name="AdeptusMechanicus/EnrichedRoundsFlavor" value="<string name='Actions/AdeptusMechanicus/EnrichedRoundsFlavor'/>"/>
+	<entry name="AdeptusMechanicus/EnslavedToThePast" value="Заняволеныя мінулым"/>
+	<entry name="AdeptusMechanicus/EnslavedToThePastDescription" value="Павялічвае кошт даследаванняў."/>
+	<entry name="AdeptusMechanicus/EnslavedToThePastFlavor" value="Ultimately the Cult’s citadels of knowledge are built upon a foundation of lies. The ability to truly innovate has long been lost, replaced with a reverence for the times when Humanity was the architect of its own destiny. No longer the master of its creations, the Cult Mechanicus is enslaved to the past. It maintains the glories of yesteryear with rite, dogma and edict instead of discernment and comprehension. Even the theoretically simple process of activating a weapon is preceded by the application of ritual oils, the burning of sacred resins and the chanting of long and complex hymns. And yet so long as the process works – or rather, so long as the Cult’s armies can obliterate those who displease them – the Tech-Priests are content to tread the slippery path toward entropy and ignorance."/>
+	<entry name="AdeptusMechanicus/GuldiresOrison" value="Пацеры Гульдаера"/>
+	<entry name="AdeptusMechanicus/GuldiresOrisonDescription" value="Зніжае трапнасць."/>
+	<entry name="AdeptusMechanicus/GuldiresOrisonFlavor" value="Guldire was a Chief Warpsmith of the Word Bearers under Erebus. His ‘Orison’ is a prayer of pure corrupted machine code, carrying demonic whispers from the heart of the Warp. Though rendered non-lethal by Imperial defenses, it is still incredibly distracting…"/>
+	<entry name="AdeptusMechanicus/FidorumVossPrime" value="Фідорум Вос Прайм"/>
+	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Павялічвае вытворчасць уплыву за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="The Cult Mechanicus Priesthood venerate the Forge World of Voss Prime for its loyalty above all others—its loyalty to the Imperium is second-to-none. Even when Mars itself fell to the Dark Mechanicum, Voss Prime continued to churn out armaments and was instrumental in the defeat of the Horus Heresy."/>
+	<entry name="AdeptusMechanicus/GalvanicField" value="<string name='Actions/AdeptusMechanicus/GalvanicField'/>"/>
+	<entry name="AdeptusMechanicus/GalvanicFieldDescription" value="Павялічвае бронепрабівальнасць."/>
+	<entry name="AdeptusMechanicus/GalvanicFieldFlavor" value="<string name='Actions/AdeptusMechanicus/GalvanicFieldFlavor'/>"/>
+	<entry name="AdeptusMechanicus/EntropicDestabilisation" value="Энтрапічная дэстабілізацыя"/>
+	<entry name="AdeptusMechanicus/EntropicDestabilisationDescription" value="Дае зніжэнне шкоды."/>
+	<entry name="AdeptusMechanicus/EntropicDestabilisationFlavor" value="You are invigorated by the Omnissiah’s blessing! Nothing can stand in your way (is this a dream? Did you see the Omnissiah?!)"/>
+	<entry name="AdeptusMechanicus/HeavyWeaponBonus" value="Скрыпторум Ардынатус"/>
+	<entry name="AdeptusMechanicus/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
+	<entry name="AdeptusMechanicus/HeavyWeaponBonusFlavor" value="The Ordinati are unique titan-sized devices, each built for a unique purpose and closely guarded. Your researches have unearthed approved teachings taken from the creation of Ordinatus Oberon, a track-mounted starship cannon employed during the Wars for Armageddon."/>
+	<entry name="AdeptusMechanicus/IconsOfTheOmnissiah" value="Абразы Амнісіі"/>
+	<entry name="AdeptusMechanicus/IconsOfTheOmnissiahDescription" value=" Павялічвае вытворчасць лаяльнасці за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/IconsOfTheOmnissiahFlavor" value="Protect us, master. Free us, Machine God. The Omnissiah comes. The Omnissiah comes. THE OMNISSIAH COMES. Punish the flesh."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoul" value="<string name='Actions/AdeptusMechanicus/IncantationOfTheIronSoul'/>"/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulDescription" value="Змяншае страты маралі."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulFlavor" value="<string name='Actions/AdeptusMechanicus/IncantationOfTheIronSoulFlavor'/>"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMight" value="<string name='Actions/AdeptusMechanicus/InvocationOfMachineMight'/>"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightDescription" value="Павялічвае шкоду ў блізкім баі."/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightFlavor" value="<string name='Actions/AdeptusMechanicus/InvocationOfMachineMightFlavor'/>"/>
+	<entry name="AdeptusMechanicus/IonShield" value="Іённы шчыт"/>
+	<entry name="AdeptusMechanicus/IonShieldDescription" value="Павялічвае зніжэнне шкоды."/>
+	<entry name="AdeptusMechanicus/IonShieldFlavor" value="Knights carry potent field generators called ion shields. These devices use ancient technology to project an energy field across a narrow arc. By moving the position of the shield so that it intercepts enemy attacks, a Knight is able to survive even the heaviest fire, whilst still being able to fire its own weapons in return. The exact setting and positioning of the shield is essential, as the ion shield is only designed to deflect and slow shots, rather than absorb them in the manner of the void shields used on Imperial Titans. This means the effectiveness of the shield is dependent on the skill and experience of its operator."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="<string name='Actions/AdeptusMechanicus/LordOfTheMachineCult'/>"/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Павялічвае трапнасць."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="<string name='Actions/AdeptusMechanicus/LordOfTheMachineCultFlavor'/>"/>
+	<entry name="AdeptusMechanicus/LucianSpecialisation" value="Спецыялізацыя Люцыяна"/>
+	<entry name="AdeptusMechanicus/LucianSpecialisationDescription" value="Павялічвае вытворчасць рэсурсаў аднолькавага тыпу на адной плітцы для будынкаў не штабкватэр."/>
+	<entry name="AdeptusMechanicus/LucianSpecialisationFlavor" value="Inside the hollow Forge World of Lucius is a trapped sun, but to the Adeptus Mechanicus that is less interesting than the planet’s specialisations—a unique metal “Luciun” and warp travel. Magi of Lucius encourage specialisation in depth."/>
+	<entry name="AdeptusMechanicus/MechanicusLocum" value="<string name='Actions/AdeptusMechanicus/MechanicusLocum'/>"/>
+	<entry name="AdeptusMechanicus/MechanicusLocumDescription" value="<string name='Actions/AdeptusMechanicus/MechanicusLocumDescription'/>"/>
+	<entry name="AdeptusMechanicus/MechanicusLocumFlavor" value="<string name='Actions/AdeptusMechanicus/MechanicusLocumFlavor'/>"/>
+	<entry name="AdeptusMechanicus/MeleeWeaponBonus" value="Лютасць Рызана"/>
+	<entry name="AdeptusMechanicus/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
+	<entry name="AdeptusMechanicus/MeleeWeaponBonusFlavor" value="Despite the planet’s specialisation in plasma and shielding devices, so common are Ork invasions on the Forge World of Ryza that the defenders are known for their Ork-esque enthusiasm for melee combat."/>
+	<entry name="AdeptusMechanicus/MonolithicBuildings" value="Маналітнае будаванне"/>
+	<entry name="AdeptusMechanicus/MonolithicBuildingsDescription" value="Павялічвае вытворчасць рэсурсаў аднолькавага тыпу на адной плітцы для будынкаў не штабкватэр. Змяншае вытворчасць розных тыпаў рэсурсаў на адной плітцы для будынкаў не штабкватэр."/>
+	<entry name="AdeptusMechanicus/MonolithicBuildingsFlavor" value="“In uniformity, specialisations. In specialisation, efficiency. In efficiency, ecstasy.”<br/>—Kelphor Zhuko-Dim, Arch Flagellant"/>
+	<entry name="AdeptusMechanicus/NeurostaticInterface" value="Нейрастатычны інтэрфейс"/>
+	<entry name="AdeptusMechanicus/NeurostaticInterfaceDescription" value="Павялічвае зніжэнне шкоды пры атацы суседніх варожых адзінак."/>
+	<entry name="AdeptusMechanicus/NeurostaticInterfaceFlavor" value="Amidst the audio-visual cacophony accompanied by a Sicarian Infiltrator attack is wide-band electromagnetic interference, designed to cripple enemy systems and set nerves jangling."/>
+	<entry name="AdeptusMechanicus/Omnispex" value="Амніспэкс"/>
+	<entry name="AdeptusMechanicus/OmnispexDescription" value="Абыходзіць зніжэнне шкоды ў далёкім баі."/>
+	<entry name="AdeptusMechanicus/OmnispexFlavor" value="The omnispex carries a raptor-class machine spirit that can read heat emissions, data signatures, and biological waveforms even at extreme range. Should it be kept focussed for an extended period of time, it will determine the weak points of those it scrutinises and pass them on to its master."/>
+	<entry name="AdeptusMechanicus/OptateRestrictions" value="Скасаваць абмежаванні"/>
+	<entry name="AdeptusMechanicus/OptateRestrictionsDescription" value="Павялічвае ліміт насельніцтва."/>
+	<entry name="AdeptusMechanicus/OptateRestrictionsFlavor" value="The Optates who control Hive City populations have agreed to release breeding restrictions. In practice, this means removal of anaphrodisiacs from ration packs, rather than the construction of new buildings—the existing living spaces just get that much more crowded insteaded…"/>
+	<entry name="AdeptusMechanicus/PowerSurge" value="<string name='Actions/AdeptusMechanicus/PowerSurge'/>"/>
+	<entry name="AdeptusMechanicus/PowerSurgeDescription" value="Павялічвае вытворчасць будынкаў не штабкватэр."/>
+	<entry name="AdeptusMechanicus/PowerSurgeFlavor" value="<string name='Actions/AdeptusMechanicus/PowerSurgeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ProtectorImperative" value="<string name='Actions/AdeptusMechanicus/ProtectorImperative'/>"/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="Павялічвае трапнасць у далёкім боі, але змяншае ў блізкім."/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/ProtectorImperativeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/RadPoisoning" value="Радыяцыйнае атручванне"/>
+	<entry name="AdeptusMechanicus/RadPoisoningDescription" value="Павялічвае шкоду супраць пяхоты і жахлівых стварэнняў."/>
+	<entry name="AdeptusMechanicus/RadSaturation" value="<string name='Actions/AdeptusMechanicus/RadSaturation'/>"/>
+	<entry name="AdeptusMechanicus/RadSaturationDescription" value="Наносіць шкоду кожны крок."/>
+	<entry name="AdeptusMechanicus/RadSaturationFlavor" value="<string name='Actions/AdeptusMechanicus/RadSaturationFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ReclaimatorProtocols" value="Пратаколы аднаўлення"/>
+	<entry name="AdeptusMechanicus/ReclaimatorProtocolsDescription" value="Павялічвае хуткасць узросту насельніцтва."/>
+	<entry name="AdeptusMechanicus/ReclaimatorProtocolsFlavor" value="Nothing must be wasted—not a drop of food, not an watt of energy, not a scrap of flesh. Executions are minimised in favour of servitor conversions, prompting an increased vigour in all other activities…"/>
+	<entry name="AdeptusMechanicus/ServoSkullUplink" value="<string name='Actions/AdeptusMechanicus/ServoSkullUplink'/>"/>
+	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Павялічвае шкоду."/>
+	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="<string name='Actions/AdeptusMechanicus/ServoSkullUplinkFlavor'/>"/>
+	<entry name="AdeptusMechanicus/Shroudpsalm" value="<string name='Actions/AdeptusMechanicus/Shroudpsalm'/>"/>
+	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Павялічвае зніжэнне шкоды ў далёкім боі."/>
+	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="<string name='Actions/AdeptusMechanicus/ShroudpsalmFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SiphonVigour" value="Перапампаваць энергію"/>
+	<entry name="AdeptusMechanicus/SiphonVigourDescription" value="Забойства варожай адзінкі павялічвае непаражальнае зніжэнне шкоды."/>
+	<entry name="AdeptusMechanicus/SiphonVigourFlavor" value="<string name='Traits/AdeptusMechanicus/SiphonedVigourFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SiphonedVigour" value="Перапампанаваная энергія"/>
+	<entry name="AdeptusMechanicus/SiphonedVigourDescription" value="Павялічвае непаражальнае зніжэнне шкоды."/>
+	<entry name="AdeptusMechanicus/SiphonedVigourFlavor" value="They might be obsessed with wasting energy, but the Electro-Priests are no hypocrites. When an enemy dies to the blows of their electroleech staves, the protective Voltagheist field is invigorated with bio electric energy, repulsing even the strongest attacks."/>
+	<entry name="AdeptusMechanicus/SolarReflectors" value="Сонечныя адбівальнікі"/>
+	<entry name="AdeptusMechanicus/SolarReflectorsDescription" value="Павялічвае вытворчасць энергіі за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/SolarReflectorsFlavor" value="Planning, planning, planning. The Adeptus Mechanicus Magi design each city so it works as a functioning whole, each part supporting the next. Solar reflectors on all structures direct the small amount of energy they capture through Gladius Prime’s storm systems to the nearest Thermo-Exchanger Shrine."/>
+	<entry name="AdeptusMechanicus/SoylensAcquisitionTeams" value="Каманды збору сойлена"/>
+	<entry name="AdeptusMechanicus/SoylensAcquisitionTeamsDescription" value="Павялічвае вытворчасць ежы за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/SoylensAcquisitionTeamsFlavor" value="The Reclaimators employ a small number of the undercity’s population in an unsavory role. These Soylens Acquisition Teams are better known as bodysnatchers and they aggressively hunt out the dead (or nearly dead) ensuring that any future rations always have the very freshest soylens protein…"/>
+	<entry name="AdeptusMechanicus/StygianEnlightenment" value="Стыгійская асвета"/>
+	<entry name="AdeptusMechanicus/StygianEnlightenmentDescription" value="Зніжае кошт даследаванняў."/>
+	<entry name="AdeptusMechanicus/StygianEnlightenmentFlavor" value="Some Tech-Priests are more open to studying Xenos technology than others. Only the Forge World of Stygies VIII consistently escapes punishment for these Xenarite tendencies, partly because of their world’s importance, partly because it cripples any attackers. Following their path is certainly a fast way to speed up access to forbidden technologies."/>
+	<entry name="AdeptusMechanicus/TerranGeneralism" value="Тэранскі генералізм"/>
+	<entry name="AdeptusMechanicus/TerranGeneralismDescription" value="Змяншае вытворчасць розных тыпаў рэсурсаў на адной плітцы для будынкаў не штабкватэр."/>
+	<entry name="AdeptusMechanicus/TerranGeneralismFlavor" value="Though many Forge Worlds have specialised towards particular needs and act as independent empires within the human sphere, it’s worth remembering that most Tech-Priests are generalists, loyally supporting the Imperium in its drive to the stars—and following the orders of Earth as much as Mars."/>
+	<entry name="AdeptusMechanicus/TriplexNecessity" value="Патрэба трыплексу"/>
+	<entry name="AdeptusMechanicus/TriplexNecessityDescription" value="Павялічвае вытворчасць руды за кожны будынак на суседняй плітцы."/>
+	<entry name="AdeptusMechanicus/TriplexNecessityFlavor" value="Following new designs discovered on Triplex Phall, during the construction of new structures, care is taken to explore any subterranean areas and map out any potential ore veins. If a Haemotrope Reactor, its plasma can be directed down these prepared routes to more efficiently extract the ore."/>
+	<entry name="AdeptusMechanicus/VoltagheistField" value="Поле Вольтагейста"/>
+	<entry name="AdeptusMechanicus/VoltagheistFieldDescription" value="Павялічвае непаражальнае зніжэнне шкоды."/>
+	<entry name="AdeptusMechanicus/VoltagheistFieldFlavor" value="Nimbuses of pure energy surround all Electro-Priests, crackling from their bare skin tocoalesce into sparking pockets of electromagnetism that hover like will-o-the-wisps above a drowned corpse. When incoming projectiles or energy beams threaten an Electro-Priest these tiny voltaic ghosts will often intercede, shattering or dissipating the threats in puffs of burning ozone. When the wearer of the field charges the foe, those same voltagheists ground upon nearby enemies in bursts of electric force."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCode" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCode'/>"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Павялічвае страты маралі."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/WrathOfMars" value="<string name='Actions/AdeptusMechanicus/WrathOfMars'/>"/>
+	<entry name="AdeptusMechanicus/WrathOfMarsDescription" value="Павялічвае шкоду."/>
+	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="<string name='Actions/AdeptusMechanicus/WrathOfMarsFlavor'/>"/>
 	<entry name="AerialAttack" value="Паветраная атака"/>
 	<entry name="AerialAttackDescription" value="Можа атакаваць толькі авіяцыю."/>
 	<entry name="Agile" value="<string name='Actions/Agile'/>"/>
@@ -216,7 +389,7 @@
 	<entry name="Broken" value="Зламаны"/>
 	<entry name="BrokenDescription" value="Зніжае трапнасць і павялічвае атрымліваемую шкоду."/>
 	<entry name="BruteShield" value="Грубы шчыт"/>
-	<entry name="BruteShieldDescription" value="Павялічвае зніжэнне шкоды."/>
+	<entry name="BruteShieldDescription шкоду і зніжэнне шкоды."/>
 	<entry name="BruteShieldFlavor" value="These shields resemble large and resilient energised bucklers. They are carried by some Bullgryns, serving equally well in combat as a defensive measure and handy bludgeon."/>
 	<entry name="CamoNetting" value="Камуфляжная сетка"/>
 	<entry name="CamoNettingDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою для наземнай тэхнікі."/>
@@ -375,7 +548,7 @@
 	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Дарунак хаосу, які павялічвае рух."/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionFlavor" value="Time is altered around the champion."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhage" value="Таксічны крывацёк"/>
-	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
+	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Павялічвае шкоду супраць пяхотных адзінак і жахлівых стварэнняў."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageFlavor" value="Spurting vile vapours and heinous fluids, the Chaos Spawn’s cursed innards could spell the death of a less-blessed creature."/> <!-- MutatedBeyondReason result. -->
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="Ветэраны доўгай вайны"/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Павялічвае мараль і трапнасць у блізкім боі супраць адзінак фракцыі космадэсанта."/>
@@ -401,7 +574,7 @@
 	<entry name="Concussion" value="Кантузія"/>
 	<entry name="ConcussionDescription" value="Зніжае трапнасць."/>
 	<entry name="Concussive" value="Кантужаны"/>
-	<entry name="ConcussiveDescription" value="Часова зніжае трапнасць абранай пяхотнай адзінкі."/>
+	<entry name="ConcussiveDescription" value="Часова зніжае трапнасць абранай пяхотнай адзінкі або жахлівага стварэння."/>
 	<entry name="ConcussiveFlavor" value="Some weapons are designed to leave any foe that manages to survive their strike disoriented and easy to slay."/>
 	<entry name="ConvergentTargeting" value="Канвергентнае нацэльванне"/>
 	<entry name="ConvergentTargetingDescription" value="Павялічвае трапнасць, калі знаходзіцца поруч з хаўруснай гарматай грамавы агонь."/>
@@ -452,7 +625,7 @@
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="The unique shuriken ammunition of the Aeldari consists of monomolecular spinning blades fired at great speed. But molecules are so limiting when there are smaller, more deadly structures to use."/>
 	<entry name="Eldar/AssuredDestruction" value="Гарантаванае разбурэнне"/>
 	<entry name="Eldar/AssuredDestructionDescription" value="Павялічвае шкоду супраць машын."/>
-	<entry name="Eldar/AssuredDestructionFlavor" value="”If a captain is foolish enough to allow five Aeldari with meltaguns and several millenia of combat experience to get within 20 metres of his tank… well, frankly, he deserves to be a molten puddle of ichor on the floor.”<br/>  — Commissar Gruber"/>
+	<entry name="Eldar/AssuredDestructionFlavor" value="“If a captain is foolish enough to allow five Aeldari with meltaguns and several millenia of combat experience to get within 20 metres of his tank… well, frankly, he deserves to be a molten puddle of ichor on the floor.”<br/>  — Commissar Gruber"/>
 	<entry name="Eldar/AsuryaniArrivals" value="<string name='Actions/Eldar/AsuryaniArrivals'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsDescription" value="<string name='Actions/Eldar/AsuryaniArrivalsDescription'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsFlavor" value="<string name='Actions/Eldar/AsuryaniArrivalsFlavor'/>"/>
@@ -507,7 +680,7 @@
 	<entry name="Eldar/InfantryBuildingBonusFlavor" value="Asurmen is the founder of the path of the Warrior and the first of the Phoenix Lords, the creators of the Aspect Shrines. Invoking his name will surely bring more warriors to Gladius Prime, to seize this planet for the Aeldari."/>
 	<entry name="Eldar/InfluenceBuildingBonus" value="Аракул Ліліат"/>
 	<entry name="Eldar/InfluenceBuildingBonusDescription" value="Павялічвае вытворчасць уплыву."/>
-	<entry name="Eldar/InfluenceBuildingBonusFlavor" value="Very few mortal beings have ever had the foresight of a Farseer—a power perhaps derived from the lost Aeldari goddess Lileath, who predicted the death of the gods at the hands of the mortal Aeldari. An oracle that invokes her name draws the eyes of all Aeldari upon you..."/>
+	<entry name="Eldar/InfluenceBuildingBonusFlavor" value="Very few mortal beings have ever had the foresight of a Farseer—a power perhaps derived from the lost Aeldari goddess Lileath, who predicted the death of the gods at the hands of the mortal Aeldari. An oracle that invokes her name draws the eyes of all Aeldari upon you…"/>
 	<entry name="Eldar/Jinx" value="Сурокі"/>
 	<entry name="Eldar/JinxDescription" value="Зніжае браню."/>
 	<entry name="Eldar/JinxFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
@@ -618,7 +791,7 @@
 	<entry name="FleetDescription" value="Павялічвае рух."/>
 	<entry name="FleetFlavor" value="Preternaturally agile, these warriors can cover ground more quickly than their plodding foes."/>
 	<entry name="Fleshbane" value="Атручванне плоці"/>
-	<entry name="FleshbaneDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
+	<entry name="FleshbaneDescription" value="Павялічвае шкоду супраць пяхотных адзінак і жахлівых стварэнняў."/>
 	<entry name="Flyer" value="Авіяцыя"/>
 	<entry name="FlyerDescription" value="Можа лётаць над скаламі, вадой і варожымі адзінкамі. Не можа захопліваць артэфакты і аванпосты. Ігнаруе зону кантролю наземных варожых адзінак. Не можа быць паражана наземнай зброяй блізкага бою і дрэнна паражаная не супрацьпаветранай наземнай зброяй. Няма штрафу за цяжкую і артылерыйную зброю."/>
 	<entry name="FlyerFlavor" value="The airspace above a battle is thronged with activity. Fighters and bomber craft hurtle through the skies, duelling with one another providing fire support for the troops on the ground."/>
@@ -651,6 +824,9 @@
 	<entry name="GetsHot" value="Перагрэў"/>
 	<entry name="GetsHotDescription" value="Адзінка губляе здароўе пасля кожнага выстралу зброі далёкага бою."/>
 	<entry name="GetsHotFlavor" value="Some weapons are fuelled by unstable power sources and risk overheating with each shot—often to the detriment of the wielder."/>
+	<entry name="Graviton" value="Гравітон"/>
+	<entry name="GravitonDescription" value="Маштабуе шкоду ў адпаведнасці з бранёй цэлевай адзінкі."/>
+	<entry name="GravitonFlavor" value="Some weapons crush their enemies within their own armour."/>
 	<entry name="Grenade" value="Граната"/>
 	<entry name="GrotRiggers" value="Гроты-такелажнікі"/>
 	<entry name="GrotRiggersDescription" value="Аднаўляе здароўе кожны крок."/>
@@ -738,9 +914,9 @@
 	<entry name="LastStandDescription" value="Павялічвае мараль."/>
 	<entry name="LastStandFlavor" value="“Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”<br/>  — Chaplain Armand Titus of the Howling Griffons"/>
 	<entry name="LifeDrain" value="Знясіленне жыцця"/>
-	<entry name="LifeDrainDescription" value="Павялічвае шкоду па пяхоце."/>
+	<entry name="LifeDrainDescription" value="Павялічвае шкоду супраць пяхоты і жахлівых стварэнняў."/>
 	<entry name="LifeSteal" value="Крадзеж жыцця"/>
-	<entry name="LifeStealDescription" value="Ператворвае шкоду ў вылячэнне для гэтай і суседніх пяхотных адзінак."/>
+	<entry name="LifeStealDescription" value="Ператворвае шкоду ў вылячэнне для гэтай і суседніх пяхотных адзінак і жахлівых стварэнняў."/>
 	<entry name="LinebreakerBombardment" value="Лінейнае бамбаванне"/>
 	<entry name="LinebreakerBombardmentDescription" value="Ігнаруе зніжэнне шкоды ад далёкага бою цэлевай адзінкі, калі знаходзіцца поруч з хаўрусным ачышчальнікам."/>
 	<entry name="Luminagen" value="Люмінаген"/>
@@ -858,7 +1034,7 @@
 	<entry name="Necrons/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="Necrons/MeleeDamageFlavor" value="Made from impossibly thin slices of the Necron's utilitarian living metal, these blades pass through most skin, bone and armour with disturbing ease."/>
 	<entry name="Necrons/Nebuloscope" value="Нэбуласкоп"/>
-	<entry name="Necrons/NebuloscopeDescription" value="Ігнаруе змяншэнне шкоды ад далёкага бою ворага."/>
+	<entry name="Necrons/NebuloscopeDescription" value="Абыходзіць змяншэнне шкоды ад далёкага бою ворага."/>
 	<entry name="Necrons/NebuloscopeFlavor" value="This arcane device allows the Tomb Blade's pilot to track his prey through different dimensions, leaving them no place to hide."/>
 	<entry name="Necrons/OreBuildingBonus" value="Надзейныя рабы"/>
 	<entry name="Necrons/OreBuildingBonusDescription" value="Павялічвае здабычу руды."/>
@@ -939,10 +1115,10 @@
 	<entry name="Orks/BonusColonizersProductionFlavor" value="When there isn't enough small-sized scrap to hand to build their ungainly creations, Mekboys acquire more by devising weird and wonderful machines which ravage the ruins and wreckage of their conquered worlds."/>
 	<entry name="Orks/BonusInfantryProduction" value="Болей дак"/>
 	<entry name="Orks/BonusInfantryProductionDescription" value="Павялічвае вытворчасць кучаў дак."/>
-	<entry name="Orks/BonusInfantryProductionFlavor" value="“Da best shoota I eva made, dat iz. Loadza barrulz, so dat it's ded shooty. 'Sept dat wun, 'cos dat's da skorcha, dat's burny insted. Yeah, good an' propa. An' da bullitz is 'splosiv...dey goez boom inna fings wot you'z shootin.' An' dat button dere...dat's da best bit. Wot it duz, see, iz...iz...oh, zog. Nah, it's nuffin' boss. Nah, you'z don't need ta see wot dat button duz...'onist. Don't push it!”<br/>  — Last words, Nazdakka Boomsnik, Mek"/>
+	<entry name="Orks/BonusInfantryProductionFlavor" value="“Da best shoota I eva made, dat iz. Loadza barrulz, so dat it's ded shooty. 'Sept dat wun, 'cos dat's da skorcha, dat's burny insted. Yeah, good an' propa. An' da bullitz is 'splosiv…dey goez boom inna fings wot you'z shootin.' An' dat button dere…dat's da best bit. Wot it duz, see, iz…iz…oh, zog. Nah, it's nuffin' boss. Nah, you'z don't need ta see wot dat button duz…'onist. Don't push it!”<br/>  — Last words, Nazdakka Boomsnik, Mek"/>
 	<entry name="Orks/BonusVehiclesProduction" value="Рамонтныя працы"/>
 	<entry name="Orks/BonusVehiclesProductionDescription" value="Павялічвае вытворчасць культаў хуткасці."/>
-	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work—vital components are often missing or the device is simply impossible. The Ork's single-minded belief—realised in the form of the Waaagh! energy that surrounds them—fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality..."/>
+	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work—vital components are often missing or the device is simply impossible. The Ork's single-minded belief—realised in the form of the Waaagh! energy that surrounds them—fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality…"/>
 	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
 	<entry name="Orks/BustHeadsDescription" value="Зніжае страту маралі."/>
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
@@ -953,7 +1129,7 @@
 	<entry name="Orks/CityEnergyFlavor" value="Green and red lightning arcs between the intricate prongs of these power amplification devices, frying any Greenskin who wanders too near. It's quite the spectator sport, but the technology is missing key components so couldn't possibly bear out the Meks' claims of its increase in energy output—save for the Orks' reality-altering faith that it does."/>
 	<entry name="Orks/CityGrowth" value="Прамоўцы боса"/>
 	<entry name="Orks/CityGrowthDescription" value="Павялічвае выпуск прадукцыі павецей для металалому."/>
-	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz... wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
+	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz… wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
 	<entry name="Orks/CityInfluence" value="Вялікія бліскучкі"/>
 	<entry name="Orks/CityInfluenceDescription" value="Павялічвае вытворчасць уплыву."/>
 	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”-- Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
@@ -1002,7 +1178,7 @@
 	<entry name="Orks/KustomForceFieldFlavor" value="<string name='Actions/Orks/KustomForceFieldFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="Вялікія чопы"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць."/>
-	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas... and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
+	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas… and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
 	<entry name="Orks/MightMakesRight" value="Моц робіць права"/>
 	<entry name="Orks/MightMakesRightDescription" value="Дае ўплыў за атаку."/>
 	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
@@ -1029,7 +1205,7 @@
 	<entry name="PinningDescription" value="Часова зніжае рух цэлевай напалоханай пяхотнай адзінцы і не дае адзінцы здзяйсняць атакі назірання."/>
 	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
 	<entry name="Poisoned" value="Атручаны"/>
-	<entry name="PoisonedDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
+	<entry name="PoisonedDescription" value="Павялічвае шкоду супраць пяхотных адзінак і жахлівых стварэнняў."/>
 	<entry name="PoisonedFlavor" value="There are many virulent and lethal poisons in the dark future. It is simplicity itself to adapt such toxins for battlefield use. It does not matter whether they coat weapon-blades or bullets, or are secreted by alien monstrosities – all are lethal."/>
 	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
 	<entry name="PowerOfTheMachineSpiritDescription" value="<string name='Actions/PowerOfTheMachineSpiritDescription'/>"/>
@@ -1154,7 +1330,7 @@
 	<entry name="SmokeScreenDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
 	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
 	<entry name="Sniper" value="Снайпер"/>
-	<entry name="SniperDescription" value="Павялічвае шкоду і бронепрабівальнасць супраць пяхотных адзінак."/>
+	<entry name="SniperDescription" value="Павялічвае шкоду і бронепрабівальнасць супраць пяхотных адзінак і жахлівых стварэнняў."/>
 	<entry name="SniperFlavor" value="Sniper weapons are precision instruments, used to pick out a target’s weak points."/>
 	<entry name="SonicBoom" value="Гукавая хваля"/>
 	<entry name="SonicBoomDescription" value="Павялічвае шкоду супраць авіяцыі."/>
@@ -1314,7 +1490,7 @@
 	<entry name="Tau/RipykaFlavor" value="<string name='Actions/Tau/RipykaFlavor'/>"/>
 	<entry name="Tau/RipykaVa" value="Рыпайка'ва"/>
 	<entry name="Tau/RipykaVaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
-	<entry name="Tau/RipykaVaFlavor" value="Commander Coldflame was famed for her subtlety, her ability to layer tactics on tactics but somehow inspire her troops to strive to match her strategic complexity. Some whispered, however, that she concerned herself too deeply with the Greater Good for a mere Fire Warrior..."/>
+	<entry name="Tau/RipykaVaFlavor" value="Commander Coldflame was famed for her subtlety, her ability to layer tactics on tactics but somehow inspire her troops to strive to match her strategic complexity. Some whispered, however, that she concerned herself too deeply with the Greater Good for a mere Fire Warrior…"/>
 	<entry name="Tau/SenseOfStone" value="<string name='Actions/Tau/SenseOfStone'/>"/>
 	<entry name="Tau/SenseOfStoneDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Tau/SenseOfStoneFlavor" value="<string name='Actions/Tau/SenseOfStoneFlavor'/>"/>
@@ -1538,7 +1714,7 @@
 	<entry name="Tyranids/SynapticBacklashDescription" value="Тэрмагаўнты ў гэтай вобласці атрымліваюць шкоду, калі тэрвігон памірае."/>
 	<entry name="Tyranids/SynapticBacklashFlavor" value="Though Tyranids have no affection one another—they will watch calmly as their nest-mates die or walk into the reclamation pool—the psychic trauma a Tervigon's brood suffers at the moment of its death is odd, particularly given the Hive Mind's seeming inability to eliminate it. Perhaps it is a legacy of whatever long-dead race the Tervigon's genetic data was based on—and a symbol that the Hive Mind rarely innovates, but mostly plagiarises."/>
 	<entry name="Tyranids/ToxinSacs" value="Мех з таксінам"/>
-	<entry name="Tyranids/ToxinSacsDescription" value="Павялічвае шкоду зброі блізкага бою па пяхотных адзінках."/>
+	<entry name="Tyranids/ToxinSacsDescription" value="Павялічвае шкоду зброі блізкага бою па пяхотных адзінках і жахлівых стварэнняў."/>
 	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
 	<entry name="Tyranids/Tunnel2" value="Эчурыянскія муры"/>
 	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе."/>
