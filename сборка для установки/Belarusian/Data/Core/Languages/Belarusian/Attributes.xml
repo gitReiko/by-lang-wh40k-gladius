@@ -78,6 +78,8 @@
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyCost" value="Кошт энергіі"/>
 	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyFromAdjacentBuildings" value="Энергіі за кожны суседні будынак"/>
+	<entry name="EnergyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyFromExperienceValueFactor" value="Энергіі ад велічыні досведу"/>
 	<entry name="EnergyFromExperienceValueFactorIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyUpkeep" value="Ўтрыманне энергіі"/>
@@ -94,6 +96,8 @@
 	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodCost" value="Кошт ежы"/>
 	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodFromAdjacentBuildings" value="Ежы за кожны суседні будынак"/>
+	<entry name="FoodFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodUpkeep" value="Ўтрыманне ежы"/>
 	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="GroupSize" value="Памер групы"/>
@@ -124,6 +128,8 @@
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="Кошт уплыву"/>
 	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceFromAdjacentBuildings" value="Уплыву за кожны суседні будынак"/>
+	<entry name="InfluenceFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluencePerCombat" value="Уплыву за кожную бітву"/>
 	<entry name="InfluencePerCombatIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluencePerCombatFromUpkeepFactor" value="Уплыву за кожную бітву ад фактару ўтрымання"/>
@@ -153,6 +159,8 @@
 	<entry name="Loyalty" value="Лаяльнасць"/>
 	<entry name="LoyaltyHint" value="<style name='Title'/>Лаяльнасць<br/><style name='Default'/>Адлюстроўвае адданае вам насельніцтва. Кожнае дадатковае станоўчае ачко лаяльнасці павялічвае вытворчасць рэсурсаў на 1%. У той жа час кожнае  адмоўнае ачко лаяльнасці зменшвае вытворчасць на 2% (да -50%). Кожны горад, апроч першага, зменшвае лаяльнасць на 6 ува ўсіх іншых вашых гарадах."/>
 	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromAdjacentBuildings" value="Лаяльнасці за кожны суседні будынак"/>
+	<entry name="LoyaltyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
 	<entry name="LoyaltyFromUtopia" value="Лаяльнасць ад утопіі"/>
 	<entry name="LoyaltyFromUtopiaIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
 	<entry name="LoyaltyFromUtopiaType" value="Лаяльнасць ад тыпу ўтопіі"/>
@@ -175,6 +183,8 @@
 	<entry name="MeleeDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="MinDamageFromHitpointsFraction" value="Мінімальная шкода ад здароўя цэлі"/>
 	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MonolithicBuildingsBonus" value="Бонус за маналітныя будынкі"/>
+	<entry name="MonolithicBuildingsPenalty" value="Штраф за маналітныя будынкі"/>
 	<entry name="Morale" value="Мараль"/>
 	<entry name="MoraleDescription" value="Псіхалагічны стан адзінкі. Мараль аднаўляецца, калі адзінка не атрымала шкоду ў гэтым кроку. Адзінкі з мараллю ніжэй за 66% робяцца <icon height='20' texture='Icons/Traits/Shaken'/> узрушанымі. Гэта зніжае трапнасці і павялічвае атрыманую шкоду на 17%. Адзінкі з мараллю ніжэй за 33% робяцца <icon height='20' texture='Icons/Traits/Broken'/> зламанымі. Гэта зніжае іх трапнасць і павялічвае атрыманую шкоду на 33%."/>
 	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
@@ -200,6 +210,8 @@
 	<entry name="OreCost" value="Кошт руды"/>
 	<entry name="OreCostIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
 	<entry name="OreCostHint" value="<style name='Title'/>Кошт руды<br/><style name='Default'/>"/>
+	<entry name="OreFromAdjacentBuildings" value="Руды за кожны суседні будынак"/>
+	<entry name="OreFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
 	<entry name="OrePerKillValue" value="Колькасць руды за забойства"/>
 	<entry name="OrePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
 	<entry name="OreUpkeep" value="Ўтрыманне руды"/>
@@ -257,8 +269,12 @@
 	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResearchCost" value="Кошт даследванняў"/>
 	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchFromAdjacentBuildings" value="Даследаванняў за кожны суседні будынак"/>
+	<entry name="ResearchFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResearchPerExperience" value="Даследаванні за досвед"/>
 	<entry name="ResearchPerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerKillValue" value="Даследаванняў за кожнае забойства"/>
+	<entry name="ResearchPerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResearchUpkeep" value="Ўтрыманне даследванняў"/>
 	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResourcesFromFeatures" value="Рэсурсы ад мясцовасці"/>
@@ -282,6 +298,7 @@
 	<entry name="EnergyHint" value="<style name='Title'/>Энергія<br/><style name='Default'/>Выкарыстоўваецца для абслугоўвання будынкаў, а таксама для вытворчасці і абслугоўвання адмысловых адзінак."/>
 	<entry name="FoodHint" value="<style name='Title'/>Ежа<br/><style name='Default'/>Выкарыстоўваецца для падтрымання насельніцтва ў гарадах, а таксама для вытворчасці і падтрымання біялагічных адзінак."/>
 	<entry name="OreHint" value="<style name='Title'/>Руда<br/><style name='Default'/>Выкарыстоўваецца для будавання будынкаў, а таксама для вытворчасці і абслугоўвання механічных адзінак."/>
+	<entry name="AdeptusMechanicus/InfluenceHint" value="<string name='Attributes/Tau/InfluenceHint'/>"/>
 	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і захавання плітак гарадоў, выдання эдыктаў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і захавання плітак гарадоў, прызыву Пазнак Хаосу, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і захавання плітак гарадоў, выкарыстанню адмысловых здольнасцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
