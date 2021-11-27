@@ -4,11 +4,14 @@
 	<entry name="AccumulateInfluenceDescription" value="Назапасіць уплыў (%1%/%2%)."/>
 	<entry name="AccumulatePopulationDescription" value="Назапасіць насельніцтва (%1%/%2%)."/>
 	<entry name="AccumulateResearchDescription" value="Назапасіць даследаванні (%1%/%2%)."/>
+	<entry name="ActivateCanticleDescription" value="Актывуйце спеў (%1%/1)."/>
+	<entry name="ActivateDoctrinaDescription" value="Актывуйце дактрыну (%1%/1)."/>
 	<entry name="ActivateUnitDescription" value="Актываваць %1% (%2%/1)."/>
 	<entry name="ActivateTacticDescription" value="Актываваць тактыку ордэна (%1%/1)."/>
 	<entry name="CaptureUnitDescription" value="Захапіць %1% (%2%/1)."/>
 	<entry name="ClearInfestationDescription" value="Знішчыць %1% (%2%/%3%)."/>
 	<entry name="ConstructBuildingDescription" value="Пабудаваць %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingOnSameTileDescription" value="Пабудуйце %1% на той жа плітцы (%2%/%3%)."/>
 	<entry name="ConstructFeatureDescription" value="Пабудаваць %1% (%2%/%3%)."/>
 	<entry name="ConsumeTileDescription" value="Спажыць плітку малантропам (%2%/%3%)."/>
 	<entry name="ControlUnitDescription" value="Трымаць пад кантролем %1% (%2%/1)."/>
@@ -24,22 +27,29 @@
 	<entry name="FoundCityNearEntranceDescription" value="Пабудаваць новы горад у радыусе 3 плітак ад нядаўна выяўленага ўваходу (%1%/1)."/>
 	<entry name="FoundCityOnNecronTombDescription" value="Пабудаваць новы горад на адзначанай плітцы (%1%/1)."/>
 	<entry name="GenerateResearchFromExperienceDescription" value="Забіць варожую адзінку ў радыусе 3 клетак ад малантропа (%1%/%2%)"/>
+	<entry name="InfiltrateCampWithUnitTypeDescription" value="Перасуньце %1% на плітку суседнюю да варожай крэпасці (%2%/%3%)."/>
 	<entry name="InvokeCultistSacrificeDescription" value="Выкарыстаць %1% з культыстамі хаосу (%2%/%3%)."/>
 	<entry name="InvokeRapidRiseOnWarriorDescription" value="Выкарыстаць хуткі ўздым пры вытворчасці ваяроў-некронаў (%1%/1)."/>
 	<entry name="InvokeRiteDescription" value="Выкарыстаць %1% у горадзе (%2%/%3%)."/>
 	<entry name="KeepUnitAliveDescription" value="Захоўваць %1% жывым (%2%/1)."/>
 	<entry name="KillCampDescription" value="Знішчыць варожы стан (%1%/1)."/>
 	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Знішчыце дэмана-прынца, які выконвае рытуал за %2% крокаў (%1%/1)."/>
+	<entry name="KillCampWithDeceiverDescription" value="Знайдзіце і знішчыце Ашуканца (%1%/1)."/>
 	<entry name="KillCampWithFortressOfRedemptionDescription" value="Знішчыце мяцежную крэпасць адкуплення (%1%/1)."/>
+	<entry name="KillCampWithOrksDescription" value="Знішчыце лагер оркаў (%1%/1)."/>
+	<entry name="KillCampWithKastelansDescription" value="Знішчыце або захапіце лагер кастэланаў (%1%/1)."/>
 	<entry name="KillCampWithRebelNecronArmyDescription" value="Знішчыце мяцежнае войска некронаў (%1%/1)."/>
 	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Знішчыце мяцежнага тэхнажраца і яго кантынгент элітных робатаў за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithTurnLimitDescription" value="Знішчыць варожы стан за %2% крокаў (%1%/1)."/>
+	<entry name="KillCampWithTyranidsDescription" value="Знішчыце вулей тыранідаў (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Знішчыць %1% за %4% крокаў (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Пачакайце пакуль %1% вернецца ў гэты свет (0/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Знішчыце разрозненыя адзінкі (%1%/%2%)."/>
 	<entry name="KillUmbraDescription" value="Знішчыце умбру (%1%/1)."/>
 	<entry name="KillUnitDescription" value="Знішчыце %1% (%2%/%3%)."/>
 	<entry name="KillUnitNativeDescription" value="Знішчыце мясцовых ксенасаў (%1%/%2%)."/>
+	<entry name="KillUnitWithTokenDescription" value="Знішчыце %1% (%2%/1)."/>
+	<entry name="MoveUnitIntoCityDescription" value="Перасуньце %1% у гарадскую штабкватэру (%2%/1)."/>
 	<entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Генеруйце %1% лаяльнасць ад утопіі за крок (у гэты момант %2%) (%3%/1)."/>
 	<entry name="ProduceUnitDescription" value="Стварыце адзінку (%2%/%3%)."/>
 	<entry name="ProduceUnitOfTypeDescription" value="Стварыце %1% (%2%/%3%)."/>
@@ -50,6 +60,7 @@
 	<entry name="RecoverArcheotechDescription" value="Аднавіце артэфакты (%1%/%2%)."/>
 	<entry name="RecoverUnitDescription" value="Перагрупуйце разрозненыя адзінкі (%1%/%2%)."/>
 	<entry name="ResearchUpgradeDescription" value="Даследуйце %1% (%2%/%3%)."/>
+	<entry name="ResearchUpgradeTierDescription" value="Адкрыйце паляпшэнне %1% любага узроўню (%2%/1)."/>
 	<entry name="ScanTilesDescription" value="Выкарыстайце %1% на адзначаных плітках (%2%/%3%)."/>
 	<entry name="StartEdictDescription" value="Пачніце гарадскі эдыкт (%1%/1)."/>
 	<entry name="SurviveInvasionDescription" value="Перажывіце напад і забіце ўсіх захопнікаў (%1%/1)."/>
