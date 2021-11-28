@@ -762,7 +762,7 @@
 	<entry name="AdeptusMechanicus/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
 	<entry name="AdeptusMechanicus/MeleeWeaponBonusFlavor" value="<string name='Traits/AdeptusMechanicus/MeleeWeaponBonusFlavor'/>"/>
 	<entry name="AdeptusMechanicus/Omnispex" value="<string name='Traits/AdeptusMechanicus/Omnispex'/>"/>
-	<entry name="AdeptusMechanicus/OmnispexDescription" value="Дазваляе скітарыям-авангарду ігнараваць зніжэнне шкоды ў далёкім боі."/>
+	<entry name="AdeptusMechanicus/OmnispexDescription" value="Дазваляе скітарыям-авангарду ігнараваць зніжэнне шкоды ў далёкім баі."/>
 	<entry name="AdeptusMechanicus/OmnispexFlavor" value="<string name='Traits/AdeptusMechanicus/OmnispexFlavor'/>"/>
 	<entry name="AdeptusMechanicus/OptateRestrictions" value="<string name='Traits/AdeptusMechanicus/OptateRestrictions'/>"/>
 	<entry name="AdeptusMechanicus/OptateRestrictionsDescription" value="Павялічвае ліміт насельніцтва хаб фэйнаў."/>
@@ -999,7 +999,7 @@
 	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Дае чэмпіёнам хаосу шанец на сталае павелічэнне хуткасці руху пры забойстве ворага (дарунак хаосу)."/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionFlavor" value="<string name='Traits/ChaosSpaceMarines/TemporalDistortionFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWar'/>"/>
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Павялічвае мараль і трапнасць пяхоты ў блізкім боі супраць адзінак фракцыі космадэсанта."/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Павялічвае мараль і трапнасць пяхоты ў блізкім баі супраць адзінак фракцыі космадэсанта."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWarFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoyles" value="Гаргуллі варп-полымя"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Зброя насарогаў хаосу, апаганшчыкаў і лэндрэйдэраў хаосу пачынае наносіць перыядычную шкоду."/>
@@ -1196,7 +1196,7 @@
 	<entry name="Necrons/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
 	<entry name="Necrons/MeleeDamageFlavor" value="<string name='Traits/Necrons/MeleeDamageFlavor'/>"/>
 	<entry name="Necrons/Nebuloscope" value="<string name='Traits/Necrons/Nebuloscope'/>"/>
-	<entry name="Necrons/NebuloscopeDescription" value="Дазваляе клінкам грабніц ігнараваць зніжэнне шкоды ў далёкім боі."/>
+	<entry name="Necrons/NebuloscopeDescription" value="Дазваляе клінкам грабніц ігнараваць зніжэнне шкоды ў далёкім баі."/>
 	<entry name="Necrons/NebuloscopeFlavor" value="<string name='Traits/Necrons/NebuloscopeFlavor'/>"/>
 	<entry name="Necrons/NecrodermisRepair2" value="Паскораны ўзрост"/>
 	<entry name="Necrons/NecrodermisRepair2Description" value="Павялічвае аднаўленне здароўя ад рамонту некрадэрміса."/>
@@ -1238,7 +1238,7 @@
 	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Павялічвае вытворчасць гіпастальных храмаў."/>
 	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="<string name='Traits/Necrons/VehiclesBuildingBonusFlavor'/>"/>
 	<entry name="Orks/AmmoRunt" value="<string name='Actions/AmmoRunt'/>"/>
-	<entry name="Orks/AmmoRuntDescription" value="Дае вялікім мекам, понтарэзам і гарматам мекаў здольнасць павялічваць сваю трапнасць у далёкім боі."/>
+	<entry name="Orks/AmmoRuntDescription" value="Дае вялікім мекам, понтарэзам і гарматам мекаў здольнасць павялічваць сваю трапнасць у далёкім баі."/>
 	<entry name="Orks/AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
 	<entry name="Orks/BattlewagonBigShootas" value="Вялікія стралялы баявых фургонаў"/>
 	<entry name="Orks/BattlewagonBigShootasDescription" value="Дае баявым фургонам вялікія стралялы."/>
@@ -1310,7 +1310,7 @@
 	<entry name="Orks/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
 	<entry name="Orks/ExtraVehicleArmourFlavor" value="When a Mek is faced with a Warboss angry that his buggies and battlewagons keep getting blown up, he'll rapidly order his grots to dig out some scrap and nail extra armour anywhere it fits. He knows the Speed Freeks will soon enough peel it off, after all."/>
 	<entry name="Orks/Flyboss" value="<string name='Traits/Orks/Flyboss'/>"/>
-	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць стральбы ў далёкім боі дака-знішчальнікам супраць рэактыўных матацыклаў, лятучых і луналых адзінак."/>
+	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць стральбы ў далёкім баі дака-знішчальнікам супраць рэактыўных матацыклаў, лятучых і луналых адзінак."/>
 	<entry name="Orks/FlybossFlavor" value="<string name='Traits/Orks/FlybossFlavor'/>"/>
 	<entry name="Orks/GrabbinKlaw" value="<string name='Actions/GrabbinKlaw'/>"/>
 	<entry name="Orks/GrabbinKlawDescription" value="Дае баявым фургонам здольнасць знерухомліваць наземную тэхніку ворага."/>
@@ -1358,7 +1358,7 @@
 	<entry name="SpaceMarines/BlastDamageDescription" value="Павялічвае бронепрабівальнасць гранат, ракет і бластараў."/>
 	<entry name="SpaceMarines/BlastDamageFlavor" value="<string name='Traits/SpaceMarines/BlastDamageFlavor'/>"/>
 	<entry name="SpaceMarines/BolsterDefences" value="<string name='Actions/BolsterDefences'/>"/>
-	<entry name="SpaceMarines/BolsterDefencesDescription" value="Дае гарматам грымотнага агню здольнасць павялічваць шкоду ў далёкім боі па плітцы."/>
+	<entry name="SpaceMarines/BolsterDefencesDescription" value="Дае гарматам грымотнага агню здольнасць павялічваць шкоду ў далёкім баі па плітцы."/>
 	<entry name="SpaceMarines/BolsterDefencesFlavor" value="<string name='Actions/BolsterDefencesFlavor'/>"/>
 	<entry name="SpaceMarines/BoltDamage" value="<string name='Traits/SpaceMarines/BoltDamage'/>"/>
 	<entry name="SpaceMarines/BoltDamageDescription" value="<string name='Upgrades/AstraMilitarum/BoltDamageDescription'/>"/>
@@ -1440,7 +1440,7 @@
 	<entry name="SpaceMarines/MeltaBombDescription" value="Дае тактычным космадэсантнікам, штурмавым космадэсантнікам, космадэсантнікам-разбуральнікам і матацыклістам-выведнікам здольнасць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкай тэхнікі і фартыфікацый."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
-	<entry name="SpaceMarines/OmniscopeDescription" value="Дае цэнтурыёнам-разбуральнікам магчымасць абмінаць змяншэнне шкоды ў далёкім боі."/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="Дае цэнтурыёнам-разбуральнікам магчымасць абмінаць змяншэнне шкоды ў далёкім баі."/>
 	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
 	<entry name="SpaceMarines/OrbitalBombardment" value="<string name='Actions/OrbitalBombardment'/>"/>
 	<entry name="SpaceMarines/OrbitalBombardmentDescription" value="<string name='Actions/OrbitalBombardmentDescription'/>"/>
@@ -1503,7 +1503,7 @@
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Battlesuit support system that increases the accuracy of overwatch attacks."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="<string name='Traits/Tau/CounterfireDefenceSystemFlavor'/>"/>
 	<entry name="Tau/DisruptionPod" value="<string name='Traits/Tau/DisruptionPod'/>"/>
-	<entry name="Tau/DisruptionPodDescription" value="Павялічвае зніжэнне шкоды ў далёкім боі."/>
+	<entry name="Tau/DisruptionPodDescription" value="Павялічвае зніжэнне шкоды ў далёкім баі."/>
 	<entry name="Tau/DisruptionPodFlavor" value="<string name='Traits/Tau/DisruptionPodFlavor'/>"/>
 	<entry name="Tau/DroneController" value="<string name='Traits/Tau/DroneController'/>"/>
 	<entry name="Tau/DroneControllerDescription" value="Сістэма падтрымкі баявога касцюма павялічвае трапнасць суседніх дронаў."/>
@@ -1581,7 +1581,7 @@
 	<entry name="Tau/VelocityTrackerDescription" value="Сістэма падтрымкі баявога касцюма павялічвае трапнасць стральбы па лёткіх адзінках."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="<string name='Traits/Tau/VelocityTrackerFlavor'/>"/>
 	<entry name="Tyranids/AcidBlood" value="Кіслотная кроў"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Дае жахлівым стварэнням тыранідаў і гонару тыранідаў асаблівасць, якая наносіць шкоду ўсім атакоўцам у блізкім боі."/>
+	<entry name="Tyranids/AcidBloodDescription" value="Дае жахлівым стварэнням тыранідаў і гонару тыранідаў асаблівасць, якая наносіць шкоду ўсім атакоўцам у блізкім баі."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="<string name='Traits/Tyranids/AcidBloodFlavor'/>"/>
 	<entry name="Tyranids/AdrenalGlands" value="Адрэналінавыя гланды"/>
 	<entry name="Tyranids/AdrenalGlandsDescription" value="Дае адзінкам павялічаны рух і шкоду ў блізкім бою."/>
@@ -1680,7 +1680,7 @@
 	<entry name="Tyranids/ThresherScytheDescription" value="Дае экзакрынам і гаруспэксам дадатковую зброю блізкага бою."/>
 	<entry name="Tyranids/ThresherScytheFlavor" value="<string name='Weapons/ThresherScytheFlavor'/>"/>
 	<entry name="Tyranids/ToxinSacs" value="<string name='Traits/Tyranids/ToxinSacs'/>"/>
-	<entry name="Tyranids/ToxinSacsDescription" value="Павялічвае шкоду ў блізкім боі супраць пяхоты і жахлівых стварэнняў."/>
+	<entry name="Tyranids/ToxinSacsDescription" value="Павялічвае шкоду ў блізкім баі супраць пяхоты і жахлівых стварэнняў."/>
 	<entry name="Tyranids/ToxinSacsFlavor" value="<string name='Traits/Tyranids/ToxinSacsFlavor'/>"/>
 	<entry name="Tyranids/Toxinspike" value="Атрутныя шыпы трыгонаў"/>
 	<entry name="Tyranids/ToxinspikeDescription" value="Дае трыгонам дадатковую зброю блізкага бою."/>

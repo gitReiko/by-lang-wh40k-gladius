@@ -169,17 +169,17 @@
 	<entry name="LoyaltyPerCityIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
 	<entry name="LoyaltyUpkeep" value="Ўтрыманне лаяльнасці"/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MeleeAccuracy" value="Трапнасць у блізкім боі"/>
+	<entry name="MeleeAccuracy" value="Трапнасць у блізкім баі"/>
 	<entry name="MeleeAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
-	<entry name="MeleeArmorPenetration" value="Прабіванне брані ў блізкім боі"/>
+	<entry name="MeleeArmorPenetration" value="Прабіванне брані ў блізкім баі"/>
 	<entry name="MeleeArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
-	<entry name="MeleeAttacks" value="Атака ў блізкім боі"/>
+	<entry name="MeleeAttacks" value="Атака ў блізкім баі"/>
 	<entry name="MeleeAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
-	<entry name="MeleeDamage" value="Шкода ў блізкім боі"/>
+	<entry name="MeleeDamage" value="Шкода ў блізкім баі"/>
 	<entry name="MeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="MeleeDamageReduction" value="Зніжэнне шкоды ў блізкім боі"/>
+	<entry name="MeleeDamageReduction" value="Зніжэнне шкоды ў блізкім баі"/>
 	<entry name="MeleeDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
-	<entry name="MeleeDamageTaken" value="Атрыманая шкода ў блізкім боі"/>
+	<entry name="MeleeDamageTaken" value="Атрыманая шкода ў блізкім баі"/>
 	<entry name="MeleeDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="MinDamageFromHitpointsFraction" value="Мінімальная шкода ад здароўя цэлі"/>
 	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
@@ -203,7 +203,7 @@
 	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
 	<entry name="MovementMax" value="Макс. рух"/>
 	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
-	<entry name="OpponentRangedAccuracy" value="Трапнасць суперніка ў далёкім боі"/>
+	<entry name="OpponentRangedAccuracy" value="Трапнасць суперніка ў далёкім баі"/>
 	<entry name="OpponentRangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
 	<entry name="Ore" value="Руда"/>
 	<entry name="OreIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
@@ -239,20 +239,20 @@
 	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
 	<entry name="RangeMin" value="Мінімальная далёкасць"/>
 	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
-	<entry name="RangedAccuracy" value="Трапнасць у далёкім боі"/>
+	<entry name="RangedAccuracy" value="Трапнасць у далёкім баі"/>
 	<entry name="RangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
-	<entry name="RangedArmorPenetration" value="Прабіванне брані ў далёкім боі"/>
+	<entry name="RangedArmorPenetration" value="Прабіванне брані ў далёкім баі"/>
 	<entry name="RangedArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
-	<entry name="RangedAttacks" value="Атакі ў далёкім боі"/>
+	<entry name="RangedAttacks" value="Атакі ў далёкім баі"/>
 	<entry name="RangedAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
-	<entry name="RangedDamage" value="Шкода ў далёкім боі"/>
+	<entry name="RangedDamage" value="Шкода ў далёкім баі"/>
 	<entry name="RangedDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="RangedDamageReduction" value="Зніжэнне шкоды ў далёкім боі"/>
+	<entry name="RangedDamageReduction" value="Зніжэнне шкоды ў далёкім баі"/>
 	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
-	<entry name="RangedDamageReductionBypass" value="Зніжэнне шкоды ў далёкім боі пры ўдары з тылу"/>
-	<entry name="RangedDamageTaken" value="Шкода атрыманая ў далёкім боі"/>
+	<entry name="RangedDamageReductionBypass" value="Зніжэнне шкоды ў далёкім баі пры ўдары з тылу"/>
+	<entry name="RangedDamageTaken" value="Шкода атрыманая ў далёкім баі"/>
 	<entry name="RangedDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="RangedInvulnerableDamageReduction" value="Зніжэнне няўразлівай шкоды ў далёкім боі"/>
+	<entry name="RangedInvulnerableDamageReduction" value="Зніжэнне няўразлівай шкоды ў далёкім баі"/>
 	<entry name="RangedInvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="RequiredActionPoints" value="Патрэбныя дзеянні"/>
 	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>

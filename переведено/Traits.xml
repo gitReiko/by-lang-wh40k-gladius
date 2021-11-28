@@ -79,7 +79,7 @@
 	<entry name="Agile" value="<string name='Actions/Agile'/>"/>
 	<entry name="AgileDescription" value="<string name='Actions/AgileDescription'/>"/>
 	<entry name="AmmoRunt" value="Карантышка з боепрыпасамі"/>
-	<entry name="AmmoRuntDescription" value="Павялічвае трапнасць у далёкім боі."/>
+	<entry name="AmmoRuntDescription" value="Павялічвае трапнасць у далёкім баі."/>
 	<entry name="AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
 	<entry name="Amphibious" value="Амфібія"/>
 	<entry name="AmphibiousDescription" value="Адзінка можа перасоўвацца праз ваду і ігнаруе штрафы рэк."/>
@@ -291,7 +291,7 @@
 	<entry name="ChaosSpaceMarines/IchorBloodDescription" value="<string name='Actions/ChaosSpaceMarines/IchorBloodDescription'/>"/>
 	<entry name="ChaosSpaceMarines/IchorBloodFlavor" value="<string name='Actions/ChaosSpaceMarines/IchorBloodFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfDespair" value="<string name='Actions/ChaosSpaceMarines/IconOfDespair'/>"/>
-	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Павялічвае зніжэнне шкоды ў блізкім боі ад атакі жудасным ворагам."/>
+	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Павялічвае зніжэнне шкоды ў блізкім баі ад атакі жудасным ворагам."/>
 	<entry name="ChaosSpaceMarines/IconOfDespairFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfDespairFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfExcess" value="<string name='Actions/ChaosSpaceMarines/IconOfExcess'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfExcessDescription" value="Павялічвае зніжэнне шкоды."/>
@@ -378,7 +378,7 @@
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageFlavor" value="Spurting vile vapours and heinous fluids, the Chaos Spawn’s cursed innards could spell the death of a less-blessed creature."/> <!-- MutatedBeyondReason result. -->
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="Ветэраны доўгай вайны"/>
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Павялічвае мараль і трапнасць у блізкім боі супраць адзінак фракцыі космадэсанта."/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Павялічвае мараль і трапнасць у блізкім баі супраць адзінак фракцыі космадэсанта."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="Many Chaos Space Marine factions have been locked in a constant, grinding war against the Imperium of Man for centuries, if not millennia. The burning hate they feel for their loyalist brothers has had time to fester, now eclipsing all other emotions. This applies, above all, to the original nine Traitor Legions who flocked to Horus' banner ten millennia ago and continue their war against their loyal brethren to this day."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzy" value="Вар'яцтва варпу"/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Дарунак хаосу, які павялічвае атакі."/>
@@ -512,7 +512,7 @@
 	<entry name="Eldar/JinxDescription" value="Зніжае браню."/>
 	<entry name="Eldar/JinxFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
 	<entry name="Eldar/KhaineAwakened" value="<string name='Actions/Eldar/KhaineAwakened'/>"/>
-	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім боі, зніжае страту маралі і дае імунітэт да страху і скоўвання."/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім баі, зніжае страту маралі і дае імунітэт да страху і скоўвання."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="<string name='Actions/Eldar/KhaineAwakenedFlavor'/>"/>
 	<entry name="Eldar/KhainesMight" value="<string name='Actions/Eldar/KhainesMight'/>"/>
 	<entry name="Eldar/KhainesMightDescription" value="Павялічвае атакі блізкага бою."/>
@@ -634,7 +634,7 @@
 	<entry name="FuelledByRage" value="Падсілкаванне лютасцю"/>
 	<entry name="FuelledByRageDescription" value="Павялічвае атакі пры змяншэнні здароўя адзінкі."/>
 	<entry name="FuriousCharge" value="Парыў лютасці"/>
-	<entry name="FuriousChargeDescription" value="Павялічвае шкоду ў блізкім боі."/>
+	<entry name="FuriousChargeDescription" value="Павялічвае шкоду ў блізкім баі."/>
 	<entry name="FuriousChargeFlavor" value="Some warriors use the impetus of the charge to fuel their own fury."/>
 	<entry name="Gargantuan" value="Гіганцкі"/>
 	<entry name="GargantuanDescription" value="Класіфікацыя."/>
@@ -783,7 +783,7 @@
 	<entry name="MonstrousCreatureDescription" value="Класіфікацыя."/>
 	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank–like the Tyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
 	<entry name="MoraleSoak" value="Паглынанне маралі"/>
-	<entry name="MoraleSoakDescription" value="Зніжае шкоду мараллю цэлі."/>
+	<entry name="MoraleSoakDescription" value="Зніжае страты маралі цэлевай адзінкі."/>
 	<entry name="MoveThroughCover" value="Рух праз хованкі"/>
 	<entry name="MoveThroughCoverDescription" value="Адмаўляе штраф за перасоўванне ў лясах і імперскіх руінах."/>
 	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
@@ -982,10 +982,10 @@
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Павялічвае шкоду і зніжэнне шкоды."/>
 	<entry name="Orks/Flyboss" value="Бос летуноў"/>
-	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі, рэактыўных матацыклаў і луналых адзінак."/>
+	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць у далёкім баі супраць авіяцыі, рэактыўных матацыклаў і луналых адзінак."/>
 	<entry name="Orks/FlybossFlavor" value="Flybosses are ace pilots who have survived more dogfights than they can count (even when using their toes)."/>
 	<entry name="Orks/Gitfinda" value="Шукальнікі"/>
-	<entry name="Orks/GitfindaDescription" value="Павялічвае трапнасць стральбы ў далёкім боі, калі адзінка застаецца нерухомай."/>
+	<entry name="Orks/GitfindaDescription" value="Павялічвае трапнасць стральбы ў далёкім баі, калі адзінка застаецца нерухомай."/>
 	<entry name="Orks/GitfindaFlavor" value="These can be elaborate ocular bionics, monocular head-sets, oversized telescopes, or Mork knows what else. The function of a gitfinda is to improve the accuracy of its user to near-average levels."/>
 	<entry name="Orks/GreenTide" value="Зялёны хваля"/>
 	<entry name="Orks/GreenTideFlavor" value="Orks are pretty damn hard to kill. Orks seemingly killed in one battle often return in the next, either fixed up by a Mad Dok or simply miraculously healed—and tougher and stronger for the experience."/>
@@ -1023,7 +1023,7 @@
 	<entry name="OutflankDescription" value="Павялічвае трапнасць, калі знаходзіцца поруч з хаўруснай адзінкай."/>
 	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
 	<entry name="Pinned" value="Скаваны"/>
-	<entry name="PinnedDescription" value="Зменшвае рух і трапнасць у далёкім боі, павялічвае зніжэнне шкоды ад далёкага бою і не дае адзінцы здзяйсняць атакі назірання."/>
+	<entry name="PinnedDescription" value="Зменшвае рух і трапнасць у далёкім баі, павялічвае зніжэнне шкоды ад далёкага бою і не дае адзінцы здзяйсняць атакі назірання."/>
 	<entry name="PinnedFlavor" value="Coming under fire without knowing where the shots are coming from, or having ordnance rain down from the skies, can shake the resolve of even the bravest warriors, making them dive flat and cling to whatever cover presents itself."/>
 	<entry name="Pinning" value="Скоўванне"/>
 	<entry name="PinningDescription" value="Часова зніжае рух цэлевай напалоханай пяхотнай адзінцы і не дае адзінцы здзяйсняць атакі назірання."/>
@@ -1098,14 +1098,14 @@
 	<entry name="Salvo" value="Залп"/>
 	<entry name="SalvoDescription" value="Зменшвае ўдвая атакі і далёкасць, калі адзінка перасунулася."/>
 	<entry name="SavantInterlocution" value="Гутарка з навукоўцам"/>
-	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі і луналых адзінак, калі знаходзіцца поруч з хаўрусным паляўнічым."/>
+	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасць у далёкім баі супраць авіяцыі і луналых адзінак, калі знаходзіцца поруч з хаўрусным паляўнічым."/>
 	<entry name="SavantLock" value="Замок навукоўца"/>
 	<entry name="SavantLockDescription" value="Павялічвае трапнасць супраць авіяцыі, рэактыўных матацыклаў і луналых адзінак."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
 	<entry name="SeekerMissileDescription" value="Зменшвае далёкасць супраць цэлей не пазначаных маркерам. Не патрабуе прамой бачнасці супраць цэлей не пазначаных маркерам."/>
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Seeking" value="Пошук"/>
-	<entry name="SeekingDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі."/>
+	<entry name="SeekingDescription" value="Павялічвае трапнасць у далёкім баі супраць авіяцыі."/>
 	<entry name="Shaken" value="Падтрэсены"/>
 	<entry name="ShakenDescription" value="Зніжае трапнасць і павялічвае атрымліваемую шкоду."/>
 	<entry name="Shielded" value="Абаронены"/>
@@ -1125,7 +1125,7 @@
 	<entry name="SiegeShieldDescription" value="Павялічвае браню і зніжае штраф перасоўвання па лясах і імперскіх руінах."/>
 	<entry name="SiegeShieldFlavor" value="Many Vindicators are equipped with an enormous bulldozer blade, allowing them to shoulder aside battlefield detritus without risk."/>
 	<entry name="Signum" value="Сігнум"/>
-	<entry name="SignumDescription" value="Павялічвае трапнасць у далёкім боі. "/>
+	<entry name="SignumDescription" value="Павялічвае трапнасць у далёкім баі. "/>
 	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
 	<entry name="SkilledJink" value="<string name='Actions/SkilledJink'/>"/>
 	<entry name="SkilledJinkDescription" value="<string name='Traits/JinkDescription'/>"/>
@@ -1148,7 +1148,7 @@
 	<entry name="Slowed" value="Запаволены"/>
 	<entry name="SlowedDescription" value="Зменшвае рух."/>
 	<entry name="Smash" value="Разбурэнне"/>
-	<entry name="SmashDescription" value="Павялічвае прабіццё брані ў блізкім боі."/>
+	<entry name="SmashDescription" value="Павялічвае прабіццё брані ў блізкім баі."/>
 	<entry name="SmashFlavor" value="For the most fearsome of creatures, a single blow is sufficient to breach a tank's armour or crush a living creature to bloody pulp."/>
 	<entry name="SmokeScreen" value="Дымавая заслона"/>
 	<entry name="SmokeScreenDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою."/>
@@ -1266,7 +1266,7 @@
 	<entry name="Tau/FireTeamDescription" value="Павялічвае трапнасць далёкага бою, калі знаходзіцца поруч з хаўруснай машынай або жахлівым стварэннем."/>
 	<entry name="Tau/FireTeamFlavor" value="Some battlesuits and battle tank sensor-systems can be networked to provide enhanced efficiency when they fight in dedicated fire teams."/>
 	<entry name="Tau/FlechetteDischarger" value="Стралаваты разраднік"/>
-	<entry name="Tau/FlechetteDischargerDescription" value="Наносіць шкоду атакоўцам у блізкім боі."/>
+	<entry name="Tau/FlechetteDischargerDescription" value="Наносіць шкоду атакоўцам у блізкім баі."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="Powerful clusters of reactive charges are attached to the hulls of many T'au vehicles. If the enemy approaches, the clusters fire off vicious clouds of high velocity flechettes."/>
 	<entry name="Tau/GhostkeelElectrowarfareSuite" value="Прывідны набор электразмагання"/>
 	<entry name="Tau/GhostkeelElectrowarfareSuiteDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою супраць атак з далёкасці 2 або вышэй."/>
@@ -1286,7 +1286,7 @@
 	<entry name="Tau/MontkaDescription" value="Павялічвае шкоду па адзінках са здароўем ніжэй за 50%."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
 	<entry name="Tau/NetworkedMarkerlight" value="Сеткавая пазнака цэлі"/>
-	<entry name="Tau/NetworkedMarkerlightDescription" value="Павялічвае трапнасць стральбы ў далёкім боі і абыход змяншэння шкоды ў далёкім боі. Атакі адзінак не атрымліваюць або выдаткоўваюць выгаду ад пазначэння цэлі."/>
+	<entry name="Tau/NetworkedMarkerlightDescription" value="Павялічвае трапнасць стральбы ў далёкім баі і абыход змяншэння шкоды ў далёкім баі. Атакі адзінак не атрымліваюць або выдаткоўваюць выгаду ад пазначэння цэлі."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
 	<entry name="Tau/NovaBoostDescription" value="Павялічвае рух."/>
@@ -1340,7 +1340,7 @@
 	<entry name="Tau/SupportingFireDescription" value="Павялічвае шкоду назірання супраць варожых адзінак, суседніх з іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/SupportingFireFlavor" value="Fire caste doctrine, as laid down in the Code of Fire, instructs every warrior to protect their comrades. Using overlapping fields of fire, teams provide each other this mutual support on the battlefield."/>
 	<entry name="Tau/TargetAcquired" value="Пазначэнне цэлі"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Павялічвае трапнасць т'аў ў далёкім боі супраць адзінак. Зменшвае зніжэнне шкоды ад далёкага бою адзінкі супраць т'аў. Скончваецца пасля таго, як адзінка атакавана т'аў."/>
+	<entry name="Tau/TargetAcquiredDescription" value="Павялічвае трапнасць т'аў ў далёкім баі супраць адзінак. Зменшвае зніжэнне шкоды ад далёкага бою адзінкі супраць т'аў. Скончваецца пасля таго, як адзінка атакавана т'аў."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the T’au, and the Markerlight is an excellent example of this. It’s a handheld targeting laser that is networked into the T’au’s information system, allowing for pinpoint strikes by other T’au forces."/>
 	<entry name="Tau/TidewallShieldline" value="Лінія шчытоў сцяна з хваль"/>
 	<entry name="Tau/TidewallShieldlineDescription" value="Вяртае шкоду ад далёкага бою ад зброі, якая не з'яўляецца выбуховай, шаблоннай або вядзьмоўскім агнём, назад атакоўцу."/>
@@ -1361,7 +1361,7 @@
 	<entry name="Tau/VectoredRetroThrustersDescription" value="Павялічвае рух ды ігнаруе зону кантролю ворага."/>
 	<entry name="Tau/VectoredRetroThrustersFlavor" value="<string name='Actions/Tau/VectoredRetroThrustersFlavor'/>"/>
 	<entry name="Tau/VelocityTracker" value="Трэкер хуткасці"/>
-	<entry name="Tau/VelocityTrackerDescription" value="Павялічвае трапнасць у далёкім боі супраць авіяцыі."/>
+	<entry name="Tau/VelocityTrackerDescription" value="Павялічвае трапнасць у далёкім баі супраць авіяцыі."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="<string name='Actions/Tau/VelocityTrackerFlavor'/>"/>
 	<entry name="Tau/VolleyFire" value="<string name='Actions/Tau/VolleyFire'/>"/>
 	<entry name="Tau/VolleyFireDescription" value="Павялічвае атакі далёкага бою, калі адзінка не рухалася."/>
@@ -1402,7 +1402,7 @@
 	<entry name="Tusked" value="Іклаты"/>
 	<entry name="TuskedDescription" value="Павялічвае атакі зброі блізкага бою."/>
 	<entry name="Tyranids/AcidBlood" value="Кіслотная кроў"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Ворагі атрымліваюць шкоду, калі наносяць шкоду ў блізкім боі."/>
+	<entry name="Tyranids/AcidBloodDescription" value="Ворагі атрымліваюць шкоду, калі наносяць шкоду ў блізкім баі."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="The alien blood spilt from certain Tyranids is so corrosive that it can eat through ceramite armour and dissolve flesh in mere moments."/>
 	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
 	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зніжэнне шкоды."/>
@@ -1585,6 +1585,6 @@
 	<entry name="Zzap" value="Ззап"/>
 	<entry name="ZzapFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
 	<entry name="Zealot" value="Фанатык"/>
-	<entry name="ZealotDescription" value="Зніжае мараль, павялічвае шкоду ў блізкім боі і дае імунітэт да страху і скоўвання."/>
+	<entry name="ZealotDescription" value="Зніжае мараль, павялічвае шкоду ў блізкім баі і дае імунітэт да страху і скоўвання."/>
 	<entry name="ZealotFlavor" value="Zealots fight on regardless of their casualties or the terrors of war; they are driven forwards by their conviction."/>
 </language>
