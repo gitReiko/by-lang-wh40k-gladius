@@ -45,7 +45,7 @@
 	<entry name="Autogun" value="Аўтапушка"/>
 	<entry name="AutogunFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="AttackSquig" value="Атака сквіга"/>
-	<entry name="AttackSquigDescription" value="Дадае дадатковую зброю Босу вайны. Шкода залежыць ад рангу здольнасці."/>
+	<entry name="AttackSquigDescription" value="Дадае дадатковую зброю вайнабосу. Шкода залежыць ад рангу здольнасці."/>
 	<entry name="AttackSquigFlavor" value="An attack squig is a voracious predator with a huge snapping gob."/>
 	<entry name="Autocannon" value="Аўтагармата"/>
 	<entry name="AutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
@@ -59,9 +59,9 @@
 	<entry name="BanebladeCannonFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="BattleCannon" value="Баявая гармата"/>
 	<entry name="BattleCannonFlavor" value="The turret-mounted battle cannon is the most common battle tank armament in the 41st Millennium. The heavy, explosive rounds of a battle cannon are capable of devastating infantry regiments and annihilating enemy tanks with equal ease."/>
-	<entry name="BigShoota" value="Вялікая страляла"/>
+	<entry name="BigShoota" value="Буйнаштраляла"/>
 	<entry name="BigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
-	<entry name="Bigbomm" value="Вялікі буум"/>
+	<entry name="Bigbomm" value="Буйнабуум"/>
 	<entry name="BigbommFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="BioAcidSpray" value="Біякіслотны спрэй"/>
 	<entry name="BioElectricPulse" value="Біяэлектрычны імпульс"/>
@@ -85,19 +85,19 @@
 	<entry name="BreathOfChaosFlavor" value="The psyker takes a deep breath, sucking in the negative energies of the battlefield and then exhaling them in a great mutagenic cloud that leaves its victims' bodies running like wax."/>
 	<entry name="BrightLance" value="Яркая дзіда"/>
 	<entry name="BrightLanceFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
-	<entry name="BurnaBomb" value="Падпала бомба"/>
+	<entry name="BurnaBomb" value="Падпалабомба"/>
 	<entry name="BurnaBombFlavor" value="A burna bomb is a large metal canister with an internal fuse. They are filled to the gunwales with sloshing promethium and squig-oil, and detonate on impact to spread flaming death across a wide area."/>
 	<entry name="BurstCannon" value="Выбуховая гармата"/>
 	<entry name="BurstCannonFlavor" value="<string name='Weapons/BurstFlavor'/>"/>
-	<entry name="BurstaKannon" value="Гармата-выбухала"/>
+	<entry name="BurstaKannon" value="Грымата-выбухала"/>
 	<entry name="BurstaKannonFlavor" value="<string name='Weapons/DestroyerFlavor'/>"/>
 	<entry name="Chainaxe" value="Ланцуговая сякера"/>
 	<entry name="ChainaxeFlavor" value="A brutal variant of the chainsword that has its origins in the Horus Heresy, a chainaxe's hand whirs with razor-like teeth that chew through armour, ripping and tearing the vulnerable flesh beneath."/>
 	<entry name="Chainsword" value="Ланцуговы меч"/>
 	<entry name="ChainswordFlavor" value="A chainsword is a high-powered chainsaw fitted with hilt, pommel and guard to make it less unwieldy. It is a common weapon across the Imperium, with a quite horrifying reputation for the damage it can inflict on unarmoured flesh."/>
-	<entry name="Choppa" value="Чопа"/>
+	<entry name="Choppa" value="Чоппа"/>
 	<entry name="ChoppaFlavor" value="Orks use a variety of bladed weapons and chain-blades. The largest hand-held choppas can bisect most foes in a single swing, whilst those mounted on Stompas can slice a Titan in two."/>
-	<entry name="CombiBolter" value="Комбі-болтар"/>
+	<entry name="CombiBolter" value="Комбіболтар"/>
 	<entry name="CombiBolterFlavor" value="Essentially a twin-linked boltgun, the combi-bolter emerged from the Horus Heresy as the most tactically flexible weapon available to Space Marine Terminators. Whilst the Space Marines loyal to the Emperor developed the weapon into the storm bolter, the older combi-bolters are still abundant in the armies of the Traitor Legions."/>
 	<entry name="CrushingClaws" value="Знішчальныя кіпцюры"/>
 	<entry name="CrushingClawsFlavor" value="The obscene strength of these claws allows them to smash any foe."/>
@@ -135,7 +135,7 @@
 	<entry name="DeathshriekFlavor" value="<string name='Traits/DeathshriekFlavor'/>"/>
 	<entry name="Deathspitter" value="Плявок смерці"/>
 	<entry name="DeathspitterFlavor" value="This multi-creature symbiote fires maggot-like organisms with corrosive innards. A spider-jawed set of fangs drags an organism from the weapon's brooding chamber and strips off its shell, before the deathspitter reacts to the caustic flesh with a spasm, firing the maggot to explode in a shower of caustic slime against its target."/>
-	<entry name="DeffstormMegaShoota" value="Мегастрэляла смяротны шторм"/>
+	<entry name="DeffstormMegaShoota" value="Мегаштреляла смярташторм"/>
 	<entry name="DeffstormMegaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="DemolisherCannon" value="Гармата-разбуральнік"/>
 	<entry name="DemolisherCannonFlavor" value="Short ranged but deadly, the demolisher siege cannon trades reach for power. Each demolisher shell is at least three times the size of a normal battle cannon round, its huge weight and high explosive core ensuring it will annihilate almost anything it hits."/>
@@ -277,9 +277,9 @@
 	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
 	<entry name="JokaeroDigitalWeaponDescription" value="<string name='Items/JokaeroDigitalWeaponDescription'/>"/>
 	<entry name="JokaeroDigitalWeaponFlavor" value="<string name='Items/JokaeroDigitalWeaponFlavor'/>"/>
-	<entry name="KanKlaw" value="Клюшня бляшанкі"/>
+	<entry name="KanKlaw" value="Клушня бляшанкі"/>
 	<entry name="KanKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
-	<entry name="KlawOfGork" value="Клюшня Горка"/>
+	<entry name="KlawOfGork" value="Клушня Горка"/>
 	<entry name="KlawOfGorkFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
 	<entry name="KrakGrenade" value="Крак граната "/>
 	<entry name="KrakGrenadeFlavor" value="Krak grenades are implosive charges designed to crack vehicle armour."/>
@@ -289,9 +289,9 @@
 	<entry name="KrakstormMissileSiloFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="KrootGun" value="Пушка крутаў"/>
 	<entry name="KrootGunFlavor" value="Kroot use primitive slug-throwers adapted by the T'au to fire pulse rounds."/>
-	<entry name="KustomMegaBlasta" value="Палепшаная мега-выбухала"/>
+	<entry name="KustomMegaBlasta" value="Улушаная мегавыбухала"/>
 	<entry name="KustomMegaBlastaFlavor" value="<string name='Weapons/KustomMegaSluggaFlavor'/>"/>
-	<entry name="KustomMegaSlugga" value="Палепшаная мега-шпурляла"/>
+	<entry name="KustomMegaSlugga" value="Улушаная мегашпурляла"/>
 	<entry name="KustomMegaSluggaFlavor" value="A Mek's favourite gun often becomes his pet project, tinkered with until it boasts a profusion of worky gubbinz and zappy bits. On a good day, even the most portable of such guns can melt a hole through a Space Marine at twenty paces. The power of kustom mega-weapons comes at a price, of course, and an overheated weapon is likely to blow up. Yet the spectacular damage these weapons can cause is considered to more than make up the risk."/>
 	<entry name="Lascannon" value="Лазгармата"/>
 	<entry name="LascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
@@ -369,7 +369,7 @@
 	<entry name="PowerAxeFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
 	<entry name="PowerFist" value="Сілавы кулак"/>
 	<entry name="PowerFistFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
-	<entry name="PowerKlaw" value="Сілавая клюшня"/>
+	<entry name="PowerKlaw" value="Сілавая клушня"/>
 	<entry name="PowerKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
 	<entry name="PowerMaul" value="Сілавая кувалда"/>
 	<entry name="PowerMaulFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
@@ -453,7 +453,7 @@
 	<entry name="SingingSpearRangedFlavor" value="<string name='Weapons/SingingSpearMeleeFlavor'/>"/>
 	<entry name="Shockwave" value="Ударная хваля"/>
 	<entry name="ShockwaveFlavor" value="The psyker slams his palms together and the noise is magnified a hundredfold, releasing a shockwave that snaps bones and knocks foes from their feet."/>
-	<entry name="Shoota" value="Страляла"/>
+	<entry name="Shoota" value="Штраляла"/>
 	<entry name="ShurikenCannon" value="Сюрыкэн-гармата"/>
 	<entry name="ShurikenCannonFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
 	<entry name="ShurikenCatapult" value="Сюрыкэн-катапульта"/>
@@ -474,7 +474,7 @@
 	<entry name="SkyspearMissileLauncherFlavor" value="The skyspear missile launcher fires pre-blessed savant warheads, each a relic in its own right, housing the entombed remains of a distinguished Chapter serf. This servitor's mummified brain augments the missile's auto-targeters, allowing it to second-guess enemy pilots or home in on the heretical emissions of their debased machine spirits. Against the dogged pursuit of a savant warhead and its macabre pilot, there can be little chance of escape, while the tank's servo-loaders maintain a steady rate of fire."/>
 	<entry name="SkystrikeMissile" value="Ракета нябесны ўдар"/>
 	<entry name="SkystrikeMissileFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="Slugga" value="Мега-шпурляла"/>
+	<entry name="Slugga" value="Мегашпурляла"/>
 	<entry name="SluggaFlavor" value="This ugly and brutish handgun is perfectly designed for its ugly and brutish owner to kill his foes, either by shooting them through the face at point-blank range or by beating them to death with it."/>
 	<entry name="Snazzgun" value="Снэзган"/>
 	<entry name="SnazzgunFlavor" value="Snazzguns are marvels of Orky know-wotz. Their owners pour countless teef into having additional barrels, drum magazines, and all manner of widgets and gubbinz attached to their prized guns. The resultant weapons have been known to fire clouds of flaming bullets, blasts of plasma or volleys of rocket-propelled grenades."/>
@@ -508,14 +508,14 @@
 	<entry name="SulphurBreathFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="Suncannon" value="Сонечная гармата"/>
 	<entry name="SuncannonFlavor" value="<string name='Weapons/StarcannonFlavor'/>"/>
-	<entry name="SupaLobba" value="Супер кідала"/>
+	<entry name="SupaLobba" value="Супір кідала"/>
 	<entry name="SupaLobbaFlavor" value="Most Lobbas are large, noisy mortars that are typically mounted onto battlewagons."/>
 	<entry name="SupremacyRailgun" value="Рэйка пушка перавага"/>
 	<entry name="SupremacyRailgunFlavor" value="<string name='Weapons/RailFlavor'/>"/>
 	<entry name="SuperHeavyExplosion" value="Звышцяжкі выбух"/>
 	<entry name="TacticalSupportTurret" value="Тактычная турэль падтрымкі ДС8"/>
 	<entry name="TacticalSupportTurretFlavor" value="Carried in racks along the flanks of Orca Dropships, tactical support turrets are automated defence batteries that provide support for Fire Warrior Strike Teams. These armoured turrets plummet into battle and deploy as fixed positions to add their firepower to the fight. Each turret is programmed to self-destruct should its sensors register the possibility of capture or tampering. This feature means that the T'au's superior weaponry can never be turned upon them by their enemies."/>
-	<entry name="TankbustaBomb" value="Бомба танкалом"/>
+	<entry name="TankbustaBomb" value="Выбухала-танкалом"/>
 	<entry name="TankbustaBombDescription" value="<string name='Weapons/MeltaBombDescription'/>"/>
 	<entry name="TankbustaBombFlavor" value="Tankbusta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
 	<entry name="TaserGoad" value="Электрашокер стымул"/>
@@ -536,7 +536,7 @@
 	<entry name="ToxicMiasmaFlavor" value="Some creatures emit toxins to poison a prey world's atmosphere."/>
 	<entry name="Toxinspike" value="Таксічны шып"/>
 	<entry name="ToxinspikeFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
-	<entry name="TraktorKannon" value="Трактар-гармата"/>
+	<entry name="TraktorKannon" value="Грымата трактара"/>
 	<entry name="TraktorKannonFlavor" value="The traktor kannon fires a thrumming beam of force high into the air. The grot crew swing this beam about wildly until they manage to latch the humming column onto an airborne target. Once snagged, their hapless victim is wrenched out of the air and smashed to bits on the ground below."/>
 	<entry name="TransdimensionalThunderboltCoalescent" value="Транспрасторавы ўдар маланкі (каалесцэнтны)"/>
 	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="The C'tan Shard projects a crackling bolt of energy from its outstretched palm, blasting its foe into oblivion."/>
@@ -548,7 +548,7 @@
 	<entry name="TwinLinkedAutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="TwinLinkedAssaultCannon" value="Здвоеная штурмавая гармата"/>
 	<entry name="TwinLinkedAssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
-	<entry name="TwinLinkedBigShoota" value="Здвоеная вялікая страляла"/>
+	<entry name="TwinLinkedBigShoota" value="Здвоеная буйная штраляла"/>
 	<entry name="TwinLinkedBigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="TwinLinkedBoltgun" value="Здвоеная болт-пушка"/>
 	<entry name="TwinLinkedBoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
@@ -560,7 +560,7 @@
 	<entry name="TwinLinkedCognisHeavyStubberFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
 	<entry name="TwinLinkedCognisLascannon" value="Здвоеная когніс лазгармата"/>
 	<entry name="TwinLinkedCognisLascannonFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
-	<entry name="TwinLinkedDakkagun" value="Здвоеная дака пушка"/>
+	<entry name="TwinLinkedDakkagun" value="Здвоеная дакка пушка"/>
 	<entry name="TwinLinkedDakkagunFlavor" value="Dakkaguns are large, hopper-fed machine guns that spew crude bullets in sawing arcs."/>
 	<entry name="TwinLinkedFusionBlaster" value="Здвоены фузійны бластар"/>
 	<entry name="TwinLinkedFusionBlasterFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
@@ -594,7 +594,7 @@
 	<entry name="TwinLinkedPulsarFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
 	<entry name="TwinLinkedPulseCarbine" value="Здвоены імпульсны карабін "/>
 	<entry name="TwinLinkedPulseCarbineFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
-	<entry name="TwinLinkedShoota" value="Здвоеная страляла"/>
+	<entry name="TwinLinkedShoota" value="Здвоеная штраляла"/>
 	<entry name="TwinLinkedShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="TwinLinkedShurikenCannon" value="Здвоеная сюрыкэн гармата"/>
 	<entry name="TwinLinkedShurikenCannonFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
@@ -602,7 +602,7 @@
 	<entry name="TwinLinkedShurikenCatapultFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
 	<entry name="TwinLinkedSmartMissileSystem" value="Здвоеная разумная ракетная сістэма"/>
 	<entry name="TwinLinkedSmartMissileSystemFlavor" value="A smart missile system fires self-guiding missiles with drone intelligence, which can find targets even hiding behind terrain."/>
-	<entry name="TwinLinkedSupaShoota" value="Здвоеная супер страляла"/>
+	<entry name="TwinLinkedSupaShoota" value="Здвоеная супер штраляла"/>
 	<entry name="TwinLinkedSupaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="TwinLinkedTeslaDestructor" value="Здвоены Тэсла разбуральнік"/>
 	<entry name="TwinLinkedTeslaDestructorFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>

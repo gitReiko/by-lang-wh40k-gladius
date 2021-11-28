@@ -608,11 +608,11 @@
 	<entry name="OrbitalScanFlavor" value="A Space Marine Chapter commonly possesses an entire fleet of ships, ranging from tiny Thunderhawk Gunships to massive Strike Cruisers. On Gladius Prime, the Chapter fleet was decimated by the warp storm. Only one ship survives, swinging around the planet in an low, erratic orbit. Yet for sufficiently important targets, the Techmarine and Servitor crew will focus all its sensors onto the planet's surface."/>
 	<entry name="OrbitalStrike" value="Арбітальны ўдар"/>
 	<entry name="OrbitalStrikeDescription" value="Выклікае арбітальны ўдар па абранай варожай адзінцы."/>
-	<entry name="Orks/BigBoss" value="Вялікі бос"/>
+	<entry name="Orks/BigBoss" value="Буйнабос"/>
 	<entry name="Orks/BigBossDescription" value="Павялічвае максімальнае здароўе."/>
 	<entry name="Orks/BigBossFlavor" value="“Da bigger I iz, the 'arder I 'it.”<br/>  — Da Rok, Ork Nob"/>
-	<entry name="Orks/BustHeads" value="Праламаныя галовы"/>
-	<entry name="Orks/BustHeadsDescription" value="Зніжае страты маралі для боса вайны і найблізкіх хаўрусных адзінак. "/>
+	<entry name="Orks/BustHeads" value="Галавалом"/>
+	<entry name="Orks/BustHeadsDescription" value="Зніжае страты маралі для вайнабоса і найблізкіх хаўрусных адзінак. "/>
 	<entry name="Orks/BustHeadsFlavor" value="“Oi, you zogging berks! Stop 'itting each uvver and start 'itting the beakies! Or do I have to start 'itting… you? I ain't askin'—I's tellin'. Geddit?”<br/>  — Da Rok, Ork Nob"/>
 	<entry name="Orks/ChannelMentalEmissions" value="Канал псіхічных выкідаў"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Павялічвае вытворчасць даследаванняў клана."/>
@@ -637,10 +637,10 @@
 	<entry name="Orks/ProphetOfTheWaaagh" value="Прарок Вааагх!"/>
 	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Павялічвае прыбытак уплыву ад нанясення шкоды па адзінках ад права моцнага ў рэгіёне."/>
 	<entry name="Orks/ProphetOfTheWaaaghFlavor" value="“I'm da hand of Gork and Mork, dey sent me to rouse up da boyz to crush and kill 'cos da boyz forgot what dere 'ere for… I'm da profit of da Waaagh an' whole worlds burn in my boot prints. I'm Warlord Ghazghkull Mag Uruk Thraka an' I speak wiv da word of da gods.”<br/>  — Ghazghkull Mag Uruk Thraka, Ork Warlord"/>
-	<entry name="Orks/WarbikeTurboBoost" value="Турба-паскарэнне баявога матацыкла"/>
+	<entry name="Orks/WarbikeTurboBoost" value="Турба-паскарэнне ваявой матацыклі"/>
 	<entry name="Orks/WarbikeTurboBoostDescription" value="Павялічвае рух і змяншае шкоду ад далёкага бою."/>
 	<entry name="Orks/WarbikeTurboBoostFlavor" value="“‘Fasta, fasta! Dey can’t ‘it wot dey can’t sees! Smack all dem turbos!”  — Last words of Da Rok, Ork Nob and erstwhile warbiker."/>
-	<entry name="Orks/Warpath" value="Сцежка вайны"/>
+	<entry name="Orks/Warpath" value="Шлях вайны"/>
 	<entry name="Orks/WarpathDescription" value="Павялічвае колькасць атак блізкага бою дзівахлопцаў і суседніх хаўрусных адзінак права мобаў."/>
 	<entry name="Orks/WarpathFlavor" value="The Weirdboy disperses the Waaagh! energy coursing through his frame into the Ork warriors around him, stirring their already bellicose, warlike nature to roaring fever pitch."/>
 	<entry name="Overwatch" value="Назіраць"/>
@@ -695,7 +695,7 @@
 	<entry name="SkipDescription" value="Прапусціць гэта крок."/>
 	<entry name="Sleep" value="Спаць"/>
 	<entry name="SleepDescription" value="Спыняе вытворчасць да скасавання."/>
-	<entry name="SpaceMarines/Omniscope" value="Омніскоп"/>
+	<entry name="SpaceMarines/Omniscope" value="Амніскоп"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="Ігнаруе змяншэнне шкоды ад далёкага бою."/>
 	<entry name="SpaceMarines/OmniscopeFlavor" value="Centurions make use of omniscopes to better direct their fearsome firepower and pierce the gloom of a hostile galaxy."/>
 	<entry name="SpaceSlip" value="Касмічнае ўхіленне"/>

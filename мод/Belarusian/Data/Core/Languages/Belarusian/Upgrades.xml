@@ -1238,16 +1238,16 @@
 	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Павялічвае вытворчасць гіпастальных храмаў."/>
 	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="<string name='Traits/Necrons/VehiclesBuildingBonusFlavor'/>"/>
 	<entry name="Orks/AmmoRunt" value="<string name='Actions/AmmoRunt'/>"/>
-	<entry name="Orks/AmmoRuntDescription" value="Дае вілікім мекам, понтарэзам і гарматам мекаў здольнасць павялічваць сваю трапнасць у далёкім баі."/>
+	<entry name="Orks/AmmoRuntDescription" value="Дае буйным мекам, хвальканігодням і грыматам мекаў здольнасць павялічваць сваю трапнасць у далёкім баі."/>
 	<entry name="Orks/AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
-	<entry name="Orks/BattlewagonBigShootas" value="Вялікія стралялы баівой фуры"/>
-	<entry name="Orks/BattlewagonBigShootasDescription" value="Дае баівым фурам вялікія стралялы."/>
+	<entry name="Orks/BattlewagonBigShootas" value="Буйнаштралялы ваявой фуры"/>
+	<entry name="Orks/BattlewagonBigShootasDescription" value="Дае ваявым фурам буйнаштралялы."/>
 	<entry name="Orks/BattlewagonBigShootasFlavor" value="<string name='Weapons/BigShootaFlavor'/>"/>
-	<entry name="Orks/BattlewagonRokkitLaunchas" value="Ракетакіды баівых фураў"/>
-	<entry name="Orks/BattlewagonRokkitLaunchasDescription" value="Дае баівым фурам вялікія ракетакіды."/>
+	<entry name="Orks/BattlewagonRokkitLaunchas" value="Ракетакіды ваявых фураў"/>
+	<entry name="Orks/BattlewagonRokkitLaunchasDescription" value="Дае ваявым фурам вялікія ракетакіды."/>
 	<entry name="Orks/BattlewagonRokkitLaunchasFlavor" value="<string name='Weapons/RokkitLaunchaFlavor'/>"/>
 	<entry name="Orks/Bigbomm" value="<string name='Weapons/Bigbomm'/>"/>
-	<entry name="Orks/BigbommDescription" value="Дае смерталётам магчымасць скідаць супрацьпяхотныя бомбы."/>
+	<entry name="Orks/BigbommDescription" value="Дае смертавёртам магчымасць скідаць супрацьпяхотныя бомбы."/>
 	<entry name="Orks/BigbommFlavor" value="<string name='Weapons/BigbommFlavor'/>"/>
 	<entry name="Orks/BlastDamage" value="<string name='Traits/Orks/BlastDamage'/>"/>
 	<entry name="Orks/BlastDamageDescription" value="Павялічвае бронепрабівальнасць гранат, ракет і бластараў."/>
@@ -1268,7 +1268,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="<string name='Traits/Orks/BonusVehiclesProductionDescription'/>"/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
 	<entry name="Orks/Bosspole" value="Шост боса"/>
-	<entry name="Orks/BosspoleDescription" value="Яшчэ болей зніжае страту маральнага духу ад правіла мобаў для вілікіх мекаў, хлопцаў, меганобаў, танкабояў, баявых матацыклістаў і босаў вайны."/>
+	<entry name="Orks/BosspoleDescription" value="Яшчэ болей зніжае страту маральнага духу ад правіла мобаў для буйных мекаў, хлопцаў, меганобаў, танкабояў, ваявых матацыкляў і вайнабосаў."/>
 	<entry name="Orks/BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
 	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
 	<entry name="Orks/CityEnergyDescription" value="Павялічвае вытворчасць энергіі ў гарадах оркаў."/>
@@ -1297,11 +1297,11 @@
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeath" value="Сталая дэкампазіцыя"/>
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeathDescription" value="Стварае сталыя оркоідныя грыбы пасля смерці адзінак."/>
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeathFlavor" value="<string name='Traits/Orks/CreateOrkoidFungusOnDeathFlavor'/>"/>
-	<entry name="Orks/DakkajetSupaShoota" value="Супер страляла дака-знішчальніка"/>
-	<entry name="Orks/DakkajetSupaShootaDescription" value="Дае дака-знішчальнікам супер стралялу."/>
+	<entry name="Orks/DakkajetSupaShoota" value="Супер штраляла дакка-знішчалы"/>
+	<entry name="Orks/DakkajetSupaShootaDescription" value="Дае дакка-знішчалам супер штралялу."/>
 	<entry name="Orks/DakkajetSupaShootaFlavor" value="<string name='Weapons/TwinLinkedSupaShootaFlavor'/>"/>
 	<entry name="Orks/EavyArmour" value="<string name='Traits/EavyArmour'/>"/>
-	<entry name="Orks/EavyArmourDescription" value="Павялічвае браню хлопцам і босам вайны."/>
+	<entry name="Orks/EavyArmourDescription" value="Павялічвае браню хлопцам і вайнабосам."/>
 	<entry name="Orks/EavyArmourFlavor" value="<string name='Traits/EavyArmourFlavor'/>"/>
 	<entry name="Orks/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Orks/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
@@ -1310,19 +1310,19 @@
 	<entry name="Orks/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
 	<entry name="Orks/ExtraVehicleArmourFlavor" value="When a Mek is faced with a Warboss angry that his buggies and battlewagons keep getting blown up, he'll rapidly order his grots to dig out some scrap and nail extra armour anywhere it fits. He knows the Speed Freeks will soon enough peel it off, after all."/>
 	<entry name="Orks/Flyboss" value="<string name='Traits/Orks/Flyboss'/>"/>
-	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць стральбы ў далёкім баі дака-знішчальнікам супраць рэактыўных матацыклаў, лятучых і луналых адзінак."/>
+	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць стральбы ў далёкім баі дакка-знішчалам супраць рэактыўных матацыклаў, лятучых і луналых адзінак."/>
 	<entry name="Orks/FlybossFlavor" value="<string name='Traits/Orks/FlybossFlavor'/>"/>
 	<entry name="Orks/GrabbinKlaw" value="<string name='Actions/GrabbinKlaw'/>"/>
-	<entry name="Orks/GrabbinKlawDescription" value="Дае баівым фурам здольнасць знерухомліваць наземную тэхніку ворага."/>
+	<entry name="Orks/GrabbinKlawDescription" value="Дае ваявым фурам здольнасць знерухомліваць наземную тэхніку ворага."/>
 	<entry name="Orks/GrabbinKlawFlavor" value="<string name='Actions/GrabbinKlawFlavor'/>"/>
-	<entry name="Orks/GrotRiggers" value="Гроты такелажнікі"/>
-	<entry name="Orks/GrotRiggersDescription" value="Дае пасіўную рэгенерацыю здароўя баявым багі, бляшанкам-забойцам, баівым фурам, горканаўтам і выбухалам-забойцам."/>
+	<entry name="Orks/GrotRiggers" value="Гроты такелажы"/>
+	<entry name="Orks/GrotRiggersDescription" value="Дае пасіўную рэгенерацыю здароўя ваявым баггі, бляшанкам-забойцам, ваявым фурам, горканаўтам і выбухалам-забойцам."/>
 	<entry name="Orks/GrotRiggersFlavor" value="<string name='Traits/GrotRiggersFlavor'/>"/>
 	<entry name="Orks/HealingRate" value="Зялёная плынь"/>
 	<entry name="Orks/HealingRateDescription" value="Павялічвае хуткасць лячэння адзінак."/>
 	<entry name="Orks/HealingRateFlavor" value="Through the co-operation of a team of Bad Doks and Runtherdz, your Warlord has prescribed a new, 'more Orky' diet, to make the boyz bigger and stronger, quicker. Whether the cold Oil Squigs for breakfast and Faceeater Squigs for dinner actually has any physical effect is immaterial—the boyz believe it, and that makes it work."/>
 	<entry name="Orks/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Orks/HammerOfWrathDescription" value="Дае смерталёту, гіганцкаму сквіготу, горканаўту, бляшанке-забойцы і баяваму матацыклісту магчымасць выконваць больш разбуральныя атакі."/>
+	<entry name="Orks/HammerOfWrathDescription" value="Дае смертавёрту, гіганцкаму сквігготу, горканаўту, бляшанке-забойцы і ваявым матацыклям магчымасць выконваць больш разбуральныя атакі."/>
 	<entry name="Orks/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="<string name='Traits/Orks/MeleeDamage'/>"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
@@ -1337,13 +1337,13 @@
 	<entry name="Orks/OrkoidFungusFoodDescription" value="Павялічвае вытворчасць ежы на плітках з аркоідным грыбам."/>
 	<entry name="Orks/OrkoidFungusFoodFlavor" value="<string name='Traits/OrkoidFungusFoodFlavor'/>"/>
 	<entry name="Orks/RedPaintJob" value="Чырвоная фарба"/>
-	<entry name="Orks/RedPaintJobDescription" value="Павялічвае шкоду баявых багі, баівых фураў, дака-знішчальнікаў і падпальшчыкаў-бамбіл."/>
+	<entry name="Orks/RedPaintJobDescription" value="Павялічвае шкоду ваявых баггі, ваявых фураў, дакка-знішчалам і палілаў-бамбіл."/>
 	<entry name="Orks/RedPaintJobFlavor" value="<string name='Traits/RedPaintJobFlavor'/>"/>
-	<entry name="Orks/Scavenger2" value="Гроты смецяры"/>
+	<entry name="Orks/Scavenger2" value="Гроты шмецяры"/>
 	<entry name="Orks/Scavenger2Description" value="Павялічвае колькасць здабытай руды пры забойстве варожых адзінак."/>
 	<entry name="Orks/Scavenger2Flavor" value="A well organised Runtherd will have trained his Grots to gather and sort scrap for the Orks, as well as avoiding the more dangerous shell casings and munitions."/>
 	<entry name="Orks/SkorchaMissile" value="<string name='Weapons/SkorchaMissile'/>"/>
-	<entry name="Orks/SkorchaMissileDescription" value="Дае падпальшчыкам-бамбілам супрацьпяхотныя ракеты, што ігнаруюць хованку."/>
+	<entry name="Orks/SkorchaMissileDescription" value="Дае палілам-бамбілам супрацьпяхотныя ракеты, што ігнаруюць хованку."/>
 	<entry name="Orks/SkorchaMissileFlavor" value="<string name='Weapons/SkorchaMissileFlavor'/>"/>
 	<entry name="Orks/Stikkbomb" value="<string name='Weapons/Stikkbomb'/>"/>
 	<entry name="Orks/StikkbombDescription" value="Дае пяхоце здольнасць кідаць супрацьпяхотныя гранаты."/>
