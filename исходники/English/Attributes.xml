@@ -78,6 +78,8 @@
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyCost" value="Energy Cost"/>
 	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyFromAdjacentBuildings" value="Energy Per Adjacent Building"/>
+	<entry name="EnergyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyFromExperienceValueFactor" value="Energy From Experience Value"/>
 	<entry name="EnergyFromExperienceValueFactorIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="EnergyUpkeep" value="Energy Upkeep"/>
@@ -94,6 +96,8 @@
 	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodCost" value="Food Cost"/>
 	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodFromAdjacentBuildings" value="Food Per Adjacent Building"/>
+	<entry name="FoodFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodUpkeep" value="Food Upkeep"/>
 	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="GroupSize" value="Group Size"/>
@@ -124,6 +128,8 @@
 	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceCost" value="Influence Cost"/>
 	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceFromAdjacentBuildings" value="Influence Per Adjacent Building"/>
+	<entry name="InfluenceFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluencePerCombat" value="Influence Per Combat"/>
 	<entry name="InfluencePerCombatIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluencePerCombatFromUpkeepFactor" value="Influence Per Combat From Upkeep Factor"/>
@@ -153,6 +159,8 @@
 	<entry name="Loyalty" value="Loyalty"/>
 	<entry name="LoyaltyHint" value="<style name='Title'/>Loyalty<br/><style name='Default'/>Indicates the population's dedication to your cause. Each positive point of loyalty increases the city's total resource output by 1% while each negative point decreases it by 2% (down to -50%). Each city after the first decreases loyalty in all cities by 6."/>
 	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromAdjacentBuildings" value="Loyalty Per Adjacent Building"/>
+	<entry name="LoyaltyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
 	<entry name="LoyaltyFromUtopia" value="Loyalty From Utopia"/>
 	<entry name="LoyaltyFromUtopiaIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
 	<entry name="LoyaltyFromUtopiaType" value="Loyalty From Utopia Type"/>
@@ -175,6 +183,8 @@
 	<entry name="MeleeDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="MinDamageFromHitpointsFraction" value="Minimum Damage From Target Hitpoints"/>
 	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MonolithicBuildingsBonus" value="Monolithic Buildings Bonus"/>
+	<entry name="MonolithicBuildingsPenalty" value="Monolithic Buildings Penalty"/>
 	<entry name="Morale" value="Morale"/>
 	<entry name="MoraleDescription" value="The psychological state of the unit. Morale regenerates if the unit has not taken damage this turn. Below 66% morale units become <icon height='20' texture='Icons/Traits/Shaken'/> shaken, decreasing accuracy and increasing damage taken by 17%. Below 33% morale units become <icon height='20' texture='Icons/Traits/Broken'/> broken, decreasing accuracy and increasing damage taken by 33%."/>
 	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
@@ -200,6 +210,8 @@
 	<entry name="OreCost" value="Ore Cost"/>
 	<entry name="OreCostIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
 	<entry name="OreCostHint" value="<style name='Title'/>Ore Cost<br/><style name='Default'/>"/>
+	<entry name="OreFromAdjacentBuildings" value="Ore Per Adjacent Building"/>
+	<entry name="OreFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
 	<entry name="OrePerKillValue" value="Ore Per Kill Value"/>
 	<entry name="OrePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
 	<entry name="OreUpkeep" value="Ore Upkeep"/>
@@ -257,8 +269,12 @@
 	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResearchCost" value="Research Cost"/>
 	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchFromAdjacentBuildings" value="Research Per Adjacent Building"/>
+	<entry name="ResearchFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResearchPerExperience" value="Research Per Experience"/>
 	<entry name="ResearchPerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerKillValue" value="Research Per Kill Value"/>
+	<entry name="ResearchPerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResearchUpkeep" value="Research Upkeep"/>
 	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResourcesFromFeatures" value="Resources From Features"/>
@@ -282,6 +298,7 @@
 	<entry name="EnergyHint" value="<style name='Title'/>Energy<br/><style name='Default'/>Used to maintain buildings as well as produce and maintain special units."/>
 	<entry name="FoodHint" value="<style name='Title'/>Food<br/><style name='Default'/>Used to sustain the population in cities as well as produce and maintain biological units."/>
 	<entry name="OreHint" value="<style name='Title'/>Ore<br/><style name='Default'/>Used to construct buildings as well as produce and maintain mechanical units."/>
+	<entry name="AdeptusMechanicus/InfluenceHint" value="<string name='Attributes/Tau/InfluenceHint'/>"/>
 	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke edicts as well as recruit powerful hero units and purchase their items."/>
 	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke Marks of Chaos as well as recruit powerful hero units and purchase their items."/>
 	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke special abilities as well as recruit powerful hero units and purchase their items."/>

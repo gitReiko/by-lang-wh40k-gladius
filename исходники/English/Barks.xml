@@ -1,5 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Vector keyed in."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Five-by-five."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Fly-by commencing."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Stubber round saturation commencing."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Preserving aerial asset"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Hurt#0" value="Wings clipped"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Circling, circling."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Aerial libation distribution."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Pressure change. Morphing fibre-weave."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Preparing to evacuate Land Crawlers."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Shaken#0" value=""/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Victory#0" value="Enemy signatures no longer detected. Returning to cycle."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#0" value="Directing Kastelans."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#1" value="Anointing runes."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#2" value="Suppressing silica animus."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#3" value="Inserting doctrina wafers."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Broken#0" value="…the Men of Iron…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…beyond repair…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="The flesh is weak, the machine is strong."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="In binary, rhythm and song. I would that you could hear."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="There can be no improvement on the Omniassiah's design."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="In nomine imperii et mechanici et spiritus omnissiah."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Retreat wafers found."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Victory#0" value="Ancient wisdom, power proved."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#0" value="VESTRA INDUSTRIA NOSTRUM"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#1" value="WASTE IS SIN"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#2" value="FOR THE MOTIVE FORCE!"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#3" value=""/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Broken#0" value="Nostra potex decit… our will fails!"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Hurt#0" value="WE YET MARCH."/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#0" value="I CRY THE OMNISSIAH'S TEARS"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#1" value="CURSE THE CORPUSCARII"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#2" value="MY ELECTOO, IT HUNGERS"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#3" value="IN NOMINE DEI MECHANICI"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Shaken#0" value="SPARK OUT"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Victory#0" value="WE ARE VIGOUR, PERSONIFIED"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#0" value="They will taste Mars' wisdom!"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#1" value="Long-range solution found."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#2" value="Datalink targetted accepted."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#3" value="Machine Spirits unleashed."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Broken#0" value="Dominus, we must-"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Hurt#0" value="Monotask Servitors failing."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#0" value="Resting the servitors."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#1" value="Oiling the chassis."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#2" value="Excising weakness."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#3" value="Dreaming of a red planet…"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Shaken#0" value="Superior enemy firing solutions!"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Victory#0" value="For 10,000 years, our victory has been certain."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#0" value="C32: Firing Pattern Achieved."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#1" value="8-7: Destroyer Clade Active"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#2" value="7T32: All Armaments Deployed."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#3" value="867: Cognis And-or Phosphor Ignition."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Broken#0" value="Only Men Fear. We Once Were-"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Hurt#0" value="Functionality Compromised. Flesh Extant."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#0" value="T418: Idle Servitor Present"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#1" value="182: Awaiting Maintenance."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#2" value="ERROR: What Was I?"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#3" value="326: Memories Surfacing… Suppressed"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Shaken#0" value="991: Emotions Escaping."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Victory#0" value="T1: Function Fulfilled, Next Target."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#0" value="We are but a weapon in the right hand of the Emperor."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#1" value="For the honour of the Questor Mechanicus!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#2" value="Fear my tread!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#3" value="I AM AN IMPERIAL KNIGHT!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Broken#0" value="It… it cannot be."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Hurt#0" value="Death before dishonour."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#0" value="My lady awaits."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#1" value="For the jousts of my homeworld."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#2" value="My house is famed for its humility, you know."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#3" value="This iron giant awaits."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Shaken#0" value="YOU DARE."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Victory#0" value="It is no shame to fall at my hand."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#0" value="Purging, Dominus."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#1" value="Still purging, Dominus."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#2" value="My talons cut cleanly."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#3" value="You cannot escape phosphor, fools."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Broken#0" value="Already in flight…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Hurt#0" value="Our purging is at hand…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#0" value="Clean… must clean."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#1" value="Limb stumps… itch."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#2" value="Always on the wing."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:IdleCount" value="3"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Shaken#0" value="The filth is… rampant."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Victory#0" value="Ashes to ashes…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#0" value="Unleashing the Motive Force, tch."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#1" value="Galvanising the Skitarii, yesss…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#2" value="…mmmagnarail lance…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#3" value="Are we not invigorated?!"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Broken#0" value="Logic dictates this is not happening."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Hurt#0" value="We… we did not plan for this."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#0" value="Oh, I am just leaking power."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#1" value="Tapping the Galvanic Cell."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#2" value="Overcharging, underserving."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#3" value="To understand the Xenos…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Shaken#0" value="Protect your Magos, insects!"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Victory#0" value="Their bioelectricity… is mine."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#0" value="Use cover, conserve fire."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#1" value="I need you alive, Skitarii."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#2" value="No dissent, now we fight."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#3" value="I have control!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Broken#0" value="We are disposable…"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Hurt#0" value="Dying..? Save the Magos!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#0" value="Following your plans, Magos."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#1" value="Could we save some Skitarii?"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#2" value="We live to die, Magos."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#3" value="Servo Skull, I name thee Morte."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Shaken#0" value="Issue the Control Edict!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Victory#0" value="Our losses were minimal, Magos."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#0" value="Rad-Troopers in the field!"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#1" value="Let's see who the Radium kills faster…"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#2" value="Carbines a-glow."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#3" value="There's no stopping us."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Broken#0" value="Let's die later instead."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Hurt#0" value="Leaking rad and blood, here."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#0" value="I've 99 upgrades, but rad-protection isn't one of them."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#1" value="I'm burning up."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#2" value="Ugh… don't feel so good."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#3" value="I mean, I wouldn't eat near us either."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Shaken#0" value="Magos, we are dying for you."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Victory#0" value="Not even a half-life left of them."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#0" value="My move, your death."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#1" value="Pawns, advance."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#2" value="I see all the pieces."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#3" value="Making every move."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Broken#0" value="A defense becomes necessary… Luzhnin?"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Hurt#0" value="Targetting the king, clever."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#0" value="No cycle is idle."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#1" value="Inefficiency becomes entropy."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#2" value="What joy in manipulation."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#3" value="Yes… I see their moves and countermoves."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Shaken#0" value="Unexpected, a gambit. Admirable."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Victory#0" value="I planned this victory several moves ago. But the sweetness remains."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#0" value="The city awaits."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#1" value="Their lives are for us to take, not you."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#2" value="Servitors firing."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#3" value="Forge in combat."/>
+	<entry name="AdeptusMechanicus/Headquarters:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/Headquarters:Broken#0" value="The city will fall."/>
+	<entry name="AdeptusMechanicus/Headquarters:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#0" value="A revolt is being suppressed."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#1" value="Clones are being sent to the Protoservitor Cradles."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#2" value="In the name of the Omnissiah, hab-fanes cleared."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#3" value="Bionics production up 0.1%"/>
+	<entry name="AdeptusMechanicus/Headquarters:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/Headquarters:Shaken#0" value="The masses are terrified. Provosts have been deployed."/>
+	<entry name="AdeptusMechanicus/Headquarters:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/Headquarters:Victory#0" value="External threats eliminated. Turning attention to dissent."/>
+	<entry name="AdeptusMechanicus/Headquarters:VictoryCount" value="1"/>
+	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="AdeptusMechanicus/ArchaeopterTransvector"/>
+	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="AdeptusMechanicus/IronstriderBallistarius"/>
+	<entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="AdeptusMechanicus/IronstriderBallistarius"/>
+	<entry name="AdeptusMechanicus/SerberysSulphurhound" value="AdeptusMechanicus/SkitariiVanguard"/>
 	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="Space Marines sighted, commander. Comms channels are open."/>
 	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Lord Commissar spotted. Preparing to drive him closer."/>
@@ -55,7 +272,7 @@
 	<entry name="AstraMilitarum/Baneblade:WireWeedCount" value="1"/>
 	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarines#0" value="Allied Astartes sighted, praise the Emperor"/>
 	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Commissar sighted. Glad he's on the frontlines... far away from us."/>
+	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Commissar sighted. Glad he's on the frontlines… far away from us."/>
 	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
 	<entry name="AstraMilitarum/Basilisk:Artefact#0" value="Shells aren't scratching that thing. What's it made of?"/>
 	<entry name="AstraMilitarum/Basilisk:Artefact#1" value="We'll be purged just for looking at that."/>
@@ -79,19 +296,19 @@
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/Enslaver#0" value="What are those THINGS? Keep them at range, men."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="Crew compartment penetrated... it's a mess in here."/>
+	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="Crew compartment penetrated… it's a mess in here."/>
 	<entry name="AstraMilitarum/Basilisk:HurtCount" value="1"/>
 	<entry name="AstraMilitarum/Basilisk:Idle#0" value="Did you hear about the Saint of Basilisks? He got canonized. Geddit?"/>
 	<entry name="AstraMilitarum/Basilisk:Idle#1" value="Don't send a Manticore to do a Basilisk's job."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#2" value="I pity the poor grunts on the frontlines... but not enough to join 'em."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#2" value="I pity the poor grunts on the frontlines… but not enough to join 'em."/>
 	<entry name="AstraMilitarum/Basilisk:Idle#3" value="Just tell us when there's something to shoot."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#4" value="Nothing happens in war... and it happens repeatedly."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#4" value="Nothing happens in war… and it happens repeatedly."/>
 	<entry name="AstraMilitarum/Basilisk:IdleCount" value="5"/>
-	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="Is someone actually shooting... at us?"/>
+	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="Is someone actually shooting… at us?"/>
 	<entry name="AstraMilitarum/Basilisk:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/Basilisk:Victory#0" value="Turning enemies into craters for ten millenium, sah!"/>
 	<entry name="AstraMilitarum/Basilisk:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="Biowire? I mean there are worse firing positions, like inside the Great Rift..."/>
+	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="Biowire? I mean there are worse firing positions, like inside the Great Rift…"/>
 	<entry name="AstraMilitarum/Basilisk:WireWeedCount" value="1"/>
 	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarines#0" value="Marines bossman!"/>
 	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarinesCount" value="1"/>
@@ -113,16 +330,16 @@
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:OrksCount" value="1"/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarines#0" value="Da Emperor's kids? We goota fight dem?!"/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="Nah, I don't get what dey are. "/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="Nah, I don't get what dey are."/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/EnslaverCount" value="1"/>
 	<entry name="AstraMilitarum/Bullgryn:Hurt#0" value="Ow."/>
 	<entry name="AstraMilitarum/Bullgryn:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="Dem Bone'eads... deys smart."/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="One Ogryn on dead Ork's chest. Uh... two! Two Ogryns..."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="Dem Bone'eads… deys smart."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="One Ogryn on dead Ork's chest. Uh… two! Two Ogryns…"/>
 	<entry name="AstraMilitarum/Bullgryn:Idle#2" value="Sharpening our clubs, sir."/>
 	<entry name="AstraMilitarum/Bullgryn:Idle#3" value="We do what's we's told. And you told us nuffin."/>
 	<entry name="AstraMilitarum/Bullgryn:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="Wait... which way we goin?"/>
+	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="Wait… which way we goin?"/>
 	<entry name="AstraMilitarum/Bullgryn:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/Bullgryn:Victory#0" value="What? Did we win?"/>
 	<entry name="AstraMilitarum/Bullgryn:VictoryCount" value="1"/>
@@ -132,12 +349,12 @@
 	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Chests out, bellies in lads, it's the Lord Commissar."/>
 	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="Was that made by... Xenos?"/>
+	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="Was that made by… Xenos?"/>
 	<entry name="AstraMilitarum/Guardsman:ArtefactCount" value="1"/>
 	<entry name="AstraMilitarum/Guardsman:Attack#0" value="Can anyone see what we're shooting at?"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#1" value="Enemies in front, commissar at our back..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#1" value="Enemies in front, commissar at our back…"/>
 	<entry name="AstraMilitarum/Guardsman:Attack#2" value="Give it everything you've got!"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#3" value="I wish Creed was here..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#3" value="I wish Creed was here…"/>
 	<entry name="AstraMilitarum/Guardsman:Attack#4" value="Pour on the las-fire, we might just make it."/>
 	<entry name="AstraMilitarum/Guardsman:AttackCount" value="5"/>
 	<entry name="AstraMilitarum/Guardsman:Broken#0" value="I didn't sign up for this!"/>
@@ -156,7 +373,7 @@
 	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkullsCount" value="1"/>
 	<entry name="AstraMilitarum/Guardsman:Hurt#0" value="We're done for, sir."/>
 	<entry name="AstraMilitarum/Guardsman:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#0" value="By the Golden Throne...!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#0" value="By the Golden Throne…!"/>
 	<entry name="AstraMilitarum/Guardsman:Idle#1" value="For Guilliman and the Emperor!"/>
 	<entry name="AstraMilitarum/Guardsman:Idle#2" value="How high, sir?"/>
 	<entry name="AstraMilitarum/Guardsman:Idle#3" value="It's the silence before the battle that's the worst."/>
@@ -166,7 +383,7 @@
 	<entry name="AstraMilitarum/Guardsman:Idle#7" value="Sir, yes, sir!"/>
 	<entry name="AstraMilitarum/Guardsman:Idle#8" value="Watch out, the Commissar's coming!"/>
 	<entry name="AstraMilitarum/Guardsman:IdleCount" value="9"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="I still can't believe we survived. So many..."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="I still can't believe we survived. So many…"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory0Count" value="1"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory1#0" value="Getting the gang back together, sir."/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory1Count" value="1"/>
@@ -186,7 +403,7 @@
 	<entry name="AstraMilitarum/Guardsman:ShakenCount" value="5"/>
 	<entry name="AstraMilitarum/Guardsman:Victory#0" value="Commissar, sir, permission to celebrate?"/>
 	<entry name="AstraMilitarum/Guardsman:Victory#1" value="Ha! I feel like we took down a Titan with a lightstick."/>
-	<entry name="AstraMilitarum/Guardsman:Victory#2" value="To the memory of Cadia and to Creed..."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#2" value="To the memory of Cadia and to Creed…"/>
 	<entry name="AstraMilitarum/Guardsman:Victory#3" value="We're winning..? We're winning!"/>
 	<entry name="AstraMilitarum/Guardsman:Victory#4" value="Wow, the Primer is right! These xenos are easy!"/>
 	<entry name="AstraMilitarum/Guardsman:VictoryCount" value="5"/>
@@ -202,7 +419,7 @@
 	<entry name="AstraMilitarum/Headquarters:AttackCount" value="1"/>
 	<entry name="AstraMilitarum/Headquarters:Broken#0" value="Last stand orders issued."/>
 	<entry name="AstraMilitarum/Headquarters:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Cover#0" value="How... is a city... in cover?"/>
+	<entry name="AstraMilitarum/Headquarters:Cover#0" value="How… is a city… in cover?"/>
 	<entry name="AstraMilitarum/Headquarters:CoverCount" value="1"/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarum#0" value="Traitors approaching the city, sir!"/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
@@ -237,7 +454,7 @@
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#1" value="Throne, the recoil!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#2" value="Heavies firing!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#3" value="Let's crack 'em open!"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="When lasguns don't cut it..."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="When lasguns don't cut it…"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:AttackCount" value="5"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Broken#0" value="Fall back, you hounds, fall back!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:BrokenCount" value="1"/>
@@ -257,7 +474,7 @@
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:HurtCount" value="1"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="Do you know how long it takes to fix bayonets on lascannons?"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="The Xenos can come to us."/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="There's something waiting for us out there..."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="There's something waiting for us out there…"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="We're just like a tank that can actually hit the target."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:IdleCount" value="4"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Shaken#0" value="We're not meant to be under fire, Sir."/>
@@ -291,7 +508,7 @@
 	<entry name="AstraMilitarum/Hydra:Hurt#0" value="We watch over the skies, you're meant to watch over us."/>
 	<entry name="AstraMilitarum/Hydra:HurtCount" value="1"/>
 	<entry name="AstraMilitarum/Hydra:Idle#0" value="Cloudwatching, sir."/>
-	<entry name="AstraMilitarum/Hydra:Idle#1" value="Jaghatai nimbus, rogal stratus, cirrosanguinius..."/>
+	<entry name="AstraMilitarum/Hydra:Idle#1" value="Jaghatai nimbus, rogal stratus, cirrosanguinius…"/>
 	<entry name="AstraMilitarum/Hydra:Idle#2" value="The stars are amazing here."/>
 	<entry name="AstraMilitarum/Hydra:Idle#3" value="This planet has the most amazing sunsets. Sir."/>
 	<entry name="AstraMilitarum/Hydra:IdleCount" value="4"/>
@@ -319,7 +536,7 @@
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Strongpoint reporting Ork presence."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Strongpoint reporting... Emperor preserve us... enemy Adeptus Astartes."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Strongpoint reporting… Emperor preserve us… enemy Adeptus Astartes."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/Enslaver#0" value="Strongpoint reporting Xenos—Enslavers, sir."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/EnslaverCount" value="1"/>
@@ -354,7 +571,7 @@
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Prepared to self-destruct—Orks love to borrow Leman Russ tanks."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="This cannon is designed to make Marines weep. "/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="This cannon is designed to make Marines weep."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/Enslaver#0" value="Enemy Xenos—keep them at range."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/EnslaverCount" value="1"/>
@@ -371,7 +588,7 @@
 	<entry name="AstraMilitarum/LemanRussBattleTank:VictoryCount" value="1"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeed#0" value="Bio-wire, the only thing more common than the Leman Russ."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="It is always welcome to see loyal Astartes... if surprising."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="It is always welcome to see loyal Astartes… if surprising."/>
 	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ah, a comrade in arms."/>
 	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
@@ -385,7 +602,7 @@
 	<entry name="AstraMilitarum/LordCommissar:CoverCount" value="1"/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarum#0" value="Traitors! Filth! YOU SHALL FACE THE EMPEROR'S JUSTICE!"/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="Tin filth. Let's melt them down for more bullets. "/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="Tin filth. Let's melt them down for more bullets."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Orks#0" value="Greenskin thugs. Imperial rigour should make swift work of them."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:OrksCount" value="1"/>
@@ -400,7 +617,7 @@
 	<entry name="AstraMilitarum/LordCommissar:Idle#2" value="Rations are halved. That's why I look a little Gaunt."/>
 	<entry name="AstraMilitarum/LordCommissar:Idle#3" value="What would Cain do?"/>
 	<entry name="AstraMilitarum/LordCommissar:Idle#4" value="Adjutant! Clean this again!"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="Do your duty in the name of- Oh, I always forget this bit. "/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="Do your duty in the name of- Oh, I always forget this bit."/>
 	<entry name="AstraMilitarum/LordCommissar:IdleCount" value="6"/>
 	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="A spiritu dominatus, Domine, libra nos."/>
 	<entry name="AstraMilitarum/LordCommissar:ShakenCount" value="1"/>
@@ -423,7 +640,7 @@
 	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
 	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="If we was flying any lower, why we'd need bells on this thing."/>
 	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="We got three engines out, we got more holes in us than a trader's grox, the vox-caster is gone and we're leaking fuel..."/>
+	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="We got three engines out, we got more holes in us than a trader's grox, the vox-caster is gone and we're leaking fuel…"/>
 	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
 	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="I ain't much of a hand at makin' speeches"/>
 	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="I swear, Carpenter, these bombs talks back."/>
@@ -434,13 +651,13 @@
 	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="What's the nearest target opportunity?"/>
 	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="I sense... great good from these."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="I sense… great good from these."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="A mind twisted to absolutism... fascinating."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="A mind twisted to absolutism… fascinating."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Artefact#0" value="Old bones built these little toys."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="Your minds will burn..."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="Your minds will burn…"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Attack#1" value="I feel the Emperor's eyes on me."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Attack#2" value="I burn you in His name."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AttackCount" value="3"/>
@@ -454,14 +671,14 @@
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Orks#0" value="A swell of-, such fierce loving emotion."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="Such steely surety... on the surface."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="Such steely surety… on the surface."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/Enslaver#0" value="I feel its hunger, its desire for the fecundity of our mind"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/EnslaverCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Hurt#0" value="It is mere flesh."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:HurtCount" value="1"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="Even through these storms, I still glimpse His light."/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="I know what you're thinking..."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="I know what you're thinking…"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="Idle work for idle minds"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="Better to die here than on the Black Ships."/>
@@ -490,7 +707,7 @@
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:OrksCount" value="1"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarines#0" value="Ah, what? We're fighting them? Are we the baddies then?"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/Enslaver#0" value="Uh... what on Terra is that?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/Enslaver#0" value="Uh… what on Terra is that?"/>
 	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/EnslaverCount" value="1"/>
 	<entry name="AstraMilitarum/ScoutSentinel:Hurt#0" value="Huh, someone cut me a new skylight."/>
 	<entry name="AstraMilitarum/ScoutSentinel:HurtCount" value="1"/>
@@ -507,12 +724,12 @@
 	<entry name="AstraMilitarum/ScoutSentinel:WireWeedCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarines#0" value="If they don't have land raiders, I'm out."/>
 	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/Baneblade#0" value="Ohhhh... such a thing of beauty."/>
+	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/Baneblade#0" value="Ohhhh… such a thing of beauty."/>
 	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:Artefact#0" value="If it's not enemy armour, I'm not interested."/>
 	<entry name="AstraMilitarum/TankCommander:ArtefactCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:Attack#0" value="Boom! Hahaha!"/>
-	<entry name="AstraMilitarum/TankCommander:Attack#1" value="Drive me closer! You know why..."/>
+	<entry name="AstraMilitarum/TankCommander:Attack#1" value="Drive me closer! You know why…"/>
 	<entry name="AstraMilitarum/TankCommander:Attack#2" value="Fire the gun! And the other one! Fire everything!"/>
 	<entry name="AstraMilitarum/TankCommander:Attack#3" value="Fire! Hahaha!"/>
 	<entry name="AstraMilitarum/TankCommander:AttackCount" value="4"/>
@@ -520,7 +737,7 @@
 	<entry name="AstraMilitarum/TankCommander:BrokenCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:Cover#0" value="An ambuscade, I like it."/>
 	<entry name="AstraMilitarum/TankCommander:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarum#0" value="Traitors! Heretics... do they have any tanks?"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarum#0" value="Traitors! Heretics… do they have any tanks?"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarumCount" value="1"/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Necrons#0" value="Monoliths, now there's a challenge."/>
 	<entry name="AstraMilitarum/TankCommander:EnemyFaction:NecronsCount" value="1"/>
@@ -547,7 +764,7 @@
 	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:Artefact#0" value="Dismantling tempting."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/TechpriestEnginseer:Attack#0" value="In combat. "/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Attack#0" value="In combat."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:AttackCount" value="1"/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:Broken#0" value="Flesh is weak, must retreat."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer:BrokenCount" value="1"/>
@@ -635,9 +852,9 @@
 	<entry name="AstraMilitarum/Valkyrie:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/Valkyrie:Victory#0" value="Enemy down, extraction please."/>
 	<entry name="AstraMilitarum/Valkyrie:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarines#0" value="We feel... reassured."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarines#0" value="We feel… reassured."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsyker#0" value="Our brother from the Black Ships..."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsyker#0" value="Our brother from the Black Ships…"/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsykerCount" value="1"/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:Artefact#0" value="Unholy of holies."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:ArtefactCount" value="1"/>
@@ -654,9 +871,9 @@
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Necrons#0" value="Nothing, there is nothing there."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Orks#0" value="Another collective will... alien, though."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Orks#0" value="Another collective will… alien, though."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarines#0" value="The Emperor's own misbegotten sons..."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarines#0" value="The Emperor's own misbegotten sons…"/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/Psychneuein#0" value="The avatars of fecundity, waiting to birth more horrors."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
@@ -682,7 +899,7 @@
 	<entry name="Necrons/CanoptekScarab:Idle#0" value="Maintenance protocol."/>
 	<entry name="Necrons/CanoptekScarab:Idle#1" value="Minimising power consumption."/>
 	<entry name="Necrons/CanoptekScarab:Idle#2" value="Tending the damaged"/>
-	<entry name="Necrons/CanoptekScarab:Idle#3" value="We have waited aeons. We will wait... more."/>
+	<entry name="Necrons/CanoptekScarab:Idle#3" value="We have waited aeons. We will wait… more."/>
 	<entry name="Necrons/CanoptekScarab:IdleCount" value="4"/>
 	<entry name="Necrons/CanoptekScarab:Shaken#0" value="Evasion advised."/>
 	<entry name="Necrons/CanoptekScarab:ShakenCount" value="1"/>
@@ -697,7 +914,7 @@
 	<entry name="Necrons/Cryptek:BrokenCount" value="1"/>
 	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarum#0" value="Slave races of the Old enemy."/>
 	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="Another court? Perhaps they need my services..."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="Another court? Perhaps they need my services…"/>
 	<entry name="Necrons/Cryptek:EnemyFaction:NecronsCount" value="1"/>
 	<entry name="Necrons/Cryptek:EnemyFaction:Orks#0" value="Flesh, weaponised. Admirable."/>
 	<entry name="Necrons/Cryptek:EnemyFaction:OrksCount" value="1"/>
@@ -706,7 +923,7 @@
 	<entry name="Necrons/Cryptek:Hurt#0" value="Fascinating, they've managed to injure me."/>
 	<entry name="Necrons/Cryptek:HurtCount" value="1"/>
 	<entry name="Necrons/Cryptek:Idle#0" value="Dissection or vivisection? Ah, an eternal question."/>
-	<entry name="Necrons/Cryptek:Idle#1" value="Do you remember... dreams? I do."/>
+	<entry name="Necrons/Cryptek:Idle#1" value="Do you remember… dreams? I do."/>
 	<entry name="Necrons/Cryptek:Idle#2" value="I will split atoms until I am needed."/>
 	<entry name="Necrons/Cryptek:Idle#3" value="So much to learn, yet here I sit."/>
 	<entry name="Necrons/Cryptek:IdleCount" value="4"/>
@@ -719,7 +936,7 @@
 	<entry name="Necrons/DoomScythe:AttackCount" value="1"/>
 	<entry name="Necrons/DoomScythe:Broken#0" value="We must depart."/>
 	<entry name="Necrons/DoomScythe:BrokenCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Hurt#0" value="They... dare?"/>
+	<entry name="Necrons/DoomScythe:Hurt#0" value="They… dare?"/>
 	<entry name="Necrons/DoomScythe:HurtCount" value="1"/>
 	<entry name="Necrons/DoomScythe:Idle#0" value="Circling."/>
 	<entry name="Necrons/DoomScythe:Idle#1" value="Manouevres."/>
@@ -784,7 +1001,7 @@
 	<entry name="Necrons/Lord:VictoryCount" value="1"/>
 	<entry name="Necrons/Monolith:Attack#0" value="Particle Whip deployed."/>
 	<entry name="Necrons/Monolith:AttackCount" value="1"/>
-	<entry name="Necrons/Monolith:Broken#0" value="Retreating... slowly."/>
+	<entry name="Necrons/Monolith:Broken#0" value="Retreating… slowly."/>
 	<entry name="Necrons/Monolith:BrokenCount" value="1"/>
 	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarum#0" value="Humans sighted."/>
 	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarumCount" value="1"/>
@@ -819,17 +1036,17 @@
 	<entry name="Necrons/TesseractVault:EnemyFaction:OrksCount" value="1"/>
 	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarines#0" value="Their lives are mine."/>
 	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Hurt#0" value="My prison weakens..."/>
+	<entry name="Necrons/TesseractVault:Hurt#0" value="My prison weakens…"/>
 	<entry name="Necrons/TesseractVault:HurtCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Idle#0" value="Sentinels, scarabs, leeches... all this for me?"/>
-	<entry name="Necrons/TesseractVault:Idle#1" value="Oh, set me free? "/>
+	<entry name="Necrons/TesseractVault:Idle#0" value="Sentinels, scarabs, leeches… all this for me?"/>
+	<entry name="Necrons/TesseractVault:Idle#1" value="Oh, set me free?"/>
 	<entry name="Necrons/TesseractVault:Idle#2" value="This prison CANNOT HOLD ME."/>
-	<entry name="Necrons/TesseractVault:Idle#3" value="I am so... diminished. I was a star god!"/>
+	<entry name="Necrons/TesseractVault:Idle#3" value="I am so… diminished. I was a star god!"/>
 	<entry name="Necrons/TesseractVault:Idle#4" value="I am a star god. Let me blow your mind."/>
 	<entry name="Necrons/TesseractVault:IdleCount" value="5"/>
-	<entry name="Necrons/TesseractVault:Shaken#0" value="Yes, destroy my prison..."/>
+	<entry name="Necrons/TesseractVault:Shaken#0" value="Yes, destroy my prison…"/>
 	<entry name="Necrons/TesseractVault:ShakenCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Victory#0" value="Not enough. Not until all life is mine. "/>
+	<entry name="Necrons/TesseractVault:Victory#0" value="Not enough. Not until all life is mine."/>
 	<entry name="Necrons/TesseractVault:VictoryCount" value="1"/>
 	<entry name="Necrons/TombBlade:Attack#0" value="Assault at speed."/>
 	<entry name="Necrons/TombBlade:AttackCount" value="1"/>
@@ -839,17 +1056,17 @@
 	<entry name="Necrons/TombBlade:HurtCount" value="1"/>
 	<entry name="Necrons/TombBlade:Idle#0" value="Never still."/>
 	<entry name="Necrons/TombBlade:Idle#1" value="Programmming attack patterns."/>
-	<entry name="Necrons/TombBlade:Idle#2" value="Space... we remember."/>
+	<entry name="Necrons/TombBlade:Idle#2" value="Space… we remember."/>
 	<entry name="Necrons/TombBlade:Idle#3" value="Testing dimensional repulsors."/>
 	<entry name="Necrons/TombBlade:IdleCount" value="4"/>
 	<entry name="Necrons/TombBlade:Shaken#0" value="Struck. Improbably, we have been struck."/>
 	<entry name="Necrons/TombBlade:ShakenCount" value="1"/>
-	<entry name="Necrons/TombBlade:Victory#0" value="Enemy... disintegrated."/>
+	<entry name="Necrons/TombBlade:Victory#0" value="Enemy… disintegrated."/>
 	<entry name="Necrons/TombBlade:VictoryCount" value="1"/>
 	<entry name="Necrons/TranscendentCtan" value="Necrons/TesseractVault"/>
-	<entry name="Necrons/TriarchPraetorian:Attack#0" value="The first law is... do not stand against the Triarch."/>
+	<entry name="Necrons/TriarchPraetorian:Attack#0" value="The first law is… do not stand against the Triarch."/>
 	<entry name="Necrons/TriarchPraetorian:AttackCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Broken#0" value="The last law is... leave to fight again."/>
+	<entry name="Necrons/TriarchPraetorian:Broken#0" value="The last law is… leave to fight again."/>
 	<entry name="Necrons/TriarchPraetorian:BrokenCount" value="1"/>
 	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarum#0" value="Ah, primitives. We were their gods once."/>
 	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarumCount" value="1"/>
@@ -864,10 +1081,10 @@
 	<entry name="Necrons/TriarchPraetorian:Idle#0" value="Would you know the codes of law?"/>
 	<entry name="Necrons/TriarchPraetorian:Idle#1" value="The first code is of honour."/>
 	<entry name="Necrons/TriarchPraetorian:Idle#2" value="The second code is of pride."/>
-	<entry name="Necrons/TriarchPraetorian:Idle#3" value="The third code... shall I share this data?"/>
-	<entry name="Necrons/TriarchPraetorian:Idle#4" value="The fifty-seventh code... obey all codes."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#3" value="The third code… shall I share this data?"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#4" value="The fifty-seventh code… obey all codes."/>
 	<entry name="Necrons/TriarchPraetorian:IdleCount" value="5"/>
-	<entry name="Necrons/TriarchPraetorian:Shaken#0" value="Resurrection is so... loss-laden."/>
+	<entry name="Necrons/TriarchPraetorian:Shaken#0" value="Resurrection is so… loss-laden."/>
 	<entry name="Necrons/TriarchPraetorian:ShakenCount" value="1"/>
 	<entry name="Necrons/TriarchPraetorian:Victory#0" value="We take no pleasure in this."/>
 	<entry name="Necrons/TriarchPraetorian:VictoryCount" value="1"/>
@@ -877,11 +1094,11 @@
 	<entry name="Necrons/Warrior:Attack#0" value="Does it hurt, to have your nerves stripped, atom by atom?"/>
 	<entry name="Necrons/Warrior:Attack#1" value="Engaging."/>
 	<entry name="Necrons/Warrior:Attack#2" value="History shall forget them."/>
-	<entry name="Necrons/Warrior:Attack#3" value="Resistance is... annoying."/>
+	<entry name="Necrons/Warrior:Attack#3" value="Resistance is… annoying."/>
 	<entry name="Necrons/Warrior:AttackCount" value="4"/>
 	<entry name="Necrons/Warrior:Broken#0" value="Damage simulations running at 99%."/>
 	<entry name="Necrons/Warrior:Broken#1" value="Our unit is dispersed. We retreat."/>
-	<entry name="Necrons/Warrior:Broken#2" value="Recall protocol initiated. "/>
+	<entry name="Necrons/Warrior:Broken#2" value="Recall protocol initiated."/>
 	<entry name="Necrons/Warrior:Broken#3" value="The tomb calls and we obey."/>
 	<entry name="Necrons/Warrior:Broken#4" value="Your orders are impossible, my Lord."/>
 	<entry name="Necrons/Warrior:BrokenCount" value="5"/>
@@ -905,15 +1122,15 @@
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="Sensors failing! Unknown unknown unknown."/>
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Psychneuein#0" value="Megafauna. A threat only to organic races."/>
 	<entry name="Necrons/Warrior:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="Necrons/Warrior:Hurt#0" value="Damage exceeds expectations... recall protocols?"/>
+	<entry name="Necrons/Warrior:Hurt#0" value="Damage exceeds expectations… recall protocols?"/>
 	<entry name="Necrons/Warrior:HurtCount" value="1"/>
 	<entry name="Necrons/Warrior:Idle#0" value="All systems are operational."/>
-	<entry name="Necrons/Warrior:Idle#1" value="For all time... curse the Deceiver."/>
+	<entry name="Necrons/Warrior:Idle#1" value="For all time… curse the Deceiver."/>
 	<entry name="Necrons/Warrior:Idle#2" value="Idle protocol initiated."/>
 	<entry name="Necrons/Warrior:Idle#3" value="Powering down."/>
-	<entry name="Necrons/Warrior:Idle#4" value="This metal body... alien."/>
+	<entry name="Necrons/Warrior:Idle#4" value="This metal body… alien."/>
 	<entry name="Necrons/Warrior:Idle#5" value="The machine is strong, the flesh is gone."/>
-	<entry name="Necrons/Warrior:Idle#6" value="We have waited millenia... we will wait millenia more."/>
+	<entry name="Necrons/Warrior:Idle#6" value="We have waited millenia… we will wait millenia more."/>
 	<entry name="Necrons/Warrior:IdleCount" value="7"/>
 	<entry name="Necrons/Warrior:QuestStory0#0" value="Watching for signs of the Olds Ones."/>
 	<entry name="Necrons/Warrior:QuestStory0Count" value="1"/>
@@ -921,15 +1138,15 @@
 	<entry name="Necrons/Warrior:QuestStory1Count" value="1"/>
 	<entry name="Necrons/Warrior:QuestStory2#0" value="The mindless should be pitied the C'tan's curse."/>
 	<entry name="Necrons/Warrior:QuestStory2Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory3#0" value="Chase down these Old One baubles? Yes... my lord."/>
+	<entry name="Necrons/Warrior:QuestStory3#0" value="Chase down these Old One baubles? Yes… my lord."/>
 	<entry name="Necrons/Warrior:QuestStory3Count" value="1"/>
 	<entry name="Necrons/Warrior:QuestStory4#0" value="Where are the Praetorians?"/>
 	<entry name="Necrons/Warrior:QuestStory4Count" value="1"/>
 	<entry name="Necrons/Warrior:QuestStory5#0" value="Mephet'ran? Messenger! Deceiver! Stealer of souls!"/>
 	<entry name="Necrons/Warrior:QuestStory5Count" value="1"/>
 	<entry name="Necrons/Warrior:Shaken#0" value="A lesser race would flee."/>
-	<entry name="Necrons/Warrior:Shaken#1" value="The Triarchs did not brief us on this. "/>
-	<entry name="Necrons/Warrior:Shaken#2" value="This is not possible. We are... losing?"/>
+	<entry name="Necrons/Warrior:Shaken#1" value="The Triarchs did not brief us on this."/>
+	<entry name="Necrons/Warrior:Shaken#2" value="This is not possible. We are… losing?"/>
 	<entry name="Necrons/Warrior:Shaken#3" value="We are beyond fear."/>
 	<entry name="Necrons/Warrior:ShakenCount" value="4"/>
 	<entry name="Necrons/Warrior:Victory#0" value="Acceptable losses. Their losses."/>
@@ -939,7 +1156,7 @@
 	<entry name="Necrons/Warrior:Victory#4" value="My Lord, the enemy proves weak."/>
 	<entry name="Necrons/Warrior:Victory#5" value="The Old Ones spawned such fragile flesh."/>
 	<entry name="Necrons/Warrior:Victory#6" value="They shall know the Necrons and know fear."/>
-	<entry name="Necrons/Warrior:Victory#7" value="To win so easily is... unsatisfying."/>
+	<entry name="Necrons/Warrior:Victory#7" value="To win so easily is… unsatisfying."/>
 	<entry name="Necrons/Warrior:VictoryCount" value="8"/>
 	<entry name="Neutral/Ambull:Attack#0" value="Roekoe!"/>
 	<entry name="Neutral/Ambull:AttackCount" value="1"/>
@@ -956,7 +1173,7 @@
 	<entry name="Neutral/Ambull:ShakenCount" value="1"/>
 	<entry name="Neutral/Ambull:Victory#0" value="Uuu"/>
 	<entry name="Neutral/Ambull:VictoryCount" value="1"/>
-	<entry name="Neutral/CatachanDevil:Attack#0" value="KYKYLIKY..."/>
+	<entry name="Neutral/CatachanDevil:Attack#0" value="KYKYLIKY…"/>
 	<entry name="Neutral/CatachanDevil:AttackCount" value="1"/>
 	<entry name="Neutral/CatachanDevil:Broken#0" value="KUKELEKU"/>
 	<entry name="Neutral/CatachanDevil:BrokenCount" value="1"/>
@@ -971,7 +1188,7 @@
 	<entry name="Neutral/CatachanDevil:ShakenCount" value="1"/>
 	<entry name="Neutral/CatachanDevil:Victory#0" value="Kckeliku!"/>
 	<entry name="Neutral/CatachanDevil:VictoryCount" value="1"/>
-	<entry name="Neutral/Enslaver:Attack#0" value="Heiiii..."/>
+	<entry name="Neutral/Enslaver:Attack#0" value="Heiiii…"/>
 	<entry name="Neutral/Enslaver:AttackCount" value="1"/>
 	<entry name="Neutral/Enslaver:Broken#0" value="Oummm"/>
 	<entry name="Neutral/Enslaver:BrokenCount" value="1"/>
@@ -1027,7 +1244,7 @@
 	<entry name="Neutral/LordOfSkulls:Idle#1" value="KILL KILL KILL"/>
 	<entry name="Neutral/LordOfSkulls:Idle#2" value="SKULLS SPINES SCREAMS"/>
 	<entry name="Neutral/LordOfSkulls:Idle#3" value="DROWN IN BLOOD"/>
-	<entry name="Neutral/LordOfSkulls:Idle#4" value="MUST... KILL"/>
+	<entry name="Neutral/LordOfSkulls:Idle#4" value="MUST… KILL"/>
 	<entry name="Neutral/LordOfSkulls:IdleCount" value="5"/>
 	<entry name="Neutral/LordOfSkulls:Shaken#0" value="I KNOW NO FEAR!"/>
 	<entry name="Neutral/LordOfSkulls:ShakenCount" value="1"/>
@@ -1054,11 +1271,11 @@
 	<entry name="Neutral/TechpriestBetrayer:BrokenCount" value="1"/>
 	<entry name="Neutral/TechpriestBetrayer:Hurt#0" value="Operating functionality impaired."/>
 	<entry name="Neutral/TechpriestBetrayer:HurtCount" value="1"/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#0" value="Testing..."/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#1" value="Turning it off... turning it on."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#0" value="Testing…"/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#1" value="Turning it off… turning it on."/>
 	<entry name="Neutral/TechpriestBetrayer:Idle#2" value="Unguents applied."/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#3" value="Serf to Servoskull... complete."/>
-	<entry name="Neutral/TechpriestBetrayer:Idle#4" value="Artefact acquired..."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#3" value="Serf to Servoskull… complete."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#4" value="Artefact acquired…"/>
 	<entry name="Neutral/TechpriestBetrayer:IdleCount" value="5"/>
 	<entry name="Neutral/TechpriestBetrayer:Shaken#0" value="I must survive!"/>
 	<entry name="Neutral/TechpriestBetrayer:Shaken#1" value="Mars must be informed."/>
@@ -1120,21 +1337,21 @@
 	<entry name="Orks/Boy:AttackCount" value="5"/>
 	<entry name="Orks/Boy:Broken#0" value="AAAWGH! I'm off."/>
 	<entry name="Orks/Boy:Broken#1" value="Ev'ry Ork fer 'imself!"/>
-	<entry name="Orks/Boy:Broken#2" value="Left a squig cooking in my digs... back soon!"/>
-	<entry name="Orks/Boy:Broken#3" value="Naw... naw, naw, naw."/>
+	<entry name="Orks/Boy:Broken#2" value="Left a squig cooking in my digs… back soon!"/>
+	<entry name="Orks/Boy:Broken#3" value="Naw… naw, naw, naw."/>
 	<entry name="Orks/Boy:Broken#4" value="RunrunRUN!"/>
 	<entry name="Orks/Boy:BrokenCount" value="5"/>
-	<entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="Oomies! Dey got great fings to nick. "/>
+	<entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="Oomies! Dey got great fings to nick."/>
 	<entry name="Orks/Boy:EnemyFaction:AstraMilitarumCount" value="1"/>
 	<entry name="Orks/Boy:EnemyFaction:Necrons#0" value="Tin fings. Zogging fings don't stay dead!"/>
 	<entry name="Orks/Boy:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Orks/Boy:EnemyFaction:Orks#0" value="Aw, another WAAAGH! Now we know we's gonna 'ave a great fight. "/>
+	<entry name="Orks/Boy:EnemyFaction:Orks#0" value="Aw, another WAAAGH! Now we know we's gonna 'ave a great fight."/>
 	<entry name="Orks/Boy:EnemyFaction:OrksCount" value="1"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevil#0" value="'Ow many legs? Dere's good eatin on dat."/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/Enslaver#0" value="Oh, me noggin. Keep away!"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="Yawn! Where's the fun in fighting tinboyz? "/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="Yawn! Where's the fun in fighting tinboyz?"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Oh, da smelly oomies are 'ere? We's gonna 'ave a great fight!"/>
 	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
@@ -1149,8 +1366,8 @@
 	<entry name="Orks/Boy:Idle#1" value="More barrels means more dakka. More dakka means more fun!"/>
 	<entry name="Orks/Boy:Idle#2" value="Nah, mate, this is my squig. Get yer own!"/>
 	<entry name="Orks/Boy:Idle#3" value="Oi boss, wot's going on?"/>
-	<entry name="Orks/Boy:Idle#4" value="One green squig, sitting on da wall. Two..."/>
-	<entry name="Orks/Boy:Idle#5" value="This choppa just isn't big enuff! "/>
+	<entry name="Orks/Boy:Idle#4" value="One green squig, sitting on da wall. Two…"/>
+	<entry name="Orks/Boy:Idle#5" value="This choppa just isn't big enuff!"/>
 	<entry name="Orks/Boy:Idle#6" value="Where's der fite at?"/>
 	<entry name="Orks/Boy:Idle#7" value="Who do yer want me to 'it?"/>
 	<entry name="Orks/Boy:Idle#8" value="Wot is it?"/>
@@ -1170,7 +1387,7 @@
 	<entry name="Orks/Boy:Shaken#0" value="Go 'it 'im yerself, Boss."/>
 	<entry name="Orks/Boy:Shaken#1" value="I need sum dat Fungus beer courage."/>
 	<entry name="Orks/Boy:Shaken#2" value="I'm not Makari, I wanna live! I got fings to fite!"/>
-	<entry name="Orks/Boy:Shaken#3" value="That ain't Orky. "/>
+	<entry name="Orks/Boy:Shaken#3" value="That ain't Orky."/>
 	<entry name="Orks/Boy:ShakenCount" value="4"/>
 	<entry name="Orks/Boy:Victory#0" value="'Ow d'yer like 'ot metal death?"/>
 	<entry name="Orks/Boy:Victory#1" value="Da fing wiv not-Orks is that dey break so easily."/>
@@ -1188,9 +1405,9 @@
 	<entry name="Orks/BurnaBommer:BrokenCount" value="1"/>
 	<entry name="Orks/BurnaBommer:Hurt#0" value="Big holez make it more fly-y, yeah?"/>
 	<entry name="Orks/BurnaBommer:HurtCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Idle#0" value="Going round and round and round..."/>
-	<entry name="Orks/BurnaBommer:Idle#1" value="Going up up up and down down down..."/>
-	<entry name="Orks/BurnaBommer:Idle#2" value="Dose magnificent meks in dere flyin machines..."/>
+	<entry name="Orks/BurnaBommer:Idle#0" value="Going round and round and round…"/>
+	<entry name="Orks/BurnaBommer:Idle#1" value="Going up up up and down down down…"/>
+	<entry name="Orks/BurnaBommer:Idle#2" value="Dose magnificent meks in dere flyin machines…"/>
 	<entry name="Orks/BurnaBommer:Idle#3" value="To burn or to bomb, dat iz da question?"/>
 	<entry name="Orks/BurnaBommer:IdleCount" value="4"/>
 	<entry name="Orks/BurnaBommer:Shaken#0" value="Zog, giv uz a chance!"/>
@@ -1200,7 +1417,7 @@
 	<entry name="Orks/Dakkajet" value="Orks/BurnaBommer"/>
 	<entry name="Orks/Deffkopta:Attack#0" value="Now dis iz a Choppa!"/>
 	<entry name="Orks/Deffkopta:AttackCount" value="1"/>
-	<entry name="Orks/Deffkopta:Broken#0" value="Oh, I'm geddin dizzy..."/>
+	<entry name="Orks/Deffkopta:Broken#0" value="Oh, I'm geddin dizzy…"/>
 	<entry name="Orks/Deffkopta:BrokenCount" value="1"/>
 	<entry name="Orks/Deffkopta:Hurt#0" value="Oi, get up 'ere so I can 'it you!"/>
 	<entry name="Orks/Deffkopta:HurtCount" value="1"/>
@@ -1211,7 +1428,7 @@
 	<entry name="Orks/Deffkopta:IdleCount" value="4"/>
 	<entry name="Orks/Deffkopta:Shaken#0" value="Ow many stikz does dis need to stay up? Uh."/>
 	<entry name="Orks/Deffkopta:ShakenCount" value="1"/>
-	<entry name="Orks/Deffkopta:Victory#0" value="Someday this war's gonna end..."/>
+	<entry name="Orks/Deffkopta:Victory#0" value="Someday this war's gonna end…"/>
 	<entry name="Orks/Deffkopta:VictoryCount" value="1"/>
 	<entry name="Orks/FlashGitz" value="Orks/Boy"/>
 	<entry name="Orks/GargantuanSquiggoth:Attack#0" value="That way squiggie, whoah!"/>
@@ -1268,8 +1485,8 @@
 	<entry name="Orks/Mek:BrokenCount" value="1"/>
 	<entry name="Orks/Mek:Hurt#0" value="Me kustom fieldz are broke!"/>
 	<entry name="Orks/Mek:HurtCount" value="1"/>
-	<entry name="Orks/Mek:Idle#0" value="I fink I could make sumfink special..."/>
-	<entry name="Orks/Mek:Idle#1" value="'Ere, pass the wotsit. Nah, 'old dis whilst I 'it it..."/>
+	<entry name="Orks/Mek:Idle#0" value="I fink I could make sumfink special…"/>
+	<entry name="Orks/Mek:Idle#1" value="'Ere, pass the wotsit. Nah, 'old dis whilst I 'it it…"/>
 	<entry name="Orks/Mek:Idle#2" value="Imagine a shoota with FIVE barrels. Yeahhhh."/>
 	<entry name="Orks/Mek:Idle#3" value="Hmm. Killa Kan ain't workin. Need bigger Grot, smaller nails."/>
 	<entry name="Orks/Mek:IdleCount" value="4"/>
@@ -1305,7 +1522,7 @@
 	<entry name="Orks/Painboy:IdleCount" value="4"/>
 	<entry name="Orks/Painboy:Shaken#0" value="'ere, dats not rite."/>
 	<entry name="Orks/Painboy:ShakenCount" value="1"/>
-	<entry name="Orks/Painboy:Victory#0" value="Look at all dose bitz... luverly."/>
+	<entry name="Orks/Painboy:Victory#0" value="Look at all dose bitz… luverly."/>
 	<entry name="Orks/Painboy:VictoryCount" value="1"/>
 	<entry name="Orks/Tankbusta" value="Orks/Boy"/>
 	<entry name="Orks/Warboss:Attack#0" value="Oo's da best Ork. WAAAGH! ME."/>
@@ -1325,7 +1542,7 @@
 	<entry name="Orks/Warboss:Victory#0" value="Course we won, I was 'ere!"/>
 	<entry name="Orks/Warboss:VictoryCount" value="1"/>
 	<entry name="Orks/Warbuggy" value="Orks/Battlewagon"/>
-	<entry name="Orks/Weirdboy:Attack#0" value="Owwwwwwww... me 'ed."/>
+	<entry name="Orks/Weirdboy:Attack#0" value="Owwwwwwww… me 'ed."/>
 	<entry name="Orks/Weirdboy:AttackCount" value="1"/>
 	<entry name="Orks/Weirdboy:Broken#0" value="Get me away from 'ere!"/>
 	<entry name="Orks/Weirdboy:BrokenCount" value="1"/>
@@ -1357,7 +1574,7 @@
 	<entry name="SpaceMarines/Apothecary:Idle#0" value="Apothecary on call."/>
 	<entry name="SpaceMarines/Apothecary:Idle#1" value="Docs don't need downtime."/>
 	<entry name="SpaceMarines/Apothecary:Idle#2" value="Reductor practise."/>
-	<entry name="SpaceMarines/Apothecary:Idle#3" value="The progenoid's connected to the Betchers and the Sus-an..."/>
+	<entry name="SpaceMarines/Apothecary:Idle#3" value="The progenoid's connected to the Betchers and the Sus-an…"/>
 	<entry name="SpaceMarines/Apothecary:IdleCount" value="4"/>
 	<entry name="SpaceMarines/Apothecary:Shaken#0" value="Good news! I'm not dead."/>
 	<entry name="SpaceMarines/Apothecary:ShakenCount" value="1"/>
@@ -1412,17 +1629,17 @@
 	<entry name="SpaceMarines/DevastatorSpaceMarine" value="SpaceMarines/TacticalSpaceMarine"/>
 	<entry name="SpaceMarines/Dreadnought:Attack#0" value="Every kill is fresh, even now."/>
 	<entry name="SpaceMarines/Dreadnought:Attack#1" value="For the Chapter!"/>
-	<entry name="SpaceMarines/Dreadnought:Attack#2" value="Hrm... at war again."/>
-	<entry name="SpaceMarines/Dreadnought:Attack#3" value="Ten thousand years of war..."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#2" value="Hrm… at war again."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#3" value="Ten thousand years of war…"/>
 	<entry name="SpaceMarines/Dreadnought:AttackCount" value="4"/>
 	<entry name="SpaceMarines/Dreadnought:Broken#0" value="After a millennium, I know when to fall back."/>
 	<entry name="SpaceMarines/Dreadnought:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Dreadnought:Hurt#0" value="My sarcophagus... is hit."/>
+	<entry name="SpaceMarines/Dreadnought:Hurt#0" value="My sarcophagus… is hit."/>
 	<entry name="SpaceMarines/Dreadnought:Hurt#1" value="The litany of preservation, Chaplain?"/>
 	<entry name="SpaceMarines/Dreadnought:HurtCount" value="2"/>
-	<entry name="SpaceMarines/Dreadnought:Idle#0" value="A walking tomb..."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#0" value="A walking tomb…"/>
 	<entry name="SpaceMarines/Dreadnought:Idle#1" value="Is war truly eternal?"/>
-	<entry name="SpaceMarines/Dreadnought:Idle#2" value="To sleep... but to dream. There's the rub."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#2" value="To sleep… but to dream. There's the rub."/>
 	<entry name="SpaceMarines/Dreadnought:Idle#3" value="Who rouses me?"/>
 	<entry name="SpaceMarines/Dreadnought:IdleCount" value="4"/>
 	<entry name="SpaceMarines/Dreadnought:Shaken#0" value="Fear never grows old."/>
@@ -1437,7 +1654,7 @@
 	<entry name="SpaceMarines/Headquarters:AttackCount" value="4"/>
 	<entry name="SpaceMarines/Headquarters:Broken#0" value="Our Chapter will. NOT. Fall."/>
 	<entry name="SpaceMarines/Headquarters:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarum#0" value="Guard on the horizon. Hostile. "/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarum#0" value="Guard on the horizon. Hostile."/>
 	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
 	<entry name="SpaceMarines/Headquarters:EnemyFaction:Necrons#0" value="Here come the Necrons. Pick 'em off."/>
 	<entry name="SpaceMarines/Headquarters:EnemyFaction:NecronsCount" value="1"/>
@@ -1474,9 +1691,9 @@
 	<entry name="SpaceMarines/Hunter:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/LandRaider" value="SpaceMarines/Hunter"/>
 	<entry name="SpaceMarines/LandSpeeder" value="SpaceMarines/ScoutBiker"/>
-	<entry name="SpaceMarines/Librarian:Attack#0" value="Let me gaze into your future... ah. It's short."/>
-	<entry name="SpaceMarines/Librarian:Attack#1" value="I have a gift. It would be churlish not to share it..."/>
-	<entry name="SpaceMarines/Librarian:Attack#2" value="Snap go my fingers... snap go your bones."/>
+	<entry name="SpaceMarines/Librarian:Attack#0" value="Let me gaze into your future… ah. It's short."/>
+	<entry name="SpaceMarines/Librarian:Attack#1" value="I have a gift. It would be churlish not to share it…"/>
+	<entry name="SpaceMarines/Librarian:Attack#2" value="Snap go my fingers… snap go your bones."/>
 	<entry name="SpaceMarines/Librarian:AttackCount" value="3"/>
 	<entry name="SpaceMarines/Librarian:Broken#0" value="I can hear the daemon, howling in my ears."/>
 	<entry name="SpaceMarines/Librarian:BrokenCount" value="1"/>
@@ -1484,10 +1701,10 @@
 	<entry name="SpaceMarines/Librarian:HurtCount" value="1"/>
 	<entry name="SpaceMarines/Librarian:Idle#0" value="Blessed is the mind too small for doubt."/>
 	<entry name="SpaceMarines/Librarian:Idle#1" value="The warp holds no fear for me."/>
-	<entry name="SpaceMarines/Librarian:Idle#2" value="The warp storm... sometimes the pain is too much."/>
-	<entry name="SpaceMarines/Librarian:Idle#3" value="When this is over... the Librarium calls."/>
+	<entry name="SpaceMarines/Librarian:Idle#2" value="The warp storm… sometimes the pain is too much."/>
+	<entry name="SpaceMarines/Librarian:Idle#3" value="When this is over… the Librarium calls."/>
 	<entry name="SpaceMarines/Librarian:IdleCount" value="4"/>
-	<entry name="SpaceMarines/Librarian:Shaken#0" value="The lore has nothing about this..."/>
+	<entry name="SpaceMarines/Librarian:Shaken#0" value="The lore has nothing about this…"/>
 	<entry name="SpaceMarines/Librarian:ShakenCount" value="1"/>
 	<entry name="SpaceMarines/Librarian:Victory#0" value="Their failure was foreseen."/>
 	<entry name="SpaceMarines/Librarian:VictoryCount" value="1"/>
@@ -1551,29 +1768,29 @@
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Blasted puppeteers—where are the Librarians?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="Our own creations are turned against us. "/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="Our own creations are turned against us."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Foul Chaos, here, on our planet? Summon the Inquisition!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Psychneuein#0" value="Space Marines, seal your suits to prevent infestation."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#0" value="We will stand until the last Marine."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#1" value="We... will... not... fall!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#1" value="We… will… not… fall!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:HurtCount" value="2"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#0" value="Burn the heretic."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#1" value="I hunger for battle."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#2" value="Let them come... I grow impatient."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#3" value="So many Xenos... so few bolts."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#2" value="Let them come… I grow impatient."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#3" value="So many Xenos… so few bolts."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#4" value="We are the Emperor's fist."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#5" value="We fight, we prevail."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#6" value="We must not meddle with these xenos artefacts, my lord."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#7" value="What orders, my lord?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:IdleCount" value="8"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0#0" value="Low ammunition... need to make every shot count."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0#0" value="Low ammunition… need to make every shot count."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0Count" value="1"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1#0" value="The Librarian says the Guard cannot be trusted—we will do what we must."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2#0" value="The homeworld is... hollow?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2#0" value="The homeworld is… hollow?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2Count" value="1"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3#0" value="Study the Xenos? My Lord, is this in the Codex Astartes?"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3Count" value="1"/>
@@ -1581,10 +1798,10 @@
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4Count" value="1"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5#0" value="The gene-seed will survive us all—it must!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5Count" value="1"/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#0" value="...blessed is the mind too small for doubt."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#0" value="…blessed is the mind too small for doubt."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#1" value="Against this darkness, we shall prevail."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#2" value="I am an unbreakable shield, forged against the darkness."/>
-	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#3" value="I... believe in the Emperor. Credo!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#3" value="I… believe in the Emperor. Credo!"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#4" value="Whilst our enemies draw breath, we cannot afford fear."/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:ShakenCount" value="5"/>
 	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#0" value="All xenos and traitors are blights, to be cleansed from the galaxy."/>
@@ -1609,7 +1826,7 @@
 	<entry name="Tau/BuilderDrone:Hurt#0" value="Unit compromised."/>
 	<entry name="Tau/BuilderDrone:HurtCount" value="1"/>
 	<entry name="Tau/BuilderDrone:Idle#0" value="Powering down"/>
-	<entry name="Tau/BuilderDrone:Idle#1" value="Assessing schematics..."/>
+	<entry name="Tau/BuilderDrone:Idle#1" value="Assessing schematics…"/>
 	<entry name="Tau/BuilderDrone:Idle#2" value="Serving the Earth Caste and the Greater Good."/>
 	<entry name="Tau/BuilderDrone:IdleCount" value="3"/>
 	<entry name="Tau/BuilderDrone:Shaken#0" value="Construction unit under fire."/>
@@ -1619,7 +1836,7 @@
 	<entry name="Tau/CadreFireblade:Attack#0" value="Gunline, attack!"/>
 	<entry name="Tau/CadreFireblade:Attack#1" value="Fire Warriors, show them The Good."/>
 	<entry name="Tau/CadreFireblade:Attack#2" value="Feel the power of pulse technology!"/>
-	<entry name="Tau/CadreFireblade:Attack#3" value="Wait until you see the whites of their eyes... through your scope."/>
+	<entry name="Tau/CadreFireblade:Attack#3" value="Wait until you see the whites of their eyes… through your scope."/>
 	<entry name="Tau/CadreFireblade:AttackCount" value="4"/>
 	<entry name="Tau/CadreFireblade:Broken#0" value="What would Puretide think..?"/>
 	<entry name="Tau/CadreFireblade:BrokenCount" value="1"/>
@@ -1629,7 +1846,7 @@
 	<entry name="Tau/CadreFireblade:Idle#1" value="We lead from the front."/>
 	<entry name="Tau/CadreFireblade:Idle#2" value="A good leader keeps his feet on the ground."/>
 	<entry name="Tau/CadreFireblade:IdleCount" value="3"/>
-	<entry name="Tau/CadreFireblade:Shaken#0" value="This is not the way..."/>
+	<entry name="Tau/CadreFireblade:Shaken#0" value="This is not the way…"/>
 	<entry name="Tau/CadreFireblade:ShakenCount" value="1"/>
 	<entry name="Tau/CadreFireblade:Victory#0" value="Tactically wise."/>
 	<entry name="Tau/CadreFireblade:VictoryCount" value="1"/>
@@ -1637,7 +1854,7 @@
 	<entry name="Tau/Commander:Attack#1" value="We will teach you the way."/>
 	<entry name="Tau/Commander:Attack#2" value="Join us!"/>
 	<entry name="Tau/Commander:AttackCount" value="3"/>
-	<entry name="Tau/Commander:Broken#0" value="Retreat is the only option..."/>
+	<entry name="Tau/Commander:Broken#0" value="Retreat is the only option…"/>
 	<entry name="Tau/Commander:BrokenCount" value="1"/>
 	<entry name="Tau/Commander:Hurt#0" value="Battlesuit compromised."/>
 	<entry name="Tau/Commander:HurtCount" value="1"/>
@@ -1654,7 +1871,7 @@
 	<entry name="Tau/CrisisBattlesuit:Attack#2" value="Enabling countermeasures."/>
 	<entry name="Tau/CrisisBattlesuit:Attack#3" value="You can count on us!"/>
 	<entry name="Tau/CrisisBattlesuit:AttackCount" value="4"/>
-	<entry name="Tau/CrisisBattlesuit:Broken#0" value="Elite... retreat."/>
+	<entry name="Tau/CrisisBattlesuit:Broken#0" value="Elite… retreat."/>
 	<entry name="Tau/CrisisBattlesuit:BrokenCount" value="1"/>
 	<entry name="Tau/CrisisBattlesuit:Hurt#0" value="We're losing systems!"/>
 	<entry name="Tau/CrisisBattlesuit:HurtCount" value="1"/>
@@ -1666,7 +1883,7 @@
 	<entry name="Tau/CrisisBattlesuit:ShakenCount" value="1"/>
 	<entry name="Tau/CrisisBattlesuit:Victory#0" value="That's why you send Battlesuits."/>
 	<entry name="Tau/CrisisBattlesuit:Victory#1" value="Killing blow, delivered."/>
-	<entry name="Tau/CrisisBattlesuit:Victory#2" value="Do they have anything... tougher?"/>
+	<entry name="Tau/CrisisBattlesuit:Victory#2" value="Do they have anything… tougher?"/>
 	<entry name="Tau/CrisisBattlesuit:Victory#3" value="Mark another one up to us, shas'el."/>
 	<entry name="Tau/CrisisBattlesuit:VictoryCount" value="4"/>
 	<entry name="Tau/Devilfish:Attack#0" value="Moving to the enemy."/>
@@ -1691,7 +1908,7 @@
 	<entry name="Tau/Ethereal:Attack#1" value="For the T'au."/>
 	<entry name="Tau/Ethereal:Attack#2" value="Why do you oppose us?"/>
 	<entry name="Tau/Ethereal:AttackCount" value="3"/>
-	<entry name="Tau/Ethereal:Broken#0" value="Perhaps... peace lies behind our own lines."/>
+	<entry name="Tau/Ethereal:Broken#0" value="Perhaps… peace lies behind our own lines."/>
 	<entry name="Tau/Ethereal:BrokenCount" value="1"/>
 	<entry name="Tau/Ethereal:Hurt#0" value="Though my flesh is weak, my spirit will triumph!"/>
 	<entry name="Tau/Ethereal:HurtCount" value="1"/>
@@ -1718,8 +1935,8 @@
 	<entry name="Tau/FireWarrior:HurtCount" value="1"/>
 	<entry name="Tau/FireWarrior:Idle#0" value="Taking a break."/>
 	<entry name="Tau/FireWarrior:Idle#1" value="Training, shas'el."/>
-	<entry name="Tau/FireWarrior:Idle#2" value="I miss my Sept..."/>
-	<entry name="Tau/FireWarrior:Idle#3" value="Let us never speak of sub-space again..."/>
+	<entry name="Tau/FireWarrior:Idle#2" value="I miss my Sept…"/>
+	<entry name="Tau/FireWarrior:Idle#3" value="Let us never speak of sub-space again…"/>
 	<entry name="Tau/FireWarrior:Idle#4" value="Ready for action, shas'el."/>
 	<entry name="Tau/FireWarrior:IdleCount" value="5"/>
 	<entry name="Tau/FireWarrior:Shaken#0" value="Don't let them near us!"/>
@@ -1784,12 +2001,12 @@
 	<entry name="Tau/Piranha:IdleCount" value="2"/>
 	<entry name="Tau/Piranha:Shaken#0" value="Why is nothing working? Why-"/>
 	<entry name="Tau/Piranha:ShakenCount" value="1"/>
-	<entry name="Tau/Piranha:Victory#0" value="Target... shredded, shas'el."/>
+	<entry name="Tau/Piranha:Victory#0" value="Target… shredded, shas'el."/>
 	<entry name="Tau/Piranha:VictoryCount" value="1"/>
 	<entry name="Tau/PulseAcceleratorDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/RazorsharkStrikeFighter:Attack#0" value="Aerial support incoming."/>
 	<entry name="Tau/RazorsharkStrikeFighter:Attack#1" value="Air Caste, for the Greater Good."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Attack#2" value="They haven't seen us coming..."/>
+	<entry name="Tau/RazorsharkStrikeFighter:Attack#2" value="They haven't seen us coming…"/>
 	<entry name="Tau/RazorsharkStrikeFighter:AttackCount" value="3"/>
 	<entry name="Tau/RazorsharkStrikeFighter:Broken#0" value="In flight."/>
 	<entry name="Tau/RazorsharkStrikeFighter:BrokenCount" value="1"/>
@@ -1815,8 +2032,8 @@
 	<entry name="Tau/RiptideBattlesuit:Hurt#0" value="Reactor damage, armour compromised. I can keep going."/>
 	<entry name="Tau/RiptideBattlesuit:HurtCount" value="1"/>
 	<entry name="Tau/RiptideBattlesuit:Idle#0" value="You'd better have plans for me."/>
-	<entry name="Tau/RiptideBattlesuit:Idle#1" value="ZZ... "/>
-	<entry name="Tau/RiptideBattlesuit:Idle#2" value="So much firepower..."/>
+	<entry name="Tau/RiptideBattlesuit:Idle#1" value="ZZ…"/>
+	<entry name="Tau/RiptideBattlesuit:Idle#2" value="So much firepower…"/>
 	<entry name="Tau/RiptideBattlesuit:IdleCount" value="3"/>
 	<entry name="Tau/RiptideBattlesuit:Shaken#0" value="Best of the best. Best. Of. The. Best."/>
 	<entry name="Tau/RiptideBattlesuit:ShakenCount" value="1"/>
@@ -1827,7 +2044,7 @@
 	<entry name="Tau/ShieldedMissileDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/SkyRayGunship" value="Tau/HammerheadGunship"/>
 	<entry name="Tau/StealthBattlesuit:Attack#0" value="They didn't see us coming."/>
-	<entry name="Tau/StealthBattlesuit:Attack#1" value="From the shadows..."/>
+	<entry name="Tau/StealthBattlesuit:Attack#1" value="From the shadows…"/>
 	<entry name="Tau/StealthBattlesuit:Attack#2" value="Shas'el, we have them."/>
 	<entry name="Tau/StealthBattlesuit:AttackCount" value="3"/>
 	<entry name="Tau/StealthBattlesuit:Broken#0" value="Exfiltration request issued."/>
@@ -1856,10 +2073,10 @@
 	<entry name="Tyranids/Carnifex:Attack#6" value="Nrrrrr!"/>
 	<entry name="Tyranids/Carnifex:Attack#7" value="Vrrrk!"/>
 	<entry name="Tyranids/Carnifex:AttackCount" value="8"/>
-	<entry name="Tyranids/Carnifex:Broken#0" value="...mmmm..."/>
-	<entry name="Tyranids/Carnifex:Broken#1" value="...thhhh..."/>
-	<entry name="Tyranids/Carnifex:Broken#2" value="...phhhh..."/>
-	<entry name="Tyranids/Carnifex:Broken#3" value="...sssss..."/>
+	<entry name="Tyranids/Carnifex:Broken#0" value="…mmmm…"/>
+	<entry name="Tyranids/Carnifex:Broken#1" value="…thhhh…"/>
+	<entry name="Tyranids/Carnifex:Broken#2" value="…phhhh…"/>
+	<entry name="Tyranids/Carnifex:Broken#3" value="…sssss…"/>
 	<entry name="Tyranids/Carnifex:BrokenCount" value="4"/>
 	<entry name="Tyranids/Carnifex:EnemyFaction:Necrons#0" value="Nrnnnnn."/>
 	<entry name="Tyranids/Carnifex:EnemyFaction:NecronsCount" value="1"/>
@@ -1948,24 +2165,24 @@
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#2" value="Why do they still shelter their corpse-Emperor?"/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Idle#3" value="Endless war, endless joy."/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:IdleCount" value="4"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Shaken#0" value="We are... losing?"/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Shaken#0" value="We are… losing?"/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:ShakenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#0" value="So fall all enemies of Abaddon!"/>
-	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#1" value="Another step towards ruling this galaxy... our birthright."/>
+	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#1" value="Another step towards ruling this galaxy… our birthright."/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#2" value="Your death is nothing to me."/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine:VictoryCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#0" value="...The widening gyre..."/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#0" value="…The widening gyre…"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#1" value="*gibbers*"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Attack#2" value="ahhhhaahhhh"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:AttackCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Broken#0" value="..."/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Broken#0" value="…"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Hurt#0" value="..."/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Hurt#0" value="…"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#0" value="...an eternity of madness..?"/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#0" value="…an eternity of madness..?"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#1" value="ehaahahaahaha"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#2" value="mmmm mmmm"/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#3" value="...slouching to bedlam..."/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#3" value="…slouching to bedlam…"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Idle#4" value="nnnhhhrrr."/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:IdleCount" value="5"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawn:Shaken#0" value="eh"/>
@@ -1981,27 +2198,27 @@
 	<entry name="ChaosSpaceMarines/DaemonPrince:BrokenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:Hurt#0" value="YOU DARE CONTEND WITH ME"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#0" value="...what fools these mortals be!"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#1" value="The physical plane... I have missed it."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#0" value="…what fools these mortals be!"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#1" value="The physical plane… I have missed it."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#2" value="Strange, a world that doesn't shift form at whim."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#3" value="What a strange doom sits on Gladius."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#4" value="Come, slaves. Entertain your god!"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#5" value="Odd, to think that these talons were once mortal hands..."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Idle#5" value="Odd, to think that these talons were once mortal hands…"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:IdleCount" value="6"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#0" value="I tore the hearts from a thousand men... and this is how you thank me?"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#1" value="The warp is calling... "/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#2" value="...madness takes its toll—I must keep control."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#0" value="I tore the hearts from a thousand men… and this is how you thank me?"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#1" value="The warp is calling…"/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#2" value="…madness takes its toll—I must keep control."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:Shaken#3" value="I have my own special hell for those like you!"/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:ShakenCount" value="4"/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#0" value="Another skull for my collection... Khorne can beg."/>
-	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#1" value="Heads without eyes... pleasing."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#0" value="Another skull for my collection… Khorne can beg."/>
+	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#1" value="Heads without eyes… pleasing."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:Victory#2" value="Hold still, mortal— I want to enjoy your death."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince:VictoryCount" value="3"/>
 	<entry name="ChaosSpaceMarines/Defiler:Attack#0" value="Yes, yes, die mortals, die die."/>
 	<entry name="ChaosSpaceMarines/Defiler:Attack#1" value="Closer, claws, calling, come!"/>
 	<entry name="ChaosSpaceMarines/Defiler:Attack#2" value="Meet our gods, go meet our gods."/>
 	<entry name="ChaosSpaceMarines/Defiler:Attack#3" value="For Chaos, blood, skulls, for Chaos."/>
-	<entry name="ChaosSpaceMarines/Defiler:Attack#4" value="Tear and rend... mortality is joy."/>
+	<entry name="ChaosSpaceMarines/Defiler:Attack#4" value="Tear and rend… mortality is joy."/>
 	<entry name="ChaosSpaceMarines/Defiler:Attack#5" value="Flense, cut, smash, joy, shred!"/>
 	<entry name="ChaosSpaceMarines/Defiler:AttackCount" value="6"/>
 	<entry name="ChaosSpaceMarines/Defiler:Broken#0" value="Dark gods!"/>
@@ -2011,7 +2228,7 @@
 	<entry name="ChaosSpaceMarines/Defiler:Hurt#1" value="Smash my cage, free daemon-I"/>
 	<entry name="ChaosSpaceMarines/Defiler:HurtCount" value="2"/>
 	<entry name="ChaosSpaceMarines/Defiler:Idle#0" value="Warp, where, warp gone!"/>
-	<entry name="ChaosSpaceMarines/Defiler:Idle#1" value="Mustn't kill, runebound, sorcery. Mustn't... want to."/>
+	<entry name="ChaosSpaceMarines/Defiler:Idle#1" value="Mustn't kill, runebound, sorcery. Mustn't… want to."/>
 	<entry name="ChaosSpaceMarines/Defiler:Idle#2" value="Why not kill, kill, kill, where kill?"/>
 	<entry name="ChaosSpaceMarines/Defiler:Idle#3" value="Old ones stink here. Stink dead gods, stink."/>
 	<entry name="ChaosSpaceMarines/Defiler:IdleCount" value="4"/>
@@ -2028,7 +2245,7 @@
 	<entry name="ChaosSpaceMarines/Havoc:Attack#3" value="For the glory of Chaos! For the Dark Mechanicum! For the joy of shooting!"/>
 	<entry name="ChaosSpaceMarines/Havoc:Attack#4" value="From hell, we fire!"/>
 	<entry name="ChaosSpaceMarines/Havoc:AttackCount" value="5"/>
-	<entry name="ChaosSpaceMarines/Havoc:Broken#0" value="Backfired..."/>
+	<entry name="ChaosSpaceMarines/Havoc:Broken#0" value="Backfired…"/>
 	<entry name="ChaosSpaceMarines/Havoc:BrokenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Havoc:Hurt#0" value="Not dead, keep shooting."/>
 	<entry name="ChaosSpaceMarines/Havoc:HurtCount" value="1"/>
@@ -2036,7 +2253,7 @@
 	<entry name="ChaosSpaceMarines/Havoc:Idle#1" value="My blood is plasma."/>
 	<entry name="ChaosSpaceMarines/Havoc:Idle#2" value="Bless the Warp, that gives us such plenty."/>
 	<entry name="ChaosSpaceMarines/Havoc:IdleCount" value="3"/>
-	<entry name="ChaosSpaceMarines/Havoc:Shaken#0" value="Our guns, not yours. From our cold dead fingers..."/>
+	<entry name="ChaosSpaceMarines/Havoc:Shaken#0" value="Our guns, not yours. From our cold dead fingers…"/>
 	<entry name="ChaosSpaceMarines/Havoc:ShakenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Havoc:Victory#0" value="Shot into peace."/>
 	<entry name="ChaosSpaceMarines/Havoc:VictoryCount" value="1"/>
@@ -2048,9 +2265,9 @@
 	<entry name="ChaosSpaceMarines/Heldrake:BrokenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Heldrake:Hurt#0" value="Arkh! Arkh!"/>
 	<entry name="ChaosSpaceMarines/Heldrake:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Heldrake:Idle#0" value="Man... once."/>
+	<entry name="ChaosSpaceMarines/Heldrake:Idle#0" value="Man… once."/>
 	<entry name="ChaosSpaceMarines/Heldrake:Idle#1" value="Grrrrhhh."/>
-	<entry name="ChaosSpaceMarines/Heldrake:Idle#2" value="Rrrrrrr..."/>
+	<entry name="ChaosSpaceMarines/Heldrake:Idle#2" value="Rrrrrrr…"/>
 	<entry name="ChaosSpaceMarines/Heldrake:IdleCount" value="3"/>
 	<entry name="ChaosSpaceMarines/Heldrake:Shaken#0" value="Eeeeeekh."/>
 	<entry name="ChaosSpaceMarines/Heldrake:ShakenCount" value="1"/>
@@ -2064,7 +2281,7 @@
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:AttackCount" value="5"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:Broken#0" value="Khorne will doom us!"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/KhorneBerzerker:Hurt#0" value="My... My blood for the Blood GOD!"/>
+	<entry name="ChaosSpaceMarines/KhorneBerzerker:Hurt#0" value="My… My blood for the Blood GOD!"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:HurtCount" value="1"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:Idle#0" value="WHY DO WE NOT FIGHT?"/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker:IdleCount" value="1"/>
@@ -2082,9 +2299,9 @@
 	<entry name="ChaosSpaceMarines/MasterOfPossession:BrokenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:Hurt#0" value="Is this my bone? Fie, I see it none."/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#0" value="Useless men and ghosts... we need better hosts."/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Soon the athame, then Fatewalker's true name..."/>
-	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#2" value="Possession is nine tenths of the lore..."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#0" value="Useless men and ghosts… we need better hosts."/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Soon the athame, then Fatewalker's true name…"/>
+	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#2" value="Possession is nine tenths of the lore…"/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:Idle#3" value="They will taste the planet's heart, before our time is done."/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:IdleCount" value="4"/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:Shaken#0" value="What is fear, the mindkiller?"/>
@@ -2092,19 +2309,19 @@
 	<entry name="ChaosSpaceMarines/MasterOfPossession:Victory#0" value="My demons whisper, each to each. They will whisper to you."/>
 	<entry name="ChaosSpaceMarines/MasterOfPossession:VictoryCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Venomcrawler" value="ChaosSpaceMarines/Defiler"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Attack#0" value="...prey..."/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Attack#0" value="…prey…"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:AttackCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Broken#0" value="...fear..."/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Broken#0" value="…fear…"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Hurt#0" value="...pain..."/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Hurt#0" value="…pain…"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Idle#0" value="..."/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Idle#0" value="…"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:IdleCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Shaken#0" value="...fear..."/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Shaken#0" value="…fear…"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/WarpTalon:Victory#0" value="...death..."/>
+	<entry name="ChaosSpaceMarines/WarpTalon:Victory#0" value="…death…"/>
 	<entry name="ChaosSpaceMarines/WarpTalon:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Attack#0" value="Target diagnostic: you... are not perfect."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Attack#0" value="Target diagnostic: you… are not perfect."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:Attack#1" value="Cogitators, mechatendrils, armaments: deployed."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:Attack#2" value="GOTO target elimination. Execute."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:AttackCount" value="3"/>
@@ -2114,11 +2331,11 @@
 	<entry name="ChaosSpaceMarines/Warpsmith:HurtCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Warpsmith:Idle#0" value="Ridiculous Warsmiths. Ridiculous!"/>
 	<entry name="ChaosSpaceMarines/Warpsmith:Idle#1" value="Man, machine, daemon—together, perfection."/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Idle#2" value="Dear mechatendrils..."/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Idle#2" value="Dear mechatendrils…"/>
 	<entry name="ChaosSpaceMarines/Warpsmith:Idle#3" value="Error: emotional core recovery. Delete."/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Idle#4" value="Soul Forge, gods, we are your weapons. "/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Idle#4" value="Soul Forge, gods, we are your weapons."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:IdleCount" value="5"/>
-	<entry name="ChaosSpaceMarines/Warpsmith:Shaken#0" value="Reports: damage sustained. "/>
+	<entry name="ChaosSpaceMarines/Warpsmith:Shaken#0" value="Reports: damage sustained."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:ShakenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/Warpsmith:Victory#0" value="Assessment: opposition deactivated. Predictable."/>
 	<entry name="ChaosSpaceMarines/Warpsmith:VictoryCount" value="1"/>
@@ -2127,7 +2344,7 @@
 	<entry name="ChaosSpaceMarines/Obliterator" value="ChaosSpaceMarines/Havoc"/>
 	<entry name="AstraMilitarum/TempestusScion:Attack#0" value="So fall all enemies of the Imperium"/>
 	<entry name="AstraMilitarum/TempestusScion:Attack#1" value="Heretics, xenos: all shall fall."/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#2" value="Hellguns at the ready..."/>
+	<entry name="AstraMilitarum/TempestusScion:Attack#2" value="Hellguns at the ready…"/>
 	<entry name="AstraMilitarum/TempestusScion:Attack#3" value="Our lives for Terra!"/>
 	<entry name="AstraMilitarum/TempestusScion:AttackCount" value="4"/>
 	<entry name="AstraMilitarum/TempestusScion:Broken#0" value="The shame of it! Stormtroopers retreating!"/>
@@ -2143,27 +2360,27 @@
 	<entry name="AstraMilitarum/TempestusScion:ShakenCount" value="1"/>
 	<entry name="AstraMilitarum/TempestusScion:Victory#0" value="Let the Guard celebrate. Our war is unending."/>
 	<entry name="AstraMilitarum/TempestusScion:VictoryCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Attack#0" value="...flesh"/>
+	<entry name="Necrons/FlayedOne:Attack#0" value="…flesh"/>
 	<entry name="Necrons/FlayedOne:Attack#1" value="-tear-"/>
-	<entry name="Necrons/FlayedOne:Attack#2" value="...rend-rip-tear..."/>
+	<entry name="Necrons/FlayedOne:Attack#2" value="…rend-rip-tear…"/>
 	<entry name="Necrons/FlayedOne:AttackCount" value="3"/>
-	<entry name="Necrons/FlayedOne:Broken#0" value="...esssscape..."/>
+	<entry name="Necrons/FlayedOne:Broken#0" value="…esssscape…"/>
 	<entry name="Necrons/FlayedOne:BrokenCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Hurt#0" value="...flesh wound..."/>
+	<entry name="Necrons/FlayedOne:Hurt#0" value="…flesh wound…"/>
 	<entry name="Necrons/FlayedOne:HurtCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Idle#0" value="...hunger..."/>
-	<entry name="Necrons/FlayedOne:Idle#1" value="...linger..."/>
-	<entry name="Necrons/FlayedOne:Idle#2" value="...langour..."/>
+	<entry name="Necrons/FlayedOne:Idle#0" value="…hunger…"/>
+	<entry name="Necrons/FlayedOne:Idle#1" value="…linger…"/>
+	<entry name="Necrons/FlayedOne:Idle#2" value="…langour…"/>
 	<entry name="Necrons/FlayedOne:IdleCount" value="3"/>
-	<entry name="Necrons/FlayedOne:Shaken#0" value="...Llandu'gor...!"/>
+	<entry name="Necrons/FlayedOne:Shaken#0" value="…Llandu'gor…!"/>
 	<entry name="Necrons/FlayedOne:ShakenCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Victory#0" value="...live again..."/>
+	<entry name="Necrons/FlayedOne:Victory#0" value="…live again…"/>
 	<entry name="Necrons/FlayedOne:VictoryCount" value="1"/>
 	<entry name="AstraMilitarum/Chimera:Attack#0" value="Supporting infantry with fire."/>
 	<entry name="AstraMilitarum/Chimera:Attack#1" value="Transport assaulting."/>
 	<entry name="AstraMilitarum/Chimera:Attack#2" value="Firing everything we've got."/>
 	<entry name="AstraMilitarum/Chimera:AttackCount" value="3"/>
-	<entry name="AstraMilitarum/Chimera:Broken#0" value="Fast armour retreating fast..."/>
+	<entry name="AstraMilitarum/Chimera:Broken#0" value="Fast armour retreating fast…"/>
 	<entry name="AstraMilitarum/Chimera:BrokenCount" value="1"/>
 	<entry name="AstraMilitarum/Chimera:Hurt#0" value="Heavy armour needed!"/>
 	<entry name="AstraMilitarum/Chimera:HurtCount" value="1"/>
@@ -2179,7 +2396,7 @@
 	<entry name="Orks/Warbiker:Attack#1" value="Dakka dakka dakka!"/>
 	<entry name="Orks/Warbiker:Attack#2" value="Shoot 'em all!"/>
 	<entry name="Orks/Warbiker:AttackCount" value="3"/>
-	<entry name="Orks/Warbiker:Broken#0" value="Fasta fasta fasta fasta..."/>
+	<entry name="Orks/Warbiker:Broken#0" value="Fasta fasta fasta fasta…"/>
 	<entry name="Orks/Warbiker:BrokenCount" value="1"/>
 	<entry name="Orks/Warbiker:Hurt#0" value="Oi, Baz, was dat yer wheel or mine?"/>
 	<entry name="Orks/Warbiker:Hurt#1" value="We don't need does bitz anyhow."/>
@@ -2195,14 +2412,14 @@
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#1" value="Crush their skulls 'neath our treads!"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#2" value="They seek death at our hands."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:AttackCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Broken#0" value="The Dark Gods will damn us for this..."/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Broken#0" value="The Dark Gods will damn us for this…"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:BrokenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:Hurt#0" value="We will not die here, weaklings!"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:HurtCount" value="1"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#0" value="Holding up pretty well for ten thousand years without a service."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#1" value="Dark gods preserve us."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:IdleCount" value="2"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Shaken#0" value="Save yourselves..."/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider:Shaken#0" value="Save yourselves…"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:ShakenCount" value="1"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:Victory#0" value="They're dead. Predictable."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaider:VictoryCount" value="1"/>
@@ -2219,45 +2436,45 @@
 	<entry name="Tau/TidewallGunrig:IdleCount" value="2"/>
 	<entry name="Tau/TidewallGunrig:Shaken#0" value="The Tidewall can't take this amount of fire!"/>
 	<entry name="Tau/TidewallGunrig:ShakenCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Victory#0" value="Target... atomised. "/>
+	<entry name="Tau/TidewallGunrig:Victory#0" value="Target… atomised."/>
 	<entry name="Tau/TidewallGunrig:VictoryCount" value="1"/>
 	<entry name="Tyranids/ScythedHierodule" value="Tyranids/Carnifex"/>
 	<entry name="SpaceMarines/Razorback" value="SpaceMarines/Hunter"/>
-	<entry name="Neutral/Umbra:Attack#0" value="...llll..."/>
+	<entry name="Neutral/Umbra:Attack#0" value="…llll…"/>
 	<entry name="Neutral/Umbra:Attack#1" value="(linger)"/>
-	<entry name="Neutral/Umbra:Attack#2" value="Linger..."/>
-	<entry name="Neutral/Umbra:Attack#3" value="...inger..."/>
+	<entry name="Neutral/Umbra:Attack#2" value="Linger…"/>
+	<entry name="Neutral/Umbra:Attack#3" value="…inger…"/>
 	<entry name="Neutral/Umbra:AttackCount" value="4"/>
-	<entry name="Neutral/Umbra:Broken#0" value="Linger..."/>
+	<entry name="Neutral/Umbra:Broken#0" value="Linger…"/>
 	<entry name="Neutral/Umbra:BrokenCount" value="1"/>
 	<entry name="Neutral/Umbra:Hurt#0" value="LIN-"/>
 	<entry name="Neutral/Umbra:HurtCount" value="1"/>
-	<entry name="Neutral/Umbra:Idle#0" value="..."/>
-	<entry name="Neutral/Umbra:Idle#1" value="...linger"/>
-	<entry name="Neutral/Umbra:Idle#2" value="linger..."/>
-	<entry name="Neutral/Umbra:Idle#3" value="...ng..."/>
+	<entry name="Neutral/Umbra:Idle#0" value="…"/>
+	<entry name="Neutral/Umbra:Idle#1" value="…linger"/>
+	<entry name="Neutral/Umbra:Idle#2" value="linger…"/>
+	<entry name="Neutral/Umbra:Idle#3" value="…ng…"/>
 	<entry name="Neutral/Umbra:IdleCount" value="4"/>
-	<entry name="Neutral/Umbra:Shaken#0" value="lin...ger..."/>
+	<entry name="Neutral/Umbra:Shaken#0" value="lin…ger…"/>
 	<entry name="Neutral/Umbra:ShakenCount" value="1"/>
 	<entry name="Neutral/Umbra:Victory#0" value="LINGER"/>
 	<entry name="Neutral/Umbra:VictoryCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Attack#0" value="...the enemy will fall..."/>
-	<entry name="Eldar/Wraithblade:Attack#1" value="...join the dead..."/>
-	<entry name="Eldar/Wraithblade:Attack#2" value="...for our Craftworld..."/>
-	<entry name="Eldar/Wraithblade:Attack#3" value="...for the Aeldari..."/>
+	<entry name="Eldar/Wraithblade:Attack#0" value="…the enemy will fall…"/>
+	<entry name="Eldar/Wraithblade:Attack#1" value="…join the dead…"/>
+	<entry name="Eldar/Wraithblade:Attack#2" value="…for our Craftworld…"/>
+	<entry name="Eldar/Wraithblade:Attack#3" value="…for the Aeldari…"/>
 	<entry name="Eldar/Wraithblade:AttackCount" value="4"/>
-	<entry name="Eldar/Wraithblade:Broken#0" value="...we fear She Who Thirsts..."/>
+	<entry name="Eldar/Wraithblade:Broken#0" value="…we fear She Who Thirsts…"/>
 	<entry name="Eldar/Wraithblade:BrokenCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Hurt#0" value="...to die, again?"/>
+	<entry name="Eldar/Wraithblade:Hurt#0" value="…to die, again?"/>
 	<entry name="Eldar/Wraithblade:HurtCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Idle#0" value="...need guidance..."/>
-	<entry name="Eldar/Wraithblade:Idle#1" value="...we are dead..."/>
-	<entry name="Eldar/Wraithblade:Idle#2" value="...let us rest..."/>
-	<entry name="Eldar/Wraithblade:Idle#3" value="...we live for war..."/>
+	<entry name="Eldar/Wraithblade:Idle#0" value="…need guidance…"/>
+	<entry name="Eldar/Wraithblade:Idle#1" value="…we are dead…"/>
+	<entry name="Eldar/Wraithblade:Idle#2" value="…let us rest…"/>
+	<entry name="Eldar/Wraithblade:Idle#3" value="…we live for war…"/>
 	<entry name="Eldar/Wraithblade:IdleCount" value="4"/>
-	<entry name="Eldar/Wraithblade:Shaken#0" value="...fear is beyond us..."/>
+	<entry name="Eldar/Wraithblade:Shaken#0" value="…fear is beyond us…"/>
 	<entry name="Eldar/Wraithblade:ShakenCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Victory#0" value="...they have joined us..."/>
+	<entry name="Eldar/Wraithblade:Victory#0" value="…they have joined us…"/>
 	<entry name="Eldar/Wraithblade:VictoryCount" value="1"/>
 	<entry name="Eldar/WaveSerpent:Attack#0" value="Firing all systems"/>
 	<entry name="Eldar/WaveSerpent:Attack#1" value="Yes, we're attacking"/>
@@ -2291,14 +2508,14 @@
 	<entry name="Eldar/VaulsWrathSupportBattery:IdleCount" value="3"/>
 	<entry name="Eldar/VaulsWrathSupportBattery:Shaken#0" value="We must disengage!"/>
 	<entry name="Eldar/VaulsWrathSupportBattery:ShakenCount" value="1"/>
-	<entry name="Eldar/VaulsWrathSupportBattery:Victory#0" value="We've... dissolved... the enemy formation."/>
+	<entry name="Eldar/VaulsWrathSupportBattery:Victory#0" value="We've… dissolved… the enemy formation."/>
 	<entry name="Eldar/VaulsWrathSupportBattery:VictoryCount" value="1"/>
 	<entry name="Eldar/ShiningSpear:Attack#0" value="We strike faster than the eye can see."/>
 	<entry name="Eldar/ShiningSpear:Attack#1" value="For Drastanta!"/>
 	<entry name="Eldar/ShiningSpear:Attack#2" value="They pale before our virtue."/>
 	<entry name="Eldar/ShiningSpear:Attack#3" value="We are the spear of Khaine!"/>
 	<entry name="Eldar/ShiningSpear:AttackCount" value="4"/>
-	<entry name="Eldar/ShiningSpear:Broken#0" value="The spear is... broken."/>
+	<entry name="Eldar/ShiningSpear:Broken#0" value="The spear is… broken."/>
 	<entry name="Eldar/ShiningSpear:BrokenCount" value="1"/>
 	<entry name="Eldar/ShiningSpear:Hurt#0" value="We must go faster."/>
 	<entry name="Eldar/ShiningSpear:HurtCount" value="1"/>
@@ -2311,14 +2528,14 @@
 	<entry name="Eldar/ShiningSpear:ShakenCount" value="1"/>
 	<entry name="Eldar/ShiningSpear:Victory#0" value="They didn't see us coming."/>
 	<entry name="Eldar/ShiningSpear:VictoryCount" value="1"/>
-	<entry name="Eldar/Ranger:Attack#0" value="Choosing targets..."/>
+	<entry name="Eldar/Ranger:Attack#0" value="Choosing targets…"/>
 	<entry name="Eldar/Ranger:Attack#1" value="They will die before they know we fired."/>
 	<entry name="Eldar/Ranger:Attack#2" value="My long rifle whispers death."/>
 	<entry name="Eldar/Ranger:Attack#3" value="We. Do. Not. Miss."/>
 	<entry name="Eldar/Ranger:AttackCount" value="4"/>
 	<entry name="Eldar/Ranger:Broken#0" value="Fall back! They come!"/>
 	<entry name="Eldar/Ranger:BrokenCount" value="1"/>
-	<entry name="Eldar/Ranger:Hurt#0" value="We are walking in the dark..."/>
+	<entry name="Eldar/Ranger:Hurt#0" value="We are walking in the dark…"/>
 	<entry name="Eldar/Ranger:HurtCount" value="1"/>
 	<entry name="Eldar/Ranger:Idle#0" value="Our exile is done."/>
 	<entry name="Eldar/Ranger:Idle#1" value="Our cameleoline shields us."/>
@@ -2370,11 +2587,11 @@
 	<entry name="Eldar/Guardian:Attack#2" value="Our people stand as one."/>
 	<entry name="Eldar/Guardian:Attack#3" value="Shurikens away."/>
 	<entry name="Eldar/Guardian:AttackCount" value="4"/>
-	<entry name="Eldar/Guardian:Broken#0" value="Is this the end...?"/>
+	<entry name="Eldar/Guardian:Broken#0" value="Is this the end…?"/>
 	<entry name="Eldar/Guardian:BrokenCount" value="1"/>
 	<entry name="Eldar/Guardian:Hurt#0" value="Our doom is upon us."/>
 	<entry name="Eldar/Guardian:HurtCount" value="1"/>
-	<entry name="Eldar/Guardian:Idle#0" value="War is... intense."/>
+	<entry name="Eldar/Guardian:Idle#0" value="War is… intense."/>
 	<entry name="Eldar/Guardian:Idle#1" value="When we will return to the crystal halls?"/>
 	<entry name="Eldar/Guardian:Idle#2" value="Asuryan, protect us."/>
 	<entry name="Eldar/Guardian:Idle#3" value="Seer, I hope your sight is true."/>
@@ -2388,7 +2605,7 @@
 	<entry name="Eldar/FirePrism:Attack#2" value="They melt away."/>
 	<entry name="Eldar/FirePrism:Attack#3" value="Weapons of the ancients, do not fail us."/>
 	<entry name="Eldar/FirePrism:AttackCount" value="4"/>
-	<entry name="Eldar/FirePrism:Broken#0" value="...this cannot be."/>
+	<entry name="Eldar/FirePrism:Broken#0" value="…this cannot be."/>
 	<entry name="Eldar/FirePrism:BrokenCount" value="1"/>
 	<entry name="Eldar/FirePrism:Hurt#0" value="This damage is of no consequence."/>
 	<entry name="Eldar/FirePrism:HurtCount" value="1"/>
@@ -2404,9 +2621,9 @@
 	<entry name="Eldar/FireDragon:Attack#0" value="Burn!"/>
 	<entry name="Eldar/FireDragon:Attack#1" value="Ancestral flames unleashed!"/>
 	<entry name="Eldar/FireDragon:Attack#2" value="We are rage, fiery rage!"/>
-	<entry name="Eldar/FireDragon:Attack#3" value="Come closer, little tanks..."/>
+	<entry name="Eldar/FireDragon:Attack#3" value="Come closer, little tanks…"/>
 	<entry name="Eldar/FireDragon:AttackCount" value="4"/>
-	<entry name="Eldar/FireDragon:Broken#0" value="The dream of fire fades..."/>
+	<entry name="Eldar/FireDragon:Broken#0" value="The dream of fire fades…"/>
 	<entry name="Eldar/FireDragon:BrokenCount" value="1"/>
 	<entry name="Eldar/FireDragon:Hurt#0" value="We burnt ourselves!"/>
 	<entry name="Eldar/FireDragon:HurtCount" value="1"/>
@@ -2417,20 +2634,20 @@
 	<entry name="Eldar/FireDragon:IdleCount" value="4"/>
 	<entry name="Eldar/FireDragon:Shaken#0" value="We are quite put out."/>
 	<entry name="Eldar/FireDragon:ShakenCount" value="1"/>
-	<entry name="Eldar/FireDragon:Victory#0" value="Their face in death is... ashen."/>
+	<entry name="Eldar/FireDragon:Victory#0" value="Their face in death is… ashen."/>
 	<entry name="Eldar/FireDragon:VictoryCount" value="1"/>
 	<entry name="Eldar/CrimsonHunter:Attack#0" value="Kurnous guides us!"/>
 	<entry name="Eldar/CrimsonHunter:Attack#1" value="We hunt!"/>
-	<entry name="Eldar/CrimsonHunter:Attack#2" value="From the air, we dispense... lessons."/>
+	<entry name="Eldar/CrimsonHunter:Attack#2" value="From the air, we dispense… lessons."/>
 	<entry name="Eldar/CrimsonHunter:Attack#3" value="We are the blinding blades!"/>
 	<entry name="Eldar/CrimsonHunter:AttackCount" value="4"/>
 	<entry name="Eldar/CrimsonHunter:Broken#0" value="This is not retreat."/>
 	<entry name="Eldar/CrimsonHunter:BrokenCount" value="1"/>
-	<entry name="Eldar/CrimsonHunter:Hurt#0" value="They... they hit us?"/>
+	<entry name="Eldar/CrimsonHunter:Hurt#0" value="They… they hit us?"/>
 	<entry name="Eldar/CrimsonHunter:HurtCount" value="1"/>
-	<entry name="Eldar/CrimsonHunter:Idle#0" value="I have a desire... for speed."/>
+	<entry name="Eldar/CrimsonHunter:Idle#0" value="I have a desire… for speed."/>
 	<entry name="Eldar/CrimsonHunter:Idle#1" value="Kurnous desires action."/>
-	<entry name="Eldar/CrimsonHunter:Idle#2" value="This environment is rich in targets..."/>
+	<entry name="Eldar/CrimsonHunter:Idle#2" value="This environment is rich in targets…"/>
 	<entry name="Eldar/CrimsonHunter:Idle#3" value="Nothing is more deadly than arrogance in battle."/>
 	<entry name="Eldar/CrimsonHunter:IdleCount" value="4"/>
 	<entry name="Eldar/CrimsonHunter:Shaken#0" value="No time to think!"/>
@@ -2448,10 +2665,10 @@
 	<entry name="Eldar/Autarch:AttackCount" value="4"/>
 	<entry name="Eldar/Autarch:Broken#0" value="Retreat is a part of war."/>
 	<entry name="Eldar/Autarch:BrokenCount" value="1"/>
-	<entry name="Eldar/Autarch:Hurt#0" value="I... may need another incarnation."/>
+	<entry name="Eldar/Autarch:Hurt#0" value="I… may need another incarnation."/>
 	<entry name="Eldar/Autarch:HurtCount" value="1"/>
 	<entry name="Eldar/Autarch:Idle#0" value="Cegorach makes work for idle Autarchs."/>
-	<entry name="Eldar/Autarch:Idle#1" value="I shall now recite the litany of battle..."/>
+	<entry name="Eldar/Autarch:Idle#1" value="I shall now recite the litany of battle…"/>
 	<entry name="Eldar/Autarch:Idle#2" value="I am lost to war."/>
 	<entry name="Eldar/Autarch:Idle#3" value="There is no peace in my mind."/>
 	<entry name="Eldar/Autarch:IdleCount" value="4"/>
@@ -2459,7 +2676,7 @@
 	<entry name="Eldar/Autarch:ShakenCount" value="1"/>
 	<entry name="Eldar/Autarch:Victory#0" value="They will not try my patience again."/>
 	<entry name="Eldar/Autarch:VictoryCount" value="1"/>
-	<entry name="Eldar/FarseerSkyrunner:Attack#0" value="I shape your future... it is short."/>
+	<entry name="Eldar/FarseerSkyrunner:Attack#0" value="I shape your future… it is short."/>
 	<entry name="Eldar/FarseerSkyrunner:Attack#1" value="With me, Shining Spears."/>
 	<entry name="Eldar/FarseerSkyrunner:Attack#2" value="My witchblade hungers."/>
 	<entry name="Eldar/FarseerSkyrunner:Attack#3" value="I am the helmsman of my people."/>
@@ -2484,7 +2701,7 @@
 	<entry name="Eldar/Spiritseer:AttackCount" value="4"/>
 	<entry name="Eldar/Spiritseer:Broken#0" value="I retreat, lest I join my charges."/>
 	<entry name="Eldar/Spiritseer:BrokenCount" value="1"/>
-	<entry name="Eldar/Spiritseer:Hurt#0" value="My life drains into the crystal..."/>
+	<entry name="Eldar/Spiritseer:Hurt#0" value="My life drains into the crystal…"/>
 	<entry name="Eldar/Spiritseer:HurtCount" value="1"/>
 	<entry name="Eldar/Spiritseer:Idle#0" value="The dead are in my care."/>
 	<entry name="Eldar/Spiritseer:Idle#1" value="I speak to you, my departed friends."/>
@@ -2506,7 +2723,7 @@
 	<entry name="Eldar/AvatarOfKhaine:HurtCount" value="1"/>
 	<entry name="Eldar/AvatarOfKhaine:Idle#0" value="THIS PLANET TEARS AT ME"/>
 	<entry name="Eldar/AvatarOfKhaine:Idle#1" value="THIS HAND WIELDS THE SWORD"/>
-	<entry name="Eldar/AvatarOfKhaine:Idle#2" value="VAUL... DIED"/>
+	<entry name="Eldar/AvatarOfKhaine:Idle#2" value="VAUL… DIED"/>
 	<entry name="Eldar/AvatarOfKhaine:Idle#3" value="SUNDERED, I FIGHT ON"/>
 	<entry name="Eldar/AvatarOfKhaine:IdleCount" value="4"/>
 	<entry name="Eldar/AvatarOfKhaine:Shaken#0" value="COME CLOSER, MORTALS"/>

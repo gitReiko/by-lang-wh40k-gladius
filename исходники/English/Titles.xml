@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AdeptusMechanicus0" value="Duststriders"/>
+	<entry name="AdeptusMechanicus1" value="Dyzonizers"/>
+	<entry name="AdeptusMechanicus2" value="The Gothic Maniple"/>
+	<entry name="AdeptusMechanicus3" value="Oud Oudians"/>
+	<entry name="AdeptusMechanicus4" value="Zaibatsun"/>
+	<entry name="AdeptusMechanicus5" value="Terrawatt Rembrancers"/>
+	<entry name="AdeptusMechanicus6" value="Steel, Confessed"/>
+	<entry name="AdeptusMechanicus7" value="Martian Dragoons"/>
+	<entry name="AdeptusMechanicus8" value="Land Grinders"/>
+	<entry name="AdeptusMechanicus9" value="Gulden Scriptoria"/>
+	<entry name="AdeptusMechanicus10" value="Questor Peltasts"/>
+	<entry name="AdeptusMechanicus11" value="Cyberiades"/>
+	<entry name="AdeptusMechanicus12" value="Belisarian"/>
+	<entry name="AdeptusMechanicusCount" value="13"/>
 	<entry name="AstraMilitarum0" value="Veterans of Miral"/>
 	<entry name="AstraMilitarum1" value="Kathur Irregulars"/>
 	<entry name="AstraMilitarum2" value="Guard of the Nurth Wastes"/>
@@ -43,7 +57,7 @@
 	<entry name="Necrons1" value="Golden Harpies"/>
 	<entry name="Necrons2" value="High Guard"/>
 	<entry name="Necrons3" value="The Overlord's Chosen"/>
-	<entry name="Necrons4" value="The Anatomists "/>
+	<entry name="Necrons4" value="The Anatomists"/>
 	<entry name="Necrons5" value="Iota of the Endless Swarm"/>
 	<entry name="Necrons6" value="Tongues of the Deceiver"/>
 	<entry name="Necrons7" value="Doom of the Flayer"/>

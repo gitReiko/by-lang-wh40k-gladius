@@ -9,6 +9,7 @@
 	<entry name="AddPlayerHint" value="Add a player."/>
 	<entry name="AdditionalContentAvailable" value="Additional content available"/>
 	<entry name="Advanced" value="Advanced"/>
+	<entry name="AdeptusMechanicusPlayerPowers" value="Glory of the Machine God"/>
 	<entry name="Agree" value="Agree"/>
 	<entry name="AgreeTermsAndConditionsHint" value="I have read and agree to the terms and conditions."/>
 	<entry name="All" value="All"/>
@@ -105,6 +106,7 @@
 	<entry name="Installed" value="Installed"/>
 	<entry name="IntroductionGame" value="Introduction"/>
 	<entry name="IntroductionGameHint" value="Start an introduction game with Space Marines on the easiest difficulty."/>
+	<entry name="InvalidName" value="Invalid name."/>
 	<entry name="InviteEpicFriend" value="Invite Epic Friend"/>
 	<entry name="InviteSteamFriend" value="Invite Steam Friend"/>
 	<entry name="InviteSteamFriendHint" value="<style color='GUI/Yellow'/>Steam is only able to send friend invites if your profile privacy settings (game details) are not set to private."/>
@@ -113,7 +115,7 @@
 	<entry name="ItemShop" value="Item Shop"/>
 	<entry name="Items" value="Items"/>
 	<entry name="Join" value="Join"/>
-	<entry name="JustOneMoreTurn" value="Wait! Just... one... more... turn..."/>
+	<entry name="JustOneMoreTurn" value="Wait! Just… one… more… turn…"/>
 	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% experience<br/><icon texture='GUI/Bullet'/>%3% death experience value"/>
 	<entry name="LimitReached" value="Limit reached."/>
 	<entry name="Load" value="Load"/>
@@ -166,7 +168,7 @@
 	<entry name="Player" value="Player"/>
 	<entry name="PlayerXTurn" value="%1%'s Turn"/>
 	<entry name="Players" value="Players"/>
-	<entry name="PleaseWait" value="Please Wait ..."/>
+	<entry name="PleaseWait" value="Please Wait …"/>
 	<entry name="PleaseWaitHint" value="Please wait for other players."/>
 	<entry name="Quests" value="Quests"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Radius: %1% tile"/>
@@ -188,6 +190,7 @@
 	<entry name="Research" value="Research"/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% accumulated"/>
+	<entry name="ResourceFromAdjacentBuildings" value="    <icon texture='GUI/Bullet'/>%1% from adjacent buildings"/>
 	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% from buildings"/>
 	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% from city amount"/>
 	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% from destruction"/>

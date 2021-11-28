@@ -15,6 +15,8 @@
 	<entry name="ArtefactDensity2" value="Medium"/>
 	<entry name="ArtefactDensity3" value="High"/>
 	<entry name="ArtefactDensity4" value="Very High"/>
+	<entry name="AvoidDuplicateRandomFactions" value="Avoid Duplicate Random Factions"/>
+	<entry name="AvoidDuplicateRandomFactionsHint" value="Adjust random faction chances so that the each faction appears an equal amount of times in the game."/>
 	<entry name="DesertRegionDensity" value="Desert Region Density"/>
 	<entry name="DesertRegionDensity0" value="None"/>
 	<entry name="DesertRegionDensity1" value="Very Low"/>
@@ -24,6 +26,7 @@
 	<entry name="DesertRegionDensity5" value="Very High"/>
 	<entry name="Difficulty" value="Difficulty"/>
 	<entry name="Difficulty0" value="Very Easy"/>
+	<entry name="Difficulty0AdeptusMechanicus" value="Adsecularis"/>
 	<entry name="Difficulty0AstraMilitarum" value="Conscript"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Cultist"/>
 	<entry name="Difficulty0Eldar" value="Guardian"/>
@@ -35,6 +38,7 @@
 	<entry name="Difficulty0Tyranids" value="Scarab"/>
 	<entry name="Difficulty0FactionHint" value="%1%: moderate loyalty disadvantage given."/>
 	<entry name="Difficulty1" value="Easy"/>
+	<entry name="Difficulty1AdeptusMechanicus" value="Servitor"/>
 	<entry name="Difficulty1AstraMilitarum" value="Guardsman"/>
 	<entry name="Difficulty1ChaosSpaceMarines" value="Spawn"/>
 	<entry name="Difficulty1Eldar" value="Aspect Warrior"/>
@@ -46,6 +50,7 @@
 	<entry name="Difficulty1Tyranids" value="Termagant"/>
 	<entry name="Difficulty1FactionHint" value="%1%: small loyalty disadvantage given."/>
 	<entry name="Difficulty2" value="Medium"/>
+	<entry name="Difficulty2AdeptusMechanicus" value="Enginseer"/>
 	<entry name="Difficulty2AstraMilitarum" value="Sergeant"/>
 	<entry name="Difficulty2ChaosSpaceMarines" value="Fallen Brother"/>
 	<entry name="Difficulty2Eldar" value="Ranger"/>
@@ -57,6 +62,7 @@
 	<entry name="Difficulty2Tyranids" value="Warrior"/>
 	<entry name="Difficulty2FactionHint" value="%1%: no advantage or disadvantage given."/>
 	<entry name="Difficulty3" value="Hard"/>
+	<entry name="Difficulty3AdeptusMechanicus" value="Magos"/>
 	<entry name="Difficulty3AstraMilitarum" value="Commissar"/>
 	<entry name="Difficulty3ChaosSpaceMarines" value="Champion of Chaos"/>
 	<entry name="Difficulty3Eldar" value="Exarch"/>
@@ -68,6 +74,7 @@
 	<entry name="Difficulty3Tyranids" value="Lictor"/>
 	<entry name="Difficulty3FactionHint" value="%1%: small loyalty and level advantage given."/>
 	<entry name="Difficulty4" value="Very Hard"/>
+	<entry name="Difficulty4AdeptusMechanicus" value="Fabricator Locum"/>
 	<entry name="Difficulty4AstraMilitarum" value="General"/>
 	<entry name="Difficulty4ChaosSpaceMarines" value="Chaos Lord"/>
 	<entry name="Difficulty4Eldar" value="Autarch"/>
@@ -79,6 +86,7 @@
 	<entry name="Difficulty4Tyranids" value="Hive Tyrant"/>
 	<entry name="Difficulty4FactionHint" value="%1%: moderate loyalty and level advantage given."/>
 	<entry name="Difficulty5" value="Ultra Hard"/>
+	<entry name="Difficulty5AdeptusMechanicus" value="Fabricator General"/>
 	<entry name="Difficulty5AstraMilitarum" value="Lord Commander"/>
 	<entry name="Difficulty5ChaosSpaceMarines" value="Daemon Prince"/>
 	<entry name="Difficulty5Eldar" value="Farseer"/>
@@ -90,6 +98,7 @@
 	<entry name="Difficulty5Tyranids" value="Dominatrix"/>
 	<entry name="Difficulty5FactionHint" value="%1%: large loyalty and level advantage given."/>
 	<entry name="Difficulty6" value="Impossible"/>
+	<entry name="Difficulty6AdeptusMechanicus" value="Omnissiah"/>
 	<entry name="Difficulty6AstraMilitarum" value="Warmaster"/>
 	<entry name="Difficulty6ChaosSpaceMarines" value="Dark God"/>
 	<entry name="Difficulty6Eldar" value="Avatar"/>
@@ -207,6 +216,7 @@
 	<entry name="Supplement6" value="Assault Pack DLC"/>
 	<entry name="Supplement7" value="Craftworld Aeldari DLC"/>
 	<entry name="Supplement8" value="Specialist Pack DLC"/>
+	<entry name="Supplement9" value="Adeptus Mechanicus DLC"/>
 	<entry name="TropicalRegionDensity" value="Tropical Region Density"/>
 	<entry name="TropicalRegionDensity0" value="None"/>
 	<entry name="TropicalRegionDensity1" value="Very Low"/>

@@ -6,7 +6,7 @@
 	<entry name="ConfirmRemoveItem" value="Are you sure you want to destroy “%1%”?"/>
 	<entry name="ConfirmRestoreDefaults" value="Are you sure you want to restore the default %1% settings?"/>
 	<entry name="ConfirmSurrender" value="Are you sure you want to surrender?"/>
-	<entry name="ConnectingToServer" value="Connecting to server ..."/>
+	<entry name="ConnectingToServer" value="Connecting to server …"/>
 	<entry name="ConnectionLost" value="Connection lost."/>
 	<entry name="Error" value="Error"/>
 	<entry name="GameLoaded" value="Game loaded"/>
@@ -17,7 +17,7 @@
 	<entry name="Kicked" value="You have been kicked from the server."/>
 	<entry name="MasterServerUnreachable" value="Could not connect to master server."/>
 	<entry name="MissingDLC" value="Missing DLC."/>
-	<entry name="ModUploading" value="Uploading mod ..."/>
+	<entry name="ModUploading" value="Uploading mod …"/>
 	<entry name="ModUploadComplete" value="Mod uploaded."/>
 	<entry name="ModUploadFailed" value="Mod upload failed."/>
 	<entry name="NoFreeSlots" value="No free slot available on the server."/>
@@ -28,9 +28,9 @@
 	<entry name="PlayerLeft" value="%1% has left."/>
 	<entry name="PleaseEnterYourName" value="Please enter your name."/>
 	<entry name="PleaseWait" value="<style color='GUI/Red'/>Please wait"/>
-	<entry name="ReceivingInfo" value="Receiving info ..."/>
+	<entry name="ReceivingInfo" value="Receiving info …"/>
 	<entry name="RestartRequired" value="You must restart the game for the changes to take effect."/>
-	<entry name="RetrievingServerList" value="Retrieving server list ..."/>
+	<entry name="RetrievingServerList" value="Retrieving server list …"/>
 	<entry name="ScreenShotSaveError" value="Error saving screen shot"/>
 	<entry name="ScreenShotSaved" value="Screen shot saved"/>
 	<entry name="SetBinding" value="Press a new key combination to bind to %1%."/>

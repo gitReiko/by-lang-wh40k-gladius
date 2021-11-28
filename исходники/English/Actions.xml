@@ -41,6 +41,93 @@
 	<entry name="AcquireTile" value="Acquire Tile"/>
 	<entry name="AcquireTileDescription" value="Acquires a new tile for the city. Buildings can only be built on acquired tiles. Each tile has an influence upkeep."/>
 	<entry name="Activate" value="Activate"/>
+	<entry name="AdeptusMechanicus/AggressionOverride" value="Aggression Override"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Increases the attacks of target allied Adeptus Mechanicus unit."/>
+	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="Employing data-refined kill-canticle protocols, the Marshal ensures his Skitarii are driven into a state of heightened ferocity that sees their bloodstreams boil with combat hyperstimulants."/>
+	<entry name="AdeptusMechanicus/AggressorImperative" value="Aggressor Imperative"/>
+	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Increases the movement, but decreases the armour of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="The Skitarii feel the press of an invisible hand upon their minds as the Machine God drives them forward. Servos are pushed to their structural limits as fibre bundles fill with the boundless energy of the Motive Force and propel the faithful on an unstoppable crusade."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="Benediction of Omniscience"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Increases the ranged accuracy of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Those blessed enough to comprehend this blaring vox-prayer find their targeting reticules guided by the Omnissiah’s own vigilance."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Broad Spectrum Data-Tether"/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Reduces the morale loss of adjacent allied Adeptus Mechanicus units."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="A vehicle-mounted version of that carried by veteran Skitarii, the broad spectrum datatether projects a Tech-Priest’s binharic blurts with such clarity it seems he is amongst the ranks of the Skitarii himself. Imperatives delivered via such information relays are more potent and reliable than any other."/>
+	<entry name="AdeptusMechanicus/BulwarkImperative" value="Bulwark Imperative"/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Increases the armour, but decreases the movement of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="The warrior wisdom of ancient and experienced Reductors is force-loaded into the Skitarii’s minds. Each thrilling pulse of data locks microactuators into bracing positions, brings reserve power cells online and bestows a sensation of sacred invulnerability upon the Tech-Priests’ soldiers."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFist" value="Chant of the Remorseless Fist"/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Increases the melee accuracy of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="In spitting out a staccato chant to the Motive Force, the faithful warriors of the Cult Mechanicus are filled with merciless surety as well as intent."/>
+	<entry name="AdeptusMechanicus/CommandUplink" value="Command Uplink"/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Reduces the morale loss of adjacent allied Adeptus Mechanicus units."/>
+	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="“You may feel fear, you may want to flee; but when your Magos can, with a thought, stop your limbs taking a single step back, well, then you fight anyway.”<br/>—Marshal Diktum"/>
+	<entry name="AdeptusMechanicus/ConquerorImperative" value="Conqueror Imperative"/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Increases the melee accuracy, but decreases the ranged accuracy of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="When the enemy close in, the Tech-Priests controlling each maniple inload Conqueror imperatives that boost the martial subroutines of their Skitarii minions and galvanise them into physical action at the expense of their more elaborate targeting programmes."/>
+	<entry name="AdeptusMechanicus/ControlEdict" value="Control Edict"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Removes Doctrina Imperatives malus from allied units in range."/>
+	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="A Doctrina Imperative is hardly a subtle tool, disabling a soldier just as much as it enables them elsewhere. Yet the attentions of a experienced Marshal can aid in overcoming the Imperative’s cruder commands, enabling it the soldier to perform far above their nominal norms."/>
+	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Data-Blessed Autosermon"/> <!-- Tech-Priest Manipulus elite -->
+	<entry name="AdeptusMechanicus/DataBlessedAutosermonDescription" value="Canticles of the Omnissiah units in the area grant research when killing enemies."/>
+	<entry name="AdeptusMechanicus/DataBlessedAutosermonFlavor" value="Struck with an infoload of revelation, truly blessed Tech-Priests will override the sacred canticles to deliver the Machine God’s adaptive wisdom."/>
+	<entry name="AdeptusMechanicus/ElectroShocked" value="Electro-Shocked"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/ElectroShockedDescription" value="Stuns target enemy infantry or monstrous creature."/>
+	<entry name="AdeptusMechanicus/ElectroShockedFlavor" value="The truly devout can send a sudden charge of the Motive Force pulsing through their numerous augmentations, stunning nearby foes."/>
+	<entry name="AdeptusMechanicus/EnrichedRounds" value="Enriched Rounds"/> <!-- Skitarii Marshal elite -->
+	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Increases the damage of target allied Adeptus Mechanicus unit."/>
+	<entry name="AdeptusMechanicus/EnrichedRoundsFlavor" value="Sanctified with the Tri-fold Litany, each of these slugs has spent a decade in the oldest and most irradiated forge temple to certify their lethality. When the Marshal hands them out to his maniples, they know they must make every shot count."/>
+	<entry name="AdeptusMechanicus/GalvanicField" value="Galvanic Field"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/GalvanicFieldDescription" value="Increases the armour penetration of target allied Adeptus Mechanicus unit."/>
+	<entry name="AdeptusMechanicus/GalvanicFieldFlavor" value="Using the Motive Force contained within a large galvanic cell, the Manipulus’s electropositors can infuse the weaponry of nearby allies with the underlying current of all life, carrying the Omnissiah sacred benedictions forward to cast all heretics down."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoul" value="Incantation of the Iron Soul"/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulDescription" value="Reduces the morale loss of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulFlavor" value="Raising their voices in binharic praise, the Disciples of the Machine God bolster their spirits with the surety of iron."/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMight" value="Invocation of Machine-Might"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightDescription" value="Increases the melee damage of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightFlavor" value="The Tech-Priests lead their minions in a binharic prayer that sends miraculous strength surging through tendons, wires and pistons."/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="Litany of the Electromancer"/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Damages target enemy unit. Attacks and cost scales with the amount of Canticles of the Omnissiah units (up to 10)."/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Summoning the spark of the Machine God’s divinity that burns within them, the Omnissiah’s faithful manifest blazing auras of energy that lay low the unbeliever."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Lord of the Machine Cult"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Increases the accuracy of adjacent Adeptus Mechanicus units."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“You may say, it is impossible for a man to become like the Machine. And I would reply, that only the smallest mind strives to comprehend its limits.”<br/>—Fabricator General Kane"/>
+	<entry name="AdeptusMechanicus/MasterOfMachines" value="Master of Machines"/>
+	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Restores the hitpoints of the target allied Adeptus Mechanicus, vehicle or fortification unit."/>
+	<entry name="AdeptusMechanicus/MasterOfMachinesFlavor" value="“Our enemies may rest but rust never sleeps.”<br/>—Tech-Priest Jung, Forge World Gehenna"/>
+	<entry name="AdeptusMechanicus/MechanicusLocum" value="Mechanicus Locum"/> <!-- Tech-Priest Domunis elite -->
+	<entry name="AdeptusMechanicus/MechanicusLocumDescription" value="Increases the influence and research output."/>
+	<entry name="AdeptusMechanicus/MechanicusLocumFlavor" value="Every congregation of Tech-Priests comprises masters of arcane knowledge—zealous leaders of man and machine."/>
+	<entry name="AdeptusMechanicus/PowerSurge" value="Power Surge"/> <!-- Faction ability -->
+	<entry name="AdeptusMechanicus/PowerSurgeDescription" value="Increases the ouput of non-headquarters buildings on the target tile."/>
+	<entry name="AdeptusMechanicus/PowerSurgeFlavor" value="“Throw open the transonic oscillator and escalate the dereactor another three points. I require those forges running at optimal efficiency!”<br/>—ArchMagos Dyatskin, shortly before the loss of Arklis Hive Primus"/>
+	<entry name="AdeptusMechanicus/ProtectorImperative" value="Protector Imperative"/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="Increases the ranged accuracy, but decreases the melee accuracy of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeFlavor" value="The Protector imperative is codified to yield the maximum spectra of hard data. Extra power is fed into narrow-band optics and rangefinders connected directly to the Skitarii’s priority programming as the holy warriors’ guns become an extension of themselves."/>
+	<entry name="AdeptusMechanicus/RadSaturation" value="Rad-Saturation"/>
+	<entry name="AdeptusMechanicus/RadSaturationDescription" value="Damages adjacent enemy infantry and monstrous creature units each turn."/>
+	<entry name="AdeptusMechanicus/RadSaturationFlavor" value="Harnessing the destructive energies of forge worlds within their weaponry, certain Skitarii are so soaked in radiation that even to approach them is to confer a death sentence upon yourself. Victory for them is pyrrhic, as this radiation burns through even their heavy armour plate, slowly poisoning them to death even as their carbines bring about the (much quicker) demise of their enemies."/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobot" value="Reprogram Kastelan Robot"/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobotDescription" value="Takes control of the target enemy Kastelan Robot."/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobotFlavor" value="Since the aftermath of Warmaster Horus’ rebellion the Legio Cybernetica’s robots have been controlled completely by their masters – not by the bio-plastic cerebra and nerve-like tendril webs of Mechanicum constructs, but by sanctified doctrina wafers. No bigger than the cards of the Emperor’s Tarot, these slivers of wetware are entrusted to the Cybernetica Datasmiths that accompany the robot maniples to war. Inserted into the dataslot hidden behind each robot’s chestplate, the wafer’s command protocol will dictate every iota of the host’s behaviour, usually optimising its ability to destroy its foes in a spectacular fashion."/>
+	<entry name="AdeptusMechanicus/Scryerskull" value="Scryerskull"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Reveals the target tile and adjacent tiles."/>
+	<entry name="AdeptusMechanicus/ScryerskullFlavor" value="The Adeptus Mechanicus take the assessment and exploitation of battlefield resources very seriously indeed – so much so that many of them continue their work in this role beyond the point of death."/>
+	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Servo-Skull Uplink"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Increases the damage of allied Adeptus Mechanicus units in range."/>
+	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="It is a great honour for a pious Imperial servant or tech-adept to be converted into a servo skull after death—to have their skull augmented with anti-grav and a rudimentary machine intelligence. Optically-augmented servo skulls like those possessed by a Skitarii Marshal are useful for reconnaissance and targeting, hugely reducing the chance of wasted shots."/>
+	<entry name="AdeptusMechanicus/Shroudpsalm" value="Shroudpsalm"/>
+	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Increases the ranged damage reduction of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
+	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="Robot, servitor and priest shift their binharic emissions into the visible spectra, the static pouring from their vox-grilles manifesting as an electromagnetic storm that hides them from the foe."/>
+	<entry name="AdeptusMechanicus/TechAdept" value="Tech-Adept"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/TechAdeptDescription" value="<string name='Actions/AdeptusMechanicus/MasterOfMachinesDescription'/>"/>
+	<entry name="AdeptusMechanicus/TechAdeptFlavor" value="Repairing war engines damaged in the crusade is a holy task."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Voices In The Code"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Increases the morale loss of adjacent enemy units."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="Closing with a Sicarian Infiltrator is a mistake—their augmented craniums broadcast a brutally disruptive audiovisual assault, causing enemies to fall deafened and blinded; battles are often decided before even a single kill is confirmed."/>
+	<entry name="AdeptusMechanicus/WrathOfMars" value="Wrath of Mars"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/WrathOfMarsDescription" value="Increases the damage of the Tech-Priest Dominus."/>
+	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="None can smite the blasphemer like those from Mars, for theirs is the most righteous of zeal. All praise the glory of the Machine God!"/>
 	<entry name="Agile" value="Agile"/>
 	<entry name="AgileDescription" value="Increases the movement, but decreases the attacks."/>
 	<entry name="AgileFlavor" value="The size of some creatures misleads you. Take the Tyranid’s Hierodule. Instead of lumbering forward like a lumpen Ogryn, their focus and grace is, surprisingly, closer to that of a Harlequin. A hungry Harlequin the size of a house, admittedly, with acid drool and scytheblade arms the length of a Land Raider, that is, but elegant all the same."/>
@@ -102,7 +189,7 @@
 	<entry name="AuraOfFearFlavor" value="Some beings are so monstrous or alien that they can force their foes to recoil in horror."/>
 	<entry name="AwakenTheMachine" value="Awaken The Machine"/>
 	<entry name="AwakenTheMachineDescription" value="Increases the ranged accuracy of the target allied vehicle or fortification unit."/>
-	<entry name="AwakenTheMachineFlavor" value="“With push of Button fire the Engine<br/>And spark Turbine into life...<br/>Toll the Great Bell Thrice!<br/>Sing Praise to the<br/>God of All Machines”<br/>  — Catechism of the Autoculus of Mars"/>
+	<entry name="AwakenTheMachineFlavor" value="“With push of Button fire the Engine<br/>And spark Turbine into life…<br/>Toll the Great Bell Thrice!<br/>Sing Praise to the<br/>God of All Machines”<br/>  — Catechism of the Autoculus of Mars"/>
 	<entry name="BlessingsOfTheOmnissiah" value="Blessings of the Omnissiah"/>
 	<entry name="BlessingsOfTheOmnissiahDescription" value="Restores the hitpoints of the target allied vehicle or fortification unit."/>
 	<entry name="BlessingsOfTheOmnissiahFlavor" value="“Thus do we invoke the Machine God.<br/>Thus do we make whole that which was sundered.”<br/>  — Hymn of reforging"/>
@@ -133,7 +220,7 @@
 	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Performs a devastating Thunder Hammer attack against the target enemy unit with less than 50% hitpoints."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isn’t just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—it’s to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagion" value="Gift of Contagion"/>
-	<entry name="ChaosSpaceMarines/GiftOfContagionDescription" value="Deals damage to the target enemy infantry unit."/>
+	<entry name="ChaosSpaceMarines/GiftOfContagionDescription" value="Deals damage to the target enemy infantry or monstrous creature unit."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagionFlavor" value="The psyker gathers clouds of contagion and rot-flies about his enemies, granting them Father Nurgle's blessing."/>
 	<entry name="ChaosSpaceMarines/IchorBlood" value="Ichor Blood"/>
 	<entry name="ChaosSpaceMarines/IchorBloodDescription" value="Enemies take damage when they cause melee damage."/>
@@ -298,7 +385,7 @@
 	<entry name="DominateFlavor" value="The psyker reaches into his foe’s mind, trammelling his soul and crushing his will to fight on."/>
 	<entry name="Eldar/ActivateWebwayGate" value="Activate Webway Gate"/>
 	<entry name="Eldar/ActivateWebwayGateDescription" value="Activates and claims a neutral Webway Gate."/>
-	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime..."/>
+	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime…"/>
 	<entry name="Eldar/AutarchsAssault" value="Autarch's Assault"/>
 	<entry name="Eldar/AutarchsAssaultDescription" value="Kills with the Autarch increase the damage of allied Craftworld Aeldari units in the area."/>
 	<entry name="Eldar/AutarchsAssaultFlavor" value="The Autarch is the master of warfare, having lived many lives in every Aeldari aspect shrine. Every one of his skilful attacks is both an inspiration to other Aeldari and a lesson in how to conduct war most effectively."/>
@@ -352,7 +439,7 @@
 	<entry name="Eldar/VectoredEnginesFlavor" value="Vectored engines allow the pilot of an Aeldari vehicle to rapidly alter its facing, placing deadly weapons, or stronger armour, to the fore. Often, this can mean the difference between sustaining critical damage and taking an indirect blow that can soon be shrugged off."/>
 	<entry name="Eldar/WarShout" value="War Shout"/>
 	<entry name="Eldar/WarShoutDescription" value="Reduces the morale of adjacent enemy units."/>
-	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready..."/>
+	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready…"/>
 	<entry name="Eldar/WebwayRedoubt" value="Found Webway Redoubt"/>
 	<entry name="Eldar/WebwayRedoubtDescription" value="Founds city on a claimed Webway Gate.<br/><br/>Cities can only be found where there are no other cities within a 4 tile radius. Each city after the first decreases loyalty in all cities by 6."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webway’s limitless power to devastate any enemies foolish enough to venture near."/>
@@ -433,7 +520,7 @@
 	<entry name="MisfortuneFlavor" value="With a click of his fingers, the diviner twists fate so that his followers' blows punch through the weakest points in their opponent's armour."/>
 	<entry name="Move" value="Move"/>
 	<entry name="Narthecium" value="Narthecium"/>
-	<entry name="NartheciumDescription" value="Restores the hitpoints of the target allied infantry unit."/>
+	<entry name="NartheciumDescription" value="Restores the hitpoints of the target allied infantry or monstrous creature unit."/>
 	<entry name="NartheciumFlavor" value="The narthecium is used by Space Marine Apothecaries to dispense medical aid, including complex battlefield surgery, to the wounded. The wrist-mounted device also houses a reductor—the mechanism with which the gene-seed of the fallen is recovered, ensuring the Chapter's future."/>
 	<entry name="Necrons/BloodyCrusade" value="Bloody Crusade"/>
 	<entry name="Necrons/BloodyCrusadeDescription" value="Increases the attacks."/>
@@ -501,7 +588,7 @@
 	<entry name="Necrons/TheBoundCoalescentFlavor" value="The C'tan were immeasurably-powerful and wholly evil; these shards, fragmented by the Necrons' desperate conspiracy, are all that remains of them. In desperate times, two shards might be allowed to re-coalesce, to form a greater weapon—but the Necrons never forget the insane power of the originals."/>
 	<entry name="Necrons/VoidStrike" value="Void Strike"/>
 	<entry name="Necrons/VoidStrikeDescription" value="Performs a Voidblade attack with increased attacks."/>
-	<entry name="Necrons/VoidStrikeFlavor" value="”The best weapon is the one that you never have to use.”<br/>  — Kanaa the Tranquil, Necron Cryptek, creator of the Void Strike."/>
+	<entry name="Necrons/VoidStrikeFlavor" value="“The best weapon is the one that you never have to use.”<br/>  — Kanaa the Tranquil, Necron Cryptek, creator of the Void Strike."/>
 	<entry name="Necrons/WrithingWorldscape" value="Writhing Worldscape"/>
 	<entry name="Necrons/WrithingWorldscapeDescription" value="Reduces the movement of adjacent enemy units."/>
 	<entry name="ObjurationMechanicum" value="Objuration Mechanicum"/>
@@ -526,13 +613,13 @@
 	<entry name="Orks/BigBossFlavor" value="“Da bigger I iz, the 'arder I 'it.”<br/>  — Da Rok, Ork Nob"/>
 	<entry name="Orks/BustHeads" value="Bust Heads"/>
 	<entry name="Orks/BustHeadsDescription" value="Reduces the morale loss for the Warboss and nearby allied units."/>
-	<entry name="Orks/BustHeadsFlavor" value="“Oi, you zogging berks! Stop 'itting each uvver and start 'itting the beakies! Or do I have to start 'itting... you? I ain't askin'—I's tellin'. Geddit?”<br/>  — Da Rok, Ork Nob"/>
+	<entry name="Orks/BustHeadsFlavor" value="“Oi, you zogging berks! Stop 'itting each uvver and start 'itting the beakies! Or do I have to start 'itting… you? I ain't askin'—I's tellin'. Geddit?”<br/>  — Da Rok, Ork Nob"/>
 	<entry name="Orks/ChannelMentalEmissions" value="Channel Mental Emissions"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Increases the research output of the clan."/>
 	<entry name="Orks/ChannelMentalEmissionsFlavor" value="“The Orks are the pinnacle of creation. For them, the great struggle is won. They have evolved a society which knows no stress or angst. Who are we to judge them? We Aeldari who have failed, or the Humans, on the road to ruin in their turn? And why? Because we sought answers to questions that an Ork wouldn't even bother to ask! We see a culture that is strong and despise it as crude.”<br/>  — Uthan the Perverse, Aeldari Philosopher"/>
 	<entry name="Orks/CyborkImplants" value="Cybork Implants"/>
-	<entry name="Orks/CyborkImplantsDescription" value="Permanently increases the damage and damage reduction of the target allied infantry unit."/>
-	<entry name="Orks/CyborkImplantsFlavor" value="“Exhibit 40: Ork skin sample. This was from a senior individual in the Orkoid hierarchy, as can be seen from the increased thickness of bone, muscle and ablative skin, and the reduction in nerve structures. The laser grid is there to prevent it attempting to regrow the entire Ork.“<br/>  — Lecture transcripts, Grigomen ”Orklover” Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Orks/CyborkImplantsDescription" value="Permanently increases the damage and damage reduction of the target allied infantry or monstrous creature unit."/>
+	<entry name="Orks/CyborkImplantsFlavor" value="“Exhibit 40: Ork skin sample. This was from a senior individual in the Orkoid hierarchy, as can be seen from the increased thickness of bone, muscle and ablative skin, and the reduction in nerve structures. The laser grid is there to prevent it attempting to regrow the entire Ork.“<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Orks/DaJump" value="Da Jump"/>
 	<entry name="Orks/DaJumpDescription" value="Teleports the Weirdboy and adjacent allied units to the target tile and adjacent tiles."/>
 	<entry name="Orks/DaJumpFlavor" value="The Weirdboy closes his eyes tight and, in a storm of flashing green light, teleports himself to another part of the battlefield—along with any confused Boyz who happened to be standing too close to him at the time."/>
@@ -541,7 +628,7 @@
 	<entry name="Orks/DoksToolsFlavor" value="From chain-scalpels and cranial trowels to a nicely weighted mallet, Ork surgical implements are crude yet surprisingly effective."/>
 	<entry name="Orks/ExperimentalProcedure" value="Experimental Procedure"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Increases the damage and damage reduction of the target allied infantry unit."/>
-	<entry name="Orks/ExperimentalProcedureFlavor" value="“Exhibit 12: Ork biomechanical modification. 'Cyborks' are modified with equipment like this by the species' innate specialists, the 'Oddboyz', to repair major injuries and/or augment their capabilities. This one resembles an Imperial power weapon, save for the large claws and maker's mark which reads 'Grillmek woz 'ere!'“<br/>  — Lecture transcripts, Grigomen ”Orklover” Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Orks/ExperimentalProcedureFlavor" value="“Exhibit 12: Ork biomechanical modification. 'Cyborks' are modified with equipment like this by the species' innate specialists, the 'Oddboyz', to repair major injuries and/or augment their capabilities. This one resembles an Imperial power weapon, save for the large claws and maker's mark which reads 'Grillmek woz 'ere!'“<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Orks/ExtraBitz" value="Extra Bitz"/>
 	<entry name="Orks/ExtraBitzDescription" value="Reduces the food, ore and energy upkeep of infantry units in the region."/>
 	<entry name="Orks/KustomForceField" value="Kustom Force Field"/>
@@ -549,7 +636,7 @@
 	<entry name="Orks/KustomForceFieldFlavor" value="These bizarre devices are powered by crackling energy-coils and project invisible bubbles of energy that shield nearby Orks from incoming fire."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="Prophet of the Waaagh!"/>
 	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Increase the influence gain when dealing damage for units with Might Makes Right in the region."/>
-	<entry name="Orks/ProphetOfTheWaaaghFlavor" value="“I'm da hand of Gork and Mork, dey sent me to rouse up da boyz to crush and kill 'cos da boyz forgot what dere 'ere for... I'm da profit of da Waaagh an' whole worlds burn in my boot prints. I'm Warlord Ghazghkull Mag Uruk Thraka an' I speak wiv da word of da gods.”<br/>  — Ghazghkull Mag Uruk Thraka, Ork Warlord"/>
+	<entry name="Orks/ProphetOfTheWaaaghFlavor" value="“I'm da hand of Gork and Mork, dey sent me to rouse up da boyz to crush and kill 'cos da boyz forgot what dere 'ere for… I'm da profit of da Waaagh an' whole worlds burn in my boot prints. I'm Warlord Ghazghkull Mag Uruk Thraka an' I speak wiv da word of da gods.”<br/>  — Ghazghkull Mag Uruk Thraka, Ork Warlord"/>
 	<entry name="Orks/WarbikeTurboBoost" value="Warbike Turbo-Boost"/>
 	<entry name="Orks/WarbikeTurboBoostDescription" value="Increases the movement and ranged damage reduction."/>
 	<entry name="Orks/WarbikeTurboBoostFlavor" value="“‘Fasta, fasta! Dey can’t ‘it wot dey can’t sees! Smack all dem turbos!”  — Last words of Da Rok, Ork Nob and erstwhile warbiker."/>
@@ -637,10 +724,10 @@
 	<entry name="Tau/BreakComposureFlavor" value="Though not physically impressive, the T’au can inculcate fear in their enemies through subtler means—by harrying them so that they can’t focus, by surrounding them, by forcing them down tactical paths that only lead to repeated failure. Sometimes you don’t need to even touch an enemy to defeat them."/>
 	<entry name="Tau/CalmOfTides" value="Calm of Tides"/>
 	<entry name="Tau/CalmOfTidesDescription" value="Restores the hitpoints of the Ethereal and adjacent allied T'au infantry and monstrous creatures."/>
-	<entry name="Tau/CalmOfTidesFlavor" value="”Wait a moment. Breathe. Do not hurry to their salvation. All will come to the T’au eventually. Alive or dead.”<br/>  — Aun’Dak’E, Curator of Spirit."/>
+	<entry name="Tau/CalmOfTidesFlavor" value="“Wait a moment. Breathe. Do not hurry to their salvation. All will come to the T’au eventually. Alive or dead.”<br/>  — Aun’Dak’E, Curator of Spirit."/>
 	<entry name="Tau/ConvertWildlife" value="Convert Auxiliary"/>
 	<entry name="Tau/ConvertWildlifeDescription" value="Converts a unit of Kroot Hounds or Vespid Stingwings to your side. Enslaved units cannot be converted. Cost scales with target strength."/>
-	<entry name="Tau/ConvertWildlifeFlavor" value="”Soldiers of the Fire Caste! Kroot and Vespid allies! Today, we stand as a bulwark against the selfish, the soulless, and the mad!”<br/>  — Aun'el Shi'ores, at the loss of Kronus."/>
+	<entry name="Tau/ConvertWildlifeFlavor" value="“Soldiers of the Fire Caste! Kroot and Vespid allies! Today, we stand as a bulwark against the selfish, the soulless, and the mad!”<br/>  — Aun'el Shi'ores, at the loss of Kronus."/>
 	<entry name="Tau/CounterfireDefenceSystem" value="Install <string name='Traits/Tau/CounterfireDefenceSystem'/>"/>
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Installs support system that increases the accuracy of overwatch attacks."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="These AI sensor suites incorporate predictive logic circuits to ensure that assaulting enemies are met with a withering hail of fire."/>
@@ -651,7 +738,7 @@
 	<entry name="Tau/DroneControllerFlavor" value="A Drone controller acts as an interface between a Fire caste operator and the AI battle programs of nearby drones."/>
 	<entry name="Tau/ForTheGreaterGood" value="For The Greater Good"/>
 	<entry name="Tau/ForTheGreaterGoodDescription" value="Reduces target enemy unit's morale. Cost scales with target strength."/>
-	<entry name="Tau/ForTheGreaterGoodFlavor" value="”There are two kinds of conduct the Ethereals will not countenance. The first is a failure to reflect upon what is for the Greater Good of the T'au race. The second is the deliberate refusal to follow the path of the Greater Good when it is clear what it must be.”<br/>  — Por'ui Dal'yth Ukos, water caste envoy"/>
+	<entry name="Tau/ForTheGreaterGoodFlavor" value="“There are two kinds of conduct the Ethereals will not countenance. The first is a failure to reflect upon what is for the Greater Good of the T'au race. The second is the deliberate refusal to follow the path of the Greater Good when it is clear what it must be.”<br/>  — Por'ui Dal'yth Ukos, water caste envoy"/>
 	<entry name="Tau/GravityWaveProjector" value="Gravity Wave Projector"/>
 	<entry name="Tau/GravityWaveProjectorDescription" value="Prevents unit movement on target tile."/>
 	<entry name="Tau/GravityWaveProjectorFlavor" value="This projector emits a high-powered graviton wave that repulses nearby enemies, slowing their advance to a crawl."/>
@@ -660,13 +747,13 @@
 	<entry name="Tau/HolophotonCountermeasuresFlavor" value="Triggered by AI-assisted threat-warning protocols, holophoton countermeasures take the form of a targeted barrage of holo-decoys, friendly target simulacra and stroboscopic blasts. Enemy weapons are confounded, safety-switches engaging and machine spirits rebelling while their operators are left bewildered and blinded by the overwhelming sensory overload."/>
 	<entry name="Tau/Kauyon" value="Kauyon (Patient Hunter)"/>
 	<entry name="Tau/KauyonDescription" value="Metastrategy that increases the ranged damage reduction of allied T'au units in the area. Shares cooldown with other metastrategies."/>
-	<entry name="Tau/KauyonFlavor" value="”Your troops are losing. They fall back! They flee! The enemy pursues, hungry for our valourous blood! Everything is lost… then your troops turn and fire. You reveal the flanking troops. And your enemy is in a pocket, encircled. The patient hunter triumphs.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/KauyonFlavor" value="“Your troops are losing. They fall back! They flee! The enemy pursues, hungry for our valourous blood! Everything is lost… then your troops turn and fire. You reveal the flanking troops. And your enemy is in a pocket, encircled. The patient hunter triumphs.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/Markerlight" value="Markerlight"/>
 	<entry name="Tau/MarkerlightDescription" value="Increases the ranged accuracy of T'au against the target enemy unit. Reduces the ranged damage reduction of the target enemy unit against T'au. Ends after the target enemy unit is attacked by T'au."/>
 	<entry name="Tau/MarkerlightFlavor" value="A markerlight is a hand-held device that projects a simple beam onto a target which then transmits a torrent of targeting data to other T'au units, allowing them to engage the target with unerring accuracy."/>
 	<entry name="Tau/Montka" value="Mont'ka (Killing Blow)"/>
 	<entry name="Tau/MontkaDescription" value="Metastrategy that increases the damage of allied T'au units in the area against enemy units below 50% hitpoints. Shares cooldown with other metastrategies."/>
-	<entry name="Tau/MontkaFlavor" value="”Your enemy builds his force carefully. At its centre, lie his core units. You feign weakness. You draw them out. And you focus your fire on them. Without them, the enemy is lost. Cut off the head, the beast dies. Well, except for Be’gel.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/MontkaFlavor" value="“Your enemy builds his force carefully. At its centre, lie his core units. You feign weakness. You draw them out. And you focus your fire on them. Without them, the enemy is lost. Cut off the head, the beast dies. Well, except for Be’gel.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/NovaBoost" value="Nova Boost"/>
 	<entry name="Tau/NovaBoostDescription" value="Sacrifices hitpoints to increase the movement."/>
 	<entry name="Tau/NovaBoostFlavor" value="Though slightly unstable, the nova reactor is a dark-matter power source with an output akin to that of a small star."/>
@@ -678,7 +765,7 @@
 	<entry name="Tau/NovaShieldFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/PreciseShot" value="Precise Shot"/>
 	<entry name="Tau/PreciseShotDescription" value="Performs an uncompromising Pulse Rifle attack with increased accuracy, damage and range."/>
-	<entry name="Tau/PreciseShotFlavor" value="”I’m not going to teach you a special deathblow. I’m not going to give you a bigger gun. I’m not going to surround you with magic shield drones willing to die for you. But I am going to teach you to shoot straight, under fire, together. That immediately makes you better than every last Gue’la.”<br/>  — Tutor Sharptongue."/>
+	<entry name="Tau/PreciseShotFlavor" value="“I’m not going to teach you a special deathblow. I’m not going to give you a bigger gun. I’m not going to surround you with magic shield drones willing to die for you. But I am going to teach you to shoot straight, under fire, together. That immediately makes you better than every last Gue’la.”<br/>  — Tutor Sharptongue."/>
 	<entry name="Tau/PulseAccelerator" value="Pulse Accelerator"/>
 	<entry name="Tau/PulseAcceleratorDescription" value="Increases the range of pulse weapons of target allied unit."/>
 	<entry name="Tau/PulseAcceleratorFlavor" value="This device emits a powerful induction field that accelerates the charges of pulse weapons, increasing their range."/>
@@ -699,16 +786,16 @@
 	<entry name="Tau/PurchaseResearchFlavor" value="The Imperium’s technology may be archaic and strange, but the Earth Caste will never cease learning. If the Water Caste can persuade just a handful of Tech-priests to join our cause, their knowledge could supplement ours—could enable even more rapid advances in our technology."/>
 	<entry name="Tau/Rinyon" value="Rinyon (Circle of Blades)"/>
 	<entry name="Tau/RinyonDescription" value="Metastrategy that increases the accuracy of allied T'au units in the area against enemy units adjacent to other allied units. Shares cooldown with other metastrategies."/>
-	<entry name="Tau/RinyonFlavor" value="”Your enemy encircles you. His troops are close. Too close. Your targeting network assigns every Fire Caste a victim, not his neighbour. You fire as one, every shot strikes, they fall as one. A distracted enemy is as good as dead.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/RinyonFlavor" value="“Your enemy encircles you. His troops are close. Too close. Your targeting network assigns every Fire Caste a victim, not his neighbour. You fire as one, every shot strikes, they fall as one. A distracted enemy is as good as dead.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/Ripyka" value="Rip'yka (Thousand Daggers)"/>
 	<entry name="Tau/RipykaDescription" value="Reduces the cooldown of the Commander's metastrategies."/>
-	<entry name="Tau/RipykaFlavor" value="”The enemy’s armour is thick, your blade makes only a scratch. In his arrogance, he allows you to strike. Hit the same spot, ten, a hundred, a thousand times. That scratch becomes a dent becomes a hole becomes his death. Water erodes the stone.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/RipykaFlavor" value="“The enemy’s armour is thick, your blade makes only a scratch. In his arrogance, he allows you to strike. Hit the same spot, ten, a hundred, a thousand times. That scratch becomes a dent becomes a hole becomes his death. Water erodes the stone.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/ProjectShield" value="Project Shield"/>
 	<entry name="Tau/ProjectShieldDescription" value="Increases the damage reduction of target allied unit."/>
 	<entry name="Tau/ProjectShieldFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SenseOfStone" value="Sense of Stone"/>
 	<entry name="Tau/SenseOfStoneDescription" value="Increases the damage reduction of the Ethereal and adjacent allied T'au infantry and monstrous creatures. Shares cooldown with Storm of Fire."/>
-	<entry name="Tau/SenseOfStoneFlavor" value="”There are only four thoughts the Fire Caste must know. Knowing when to hide. Knowing when to defend. Knowing when to mislead. And knowing when to strike. Ask nothing more.”<br/>  — Aun’Dak’E, Curator of Spirit."/>
+	<entry name="Tau/SenseOfStoneFlavor" value="“There are only four thoughts the Fire Caste must know. Knowing when to hide. Knowing when to defend. Knowing when to mislead. And knowing when to strike. Ask nothing more.”<br/>  — Aun’Dak’E, Curator of Spirit."/>
 	<entry name="Tau/ShieldGenerator" value="Install <string name='Traits/Tau/ShieldGenerator'/>"/>
 	<entry name="Tau/ShieldGeneratorDescription" value="Installs support system that increases the damage reduction."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="This generator projects a choesive energy field capable of protecting the bearer from heavy ordnance and anti-tank weapons fire."/>
@@ -720,10 +807,10 @@
 	<entry name="Tau/StimulantInjectorFlavor" value="The battlesuit is fitted with an advanced life-support system that is able to flood the warrior's system with analgesic drugs and life-sustaining stimulants should he become wounded."/>
 	<entry name="Tau/StormOfFire" value="Storm of Fire"/>
 	<entry name="Tau/StormOfFireDescription" value="Increases the attacks of the Ethereal and adjacent allied T'au infantry and monstrous creatures. Shares cooldown with Sense of Stone."/>
-	<entry name="Tau/StormOfFireFlavor" value="”It burns so briefly, the light of my children, so briefly. But, by the Greater Good, it burns so bright!”<br/>  — Aun’Va, Master of the Undying Spirit."/>
+	<entry name="Tau/StormOfFireFlavor" value="“It burns so briefly, the light of my children, so briefly. But, by the Greater Good, it burns so bright!”<br/>  — Aun’Va, Master of the Undying Spirit."/>
 	<entry name="Tau/SubvertCity" value="Subvert City"/>
 	<entry name="Tau/SubvertCityDescription" value="Reduces the loyalty of target enemy city. Cost scales with target population."/>
-	<entry name="Tau/SubvertCityFlavor" value="”What’s that? You call that a house!? Someone lives in that?! Oh my. Well, it shows just how brave you all are. Your masters know you don’t need proper shelter or water or food or sleep or rest to die doing your jobs, for the ‘Great Emperator’! If he even exists. Anyway, if you change your mind about joining the T’au, do let me know.”<br/>  — Por'el Dal'kor Slytongue, water caste emissary"/>
+	<entry name="Tau/SubvertCityFlavor" value="“What’s that? You call that a house!? Someone lives in that?! Oh my. Well, it shows just how brave you all are. Your masters know you don’t need proper shelter or water or food or sleep or rest to die doing your jobs, for the ‘Great Emperator’! If he even exists. Anyway, if you change your mind about joining the T’au, do let me know.”<br/>  — Por'el Dal'kor Slytongue, water caste emissary"/>
 	<entry name="Tau/Unity" value="Unity"/>
 	<entry name="Tau/UnityDescription" value="Increases the loyalty output of all cities."/>
 	<entry name="Tau/UnityFlavor" value="Though the Commanders are the icons of T’au propaganda, it is the Fireblades who are quietly regarded as the true heroes—warriors good enough to don Battle Suits who choose instead to stay with the rank and file, training them for the Greater Good. They are the true inspirations."/>
@@ -738,7 +825,7 @@
 	<entry name="Tau/VolleyFireFlavor" value="Under the constant eye of their Tutor, Fire Caste units learn to take cover, wait for the right moment and fire as one. The resulting volley of pulsed energy hits like neon fireworks and can thoroughly demoralize enemies."/>
 	<entry name="Tau/ZephyrsGrace" value="Zephyr's Grace"/>
 	<entry name="Tau/ZephyrsGraceDescription" value="Increases the action points of adjacent allied T'au infantry and monstrous creatures."/>
-	<entry name="Tau/ZephyrsGraceFlavor" value="”Let none doubt that the Tau Empire will bring unity to all – let none doubt that now is our time. Forward, for the Greater Good!”<br/>  — Aun’Va, Master of the Undying Spirit."/>
+	<entry name="Tau/ZephyrsGraceFlavor" value="“Let none doubt that the Tau Empire will bring unity to all – let none doubt that now is our time. Forward, for the Greater Good!”<br/>  — Aun’Va, Master of the Undying Spirit."/>
 	<entry name="TelekineDome" value="Telekine Dome"/>
 	<entry name="TelekineDomeDescription" value="Creates a barrier on the tile of the Librarian and adjacent tiles that increases the ranged damage reduction."/>
 	<entry name="TelekineDomeFlavor" value="Bullets bounce off of thin air and are deflected harmlessly away as the psyker erects a barrier of shimmering energy about himself."/>
