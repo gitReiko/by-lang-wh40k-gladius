@@ -810,7 +810,7 @@
 	<entry name="FuriousChargeDescription" value="Павялічвае шкоду ў блізкім баі."/>
 	<entry name="FuriousChargeFlavor" value="Some warriors use the impetus of the charge to fuel their own fury."/>
 	<entry name="Gargantuan" value="Гіганцкі"/>
-	<entry name="GargantuanDescription" value="Класіфікацыя."/>
+	<entry name="GargantuanDescription" value="Не можа назіраць."/>
 	<entry name="GargantuanFlavor" value="Gargantuan creatures are of such immense size that they can take on entire armies. They tower over the battlefield, making the ground shudder as they advance upon the foe, crushing lesser creatures beneath their feet as they lumber forwards."/>
 	<entry name="GargantuanCreature" value="<string name='Traits/Gargantuan'/>"/>
 	<entry name="GargantuanCreatureDescription" value="<string name='Traits/GargantuanDescription'/>"/>
@@ -1383,7 +1383,7 @@
 	<entry name="Summon" value="Прызваны"/>
 	<entry name="SummonDescription" value="Класіфікацыя."/>
 	<entry name="SuperHeavy" value="Звышцяжкі"/>
-	<entry name="SuperHeavyDescription" value="Класіфікацыя."/>
+	<entry name="SuperHeavyDescription" value="Не можа назіраць, калі адзінка крокаход."/>
 	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
 	<entry name="Supersonic" value="Звышгукавы"/>
 	<entry name="SupersonicDescription" value="Павялічвае рух."/>

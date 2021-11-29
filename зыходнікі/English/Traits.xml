@@ -810,7 +810,7 @@
 	<entry name="FuriousChargeDescription" value="Increases the melee damage."/>
 	<entry name="FuriousChargeFlavor" value="Some warriors use the impetus of the charge to fuel their own fury."/>
 	<entry name="Gargantuan" value="Gargantuan"/>
-	<entry name="GargantuanDescription" value="Classification."/>
+	<entry name="GargantuanDescription" value="Cannot overwatch."/>
 	<entry name="GargantuanFlavor" value="Gargantuan creatures are of such immense size that they can take on entire armies. They tower over the battlefield, making the ground shudder as they advance upon the foe, crushing lesser creatures beneath their feet as they lumber forwards."/>
 	<entry name="GargantuanCreature" value="<string name='Traits/Gargantuan'/>"/>
 	<entry name="GargantuanCreatureDescription" value="<string name='Traits/GargantuanDescription'/>"/>
@@ -1383,7 +1383,7 @@
 	<entry name="Summon" value="Summon"/>
 	<entry name="SummonDescription" value="Classification."/>
 	<entry name="SuperHeavy" value="Super-Heavy"/>
-	<entry name="SuperHeavyDescription" value="Classification."/>
+	<entry name="SuperHeavyDescription" value="Cannot overwatch if the unit is a walker."/>
 	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
 	<entry name="Supersonic" value="Supersonic"/>
 	<entry name="SupersonicDescription" value="Increases the movement."/>

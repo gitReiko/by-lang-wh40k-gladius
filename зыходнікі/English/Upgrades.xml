@@ -1403,7 +1403,7 @@
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloDescription" value="Grants Fortresses of Redemption a krakstorm missile silo."/>
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloFlavor" value="<string name='Weapons/KrakstormMissileSiloFlavor'/>"/>
 	<entry name="SpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SpaceMarines/FragGrenadeDescription" value="<string name='Upgrades/AstraMilitarum/FragGrenadeDescription'/>"/>
+	<entry name="SpaceMarines/FragGrenadeDescription" value="Grants Apothecaries, Assault Space Marines, Captains, Devastator Space Marines, Librarians, Scout Bikers, Tactical Space Marines and Thunderfire Cannons the ability to throw anti-infantry grenades."/>
 	<entry name="SpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="SpaceMarines/HammerOfWrathDescription" value="Grants Assault Space Marines, Dreadnoughts and Scout Bikers the ability to perform more devastating attacks."/>
@@ -1415,7 +1415,7 @@
 	<entry name="SpaceMarines/HurricaneBolterDescription" value="Grants Stormraven Gunships a hurricane bolter."/>
 	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SpaceMarines/KrakGrenadeDescription" value="<string name='Upgrades/AstraMilitarum/KrakGrenadeDescription'/>"/>
+	<entry name="SpaceMarines/KrakGrenadeDescription" value="Grants Apothecaries, Assault Space Marines, Captains, Devastator Space Marines, Librarians, Scout Bikers, Tactical Space Marines and Thunderfire Cannons the ability to throw anti-armour grenades."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Grants Land Speeders and Land Raiders a multi-melta weapon."/>
