@@ -90,7 +90,7 @@
 	<entry name="Tip43" value="Terrain"/>
 	<entry name="Tip43Description" value="Terrain affects units in a variety of ways. Forests and Imperial ruins have an increased movement cost for ground units and make it harder to see and fire across. Height differences may also prevent your units from having a clear line of fire. Tiles marked with red indicate enemies that can be attacked from your current position."/> <!-- Click OK and hover over a tile marked with a red outline. -->
 	<entry name="Tip44" value="Unit Abilities"/>
-	<entry name="Tip44Description" value="Some units have extra abilities that can be utilized to gain an edge in combat. Use an ability by clicking its button and selecting a target with the left mouse button. Using an ability will consume the unit's action point and all movement, preventing the unit from performing any further movement or attacks this turn."/>
+	<entry name="Tip44Description" value="Some units have extra abilities that can be utilized to gain an edge in combat. Use an ability by clicking its button and selecting a target with the left mouse button. Using an ability may consume the unit's action point and movement, preventing the unit from performing any further movement or attacks this turn."/>
 	<entry name="Tip45" value="Overwatch"/>
 	<entry name="Tip45Description" value="Units with action points remaining that have ranged weapons will automatically perform <icon height='20' texture='Icons/Actions/Overwatch'/> overwatch attacks when an enemy unit enters their attack range unless the enemy unit has <icon height='20' texture='Icons/Traits/Infiltrate'/> infiltrate."/>
 	<entry name="Tip46" value="Outposts"/>

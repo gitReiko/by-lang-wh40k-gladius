@@ -229,6 +229,8 @@
 	<entry name="ProductionHint" value="<style name='Title'/>Production<br/><style name='Default'/>Indicates how fast the building produces."/>
 	<entry name="ProductionCost" value="Production Cost"/>
 	<entry name="ProductionCostIcon" value="<icon height='20' texture='Icons/Attributes/ProductionCost'/>"/>
+	<entry name="ProductionFromAdjacentBuildings" value="Production Per Adjacent Building"/>
+	<entry name="ProductionFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
 	<entry name="Radius" value="Radius"/>
 	<entry name="RadiusDescription" value=""/>
 	<entry name="RadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="CityGrownSummary" value="Насельніцтва %1% дасягнула %2%."/>
+	<entry name="FactionDefeated" value="Фракцыя пераможана"/>
+	<entry name="FactionDiscovered" value="Знойдзена фракцыя"/>
+	<entry name="FactionDiscoveredSummary" value="%1% знойдзена."/>
+	<entry name="FeatureExploredSummary" value="%1% забяспечвае %2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="%1% знойдзена."/>
+	<entry name="LordOfSkullsAppearedSummary" value="%1% з'явіўся."/>
+	<entry name="LordOfSkullsDisappearedSummary" value="%1% знік."/>
+	<entry name="PlayerLost" value="Параза!"/>
+	<entry name="PlayerLostSummary" value="%1% · %2% %3% прайгралі!"/>
+	<entry name="PlayerWon" value="Перамога!"/>
+	<entry name="PlayerWonSummary" value="%1% · %2% %3% перамаглі!"/>
+	<entry name="PlayerWonElimination" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonEliminationSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
+	<entry name="PlayerWonQuest" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonQuestSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
+	<entry name="ProductionCompletedSummary" value="%1% вырабіў %2%."/>
+	<entry name="QuestAdded" value="Квэст дададзены"/>
+	<entry name="QuestCompleted" value="Квэст завершаны"/>
+	<entry name="QuestUpdated" value="Квэст абноўлены"/>
+	<entry name="RegionDiscoveredSummary" value="%1% знойдзены."/>
+	<entry name="ResearchCompleted" value="Даследаванне завершана"/>
+	<entry name="TileAcquiredSummary" value="%1% набыта плітка."/>
+	<entry name="TileCapturedSummary" value="%1% захоплена %2%."/>
+	<entry name="TileClearedSummary" value="%1% ачышчана %2%."/>
+	<entry name="UnitAttackedSummary" value="%1% атакаваў<br/>%2%."/>
+	<entry name="UnitCapturedSummary" value="%1% атакавала<br/>%2%."/>
+	<entry name="UnitKilledSummary" value="%1% захапіла<br/>%2%."/>
+	<entry name="UnitGainedTraitSummary" value="%1% атрымала %2%."/>
+	<entry name="UnitTransformedSummary" value="%1% ператварылася ў %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="%1% знойдзена."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% выкарыстана %2% на %3%."/>
+</language>

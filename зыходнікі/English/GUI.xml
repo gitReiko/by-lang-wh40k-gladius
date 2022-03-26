@@ -133,6 +133,7 @@
 	<entry name="ModDetailsHint" value="Open mod details."/>
 	<entry name="ModFolderHint" value="Open mod folder."/>
 	<entry name="Mods" value="Mods"/>
+	<entry name="More" value="More"/>
 	<entry name="Multiplayer" value="Multiplayer"/>
 	<entry name="Name" value="Name"/>
 	<entry name="New" value="New"/>
@@ -281,7 +282,7 @@
 	<entry name="Version" value="Version"/>
 	<entry name="VersionRevisionsDiffer" value="Version revisions differ (local = %1%, server = %2%)."/>
 	<entry name="Victorious" value="Victorious"/>
-	<entry name="WaaaghLevelHint" value="<style name='Title'/>Waaagh! Level<style name='Default'/><br/>Each level of Waaagh! increases or decreases Ork unit attacks by 3%% (up to +/-30%%). Waaagh! level is based on accumulated influence and unit influence upkeep, and it refreshes at the start of the turn.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% attacks)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
+	<entry name="WaaaghLevelHint" value="<style name='Title'/>Waaagh! Level<style name='Default'/><br/>Each level of Waaagh! increases or decreases Ork unit attacks and building loyalty by 2%% (up to +/-20%%). Waaagh! level is based on accumulated influence and unit influence upkeep, and it refreshes at the start of the turn.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% attacks and loyalty)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
 	<entry name="Weapons" value="Weapons"/>
 	<entry name="WorldDataChecksumsDiffer" value="World data differs (local = %1%, server = %2%)."/>
 	<entry name="WorldSeedHint" value="World seed, click to copy."/>

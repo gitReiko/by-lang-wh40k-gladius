@@ -14,11 +14,11 @@
 
     **Ubuntu (linux)**
 
-    Спампуйце мод з рэпазіторыя і перанясіце тэчку Belarusian у тэчку ~/.config/Proxy Studios/Gladius/Mods/Belarusian/
+    Спампуйце мод патрэбнай версіі з рэпазіторыя і перанясіце тэчку Belarusian у тэчку ~/.config/Proxy Studios/Gladius/Mods/
 
     **Windows**
 
-    Спампуйце мод з рэпазіторыя і перанясіце тэчку Belarusian у тэчку \My Documents\Proxy Studios\Gladius\Mods\Belarusian\
+    Спампуйце мод патрэбнай версіі з рэпазіторыя і перанясіце тэчку Belarusian у тэчку \My Documents\Proxy Studios\Gladius\Mods\
 
     Тэчка Belarusian знаходзіцца ў тэчцы мод.
 
@@ -26,7 +26,7 @@
 
 3. Перазагрузіце гульню.
 
-## Для версіі гульні 1.9.1
+## Для версій гульні 1.9.2 - 1.9.3
 
 ## Перакладзеныя DLC
 

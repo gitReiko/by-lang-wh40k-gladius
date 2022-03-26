@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AIControlDisconnectedPlayers" value="Кантроль Адключаных Гульцоў ШІ"/>
+	<entry name="AdaptiveTurnTimer" value="Адаптыўны Таймер Крокаў"/>
+	<entry name="ArcticRegionDensity" value="Шчыльнасць Арктычнай Мясцовасці"/>
+	<entry name="ArcticRegionDensity0" value="Ніякая"/>
+	<entry name="ArcticRegionDensity1" value="Вельмі Нізкая"/>
+	<entry name="ArcticRegionDensity2" value="Нізкая"/>
+	<entry name="ArcticRegionDensity3" value="Сярэдняя"/>
+	<entry name="ArcticRegionDensity4" value="Высокая"/>
+	<entry name="ArcticRegionDensity5" value="Вельмі Высокая"/>	
+	<entry name="ArtefactDensity" value="Шчыльнасць Артэфактаў"/>
+	<entry name="ArtefactDensity0" value="Вельмі Нізкая"/>
+	<entry name="ArtefactDensity1" value="Нізкая"/>
+	<entry name="ArtefactDensity2" value="Сярэдняя"/>
+	<entry name="ArtefactDensity3" value="Высокая"/>
+	<entry name="ArtefactDensity4" value="Вельмі Высокая"/>
+	<entry name="AvoidDuplicateRandomFactions" value="Не дапускаць паўтору выпадковых фракцый"/>
+	<entry name="AvoidDuplicateRandomFactionsHint" value="Адрэгулюйце шанцы выпадковых фракцый так, каб кожная фракцыя з'яўлялася ў гульні аднолькавую колькасць разоў."/>
+	<entry name="DesertRegionDensity" value="Шчыльнасць Пустэльнай Мясцовасці"/>
+	<entry name="DesertRegionDensity0" value="Ніякая"/>
+	<entry name="DesertRegionDensity1" value="Вельмі Нізкая"/>
+	<entry name="DesertRegionDensity2" value="Нізкая"/>
+	<entry name="DesertRegionDensity3" value="Сярэдняя"/>
+	<entry name="DesertRegionDensity4" value="Высокая"/>
+	<entry name="DesertRegionDensity5" value="Вельмі Высокая"/>
+	<entry name="Difficulty" value="Складанасць"/>
+	<entry name="Difficulty0" value="Вельмі Лёгкая"/>
+	<entry name="Difficulty0AdeptusMechanicus" value="Адсікулярыс"/>
+	<entry name="Difficulty0AstraMilitarum" value="Прызыўнік"/>
+	<entry name="Difficulty0ChaosSpaceMarines" value="Культыст"/>
+	<entry name="Difficulty0Eldar" value="Вартавы"/>
+	<entry name="Difficulty0Necrons" value="Раздзіральнік"/>
+	<entry name="Difficulty0Orks" value="Сквіг"/>
+	<entry name="Difficulty0Random" value="Вельмі слабы"/>
+	<entry name="Difficulty0SpaceMarines" value="Неафіт"/>
+	<entry name="Difficulty0Tau" value="Гуэ’веса"/>
+	<entry name="Difficulty0Tyranids" value="Скарабей"/>
+	<entry name="Difficulty0FactionHint" value="%1%: церпіць ад сярэдняй нястачы лаяльнасці."/>
+	<entry name="Difficulty1" value="Лёгкая"/>
+	<entry name="Difficulty1AdeptusMechanicus" value="Сервітор"/>
+	<entry name="Difficulty1AstraMilitarum" value="Гвардзеец"/>
+	<entry name="Difficulty1ChaosSpaceMarines" value="Вырадак"/>
+	<entry name="Difficulty1Eldar" value="Ваяр Аспекту"/>
+	<entry name="Difficulty1Necrons" value="Ваяр"/>
+	<entry name="Difficulty1Orks" value="Грот"/>
+	<entry name="Difficulty1Random" value="Слабы"/>
+	<entry name="Difficulty1SpaceMarines" value="Баявы брат"/>
+	<entry name="Difficulty1Tau" value="Шас‘саал"/>
+	<entry name="Difficulty1Tyranids" value="Тэрмагант"/>
+	<entry name="Difficulty1FactionHint" value="%1%: церпіць ад маленькай нястачы лаяльнасці."/>
+	<entry name="Difficulty2" value="Сярэдняя"/>
+	<entry name="Difficulty2AdeptusMechanicus" value="Машынабачац"/>
+	<entry name="Difficulty2AstraMilitarum" value="Сяржант"/>
+	<entry name="Difficulty2ChaosSpaceMarines" value="Паўшы брат"/>
+	<entry name="Difficulty2Eldar" value="Рэйнджар"/>
+	<entry name="Difficulty2Necrons" value="Несмяротны"/>
+	<entry name="Difficulty2Orks" value="Хлопец"/>
+	<entry name="Difficulty2Random" value="Сярэдні"/>
+	<entry name="Difficulty2SpaceMarines" value="Сяржант"/>
+	<entry name="Difficulty2Tau" value="Шас‘ла"/>
+	<entry name="Difficulty2Tyranids" value="Ваяр"/>
+	<entry name="Difficulty2FactionHint" value="%1%: без пераваг і нястач."/>
+	<entry name="Difficulty3" value="Цяжкая"/>
+	<entry name="Difficulty3AdeptusMechanicus" value="Магас"/>
+	<entry name="Difficulty3AstraMilitarum" value="Камісар"/>
+	<entry name="Difficulty3ChaosSpaceMarines" value="Чэмпіён Хаосу"/>
+	<entry name="Difficulty3Eldar" value="Экзарх"/>
+	<entry name="Difficulty3Necrons" value="Прэтарыянец Трыярхаў"/>
+	<entry name="Difficulty3Orks" value="Ноб"/>
+	<entry name="Difficulty3Random" value="Моцны"/>
+	<entry name="Difficulty3SpaceMarines" value="Капітан"/>
+	<entry name="Difficulty3Tau" value="Шас‘уі"/>
+	<entry name="Difficulty3Tyranids" value="Ліктар"/>
+	<entry name="Difficulty3FactionHint" value="%1%: атрымлівае невялікую перавагу ў лаяльнасці і ўзроўні."/>
+	<entry name="Difficulty4" value="Вельмі Цяжкая"/>
+	<entry name="Difficulty4AdeptusMechanicus" value="Фабрікэйтар Локум"/>
+	<entry name="Difficulty4AstraMilitarum" value="Генерал"/>
+	<entry name="Difficulty4ChaosSpaceMarines" value="Валадар Хаосу"/>
+	<entry name="Difficulty4Eldar" value="Автарх"/>
+	<entry name="Difficulty4Necrons" value="Кріптэк"/>
+	<entry name="Difficulty4Orks" value="Бос"/>
+	<entry name="Difficulty4Random" value="Вельмі Моцны"/>
+	<entry name="Difficulty4SpaceMarines" value="Майстар Ордэна"/>
+	<entry name="Difficulty4Tau" value="Шас‘врэ"/>
+	<entry name="Difficulty4Tyranids" value="Тыран Вулля"/>
+	<entry name="Difficulty4FactionHint" value="%1%: атрымлівае сярэднюю перавагу ў лаяльнасці і ўзроўні."/>
+	<entry name="Difficulty5" value="Ультра Цяжкая"/>
+	<entry name="Difficulty5AdeptusMechanicus" value="Фабрікэйтар Генерал"/>
+	<entry name="Difficulty5AstraMilitarum" value="Лорд-Камандзір"/>
+	<entry name="Difficulty5ChaosSpaceMarines" value="Князь-Дэман"/>
+	<entry name="Difficulty5Eldar" value="Вяшчун"/>
+	<entry name="Difficulty5Necrons" value="Валадар"/>
+	<entry name="Difficulty5Orks" value="Вайнабос"/>
+	<entry name="Difficulty5Random" value="Ультра Цяжкі"/>
+	<entry name="Difficulty5SpaceMarines" value="Прымарх"/>
+	<entry name="Difficulty5Tau" value="Шас‘эл"/>
+	<entry name="Difficulty5Tyranids" value="Дамінатрыца"/>
+	<entry name="Difficulty5FactionHint" value="%1%: атрымлівае вялікую перавагу ў лаяльнасці і ўзроўні."/>
+	<entry name="Difficulty6" value="Немагчымая"/>
+	<entry name="Difficulty6AdeptusMechanicus" value="Амнісія"/>
+	<entry name="Difficulty6AstraMilitarum" value="Майстар вайны"/>
+	<entry name="Difficulty6ChaosSpaceMarines" value="Цёмны Бог"/>
+	<entry name="Difficulty6Eldar" value="Аватар"/>
+	<entry name="Difficulty6Necrons" value="Бязмоўны Цар"/>
+	<entry name="Difficulty6Orks" value="Прарок Горка і Морка"/>
+	<entry name="Difficulty6Random" value="Непераможны"/>
+	<entry name="Difficulty6SpaceMarines" value="Імператар"/>
+	<entry name="Difficulty6Tau" value="Аўн'О"/>
+	<entry name="Difficulty6Tyranids" value="Норн-Каралева"/>
+	<entry name="Difficulty6FactionHint" value="%1%: атрымлівае экстрэмальную перавагу ў лаяльнасці і ўзроўні."/>
+	<entry name="DifficultyHint" value="Змяняе перавагі ШІ."/>
+	<entry name="ForestDensity" value="Шчыльнасць Лесу"/>
+	<entry name="ForestDensity0" value="Вельмі Нізкая"/>
+	<entry name="ForestDensity1" value="Нізкая"/>
+	<entry name="ForestDensity2" value="Сярэдняя"/>
+	<entry name="ForestDensity3" value="Высокая"/>
+	<entry name="ForestDensity4" value="Вельмі Высокая"/>
+	<entry name="GameName" value="Назва Гульні"/>
+	<entry name="GameSpeed" value="Хуткасць Гульні"/>
+	<entry name="GameVisibility" value="Бачнасць гульні"/> 
+	<entry name="GameVisibility0" value="Толькі Сябры"/>
+	<entry name="GameVisibility0Hint" value="Гульня не даступная ў публічным спісе. Доступ магчымы праз сяброўскі спіс, запрашэнні ці непасрэдныя злучэнні."/>
+	<entry name="GameVisibility1" value="Прыватная"/>
+	<entry name="GameVisibility1Hint" value="Гульня не даступная ў публічным спісе. Доступ магчымы толькі праз запрашэнні ці непасрэдныя злучэнні."/>
+	<entry name="GameVisibility2" value="Публічная"/>
+	<entry name="GameVisibility2Hint" value="Гэта публічная гульня. Кожны можа далучыцца."/>
+	<entry name="ImperialRuinsDensity" value="Шчыльнасць Імперскіх Руін"/>
+	<entry name="ImperialRuinsDensity0" value="Вельмі Нізкая"/>
+	<entry name="ImperialRuinsDensity1" value="Нізкая"/>
+	<entry name="ImperialRuinsDensity2" value="Сярэдняя"/>
+	<entry name="ImperialRuinsDensity3" value="Высокая"/>
+	<entry name="ImperialRuinsDensity4" value="Вельмі Высокая"/>	
+	<entry name="JokaeroTraderEncampmentDensity" value="Шчыльнасць Гандлёвых Лагераў Джакаэро"/>
+	<entry name="JokaeroTraderEncampmentDensity0" value="Вельмі Нізкая"/>
+	<entry name="JokaeroTraderEncampmentDensity1" value="Нізкая"/>
+	<entry name="JokaeroTraderEncampmentDensity2" value="Сярэдняя"/>
+	<entry name="JokaeroTraderEncampmentDensity3" value="Высокая"/>
+	<entry name="JokaeroTraderEncampmentDensity4" value="Вельмі Высокая"/>	
+	<entry name="LandMass" value="Плошча Сушы"/>
+	<entry name="LandMass0" value="Вельмі Нізкая"/>
+	<entry name="LandMass1" value="Нізкая"/>
+	<entry name="LandMass2" value="Сярэдняя"/>
+	<entry name="LandMass3" value="Высокая"/>
+	<entry name="LandMass4" value="Вельмі Высокая"/>
+	<entry name="LordOfSkulls" value="Лорд Чэрапаў DLC"/>
+	<entry name="MapEditor" value="Панэль адладкі"/>
+	<entry name="NecronTombDensity" value="Шчыльнасць Грабніц Некронаў"/>
+	<entry name="NecronTombDensity0" value="Вельмі Нізкая"/>
+	<entry name="NecronTombDensity1" value="Нізкая"/>
+	<entry name="NecronTombDensity2" value="Сярэдняя"/>
+	<entry name="NecronTombDensity3" value="Высокая"/>
+	<entry name="NecronTombDensity4" value="Вельмі Высокая"/>	
+	<entry name="OrkoidFungusDensity" value="Шчыльнасць Оркоіднага Грыба"/>
+	<entry name="OrkoidFungusDensity0" value="Вельмі Нізкая"/>
+	<entry name="OrkoidFungusDensity1" value="Нізкая"/>
+	<entry name="OrkoidFungusDensity2" value="Сярэдняя"/>
+	<entry name="OrkoidFungusDensity3" value="Высокая"/>
+	<entry name="OrkoidFungusDensity4" value="Вельмі Высокая"/>	
+	<entry name="Pace" value="Хуткасць Гульні"/>
+	<entry name="Pace0" value="Вельмі Хуткая"/>
+	<entry name="Pace1" value="Хуткая"/>
+	<entry name="Pace2" value="Стандартная"/>
+	<entry name="Pace3" value="Павольная"/>
+	<entry name="Pace4" value="Вельмі Павольная"/>
+	<entry name="Quests" value="Квэсты"/>
+	<entry name="RegionDensity" value="Шчыльнасць Мясцовасці"/>
+	<entry name="RegionDensity0" value="Вельмі Нізкая"/>
+	<entry name="RegionDensity1" value="Нізкая"/>
+	<entry name="RegionDensity2" value="Сярэдняя"/>
+	<entry name="RegionDensity3" value="Высокая"/>
+	<entry name="RegionDensity4" value="Вельмі Высокая"/>	
+	<entry name="RegionSize" value="Памер Мясцовасці"/>
+	<entry name="RegionSize0" value="Вельмі маленькі"/>
+	<entry name="RegionSize1" value="Маленькі"/>
+	<entry name="RegionSize2" value="Сярэдні"/>
+	<entry name="RegionSize3" value="Вялікі"/>
+	<entry name="RegionSize4" value="Вельмі Вялікі"/>	
+	<entry name="RiverDensity" value="Шчыльнасць Рэк"/>
+	<entry name="RiverDensity0" value="Вельмі Нізкая"/>
+	<entry name="RiverDensity1" value="Нізкая"/>
+	<entry name="RiverDensity2" value="Сярэдняя"/>
+	<entry name="RiverDensity3" value="Высокая"/>
+	<entry name="RiverDensity4" value="Вельмі Высокая"/>	
+	<entry name="RuinsOfVaulDensity" value="Шчыльнасць Руін Ваўла"/>
+	<entry name="RuinsOfVaulDensity0" value="Вельмі Нізкая"/>
+	<entry name="RuinsOfVaulDensity1" value="Нізкая"/>
+	<entry name="RuinsOfVaulDensity2" value="Сярэдняя"/>
+	<entry name="RuinsOfVaulDensity3" value="Высокая"/>
+	<entry name="RuinsOfVaulDensity4" value="Вельмі Высокая"/>	
+	<entry name="Seed" value="Насенне Свету"/>
+	<entry name="SimultaneousTurns" value="Адначасовыя Крокі"/>
+	<entry name="SimultaneousTurnsHint" value="Калі адключана, толькі ўдзельнікі адной каманды будуць дзейнічаць адначасова."/>
+	<entry name="Size" value="Памер Свету"/>
+	<entry name="Size0" value="Малюсенькі"/>
+	<entry name="Size0Hint" value="%1%: Рэкамендаваны для 2 гульцоў."/>
+	<entry name="Size1" value="Маленькі"/>
+	<entry name="Size1Hint" value="%1%: Рэкамендаваны для 3 гульцоў."/>
+	<entry name="Size2" value="Сярэдні"/>
+	<entry name="Size2Hint" value="%1%: Рэкамендаваны для 4 гульцоў."/>
+	<entry name="Size3" value="Вялікі"/>
+	<entry name="Size3Hint" value="%1%: Рэкамендаваны для 6 гульцоў."/>
+	<entry name="Size4" value="Велізарны"/>
+	<entry name="Size4Hint" value="%1%: Рэкамендаваны для 8 гульцоў."/>
+	<entry name="SpecialResourceDensity" value="Шчыльнасць Адмысловых Рэсурсаў"/>
+	<entry name="SpecialResourceDensity0" value="Вельмі Нізкая"/>
+	<entry name="SpecialResourceDensity1" value="Нізкая"/>
+	<entry name="SpecialResourceDensity2" value="Сярэдняя"/>
+	<entry name="SpecialResourceDensity3" value="Высокая"/>
+	<entry name="SpecialResourceDensity4" value="Вельмі Высокая"/>
+	<entry name="Supplement1" value="DLC Набор Падмацаванне"/>
+	<entry name="Supplement2" value="DLC Тыраніды"/>
+	<entry name="Supplement3" value="DLC Космадэсант Хаосу"/>
+	<entry name="Supplement4" value="DLC Набор Фартыфікацыя"/>
+	<entry name="Supplement5" value="DLC T'ау"/>
+	<entry name="Supplement6" value=" DLC Набор Штурм"/>
+	<entry name="Supplement7" value="DLC Штучны Свет Аэльдары"/>
+	<entry name="Supplement8" value="DLC Набор адмыслоўцаў"/>
+	<entry name="Supplement9" value="DLC Адэптус Механікус"/>
+	<entry name="TropicalRegionDensity" value="Шчыльнасць Трапічнай Мясцовасці"/>
+	<entry name="TropicalRegionDensity0" value="None"/>
+	<entry name="TropicalRegionDensity1" value="Вельмі Нізкая"/>
+	<entry name="TropicalRegionDensity2" value="Нізкая"/>
+	<entry name="TropicalRegionDensity3" value="Сярэдняя"/>
+	<entry name="TropicalRegionDensity4" value="Высокая"/>
+	<entry name="TropicalRegionDensity5" value="Вельмі Высокая"/>	
+	<entry name="TurnTimer" value="Таймер Кроку"/>
+	<entry name="TurnTimer0" value="Адсутнічае"/>
+	<entry name="TurnTimer1" value="Вельмі Кароткі (1 хвіліна)"/>
+	<entry name="TurnTimer2" value="Кароткі (2 хвіліны)"/>
+	<entry name="TurnTimer3" value="Умераны (3 хвіліны)"/>
+	<entry name="TurnTimer4" value="Доўгі (4 хвіліны)"/>
+	<entry name="TurnTimer5" value="Вельмі Доўгі (5 хвілін)"/>
+	<entry name="WebwayGateDensity" value="Шчыльнасць Брам Павуціння"/>
+	<entry name="WebwayGateDensity0" value="Вельмі Нізкая"/>
+	<entry name="WebwayGateDensity1" value="Нізкая"/>
+	<entry name="WebwayGateDensity2" value="Сярэдняя"/>
+	<entry name="WebwayGateDensity3" value="Высокая"/>
+	<entry name="WebwayGateDensity4" value="Вельмі Высокая"/>
+	<entry name="WildlifeDensity" value="Шчыльнасць Дзікага Жыцця"/>
+	<entry name="WildlifeDensity0" value="Вельмі Нізкая"/>
+	<entry name="WildlifeDensity1" value="Нізкая"/>
+	<entry name="WildlifeDensity2" value="Сярэдняя"/>
+	<entry name="WildlifeDensity3" value="Высокая"/>
+	<entry name="WildlifeDensity4" value="Вельмі Высокая"/>
+	<entry name="WireWeedDensity" value="Шчыльнасць Пустазелля-Дроту"/>
+	<entry name="WireWeedDensity0" value="Вельмі Нізкая"/>
+	<entry name="WireWeedDensity1" value="Нізкая"/>
+	<entry name="WireWeedDensity2" value="Сярэдняя"/>
+	<entry name="WireWeedDensity3" value="Высокая"/>
+	<entry name="WireWeedDensity4" value="Вельмі Высокая"/>
+	<entry name="WorldSeed" value="Насенне  Свету"/>
+	<entry name="WorldSize" value="Памер Свету"/>
+	<entry name="VolcanicRegionDensity" value="Шчыльнасць Вулканічнай Мясцовасці"/>
+	<entry name="VolcanicRegionDensity0" value="Ніякая"/>
+	<entry name="VolcanicRegionDensity1" value="Вельмі Нізкая"/>
+	<entry name="VolcanicRegionDensity2" value="Нізкая"/>
+	<entry name="VolcanicRegionDensity3" value="Сярэдняя"/>
+	<entry name="VolcanicRegionDensity4" value="Высокая"/>
+	<entry name="VolcanicRegionDensity5" value="Вельмі Высокая"/>
+</language>

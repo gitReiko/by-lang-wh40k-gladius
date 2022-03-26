@@ -52,7 +52,7 @@
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Those blessed enough to comprehend this blaring vox-prayer find their targeting reticules guided by the Omnissiah’s own vigilance."/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Broad Spectrum Data-Tether"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Reduces the morale loss of adjacent allied Adeptus Mechanicus units."/>
-	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="A vehicle-mounted version of that carried by veteran Skitarii, the broad spectrum datatether projects a Tech-Priest’s binharic blurts with such clarity it seems he is amongst the ranks of the Skitarii himself. Imperatives delivered via such information relays are more potent and reliable than any other."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="A vehicle-mounted version of that carried by veteran Skitarii, the broad spectrum data-tether projects a Tech-Priest’s binharic blurts with such clarity it seems he is amongst the ranks of the Skitarii himself. Imperatives delivered via such information relays are more potent and reliable than any other."/>
 	<entry name="AdeptusMechanicus/BulwarkImperative" value="Bulwark Imperative"/>
 	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Increases the armour, but decreases the movement of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
 	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="The warrior wisdom of ancient and experienced Reductors is force-loaded into the Skitarii’s minds. Each thrilling pulse of data locks microactuators into bracing positions, brings reserve power cells online and bestows a sensation of sacred invulnerability upon the Tech-Priests’ soldiers."/>
@@ -67,7 +67,7 @@
 	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="When the enemy close in, the Tech-Priests controlling each maniple inload Conqueror imperatives that boost the martial subroutines of their Skitarii minions and galvanise them into physical action at the expense of their more elaborate targeting programmes."/>
 	<entry name="AdeptusMechanicus/ControlEdict" value="Control Edict"/> <!-- Skitarii Marshal ability -->
 	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Removes Doctrina Imperatives malus from allied units in range."/>
-	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="A Doctrina Imperative is hardly a subtle tool, disabling a soldier just as much as it enables them elsewhere. Yet the attentions of a experienced Marshal can aid in overcoming the Imperative’s cruder commands, enabling it the soldier to perform far above their nominal norms."/>
+	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="A Doctrina Imperative is hardly a subtle tool, disabling a soldier just as much as it enables them elsewhere. Yet, the attentions of an experienced Marshal can aid in overcoming the Imperative’s cruder commands, enabling the soldier to perform far above their nominal norms."/>
 	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Data-Blessed Autosermon"/> <!-- Tech-Priest Manipulus elite -->
 	<entry name="AdeptusMechanicus/DataBlessedAutosermonDescription" value="Canticles of the Omnissiah units in the area grant research when killing enemies."/>
 	<entry name="AdeptusMechanicus/DataBlessedAutosermonFlavor" value="Struck with an infoload of revelation, truly blessed Tech-Priests will override the sacred canticles to deliver the Machine God’s adaptive wisdom."/>
@@ -100,7 +100,7 @@
 	<entry name="AdeptusMechanicus/MechanicusLocumFlavor" value="Every congregation of Tech-Priests comprises masters of arcane knowledge—zealous leaders of man and machine."/>
 	<entry name="AdeptusMechanicus/PowerSurge" value="Power Surge"/> <!-- Faction ability -->
 	<entry name="AdeptusMechanicus/PowerSurgeDescription" value="Increases the ouput of non-headquarters buildings on the target tile."/>
-	<entry name="AdeptusMechanicus/PowerSurgeFlavor" value="“Throw open the transonic oscillator and escalate the dereactor another three points. I require those forges running at optimal efficiency!”<br/>—ArchMagos Dyatskin, shortly before the loss of Arklis Hive Primus"/>
+	<entry name="AdeptusMechanicus/PowerSurgeFlavor" value="“Throw open the transonic oscillator and escalate the dereactor another three points. I require those forges running at optimal efficiency!”<br/>—Archmagos Dyatskin, shortly before the loss of Arklis Hive Primus"/>
 	<entry name="AdeptusMechanicus/ProtectorImperative" value="Protector Imperative"/>
 	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="Increases the ranged accuracy, but decreases the melee accuracy of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
 	<entry name="AdeptusMechanicus/ProtectorImperativeFlavor" value="The Protector imperative is codified to yield the maximum spectra of hard data. Extra power is fed into narrow-band optics and rangefinders connected directly to the Skitarii’s priority programming as the holy warriors’ guns become an extension of themselves."/>
@@ -361,7 +361,7 @@
 	<entry name="DeedsOfGloryDescription" value="When gaining experience from combat the chapter gains influence."/>
 	<entry name="DeedsOfGloryFlavor" value="“It is a captain's duty to place legionary lives in harm's way before his own. There is too little glory in the galaxy to go around and officers must be generous in the trust they place in others—for one day such brothers must be captains too.”<br/>  — Rouboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="DeployCity" value="Deploy City"/>
-	<entry name="DeployCityDescription" value="Operation that deploys the city on the target tile."/>
+	<entry name="DeployCityDescription" value="Operation that deploys the city on the target tile.<br/><br/>Cities can only be deployed where there are no other cities within a %1% tile radius."/>
 	<entry name="DeployFortress" value="<string name='Actions/DeployUnit'/>"/>
 	<entry name="DeployFortressHint" value="<string name='Actions/DeployUnitHint'/>"/>
 	<entry name="DeployUnit" value="Deploy %1%"/>
@@ -441,7 +441,7 @@
 	<entry name="Eldar/WarShoutDescription" value="Reduces the morale of adjacent enemy units."/>
 	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready…"/>
 	<entry name="Eldar/WebwayRedoubt" value="Found Webway Redoubt"/>
-	<entry name="Eldar/WebwayRedoubtDescription" value="Founds city on a claimed Webway Gate.<br/><br/>Cities can only be found where there are no other cities within a 4 tile radius. Each city after the first decreases loyalty in all cities by 6."/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Founds city on a claimed Webway Gate.<br/><br/>Cities can only be found where there are no other cities within a %1% tile radius. Each city after the first decreases loyalty in all cities by %2%."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webway’s limitless power to devastate any enemies foolish enough to venture near."/>
 	<entry name="Eldar/WebwayTravel" value="Webway Travel"/>
 	<entry name="Eldar/WebwayTravelDescription" value="Travels from one allied Webway Gate or Webway Redoubt to another."/>
@@ -458,7 +458,7 @@
 	<entry name="EreWeGoDescription" value="Increases the movement."/>
 	<entry name="EreWeGoFlavor" value="Ever eager to get stuck into the fray, Orks will barrel across the battlefield as quick as they can when the foe is in their sights."/>
 	<entry name="FoundCity" value="Found City"/>
-	<entry name="FoundCityDescription" value="Consumes the unit to found a new city.<br/><br/>Cities can only be found where there are no other cities within a 4 tile radius. Each city after the first decreases loyalty in all cities by 6."/>
+	<entry name="FoundCityDescription" value="Consumes the unit to found a new city.<br/><br/>Cities can only be found where there are no other cities within a %1% tile radius. Each city after the first decreases loyalty in all cities by %2%."/>
 	<entry name="FoundCityNecrons" value="Found City (Necrons)"/>
 	<entry name="FoundCityNecronsDescription" value="Consumes the unit to found a new city.<br/><br/>Necron cities can only be found on top of Necron Tombs and if there are no other cities within a 4 tile radius. Each city after the first decreases loyalty in all cities by 6."/>
 	<entry name="FullThrottle" value="“Full Throttle!”"/>
@@ -477,7 +477,7 @@
 	<entry name="HallucinationDescription" value="Decreases the attacks of target enemy unit."/>
 	<entry name="HallucinationFlavor" value="Paranoia, confusion and panic are heightened to a debilitating degree as the telepath alters his foes’ perceptions."/>
 	<entry name="HammerOfWrath" value="Hammer of Wrath"/>
-	<entry name="HammerOfWrathDescription" value="Increases the damage."/>
+	<entry name="HammerOfWrathDescription" value="Increases the damage of non-Bomb weapons."/>
 	<entry name="HammerOfWrathFlavor" value="Many warriors hurl themselves headlong into combat, seeking to crush or trample the foe."/>
 	<entry name="Hammerhand" value="Hammerhand"/>
 	<entry name="HammerhandDescription" value="Increases melee damage"/>
@@ -529,7 +529,7 @@
 	<entry name="Necrons/ChronometronDescription" value="Increases damage reduction of the target allied unit."/>
 	<entry name="Necrons/ChronometronFlavor" value="These eye-shaped devices project a bubble of energy that can alter the flow of time itself, slowing incoming projectiles such that those nearby can simply move out of their path."/>
 	<entry name="Necrons/DefensiveProtocols" value="Defensive Protocols"/>
-	<entry name="Necrons/DefensiveProtocolsDescription" value="Increases the armour of the Lord and adjacent allied Necron infantry."/>
+	<entry name="Necrons/DefensiveProtocolsDescription" value="Increases the armour of the Lord and allied Necron units in range."/>
 	<entry name="Necrons/DefensiveProtocolsFlavor" value="A Necron’s Lords higher functions aren’t devoted to containing a more-charming personality or a fiercer intelligence—they also contain control protocols that enable them to coordinate nearby Necron troops more minutely, heavily increasing their chances of survival."/>
 	<entry name="Necrons/DestructionProtocols" value="Destruction Protocols"/>
 	<entry name="Necrons/DestructionProtocolsDescription" value="Increases the damage taken for adjacent enemy units."/>
@@ -561,7 +561,7 @@
 	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Increases the invulnerable damage reduction of the Gauss Pylon and adjacent allied Necron units."/>
 	<entry name="Necrons/PhaseShiftGeneratorFlavor" value="When a Gauss Pylon is raised from the ground, it creates a temporal bubble altering the local flow of space time. Nearby Necrons can take advantage of this, shifting out of phase with reality to avoid destruction."/>
 	<entry name="Necrons/QuantumShielding" value="Quantum Shielding"/>
-	<entry name="Necrons/QuantumShieldingDescription" value="Increases the armour. Goes on cooldown at the start of the next turn if damage is taken."/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Increases the invulnerable damage reduction. Goes on cooldown at the start of the next turn if damage is taken."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="Necron quantum shielding is a marvel of science, existing only at the precise moment of deflection—at all other times there is no indication of its presence. They are, however, temperamental devices, prone to malfunction if overloaded."/>
 	<entry name="Necrons/RapidRise" value="Rapid Rise"/>
 	<entry name="Necrons/RapidRiseDescription" value="Rushes current production."/>
@@ -686,7 +686,7 @@
 	<entry name="SiegeMastersDescription" value="Chapter tactic that increases the damage of units attacking enemy units in cities and fortifications."/>
 	<entry name="SiegeMastersFlavor" value="“A fortress circumvented ceases to be an obstacle. A fortress destroyed ceases to be a threat. Do not forget the difference.”<br/>  — Leman Russ, Primarch of the Space Wolves."/>
 	<entry name="Signum" value="Signum"/>
-	<entry name="SignumDescription" value="Increases the ranged accuracy."/>
+	<entry name="SignumDescription" value="<string name='Traits/RelentlessDescription'/>"/>
 	<entry name="SignumFlavor" value="The signum is a communication device that quickly processes and broadcasts targeting data. This ancient piece of technology allows one member of a Space Marine squad to fire with even greater accuracy, battering vital targets with a hail of unerring shots."/>
 	<entry name="SkilledJink" value="Skilled Jink"/>
 	<entry name="SkilledJinkDescription" value="<string name='Actions/JinkDescription'/>"/>
@@ -749,7 +749,7 @@
 	<entry name="Tau/KauyonDescription" value="Metastrategy that increases the ranged damage reduction of allied T'au units in the area. Shares cooldown with other metastrategies."/>
 	<entry name="Tau/KauyonFlavor" value="“Your troops are losing. They fall back! They flee! The enemy pursues, hungry for our valourous blood! Everything is lost… then your troops turn and fire. You reveal the flanking troops. And your enemy is in a pocket, encircled. The patient hunter triumphs.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/Markerlight" value="Markerlight"/>
-	<entry name="Tau/MarkerlightDescription" value="Increases the ranged accuracy of T'au against the target enemy unit. Reduces the ranged damage reduction of the target enemy unit against T'au. Ends after the target enemy unit is attacked by T'au."/>
+	<entry name="Tau/MarkerlightDescription" value="Increases the ranged accuracy of T'au against the target enemy non-fortification unit. Reduces the ranged damage reduction of the target enemy non-fortification unit against T'au. Ends after the target enemy unit is attacked by T'au."/>
 	<entry name="Tau/MarkerlightFlavor" value="A markerlight is a hand-held device that projects a simple beam onto a target which then transmits a torrent of targeting data to other T'au units, allowing them to engage the target with unerring accuracy."/>
 	<entry name="Tau/Montka" value="Mont'ka (Killing Blow)"/>
 	<entry name="Tau/MontkaDescription" value="Metastrategy that increases the damage of allied T'au units in the area against enemy units below 50% hitpoints. Shares cooldown with other metastrategies."/>
