@@ -392,7 +392,7 @@
 	<entry name="BruteShieldDescription" value="Increases the damage and damage reduction."/>
 	<entry name="BruteShieldFlavor" value="These shields resemble large and resilient energised bucklers. They are carried by some Bullgryns, serving equally well in combat as a defensive measure and handy bludgeon."/>
 	<entry name="CamoNetting" value="Camo Netting"/>
-	<entry name="CamoNettingDescription" value="Increases the ranged damage reduction of ground vehicles."/>
+	<entry name="CamoNettingDescription" value="Increases the ranged damage reduction."/>
 	<entry name="CamoNettingFlavor" value="Whether rare cameleoline netting or crude webbing woven with local flora, camo netting helps conceal a vehicle from prying eyes."/>
 	<entry name="Capturable" value="Capturable"/>
 	<entry name="CapturableDescription" value="The unit can be captured by another adjacent unit."/>
@@ -554,7 +554,7 @@
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Increases the damage against infantry and monstrous creature units."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageFlavor" value="Spurting vile vapours and heinous fluids, the Chaos Spawn’s cursed innards could spell the death of a less-blessed creature."/> <!-- MutatedBeyondReason result. -->
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="Veterans of the Long War"/>
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Increases the morale, and increases the melee accuracy against units of the Space Marines faction."/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Reduces the morale loss, and increases the melee accuracy against units of the Space Marines faction."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="Many Chaos Space Marine factions have been locked in a constant, grinding war against the Imperium of Man for centuries, if not millennia. The burning hate they feel for their loyalist brothers has had time to fester, now eclipsing all other emotions. This applies, above all, to the original nine Traitor Legions who flocked to Horus' banner ten millennia ago and continue their war against their loyal brethren to this day."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzy" value="Warp Frenzy"/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Boon of Chaos that increases the attacks."/>
@@ -730,7 +730,7 @@
 	<entry name="Eldar/RuneArmourDescription" value="Increases the damage reduction."/>
 	<entry name="Eldar/RuneArmourFlavor" value="Aeldari psykers fashion themselves elegant armour decorated with wraithbone runes. Said to pulse in time with the wearer’s heartbeat, rune armour offers protection against attacks both spiritual and physical in nature."/>
 	<entry name="Eldar/Scattershield" value="Scattershield"/>
-	<entry name="Eldar/ScattershieldDescription" value="Increases the damage reduction and blinds infantry and monstrous creature attackers."/>
+	<entry name="Eldar/ScattershieldDescription" value="Increases the damage reduction and blinds infantry and monstrous creature melee attackers.."/>
 	<entry name="Eldar/ScattershieldFlavor" value="Used to protect precious Aeldari war-constructs, scattershields are gigantic fan-shaped shield generators that convert the energy of incoming attacks into blinding sprays of multicoloured light."/>
 	<entry name="Eldar/SerpentShield" value="Serpent Shield"/>
 	<entry name="Eldar/SerpentShieldDescription" value="Increases the armour while Serpent Shield weapon is not on cooldown."/>
@@ -1175,7 +1175,7 @@
 	<entry name="Orks/GreenTideHealingDescription" value="Increases the healing rate."/>
 	<entry name="Orks/GreenTideHealingFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
 	<entry name="Orks/GrotGunner" value="Grot Gunner"/>
-	<entry name="Orks/GrotGunnerDescription" value="Increases the accuracy."/>
+	<entry name="Orks/GrotGunnerDescription" value="Increases the accuracy of Big Shootas and Twin-Linked Big Shootas."/>
 	<entry name="Orks/KustomForceField" value="<string name='Actions/Orks/KustomForceField'/>"/>
 	<entry name="Orks/KustomForceFieldDescription" value="Increases the ranged damage reduction."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="<string name='Actions/Orks/KustomForceFieldFlavor'/>"/>
@@ -1196,6 +1196,8 @@
 	<entry name="Orks/Warpath" value="<string name='Actions/Orks/Warpath'/>"/>
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
+	<entry name="Orks/WingMissiles" value="<string name='Weapons/WingMissiles'/>"/>
+	<entry name="Orks/WingMissilesDescription" value="Increases the accuracy against vehicles."/>
 	<entry name="Outpost" value="Outpost"/>
 	<entry name="OutpostDescription" value="Increases the damage reduction and the healing rate of allied units. Increases the ranged damage reduction of infantry units."/>
 	<entry name="Outflank" value="Outflank"/>

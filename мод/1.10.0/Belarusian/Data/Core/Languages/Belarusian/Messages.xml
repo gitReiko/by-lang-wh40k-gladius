@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConfirmDelete" value="Вы ўпэўнены, што жадаеце выдаліць “%1%”?"/>
+	<entry name="ConfirmDisband" value="Вы ўпэўнены, што жадаеце расфармаваць “%1%”?"/>
+	<entry name="ConfirmOverwrite" value="Вы ўпэўнены, што жадаеце перазапісаць “%1%”?"/>
+	<entry name="ConfirmRemoveItem" value="Вы ўпэўнены, што жадаеце знішчыць “%1%”?"/>
+	<entry name="ConfirmRestoreDefaults" value="Вы ўпэўнены, што жадаеце аднавіць налады %1% па змаўчанні?"/>
+	<entry name="ConfirmSurrender" value="Вы ўпэўнены, што жадаеце здацца?"/>
+	<entry name="ConnectingToServer" value="Падлучэнне да сервера…"/>
+	<entry name="ConnectionLost" value="Злучэнне страчана."/>
+	<entry name="Error" value="Памылка"/>
+	<entry name="GameLoaded" value="Гульня загружана"/>
+	<entry name="GameSaved" value="Гульня захавана"/>
+	<entry name="GraphicsDriverOutdated" value="Драйвер вашай відэакарты састарэў.<br/><br/>Для паляпшэння стабільнасці і прадукцыйнасці, калі ласка, абнавіць яго на сайце вырабляльніка."/>
+	<entry name="IncompatibleVersion" value="Несумяшчальная версія гульні."/>
+	<entry name="Info" value="Інфа"/>
+	<entry name="Kicked" value="Вас выгналі з сервера."/>
+	<entry name="MasterServerUnreachable" value="Не атрымалася далучыцца да галоўнага сервера."/>
+	<entry name="MissingDLC" value="Адсутнічае DLC."/>
+	<entry name="ModUploading" value="Загрузка мода…"/>
+	<entry name="ModUploadComplete" value="Мод загружаны."/>
+	<entry name="ModUploadFailed" value="Няўдалая загрузка мода."/>
+	<entry name="NoFreeSlots" value="На серверы няма свабодных месцаў."/>
+	<entry name="NoGames" value="У гэты час няма публічных гульняў. <br/> Чаму б не пачаць адну з іх?"/>
+	<entry name="NoMods" value="Няма ўсталяваных модаў."/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>Няма прыдатных цэляў"/>
+	<entry name="PlayerJoined" value="%1% далучыўся."/>
+	<entry name="PlayerLeft" value="%1% выйшаў."/>
+	<entry name="PleaseEnterYourName" value="Калі ласка, увядзіце Ваша імя."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Калі ласка, пачакайце"/>
+	<entry name="ReceivingInfo" value="Атрыманне інфармацыі…"/>
+	<entry name="RestartRequired" value="Вы павінны перазапусціць гульню, каб змены набылі моц."/>
+	<entry name="RetrievingServerList" value="Атрыманне спіса сервераў…"/>
+	<entry name="ScreenShotSaveError" value="Памылка пры захаванні здымка экрана"/>
+	<entry name="ScreenShotSaved" value="Здымак экрана захаваны"/>
+	<entry name="SetBinding" value="Націсніце новую камбінацыю клавіш для прывязкі да %1%."/>
+	<entry name="ServerUnreachable" value="Не атрымалася далучыцца да сервера. <br/> <br/> Каб палепшыць падлучэнне, пераканайцеся, што вы адключылі брандмаўэры і ўключылі UPnP на маршрутызатары або перанакіравалі порт TCP% 1% на лакальны кампутар."/>
+	<entry name="SelectTarget" value="Абярыце цэль"/>
+	<entry name="TerminatedWithDisableMods" value="Моды адключаны з-за збою. Наведайце экран модаў, каб ізноў іх уключыць."/>
+	<entry name="TermsAndConditions" value="Умовы і становішчы"/>
+	<entry name="TurnTimerPaused" value="%1% час паўзы."/>
+	<entry name="TurnTimerUnpaused" value="%1% час без паўзы."/>
+	<entry name="UnboundControl" value="Прывязкі выдалены ў %1%."/>
+	<entry name="Warning" value="Папярэджанне"/>
+</language>

@@ -563,6 +563,9 @@
 	<entry name="Necrons/QuantumShielding" value="Quantum Shielding"/>
 	<entry name="Necrons/QuantumShieldingDescription" value="Increases the invulnerable damage reduction. Goes on cooldown at the start of the next turn if damage is taken."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="Necron quantum shielding is a marvel of science, existing only at the precise moment of deflection—at all other times there is no indication of its presence. They are, however, temperamental devices, prone to malfunction if overloaded."/>
+	<entry name="Necrons/RepairBarge" value="Repair Barge"/> <!-- Ghost Ark -->
+	<entry name="Necrons/RepairBargeDescription" value="Restores the hitpoints of the target allied Necron infantry or monstrous creature unit."/>
+	<entry name="Necrons/RepairBargeFlavor" value="Stately they might be, but these sinister vehicles are as great a threat as the better-known Monolith. Their role is to support the Necron army, gliding across the battlefield and disgorging minute repair scarabs to return even the most devastated Necron warriors to battle readiness, before transporting them back to the fray."/>
 	<entry name="Necrons/RapidRise" value="Rapid Rise"/>
 	<entry name="Necrons/RapidRiseDescription" value="Rushes current production."/>
 	<entry name="Necrons/RapidRiseFlavor" value="In times of desperation, a Necron Lord can override safety protocols in the reanimation of troops or repair of vehicles, at the cost of heavily increased losses. He will, however, lose support amongst any those of the ruling class who retain sentience, in horror at the waste of resources."/>

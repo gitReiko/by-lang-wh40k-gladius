@@ -60,6 +60,7 @@
 	<entry name="Details" value="Details"/>
 	<entry name="DirectConnect" value="Direct Connect"/>
 	<entry name="DisableBuildingHint" value="Disable a building of this type, freeing its allocated population for other buildings."/>
+	<entry name="DisableSimultaneousTurns" value="Disable Simultaneous Turns"/>
 	<entry name="DisableTips" value="Disable Tips"/>
 	<entry name="DisableTipsHint" value="Stop showing pop-up tips. You may re-enable them in the settings panel."/>
 	<entry name="DisconnectEpicAccount" value="Disconnect Epic Account"/>
@@ -73,6 +74,7 @@
 	<entry name="Elite" value="Elite"/>
 	<entry name="EnableBuildingHint" value="Enable a building of this type, allocating population to it."/>
 	<entry name="EnableMod" value="Enable mod."/>
+	<entry name="EnableSimultaneousTurns" value="Enable Simultaneous Turns"/>
 	<entry name="EndTurn" value="End Turn"/>
 	<entry name="EndTurnHint" value="End your turn [<control name='Controls/NextTask'/>]."/>
 	<entry name="Enter" value="Enter"/>

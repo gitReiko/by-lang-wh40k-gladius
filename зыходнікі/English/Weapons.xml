@@ -218,6 +218,8 @@
 	<entry name="GreaterCleaverOfKhorneFlavor" value="Each of these vast, brazen blades weighs as much as a battle tank. Swung with psychotic fury by a Lord of Skulls, a great cleaver can shear the leg from a Titan with a single blow."/>
 	<entry name="GrenadierGauntlet" value="Grenadier Gauntlet"/>
 	<entry name="GrenadierGauntletFlavor" value="These simple gauntlets lob frag-bombs into the midst of the foe."/>
+	<entry name="HadesAutocannon" value="Hades Autocannon"/>
+	<entry name="HadesAutocannonFlavor" value="The hades autocannon is the most frequently seen adorning the hideous Daemon Engines with which the Warpsmiths conquer the planets of the Imperium. Hades autocannons have six barrels and can sustain such a massive rate of fire that they are capable of tearing apart massed infantry, and even well-armoured targets, with each thunderous volley of shells."/>
 	<entry name="HadesGatlingCannon" value="Hades Gatling Cannon"/>
 	<entry name="HadesGatlingCannonFlavor" value="If the Hades autocannon generates a rain of fire, the vastly enlarged Hades gatling cannon summons forth a hurricane. Firing several hundred rune-graven rounds per second, this weapon churns everything in its sights to unrecognisable pulp."/>
 	<entry name="HavocLauncher" value="Havoc Launcher"/>
@@ -249,10 +251,14 @@
 	<entry name="HellstrikeMissileFlavor" value="These missiles can tear through heretic armour and xenos flesh alike."/>
 	<entry name="HonourBlade" value="Honour Blade"/>
 	<entry name="HonourBladeFlavor" value="An honour blade is a long, broad-bladed spear that is used to settle disputes between Ethereal caste members in stylised bloodless duels. Against the unenlightened races of the galaxy, it is a deadly weapon used in elegant sweeping movements where the blade becomes virtually invisible."/>
+	<entry name="HornetPulseLaser" value="Hornet Pulse Laser"/>
+	<entry name="HornetPulseLaserFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
 	<entry name="HotShotLasgun" value="Hot-Shot Lasgun"/>
 	<entry name="HotShotLasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="HunterKillerMissile" value="Hunter-Killer Missile"/>
 	<entry name="HunterKillerMissileFlavor" value="Hunter-killer missiles are commonly fitted to Imperial vehicles. These single-use weapon systems allow vehicles such as Rhinos to engage armoured enemy vehicles that would otherwise far outmatch them."/>
+	<entry name="ImpalerCannon" value="Impaler Cannon"/>
+	<entry name="ImpalerCannonFlavor" value="Impaler cannons propel osseous spines at such high velocities that they can punch through reinforced plasteel. At the base of each spine is a small creature known as a shard-beast that uses thin membranous fins to steer the spine towards its target."/>
 	<entry name="FlameBreath" value="Flame Breath"/>
 	<entry name="FlameBreathFlavor" value="A torrent of psychic flames pour forth from the psyker's eyes and mouth, engulfing the target."/>
 	<entry name="FlayerClaws" value="Flayer Claws"/>
@@ -322,6 +328,8 @@
 	<entry name="MeltaBomb" value="Melta Bomb"/>
 	<entry name="MeltaBombDescription" value="Can only be used against vehicles, monstrous creatures or fortifications."/>
 	<entry name="MeltaBombFlavor" value="Melta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
+	<entry name="MeltaCannon" value="Melta Cannon"/>
+	<entry name="MeltaCannonFlavor" value="This weapon swiftly reduces armoured targets to molten slag."/>
 	<entry name="Meltagun" value="Meltagun"/>
 	<entry name="MeltagunFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="MeteoricDescent" value="Meteoric Descent"/>
@@ -338,6 +346,8 @@
 	<entry name="NeutronBlaster" value="Neutron Blaster"/>
 	<entry name="NeutronBlasterFlavor" value="Stingwing weapons are a hybrid of Vespid and T'au technology. The crystal mounted upon each blaster emits a powerful neutron blast that is able to bypass all but the most effective armour."/>
 	<entry name="None" value="None"/>
+	<entry name="NoseDrill" value="Nose Drill"/> <!-- Megatrakk Scrapjet -->
+	<entry name="NoseDrillFlavor" value="Though the Flyboy was doubtless furious to see his treasured Dakkajet confined to Gladius Prime’s surface, the Meks can present one positive—the ability to put a giant drill in the empty nosecone, enabling the Scrapjet to cut through enemies the way it used to cut through the air."/>
 	<entry name="OmnissianStaff" value="Omnissian Staff"/>
 	<entry name="OrbitalBombardment" value="Orbital Bombardment"/>
 	<entry name="ParticleWhip" value="Particle Whip"/>
@@ -420,6 +430,8 @@
 	<entry name="RodOfCovenantMeleeFlavor" value="The rod of covenant is a tool of swift execution for those found wanting by the Triarch Praetorians. Within the head of each weapon is caged a roiling fragment of a dying star bound within a potent force field, capable of burning through a foe's armour as if it were dry parchment. This energy can further be directed by the rod's wielder in a searing blast which, while short ranged, can reduce even a Necron to a smouldering pool of fused metal—organic creatures simply explode into clouds of flaming ash."/>
 	<entry name="RodOfCovenantRanged" value="Rod of Covenant (Ranged)"/>
 	<entry name="RodOfCovenantRangedFlavor" value="<string name='Weapons/RodOfCovenantMeleeFlavor'/>"/>
+	<entry name="RokkitKannon" value="Rokkit Kannon"/> <!-- Megatrakk Scrapjet -->
+	<entry name="RokkitKannonFlavor" value="The Flyboy may have fallen from the sky, but his Dakkajet hasn’t lost any of its armament. Indeed, these belt-fed rokkits are perfectly suited to a life on the ground, turning opposing infantry into a fine mist. Who needs to aim?"/>
 	<entry name="RokkitLauncha" value="Rokkit Launcha"/>
 	<entry name="RokkitLaunchaFlavor" value="Crude but easy to manufacture, the rokkit launcha is a stout stick with a simple trigger mechanism that allows the Ork at the 'safe' end to fire a dodgy-looking rokkit in the general direction of the enemy."/>
 	<entry name="RollOverThem" value="“Roll Over Them!”"/>
@@ -539,6 +551,8 @@
 	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="The C'tan Shard projects a crackling bolt of energy from its outstretched palm, blasting its foe into oblivion."/>
 	<entry name="TransdimensionalThunderboltTranscendent" value="Transdimensional Thunderbolt (Transcendent)"/>
 	<entry name="TransdimensionalThunderboltTranscendentFlavor" value="<string name='Weapons/TransdimensionalThunderboltCoalescentFlavor'/>"/>
+	<entry name="TransuranicArquebus" value="Transuranic Arquebus"/>
+	<entry name="TransuranicArquebusFlavor" value="The precision and inhuman efficiency that typify the Skitarii Legions are epitomised by these long-barrelled heavy weapons. Firing a shell of depleted transuranium, the arquebus can puncture a tank from one side to the other, the resultant pressure wave also pulping any biological creatures that may be sheltering inside."/>
 	<entry name="TwinLinkedAirburstingFragmentationProjector" value="Twin-Linked Airbursting Fragmentation Projector"/>
 	<entry name="TwinLinkedAirburstingFragmentationProjectorFlavor" value="This experimental weapon scatters fragmentation bomblets over a wide area, at a height calculated by simple AI within each warhead to cause optimum damage."/>
 	<entry name="TwinLinkedAutocannon" value="Twin-Linked Autocannon"/>
@@ -575,6 +589,10 @@
 	<entry name="TwinLinkedHydraAutocannonFlavor" value="Essentially a long-barrelled, outsized autocannon on an anti-aircraft mount, the Hydra autocannon is guided by its predictive logic spirit to fill the skies with sawing lines of deadly fire."/>
 	<entry name="TwinLinkedIcarusAutocannon" value="Twin-Linked Icarus Autocannon"/>
 	<entry name="TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
+	<entry name="TwinLinkedIonCannonOvercharged" value="Twin-Linked Ion Cannon (Overcharged)"/>
+	<entry name="TwinLinkedIonCannonOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="TwinLinkedIonCannonStandard" value="Twin-Linked Ion Cannon (Standard)"/>
+	<entry name="TwinLinkedIonCannonStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
 	<entry name="TwinLinkedIonRifleOvercharged" value="Twin-Linked Ion Rifle (Overcharged)"/>
 	<entry name="TwinLinkedIonRifleOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
 	<entry name="TwinLinkedIonRifleStandard" value="Twin-Linked Ion Rifle (Standard)"/>
@@ -623,6 +641,8 @@
 	<entry name="WeirdboyStaffFlavor" value="The shiny charms and jangling bells that bedeck a Weirdboy staff belie the horrific damage they can wreak in battle. The copper pole at their core allows their wielder to earth the rampant Waaagh! energy that riddles them, and these weapons discharge crackling green blasts with every blow the Weirdboy lands."/>
 	<entry name="WhipCoils" value="Whip Coils"/>
 	<entry name="WhipCoilsFlavor" value="Some Canoptek Wraiths are equipped with writhing mechanical tendrils that whip around at high speeds, splitting flesh and flensing their prey in an eye-blink."/>
+	<entry name="WingMissiles" value="Wing Missiles"/> <!-- Megatrakk Scrapjet -->
+	<entry name="WingMissilesFlavor" value="It appears that removing the wings of a Dakkajet heavily increases the chance of the fuselage surviving intact. Though the stumps are useless for flying, they’re the perfect spot for mounting yet more dakka—in this case, a set of anti-armour missiles."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
 	<entry name="WitchStaff" value="Witch Staff"/>
