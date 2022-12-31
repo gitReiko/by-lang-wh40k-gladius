@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="(Turn)" value="(%1% крок)"/>
+	<entry name="(Turns)" value="(%1% крокаў)"/>
+	<entry name="AI" value="ШІ"/>
+	<entry name="AITurn" value="Крок ворага"/>
+	<entry name="AchievementsDisabled" value="Дасягненні адключаны."/>
+	<entry name="Actions" value="Дзеянні"/>
+	<entry name="AddPlayerHint" value="Дадаць гульца."/>
+	<entry name="AdditionalContentAvailable" value="Дадатковы кантэнт даступны"/>
+	<entry name="Advanced" value="Пашыраныя"/>
+	<entry name="AdeptusMechanicusPlayerPowers" value="Слава Бога Машын"/>
+	<entry name="Agree" value="Згодзен"/>
+	<entry name="AgreeTermsAndConditionsHint" value="Я прачытаў і згодзен з умовамі."/>
+	<entry name="All" value="Усё"/>
+	<entry name="Artefact" value="Артэфакт"/>
+	<entry name="AttackEstimate" value="Ацэнка атакі"/>
+	<entry name="Attributes" value="Уласцівасці"/>
+	<entry name="AvailableNow" value="Даступны зараз"/>
+	<entry name="Back" value="Назад"/>
+	<entry name="Basic" value="Асноўныя"/>
+	<entry name="Battle" value="Бітва"/>
+	<entry name="BindingHint" value="[Мыш налева], каб змяніць прывязку. <br/> <style color = 'GUI / Yellow' /> [Мыш па цэнтры], каб дадаць новую прывязку. <br/> <style color = 'GUI / Red' /> [Мыш направа ], каб адвязаць."/>
+	<entry name="Buildings" value="Будынкі"/>
+	<entry name="BuildingsConstructed" value="Пабудаваных будынкаў"/>
+	<entry name="CannotDisembarkThisTurn" value="Нельга высадзіць на гэтым кроку."/>
+	<entry name="Cancel" value="Адмяніць"/>
+	<entry name="Cargo" value="Груз"/>
+	<entry name="Charges" value="Зарады"/>
+	<entry name="Charging" value="Зараджаецца"/>
+	<entry name="Chat" value="Чат"/>
+	<entry name="ChooseResearch" value="Абярыце даследаванне"/>
+	<entry name="ChooseResearchHint" value="Абярыце мэту даследавання [<control name='Controls/NextTask'/>]."/>
+	<entry name="CityResources" value="Рэсурсы горада"/>
+	<entry name="ClaimItemOnlyWithHero" value="Абярыце героя, каб забраць прадмет."/>
+	<entry name="ClearNotifications" value="Ачысціць апавяшчэнні"/>
+	<entry name="ClearNotificationsHint" value="Ачысціць усе апавяшчэнні [<control name='Controls/NextTask'/>]."/>
+	<entry name="Community" value="Супольнасць"/>
+	<entry name="Compendium" value="Кампендыум"/>
+	<entry name="CompendiumFlavor" value="Кампендыум захоўвае карысную гульнявую інфармацыю. Тут вы можаце прачытаць пра фракцыі, будынкі, юнітаў, перачытаць рады і шмат што іншае."/>
+	<entry name="Connect" value="Злучыць"/>
+	<entry name="ConnectEpicAccount" value="Падлучыць Epic Account"/>
+	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Расходуе дзеянне<style color='Default'/>"/>
+	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Расходуе рух<style color='Default'/>"/>
+	<entry name="Continue" value="Працягнуць"/>
+	<entry name="Cooldown" value="Час перазарадкі"/>
+	<entry name="Copy" value="Капіяваць"/>
+	<entry name="Cost" value="Кошт"/>
+	<entry name="Create" value="Стварыць"/>
+	<entry name="Credits" value="Пра стваральнікаў"/>
+	<entry name="DLC" value="DLC"/>
+	<entry name="DLCNotEnabled" value="<style color='GUI/Red'/>%1% не ўлучаны для гэтай гульні. Уключыце яго ў пашыраных наладах гульнявога лобі перад пачаткам новай гульні."/>
+	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% не ўсталяваны."/>
+	<entry name="DamageDealt" value="Нанесеная шкода"/>
+	<entry name="DamageTaken" value="Атрыманая шкода"/>
+	<entry name="Debug" value="Адладка"/>
+	<entry name="Default" value="Па змаўчанні"/>
+	<entry name="Defeated" value="Пераможаны"/>
+	<entry name="Delete" value="Выдаліць"/>
+	<entry name="Details" value="Дэталі"/>
+	<entry name="DirectConnect" value="Прамое злучэнне"/>
+	<entry name="DisableBuildingHint" value="Адключыць будынак гэтага тыпу, каб вызваліць занятае насельніцтва."/>
+	<entry name="DisableSimultaneousTurns" value="Адключыць адначасныя крокі"/>
+	<entry name="DisableTips" value="Адключыць падказкі"/>
+	<entry name="DisableTipsHint" value="Адключыць усплывальныя падказкі. Вы можаце ўключыць іх ізноў у панэлі налад."/>
+	<entry name="DisconnectEpicAccount" value="Адключыць Epic Account"/>
+	<entry name="Disconnected" value="Адключаны"/>
+	<entry name="DismissReports" value="Адхіліць усё (%1%)"/>
+	<entry name="DragToChangeLoadOrder" value="Перацягніце, каб змяніць прыярытэт загрузкі."/>
+	<entry name="Economy" value="Эканоміка"/>
+	<entry name="Edicts" value="Эдыкты"/>
+	<entry name="EldarCityPowers" value="Шлях Азурыяна"/>
+	<entry name="EldarPlayerPowers" value="Кантроль Павуціны"/>
+	<entry name="Elite" value="Эліта"/>
+	<entry name="EnableBuildingHint" value="Уключыць будынак гэтага тыпу. Адправіць у яго насельніцтва."/>
+	<entry name="EnableMod" value="Уключыць мод."/>
+	<entry name="EnableSimultaneousTurns" value="Уключыць адначасныя крокі"/>
+	<entry name="EndTurn" value="Скончыць крок"/>
+	<entry name="EndTurnHint" value="Скончыць свой крок [<control name='Controls/NextTask'/>]."/>
+	<entry name="Enter" value="Увод"/>
+	<entry name="EstimatedCasualties" value="чакаюцца %1%/%2% страты"/>
+	<entry name="Events" value="Падзеі"/>
+	<entry name="ExecuteQueuedOrders" value="Выканаць чаргу загадаў (%1%)"/>
+	<entry name="ExecuteQueuedOrdersHint" value="Выканаць чаргу загадаў мінулага кроку [<control name='Controls/NextTask'/>]."/>
+	<entry name="Extra" value="Экстра"/>
+	<entry name="ForceEndTurnHint" value="Скончыць Ваш Крок [<control name='Controls/ForceEndTurn'/>]."/>
+	<entry name="ExitCity" value="Выйсці з горада"/>
+	<entry name="ExitCityHint" value="Выйсці з экрана горада [<control name='Controls/NextTask'/>]."/>
+	<entry name="ExitToMainMenu" value="Выйсці ў галоўнае меню"/>
+	<entry name="ExitToDesktop" value="Выйсці на працоўны стол"/>
+	<entry name="Explored" value="Даследавана"/>
+	<entry name="Factions" value="Фракцыі"/>
+	<entry name="Features" value="Мясцовасць"/>
+	<entry name="FreeAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Дармавое дзеянне"/>
+	<entry name="Full" value="Поўны"/>
+	<entry name="GameBrowser" value="Агляд гульняў"/>
+	<entry name="GameLobby" value="Гульнявы вестыбюль"/>
+	<entry name="Games" value="Гульні"/>
+	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="HoldKeyForMeleeAttack" value="Утрымлівайце Ctrl для максімальнай шкоды."/>
+	<entry name="HoldKeyToKeepVisible" value="Утрымлівайце Shift, каб заставацца бачным."/>
+	<entry name="HoldKeyToShowOpponentAttack" value="Утрымлівайце Alt, каб паказаць атаку ворага."/>
+	<entry name="HotseatNotAvailable" value="<style color='GUI/Red'/>Калі ласка адключыце адначасовыя крокі ў пашыраных наладах, каб дазволіць лакальную сетку."/>
+	<entry name="Host" value="Гаспадар"/>
+	<entry name="Inaccessible" value="Недаступны"/>
+	<entry name="IncompatibleVersion" value="Несовместимая версия"/>
+	<entry name="InfoFormat" value="%3%%4%<style name='Italic'/>%5%<style name='Default'/>%9%%6%%7%%8%"/>
+	<entry name="Installed" value="Усталяваны"/>
+	<entry name="IntroductionGame" value="Навучанне"/>
+	<entry name="IntroductionGameHint" value="Пачніце навучальную гульню за Космадэсант на найлягчэйшай складанасці."/>
+	<entry name="InvalidName" value="Няправільнае імя."/>
+	<entry name="InviteEpicFriend" value="Запрасіць Сябра з Epic"/>
+	<entry name="InviteSteamFriend" value="Запрасіць Сябра з Steam"/>
+	<entry name="InviteSteamFriendHint" value="<style color='GUI/Yellow'/>Steam дазваляе запрашаць сяброў толькі, калі ўсталяваны публічныя налады сакрэтнасці."/>
+	<entry name="InviteSteamFriendDisabledHint" value="Гаспадар скарыстае не Steam версію гульні або Steam matchmaking недаступны."/>
+	<entry name="Invulnerable" value="Непаражальны"/>
+	<entry name="ItemShop" value="Крама прадметаў"/>
+	<entry name="Items" value="Прадметы"/>
+	<entry name="Join" value="Далучыцца"/>
+	<entry name="JustOneMoreTurn" value="Пачакайце! Яшчэ…  адзін… крок…"/>
+	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% досвед<br/><icon texture='GUI/Bullet'/>%3% досвед за смерць"/>
+	<entry name="LimitReached" value="Дасягнуты ліміт."/>
+	<entry name="Load" value="Загрузіць"/>
+	<entry name="LoadGame" value="Загрузіць гульню"/>
+	<entry name="MainMenu" value="Галоўнае меню"/>
+	<entry name="MarkTileHint" value="<style name='Heading'/>Пазначыць плітку [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Дадайце або выдаліце пазнаку для хаўруснікаў. Саюзны ШЫ будзе імкнуцца перасоўваць свае адзінкі праз пазнакі."/>
+	<entry name="MarksOfChaos" value="Знакі Хаосу"/>
+	<entry name="Max" value="макс"/>
+	<entry name="Menu" value="Меню"/>
+	<entry name="Military" value="Вайсковы"/>
+	<entry name="Min" value="мін"/>
+	<entry name="Minimap" value="Мінікарта"/>
+	<entry name="Missing" value="?"/>
+	<entry name="Mixer" value="Змяшальнік"/>
+	<entry name="ModDetailsHint" value="Адкрыць інфармацыю пра мод."/>
+	<entry name="ModFolderHint" value="Адкрыць тэчку з модам."/>
+	<entry name="Mods" value="Моды"/>
+	<entry name="More" value="Болей"/>
+	<entry name="Multiplayer" value="Сеткавая гульня"/>
+	<entry name="Name" value="Імя"/>
+	<entry name="New" value="Новая"/>
+	<entry name="NewGame" value="Новая гульня"/>
+	<entry name="NewGameHint" value="Абярыце сабе фракцыю і наладзьце параметры свету."/>
+	<entry name="NewSavedGame" value="Новае захаванне"/>
+	<entry name="NoChargesRemaining" value="Не засталося зарадаў."/>
+	<entry name="NoFreeItemSlots" value="Няма свабоднага месца для прадметаў."/>
+	<entry name="NoResearchSelected" value="Даследаванне не абрана"/>
+	<entry name="NoValidTargets" value="Няма даступных цэляў."/>
+	<entry name="NotEnoughResources" value="Няма даступных рэсурсаў.."/>
+	<entry name="NotReady" value="Не гатоў"/>
+	<entry name="Objectives" value="Мэты"/>
+	<entry name="ObjectivesCompleted" value="Мэты дасягнуты"/>
+	<entry name="OK" value="Добра"/>
+	<entry name="OnCooldown" value="На перазарадцы."/>
+	<entry name="OpenStore" value="Націсніце, каб адкрыць краму."/>
+	<entry name="Operations" value="Аперацыі і Тактыкі"/>
+	<entry name="Or" value="або"/>
+	<entry name="OrderCity" value="Загады гарадам (%1%)"/>
+	<entry name="OrderCityHint" value="Абраць наступны бяздзейны горад [<control name='Controls/NextTask'/>]."/>
+	<entry name="OrderUnits" value="Загады адзінкам (%1%)"/>
+	<entry name="OrderUnitsHint" value="Абраць наступную бяздзейную адзінку [<control name='Controls/NextTask'/>]."/>
+	<entry name="Overwrite" value="Перазапісаць"/>
+	<entry name="PauseTurnTimer" value="Таймер паўзы"/>
+	<entry name="Parameters" value="Параметры"/>
+	<entry name="Passive" value="Пасіўны"/>
+	<entry name="PassiveAction" value="Пасіўнае дзеянне"/>
+	<entry name="Paste" value="Уставіць"/>
+	<entry name="PatchNotes" value="Змены ў абнаўленні"/>
+	<entry name="Ping" value="Пінг"/>
+	<entry name="Play" value="Гуляць"/>
+	<entry name="Player" value="Гулец"/>
+	<entry name="PlayerXTurn" value="%1% крок"/>
+	<entry name="Players" value="Гульцы"/>
+	<entry name="PleaseWait" value="Калі ласка пачакайце…"/>
+	<entry name="PleaseWaitHint" value="Калі ласка пачакайце іншых гульцоў."/>
+	<entry name="Quests" value="Заданні"/>
+	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітка"/>
+	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітак"/>
+	<entry name="Random" value="Выпадковы"/>
+	<entry name="Randomize" value="Выпадкова"/>
+	<entry name="RangeSelf" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасць: уласная"/>
+	<entry name="RangeTilesMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасць: %1% плітак"/>
+	<entry name="RangeTilesMinMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасць: %1%—%2% плітак"/>
+	<entry name="Ready" value="Гатоў"/>
+	<entry name="Refresh" value="Абнавіць"/>
+	<entry name="RemovePlayerHint" value="Выдаліць гульца."/>
+	<entry name="RenameHint" value="Пераназваць."/>
+	<entry name="(Required)" value="(патрабуецца %1%)"/>
+	<entry name="RequiredLevel" value="Патрабуецца ўзровень: %1%"/>
+	<entry name="Requires" value="Патрабуе"/>
+	<entry name="RequiresAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Патрабуецца дзеянне<style color='Default'/>"/>
+	<entry name="RequiresMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Патрабуецца рух<style color='Default'/>"/>
+	<entry name="Research" value="Даследаванне"/>
+	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
+	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% набыта"/>
+	<entry name="ResourceFromAdjacentBuildings" value="    <icon texture='GUI/Bullet'/>%1% ад суседніх будынкаў"/>
+	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% ад будынкаў"/>
+	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% ад колькасці гарадоў"/>
+	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% ад разбурэнняў"/>
+	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1% ад складанасці"/>
+	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1% ад мясцовасці"/>
+	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1% ад лаяльнасці"/>
+	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1% ад насельніцтва"/>
+	<entry name="ResourceFromShortage" value="    <icon texture='GUI/Bullet'/>%1% ад нястачы рэсурсаў"/>
+	<entry name="ResourceFromTiles" value="    <icon texture='GUI/Bullet'/>%1% ад плітак"/>
+	<entry name="ResourceFromUnits" value="    <icon texture='GUI/Bullet'/>%1% ад адзінак"/>
+	<entry name="ResourceFromUtopia" value="    <icon texture='GUI/Bullet'/>%1% ад утопіі"/>
+	<entry name="ResourceLimit" value="<icon texture='GUI/Bullet'/>%1% ліміт"/>
+	<entry name="ResourcePerTurn" value="<icon texture='GUI/Bullet'/>%1% кожны крок"/>
+	<entry name="ResourceShortageTitle" value="Нястача рэсурсаў"/>
+	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% нястача"/>
+	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% усяго"/>
+	<entry name="ResourcesAccumulated" value="Назапашаныя рэсурсы"/>
+	<entry name="Restart" value="Пачаць наноў"/>
+	<entry name="RestartScenario" value="Пачаць сцэнарый наноў "/>
+	<entry name="RestoreDefaults" value="Аднавіць значэнні па змаўчанні"/>
+	<entry name="Rewards" value="Узнагароды"/>
+	<entry name="RewardsReceived" value="Атрымана ўзнагарод"/>
+	<entry name="QuickSelectFactionHint" value="Хуткі выбар фракцыі."/>
+	<entry name="Quit" value="Выхад"/>
+	<entry name="Quests" value="Заданні"/>
+	<entry name="Save" value="Захаваць"/>
+	<entry name="SaveGame" value="Захаваць гульню"/>
+	<entry name="Scenarios" value="Сцэнарыі"/>
+	<entry name="Scores" value="Вынікі"/>
+	<entry name="SelectCityHint" value="Абраць горад."/>
+	<entry name="SelectColorHint" value="Абраць колер."/>
+	<entry name="SelectDifficultyHint" value="Абраць складанасць."/>
+	<entry name="SelectFaction" value="Абраць фракцыю"/>
+	<entry name="SelectFactionHint" value="Абраць фракцыю."/>
+	<entry name="SelectNextCityHint" value="Абраць наступны горад."/>
+	<entry name="SelectPreviousCityHint" value="Абраць папярэдні горад."/>
+	<entry name="SelectTeamHint" value="Абраць каманду."/>
+	<entry name="SelectUnitHint" value="Абраць адзінку."/>
+	<entry name="Settings" value="Налады"/>
+	<entry name="SinglePlayer" value="Адзін гулец"/>
+	<entry name="SkipCity" value="Прапусціць горад (1/%1%)"/>
+	<entry name="SkipCityHint" value="Прапусціць гэты горад [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]:  абраць наступны нядзейсны горад.<br/>[<control name='Controls/SelectPrevious'/>]: абраць папярэдні нядзейсны горад."/>
+	<entry name="SkipUnit" value="Прапусціць адзінку (1/%1%)"/>
+	<entry name="SkipUnitHint" value="Прапусціць гэтую адзінку [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]: абраць наступную нядзейсную адзінку.<br/>[<control name='Controls/SelectPrevious'/>]: абраць папярэднюю нядзейсную адзінку."/>
+	<entry name="Social" value="Сацыяльнае"/>
+	<entry name="Spectating" value="Назіранне"/>
+	<entry name="Start" value="Пачаць"/>
+	<entry name="Stats" value="Статыстыка"/>
+	<entry name="SteamWorkshop" value="Майстэрня Steam"/>
+	<entry name="Subscribe" value="Падпісацца"/>
+	<entry name="Surrender" value="Здацца"/>
+	<entry name="TauPowers" value="Асвета і адзінства"/>
+	<entry name="Team" value="Каманда"/>
+	<entry name="Team0" value="Няма каманды"/>
+	<entry name="Team0Hint" value="Няма каманды: гуляе самастойна; не з'яўляецца часткай альянсу."/>
+	<entry name="Team1" value="Каманда А"/>
+	<entry name="Team2" value="Каманда Б"/>
+	<entry name="Team3" value="Каманда В"/>
+	<entry name="Team4" value="Каманда Г"/>
+	<entry name="Team5" value="Каманда Д"/>
+	<entry name="Team6" value="Каманда Е"/>
+	<entry name="Team7" value="Каманда Ж"/>
+	<entry name="Team8" value="Каманда З"/>
+	<entry name="Technology" value="Тэхналогіі"/>
+	<entry name="Tier" value="Узровень"/>
+	<entry name="Tip" value="Падказка"/>
+	<entry name="Tips" value="Падказкі"/>
+	<entry name="ToggleHotseatHint" value="Уключыць лакальную сетку."/>
+	<entry name="Total" value="Агульны"/>
+	<entry name="Traits" value="Асаблівасці"/>
+	<entry name="Turn" value="Крок"/>
+	<entry name="UnclaimedItems" value="Незапатрабаваныя прадметы"/>
+	<entry name="Unexplored" value="Недаследаваны"/>
+	<entry name="UnholyRites" value="Ганебныя абрады"/>
+	<entry name="Units" value="Адзінкі"/>
+	<entry name="UnitsCreated" value="Створана Адзінак"/>
+	<entry name="UnitsLost" value="Страчана Адзінак"/>
+	<entry name="UnitsKilled" value="Забіта Адзінак"/>
+	<entry name="UnitsKilledByPlayer" value="Вы забілі: %2%"/>
+	<entry name="UnitsKilledOnGladius" value="%2% %1% забіта на Гладыўсе"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
+	<entry name="UnpauseTurnTimer" value="Спыніць таймер паўзы"/>
+	<entry name="Unready" value="Негатовы"/>
+	<entry name="Upgrades" value="Паляпшэнні"/>
+	<entry name="Upkeep" value="Забеспячэнне"/>
+	<entry name="UploadModHint" value="Загрузіць мод."/>
+	<entry name="UserData" value="Даныя карыстача"/>
+	<entry name="VS" value="супраць"/>
+	<entry name="Version" value="Версія"/>
+	<entry name="VersionRevisionsDiffer" value="Версіі адрозніваюцца (лакальная = %1%, сервер = %2%)."/>
+	<entry name="Victorious" value="Пераможны"/>
+	<entry name="WaaaghLevelHint" value="<style name='Title'/>Узровень Вааагх!<style name='Default'/><br/>Кожны ўзровень Вааагх! павялічвае або зменшвае атаку адзінак ды лаяльнасць будынкаў оркаў на 2%% (да +/-20%%). Узровень Вааагх! заснаваны на назапашаным уплыве і выдатку ўплыву на змест адзінак. Вааагх! абнаўляецца напачатку кожнага кроку.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% атакі ды лаяльнасць)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
+	<entry name="Weapons" value="Зброя"/>
+	<entry name="WorldDataChecksumsDiffer" value="Карта свету адрозніваецца (лакальная = %1%, сервер = %2%)."/>
+	<entry name="WorldSeedHint" value="Націсніце, каб скапіраваць насенне свету"/>
+	<entry name="XTurns" value="%1% крокаў"/>
+	<entry name="You" value="Вы"/>
+	<entry name="YourName" value="Ваша імя"/>
+</language>
