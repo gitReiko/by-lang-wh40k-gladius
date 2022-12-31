@@ -2905,4 +2905,272 @@
 	<entry name="SpaceMarines/Scout" value="SpaceMarines/TacticalSpaceMarine"/>
 	<entry name="Necrons/GhostArk" value="Necrons/Monolith"/>
 	<entry name="Eldar/Hornet" value="Eldar/FirePrism"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#0" value="Avenger Strike Fighter reporting."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#1" value="Strafing the enemy, Canoness."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#2" value="Death from the skies, Ma'am."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Attack#3" value="Running low on ammo."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Broken#0" value="Evasive manouvres!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Hurt#0" value="They must have AA behind them."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#0" value="We have the sun behind us."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#1" value="Unusual secondment, ma'am."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#2" value="Flying high!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Idle#3" value="Just glad to be alive!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Shaken#0" value="From up here… the horror."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:Victory#0" value="Score another one for the naval aces!"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Is… is that the Saint?"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/BattleSister:Attack#0" value="In the name of the Emperor."/>
+	<entry name="SistersOfBattle/BattleSister:Attack#1" value="The God-Emperor guide my bolt."/>
+	<entry name="SistersOfBattle/BattleSister:Attack#2" value="Unleashing His divine wrath!"/>
+	<entry name="SistersOfBattle/BattleSister:Attack#3" value="Suffer not the heretic to live!"/>
+	<entry name="SistersOfBattle/BattleSister:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/BattleSister:Broken#0" value="Without faith, we are nothing…"/>
+	<entry name="SistersOfBattle/BattleSister:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/BattleSister:Hurt#0" value="Yea, though their blades cut, I fear nothing."/>
+	<entry name="SistersOfBattle/BattleSister:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/BattleSister:Idle#0" value="We are the instruments of Salvation."/>
+	<entry name="SistersOfBattle/BattleSister:Idle#1" value="Sisters, let us pray."/>
+	<entry name="SistersOfBattle/BattleSister:Idle#2" value="We should not rest whilst wickedness works."/>
+	<entry name="SistersOfBattle/BattleSister:Idle#3" value="So much, so much heresy… so much work."/>
+	<entry name="SistersOfBattle/BattleSister:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/BattleSister:Shaken#0" value="In nomine Imperia…"/>
+	<entry name="SistersOfBattle/BattleSister:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/BattleSister:Victory#0" value="Rest, foe."/>
+	<entry name="SistersOfBattle/BattleSister:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/BattleSister:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="The Saint…? Where she goes, we shall follow!"/>
+	<entry name="SistersOfBattle/BattleSister:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Canoness:Attack#0" value="Give them the Emperor's peace."/>
+	<entry name="SistersOfBattle/Canoness:Attack#1" value="Heretics!"/>
+	<entry name="SistersOfBattle/Canoness:Attack#2" value="Taste my redemption."/>
+	<entry name="SistersOfBattle/Canoness:Attack#3" value="Feel my prayer!"/>
+	<entry name="SistersOfBattle/Canoness:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Canoness:Broken#0" value="My… sisters…"/>
+	<entry name="SistersOfBattle/Canoness:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Canoness:Hurt#0" value="I fight… on!"/>
+	<entry name="SistersOfBattle/Canoness:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Canoness:Idle#0" value="Chaos makes work for idle hands."/>
+	<entry name="SistersOfBattle/Canoness:Idle#1" value="We are not without flaw. But we know our sin."/>
+	<entry name="SistersOfBattle/Canoness:Idle#2" value="The holy trinity are my tools… bolter, flamer, melta."/>
+	<entry name="SistersOfBattle/Canoness:Idle#3" value="Redemption is worth any price, my sisters."/>
+	<entry name="SistersOfBattle/Canoness:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Canoness:Shaken#0" value="I… I cannot."/>
+	<entry name="SistersOfBattle/Canoness:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Canoness:Victory#0" value="Absolution is thine."/>
+	<entry name="SistersOfBattle/Canoness:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Canoness:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="I lead but she… she inspires."/>
+	<entry name="SistersOfBattle/Canoness:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Exorcist:Attack#0" value="…a mighty fortress is the Emperor…"/>
+	<entry name="SistersOfBattle/Exorcist:Attack#1" value="…arise, o Adepta Sororitas…"/>
+	<entry name="SistersOfBattle/Exorcist:Attack#2" value="…oh, Emperor, who art our light and day…"/>
+	<entry name="SistersOfBattle/Exorcist:Attack#3" value="…Hark, the glad sound of our weapons."/>
+	<entry name="SistersOfBattle/Exorcist:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Exorcist:Broken#0" value="…Emperor, have mercy."/>
+	<entry name="SistersOfBattle/Exorcist:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Exorcist:Hurt#0" value="…from the depths of woe, I cry to thee…"/>
+	<entry name="SistersOfBattle/Exorcist:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Exorcist:Idle#0" value="The Emperor lives!"/>
+	<entry name="SistersOfBattle/Exorcist:Idle#1" value="Glory! Glory! Glory!"/>
+	<entry name="SistersOfBattle/Exorcist:Idle#2" value="The Emperor has loosed his swift sword."/>
+	<entry name="SistersOfBattle/Exorcist:Idle#3" value="Quake, man, in terror."/>
+	<entry name="SistersOfBattle/Exorcist:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Exorcist:Shaken#0" value="Emperor, thy blood and righteousness shall preserve us."/>
+	<entry name="SistersOfBattle/Exorcist:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Exorcist:Victory#0" value="…crush the serpent and march on…"/>
+	<entry name="SistersOfBattle/Exorcist:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="…behold the wondrous mystery of the Living Saint..!"/>
+	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestine#0" value=""/>
+	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#0" value="Come closer, heretics."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#1" value="Feel the Emperor's wrath!"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#2" value="Faith is our shield."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Attack#3" value="We shall send you to your rest."/>
+	<entry name="SistersOfBattle/CelestianSacresant:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Broken#0" value="We cannot complete it. We must-"/>
+	<entry name="SistersOfBattle/CelestianSacresant:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Hurt#0" value="They threaten our quest…"/>
+	<entry name="SistersOfBattle/CelestianSacresant:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#0" value="We travelled the galaxy to end… here."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#1" value="Our armour, impenetrable."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#2" value="Our virtue, unchallenged."/>
+	<entry name="SistersOfBattle/CelestianSacresant:Idle#3" value="We are the model to which all aspire."/>
+	<entry name="SistersOfBattle/CelestianSacresant:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Shaken#0" value="Not a step back."/>
+	<entry name="SistersOfBattle/CelestianSacresant:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/CelestianSacresant:Victory#0" value="Our quest is complete."/>
+	<entry name="SistersOfBattle/CelestianSacresant:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/CelestianSacresant:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Our namesake, our lady! Our quest is at an end."/>
+	<entry name="SistersOfBattle/CelestianSacresant:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Attack#0" value="For the honour of the Questor Mechanicus!"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Attack#1" value="We are but a weapon in the right hand of the Emperor."/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Attack#2" value="Fear my charge!"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Attack#3" value="Knights, ho!"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Broken#0" value="What knavery…?"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Hurt#0" value="Speed shall be mine armour."/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Idle#0" value="I rust, whilst you dither."/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Idle#1" value="Canoness, use me!"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Idle#2" value="My lance needs use."/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Idle#3" value="The machine spirits hunger for glory!"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Shaken#0" value="What is the glory in this?"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:Victory#0" value="They could not withstand my fury."/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="A… a living saint?"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:EnemyUnit:AdeptusMechanicus/KnightCrusader#0" value="A worthy foe! Come, let me close with you."/>
+	<entry name="SistersOfBattle/CerastusKnightLancer:EnemyUnit:AdeptusMechanicus/KnightCrusaderCount" value="1"/>
+	<entry name="SistersOfBattle/Dialogus:Attack#0" value="And, yea, the Emperor saw their death and it was good."/>
+	<entry name="SistersOfBattle/Dialogus:Attack#1" value="Rest not my sisters, tell they are no more!"/>
+	<entry name="SistersOfBattle/Dialogus:Attack#2" value="Ask not the heretic when a flamer can speak."/>
+	<entry name="SistersOfBattle/Dialogus:Attack#3" value="I stand with you, together!"/>
+	<entry name="SistersOfBattle/Dialogus:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Dialogus:Broken#0" value="Penitence is its own punishment."/>
+	<entry name="SistersOfBattle/Dialogus:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Dialogus:Hurt#0" value="What is one more wound to the faithful?"/>
+	<entry name="SistersOfBattle/Dialogus:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Dialogus:Idle#0" value="Vox-beads: check. Sensoria: check."/>
+	<entry name="SistersOfBattle/Dialogus:Idle#1" value="Rest today, for tomorrow we shall be with Him."/>
+	<entry name="SistersOfBattle/Dialogus:Idle#2" value="The Emperor loves you all."/>
+	<entry name="SistersOfBattle/Dialogus:Idle#3" value="Fear not the xenos."/>
+	<entry name="SistersOfBattle/Dialogus:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Dialogus:Shaken#0" value="Though I walk through death and toil…"/>
+	<entry name="SistersOfBattle/Dialogus:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Dialogus:Victory#0" value="Lie down for me, so I might tread higher"/>
+	<entry name="SistersOfBattle/Dialogus:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Dialogus:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Words… fail me. Celestine herself!"/>
+	<entry name="SistersOfBattle/Dialogus:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Headquarters:Attack#0" value="Lo, the faithful chorus rings out."/>
+	<entry name="SistersOfBattle/Headquarters:Attack#1" value="Our walls stand ready."/>
+	<entry name="SistersOfBattle/Headquarters:Attack#2" value="Our shrines are not defenseless."/>
+	<entry name="SistersOfBattle/Headquarters:Attack#3" value="You are mistaken if you think us weak."/>
+	<entry name="SistersOfBattle/Headquarters:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Headquarters:Broken#0" value="Our walls… fall?"/>
+	<entry name="SistersOfBattle/Headquarters:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Headquarters:Hurt#0" value="The shrine is breached."/>
+	<entry name="SistersOfBattle/Headquarters:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Headquarters:Idle#0" value="Offering prayers to the God-Emperor."/>
+	<entry name="SistersOfBattle/Headquarters:Idle#1" value="Purging heretics."/>
+	<entry name="SistersOfBattle/Headquarters:Idle#2" value="Scattering holy ashes."/>
+	<entry name="SistersOfBattle/Headquarters:Idle#3" value="Training novices."/>
+	<entry name="SistersOfBattle/Headquarters:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Headquarters:Shaken#0" value="Behind the ramparts, quick!"/>
+	<entry name="SistersOfBattle/Headquarters:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Headquarters:Victory#0" value="Do not test our walls or our faith."/>
+	<entry name="SistersOfBattle/Headquarters:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Headquarters:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="O, would that she would visit. Celestine!"/>
+	<entry name="SistersOfBattle/Headquarters:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Hospitaller:Attack#0" value="My tools hurt as well as they heal."/>
+	<entry name="SistersOfBattle/Hospitaller:Attack#1" value="We hate you, affronts to the faith."/>
+	<entry name="SistersOfBattle/Hospitaller:Attack#2" value="Stand strong in the name of the Emperor."/>
+	<entry name="SistersOfBattle/Hospitaller:Attack#3" value="Martial bliss is our reward."/>
+	<entry name="SistersOfBattle/Hospitaller:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Hospitaller:Broken#0" value="I must retreat, to preserve the young ones."/>
+	<entry name="SistersOfBattle/Hospitaller:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Hospitaller:Hurt#0" value="Physician… heal thyself."/>
+	<entry name="SistersOfBattle/Hospitaller:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Hospitaller:Idle#0" value="In strength, life."/>
+	<entry name="SistersOfBattle/Hospitaller:Idle#1" value="Our wounds are testaments to our good work."/>
+	<entry name="SistersOfBattle/Hospitaller:Idle#2" value="Where shall I raise our shrines?"/>
+	<entry name="SistersOfBattle/Hospitaller:Idle#3" value="Hatred is not a sin when the universe is so foul."/>
+	<entry name="SistersOfBattle/Hospitaller:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Hospitaller:Shaken#0" value="My role is to heal… why am I here?"/>
+	<entry name="SistersOfBattle/Hospitaller:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Hospitaller:Victory#0" value="My healing touch is somewhat late for that one."/>
+	<entry name="SistersOfBattle/Hospitaller:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Hospitaller:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="My wounds… knit themselves together. How?"/>
+	<entry name="SistersOfBattle/Hospitaller:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Mortifier:Attack#0" value="letmeoutletmeout"/>
+	<entry name="SistersOfBattle/Mortifier:Attack#1" value="i'msorryi'msorryi'msorry"/>
+	<entry name="SistersOfBattle/Mortifier:Attack#2" value="diediedie"/>
+	<entry name="SistersOfBattle/Mortifier:Attack#3" value="why can't I die?"/>
+	<entry name="SistersOfBattle/Mortifier:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Mortifier:Broken#0" value="Break me more, so I may not know this."/>
+	<entry name="SistersOfBattle/Mortifier:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Mortifier:Hurt#0" value="Please, death, now, yes."/>
+	<entry name="SistersOfBattle/Mortifier:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Mortifier:Idle#0" value="Emperor, free me."/>
+	<entry name="SistersOfBattle/Mortifier:Idle#1" value="Let me die."/>
+	<entry name="SistersOfBattle/Mortifier:Idle#2" value="I am a sinner, but this-"/>
+	<entry name="SistersOfBattle/Mortifier:Idle#3" value="-torment-"/>
+	<entry name="SistersOfBattle/Mortifier:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Mortifier:Shaken#0" value="Bring the death closer!"/>
+	<entry name="SistersOfBattle/Mortifier:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Mortifier:Victory#0" value="They are free… for me, there is nothing."/>
+	<entry name="SistersOfBattle/Mortifier:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Mortifier:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Please… please…"/>
+	<entry name="SistersOfBattle/Mortifier:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/SaintCelestine:Attack#0" value="One day, humanity will be free of this."/>
+	<entry name="SistersOfBattle/SaintCelestine:Attack#1" value="I bring salvation… through annihilation."/>
+	<entry name="SistersOfBattle/SaintCelestine:Attack#2" value="I am the Emperor's tool, to guide as He wills."/>
+	<entry name="SistersOfBattle/SaintCelestine:Attack#3" value="He knows my path."/>
+	<entry name="SistersOfBattle/SaintCelestine:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/SaintCelestine:Broken#0" value="I cannot falter."/>
+	<entry name="SistersOfBattle/SaintCelestine:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/SaintCelestine:Hurt#0" value="Death is never the end. Why fear it?"/>
+	<entry name="SistersOfBattle/SaintCelestine:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/SaintCelestine:Idle#0" value="Rather darkness than the illumination of the unclean."/>
+	<entry name="SistersOfBattle/SaintCelestine:Idle#1" value="I live in the hearts of the Righteous."/>
+	<entry name="SistersOfBattle/SaintCelestine:Idle#2" value="They would follow me to the Eye of Terror…"/>
+	<entry name="SistersOfBattle/SaintCelestine:Idle#3" value="Trapped. Here."/>
+	<entry name="SistersOfBattle/SaintCelestine:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/SaintCelestine:Shaken#0" value="I fear no death."/>
+	<entry name="SistersOfBattle/SaintCelestine:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/SaintCelestine:Victory#0" value="This is your end, not mine."/>
+	<entry name="SistersOfBattle/SaintCelestine:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/SisterRepentia:Attack#0" value="For redemption!"/>
+	<entry name="SistersOfBattle/SisterRepentia:Attack#1" value="By our works, know us!"/>
+	<entry name="SistersOfBattle/SisterRepentia:Attack#2" value="Atonement is good work!"/>
+	<entry name="SistersOfBattle/SisterRepentia:Attack#3" value="Our eviscerators are as prayer-wheels."/>
+	<entry name="SistersOfBattle/SisterRepentia:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/SisterRepentia:Broken#0" value="They will Mortify us!"/>
+	<entry name="SistersOfBattle/SisterRepentia:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/SisterRepentia:Hurt#0" value="Our faith is our armour!"/>
+	<entry name="SistersOfBattle/SisterRepentia:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/SisterRepentia:Idle#0" value="We have sinned."/>
+	<entry name="SistersOfBattle/SisterRepentia:Idle#1" value="Cowardice in the face of the enemy."/>
+	<entry name="SistersOfBattle/SisterRepentia:Idle#2" value="Lord, Emperor, we beg forgiveness."/>
+	<entry name="SistersOfBattle/SisterRepentia:Idle#3" value="A moment of peace before death."/>
+	<entry name="SistersOfBattle/SisterRepentia:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/SisterRepentia:Shaken#0" value="Perhaps we cannot atone…"/>
+	<entry name="SistersOfBattle/SisterRepentia:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/SisterRepentia:Victory#0" value="Another step toward redemption or death."/>
+	<entry name="SistersOfBattle/SisterRepentia:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/SisterRepentia:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Celestine was once a Repentia… our beacon of redemption."/>
+	<entry name="SistersOfBattle/SisterRepentia:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Zephyrim:Attack#0" value="Fire and flight!"/>
+	<entry name="SistersOfBattle/Zephyrim:Attack#1" value="Come, burn."/>
+	<entry name="SistersOfBattle/Zephyrim:Attack#2" value="The Emperor is our guide!"/>
+	<entry name="SistersOfBattle/Zephyrim:Attack#3" value="Through skies of flame, you are ours."/>
+	<entry name="SistersOfBattle/Zephyrim:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Zephyrim:Broken#0" value="Fly, the Emperor Protects Us!"/>
+	<entry name="SistersOfBattle/Zephyrim:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Zephyrim:Hurt#0" value="Our blood, our wounds, prayers to Him!"/>
+	<entry name="SistersOfBattle/Zephyrim:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Zephyrim:Idle#0" value="We are the divine destroyers."/>
+	<entry name="SistersOfBattle/Zephyrim:Idle#1" value="Hunt the wicked, the powerful."/>
+	<entry name="SistersOfBattle/Zephyrim:Idle#2" value="Tongues of flame speak prayers too."/>
+	<entry name="SistersOfBattle/Zephyrim:Idle#3" value="Angelic chorus awaiting orders."/>
+	<entry name="SistersOfBattle/Zephyrim:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Zephyrim:Shaken#0" value="Regrouping amidst the clouds."/>
+	<entry name="SistersOfBattle/Zephyrim:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Zephyrim:Victory#0" value="So all the wicked perish!"/>
+	<entry name="SistersOfBattle/Zephyrim:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Zephyrim:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="Would that we were true angels like her…"/>
+	<entry name="SistersOfBattle/Zephyrim:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
+	<entry name="SistersOfBattle/Dominion" value="SistersOfBattle/BattleSister"/>
+	<entry name="SistersOfBattle/Immolator" value="SistersOfBattle/Exorcist"/>
+	<entry name="SistersOfBattle/Lightning" value="SistersOfBattle/Avenger"/>
+	<entry name="SistersOfBattle/ParagonWarsuit" value="SistersOfBattle/BattleSister"/>
+	<entry name="SistersOfBattle/Retributor" value="SistersOfBattle/BattleSister"/>
+	<entry name="SistersOfBattle/Castigator" value="SistersOfBattle/Exorcist"/>
 </language>

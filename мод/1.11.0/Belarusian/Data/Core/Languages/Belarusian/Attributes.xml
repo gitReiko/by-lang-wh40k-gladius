@@ -73,6 +73,10 @@
 	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="DamageTakenByGroupSizeFactor" value="Атрыманая шкода ад памеру групы"/>
 	<entry name="DamageTakenByGroupSizeFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Досвед Смерці"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="DeathMorale" value="Мараль Смерці"/>
+	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="DuplicateTypeCost" value="Кошт паўтору"/>
 	<entry name="Energy" value="Энергія"/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -308,6 +312,8 @@
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і захавання плітак гарадоў, выкліку адмысловых здольнасцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="Necrons/OreHint" value="<style name='Title'/>Руда<br/><style name='Default'/>Выкарыстоўваецца для падтрымання насельніцтва ў гарадах, а таксама для абслугоўвання будынкаў і адзінак."/>
 	<entry name="Orks/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і захавання плітак гарадоў, падтрымкі Вааагх!, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і абслугоўвання гарадскіх плітак, правядзення свяшчэнных абрадаў, а таксама рэкрутавання магутных адзінак-герояў і куплі іх прадметаў."/>
+	<entry name="SistersOfBattle/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Выкарыстоўваюцца для падтрымання насельніцтва ў горадзе, будаванні будынкаў, а таксама вытворчасці і абслугоўванні адзінак."/>
 	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і захавання плітак гарадоў, выкарыстання тактык і аперацый, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>Рэквізіцыі<br/><style name='Default'/>Выкарыстоўваюцца для падтрымання насельніцтва ў горадзе, будаванні будынкаў, а таксама вытворчасці і абслугоўванні адзінак."/>
 	<entry name="Tau/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцця і захавання плітак гарадоў, выкарыстанню адмысловых здольнасцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>

@@ -120,6 +120,23 @@
 	<entry name="Orks16" value="Да'іп"/>
 	<entry name="Orks17" value="Да Імперыя Да Оркаў"/>
 	<entry name="OrksCount" value="18"/>
+	<entry name="SistersOfBattle" value="<string name='Factions/SistersOfBattle'/>"/>
+	<entry name="SistersOfBattle0" value="Узнагарода Пакутніка"/>
+	<entry name="SistersOfBattle1" value="Свяцілішча Тройчынароджанага"/>
+	<entry name="SistersOfBattle2" value="Дэ Мірыя"/>
+	<entry name="SistersOfBattle3" value="Сэлендзін"/>
+	<entry name="SistersOfBattle4" value="Ласка Сэціны"/>
+	<entry name="SistersOfBattle5" value="Дамініканскі Пакой"/>
+	<entry name="SistersOfBattle6" value="Кроў Святой Міны"/>
+	<entry name="SistersOfBattle7" value="Аблуда Арабэллы"/>
+	<entry name="SistersOfBattle8" value="Капліца Анаісы"/>
+	<entry name="SistersOfBattle9" value="Палацін"/>
+	<entry name="SistersOfBattle10" value="Кіборыўм Элегантыя"/>
+	<entry name="SistersOfBattle11" value="Санктум Праксэдэс"/>
+	<entry name="SistersOfBattle12" value="Порт Штэрна"/>
+	<entry name="SistersOfBattle13" value="Акулюм Дэ Люцыя"/>
+	<entry name="SistersOfBattle14" value="Сабор Эруцыя"/>
+	<entry name="SistersOfBattleCount" value="15"/>
 	<entry name="SpaceMarines" value="<string name='Factions/SpaceMarines'/>"/>
 	<entry name="SpaceMarines0" value="Крэпасць Дорн"/>
 	<entry name="SpaceMarines1" value="Прімарыс Рэвенант"/>
