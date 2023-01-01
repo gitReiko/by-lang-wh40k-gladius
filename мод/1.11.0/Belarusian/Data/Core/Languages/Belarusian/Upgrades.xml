@@ -125,6 +125,24 @@
 	<entry name="Orks/Vehicles" value="<string name='Buildings/Orks/Vehicles'/>"/>
 	<entry name="Orks/VehiclesDescription" value="<string name='Buildings/Orks/VehiclesDescription'/>"/>
 	<entry name="Orks/VehiclesFlavor" value="<string name='Buildings/Orks/VehiclesFlavor'/>"/>
+	<entry name="SistersOfBattle/Auxiliaries" value="<string name='Buildings/SistersOfBattle/Auxiliaries'/>"/>
+	<entry name="SistersOfBattle/AuxiliariesDescription" value="<string name='Buildings/SistersOfBattle/AuxiliariesDescription'/>"/>
+	<entry name="SistersOfBattle/AuxiliariesFlavor" value="<string name='Buildings/SistersOfBattle/AuxiliariesFlavor'/>"/>
+	<entry name="SistersOfBattle/Construction" value="<string name='Buildings/SistersOfBattle/Construction'/>"/>
+	<entry name="SistersOfBattle/ConstructionDescription" value="<string name='Buildings/SistersOfBattle/ConstructionDescription'/>"/>
+	<entry name="SistersOfBattle/ConstructionFlavor" value="<string name='Buildings/SistersOfBattle/ConstructionFlavor'/>"/>
+	<entry name="SistersOfBattle/Heroes" value="<string name='Buildings/SistersOfBattle/Heroes'/>"/>
+	<entry name="SistersOfBattle/HeroesDescription" value="<string name='Buildings/SistersOfBattle/HeroesDescription'/>"/>
+	<entry name="SistersOfBattle/HeroesFlavor" value="<string name='Buildings/SistersOfBattle/HeroesFlavor'/>"/>
+	<entry name="SistersOfBattle/Housing" value="<string name='Buildings/SistersOfBattle/Housing'/>"/>
+	<entry name="SistersOfBattle/HousingDescription" value="<string name='Buildings/SistersOfBattle/HousingDescription'/>"/>
+	<entry name="SistersOfBattle/HousingFlavor" value="<string name='Buildings/SistersOfBattle/HousingFlavor'/>"/>
+	<entry name="SistersOfBattle/Loyalty" value="<string name='Buildings/SistersOfBattle/Loyalty'/>"/>
+	<entry name="SistersOfBattle/LoyaltyDescription" value="<string name='Buildings/SistersOfBattle/LoyaltyDescription'/>"/>
+	<entry name="SistersOfBattle/LoyaltyFlavor" value="<string name='Buildings/SistersOfBattle/LoyaltyFlavor'/>"/>
+	<entry name="SistersOfBattle/Vehicles" value="<string name='Buildings/SistersOfBattle/Vehicles'/>"/>
+	<entry name="SistersOfBattle/VehiclesDescription" value="<string name='Buildings/SistersOfBattle/VehiclesDescription'/>"/>
+	<entry name="SistersOfBattle/VehiclesFlavor" value="<string name='Buildings/SistersOfBattle/VehiclesFlavor'/>"/>
 	<entry name="SpaceMarines/Aircraft" value="<string name='Buildings/SpaceMarines/Aircraft'/>"/>
 	<entry name="SpaceMarines/AircraftDescription" value="<string name='Buildings/SpaceMarines/AircraftDescription'/>"/>
 	<entry name="SpaceMarines/AircraftFlavor" value="<string name='Buildings/SpaceMarines/AircraftFlavor'/>"/>
@@ -540,6 +558,51 @@
 	<entry name="Orks/Weirdboy" value="<string name='Units/Orks/Weirdboy'/>"/>
 	<entry name="Orks/WeirdboyDescription" value="<string name='Units/Orks/WeirdboyDescription'/>"/>
 	<entry name="Orks/WeirdboyFlavor" value="<string name='Units/Orks/WeirdboyFlavor'/>"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter" value="<string name='Units/SistersOfBattle/AvengerStrikeFighter'/>"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighterDescription" value="<string name='Units/SistersOfBattle/AvengerStrikeFighterDescription'/>"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighterFlavor" value="<string name='Units/SistersOfBattle/AvengerStrikeFighterFlavor'/>"/>
+	<entry name="SistersOfBattle/Castigator" value="<string name='Units/SistersOfBattle/Castigator'/>"/>
+	<entry name="SistersOfBattle/CastigatorDescription" value="<string name='Units/SistersOfBattle/CastigatorDescription'/>"/>
+	<entry name="SistersOfBattle/CastigatorFlavor" value="<string name='Units/SistersOfBattle/CastigatorFlavor'/>"/>
+	<entry name="SistersOfBattle/CelestianSacresant" value="<string name='Units/SistersOfBattle/CelestianSacresant'/>"/>
+	<entry name="SistersOfBattle/CelestianSacresantDescription" value="<string name='Units/SistersOfBattle/CelestianSacresantDescription'/>"/>
+	<entry name="SistersOfBattle/CelestianSacresantFlavor" value="<string name='Units/SistersOfBattle/CelestianSacresantFlavor'/>"/>
+	<entry name="SistersOfBattle/CerastusKnightLancer" value="<string name='Units/SistersOfBattle/CerastusKnightLancer'/>"/>
+	<entry name="SistersOfBattle/CerastusKnightLancerDescription" value="<string name='Units/SistersOfBattle/CerastusKnightLancerDescription'/>"/>
+	<entry name="SistersOfBattle/CerastusKnightLancerFlavor" value="<string name='Units/SistersOfBattle/CerastusKnightLancerFlavor'/>"/>
+	<entry name="SistersOfBattle/Dialogus" value="<string name='Units/SistersOfBattle/Dialogus'/>"/>
+	<entry name="SistersOfBattle/DialogusDescription" value="<string name='Units/SistersOfBattle/DialogusDescription'/>"/>
+	<entry name="SistersOfBattle/DialogusFlavor" value="<string name='Units/SistersOfBattle/DialogusFlavor'/>"/>
+	<entry name="SistersOfBattle/Dominion" value="<string name='Units/SistersOfBattle/Dominion'/>"/>
+	<entry name="SistersOfBattle/DominionDescription" value="<string name='Units/SistersOfBattle/DominionDescription'/>"/>
+	<entry name="SistersOfBattle/DominionFlavor" value="<string name='Units/SistersOfBattle/DominionFlavor'/>"/>
+	<entry name="SistersOfBattle/Exorcist" value="<string name='Units/SistersOfBattle/Exorcist'/>"/>
+	<entry name="SistersOfBattle/ExorcistDescription" value="<string name='Units/SistersOfBattle/ExorcistDescription'/>"/>
+	<entry name="SistersOfBattle/ExorcistFlavor" value="<string name='Units/SistersOfBattle/ExorcistFlavor'/>"/>
+	<entry name="SistersOfBattle/Headquarters" value="<string name='Buildings/SistersOfBattle/Headquarters'/>"/>
+	<entry name="SistersOfBattle/HeadquartersDescription" value="<string name='Units/SistersOfBattle/HeadquartersDescription'/>"/>
+	<entry name="SistersOfBattle/HeadquartersFlavor" value="<string name='Buildings/SistersOfBattle/HeadquartersFlavor'/>"/>
+	<entry name="SistersOfBattle/Hospitaller" value="<string name='Units/SistersOfBattle/Hospitaller'/>"/>
+	<entry name="SistersOfBattle/HospitallerDescription" value="<string name='Units/SistersOfBattle/HospitallerDescription'/>"/>
+	<entry name="SistersOfBattle/HospitallerFlavor" value="<string name='Units/SistersOfBattle/HospitallerFlavor'/>"/>
+	<entry name="SistersOfBattle/Mortifier" value="<string name='Units/SistersOfBattle/Mortifier'/>"/>
+	<entry name="SistersOfBattle/MortifierDescription" value="<string name='Units/SistersOfBattle/MortifierDescription'/>"/>
+	<entry name="SistersOfBattle/MortifierFlavor" value="<string name='Units/SistersOfBattle/MortifierFlavor'/>"/>
+	<entry name="SistersOfBattle/ParagonWarsuit" value="<string name='Units/SistersOfBattle/ParagonWarsuit'/>"/>
+	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="<string name='Units/SistersOfBattle/ParagonWarsuitDescription'/>"/>
+	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="<string name='Units/SistersOfBattle/ParagonWarsuitFlavor'/>"/>
+	<entry name="SistersOfBattle/Retributor" value="<string name='Units/SistersOfBattle/Retributor'/>"/>
+	<entry name="SistersOfBattle/RetributorDescription" value="<string name='Units/SistersOfBattle/RetributorDescription'/>"/>
+	<entry name="SistersOfBattle/RetributorFlavor" value="<string name='Units/SistersOfBattle/RetributorFlavor'/>"/>
+	<entry name="SistersOfBattle/SaintCelestine" value="<string name='Units/SistersOfBattle/SaintCelestine'/>"/>
+	<entry name="SistersOfBattle/SaintCelestineDescription" value="<string name='Units/SistersOfBattle/SaintCelestineDescription'/>"/>
+	<entry name="SistersOfBattle/SaintCelestineFlavor" value="<string name='Units/SistersOfBattle/SaintCelestineFlavor'/>"/>
+	<entry name="SistersOfBattle/SisterRepentia" value="<string name='Units/SistersOfBattle/SisterRepentia'/>"/>
+	<entry name="SistersOfBattle/SisterRepentiaDescription" value="<string name='Units/SistersOfBattle/SisterRepentiaDescription'/>"/>
+	<entry name="SistersOfBattle/SisterRepentiaFlavor" value="<string name='Units/SistersOfBattle/SisterRepentiaFlavor'/>"/>
+	<entry name="SistersOfBattle/Zephyrim" value="<string name='Units/SistersOfBattle/Zephyrim'/>"/>
+	<entry name="SistersOfBattle/ZephyrimDescription" value="<string name='Units/SistersOfBattle/ZephyrimDescription'/>"/>
+	<entry name="SistersOfBattle/ZephyrimFlavor" value="<string name='Units/SistersOfBattle/ZephyrimFlavor'/>"/>
 	<entry name="SpaceMarines/Apothecary" value="<string name='Units/SpaceMarines/Apothecary'/>"/>
 	<entry name="SpaceMarines/ApothecaryDescription" value="<string name='Units/SpaceMarines/ApothecaryDescription'/>"/>
 	<entry name="SpaceMarines/ApothecaryFlavor" value="<string name='Units/SpaceMarines/ApothecaryFlavor'/>"/>
@@ -1378,6 +1441,126 @@
 	<entry name="Orks/TankbustaBomb" value="<string name='Weapons/TankbustaBomb'/>"/>
 	<entry name="Orks/TankbustaBombDescription" value="Дае танкабоям здольнасць кідаць супрацьтанкавыя бомбы."/>
 	<entry name="Orks/TankbustaBombFlavor" value="<string name='Weapons/TankbustaBombFlavor'/>"/>
+	<entry name="SistersOfBattle/AdditionalHeavyBolter" value="Дадатковы Цяжкі Болтар"/>
+	<entry name="SistersOfBattle/AdditionalHeavyBolterDescription" value="Дае Ахвярніку, Экзарцысту і Лупцоўніку адзін дадатковы Цяжкі Болтар."/>
+	<entry name="SistersOfBattle/AdditionalHeavyBolterFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
+	<entry name="SistersOfBattle/AdditionalSacredRite" value="Двайная Вера"/>
+	<entry name="SistersOfBattle/AdditionalSacredRiteDescription" value="Два Свяшчэнных Абрады могуць быць актыўны адначасова."/>
+	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/AircraftsMissiles" value="Aircraft Missiles"/>
+	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Grants Skystrike Missiles to Lightning Fighters and Hellstrike Missiles to Avenger Strike Fighters."/>
+	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="These missiles allow the aircrafts to effectively engage a variety of targets; Hellstrike missiles for missions targeting armoured vehicles, Skystrike missiles for enemy air forces."/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagus'/>"/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Increases the armour of Mortifiers."/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagusFlavor" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagusFlavor'/>"/>
+	<entry name="SistersOfBattle/AssaultWeaponBonus" value="<string name='Traits/SistersOfBattle/AssaultWeaponBonus'/>"/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Increases the armour penetration of assault weapons."/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/AssaultWeaponBonusFlavor'/>"/>
+	<entry name="SistersOfBattle/AvengeTheMartyrs" value="Avenge the Martyrs"/>
+	<entry name="SistersOfBattle/AvengeTheMartyrsDescription" value="Increases the morale loss reduction from Avenging Zeal."/>
+	<entry name="SistersOfBattle/AvengeTheMartyrsFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
+	<entry name="SistersOfBattle/ChaffLauncher" value="Chaff Launcher"/>
+	<entry name="SistersOfBattle/ChaffLauncherDescription" value="Grants Lightning Fighters and Avenger Strike Fighters the ability to launch chaffs that increase ranged damage reduction."/>
+	<entry name="SistersOfBattle/ChaffLauncherFlavor" value="<string name='Actions/DispenseChaffFlavor'/>"/>
+	<entry name="SistersOfBattle/ChaseTheProfane" value="<string name='Actions/SistersOfBattle/ChaseTheProfane'/>"/>
+	<entry name="SistersOfBattle/ChaseTheProfaneDescription" value="<string name='Actions/SistersOfBattle/ChaseTheProfaneDescription'/>"/>
+	<entry name="SistersOfBattle/ChaseTheProfaneFlavor" value="<string name='Actions/SistersOfBattle/ChaseTheProfaneFlavor'/>"/>
+	<entry name="SistersOfBattle/CityGrowth" value="<string name='Traits/SistersOfBattle/CityGrowth'/>"/>
+	<entry name="SistersOfBattle/CityGrowthDescription" value="Increases the growth rate of cities."/>
+	<entry name="SistersOfBattle/CityGrowthFlavor" value="<string name='Traits/SistersOfBattle/CityGrowthFlavor'/>"/>
+	<entry name="SistersOfBattle/CityTier2" value="<string name='Traits/SistersOfBattle/CityTier2'/>"/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Increases the tile acquisition radius of the main city."/>
+	<entry name="SistersOfBattle/CityTier2Flavor" value="<string name='Traits/SistersOfBattle/CityTier2Flavor'/>"/>
+	<entry name="SistersOfBattle/CityTier3" value="<string name='Traits/SistersOfBattle/CityTier3'/>"/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Increases the tile acquisition radius of the main city."/>
+	<entry name="SistersOfBattle/CityTier3Flavor" value="<string name='Traits/SistersOfBattle/CityTier3Flavor'/>"/>
+	<entry name="SistersOfBattle/ConvictionOfFaith" value="<string name='Actions/SistersOfBattle/ConvictionOfFaith'/>"/>
+	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="<string name='Actions/SistersOfBattle/ConvictionOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/ConvictionOfFaithFlavor" value="<string name='Actions/SistersOfBattle/ConvictionOfFaithFlavor'/>"/>
+	<entry name="SistersOfBattle/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
+	<entry name="SistersOfBattle/DozerBladeDescription" value="Reduces the movement penalty for Ахвярніку, Экзарцысту і Лупцоўніку in forests and imperial ruins."/>
+	<entry name="SistersOfBattle/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
+	<entry name="SistersOfBattle/EternalCrusade" value="<string name='Actions/SistersOfBattle/EternalCrusade'/>"/>
+	<entry name="SistersOfBattle/EternalCrusadeDescription" value="<string name='Actions/SistersOfBattle/EternalCrusadeDescription'/>"/>
+	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="<string name='Actions/SistersOfBattle/EternalCrusadeFlavor'/>"/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Expert Fighters"/>
+	<entry name="SistersOfBattle/ExpertFightersDescription" value="Increases the accuracy of Lightning Fighters and Avenger Strike Fighters."/>
+	<entry name="SistersOfBattle/ExpertFightersFlavor" value="<string name='Traits/SistersOfBattle/ExpertFightersFlavor'/>"/>
+	<entry name="SistersOfBattle/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
+	<entry name="SistersOfBattle/ExtraInfantryArmourDescription" value="Increases the armour of infantry."/>
+	<entry name="SistersOfBattle/ExtraInfantryArmourFlavor" value="Constructed from thick ceramite plates, the power armour worn by the Adepta Sororitas is based upon the same archaic systems as that worn by the brethren of the Adeptus Astartes. It provides the same degree of armoured protection, yet must forego the more advanced support systems and strength enhancing abilities, for the Battle Sisters do not possess a Space Marine’s ability to interface directly with their own armour."/>
+	<entry name="SistersOfBattle/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
+	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Increases the armour of vehicles."/>
+	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
+	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
+	<entry name="SistersOfBattle/FragGrenadeDescription" value="Grants Battle Sisters, Canonnesses, Celestian Sacresants, Dialogus, Dominions, Hospitallers, Paragon Warsuits, Retributors, Saint Celestine, Sisters Repentia, Zephyrims the ability to throw anti-infantry grenades."/>
+	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
+	<entry name="SistersOfBattle/HammerOfWrath" value="<string name='Traits/HammerOfWrath'/>"/>
+	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Grants Cerastus Knight-Lancer, Mortifiers, Paragon Warsuits, Saint Celestine and Zephyrim the ability to perform more devastating attacks."/>
+	<entry name="SistersOfBattle/HammerOfWrathFlavor" value="<string name='Traits/HammerOfWrathFlavor'/>"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonus" value="<string name='Traits/SistersOfBattle/HeavyWeaponBonus'/>"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Increases the armour penetration of heavy weapons."/>
+	<entry name="SistersOfBattle/HeavyWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/HeavyWeaponBonusFlavor'/>"/>
+	<entry name="SistersOfBattle/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
+	<entry name="SistersOfBattle/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
+	<entry name="SistersOfBattle/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
+	<entry name="SistersOfBattle/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
+	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Grants Battle Sisters, Canonesses, Dialogus, Dominions, Retributors, Sisters Repentia and Zephyrims the ability to throw anti-armour grenades."/>
+	<entry name="SistersOfBattle/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
+	<entry name="SistersOfBattle/LaudHailer" value="<string name='Traits/SistersOfBattle/LaudHailer'/>"/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Allows shaken units to perform Acts of Faith."/>
+	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Traits/SistersOfBattle/LaudHailerFlavor'/>"/>
+	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Traits/SistersOfBattle/MedicusMinistorum'/>"/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Grants feel no pain damage reduction to allied infantry units adjacent to a Hospitaller unit."/>
+	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="<string name='Traits/SistersOfBattle/MedicusMinistorumFlavor'/>"/>
+	<entry name="SistersOfBattle/MeleeWeaponBonus" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonus'/>"/>
+	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Increases the armour penetration of melee weapons."/>
+	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonusFlavor'/>"/>
+	<entry name="SistersOfBattle/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
+	<entry name="SistersOfBattle/MeltaBombDescription" value="Grants Battle Sisters, Canonesses, Celestian Sacresants, Dialogus, Dominions, Hospitallers, Paragon Warsuits, Retributors, Saint Celestine, Sisters Repentia and Zephyrims the ability to deploy a melta bomb that is highly effective against heavy vehicles and fortifications."/>
+	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
+	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Ministorum Indoctrination"/>
+	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Grants Martyr Spirit to Lightning Fighters, Avengers Strike Fighters and Cerastus Knight-Lancers."/>
+	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationDescription'/>"/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationFlavor'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitations" value="<string name='Actions/SistersOfBattle/PurifyingRecitations'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="<string name='Actions/SistersOfBattle/PurifyingRecitationsDescription'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="<string name='Actions/SistersOfBattle/PurifyingRecitationsFlavor'/>"/>
+	<entry name="SistersOfBattle/RagingFervour" value="<string name='Actions/SistersOfBattle/RagingFervour'/>"/>
+	<entry name="SistersOfBattle/RagingFervourDescription" value="<string name='Actions/SistersOfBattle/RagingFervourDescription'/>"/>
+	<entry name="SistersOfBattle/RagingFervourFlavor" value="<string name='Actions/SistersOfBattle/RagingFervourFlavor'/>"/>
+	<entry name="SistersOfBattle/RitualizedCeremonies" value="Ritualized Ceremonies"/>
+	<entry name="SistersOfBattle/RitualizedCeremoniesDescription" value="Reduces the cost of Sacred Rites."/>
+	<entry name="SistersOfBattle/RitualizedCeremoniesFlavor" value="“At first, we prayed on the move, in moments of peace in ruins or caves. In time, as the conflict stabilized into endless, grinding war, our rituals and prayers stabilized too, to form a regime and routine.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/SacralVigor" value="<string name='Actions/SistersOfBattle/SacralVigor'/>"/>
+	<entry name="SistersOfBattle/SacralVigorDescription" value="<string name='Actions/SistersOfBattle/SacralVigorDescription'/>"/>
+	<entry name="SistersOfBattle/SacralVigorFlavor" value="<string name='Actions/SistersOfBattle/SacralVigorFlavor'/>"/>
+	<entry name="SistersOfBattle/SanctifiedWorld" value="Sanctified World"/>
+	<entry name="SistersOfBattle/SanctifiedWorldDescription" value="Increases the loyalty bonus granted by Convent of Faith."/>
+	<entry name="SistersOfBattle/SanctifiedWorldFlavor" value="Most Orders spread the illumination of the God-Emperor to worlds far beyond their primary sanctuaries, establishing far-flung missions and subsidiary chapels to extend the influence of their Order and the Ecclesiarchy."/>
+	<entry name="SistersOfBattle/SimulacrumImperialis" value="<string name='Traits/SistersOfBattle/SimulacrumImperialis'/>"/>
+	<entry name="SistersOfBattle/SimulacrumImperialisDescription" value="<string name='Traits/SistersOfBattle/SimulacrumImperialisDescription'/>"/>
+	<entry name="SistersOfBattle/SimulacrumImperialisFlavor" value="<string name='Traits/SistersOfBattle/SimulacrumImperialisFlavor'/>"/>
+	<entry name="SistersOfBattle/SisterSuperior" value="<string name='Traits/SistersOfBattle/SisterSuperior'/>"/>
+	<entry name="SistersOfBattle/SisterSuperiorDescription" value="<string name='Traits/SistersOfBattle/SisterSuperiorDescription'/>"/>
+	<entry name="SistersOfBattle/SisterSuperiorFlavor" value="<string name='Traits/SistersOfBattle/SisterSuperiorFlavor'/>"/>
+	<entry name="SistersOfBattle/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
+	<entry name="SistersOfBattle/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
+	<entry name="SistersOfBattle/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
+	<entry name="SistersOfBattle/UniversalCatechism" value="Universal Catechism"/>
+	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Grants Shield Of Faith to Lightning Fighters, Avengers Strike Fighters and Cerastus Knight-Lancers."/>
+	<entry name="SistersOfBattle/UniversalCatechismFlavor" value="Imperial troops requisitioned for the Wars of Faith often end up praying side-by-side with the sisters of the Adepta Sororitas before each battle, finding guidance in their convictions."/>
+	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Actions/SistersOfBattle/VengefulSpirit'/>"/>
+	<entry name="SistersOfBattle/VengefulSpiritDescription" value="<string name='Actions/SistersOfBattle/VengefulSpiritDescription'/>"/>
+	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="<string name='Actions/SistersOfBattle/VengefulSpiritFlavor'/>"/>
+	<entry name="SistersOfBattle/VowOfTheMilitantOrder" value="Vow Of The Militant Order"/>
+	<entry name="SistersOfBattle/VowOfTheMilitantOrderDescription" value="Units keep their Shield Of Faith if they are broken."/>
+	<entry name="SistersOfBattle/VowOfTheMilitantOrderFlavor" value="<string name='Traits/SistersOfBattle/ShieldOfFaithFlavor'/>"/>
+	<entry name="SistersOfBattle/WarmachinesWrath" value="<string name='Actions/SistersOfBattle/WarmachinesWrath'/>"/>
+	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="<string name='Actions/SistersOfBattle/WarmachinesWrathDescription'/>"/>
+	<entry name="SistersOfBattle/WarmachinesWrathFlavor" value="<string name='Actions/SistersOfBattle/WarmachinesWrathFlavor'/>"/>
 	<entry name="SpaceMarines/AssaultDoctrine" value="<string name='Traits/AssaultDoctrine'/>"/>
 	<entry name="SpaceMarines/AssaultDoctrineDescription" value="<string name='Actions/AssaultDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/AssaultDoctrineFlavor" value="<string name='Traits/AssaultDoctrineFlavor'/>"/>

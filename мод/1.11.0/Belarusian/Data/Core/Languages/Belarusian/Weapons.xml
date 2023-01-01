@@ -38,6 +38,10 @@
 	<entry name="ThoraxBiomorphFlavor" value="Certain Tyranids have thoracic cavities that play host to swarms of parasites—some of these minute creatures drain their victims' vital fluids, others emit an electrical charge which plays havoc with enemy vehicles, and others still nestle amongst the foe's armour before exploding in a horrific fashion."/>
 	
 	<!-- Specific -->
+	<entry name="AnointedHalberd" value="Памазаная Алебарда"/>
+	<entry name="AnointedHalberdFlavor" value="Anointed Halberds are heavy Power Halberds that are wielded by the Adepta Sororitas' Celestian Sacresants. When properly wielded from behind the Ceslestians’ impenetrable Sacresant Shields, they are deadly in battle."/>
+	<entry name="AnguishOfTheUnredeemed" value="Пакуты Збавіцеля"/>
+	<entry name="AnguishOfTheUnredeemedFlavor" value="The Sisters Repentia encased inside the Mortifier penitent engines desire two things: absolution through combat and their own death. Yet their pain is so great that they fail to realise when they are dying, continuing to strike at their enemy, striving for redemption even as they die having achieved it."/>
 	<entry name="AquilaMacroCannon" value="Макра-гармата Аквіла"/>
 	<entry name="AquilaMacroCannonFlavor" value="The munitions silo allows the Aquila macro-cannon to fire special quake shells, each of which measures several feet in length and has a powerful charge that causes it to reach hyper-sonic velocity when it is fired."/>
 	<entry name="AssaultCannon" value="Штурмавая гармата"/>
@@ -51,6 +55,8 @@
 	<entry name="AutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="Autopistol" value="Аўтапісталет"/>
 	<entry name="AutopistolFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="AvengerBoltCannon" value="Болтарная Гармата Помснік"/>
+	<entry name="AvengerBoltCannonFlavor" value="With six cyclic barrels, the avenger bolt cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemy’s front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
 	<entry name="AvengerGatlingCannon" value="Гатлінг-гармата помсніка"/>
 	<entry name="AvengerGatlingCannonFlavor" value="With six cyclic barrels, the avenger gatling cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemy’s front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
 	<entry name="Baleflamer" value="Злагнямёт"/>
@@ -91,14 +97,20 @@
 	<entry name="BurstCannonFlavor" value="<string name='Weapons/BurstFlavor'/>"/>
 	<entry name="BurstaKannon" value="Грымата-выбухала"/>
 	<entry name="BurstaKannonFlavor" value="<string name='Weapons/DestroyerFlavor'/>"/>
+	<entry name="CastigatorBattleCannonSanctifiedShell" value="Баявая Гармата Лупцоўніка (Асвячоныя Снарады)"/>
+	<entry name="CastigatorBattleCannonSanctifiedShellFlavor" value="Though the Castigator Battle Cannon is of a normal style, the shells it fires are of the Ministorum’s own designs. Even its ‘normal’ shells are thoroughly blessed, producing more reliable, stronger blasts that penetrate deeper than the average Leman Russ battle cannon."/>
+	<entry name="CastigatorBattleCannonPyreShell" value="Баявая Гармата Лупцоўніка (Пахавальныя Снарады)"/>
+	<entry name="CastigatorBattleCannonPyreShellFlavor" value="Though the Castigator Battle Cannon is of a normal style, the shells it fires are of the Ministorum’s own designs. Pyre shells are unlike anything deployed by the Astra Militarum, creating a massive firestorm where they strike that rips through cover with ease."/>
+	<entry name="CerastusShockLanceMelee" value="Шокавая Дзіда Цэрастуса (Блізкі Бой)"/>
+	<entry name="CerastusShockLanceMeleeFlavor" value="A crackling, rippling stick of plasteel and adamantium, the length of a Knight or a Super-heavy Tank, with a wickedly sharp end. Most effective when the Knight-Lancer carrying it is charging at full speed, bracing for the impact and the explosive, rending aftermath."/>
+	<entry name="CerastusShockLanceRanged" value="Шокавая Дзіда Цэрастуса (Далёкі Бой)"/>
+	<entry name="CerastusShockLanceRangedFlavor" value="<string name='Weapons/CerastusShockLanceMeleeFlavor'/>"/>
 	<entry name="Chainaxe" value="Ланцуговая сякера"/>
 	<entry name="ChainaxeFlavor" value="A brutal variant of the chainsword that has its origins in the Horus Heresy, a chainaxe's hand whirs with razor-like teeth that chew through armour, ripping and tearing the vulnerable flesh beneath."/>
 	<entry name="Chainsword" value="Ланцуговы меч"/>
 	<entry name="ChainswordFlavor" value="A chainsword is a high-powered chainsaw fitted with hilt, pommel and guard to make it less unwieldy. It is a common weapon across the Imperium, with a quite horrifying reputation for the damage it can inflict on unarmoured flesh."/>
 	<entry name="Choppa" value="Чоппа"/>
 	<entry name="ChoppaFlavor" value="Orks use a variety of bladed weapons and chain-blades. The largest hand-held choppas can bisect most foes in a single swing, whilst those mounted on Stompas can slice a Titan in two."/>
-	<entry name="CombiBolter" value="Комбіболтар"/>
-	<entry name="CombiBolterFlavor" value="Essentially a twin-linked boltgun, the combi-bolter emerged from the Horus Heresy as the most tactically flexible weapon available to Space Marine Terminators. Whilst the Space Marines loyal to the Emperor developed the weapon into the storm bolter, the older combi-bolters are still abundant in the armies of the Traitor Legions."/>
 	<entry name="CrushingClaws" value="Знішчальныя кіпцюры"/>
 	<entry name="CrushingClawsFlavor" value="The obscene strength of these claws allows them to smash any foe."/>
 	<entry name="ClawedLimbs" value="Кіпцюрастыя канечнасці"/>
@@ -114,6 +126,10 @@
 	<entry name="CognisHeavyStubber" value="Цяжкі когніс-стаббер"/>
 	<entry name="CognisHeavyStubberFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
 	<entry name="CompendiumFlavor" value="To win this endless war, every faction has demonstrated endless innovation in the art of killing. From the Ork's crudest Choppa to the elegant shuriken catapults of the Aeldari, the weapons of the 41st millenium are deadly in a thousand different ways. Often, they are as deadly to their wielder as the foe—such as the mighty Macro Batteries of the Imperial Fleets, which fire shells the size of hab-blocks and kill hundreds of servitors with every shot."/>
+	<entry name="CombiBolter" value="Комбіболтар"/>
+	<entry name="CombiBolterFlavor" value="Essentially a twin-linked boltgun, the combi-bolter emerged from the Horus Heresy as the most tactically flexible weapon available to Space Marine Terminators. Whilst the Space Marines loyal to the Emperor developed the weapon into the storm bolter, the older combi-bolters are still abundant in the armies of the Traitor Legions."/>
+	<entry name="CondemnorBoltgunSilverStake" value="Болтарная Пушка Асудзіцель Срэбны Кол"/>
+	<entry name="CondemnorBoltgunSilverStakeFlavor" value="The condemnor boltgun is a highly specialised combi-weapon used almost exclusively by the operatives of the Ordo Hereticus and Adepta Sororitas. Combining a boltgun with a single-shot crossbow armature, these archaic-seeming weapons fire a silver stake engraved with sigils of disruption that destabilise a psyker’s connection with the Warp."/>
 	<entry name="ControlStave" value="Посах кантролю"/>
 	<entry name="ControlStaveFlavor" value="Serving as a staff of office, control mechanism and weapon, a Control Stave is carried only by Skitarii Marshals. Despite its multidinous roles, it functions well at all of them—a brutal close combat weapon, that also enables the Marshal to control his Skitarii closely through Control Edicts and Aggression Overrides."/>
 	<entry name="CroziusArcanum" value="Крозіўс арканум"/>
@@ -135,6 +151,8 @@
 	<entry name="DeathshriekFlavor" value="<string name='Traits/DeathshriekFlavor'/>"/>
 	<entry name="Deathspitter" value="Плявок смерці"/>
 	<entry name="DeathspitterFlavor" value="This multi-creature symbiote fires maggot-like organisms with corrosive innards. A spider-jawed set of fangs drags an organism from the weapon's brooding chamber and strips off its shell, before the deathspitter reacts to the caustic flesh with a spasm, firing the maggot to explode in a shower of caustic slime against its target."/>
+	<entry name="DefensiveHeavyStubber" value="Абаронны Цяжкі Стаббер"/>
+	<entry name="DefensiveHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="DeffstormMegaShoota" value="Мегаштреляла смярташторм"/>
 	<entry name="DeffstormMegaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="DemolisherCannon" value="Гармата-разбуральнік"/>
@@ -148,6 +166,8 @@
 	<entry name="DestructorFlavor" value="<string name='Actions/Eldar/DestructorRenewerFlavor'/>"/>
 	<entry name="Devourer" value="Пажыральнік"/>
 	<entry name="DevourerFlavor" value="These weapons fling worm-like parasites that burrow into their victim's flesh and eat their way through its nervous system to the brain. The devourers wielded by larger Tyranids teem with hives of brainleech worms, a more aggressive and voracious devourer worm."/>
+	<entry name="DialogusStaff" value="Посах Дыялогуса"/>
+	<entry name="DialogusStaffDescription" value="The Dialogus Staff is the symbol of office of the Orders Dialogus which in combat can also double as a combat weapon."/>
 	<entry name="DoomsdayCannonHighPower" value="Гармата суднага дня (Высокая магутнасць)"/>
 	<entry name="DoomsdayCannonHighPowerFlavor" value="Even fired at low power, the doomsday cannon is a fearsome weapon; when firing at full effect, nothing less than a Titan's void shields can offer hope of protection."/>
 	<entry name="DoomsdayCannonLowPower" value="Гармата суднага дня (Нізкая магутнасць)"/>
@@ -165,12 +185,14 @@
 	<entry name="EldritchStormFlavor" value="The Farseer summons a swirling corona of energy that assails the foe with bolts of lightning and psychic shock waves. Entire platoons are devastated beneath the onslaught of the roiling tempest as the Farseer channels more and more power into his storm of destruction."/>
 	<entry name="ElectroleechStave" value="Посах электрап'яўка"/>
 	<entry name="ElectroleechStaveFlavor" value="The powerful capacitors built into the length of each electroleech stave allow them to drink every iota of electric force from those they strike – be they living foeman or blasphemous machine."/>
-	<entry name="EMPGrenade" value="ЭМІ-граната"/>
-	<entry name="EMPGrenadeFlavor" value="EMP grenades release electromagnetic pulses that damage vehicles."/>
 	<entry name="EvisceratingClaws" value="Кіпцюры патрашыцеля"/>
 	<entry name="EvisceratingClasFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="Eviscerator" value="Патрашыльнік"/>
+	<entry name="EvisceratorFlavor" value="<string name='Weapons/ChainswordFlavor'/>"/>
 	<entry name="ExcruciatorCannon" value="Гармата кат"/>
 	<entry name="ExcruciatorCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="ExorcistMissileLauncher" value="Ракетная Ўсталёўка Экзарцыст"/>
+	<entry name="ExorcistMissileLauncherFlavor" value="The Exorcist missiles fired by these revered vehicles are capable of splitting open enemy battle tanks or destroying entire squads of heavy infantry in one punishing salvo, provided, of course, that the Exorcist’s temperamental machine spirit does not malfunction."/>
 	<entry name="FerrumiteCannon" value="Ферамітавая гармата"/>
 	<entry name="Flamer" value="Агнямёт"/>
 	<entry name="FlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
@@ -323,13 +345,12 @@
 	<entry name="LightningClawsFlavor" value="Lightning claws are commonly used as matched pairs and consist of a number of blades, each a miniature power weapon, normally mounted on the back of the hand."/>
 	<entry name="LitanyOfTheElectromancer" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancer'/>"/>
 	<entry name="LitanyOfTheElectromancerFlavor" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancerFlavor'/>"/>
-	<entry name="OmnissianStaff" value="Посах Амнісіі"/>
 	<entry name="Mandiblasters" value="Мандзібластары"/>
 	<entry name="MandiblastersFlavor" value="Mandiblasters spit needle shards that channel a deadly laser blast."/>
 	<entry name="MagnarailLance" value="Дзіда-магнарэйка"/>
 	<entry name="ManipulusMechadendrites" value="Manipulus Mechadendrites"/>
 	<entry name="MeltaBomb" value="Мельта бомба"/>
-	<entry name="MeltaBombDescription" value="Можна выкарыстоўваць толькі супраць тэхнікі, жахлівых стварэнняў або фартыфікацый. "/>
+	<entry name="MeltaBombDescription" value="Выкарыстоўваецца супраць тэхнікі, жахлівых стварэнняў або фартыфікацый. "/>
 	<entry name="MeltaBombFlavor" value="Melta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
 	<entry name="MeltaCannon" value="Мелтагармата"/>
 	<entry name="MeltaCannonFlavor" value="This weapon swiftly reduces armoured targets to molten slag."/>
@@ -346,15 +367,23 @@
 	<entry name="MultiLaserFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="MultiMelta" value="Мульцімельта"/>
 	<entry name="MultiMeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="MultiMeltaPlaytest" value="Мульцімельта"/>
+	<entry name="MultiMeltaPlaytestFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="NeutronBlaster" value="Нейтронны бластар"/>
 	<entry name="NeutronBlasterFlavor" value="Stingwing weapons are a hybrid of Vespid and T'au technology. The crystal mounted upon each blaster emits a powerful neutron blast that is able to bypass all but the most effective armour."/>
 	<entry name="None" value="Ніяк."/>
 	<entry name="NoseDrill" value="Насавы дрыль"/> <!-- Megatrakk Scrapjet -->
 	<entry name="NoseDrillFlavor" value="Though the Flyboy was doubtless furious to see his treasured Dakkajet confined to Gladius Prime’s surface, the Meks can present one positive—the ability to put a giant drill in the empty nosecone, enabling the Scrapjet to cut through enemies the way it used to cut through the air."/>
 	<entry name="OmnissianStaff" value="Посах Амнісіі"/>
+	<entry name="ParagonGrenadeLauncher" value="Дасканалы Гранатакід"/>
+	<entry name="ParagonGrenadeLauncherFlavor" value="The twin grenade launchers embedded in this model of Paragon Warsuit are designed to be fired on the move, spreading an array of larger fragmentation shells across a wide area."/>
+	<entry name="ParagonWarBlade" value="Дасканалае Вайсковае Лязо"/>
+	<entry name="ParagonWarBladeFlavor" value="Commonly equipped with one of the holy trinity of Adepta Sororitas heavy weapons – the heavy bolter, Ministorum heavy flamer, and multi-melta – Paragon Warsuits also wield huge melee weapons crackling with power fields to tear through enemy armour like it was tissue paper."/>
 	<entry name="OrbitalBombardment" value="Арбітальнае бамбаванне"/>
 	<entry name="ParticleWhip" value="Пуга часцінак"/>
 	<entry name="ParticleWhipFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
+	<entry name="PenitentBuzzBlade" value="Гудзючае Лязо Раскаянне"/>
+	<entry name="PenitentBuzzBlade" value="The machines’ arm-mounted flamers blaze a trail of fiery destruction as they thunder towards their foes, and their gigantic, razor-edged buzz saws carve through armour, flesh and bone with every frenzied swipe."/>
 	<entry name="PhosphorBlaster" value="Фосфарны бластар"/>
 	<entry name="PhosphorBlasterFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
 	<entry name="PhosphorPistol" value="Фосфарны пісталет"/>
@@ -538,6 +567,12 @@
 	<entry name="TeslaCarbineFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
 	<entry name="TeslaSphere" value="Сфера Тэсла"/>
 	<entry name="TeslaSphereFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TheArdentBladeMelee" value="Лязо Лютасці (Блізкі Бой)"/>
+	<entry name="TheArdentBladeMeleeFlavor" value="This flame-wreathed blade is said to be the Emperor’s wrath made manifest. Saint Celestine retrieved it and her golden power armour from the long-lost Shrine of Saint Katherine on the Shrine World of Sanctus Lys during the Palatine Crusade."/>
+	<entry name="TheArdentBladeRanged" value="Лязо Лютасці (Далёкі Бой)"/>
+	<entry name="TheArdentBladeRangedFlavor" value="<string name='Weapons/TheArdentBladeMeleeFlavor'/>"/>
+	<entry name="TheEmperorsVengeance" value="<string name='Actions/SistersOfBattle/TheEmperorsVengeance'/>"/>
+	<entry name="TheEmperorsVengeanceFlavor" value="<string name='Actions/SistersOfBattle/TheEmperorsVengeanceFlavor'/>"/>
 	<entry name="ThresherScythe" value="Каса малацьбіта"/>
 	<entry name="ThresherScytheFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
 	<entry name="ThunderHammer" value="Грамавы молат"/>
@@ -604,6 +639,8 @@
 	<entry name="TwinLinkedLascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="TwinLinkedMissilePod" value="Здвоеная пускавая ракетная ўсталёўка"/>
 	<entry name="TwinLinkedMissilePodFlavor" value="<string name='Weapons/MissilePodFlavor'/>"/>
+	<entry name="TwinLinkedMultiMelta" value="Здвоеная Мульцімельта"/>
+	<entry name="TwinLinkedMultiMeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="TwinLinkedParticleBeamer" value="Здвоены выпраменнік часціц"/>
 	<entry name="TwinLinkedParticleBeamerFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
 	<entry name="TwinLinkedPlasmaRifle" value="Здвоеная плазма стрэльба"/>
