@@ -33,6 +33,7 @@
 	<entry name="Difficulty0Necrons" value="Раздзіральнік"/>
 	<entry name="Difficulty0Orks" value="Сквіг"/>
 	<entry name="Difficulty0Random" value="Вельмі слабы"/>
+	<entry name="Difficulty0SistersOfBattle" value="Паслушніца"/>
 	<entry name="Difficulty0SpaceMarines" value="Неафіт"/>
 	<entry name="Difficulty0Tau" value="Гуэ’веса"/>
 	<entry name="Difficulty0Tyranids" value="Скарабей"/>
@@ -45,6 +46,7 @@
 	<entry name="Difficulty1Necrons" value="Ваяр"/>
 	<entry name="Difficulty1Orks" value="Грот"/>
 	<entry name="Difficulty1Random" value="Слабы"/>
+	<entry name="Difficulty1SistersOfBattle" value="Сястра"/>
 	<entry name="Difficulty1SpaceMarines" value="Баявы брат"/>
 	<entry name="Difficulty1Tau" value="Шас‘саал"/>
 	<entry name="Difficulty1Tyranids" value="Тэрмагант"/>
@@ -57,6 +59,7 @@
 	<entry name="Difficulty2Necrons" value="Несмяротны"/>
 	<entry name="Difficulty2Orks" value="Хлопец"/>
 	<entry name="Difficulty2Random" value="Сярэдні"/>
+	<entry name="Difficulty2SistersOfBattle" value="Сэлесціна"/>
 	<entry name="Difficulty2SpaceMarines" value="Сяржант"/>
 	<entry name="Difficulty2Tau" value="Шас‘ла"/>
 	<entry name="Difficulty2Tyranids" value="Ваяр"/>
@@ -69,6 +72,7 @@
 	<entry name="Difficulty3Necrons" value="Прэтарыянец Трыярхаў"/>
 	<entry name="Difficulty3Orks" value="Ноб"/>
 	<entry name="Difficulty3Random" value="Моцны"/>
+	<entry name="Difficulty3SistersOfBattle" value="Палаціна"/>
 	<entry name="Difficulty3SpaceMarines" value="Капітан"/>
 	<entry name="Difficulty3Tau" value="Шас‘уі"/>
 	<entry name="Difficulty3Tyranids" value="Ліктар"/>
@@ -81,6 +85,7 @@
 	<entry name="Difficulty4Necrons" value="Кріптэк"/>
 	<entry name="Difficulty4Orks" value="Бос"/>
 	<entry name="Difficulty4Random" value="Вельмі Моцны"/>
+	<entry name="Difficulty4SistersOfBattle" value="Кананэса"/>
 	<entry name="Difficulty4SpaceMarines" value="Майстар Ордэна"/>
 	<entry name="Difficulty4Tau" value="Шас‘врэ"/>
 	<entry name="Difficulty4Tyranids" value="Тыран Вулля"/>
@@ -93,6 +98,7 @@
 	<entry name="Difficulty5Necrons" value="Валадар"/>
 	<entry name="Difficulty5Orks" value="Вайнабос"/>
 	<entry name="Difficulty5Random" value="Ультра Цяжкі"/>
+	<entry name="Difficulty5SistersOfBattle" value="Ігумення"/>
 	<entry name="Difficulty5SpaceMarines" value="Прымарх"/>
 	<entry name="Difficulty5Tau" value="Шас‘эл"/>
 	<entry name="Difficulty5Tyranids" value="Дамінатрыца"/>
@@ -105,6 +111,7 @@
 	<entry name="Difficulty6Necrons" value="Бязмоўны Цар"/>
 	<entry name="Difficulty6Orks" value="Прарок Горка і Морка"/>
 	<entry name="Difficulty6Random" value="Непераможны"/>
+	<entry name="Difficulty6SistersOfBattle" value="Абатэса Санкторума"/>
 	<entry name="Difficulty6SpaceMarines" value="Імператар"/>
 	<entry name="Difficulty6Tau" value="Аўн'О"/>
 	<entry name="Difficulty6Tyranids" value="Норн-Каралева"/>
@@ -125,6 +132,12 @@
 	<entry name="GameVisibility1Hint" value="Гульня не даступная ў публічным спісе. Доступ магчымы толькі праз запрашэнні ці непасрэдныя злучэнні."/>
 	<entry name="GameVisibility2" value="Публічная"/>
 	<entry name="GameVisibility2Hint" value="Гэта публічная гульня. Кожны можа далучыцца."/>
+	<entry name="HolySiteDensity" value="Шчыльнасць Святых Месцаў"/>
+	<entry name="HolySiteDensity0" value="Вельмі Нізкая"/>
+	<entry name="HolySiteDensity1" value="Нізкая"/>
+	<entry name="HolySiteDensity2" value="Сярэдняя"/>
+	<entry name="HolySiteDensity3" value="Высокая"/>
+	<entry name="HolySiteDensity4" value="Вельмі Высокая"/>	
 	<entry name="ImperialRuinsDensity" value="Шчыльнасць Імперскіх Руін"/>
 	<entry name="ImperialRuinsDensity0" value="Вельмі Нізкая"/>
 	<entry name="ImperialRuinsDensity1" value="Нізкая"/>
@@ -175,7 +188,25 @@
 	<entry name="RegionSize1" value="Маленькі"/>
 	<entry name="RegionSize2" value="Сярэдні"/>
 	<entry name="RegionSize3" value="Вялікі"/>
-	<entry name="RegionSize4" value="Вельмі Вялікі"/>	
+	<entry name="RegionSize4" value="Вельмі Вялікі"/>
+	<entry name="ResearchCost" value="Кошт Даследаваньняў"/>
+	<entry name="ResearchCost0" value="Вельмі Нізкі"/>
+	<entry name="ResearchCost1" value="Нізкі"/>
+	<entry name="ResearchCost2" value="Сярэдні"/>
+	<entry name="ResearchCost3" value="Высокі"/>
+	<entry name="ResearchCost4" value="Вельмі Высокі"/>
+	<entry name="ResourceCost" value="Кошт Рэсурсаў"/>
+	<entry name="ResourceCost0" value="Вельмі Нізкі"/>
+	<entry name="ResourceCost1" value="Нізкі"/>
+	<entry name="ResourceCost2" value="Сярэдні"/>
+	<entry name="ResourceCost3" value="Высокі"/>
+	<entry name="ResourceCost4" value="Вельмі Высокі"/>
+	<entry name="ResourceUpkeep" value="Ўтрыманне Рэсурсаў"/>
+	<entry name="ResourceUpkeep0" value="Вельмі Нізкае"/>
+	<entry name="ResourceUpkeep1" value="Нізкае"/>
+	<entry name="ResourceUpkeep2" value="Сярэдняе"/>
+	<entry name="ResourceUpkeep3" value="Высокае"/>
+	<entry name="ResourceUpkeep4" value="Вельмі Высокае"/>
 	<entry name="RiverDensity" value="Шчыльнасць Рэк"/>
 	<entry name="RiverDensity0" value="Вельмі Нізкая"/>
 	<entry name="RiverDensity1" value="Нізкая"/>
@@ -208,6 +239,12 @@
 	<entry name="SpecialResourceDensity2" value="Сярэдняя"/>
 	<entry name="SpecialResourceDensity3" value="Высокая"/>
 	<entry name="SpecialResourceDensity4" value="Вельмі Высокая"/>
+	<entry name="StartingResource" value="Пачатковыя Рэсурсы"/>
+	<entry name="StartingResource0" value="Вельмі Мала"/>
+	<entry name="StartingResource1" value="Мала"/>
+	<entry name="StartingResource2" value="Сярэдне"/>
+	<entry name="StartingResource3" value="Шмат"/>
+	<entry name="StartingResource4" value="Вельмі Шмат"/>
 	<entry name="Supplement1" value="DLC Набор Падмацаванне"/>
 	<entry name="Supplement2" value="DLC Тыраніды"/>
 	<entry name="Supplement3" value="DLC Космадэсант Хаосу"/>
@@ -218,6 +255,7 @@
 	<entry name="Supplement8" value="DLC Набор адмыслоўцаў"/>
 	<entry name="Supplement9" value="DLC Адэптус Механікус"/>
 	<entry name="Supplement10" value="DLC Набор Эскалацыя"/>
+	<entry name="Supplement11" value="DLC Адэпта Сарорытас"/>
 	<entry name="TropicalRegionDensity" value="Шчыльнасць Трапічнай Мясцовасці"/>
 	<entry name="TropicalRegionDensity0" value="None"/>
 	<entry name="TropicalRegionDensity1" value="Вельмі Нізкая"/>
