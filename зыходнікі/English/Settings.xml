@@ -7,8 +7,6 @@
 	<entry name="Audio/CinematicVolumeHint" value="Regulates the volume of cinematic cutscenes."/>
 	<entry name="Audio/EffectVolume" value="Effect Volume"/>
 	<entry name="Audio/EffectVolumeHint" value="Regulates the volume of effects."/>
-	<entry name="Audio/EnvironmentalProcessing" value="Environmental Processing"/>
-	<entry name="Audio/EnvironmentalProcessingHint" value="Process environmental effects such as reverberation, reflections, and sound occlusion or obstruction by intervening objects. Without these environmental effects, a listener can tell the direction of each sound source, but has a more difficult time pin-pointing how far away the sources are. Also, the listener has no idea of the environment where the sources are located.<br/><br/><style color='GUI/Yellow'/>May cause slowdowns on some machines."/>
 	<entry name="Audio/HRTF" value="HRTF"/>
 	<entry name="Audio/HRTFHint" value="Request mixing using a Head-Related Transfer Function, or HRTF.<br/><br/>HRTF can provide better spatial acuity when using headphones by using special filters designed to replicate how sounds are affected by the shape of the listener's head as they come in from a given direction.<br/><br/>Requesting HRTF mixing may cause the AL to reconfigure the device for a specific output mode and restrict the usable frequency values.<br/><br/><style color='GUI/Yellow'/>A word of warning: although HRTF can sound great with headphones, it may result in increased resource usage and it may not sound very good with ordinary speakers, particularly if the user has surround sound output."/>
 	<entry name="Audio/InterfaceVolume" value="Interface Volume"/>

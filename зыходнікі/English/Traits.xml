@@ -831,6 +831,7 @@
 	<entry name="GravitonDescription" value="Scales the damage with the armour of the target unit."/>
 	<entry name="GravitonFlavor" value="Some weapons crush their enemies within their own armour."/>
 	<entry name="Grenade" value="Grenade"/>
+	<entry name="GrenadeDescription" value="Classification."/>
 	<entry name="GrotRiggers" value="Grot Riggers"/>
 	<entry name="GrotRiggersDescription" value="Restores hitpoints each turn."/>
 	<entry name="GrotRiggersFlavor" value="Whether hurriedly re-attaching gubbinz with rivet guns, or just getting out and pushing, a crew of grot riggers can help to keep an Ork vehicle in the fight long after it should have fallen apart."/>
@@ -937,6 +938,9 @@
 	<entry name="MassiveBlast" value="Massive Blast"/>
 	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="MasterCrafted" value="Master-Crafted"/>
+	<entry name="MasterCraftedDescription" value="Increases the accuracy."/>
+	<entry name="MasterCraftedFlavor" value="Some weapons are lovingly maintained artefacts, crafted with a skill now lost. Though the exact form of master-crafting varies, it is always considered to be the pinnacle of the weaponsmith’s art."/>
 	<entry name="Melee" value="Melee"/>
 	<entry name="MeleeDescription" value="Cannot overwatch."/>
 	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
@@ -1135,7 +1139,7 @@
 	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz… wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
 	<entry name="Orks/CityInfluence" value="Big Shinies"/>
 	<entry name="Orks/CityInfluenceDescription" value="Increases the influence output."/>
-	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”-- Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
+	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”<br/>  — Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
 	<entry name="Orks/CityLoyalty" value="Trophy Poles"/>
 	<entry name="Orks/CityLoyaltyDescription" value="Increases the loyalty output."/>
 	<entry name="Orks/CityLoyaltyFlavor" value="There's nothing that so stirs up the vim of an Ork as the sight of their defeated enemies (or their remaining parts) strung up high for all to see."/>
@@ -1308,6 +1312,158 @@
 	<entry name="Signum" value="Signum"/>
 	<entry name="SignumDescription" value="Increases the ranged accuracy."/>
 	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
+	<entry name="SistersOfBattle/ActOfFaith" value="Act of Faith"/>
+	<entry name="SistersOfBattle/ActOfFaithDescription" value="Can perform Acts of Faith if the unit is not broken or shaken."/>
+	<entry name="SistersOfBattle/ActOfFaithFlavor" value="The Adepta Sororitas can draw upon the wellspring of their faith and call upon the Emperor to guide their actions. So does absolute belief in the Imperial Creed allow the Sisters of Battle to perform the seemingly impossible upon the battlefield. Yet miracles are not to be relied upon as a matter of course. At the heart of the Imperial Creed is the belief that the divine Emperor relies on his followers to create their own salvation, but also that if the situation is sufficiently bleak, he will intervene to deliver his true servants."/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="Anchorite Sarcophagus"/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Increases the armour."/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagusFlavor" value="To those Repentia who not only fled, but betrayed their Sisters in battle, an even worse fate awaits. After being wired into the crucible of their Mortifier they are further entombed behind thick adamantine casing. This sarcophagus protects their tortured bodies from incoming fire and desperately swung blades, denying them the release of death."/>
+	<entry name="SistersOfBattle/AngelicVisage" value="Angelic Visage"/>
+	<entry name="SistersOfBattle/AngelicVisageDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/AngelicVisageFlavor" value="Beatifically smiling, Zephyrim deflect the strikes of their foes with fluid grace before landing a killing blow of their own, typically with a point-blank headshot from a bolt pistol or a strike of their power sword."/>
+	<entry name="SistersOfBattle/AnguishOfTheUnredeemed" value="Anguish Of The Unredeemed"/>
+	<entry name="SistersOfBattle/AnguishOfTheUnredeemedDescription" value="Damages melee attacker on death."/>
+	<entry name="SistersOfBattle/AnguishOfTheUnredeemedFlavor" value="Mortifiers blaze a trail of destruction with their flamers before charging headlong into the foe, guilt and pain driving them on, heedless of danger. Even as they die, they strike at their enemy, striving for redemption with every moment."/>
+	<entry name="SistersOfBattle/ArmourOfSaintKatherine" value="Armour Of Saint Katherine"/>
+	<entry name="SistersOfBattle/ArmourOfSaintKatherineDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/ArmourOfSaintKatherineFlavor" value="Ever since this revered suit of armour was anointed with a vial of blood from the martyred Saint Katherine it has been believed to have sacred powers of protection."/>
+	<entry name="SistersOfBattle/AssaultWeaponBonus" value="Furious Fusillade"/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="“The right attack, carefully placed, can defeat the most overwhelming of enemies. However, if we do not know the right attack? Then an overwhelming, inchoate assault will hit the right spot, eventually…”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/AvengingZeal" value="Avenging Zeal"/>
+	<entry name="SistersOfBattle/AvengingZealDescription" value="Reduces the morale loss."/>
+	<entry name="SistersOfBattle/AvengingZealFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
+	<entry name="SistersOfBattle/BerserkKillingMachine" value="Berserk Killing Machine"/>
+	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/BerserkKillingMachineFlavor" value="Tormented by neuro-agoniser arrays that amplify her self-loathing and divorced from her Sisters’ prayers by an enclosing baffle around her head, the unfortunate pilot’s spiritual suffering fuels the Mortifier. They storm forward as terrifying shock troops, before crashing into their foe."/>
+	<entry name="SistersOfBattle/BloodyResolution" value="Bloody Resolution"/>
+	<entry name="SistersOfBattle/BloodyResolutionDescription" value="Prevents morale loss."/>
+	<entry name="SistersOfBattle/BloodyResolutionFlavor" value="<string name='Traits/SistersOfBattle/MartyrdomFlavor'/>"/>
+	<entry name="SistersOfBattle/CatechismOfRepugnance" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnance'/>"/>
+	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnanceDescription'/>"/>
+	<entry name="SistersOfBattle/CatechismOfRepugnanceFlavor" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnanceFlavor'/>"/>
+	<entry name="SistersOfBattle/CityGrowth" value="Novitiates Recruitment"/>
+	<entry name="SistersOfBattle/CityGrowthDescription" value="Increases the growth rate."/>
+	<entry name="SistersOfBattle/CityGrowthFlavor" value="The Ork invasion and subsequent war on Gladius Prime left many, many orphans. Sending missionaries and preachers into the wastes to recruit for the armies of the Imperium will bolster our city’s growth."/>
+	<entry name="SistersOfBattle/CityTier2" value="Preceptory Annexes"/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="SistersOfBattle/CityTier2Flavor" value="Given the numbers of refugees pouring into the Preceptory from the ruined hives and wastelands of Gladius Prime, the Canoness Superior has ordered that we sanctify new land for use, bringing any natives into the fold—willingly or not."/>
+	<entry name="SistersOfBattle/CityTier3" value="Sanctuary Fortress"/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Increases the tile acquisition radius."/>
+	<entry name="SistersOfBattle/CityTier3Flavor" value="The Preceptory is more of a city now, resembling the hive cities that once dotted the planet’s surface. Beneath its bulk lies an undercity, above it tower spires and chantries. Perhaps only the Fortress-Monasteries of the Adeptus Astartes rival it in scale and holy adornment."/>
+	<entry name="SistersOfBattle/DivineDeliverance" value="<string name='Actions/SistersOfBattle/DivineDeliverance'/>"/>
+	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="<string name='Actions/SistersOfBattle/DivineDeliveranceDescription'/>"/>
+	<entry name="SistersOfBattle/DivineDeliveranceFlavor" value="<string name='Actions/SistersOfBattle/DivineDeliveranceFlavor'/>"/>
+	<entry name="SistersOfBattle/EternalCrusade" value="Eternal Crusade"/>
+	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Increases the production output."/>
+	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“And we shall not rest, for the God-Emperor’s eye is on us. He sees every soul saved and knows that the number imperilled far outweighs it. We cannot stop, we cannot slow—ours is an eternal crusade.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Expert Fighters"/>
+	<entry name="SistersOfBattle/ExpertFightersDescription" value="Increases the accuracy."/>
+	<entry name="SistersOfBattle/ExpertFightersFlavor" value="In most strike wings a handful of aircrafts are flown by veteran pilotes. These fighter aces are truly dangerous foes, able to predict the reaction of their prey with uncanny precision. Few of them survive beyond one or two campaigns as they draw the most dangerous missions where only the most experienced prevail."/>
+	<entry name="SistersOfBattle/FlankSpeed" value="Flank Speed"/>
+	<entry name="SistersOfBattle/FlankSpeedDescription" value="Increases the movement, but prevents the use of ranged weapons."/>
+	<entry name="SistersOfBattle/FlankSpeedFlavor" value="“One should not question the nobility of Questor Imperialis. But for faith, none can match the Knight-Lancer, which goes into battle armed only with a spear and its own prodigious speed, praying that it makes it to the enemy lines. It is a fine match for our forces.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Enhanced Ordnance"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="SistersOfBattle/HeavyWeaponBonusFlavor" value="“Over the shells of the Castigator, we sprinkle the soil of holy Terra, raise our voices in prayer, and genuflect before the Shrine of St Katherine. Then we add 25% more explosive to each shell and cap them with adamantium.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/IonGauntletShield" value="Ion Gauntlet Shield"/>
+	<entry name="SistersOfBattle/IonGauntletShieldDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/IonGauntletShieldFlavor" value="The ion gauntlet shield generator mounted in the Cerastus’ right gauntlet assembly is more concentrated than the directional ion shield mounted on the Knight Paladin, but lacks its tactical flexibility."/>
+	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Keepers Of The Faith"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithDescription" value="Prevents overwatch, but increases damage reduction."/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithFlavor" value="“Reason says, fire when you see the enemy. Reason says, use cover when the enemy fires at you. Reason says, die when you are shot. Reason does not understand our faith and how we keep it.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/KnightParry" value="Knight Parry"/>
+	<entry name="SistersOfBattle/KnightParryDescription" value="Reduces the melee accuracy."/>
+	<entry name="SistersOfBattle/KnightParryFlavor" value="The ion gauntlet shield generator mounted in the Cerastus’ right gauntlet assembly can be used to deflect the mightiest hits in close-combat."/>
+	<entry name="SistersOfBattle/LaudHailer" value="Laud Hailer"/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="This unit can still perform acts of faith if it is shaken."/>
+	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Actions/SistersOfBattle/LaudHailerFlavor'/>"/>
+	<entry name="SistersOfBattle/LeadTheRighteous" value="<string name='Actions/SistersOfBattle/LeadTheRighteous'/>"/>
+	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Increases the accuracy."/>
+	<entry name="SistersOfBattle/LeadTheRighteousFlavor" value="<string name='Actions/SistersOfBattle/LeadTheRighteousFlavor'/>"/>
+	<entry name="SistersOfBattle/LightOfTheEmperor" value="<string name='Actions/SistersOfBattle/LightOfTheEmperor'/>"/>
+	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="<string name='Actions/SistersOfBattle/LightOfTheEmperorDescription'/>"/>
+	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="<string name='Actions/SistersOfBattle/LightOfTheEmperorFlavor'/>"/>
+	<entry name="SistersOfBattle/Martyrdom" value="Martyrdom"/>
+	<entry name="SistersOfBattle/MartyrdomDescription" value="On death, prevents morale loss of all allied Adepta Sororitas units."/>
+	<entry name="SistersOfBattle/MartyrdomFlavor" value="The Sisters of the Adepta Sororitas do not give in to despair when their leaders are slain. Instead, the blood of these martyred heroes only strengthens their resolve, the sacrifice inspiring them to great acts of heroism."/>
+	<entry name="SistersOfBattle/MartyrSpirit" value="Martyr Spirit"/>
+	<entry name="SistersOfBattle/MartyrSpiritDescription" value="On death, reduces the morale loss of adjacent allied units with Shield of Faith."/>
+	<entry name="SistersOfBattle/MartyrSpiritFlavor" value="“The loss of our Sisters and auxiliaries saddened us—but encouraged us to redouble our efforts.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Actions/SistersOfBattle/MedicusMinistorum'/>"/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="<string name='Actions/SistersOfBattle/MedicusMinistorumFlavor'/>"/>
+	<entry name="SistersOfBattle/MeleeWeaponBonus" value="Blessed Blades"/>
+	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="The weapons of the Adepta Sororitas differ little from those requisitioned by the Astra Militarum, save in two regards: the quality of their maintenance; and the sacred benisons and supplications made over them. This latter only can explain the miracles that occur in combat, where these blessed blades find the smallest weakness time and time again."/>
+	<entry name="SistersOfBattle/MiraculousIntervention" value="<string name='Actions/SistersOfBattle/MiraculousIntervention'/>"/>
+	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="<string name='Actions/SistersOfBattle/MiraculousInterventionDescription'/>"/>
+	<entry name="SistersOfBattle/MiraculousInterventionFlavor" value="<string name='Actions/SistersOfBattle/MiraculousInterventionFlavor'/>"/>
+	<entry name="SistersOfBattle/NonMilitantMobilisation" value="Ministorum Mobilisation"/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Increases the requisitions output."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="The rites of the Ecclesiarchy are not merely militaristic: prayers and liturgies exist for all functions of the Imperium. To be the focus of such a rite, whether Famulus or Pronatus or even the most base worker, drives them on to greater efforts."/>
+	<entry name="SistersOfBattle/OathOfFaith" value="Oath Of Faith"/>
+	<entry name="SistersOfBattle/OathOfFaithDescription" value="Reduces the accuracy and prevents the use of Shield of Faith."/>
+	<entry name="SistersOfBattle/OathOfFaithFlavor" value="“We all took an oath, to defend the Imperium, to purge the heretic and alien. It supported us, drove us on through pain and fear. But when our sisters finally broke and fled, our oath haunted them… If they survived their flight, they would return as Sisters Repentia…”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/ParagonWarblade" value="Paragon War Blade"/>
+	<entry name="SistersOfBattle/ParagonWarbladeDescription" value="Grants additional melee attacks."/>
+	<entry name="SistersOfBattle/ParagonWarbladeFlavor" value="These enormous power swords can only be carried by the Dreadnought-sized Paragon Warsuits. The crackling power fields that surround it disrupt matter as they pass, allowing the heavy blade to cut through the thickest armour with ease."/>
+	<entry name="SistersOfBattle/ParagonWarsuit" value="Paragon Warsuit"/>
+	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="Among the holy arsenal of an Order Militant, the ancient Paragon Warsuits are regarded as sacred vestments with a noble will of their own. Only the most worth Celestians can master its spirit for use in battle."/>
+	<entry name="SistersOfBattle/Protected" value="Protected"/>
+	<entry name="SistersOfBattle/ProtectedDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/ProtectedFlavor" value="<string name='Actions/SistersOfBattle/BodyguardFlavor'/>"/>
+	<entry name="SistersOfBattle/PsyShock" value="PsyShock"/>
+	<entry name="SistersOfBattle/PsyShockDescription" value="Stuns Psykers."/>
+	<entry name="SistersOfBattle/PsyShockFlavor" value="<string name='Weapons/CondemnorBoltgunSilverStake'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitations" value="Purifying Recitations"/>
+	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Increases the damage."/>
+	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Our foes call us cold, inhuman, unfeeling. But we feel, we mourn, we rage. Let them feel our warmth—in our flamers, our meltas.”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/RagingFervour" value="Raging Fervour"/>
+	<entry name="SistersOfBattle/RagingFervourDescription" value="Increases the damage."/>
+	<entry name="SistersOfBattle/RagingFervourFlavor" value="“The weapons in our hands are the instruments of our faith. Each bolt is a prayer sent to the heart of the faithless, spreading its word into their very being.”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/RighteousJudgement" value="<string name='Actions/SistersOfBattle/RighteousJudgement'/>"/>
+	<entry name="SistersOfBattle/RighteousJudgementDescription" value="<string name='Actions/SistersOfBattle/RighteousJudgementDescription'/>"/>
+	<entry name="SistersOfBattle/RighteousJudgementFlavor" value="<string name='Actions/SistersOfBattle/RighteousJudgementFlavor'/>"/>
+	<entry name="SistersOfBattle/SacresantShield" value="Sacresant Shield"/>
+	<entry name="SistersOfBattle/SacresantShieldDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/SacresantShieldFlavor" value="The faithful Celestian Sacresants stand firm against the worst horrors of the galaxy. Hordes of mutants and heretics crash futilely against their shield walls before being laid low with righteous fury."/>
+	<entry name="SistersOfBattle/SaintlyBlessings" value="Saintly Blessings"/>
+	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/SaintlyBlessingsFlavor" value="<string name='Actions/SistersOfBattle/SaintlyBlessingsFlavor'/>"/>
+	<entry name="SistersOfBattle/ShieldOfFaith" value="Shield Of Faith"/>
+	<entry name="SistersOfBattle/ShieldOfFaithDescription" value="Increases the damage reduction."/>
+	<entry name="SistersOfBattle/ShieldOfFaithFlavor" value="Members of the Adepta Sororitas are taught that faith is a shield stronger than any armour. Such is the power of their belief that the Emperor will protect them that the Adepta Sororitas can shrug off the most severe of wounds and resist the witchcraft of enemy sorcerers."/>
+	<entry name="SistersOfBattle/SimulacrumImperialis" value="Simulacrum Imperialis"/>
+	<entry name="SistersOfBattle/SimulacrumImperialisDescription" value="Reduces the cooldown of Acts of Faith."/>
+	<entry name="SistersOfBattle/SimulacrumImperialisFlavor" value="These holy symbols of the Ecclesiarchy were once carried by one of the Imperium’s many saints, or may even be wrought from their bones. They are wellsprings of inspiration and faith and it is a great honour to carry such an irreplaceable relic into battle."/>
+	<entry name="SistersOfBattle/SisterSuperior" value="Sister Superior"/>
+	<entry name="SistersOfBattle/SisterSuperiorDescription" value="Increases the morale of infantry and Paragon Warsuits units."/>
+	<entry name="SistersOfBattle/SisterSuperiorFlavor" value="It is the Sisters Superior who form the true lynchpins of each squad of Battle Sisters. Speaking with authority derived from years of combat experience and supreme faith in the God-Emperor, these remarkable officers ensure that every Sister under their command fights to the full extent of her abilities and endurance, thereby maximising the strategic impact of the squad as a whole."/>
+	<entry name="SistersOfBattle/SolaceInAnguish" value="<string name='Actions/SistersOfBattle/SolaceInAnguish'/>"/>
+	<entry name="SistersOfBattle/SolaceInAnguishDescription" value="<string name='Actions/SistersOfBattle/SolaceInAnguishDescription'/>"/>
+	<entry name="SistersOfBattle/SolaceInAnguishFlavor" value="<string name='Actions/SistersOfBattle/SolaceInAnguishFlavor'/>"/>
+	<entry name="SistersOfBattle/StirringRhetoric" value="<string name='Actions/SistersOfBattle/StirringRhetoric'/>"/>
+	<entry name="SistersOfBattle/StirringRhetoricDescription" value="Increases the armour."/>
+	<entry name="SistersOfBattle/StirringRhetoricFlavor" value="<string name='Actions/SistersOfBattle/StirringRhetoricFlavor'/>"/>
+	<entry name="SistersOfBattle/ThePassion" value="<string name='Actions/SistersOfBattle/ThePassion'/>"/>
+	<entry name="SistersOfBattle/ThePassionDescription" value="Increases the melee accuracy."/>
+	<entry name="SistersOfBattle/ThePassionFlavor" value="<string name='Actions/SistersOfBattle/ThePassionFlavor'/>"/>
+	<entry name="SistersOfBattle/UsedActOfFaith" value="Used Act Of Faith"/>
+	<entry name="SistersOfBattle/UsedActOfFaithDescription" value="This unit used its act of faith ability this turn."/>
+	<entry name="SistersOfBattle/UsedActOfFaithFlavor" value="<string name='Traits/SistersOfBattle/UsedActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/UsedSacredRite" value="Used 1 Sacred Rite"/>
+	<entry name="SistersOfBattle/UsedSacredRite2" value="Used 2 Sacred Rites"/>
+	<entry name="SistersOfBattle/VengefulSpirit" value="Vengeful Spirit"/>
+	<entry name="SistersOfBattle/VengefulSpiritDescription" value="Returns damage back to the attacker."/>
+	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="“And in death, we have one last chance—a release from worry. Once dying, there is nothing holding back our fury, no need for self-preservation. We can use up all that we are, take all the blow that come our way, for one last chance at justice.”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/WarHymn" value="<string name='Actions/SistersOfBattle/WarHymn'/>"/>
+	<entry name="SistersOfBattle/WarHymnDescription" value="Increases the attacks."/>
+	<entry name="SistersOfBattle/WarHymnFlavor" value="<string name='Actions/SistersOfBattle/WarHymnFlavor'/>"/>
+	<entry name="SistersOfBattle/WarmachinesWrath" value="Mechanised Wrath"/>
+	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="Increases the production output."/>
+	<entry name="SistersOfBattle/WarmachinesWrathFlavor" value="“In those last days, the fervour spread. The Rite of Suppliance was performed, to demand the utmost from the Machine Spirits that ran the Manufactora and the Hangars where the ancient war engines were anointed. They did not disappoint.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
 	<entry name="SkilledJink" value="<string name='Actions/SkilledJink'/>"/>
 	<entry name="SkilledJinkDescription" value="<string name='Traits/JinkDescription'/>"/>
 	<entry name="SkilledJinkFlavor" value="<string name='Actions/SkilledJinkFlavor'/>"/>

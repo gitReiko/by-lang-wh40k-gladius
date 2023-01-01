@@ -26,7 +26,7 @@
 	<entry name="Tip11" value="Heroes"/>
 	<entry name="Tip11Description" value="This is a powerful <icon height='20' texture='Icons/Traits/Hero'/> hero unit that can manifest extraordinary abilities to vanquish his foes or protect his allies. Choose your first ability by pressing “<icon height='20' texture='Icons/Actions/LevelUp'/> Level Up” and selecting your desired ability. Some abilities might be passive, or have a longer or shorter <icon height='20' texture='Icons/Attributes/Cooldown'/> cooldown. Most abilities can, however, be leveled up multiple times to increase their power."/>
 	<entry name="Tip12" value="Items"/>
-	<entry name="Tip12Description" value="Hero items can be found from exploration, received from quest rewards or bought at the Jokaero Trader Encampments. Items provide either a passive bonus or give the unit a new ability that can be performed once or multiple times as a free action. Before being able to claim an item you will have to recruit and select a hero unit."/>
+	<entry name="Tip12Description" value="Hero items can be found from exploration, received from quest rewards or bought at the Jokaero Trader Encampments. Items provide either a passive bonus or give the unit a new ability that can be performed once or multiple times as a free action. Before being able to claim an item you will have to recruit and select a hero unit."/> <!-- Generally don't stack, traits also generally don't. -->
 	<entry name="Tip13" value="Open Item Shop Screen"/>
 	<entry name="Tip13Description" value="Your hero is standing on an <icon height='20' texture='Icons/Actions/Shop'/> item shop. To open it, click on the “<icon height='20' texture='Icons/Actions/Shop'/> Shop” button."/> 
 	<entry name="Tip14" value="Item Shop Screen"/>

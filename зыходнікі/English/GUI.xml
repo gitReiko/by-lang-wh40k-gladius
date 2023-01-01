@@ -148,6 +148,7 @@
 	<entry name="NoValidTargets" value="No valid targets."/>
 	<entry name="NotEnoughResources" value="Not enough resources."/>
 	<entry name="NotReady" value="Not Ready"/>
+	<entry name="NotUsable" value="Not usable."/>
 	<entry name="Objectives" value="Objectives"/>
 	<entry name="ObjectivesCompleted" value="Objectives Completed"/>
 	<entry name="OK" value="OK"/>
@@ -219,6 +220,7 @@
 	<entry name="QuickSelectFactionHint" value="Quick-select faction."/>
 	<entry name="Quit" value="Quit"/>
 	<entry name="Quests" value="Quests"/>
+	<entry name="SacredRites" value="Sacred Rites"/>
 	<entry name="Save" value="Save"/>
 	<entry name="SaveGame" value="Save Game"/>
 	<entry name="Scenarios" value="Scenarios"/>

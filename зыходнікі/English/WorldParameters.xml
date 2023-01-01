@@ -33,6 +33,7 @@
 	<entry name="Difficulty0Necrons" value="Flayed One"/>
 	<entry name="Difficulty0Orks" value="Squig"/>
 	<entry name="Difficulty0Random" value="Very Weak"/>
+	<entry name="Difficulty0SistersOfBattle" value="Novitiate"/>
 	<entry name="Difficulty0SpaceMarines" value="Neophyte"/>
 	<entry name="Difficulty0Tau" value="Gue’vesa"/>
 	<entry name="Difficulty0Tyranids" value="Scarab"/>
@@ -45,6 +46,7 @@
 	<entry name="Difficulty1Necrons" value="Warrior"/>
 	<entry name="Difficulty1Orks" value="Grot"/>
 	<entry name="Difficulty1Random" value="Weak"/>
+	<entry name="Difficulty1SistersOfBattle" value="Sister"/>
 	<entry name="Difficulty1SpaceMarines" value="Battle-Brother"/>
 	<entry name="Difficulty1Tau" value="Shas‘saal"/>
 	<entry name="Difficulty1Tyranids" value="Termagant"/>
@@ -57,6 +59,7 @@
 	<entry name="Difficulty2Necrons" value="Immortal"/>
 	<entry name="Difficulty2Orks" value="Boy"/>
 	<entry name="Difficulty2Random" value="Average"/>
+	<entry name="Difficulty2SistersOfBattle" value="Celestine"/>
 	<entry name="Difficulty2SpaceMarines" value="Sergeant"/>
 	<entry name="Difficulty2Tau" value="Shas‘la"/>
 	<entry name="Difficulty2Tyranids" value="Warrior"/>
@@ -69,6 +72,7 @@
 	<entry name="Difficulty3Necrons" value="Triarch Praetorian"/>
 	<entry name="Difficulty3Orks" value="Nob"/>
 	<entry name="Difficulty3Random" value="Strong"/>
+	<entry name="Difficulty3SistersOfBattle" value="Palatine"/>
 	<entry name="Difficulty3SpaceMarines" value="Captain"/>
 	<entry name="Difficulty3Tau" value="Shas‘ui"/>
 	<entry name="Difficulty3Tyranids" value="Lictor"/>
@@ -81,6 +85,7 @@
 	<entry name="Difficulty4Necrons" value="Cryptek"/>
 	<entry name="Difficulty4Orks" value="Boss"/>
 	<entry name="Difficulty4Random" value="Very Strong"/>
+	<entry name="Difficulty4SistersOfBattle" value="Canoness"/>
 	<entry name="Difficulty4SpaceMarines" value="Chapter-Master"/>
 	<entry name="Difficulty4Tau" value="Shas‘vre"/>
 	<entry name="Difficulty4Tyranids" value="Hive Tyrant"/>
@@ -93,6 +98,7 @@
 	<entry name="Difficulty5Necrons" value="Overlord"/>
 	<entry name="Difficulty5Orks" value="Warboss"/>
 	<entry name="Difficulty5Random" value="Ultra Strong"/>
+	<entry name="Difficulty5SistersOfBattle" value="Prioress"/>
 	<entry name="Difficulty5SpaceMarines" value="Primarch"/>
 	<entry name="Difficulty5Tau" value="Shas‘el"/>
 	<entry name="Difficulty5Tyranids" value="Dominatrix"/>
@@ -105,6 +111,7 @@
 	<entry name="Difficulty6Necrons" value="Silent King"/>
 	<entry name="Difficulty6Orks" value="Prophet of Gork and Mork"/>
 	<entry name="Difficulty6Random" value="Invincible"/>
+	<entry name="Difficulty6SistersOfBattle" value="Abbess Sanctorum"/>
 	<entry name="Difficulty6SpaceMarines" value="Emperor"/>
 	<entry name="Difficulty6Tau" value="Aun'O"/>
 	<entry name="Difficulty6Tyranids" value="Norn Queen"/>
@@ -125,6 +132,12 @@
 	<entry name="GameVisibility1Hint" value="Game is not publicly listed and only joinable through invites or direct connect."/>
 	<entry name="GameVisibility2" value="Public"/>
 	<entry name="GameVisibility2Hint" value="Game is publicly listed and is joinable by anyone."/>
+	<entry name="HolySiteDensity" value="Holy Site Density"/>
+	<entry name="HolySiteDensity0" value="Very Low"/>
+	<entry name="HolySiteDensity1" value="Low"/>
+	<entry name="HolySiteDensity2" value="Medium"/>
+	<entry name="HolySiteDensity3" value="High"/>
+	<entry name="HolySiteDensity4" value="Very High"/>	
 	<entry name="ImperialRuinsDensity" value="Imperial Ruins Density"/>
 	<entry name="ImperialRuinsDensity0" value="Very Low"/>
 	<entry name="ImperialRuinsDensity1" value="Low"/>
@@ -175,7 +188,25 @@
 	<entry name="RegionSize1" value="Small"/>
 	<entry name="RegionSize2" value="Medium"/>
 	<entry name="RegionSize3" value="Large"/>
-	<entry name="RegionSize4" value="Very Large"/>	
+	<entry name="RegionSize4" value="Very Large"/>
+	<entry name="ResearchCost" value="Research Costs"/>
+	<entry name="ResearchCost0" value="Very Low"/>
+	<entry name="ResearchCost1" value="Low"/>
+	<entry name="ResearchCost2" value="Medium"/>
+	<entry name="ResearchCost3" value="High"/>
+	<entry name="ResearchCost4" value="Very High"/>
+	<entry name="ResourceCost" value="Resource Costs"/>
+	<entry name="ResourceCost0" value="Very Low"/>
+	<entry name="ResourceCost1" value="Low"/>
+	<entry name="ResourceCost2" value="Medium"/>
+	<entry name="ResourceCost3" value="High"/>
+	<entry name="ResourceCost4" value="Very High"/>
+	<entry name="ResourceUpkeep" value="Resource Upkeeps"/>
+	<entry name="ResourceUpkeep0" value="Very Low"/>
+	<entry name="ResourceUpkeep1" value="Low"/>
+	<entry name="ResourceUpkeep2" value="Medium"/>
+	<entry name="ResourceUpkeep3" value="High"/>
+	<entry name="ResourceUpkeep4" value="Very High"/>
 	<entry name="RiverDensity" value="River Density"/>
 	<entry name="RiverDensity0" value="Very Low"/>
 	<entry name="RiverDensity1" value="Low"/>
@@ -208,6 +239,12 @@
 	<entry name="SpecialResourceDensity2" value="Medium"/>
 	<entry name="SpecialResourceDensity3" value="High"/>
 	<entry name="SpecialResourceDensity4" value="Very High"/>
+	<entry name="StartingResource" value="Starting Resources"/>
+	<entry name="StartingResource0" value="Very Low"/>
+	<entry name="StartingResource1" value="Low"/>
+	<entry name="StartingResource2" value="Medium"/>
+	<entry name="StartingResource3" value="High"/>
+	<entry name="StartingResource4" value="Very High"/>
 	<entry name="Supplement1" value="Reinforcement Pack DLC"/>
 	<entry name="Supplement2" value="Tyranids DLC"/>
 	<entry name="Supplement3" value="Chaos Space Marines DLC"/>
@@ -218,6 +255,7 @@
 	<entry name="Supplement8" value="Specialist Pack DLC"/>
 	<entry name="Supplement9" value="Adeptus Mechanicus DLC"/>
 	<entry name="Supplement10" value="Escalation Pack DLC"/>
+	<entry name="Supplement11" value="Adepta Sororitas DLC"/>
 	<entry name="TropicalRegionDensity" value="Tropical Region Density"/>
 	<entry name="TropicalRegionDensity0" value="None"/>
 	<entry name="TropicalRegionDensity1" value="Very Low"/>

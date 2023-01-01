@@ -42,7 +42,7 @@
 	<entry name="AcquireTileDescription" value="Acquires a new tile for the city. Buildings can only be built on acquired tiles. Each tile has an influence upkeep."/>
 	<entry name="Activate" value="Activate"/>
 	<entry name="AdeptusMechanicus/AggressionOverride" value="Aggression Override"/> <!-- Skitarii Marshal ability -->
-	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Increases the attacks of target allied Adeptus Mechanicus unit."/>
+	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Increases the attacks of target allied Adeptus Mechanicus infantry unit."/>
 	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="Employing data-refined kill-canticle protocols, the Marshal ensures his Skitarii are driven into a state of heightened ferocity that sees their bloodstreams boil with combat hyperstimulants."/>
 	<entry name="AdeptusMechanicus/AggressorImperative" value="Aggressor Imperative"/>
 	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Increases the movement, but decreases the armour of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
@@ -66,7 +66,7 @@
 	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Increases the melee accuracy, but decreases the ranged accuracy of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="When the enemy close in, the Tech-Priests controlling each maniple inload Conqueror imperatives that boost the martial subroutines of their Skitarii minions and galvanise them into physical action at the expense of their more elaborate targeting programmes."/>
 	<entry name="AdeptusMechanicus/ControlEdict" value="Control Edict"/> <!-- Skitarii Marshal ability -->
-	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Removes Doctrina Imperatives malus from allied units in range."/>
+	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Removes Doctrina Imperatives malus from allied infantry units in range."/>
 	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="A Doctrina Imperative is hardly a subtle tool, disabling a soldier just as much as it enables them elsewhere. Yet, the attentions of an experienced Marshal can aid in overcoming the Imperative’s cruder commands, enabling the soldier to perform far above their nominal norms."/>
 	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Data-Blessed Autosermon"/> <!-- Tech-Priest Manipulus elite -->
 	<entry name="AdeptusMechanicus/DataBlessedAutosermonDescription" value="Canticles of the Omnissiah units in the area grant research when killing enemies."/>
@@ -90,7 +90,7 @@
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Damages target enemy unit. Attacks and cost scales with the amount of Canticles of the Omnissiah units (up to 10)."/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Summoning the spark of the Machine God’s divinity that burns within them, the Omnissiah’s faithful manifest blazing auras of energy that lay low the unbeliever."/>
 	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Lord of the Machine Cult"/> <!-- Tech-Priest Dominus ability -->
-	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Increases the accuracy of adjacent Adeptus Mechanicus units."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Increases the accuracy of adjacent Adeptus Mechanicus vehicle units."/>
 	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“You may say, it is impossible for a man to become like the Machine. And I would reply, that only the smallest mind strives to comprehend its limits.”<br/>—Fabricator General Kane"/>
 	<entry name="AdeptusMechanicus/MasterOfMachines" value="Master of Machines"/>
 	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Restores the hitpoints of the target allied Adeptus Mechanicus, vehicle or fortification unit."/>
@@ -114,7 +114,7 @@
 	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Reveals the target tile and adjacent tiles."/>
 	<entry name="AdeptusMechanicus/ScryerskullFlavor" value="The Adeptus Mechanicus take the assessment and exploitation of battlefield resources very seriously indeed – so much so that many of them continue their work in this role beyond the point of death."/>
 	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Servo-Skull Uplink"/> <!-- Skitarii Marshal ability -->
-	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Increases the damage of allied Adeptus Mechanicus units in range."/>
+	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Increases the damage of allied Adeptus Mechanicus infantry units in range."/>
 	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="It is a great honour for a pious Imperial servant or tech-adept to be converted into a servo skull after death—to have their skull augmented with anti-grav and a rudimentary machine intelligence. Optically-augmented servo skulls like those possessed by a Skitarii Marshal are useful for reconnaissance and targeting, hugely reducing the chance of wasted shots."/>
 	<entry name="AdeptusMechanicus/Shroudpsalm" value="Shroudpsalm"/>
 	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Increases the ranged damage reduction of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
@@ -130,7 +130,7 @@
 	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="None can smite the blasphemer like those from Mars, for theirs is the most righteous of zeal. All praise the glory of the Machine God!"/>
 	<entry name="Agile" value="Agile"/>
 	<entry name="AgileDescription" value="Increases the movement, but decreases the attacks."/>
-	<entry name="AgileFlavor" value="The size of some creatures misleads you. Take the Tyranid’s Hierodule. Instead of lumbering forward like a lumpen Ogryn, their focus and grace is, surprisingly, closer to that of a Harlequin. A hungry Harlequin the size of a house, admittedly, with acid drool and scytheblade arms the length of a Land Raider, that is, but elegant all the same."/>
+	<entry name="AgileFlavor" value="Size doesn’t preclude speed. Look at the incredible manoeuvrability of the Imperium’s Lightning Fighter. Or take the Tyranid’s Hierodule. Instead of lumbering forward like a lumpen Ogryn, their focus and grace is closer to that of a Harlequin. A hungry Harlequin the size of a house, admittedly, with acid drool and scytheblade arms the length of a Land Raider, that is. But elegant all the same."/>
 	<entry name="Appear" value="Appear"/>
 	<entry name="AmmoRunt" value="Ammo Runt"/>
 	<entry name="AmmoRuntDescription" value="Increases the ranged accuracy."/>
@@ -323,7 +323,7 @@
 	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
 	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
 	<entry name="ClearTile" value="Clear Tile"/>
-	<entry name="ClearTileDescription" value="Restores the tile to its normal state and clears it of wire weed, imperial ruins and forests, one at a time."/>
+	<entry name="ClearTileDescription" value="Restores the tile to its normal state and clears it of wire weed, holy sites, imperial ruins and forests, one at a time."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
 	<entry name="ClusterMinesDescription" value="Places cluster mines on the target adjacent tile to slow and damage enemies."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
@@ -642,7 +642,7 @@
 	<entry name="Orks/ProphetOfTheWaaaghFlavor" value="“I'm da hand of Gork and Mork, dey sent me to rouse up da boyz to crush and kill 'cos da boyz forgot what dere 'ere for… I'm da profit of da Waaagh an' whole worlds burn in my boot prints. I'm Warlord Ghazghkull Mag Uruk Thraka an' I speak wiv da word of da gods.”<br/>  — Ghazghkull Mag Uruk Thraka, Ork Warlord"/>
 	<entry name="Orks/WarbikeTurboBoost" value="Warbike Turbo-Boost"/>
 	<entry name="Orks/WarbikeTurboBoostDescription" value="Increases the movement and ranged damage reduction."/>
-	<entry name="Orks/WarbikeTurboBoostFlavor" value="“‘Fasta, fasta! Dey can’t ‘it wot dey can’t sees! Smack all dem turbos!”  — Last words of Da Rok, Ork Nob and erstwhile warbiker."/>
+	<entry name="Orks/WarbikeTurboBoostFlavor" value="“‘Fasta, fasta! Dey can’t ‘it wot dey can’t sees! Smack all dem turbos!”<br/>  — Last words of Da Rok, Ork Nob and erstwhile warbiker."/>
 	<entry name="Orks/Warpath" value="Warpath"/>
 	<entry name="Orks/WarpathDescription" value="Increases the number of melee attacks of the Weirdboy and adjacent Mob Rule allied units."/>
 	<entry name="Orks/WarpathFlavor" value="The Weirdboy disperses the Waaagh! energy coursing through his frame into the Ork warriors around him, stirring their already bellicose, warlike nature to roaring fever pitch."/>
@@ -653,7 +653,7 @@
 	<entry name="PowerOfTheMachineSpiritFlavor" value="The interface between this vehicle's advanced machine spirit and its fire control mechanisms allows the crew to target foes with incredible accuracy."/>
 	<entry name="PowerStrike" value="Power Strike"/>
 	<entry name="PowerStrikeDescription" value="Performs a Power Sword attack with increased damage."/>
-	<entry name="PowerStrikeFlavor" value="“My sword is at the Emperor's command. I answer to no other man, living or dead.”  — Tu'shan, Chapter Master of the Salamanders."/>
+	<entry name="PowerStrikeFlavor" value="“My sword is at the Emperor's command. I answer to no other man, living or dead.”<br/>  — Tu'shan, Chapter Master of the Salamanders."/>
 	<entry name="ProduceUnit" value="Produce %1%"/>
 	<entry name="ProduceUnitHint" value="<style name='Title'/>Produce %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="RazeBuilding" value="Raze Building"/>
@@ -691,6 +691,109 @@
 	<entry name="Signum" value="Signum"/>
 	<entry name="SignumDescription" value="<string name='Traits/RelentlessDescription'/>"/>
 	<entry name="SignumFlavor" value="The signum is a communication device that quickly processes and broadcasts targeting data. This ancient piece of technology allows one member of a Space Marine squad to fire with even greater accuracy, battering vital targets with a hail of unerring shots."/>
+	<entry name="SistersOfBattle/ActOfFaithDescription" value="Act of Faith. Usable if the unit is not shaken or broken."/>
+	<entry name="SistersOfBattle/BeaconOfFaith" value="Beacon of Faith"/>
+	<entry name="SistersOfBattle/BeaconOfFaithDescription" value="Restore the morale of nearby allied units."/>
+	<entry name="SistersOfBattle/BeaconOfFaithFlavor" value="“The Khornate warriors threatened to overwhelm us, we were cut and rent and thrown aside… even the Canoness fell… and then She intervened. As She descended, a shining beacon, our wounds closed, our spirits rallied and we drove back the heretics with newfound devotion…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/Bodyguard" value="Bodyguard"/>
+	<entry name="SistersOfBattle/BodyguardDescription" value="Grants additional protection to adjacent allied heroes."/>
+	<entry name="SistersOfBattle/BodyguardFlavor" value="Celestians are those Sisters most filled with martial spirit, proving themselves in the most intense melees. They frequently serve as bodyguards and champions of Canonesses, willingly sacrificing themselves to protect their charge."/>
+	<entry name="SistersOfBattle/CatechismOfRepugnance" value="Catechism of Repugnance"/>
+	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="Increases the ranged accuracy and ranged armor penetration of the target Adepta Sororitas allied unit."/>
+	<entry name="SistersOfBattle/CatechismOfRepugnanceFlavor" value="With the holy bolter we shall cleanse the mutant, the alien and the heretic. With the Emperor’s gift do we deliver our hatred of the defiler."/>
+	<entry name="SistersOfBattle/ChaseTheProfane" value="Chase the Profane"/>
+	<entry name="SistersOfBattle/ChaseTheProfaneDescription" value="Sacred Rite that grants Move Through Cover to infantry units."/>
+	<entry name="SistersOfBattle/ChaseTheProfaneFlavor" value="“And the faithful shall be relentless in their inquisition. Nothing shall stand in the way of their will; neither the laws of men nor xenos; not qualms nor friends; not steel nor plascrete nor adamantium.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
+	<entry name="SistersOfBattle/ConvictionOfFaith" value="Conviction of Faith"/> 
+	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="Sacred Rite that restores the morale of units with Shield of Faith."/>
+	<entry name="SistersOfBattle/ConvictionOfFaithFlavor" value="“In the age since our disgrace, not one of us has fallen. We do not struggle with our qualms as other do, nor fall to the dark path. Repeat: I know no fear for I am already death.”<br/>  — Canoness Vandire, “The Rite of Conviction” from In Memoriam De Virtute."/>
+	<entry name="SistersOfBattle/DeathBeforeDisgrace" value="Death Before Disgrace"/>
+	<entry name="SistersOfBattle/DeathBeforeDisgraceDescription" value="Restores the morale of the target allied unit."/>
+	<entry name="SistersOfBattle/DeathBeforeDisgraceFlavor" value="“What is death, to us? We are not fodder for laughing gods. We are not enshrined in stones, like the foul Aeldari. For us death is an end to service, a reward only given if we do not seek it. So act as if each moment is your last, but strive against that day with all your heart.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
+	<entry name="SistersOfBattle/DivineDeliverance" value="Divine Deliverance"/>
+	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="Adjacent allied Adepta Sororitas units cause attacked units to lose morale."/>
+	<entry name="SistersOfBattle/DivineDeliveranceFlavor" value="Enemy warlords tremble before the divine majesty of one blessed by the Emperor, and their minions quake before the booming onslaught of such a warrior’s companions."/>
+	<entry name="SistersOfBattle/DivineGuidance" value="Divine Guidance"/>
+	<entry name="SistersOfBattle/DivineGuidanceDescription" value="Increases the damage and armour penetration.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/DivineGuidanceFlavor" value="As the combatants of the sorority recite rites of destruction, their aim faithfully falls where it will cause the most harm – every shot and every strike becoming a mortal blow that condemns another heretic to oblivion."/>
+	<entry name="SistersOfBattle/EndlessCrusade" value="Endless Crusade"/>
+	<entry name="SistersOfBattle/EndlessCrusadeDescription" value="Gains Fleet and Move Through Cover.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/EndlessCrusadeFlavor" value="Limbs do not tire when the spirit of the Emperor moves them, but find fresh strength in the righteous work to come."/>
+	<entry name="SistersOfBattle/EternalCrusade" value="<string name='Traits/SistersOfBattle/EternalCrusade'/>"/>
+	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Sacred Rite that increases the production output of Battle Chapels and Legatines' Priories."/>
+	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="<string name='Traits/SistersOfBattle/EternalCrusadeFlavor'/>"/>
+	<entry name="SistersOfBattle/FlankSpeed" value="<string name='Traits/SistersOfBattle/FlankSpeed'/>"/>
+	<entry name="SistersOfBattle/FlankSpeedDescription" value="<string name='Traits/SistersOfBattle/FlankSpeedDescription'/>"/>
+	<entry name="SistersOfBattle/FlankSpeedFlavor" value="<string name='Traits/SistersOfBattle/FlankSpeedFlavor'/>"/>
+	<entry name="SistersOfBattle/HealingTears" value="Healing Tears"/>
+	<entry name="SistersOfBattle/HealingTearsDescription" value="Restores a portion of Saint Celestine's hitpoints."/>
+	<entry name="SistersOfBattle/HealingTearsFlavor" value="“And, lo, the tears were human, tears for her lost sisters, tears for the endless war—but they were transfigured in their descent and where they struck, they blessed. And the Saint herself roused herself up with righteous fury…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/IonGauntletShield" value="Ion Gauntlet Shield"/>
+	<entry name="SistersOfBattle/IonGauntletShieldDescription" value="Reduces the melee accuracy of adjacent gargantuan creatures and super-heavy walkers."/>
+	<entry name="SistersOfBattle/IonGauntletShieldFlavor" value="<string name='Traits/SistersOfBattle/IonGauntletShieldFlavor'/>"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Keepers of the Faith"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithDescription" value="Prevents overwatch but increases the damage reduction if this unit has actions remaining.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithFlavor" value="<string name='Traits/SistersOfBattle/KeepersOfTheFaithFlavor'/>"/>
+	<entry name="SistersOfBattle/LaudHailer" value="Laud Hailer"/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Adjacent Adepta Sororitas units can perform Acts of Faith even if they are shaken."/>
+	<entry name="SistersOfBattle/LaudHailerFlavor" value="Proclaiming the power of the Emperor in heavenly tones, a Laud Hailer bolsters the spirits of the faithful."/>
+	<entry name="SistersOfBattle/LeadTheRighteous" value="Lead The Righteous"/>
+	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Increases the accuracy of nearby allied Adepta Sororitas units."/>
+	<entry name="SistersOfBattle/LeadTheRighteousFlavor" value="“A Canonness is no skulking commissar, to hide behind her sisters’ skirts and send them to her deaths. My role is to lead from the front, to inspire love and faith by my example. For we are the righteous of the Emperor and we will not fail in our aim.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
+	<entry name="SistersOfBattle/LightOfTheEmperor" value="Light of the Emperor"/>
+	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="Increases the accuracy.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="Sisters of the Adepta Sororitas are filled with the knowledge that the only thing they need fear is failing the Emperor of Mankind. Armed with such faith, they are driven to unprecedented feats of prowess."/>
+	<entry name="SistersOfBattle/MedicusMinistorum" value="Medicus Ministorum"/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Grants Feel no Pain to adjacent allied infantry units."/>
+	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum and by the Hospitallers of the Adepta Sororitas. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments."/>
+	<entry name="SistersOfBattle/MiraculousIntervention" value="Miraculous Intervention"/>
+	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="After dying, Saint Celestine immediately comes back to life.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/MiraculousInterventionFlavor" value="Not even death can stop the Emperor’s chosen servants, and through his benevolence they rise again to serve the Master of Mankind’s will."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Traits/SistersOfBattle/NonMilitantMobilisation'/>"/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Sacred Rite that increases the requisitions output in cities."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="<string name='Traits/SistersOfBattle/NonMilitantMobilisationFlavor'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitations" value="<string name='Traits/SistersOfBattle/PurifyingRecitations'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Sacred Rite that increases the damage of flame and melta weapons."/>
+	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="<string name='Traits/SistersOfBattle/PurifyingRecitationsFlavor'/>"/>
+	<entry name="SistersOfBattle/RagingFervour" value="<string name='Traits/SistersOfBattle/RagingFervour'/>"/>
+	<entry name="SistersOfBattle/RagingFervourDescription" value="Sacred Rite that increases the damage of bolt weapons."/>
+	<entry name="SistersOfBattle/RagingFervourFlavor" value="<string name='Traits/SistersOfBattle/RagingFervourFlavor'/>"/>
+	<entry name="SistersOfBattle/RighteousJudgement" value="Righteous Judgement"/>
+	<entry name="SistersOfBattle/RighteousJudgementDescription" value="Ignores ranged damage reduction and increases damage taken by the target enemy unit."/>
+	<entry name="SistersOfBattle/RighteousJudgementFlavor" value="None can escape the Emperor’s judgement, and wherever the foe attempts to seek shelter the shots of the Adepta Sororitas miraculously seek them out."/>
+	<entry name="SistersOfBattle/SacralVigor" value="Sacral Vigor"/>
+	<entry name="SistersOfBattle/SacralVigorDescription" value="Sacred Rite that restores the hitpoints of units with Shield of Faith."/>
+	<entry name="SistersOfBattle/SacralVigorFlavor" value="“What of these wounds upon us, sisters? Is our flesh that precious to us, our beauty that sacred? Tear at these cuts, open them, they are but motes in fanciful air. Never forget that our reality is faith, and pain, like life, is evanescent…”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
+	<entry name="SistersOfBattle/SacredHealing" value="Sacred Healing"/>
+	<entry name="SistersOfBattle/SacredHealingDescription" value="Restores the hitpoints of the target allied infantry unit."/>
+	<entry name="SistersOfBattle/SacredHealingFlavor" value="Implements of both torture and salvation, the chirurgeon’s tools can restore the fallen so that they might fight once more."/>
+	<entry name="SistersOfBattle/SaintlyBlessings" value="Saintly Blessings"/>
+	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Grants additional damage reduction to adjacent allied units."/>
+	<entry name="SistersOfBattle/SaintlyBlessingsFlavor" value="In the presence of an ordained Living Saint, even the most impious of the Emperor’s servants cannot help but be swept up by the tide of religious fervour."/>
+	<entry name="SistersOfBattle/SolaceInAnguish" value="Solace in Anguish"/>
+	<entry name="SistersOfBattle/SolaceInAnguishDescription" value="Increases the damage reduction.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/SolaceInAnguishFlavor" value="“I had seen a Preacher impaled on a steeple. The remains of a missionary found by genestealer cultists. We felt the loss so strongly—but our anguish did not weaken us, but spurred us on…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/StirringRhetoric" value="Stirring Rhetoric"/>
+	<entry name="SistersOfBattle/StirringRhetoricDescription" value="Nearby allied units that used an Act of Faith gain additional armor."/>
+	<entry name="SistersOfBattle/StirringRhetoricFlavor" value="“There is no light but the light of the Emperor! There is no faith but faith in the Emperor! There is no truth but the truth of the Emperor!”<br/>  — First Exclamation of the Dialogus Order of the Resounding Vow."/>
+	<entry name="SistersOfBattle/TheEmperorsVengeance" value="The Emperor's Vengeance"/>
+	<entry name="SistersOfBattle/TheEmperorsVengeanceDescription" value="Calls down a divine ray to bombard enemy positions."/>
+	<entry name="SistersOfBattle/TheEmperorsVengeanceFlavor" value="“This was not in the doctrines, nor the ephemera, nor even the apocrypha. This planet had drained the Saint, it is true. But at moments of great wrath, her true power broke through, all at once, and devastated those who dared to stand against her.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/ThePassion" value="The Passion"/>
+	<entry name="SistersOfBattle/ThePassionDescription" value="Increases the melee accuracy of adjacent allied units.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/ThePassionFlavor" value="A Canoness leads her Sisters through the chaos of melee, striking at their foes with a speed and hatred born of holy fervour."/>
+	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Traits/SistersOfBattle/VengefulSpirit'/>"/>
+	<entry name="SistersOfBattle/VengefulSpiritDescription" value="Sacred Rite that returns damage back to the enemy attacker."/>
+	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="<string name='Traits/SistersOfBattle/VengefulSpiritFlavor'/>"/>
+	<entry name="SistersOfBattle/VerseOfHolyPiety" value="Verse of Holy Piety"/>
+	<entry name="SistersOfBattle/VerseOfHolyPietyDescription" value="Reduces the cooldown of Acts of Faith on the target unit."/>
+	<entry name="SistersOfBattle/VerseOfHolyPietyFlavor" value="Pray is stronger than any sword. As the sanctified words of the Order’s holy tenets are roared across the battlefield, the devout are infused with the Emperor’s blessings."/>
+	<entry name="SistersOfBattle/WarHymn" value="War Hymn"/>
+	<entry name="SistersOfBattle/WarHymnDescription" value="Increases the attacks of the target Adepta Sororitas non-super-heavy allied unit."/>
+	<entry name="SistersOfBattle/WarHymnFlavor" value="Suffer not the enemies of Mankind to live. Smite them down with all your strength and fury."/>
+	<entry name="SistersOfBattle/WarmachinesWrath" value="<string name='Traits/SistersOfBattle/WarmachinesWrath'/>"/>
+	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="Sacred Rite that increases the production output of Anointed Hangars and Ecclesiarchal Reinforcements."/>
+	<entry name="SistersOfBattle/WarmachinesWrathFlavor" value="<string name='Traits/SistersOfBattle/WarmachinesWrathFlavor'/>"/>
 	<entry name="SkilledJink" value="Skilled Jink"/>
 	<entry name="SkilledJinkDescription" value="<string name='Actions/JinkDescription'/>"/>
 	<entry name="SkilledJinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>

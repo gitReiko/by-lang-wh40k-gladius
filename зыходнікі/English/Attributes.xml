@@ -73,6 +73,10 @@
 	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="DamageTakenByGroupSizeFactor" value="Damage Taken By Group Size"/>
 	<entry name="DamageTakenByGroupSizeFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Death Experience"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="DeathMorale" value="Death Morale"/>
+	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="DuplicateTypeCost" value="Duplicate Type Cost"/>
 	<entry name="Energy" value="Energy"/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -308,6 +312,8 @@
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke special abilities as well as recruit powerful hero units and purchase their items."/>
 	<entry name="Necrons/OreHint" value="<style name='Title'/>Ore<br/><style name='Default'/>Used to sustain the population in cities as well as maintain buildings and units."/>
 	<entry name="Orks/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, maintain the Waaagh! as well as recruit powerful hero units and purchase their items."/>
+	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke sacred rites as well as recruit powerful hero units and purchase their items."/>
+	<entry name="SistersOfBattle/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Used to sustain the population in the city, construct buildings as well as produce and maintain units."/>
 	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke tactics and operations as well as recruit powerful hero units and purchase their items."/>
 	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Used to sustain the population in the city, construct buildings as well as produce and maintain units."/>
 	<entry name="Tau/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, use special abilities as well as recruit powerful hero units and purchase their items."/>
