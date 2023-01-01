@@ -148,6 +148,7 @@
 	<entry name="NoValidTargets" value="Няма даступных цэляў."/>
 	<entry name="NotEnoughResources" value="Няма даступных рэсурсаў.."/>
 	<entry name="NotReady" value="Не гатоў"/>
+	<entry name="NotUsable" value="Нельга ўжываць."/>
 	<entry name="Objectives" value="Мэты"/>
 	<entry name="ObjectivesCompleted" value="Мэты дасягнуты"/>
 	<entry name="OK" value="Добра"/>
@@ -174,6 +175,7 @@
 	<entry name="PleaseWait" value="Калі ласка пачакайце…"/>
 	<entry name="PleaseWaitHint" value="Калі ласка пачакайце іншых гульцоў."/>
 	<entry name="Quests" value="Заданні"/>
+	<entry name="SacredRites" value="Свяшчэнныя Абрады"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітка"/>
 	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітак"/>
 	<entry name="Random" value="Выпадковы"/>

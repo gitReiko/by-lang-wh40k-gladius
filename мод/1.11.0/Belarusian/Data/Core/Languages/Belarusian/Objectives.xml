@@ -2,18 +2,24 @@
 <language>
 	<entry name="AccumulateBiomassDescription" value="Назапасіць біямасу (%1%/%2%)."/>
 	<entry name="AccumulateInfluenceDescription" value="Назапасіць уплыў (%1%/%2%)."/>
+	<entry name="AccumulateKillExperienceDescription" value="Назапасіць досвед ад забойстваў (%1%/%2%)."/>
 	<entry name="AccumulatePopulationDescription" value="Назапасіць насельніцтва (%1%/%2%)."/>
 	<entry name="AccumulateResearchDescription" value="Назапасіць даследаванні (%1%/%2%)."/>
 	<entry name="ActivateCanticleDescription" value="Актывуйце спеў (%1%/1)."/>
 	<entry name="ActivateDoctrinaDescription" value="Актывуйце дактрыну (%1%/1)."/>
 	<entry name="ActivateUnitDescription" value="Актываваць %1% (%2%/1)."/>
+	<entry name="ActivateSacredRiteDescription" value="Актываваць свяшчэнны абрад (%1%/%2%)."/>
 	<entry name="ActivateTacticDescription" value="Актываваць тактыку ордэна (%1%/1)."/>
 	<entry name="CaptureUnitDescription" value="Захапіць %1% (%2%/1)."/>
+	<entry name="ClaimWebwayGateWithCelestineDescription" value="Перасунуць <string name='Units/SistersOfBattle/SaintCelestine'/> на плітку, суседнюю да <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="ClearHolySiteDescription" value="Даследаваць <string name='Features/HolySite'/> Шпітальеркамі (%1%/%2%)."/>
 	<entry name="ClearInfestationDescription" value="Знішчыць %1% (%2%/%3%)."/>
 	<entry name="ConstructBuildingDescription" value="Пабудаваць %1% (%2%/%3%)."/>
 	<entry name="ConstructBuildingOnSameTileDescription" value="Пабудуйце %1% на той жа плітцы (%2%/%3%)."/>
 	<entry name="ConstructFeatureDescription" value="Пабудаваць %1% (%2%/%3%)."/>
 	<entry name="ConsumeTileDescription" value="Спажыць плітку малантропам (%2%/%3%)."/>
+	<entry name="ControlCityDescription" value="Кантраляваць гарады (%1%/%2%)."/>
+	<entry name="ControlOutpostDescription" value="Кантраляваць аванпосты (%1%/%2%)."/>
 	<entry name="ControlUnitDescription" value="Трымаць пад кантролем %1% (%2%/1)."/>
 	<entry name="DefendTileDescription" value="Бараніць адзначаную плітку."/>
 	<entry name="DefendTileWithTurnLimitDescription" value="Бараніць адзначаную плітку (%1% крокаў)."/>
@@ -32,6 +38,7 @@
 	<entry name="InvokeRapidRiseOnWarriorDescription" value="Выкарыстаць хуткі ўздым пры вытворчасці ваяроў-некронаў (%1%/1)."/>
 	<entry name="InvokeRiteDescription" value="Выкарыстаць %1% у горадзе (%2%/%3%)."/>
 	<entry name="KeepUnitAliveDescription" value="Захоўваць %1% жывым (%2%/1)."/>
+	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
 	<entry name="KillCampDescription" value="Знішчыць варожы стан (%1%/1)."/>
 	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Знішчыце дэмана-прынца, які выконвае рытуал за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithDeceiverDescription" value="Знайдзіце і знішчыце Ашуканца (%1%/1)."/>
@@ -42,6 +49,7 @@
 	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Знішчыце мяцежнага тэхнажраца і яго кантынгент элітных робатаў за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithTurnLimitDescription" value="Знішчыць варожы стан за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithTyranidsDescription" value="Знішчыце вулей тыранідаў (%1%/1)."/>
+	<entry name="KillCampWithWebwayGateDescription" value="Перамажыце сілы Аэльдары, што бароняць <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Знішчыць %1% за %4% крокаў (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Пачакайце пакуль %1% вернецца ў гэты свет (0/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Знішчыце разрозненыя адзінкі (%1%/%2%)."/>
@@ -55,6 +63,7 @@
 	<entry name="ProduceUnitOfTypeDescription" value="Стварыце %1% (%2%/%3%)."/>
 	<entry name="ProduceUnitWithTraitDescription" value="Стварыце адзінку з %1% асаблівасцю (%2%/%3%)."/>
 	<entry name="ProduceRequisitionsPerTurnDescription" value="Генеруйце %1% рэквізіцый за крок (у гэты момант %2%) (%3%/1)."/>
+	<entry name="RaiseLoyaltyDescription" value="Узніміце лаяльнасць у сваім горадзе-сталіцы прынамсі да %1% на 1 крок (%2%/1)."/>
 	<entry name="ReachLevelDescription" value="Дасягніце ўзровень %2% з %1% (%3%/1)."/>
 	<entry name="ReclaimUnitDescription" value="Выкарыстайце любы вытворчы будынак, каб аднавіць адзінку (%2%/%3%)."/>
 	<entry name="RecoverArcheotechDescription" value="Купіце артэфакты (%1%/%2%)."/>
