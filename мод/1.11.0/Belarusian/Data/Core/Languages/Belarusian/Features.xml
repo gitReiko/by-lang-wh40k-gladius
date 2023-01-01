@@ -44,6 +44,9 @@
 	<entry name="GroxPasture" value="Паша гроксаў"/>
 	<entry name="GroxPastureDescription" value="Асаблівасць якая павялічвае ежу ці паборы ў горадзе, калі апрацоўваецца."/>
 	<entry name="GroxPastureFlavor" value="Around heatstones alien storytellers muse about the Grox—the dangerous herd animal that is ubiquitous throughout human lands. Wherever man goes, the hardy Grox travels with him or is there before him. Some joke that the Grox was the Old Ones' most successful creation."/>
+	<entry name="HolySite" value="Святое Месца Сарорытас"/>
+	<entry name="HolySiteDescription" value="Асаблівасць, што дае ўзнагароду першай адзінцы Шпітальерак, якая ўвайшла на плітку."/>
+	<entry name="HolySiteFlavor" value="The Tabernacles of the Adepta Sororitas are not merely holy sites—they also house relics of ancient Sisters, weapons, armour and valuable tactical advice. In times of dire need, the Sisters may take them up again and use them in war…"/>
 	<entry name="ImperialRuin" value="Імперскія руіны"/>
 	<entry name="ImperialRuinFlavor" value="The pre-invasion human colony was built for defense and mineral exploitation. Nothing was designed to stand the tectonic shifts and warp-born horrors that came with the Ork invasion, and hence very few structures weathered it. This ruin is a rare survivor."/>
 	<entry name="JokaeroTraderEncampment" value="Лагер гандляроў джакаэро"/>
@@ -91,6 +94,9 @@
 	<entry name="ShatterDefences" value="<string name='Traits/ChaosSpaceMarines/ShatterDefences'/>"/>
 	<entry name="ShatterDefencesDescription" value="<string name='Traits/ChaosSpaceMarines/ShatterDefencesDescription'/>"/>
 	<entry name="ShatterDefencesFlavor" value="<string name='Traits/ChaosSpaceMarines/ShatterDefencesFlavor'/>"/>
+	<entry name="SistersOfBattleCity" value="Горад Адэпта Сарорытас"/>
+	<entry name="SistersOfBattleCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="SistersOfBattleCityFlavor" value="A city built for two purposes: to be a monument to the Emperor of mankind’s divinity; and to be a bastion of his holy warriors, the Adepta Sororitas. The wellbeing of the many short-lived humans who toil beneath its spires is very much a tertiary concern…"/>
 	<entry name="SkullAltar" value="Алтар чэрапаў"/>
 	<entry name="SkullAltarDescription" value="Асаблівасць, якая дае ўзнагароду адзінцы, якая наведвае клетку, і павялічвае вытворчасць уплыву ў горадзе, калі апрацоўваецца."/>
 	<entry name="SkullAltarFlavor" value="Rising from the ground, the Skull Altar is formed out of the violent tributes heaped in offering for Khorne's Throne. From atop the grisly pedestal a priest of Khorne roars out invectives, evoking the judgements of the Blood God to smite down all signs of weakness."/>
