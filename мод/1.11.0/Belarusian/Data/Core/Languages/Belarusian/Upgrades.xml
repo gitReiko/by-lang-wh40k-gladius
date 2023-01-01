@@ -1447,80 +1447,80 @@
 	<entry name="SistersOfBattle/AdditionalSacredRite" value="Двайная Вера"/>
 	<entry name="SistersOfBattle/AdditionalSacredRiteDescription" value="Два Свяшчэнных Абрады могуць быць актыўны адначасова."/>
 	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
-	<entry name="SistersOfBattle/AircraftsMissiles" value="Aircraft Missiles"/>
-	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Grants Skystrike Missiles to Lightning Fighters and Hellstrike Missiles to Avenger Strike Fighters."/>
+	<entry name="SistersOfBattle/AircraftsMissiles" value="Авіацыйныя Ракеты"/>
+	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Дае Ракеты Нябесны Ўдар Маланкавым Знішчальнікам і Ракеты Пякельны Ўдар Ударным Знішчальнікам Помснік."/>
 	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="These missiles allow the aircrafts to effectively engage a variety of targets; Hellstrike missiles for missions targeting armoured vehicles, Skystrike missiles for enemy air forces."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagus'/>"/>
-	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Increases the armour of Mortifiers."/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Паляпшае браню Умярцвіцеляў."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusFlavor" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagusFlavor'/>"/>
 	<entry name="SistersOfBattle/AssaultWeaponBonus" value="<string name='Traits/SistersOfBattle/AssaultWeaponBonus'/>"/>
-	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Increases the armour penetration of assault weapons."/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасць штурмавой зброі."/>
 	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/AssaultWeaponBonusFlavor'/>"/>
-	<entry name="SistersOfBattle/AvengeTheMartyrs" value="Avenge the Martyrs"/>
-	<entry name="SistersOfBattle/AvengeTheMartyrsDescription" value="Increases the morale loss reduction from Avenging Zeal."/>
+	<entry name="SistersOfBattle/AvengeTheMartyrs" value="Помста за Пакутнікаў"/> 
+	<entry name="SistersOfBattle/AvengeTheMartyrsDescription" value="Павялічвае зніжэнне стратаў маралі ад Заплу Помствы."/>
 	<entry name="SistersOfBattle/AvengeTheMartyrsFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
-	<entry name="SistersOfBattle/ChaffLauncher" value="Chaff Launcher"/>
-	<entry name="SistersOfBattle/ChaffLauncherDescription" value="Grants Lightning Fighters and Avenger Strike Fighters the ability to launch chaffs that increase ranged damage reduction."/>
+	<entry name="SistersOfBattle/ChaffLauncher" value="Пускавая Ўсталёўка Падманак"/>
+	<entry name="SistersOfBattle/ChaffLauncherDescription" value="Дае Маланкавым Знішчальнікам і Ударным Знішчальнікам Помснік здольнасць выпускаць падманкі, якія павялічваюць зніжэнне шкоды ад далёкіх атак."/>
 	<entry name="SistersOfBattle/ChaffLauncherFlavor" value="<string name='Actions/DispenseChaffFlavor'/>"/>
 	<entry name="SistersOfBattle/ChaseTheProfane" value="<string name='Actions/SistersOfBattle/ChaseTheProfane'/>"/>
 	<entry name="SistersOfBattle/ChaseTheProfaneDescription" value="<string name='Actions/SistersOfBattle/ChaseTheProfaneDescription'/>"/>
 	<entry name="SistersOfBattle/ChaseTheProfaneFlavor" value="<string name='Actions/SistersOfBattle/ChaseTheProfaneFlavor'/>"/>
 	<entry name="SistersOfBattle/CityGrowth" value="<string name='Traits/SistersOfBattle/CityGrowth'/>"/>
-	<entry name="SistersOfBattle/CityGrowthDescription" value="Increases the growth rate of cities."/>
+	<entry name="SistersOfBattle/CityGrowthDescription" value="Павялічвае хуткасць узросту насельніцтва гарадоў."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="<string name='Traits/SistersOfBattle/CityGrowthFlavor'/>"/>
 	<entry name="SistersOfBattle/CityTier2" value="<string name='Traits/SistersOfBattle/CityTier2'/>"/>
-	<entry name="SistersOfBattle/CityTier2Description" value="Increases the tile acquisition radius of the main city."/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус набыцця плітак галоўнага горада."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="<string name='Traits/SistersOfBattle/CityTier2Flavor'/>"/>
 	<entry name="SistersOfBattle/CityTier3" value="<string name='Traits/SistersOfBattle/CityTier3'/>"/>
-	<entry name="SistersOfBattle/CityTier3Description" value="Increases the tile acquisition radius of the main city."/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Павялічвае радыус набыцця плітак галоўнага горада."/>
 	<entry name="SistersOfBattle/CityTier3Flavor" value="<string name='Traits/SistersOfBattle/CityTier3Flavor'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaith" value="<string name='Actions/SistersOfBattle/ConvictionOfFaith'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="<string name='Actions/SistersOfBattle/ConvictionOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaithFlavor" value="<string name='Actions/SistersOfBattle/ConvictionOfFaithFlavor'/>"/>
 	<entry name="SistersOfBattle/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
-	<entry name="SistersOfBattle/DozerBladeDescription" value="Reduces the movement penalty for Ахвярніку, Экзарцысту і Лупцоўніку in forests and imperial ruins."/>
+	<entry name="SistersOfBattle/DozerBladeDescription" value="Зніжае штраф руху Ахвярнікам, Экзарцыстам і Лупцоўнікам па лясах і імперскіх руінах."/>
 	<entry name="SistersOfBattle/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
 	<entry name="SistersOfBattle/EternalCrusade" value="<string name='Actions/SistersOfBattle/EternalCrusade'/>"/>
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="<string name='Actions/SistersOfBattle/EternalCrusadeDescription'/>"/>
 	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="<string name='Actions/SistersOfBattle/EternalCrusadeFlavor'/>"/>
-	<entry name="SistersOfBattle/ExpertFighters" value="Expert Fighters"/>
-	<entry name="SistersOfBattle/ExpertFightersDescription" value="Increases the accuracy of Lightning Fighters and Avenger Strike Fighters."/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Знішчальнікі-Асы"/>
+	<entry name="SistersOfBattle/ExpertFightersDescription" value="Павялічвае трапнасць Маланкавых Знішчальнікаў і Ударных Знішчальнікаў Помснік."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="<string name='Traits/SistersOfBattle/ExpertFightersFlavor'/>"/>
 	<entry name="SistersOfBattle/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
-	<entry name="SistersOfBattle/ExtraInfantryArmourDescription" value="Increases the armour of infantry."/>
-	<entry name="SistersOfBattle/ExtraInfantryArmourFlavor" value="Constructed from thick ceramite plates, the power armour worn by the Adepta Sororitas is based upon the same archaic systems as that worn by the brethren of the Adeptus Astartes. It provides the same degree of armoured protection, yet must forego the more advanced support systems and strength enhancing abilities, for the Battle Sisters do not possess a Space Marine’s ability to interface directly with their own armour."/>
+	<entry name="SistersOfBattle/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
+	<entry name="SistersOfBattle/ExtraInfantryArmourFlavor" value="Constructed from thick ceramite plates, the power armour worn by the Adepta Sororitas is based upon the same archaic systems as that worn by the brethren of the Adeptus Astartes. It provides the same degree of armoured protection, yet must forego the more advanced support systems and strength enhancing abilities, for the Сёстры Бітвы do not possess a Space Marine’s ability to interface directly with their own armour."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Increases the armour of vehicles."/>
+	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
 	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SistersOfBattle/FragGrenadeDescription" value="Grants Battle Sisters, Canonnesses, Celestian Sacresants, Dialogus, Dominions, Hospitallers, Paragon Warsuits, Retributors, Saint Celestine, Sisters Repentia, Zephyrims the ability to throw anti-infantry grenades."/>
+	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсвяцейшым Сэлесцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Дасканалым Вайсковым Гарнітурам, Карніцам, Святой Сэлесціне, Сёстрам Пакаяньня, Зэфірымам здольнасць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrath" value="<string name='Traits/HammerOfWrath'/>"/>
-	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Grants Cerastus Knight-Lancer, Mortifiers, Paragon Warsuits, Saint Celestine and Zephyrim the ability to perform more devastating attacks."/>
+	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Дае Рыцарам-Капійнікам Цэрастус, Умярцвіцелям, Дасканалым Вайсковым Гарнітурам, Святой Сэлесціне і Зэфірыму здольнасць здзяйсняць больш разбуральныя атакі."/>
 	<entry name="SistersOfBattle/HammerOfWrathFlavor" value="<string name='Traits/HammerOfWrathFlavor'/>"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonus" value="<string name='Traits/SistersOfBattle/HeavyWeaponBonus'/>"/>
-	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Increases the armour penetration of heavy weapons."/>
+	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць цяжкай зброі."/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/HeavyWeaponBonusFlavor'/>"/>
 	<entry name="SistersOfBattle/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="SistersOfBattle/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SistersOfBattle/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="SistersOfBattle/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Grants Battle Sisters, Canonesses, Dialogus, Dominions, Retributors, Sisters Repentia and Zephyrims the ability to throw anti-armour grenades."/>
+	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасць кідаць супрацьбранявыя гранаты."/>
 	<entry name="SistersOfBattle/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/LaudHailer" value="<string name='Traits/SistersOfBattle/LaudHailer'/>"/>
-	<entry name="SistersOfBattle/LaudHailerDescription" value="Allows shaken units to perform Acts of Faith."/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Дазваляе ўзрушаным адзінкам здяйсняць Акты Веры."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Traits/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Traits/SistersOfBattle/MedicusMinistorum'/>"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Grants feel no pain damage reduction to allied infantry units adjacent to a Hospitaller unit."/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае зніжэньне шкоды без пачуцьця болі хаўруснай пяхоце, суседняй да Шпітальерак."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="<string name='Traits/SistersOfBattle/MedicusMinistorumFlavor'/>"/>
 	<entry name="SistersOfBattle/MeleeWeaponBonus" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonus'/>"/>
-	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Increases the armour penetration of melee weapons."/>
+	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
 	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonusFlavor'/>"/>
 	<entry name="SistersOfBattle/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SistersOfBattle/MeltaBombDescription" value="Grants Battle Sisters, Canonesses, Celestian Sacresants, Dialogus, Dominions, Hospitallers, Paragon Warsuits, Retributors, Saint Celestine, Sisters Repentia and Zephyrims the ability to deploy a melta bomb that is highly effective against heavy vehicles and fortifications."/>
+	<entry name="SistersOfBattle/MeltaBombDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсвяцейшым Сэлесцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Дасканалым Вайсковым Гарнітурам, Карніцам, Святой Сэлесціне, Сёстрам Пакаяньня і Зэфірымам здольнасць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкай тэхнікі і фартыфікацый."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
-	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Ministorum Indoctrination"/>
-	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Grants Martyr Spirit to Lightning Fighters, Avengers Strike Fighters and Cerastus Knight-Lancers."/>
+	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорум"/>
+	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Знішчальнікам, Ударным Знішчальнікам Помснік і Рыцарам-Капійнікам Цэрастус."/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationDescription'/>"/>
@@ -1531,14 +1531,14 @@
 	<entry name="SistersOfBattle/RagingFervour" value="<string name='Actions/SistersOfBattle/RagingFervour'/>"/>
 	<entry name="SistersOfBattle/RagingFervourDescription" value="<string name='Actions/SistersOfBattle/RagingFervourDescription'/>"/>
 	<entry name="SistersOfBattle/RagingFervourFlavor" value="<string name='Actions/SistersOfBattle/RagingFervourFlavor'/>"/>
-	<entry name="SistersOfBattle/RitualizedCeremonies" value="Ritualized Ceremonies"/>
-	<entry name="SistersOfBattle/RitualizedCeremoniesDescription" value="Reduces the cost of Sacred Rites."/>
+	<entry name="SistersOfBattle/RitualizedCeremonies" value="Рытуалізаваныя Цырымоніі"/>
+	<entry name="SistersOfBattle/RitualizedCeremoniesDescription" value="Зніжае кошт Свяшчэнных Абрадаў."/>
 	<entry name="SistersOfBattle/RitualizedCeremoniesFlavor" value="“At first, we prayed on the move, in moments of peace in ruins or caves. In time, as the conflict stabilized into endless, grinding war, our rituals and prayers stabilized too, to form a regime and routine.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
 	<entry name="SistersOfBattle/SacralVigor" value="<string name='Actions/SistersOfBattle/SacralVigor'/>"/>
 	<entry name="SistersOfBattle/SacralVigorDescription" value="<string name='Actions/SistersOfBattle/SacralVigorDescription'/>"/>
 	<entry name="SistersOfBattle/SacralVigorFlavor" value="<string name='Actions/SistersOfBattle/SacralVigorFlavor'/>"/>
-	<entry name="SistersOfBattle/SanctifiedWorld" value="Sanctified World"/>
-	<entry name="SistersOfBattle/SanctifiedWorldDescription" value="Increases the loyalty bonus granted by Convent of Faith."/>
+	<entry name="SistersOfBattle/SanctifiedWorld" value="Асвячоны Свет"/>
+	<entry name="SistersOfBattle/SanctifiedWorldDescription" value="Павялічвае бонус лаяльнасці ад Манастыра Веры."/>
 	<entry name="SistersOfBattle/SanctifiedWorldFlavor" value="Most Orders spread the illumination of the God-Emperor to worlds far beyond their primary sanctuaries, establishing far-flung missions and subsidiary chapels to extend the influence of their Order and the Ecclesiarchy."/>
 	<entry name="SistersOfBattle/SimulacrumImperialis" value="<string name='Traits/SistersOfBattle/SimulacrumImperialis'/>"/>
 	<entry name="SistersOfBattle/SimulacrumImperialisDescription" value="<string name='Traits/SistersOfBattle/SimulacrumImperialisDescription'/>"/>
@@ -1549,14 +1549,14 @@
 	<entry name="SistersOfBattle/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="SistersOfBattle/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
 	<entry name="SistersOfBattle/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
-	<entry name="SistersOfBattle/UniversalCatechism" value="Universal Catechism"/>
-	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Grants Shield Of Faith to Lightning Fighters, Avengers Strike Fighters and Cerastus Knight-Lancers."/>
+	<entry name="SistersOfBattle/UniversalCatechism" value="Універсальны Катэхізіс"/>
+	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Дае Шчыт Веры Маланкавым Знішчальнікам, Ударным Знішчальнікам Помснік і Рыцарам-Капійнікам Цэрастус."/>
 	<entry name="SistersOfBattle/UniversalCatechismFlavor" value="Imperial troops requisitioned for the Wars of Faith often end up praying side-by-side with the sisters of the Adepta Sororitas before each battle, finding guidance in their convictions."/>
 	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Actions/SistersOfBattle/VengefulSpirit'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritDescription" value="<string name='Actions/SistersOfBattle/VengefulSpiritDescription'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="<string name='Actions/SistersOfBattle/VengefulSpiritFlavor'/>"/>
-	<entry name="SistersOfBattle/VowOfTheMilitantOrder" value="Vow Of The Militant Order"/>
-	<entry name="SistersOfBattle/VowOfTheMilitantOrderDescription" value="Units keep their Shield Of Faith if they are broken."/>
+	<entry name="SistersOfBattle/VowOfTheMilitantOrder" value="Зарок Ваяўнічага Ордэна"/>
+	<entry name="SistersOfBattle/VowOfTheMilitantOrderDescription" value="Адзінкі захавоўваюць свой Шчыт Веры падчас зламанасьці."/>
 	<entry name="SistersOfBattle/VowOfTheMilitantOrderFlavor" value="<string name='Traits/SistersOfBattle/ShieldOfFaithFlavor'/>"/>
 	<entry name="SistersOfBattle/WarmachinesWrath" value="<string name='Actions/SistersOfBattle/WarmachinesWrath'/>"/>
 	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="<string name='Actions/SistersOfBattle/WarmachinesWrathDescription'/>"/>

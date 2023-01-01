@@ -159,7 +159,7 @@
 	<entry name="AdeptusMechanicus/EntropicDestabilisationDescription" value="Дае зніжэнне шкоды."/>
 	<entry name="AdeptusMechanicus/EntropicDestabilisationFlavor" value="You are invigorated by the Omnissiah’s blessing! Nothing can stand in your way (is this a dream? Did you see the Omnissiah?!)"/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonus" value="Скрыпторум Ардынатус"/>
-	<entry name="AdeptusMechanicus/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
+	<entry name="AdeptusMechanicus/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць цяжкай зброі."/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonusFlavor" value="The Ordinati are unique titan-sized devices, each built for a unique purpose and closely guarded. Your researches have unearthed approved teachings taken from the creation of Ordinatus Oberon, a track-mounted starship cannon employed during the Wars for Armageddon."/>
 	<entry name="AdeptusMechanicus/IconsOfTheOmnissiah" value="Абразы Амнісіі"/>
 	<entry name="AdeptusMechanicus/IconsOfTheOmnissiahDescription" value=" Павялічвае вытворчасць лаяльнасці за кожны будынак на суседняй плітцы."/>
@@ -609,7 +609,7 @@
 	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
 	<entry name="DogmaAstratesFlavor" value="<string name='Actions/DogmaAstratesFlavor'/>"/>
 	<entry name="DozerBlade" value="Коўш бульдозера"/>
-	<entry name="DozerBladeDescription" value="Зніжае штраф руху ў лясах і імперскіх руінах."/>
+	<entry name="DozerBladeDescription" value="Зніжае штраф руху па лясах і імперскіх руінах."/>
 	<entry name="DozerBladeFlavor" value="Dozer blades are heavy ploughs, blades, rams, or scoops, used to clear obstacles from the vehicle's path."/>
 	<entry name="EavyArmour" value="Цяжкая браня"/>
 	<entry name="EavyArmourDescription" value="Павялічвае браню."/>
@@ -673,7 +673,7 @@
 	<entry name="Eldar/ForceshieldDescription" value="Павялічвае зніжэнне шкоды."/>
 	<entry name="Eldar/ForceshieldFlavor" value="These powerful shield projectors can deflect almost any blow."/>
 	<entry name="Eldar/HeavyWeaponBonus" value="Рухавік Ваўла"/>
-	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць."/>
+	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасць цяжкай зброі."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="Whilst humanity’s plasma weaponry is often fatal to its users, the elegant Aeldari equivalents harbour no such threats. And now a chance discovery on Gladius Prime’s surface has allowed the Bonesingers and Exarchs to further improve their focus."/>
 	<entry name="Eldar/HoloFields" value="Галапалі"/>
 	<entry name="Eldar/HoloFieldsDescription" value="Павялічвае зніжэнне шкоды, калі адзінка перасунулася ў гэты крок."/>
@@ -1357,7 +1357,7 @@
 	<entry name="SistersOfBattle/EternalCrusade" value="Бясконцы Крыжовы Паход"/>
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“And we shall not rest, for the God-Emperor’s eye is on us. He sees every soul saved and knows that the number imperilled far outweighs it. We cannot stop, we cannot slow—ours is an eternal crusade.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
-	<entry name="SistersOfBattle/ExpertFighters" value="Дасведчаныя Змагаркі"/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Знішчальнікі-Асы"/>
 	<entry name="SistersOfBattle/ExpertFightersDescription" value="Павялічвае трапнасць."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="In most strike wings a handful of aircrafts are flown by veteran pilotes. These fighter aces are truly dangerous foes, able to predict the reaction of their prey with uncanny precision. Few of them survive beyond one or two campaigns as they draw the most dangerous missions where only the most experienced prevail."/>
 	<entry name="SistersOfBattle/FlankSpeed" value="Флангавая Хуткасць"/>
