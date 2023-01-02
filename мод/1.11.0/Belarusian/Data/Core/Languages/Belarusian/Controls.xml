@@ -58,10 +58,10 @@
 	<entry name="Backspace" value="Backspace"/>
 	<entry name="Insert" value="Insert"/>
 	<entry name="Delete" value="Delete"/>
-	<entry name="ArrowRight" value="Стрэлка направа"/>
-	<entry name="ArrowLeft" value="Стрэлка налева"/>
-	<entry name="ArrowDown" value="Стрэлка ўніз"/>
-	<entry name="ArrowUp" value="Стрэлка ўверх"/>
+	<entry name="ArrowRight" value="Стрэлка Направа"/>
+	<entry name="ArrowLeft" value="Стрэлка Налева"/>
+	<entry name="ArrowDown" value="Стрэлка Ўніз"/>
+	<entry name="ArrowUp" value="Стрэлка Ўверх"/>
 	<entry name="PageUp" value="Page Up"/>
 	<entry name="PageDown" value="Page Down"/>
 	<entry name="Home" value="Home"/>
@@ -129,9 +129,9 @@
 	<entry name="Super" value="Super"/>
 	
 	<!-- Mouse buttons. -->
-	<entry name="MouseLeft" value="Левая кнопка мышкі"/>
-	<entry name="MouseRight" value="Правая кнопка мышкі"/>
-	<entry name="MouseMiddle" value="Сярэдняя кнопка мышкі"/>
+	<entry name="MouseLeft" value="Левая Кнопка Мышкі"/>
+	<entry name="MouseRight" value="Правая Кнопка Мышкі"/>
+	<entry name="MouseMiddle" value="Сярэдняя Кнопка Мышкі"/>
 	<entry name="Mouse1" value="Мыш 1"/>
 	<entry name="Mouse2" value="Мыш 2"/>
 	<entry name="Mouse3" value="Мыш 3"/>
