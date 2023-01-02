@@ -32,33 +32,33 @@
 	<entry name="FoundCityDescription" value="Пабудаваць новы горад (%1%/1)."/>
 	<entry name="FoundCityNearEntranceDescription" value="Пабудаваць новы горад у радыусе 3 плітак ад нядаўна выяўленага ўваходу (%1%/1)."/>
 	<entry name="FoundCityOnNecronTombDescription" value="Пабудаваць новы горад на адзначанай плітцы (%1%/1)."/>
-	<entry name="GenerateResearchFromExperienceDescription" value="Забіць варожую адзінку ў радыусе 3 клетак ад малантропа (%1%/%2%)"/>
+	<entry name="GenerateResearchFromExperienceDescription" value="Забіць варожую адзінку ў радыусе 3 клетак ад Малантропа (%1%/%2%)"/>
 	<entry name="InfiltrateCampWithUnitTypeDescription" value="Перасуньце %1% на плітку суседнюю да варожай крэпасці (%2%/%3%)."/>
 	<entry name="InvokeCultistSacrificeDescription" value="Выкарыстаць %1% з культыстамі хаосу (%2%/%3%)."/>
-	<entry name="InvokeRapidRiseOnWarriorDescription" value="Выкарыстаць хуткі ўздым пры вытворчасці ваяроў-некронаў (%1%/1)."/>
+	<entry name="InvokeRapidRiseOnWarriorDescription" value="Выкарыстаць хуткі ўздым пры вытворчасці Ваяроў-Некронаў (%1%/1)."/>
 	<entry name="InvokeRiteDescription" value="Выкарыстаць %1% у горадзе (%2%/%3%)."/>
 	<entry name="KeepUnitAliveDescription" value="Захоўваць %1% жывым (%2%/1)."/>
 	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
 	<entry name="KillCampDescription" value="Знішчыць варожы стан (%1%/1)."/>
-	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Знішчыце дэмана-прынца, які выконвае рытуал за %2% крокаў (%1%/1)."/>
+	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Знішчыце Дэмана-Прынца, які выконвае рытуал за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithDeceiverDescription" value="Знайдзіце і знішчыце Ашуканца (%1%/1)."/>
-	<entry name="KillCampWithFortressOfRedemptionDescription" value="Знішчыце мяцежную крэпасць адкуплення (%1%/1)."/>
-	<entry name="KillCampWithOrksDescription" value="Знішчыце лагер оркаў (%1%/1)."/>
-	<entry name="KillCampWithKastelansDescription" value="Знішчыце або захапіце лагер кастэланаў (%1%/1)."/>
-	<entry name="KillCampWithRebelNecronArmyDescription" value="Знішчыце мяцежнае войска некронаў (%1%/1)."/>
-	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Знішчыце мяцежнага тэхнажраца і яго кантынгент элітных робатаў за %2% крокаў (%1%/1)."/>
+	<entry name="KillCampWithFortressOfRedemptionDescription" value="Знішчыце мяцежную Крэпасць Адкуплення (%1%/1)."/>
+	<entry name="KillCampWithOrksDescription" value="Знішчыце лагер Оркаў (%1%/1)."/>
+	<entry name="KillCampWithKastelansDescription" value="Знішчыце або захапіце лагер Кастэланаў (%1%/1)."/>
+	<entry name="KillCampWithRebelNecronArmyDescription" value="Знішчыце мяцежнае войска Некронаў (%1%/1)."/>
+	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Знішчыце мяцежнага Тэхнажраца і яго кантынгент элітных робатаў за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithTurnLimitDescription" value="Знішчыць варожы стан за %2% крокаў (%1%/1)."/>
-	<entry name="KillCampWithTyranidsDescription" value="Знішчыце вулей тыранідаў (%1%/1)."/>
+	<entry name="KillCampWithTyranidsDescription" value="Знішчыце вулей Тыранідаў (%1%/1)."/>
 	<entry name="KillCampWithWebwayGateDescription" value="Перамажыце сілы Аэльдары, што бароняць <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Знішчыць %1% за %4% крокаў (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Пачакайце пакуль %1% вернецца ў гэты свет (0/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Знішчыце разрозненыя адзінкі (%1%/%2%)."/>
-	<entry name="KillUmbraDescription" value="Знішчыце умбру (%1%/1)."/>
+	<entry name="KillUmbraDescription" value="Знішчыце Умбру (%1%/1)."/>
 	<entry name="KillUnitDescription" value="Знішчыце %1% (%2%/%3%)."/>
-	<entry name="KillUnitNativeDescription" value="Знішчыце мясцовых ксенасаў (%1%/%2%)."/>
+	<entry name="KillUnitNativeDescription" value="Знішчыце мясцовых Ксенасаў (%1%/%2%)."/>
 	<entry name="KillUnitWithTokenDescription" value="Знішчыце %1% (%2%/1)."/>
 	<entry name="MoveUnitIntoCityDescription" value="Перасуньце %1% у гарадскую штабкватэру (%2%/1)."/>
-	<entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Генеруйце %1% лаяльнасць ад утопіі за крок (у гэты момант %2%) (%3%/1)."/>
+	<entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Генеруйце %1% лаяльнасць ад Утопіі за крок (у гэты момант %2%) (%3%/1)."/>
 	<entry name="ProduceUnitDescription" value="Стварыце адзінку (%2%/%3%)."/>
 	<entry name="ProduceUnitOfTypeDescription" value="Стварыце %1% (%2%/%3%)."/>
 	<entry name="ProduceUnitWithTraitDescription" value="Стварыце адзінку з %1% асаблівасцю (%2%/%3%)."/>

@@ -7,13 +7,13 @@ Controls.xml ++
 Credits.xml ++
 Factions.xml ++
 Features.xml ++
-GUI.xml 
-Items.xml 
-Messages.xml 
-Notifications.xml 
-Objectives.xml 
-Overlay.xml 
-Regions.xml 
+GUI.xml ++
+Items.xml ++
+Messages.xml ++
+Notifications.xml ++
+Objectives.xml ++
+Overlay.xml ++
+Regions.xml ++
 Settings.xml 
 Tips.xml 
 Titles.xml 
@@ -22,3 +22,8 @@ Units.xml
 Upgrades.xml 
 Weapons.xml 
 WorldParameters.xml 
+
+
+<entry name="DamageDealt" value="Нанесеная Шкода"/>
+<entry name="DamageTaken" value="Атрыманая Шкода"/>
+Objectives = мэты ???

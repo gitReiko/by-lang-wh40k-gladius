@@ -2,8 +2,8 @@
 <language>
 	<!-- %1% = subject, %2% = object -->
 	<entry name="CityGrownSummary" value="Насельніцтва %1% дасягнула %2%."/>
-	<entry name="FactionDefeated" value="Фракцыя пераможана"/>
-	<entry name="FactionDiscovered" value="Знойдзена фракцыя"/>
+	<entry name="FactionDefeated" value="Фракцыя Пераможана"/>
+	<entry name="FactionDiscovered" value="Знойдзена Фракцыя"/>
 	<entry name="FactionDiscoveredSummary" value="%1% знойдзена."/>
 	<entry name="FeatureExploredSummary" value="%1% забяспечвае %2%."/>
 	<entry name="FeatureTypeDiscoveredSummary" value="%1% знойдзена."/>
@@ -18,11 +18,11 @@
 	<entry name="PlayerWonQuest" value="<string name='Notifications/PlayerWon'/>"/>
 	<entry name="PlayerWonQuestSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
 	<entry name="ProductionCompletedSummary" value="%1% вырабіў %2%."/>
-	<entry name="QuestAdded" value="Квэст дададзены"/>
-	<entry name="QuestCompleted" value="Квэст завершаны"/>
-	<entry name="QuestUpdated" value="Квэст абноўлены"/>
+	<entry name="QuestAdded" value="Квэст Даданы"/>
+	<entry name="QuestCompleted" value="Квэст Завершаны"/>
+	<entry name="QuestUpdated" value="Квэст Абноўлены"/>
 	<entry name="RegionDiscoveredSummary" value="%1% знойдзены."/>
-	<entry name="ResearchCompleted" value="Даследаванне завершана"/>
+	<entry name="ResearchCompleted" value="Даследаванне Завершана"/>
 	<entry name="TileAcquiredSummary" value="%1% набыта плітка."/>
 	<entry name="TileCapturedSummary" value="%1% захоплена %2%."/>
 	<entry name="TileClearedSummary" value="%1% ачышчана %2%."/>
