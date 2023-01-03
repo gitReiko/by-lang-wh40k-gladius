@@ -240,7 +240,7 @@
 	<entry name="SkipCityHint" value="Прапусціць гэты горад [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]:  абраць наступны нядзейсны горад.<br/>[<control name='Controls/SelectPrevious'/>]: абраць папярэдні нядзейсны горад."/>
 	<entry name="SkipUnit" value="Прапусціць Адзінку (1/%1%)"/>
 	<entry name="SkipUnitHint" value="Прапусціць гэтую адзінку [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]: абраць наступную нядзейсную адзінку.<br/>[<control name='Controls/SelectPrevious'/>]: абраць папярэднюю нядзейсную адзінку."/>
-	<entry name="Social" value="Сацыяльнае"/>
+	<entry name="Social" value="Сацсеткі"/>
 	<entry name="Spectating" value="Назіранне"/>
 	<entry name="Start" value="Пачаць"/>
 	<entry name="Stats" value="Статыстыка"/>
@@ -281,7 +281,7 @@
 	<entry name="Upgrades" value="Паляпшэнні"/>
 	<entry name="Upkeep" value="Забеспячэнне"/>
 	<entry name="UploadModHint" value="Загрузіць мод."/>
-	<entry name="UserData" value="Даныя Карыстача"/>
+	<entry name="UserData" value="Даныя Карыстальніка"/>
 	<entry name="VS" value="супраць"/>
 	<entry name="Version" value="Версія"/>
 	<entry name="VersionRevisionsDiffer" value="Версіі адрозніваюцца (лакальная = %1%, сервер = %2%)."/>
