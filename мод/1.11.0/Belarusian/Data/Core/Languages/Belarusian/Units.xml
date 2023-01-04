@@ -129,7 +129,7 @@
 	<entry name="ChaosSpaceMarines/ChaosCultist" value="Культыст Хаосу"/>
 	<entry name="ChaosSpaceMarines/ChaosCultistDescription" value="Масавая пяхота, якая можа засноўваць гарады, ачышчаць пліткі і прыносіць сябе ў ахвяру Цёмным Багам."/>
 	<entry name="ChaosSpaceMarines/ChaosCultistFlavor" value="The cultists of Chaos can be found, in one form or another, almost anywhere the Imperium has spread. At first glance, they are indistinguishable from normal men, but under their clothes, their flesh is tattooed and branded with sigils that hurt the eyes of any faithful who look upon them. When the Chaos Space Marines come to a planet, the true colours of the cultists are revealed. The powers of darkness are ever quick to promise glory, and even the lowliest initiate knows that to fight alongside such legendary warriors is to court the gaze of the gods."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider" value="Лэндрэйдэр Хаосу"/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider" value="Зямны Рэйдэр Хаосу"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaiderDescription" value="Цяжкабраняваны і добра ўзброены транспарт."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaiderFlavor" value="The Chaos Land Raider is the heaviest ground vehicle in a Chaos Space Marine army. Its adamantine and ceramite plates can withstand all but the deadliest anti-tank weaponry, and the blessings of the Warpsmiths keep it at peak efficiency. The twin lascannons mounted in each sponson make short work of other vehicles that would dare to attempt to stop its rampage."/>
 	<entry name="ChaosSpaceMarines/ChaosLord" value="Лорд Хаосу"/>
@@ -150,7 +150,7 @@
 	<entry name="ChaosSpaceMarines/DarkDisciple" value="Вучні Цемры"/>
 	<entry name="ChaosSpaceMarines/DarkDiscipleDescription" value="Пяхотны адзінка, якая павялічвае абарону адзінак хаосу."/>
 	<entry name="ChaosSpaceMarines/DarkDiscipleFlavor" value="Dark Disciples carry profane accoutrements of their masters’ worship and parrot the fell words spoken in his baleful prayers. Many such disciples have been augmented to better serve in their role–their skin stretched out and inked with grim litanies, or their mouths fitted with Daemon-touched vox-grilles to project their voices into the warp. Amidst the din of combat they join their Dark Apostle’s chants, crying out for the Chaos Gods to manifest their blessings."/>
-	<entry name="ChaosSpaceMarines/Defiler" value="Апаганшчык"/>
+	<entry name="ChaosSpaceMarines/Defiler" value="Апаганьнік"/>
 	<entry name="ChaosSpaceMarines/DefilerDescription" value="Велізарны крокаход з разбуральнай зброяй блізкага і далёкага боя."/>
 	<entry name="ChaosSpaceMarines/DefilerFlavor" value="Defilers are truly massive beasts of war, twice the size of most other Daemon Engines and with a temperament to match. The ground shivers and melts as they stalk towards their foes on six massive, segmented legs, their great pincer-arms twitching and snipping with an impatient need to slice through warm flesh. The Defiler's crab-like body supports a daemonic torso that carries an array of deadly weaponry, ranging from reaper autocannons to racks of highly explosive missiles. It is the battle cannon mounted in its chest turret, however, that is undoubtedly its most potent armament. Each hell-forged shell that thunders out from its growling muzzle is capable of crippling a squad of Space Marines in a single earth-shaking blast."/>
 	<entry name="ChaosSpaceMarines/Havoc" value="Апусташальнікі"/>
@@ -290,7 +290,7 @@
 	<entry name="Necrons/GaussPylonDescription" value="Магутная абарончая турэль, якая бароніць хаўрусныя адзінкі Некронаў."/>
 	<entry name="Necrons/GaussPylonFlavor" value="The mysterious Necron defence turrets, designated as 'Pylons' by those who originally encountered them, were first recorded on the uncharted world of WDY-272. Rising suddenly from the desert sands, the Gauss Pylons opened fire without warning and with devastating effect, tanks and armoured carriers burning as the crescent-shaped weapons tore through the unsuspecting Imperial Guard column whilst resisting all return fire."/>
 	<entry name="Necrons/GhostArk" value="Прывідны Каўчэг"/>
-	<entry name="Necrons/GhostArkDescription" value="Транспартная тэхніка са здольнасцямі лекавання."/>
+	<entry name="Necrons/GhostArkDescription" value="Транспартная машына са здольнасцямі лекавання."/>
 	<entry name="Necrons/GhostArkFlavor" value="Ghost Arks are tasked with trawling for remnants of Necrons unable to self-repair. Recovered components are set upon by swarms of constructor scarabs that return the fallen Necrons to full function. Repaired warriors are then locked in stasis until the Ghost Ark is at capacity, at which point it will either return its cargo to their tomb world or else deploy them directly into battle. Ghost Arks are often used as conventional transports that ferry reinforcements into battle – however, they truly come into their own once their grim cargo has disembarked. Drifting behind the ranks of Necrons, the Arks flicker with emerald energies as they repair one fallen foot soldier after another. The enemy can only watch with dawning horror as their best efforts to slay the Necrons are undone."/>
 	<entry name="Necrons/Headquarters" value="<string name='Buildings/Necrons/Headquarters'/>"/>
 	<entry name="Necrons/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
@@ -422,7 +422,7 @@
 	<entry name="Orks/DakkajetDescription" value="Хуткая лёгкабраняваная авіяцыя эфектыўная супраць наземных цэляў."/>
 	<entry name="Orks/DakkajetFlavor" value="Streaking into battle through war-scorched skies, a Dakkajet's massive thruster leaves an oily contrail of black smoke in its wake even as its guns spit streams of bullets at the foe. Though not as nimble as the aircraft of some other races, Dakkajets are capable of an incredible turn of speed that makes them a fearsome enemy to face in aerial combat. It also helps that Orks fly like complete headcases."/>
 	<entry name="Orks/Deffkopta" value="Шмертавёрт"/>
-	<entry name="Orks/DeffkoptaDescription" value="Універсальны застрэльшчык здольны пераадольваць перашкоды."/>
+	<entry name="Orks/DeffkoptaDescription" value="Універсальны застрэльнік, які здольны пераадольваць перашкоды."/>
 	<entry name="Orks/DeffkoptaFlavor" value="Deffkoptas buzz across the battlefield, weaving through the sky on a trail of foul-smelling smoke. As they swoop low over the heads of the enemy, the fiendish Ork flying machines fire punishing salvoes of shot, rokkits and bomms into their midst. Leaving flames and blood-splattered craters in their wake, the Deffkoptas jink erratically away, already hunting for their next victims."/>
 	<entry name="Orks/FlashGitz" value="Хвальканігодні"/>
 	<entry name="Orks/FlashGitzDescription" value="Універсальная пяхота далёкага бою."/>
@@ -563,7 +563,7 @@
 	<entry name="SpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
 	<entry name="SpaceMarines/HeadquartersFlavor" value="<string name='Buildings/SpaceMarines/HeadquartersFlavor'/>"/>
 	<entry name="SpaceMarines/Hunter" value="Паляўнічы"/>
-	<entry name="SpaceMarines/HunterDescription" value="Танк, які спецыялізуецца на знішчэнні авіяцыі і луналай тэхнікі."/>
+	<entry name="SpaceMarines/HunterDescription" value="Танк, які спецыялізуецца на знішчэнні авіяцыі і луналых машын."/>
 	<entry name="SpaceMarines/HunterFlavor" value="From out of its massive turreted warhead chamber, the Hunter sends skyspear missiles thundering into the heavens. Emitting a piercing scream as it tears across the firmament, each of these sacred rounds seeks out the skyborne foes of the Emperor. Entombed in the heart of each missile, a servitor savant guides the ordnance to its foe. Even if the missile flies wide of its mark, the hard-wired savant will set it back on course."/>
 	<entry name="SpaceMarines/LandRaider" value="Зямны Рэйдар"/>
 	<entry name="SpaceMarines/LandRaiderDescription" value="Велізарная браняваная і добра ўзброеная транспартавая адзінка."/>
@@ -599,7 +599,7 @@
 	<entry name="SpaceMarines/TerminatorDescription" value="Цяжкабраняваная пяхота, якая можа перамагчы практычна ўсякага наземнага суперніка."/>
 	<entry name="SpaceMarines/TerminatorFlavor" value="Near invincible and utterly indomitable, Terminators undertake those missions that even their power-armoured brethren cannot. Whether it be an unsupported strike into the heart of an enemy fortress, or hunting super-heavy war engines on foot, these heroic 1st Company Veterans are equal to the task."/>
 	<entry name="SpaceMarines/ThunderfireCannon" value="Гармата Громавы Агонь"/>
-	<entry name="SpaceMarines/ThunderfireCannonDescription" value="Пяхота, якая можа забяспечыць падтрымку агнём на далёкай дыстанцыі, чысціць пліткі і рамантаваць тэхніку."/>
+	<entry name="SpaceMarines/ThunderfireCannonDescription" value="Пяхота, якая можа забяспечыць падтрымку агнём на далёкай дыстанцыі, чысціць пліткі і рамантаваць машыны."/>
 	<entry name="SpaceMarines/ThunderfireCannonFlavor" value="These colossal, quad-barrelled artillery guns are designed to excel in a static defence role. Each is capable of firing and reloading at a punishing rate, unleashing salvo after salvo of high explosive shells, pounding the enemy into oblivion. Only the brave or the foolish dare advance in the face of such overwhelming and obliterating firepower."/>
 	<entry name="SpaceMarines/Vindicator" value="Ачышчальнік"/>
 	<entry name="SpaceMarines/VindicatorDescription" value="Цяжкі танк з разбуральнай гарматай блізкага бою."/>

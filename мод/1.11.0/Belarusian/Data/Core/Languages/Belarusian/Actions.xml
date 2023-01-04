@@ -90,7 +90,7 @@
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Наносіць шкоду абранай варожай адзінцы. Атакі і кошт залежаць ад колькасці закранутых адзінак Спеваў Амнісіі (да 10)."/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Summoning the spark of the Machine God’s divinity that burns within them, the Omnissiah’s faithful manifest blazing auras of energy that lay low the unbeliever."/>
 	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Лорд Культу Машынаў"/> <!-- Tech-Priest Dominus ability -->
-	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Павялічвае трапнасць суседняй тэхнікі Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Павялічвае трапнасць суседніх машын Адэптус Механікус."/>
 	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“You may say, it is impossible for a man to become like the Machine. And I would reply, that only the smallest mind strives to comprehend its limits.”<br/>—Fabricator General Kane"/>
 	<entry name="AdeptusMechanicus/MasterOfMachines" value="Майстар Машынаў"/>
 	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі Адэптус Механікус."/>
@@ -191,7 +191,7 @@
 	<entry name="AwakenTheMachineDescription" value="Павялічвае трапнасць у далёкім баі для хаўруснай машыны ці фартыфікацыі."/>
 	<entry name="AwakenTheMachineFlavor" value="“With push of Button fire the Engine<br/>And spark Turbine into life…<br/>Toll the Great Bell Thrice!<br/>Sing Praise to the<br/>God of All Machines”<br/>  — Catechism of the Autoculus of Mars"/>
 	<entry name="BlessingsOfTheOmnissiah" value="Багаславенні Амнісіі"/>
-	<entry name="BlessingsOfTheOmnissiahDescription" value="Аднаўляе здароўе абранай хаўруснай тэхніцы або фартыфікацыі."/>
+	<entry name="BlessingsOfTheOmnissiahDescription" value="Аднаўляе здароўе абраных хаўрусных машын або фартыфікацыі."/>
 	<entry name="BlessingsOfTheOmnissiahFlavor" value="“Thus do we invoke the Machine God.<br/>Thus do we make whole that which was sundered.”<br/>  — Hymn of reforging"/>
 	<entry name="BolsterDefences" value="Узмацніць Абарону"/>
 	<entry name="BolsterDefencesDescription" value="Павялічвае зніжэнне шкоды ад далёкага бою на абранай плітцы."/>
@@ -265,7 +265,7 @@
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="Пазнака Хаосу павялічвае непаражальнае зніжэнне шкоды хаўруснай пяхоты Хаосу."/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="Those dedicated to Tzeentch enjoy the protection and prescience of the Master of Manipulation."/>
 	<entry name="ChaosSpaceMarines/MasterOfMechanisms" value="Майстар Механізмаў"/>
-	<entry name="ChaosSpaceMarines/MasterOfMechanismsDescription" value="Аднаўляе здароўе абранай хаўруснай тэхнікі або фартыфікацыі."/>
+	<entry name="ChaosSpaceMarines/MasterOfMechanismsDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
 	<entry name="ChaosSpaceMarines/MasterOfMechanismsFlavor" value="Despite their array of weaponry, only a Khornate fool would put a Warpsmith directly into battle, when he or she could be better placed repairing and rebinding their Daemon Engine charges."/> <!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/Mechatendrils" value="Мехатэндрылы"/>
 	<entry name="ChaosSpaceMarines/MechatendrilsFlavor" value="Reminiscent of the servo-harness worn by the Techmarines of the Adeptus Astrates, these writhing tentacles are worn by—or even implanted into—Chaos Warpsmiths."/> <!-- Warpsmith levelable ability. -->
@@ -468,7 +468,7 @@
 	<entry name="GateOfInfinityDescription" value="Тэлепартуецца да абранай даследаванай пліткі."/>
 	<entry name="GateOfInfinityFlavor" value="The psyker punches a corridor through the roiling Immaterium, allowing him to cross great distances in the blink of an eye."/>
 	<entry name="GrabbinKlaw" value="Клюшня Хапала"/>
-	<entry name="GrabbinKlawDescription" value="Знерухомлівае абраную варожую наземную тэхніку."/>
+	<entry name="GrabbinKlawDescription" value="Знерухомлівае абраную варожую наземную машыну."/>
 	<entry name="GrabbinKlawFlavor" value="In their pursuit of ever-larger Power Klaws, Ork Meks occasionally make ones that are simply too large for even the most over-sized Boss or Deff Dread. These are mounted on vehicles, where they are used to immobilise enemy vehicles or perform outrageous handbrake turns."/>
 	<entry name="GunnersKillOnSight" value="“Стралкі, Забівайце Ўсё, што Бачыце!”"/>
 	<entry name="GunnersKillOnSightDescription" value="Павялічвае атаку ў далёкім баі Камандзіра Танка і суседніх хаўрусных танкаў."/>
@@ -505,13 +505,13 @@
 	<entry name="LevitateDescription" value="Ляціць праз перашкоды да абранай пліткі."/>
 	<entry name="LevitateFlavor" value="The psyker uses his telekinetic powers to launch himself skywards, leaping across the battlefield in a single bound."/>
 	<entry name="MachineEmpathy" value="Выкарыстаць Эмпатыю Машын"/>
-	<entry name="MachineEmpathyDescription" value="Тактыка Ордэна, якая аднаўляе здароўе тэхнікі і фартыфікацый."/>
+	<entry name="MachineEmpathyDescription" value="Тактыка Ордэна, якая аднаўляе здароўе машынаў і фартыфікацыяў."/>
 	<entry name="MachineEmpathyFlavor" value="“Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of obedience which overcomes all obstacles, and armed with the three great guns of Zeal, Duty and Purity.”<br/>  — Traditional Imperial prayer, source unknown"/>
 	<entry name="MediPack" value="Аптэчка"/>
 	<entry name="MediPackDescription" value="Аднаўляе здароўе."/>
 	<entry name="MediPackFlavor" value="Medi-packs contain all the necessary drugs, dressings and surgical tools to get a wounded Imperial Guardsman back in the fight, or save the lives of vital personnel."/>
 	<entry name="MeksTools" value="Штукі Мека"/>
-	<entry name="MeksToolsDescription" value="Аднаўляе здароўе абранай хаўруснай тэхнікі або фартыфікацыі."/>
+	<entry name="MeksToolsDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
 	<entry name="MeksToolsFlavor" value="“Yer arm? I don't care about yer arm! Me trukk's zogging ruined! Did no wun tell you to stay away from Laskannons? 'Ere, Grot. Pass me the wotsit, the thingummy, and the whacker. And the red paint, o' course. She'll be all shiny-new in no time.”<br/>  — Skinwab, Evil Sunz Mek."/>
 	<entry name="MindControl" value="Кантроль над Розумам"/>
 	<entry name="MindControlDescription" value="Зніжае мараль суседніх варожых адзінак кожны крок."/>
@@ -541,7 +541,7 @@
 	<entry name="Necrons/DynastyDescription" value="Павялічвае ліміт насельніцтва гарадоў."/>
 	<entry name="Necrons/DynastyFlavor" value="It’s a truism that the greatest leaders attract the largest numbers of followers—or in the case of the Necrons, the greatest leaders have wider security permissions over their Canoptek maintenance units, enabling a higher population density in a given location."/>
 	<entry name="Necrons/FabricatorClawArray" value="Клюшні Фабрыкатара"/>
-	<entry name="Necrons/FabricatorClawArrayDescription" value="Аднаўляе здароўе абранай хаўруснай тэхнікі або фартыфікацыі."/>
+	<entry name="Necrons/FabricatorClawArrayDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
 	<entry name="Necrons/FabricatorClawArrayFlavor" value="This clicking, whirring proliferation of energy tools is primarily intended for maintenance and repair."/>
 	<entry name="Necrons/GloomPrism" value="Змрочная Прызма"/>
 	<entry name="Necrons/GloomPrismDescription" value="Павялічвае зніжэнне шкоды ад вядзьмарскага агню для каноптэкавых павукоў і суседніх хаўрусных адзінак."/>
@@ -595,7 +595,7 @@
 	<entry name="Necrons/WrithingWorldscape" value="Звівісты Міраж"/>
 	<entry name="Necrons/WrithingWorldscapeDescription" value="Змяншае рух суседніх варожых адзінак."/>
 	<entry name="ObjurationMechanicum" value="Адрачэнне Механікум"/>
-	<entry name="ObjurationMechanicumDescription" value="Кляне зброю далёкага бою абранай варожай адзінкі. Таксама наносіць шкоду, калі цэллю з'яўляецца тэхніка або фартыфікацыя."/>
+	<entry name="ObjurationMechanicumDescription" value="Кляне зброю далёкага бою абранай варожай адзінкі. Таксама наносіць шкоду, калі цэллю з'яўляецца машына або фартыфікацыя."/>
 	<entry name="ObjurationMechanicumFlavor" value="Weapons jam and engines seize up as the telekine uses his powers to wrench and twist the inner workings at the hearts of nearby machines."/>
 	<entry name="OrationOfRestoration" value="Прамова Аднаўлення"/>
 	<entry name="OrationOfRestorationDescription" value="Кожны крок аднаўляе здароўе Капелана і суседніх хаўрусных адзінак."/>
@@ -659,7 +659,7 @@
 	<entry name="RazeBuilding" value="Зруйнаваць Будынак"/>
 	<entry name="RazeBuildingDescription" value="Зруйнаваць абраны будынак."/>
 	<entry name="Repair" value="Рамантаваць"/>
-	<entry name="RepairDescription" value="Аднаўляе здароўе абранай хаўруснай тэхнікі, фартыфікацыі або адзінкі Т'аў."/>
+	<entry name="RepairDescription" value="Аднаўляе здароўе абранай хаўруснай машыны, фартыфікацыі або адзінкі Т'аў."/>
 	<entry name="RepairFlavor" value="For the Tyranids, it may be a slick of healing enzymes and symbiotes. For the Orks, a welding torch and WAAAGH! Power. For the T’au, hard advanced science. But every race has some capability for fixing the damage caused by combat and by the hostile world of Gladius Prime."/>
 	<entry name="ReturnToTheShadows" value="Вярнуцца ў Цені"/>
 	<entry name="ReturnToTheShadowsDescription" value="Павялічвае зніжэнне шкоды."/>

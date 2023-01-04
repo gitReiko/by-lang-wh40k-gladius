@@ -298,10 +298,10 @@
 	<entry name="AstraMilitarum/BoltDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="AstraMilitarum/BoltDamageFlavor" value="An Astartes-derived upgrade to the standard bolter, this kit allows a bolter to fire Kraken penetrator rounds, hard-tipped projectiles with a heavier explosive charge. These heavier rounds are much favoured by the Space Marine Deathwatch alien hunters."/>
 	<entry name="AstraMilitarum/CityTier2" value="Пашырэнне Субструктуры"/>
-	<entry name="AstraMilitarum/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="AstraMilitarum/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="AstraMilitarum/CityTier2Flavor" value="One day, this will be a Hive City—a billion people in one structure, towering over a poisoned world—but first, this settlement needs to expand a little, to set the foundations for the galaxies' biggest conurbations."/>
 	<entry name="AstraMilitarum/CityTier3" value="Тунэлі Забеспячэння Субструктуры"/>
-	<entry name="AstraMilitarum/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="AstraMilitarum/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="AstraMilitarum/CityTier3Flavor" value="The Departmento Munitorum might be inefficient, but they can plan and the Techpriest Explorators and Servitors can build. These bunkered tunnels allow the Astra Militarum commander to oversee a much larger city area, without losing defensive control."/>
 	<entry name="AstraMilitarum/ShootSharpAndScarper" value="Імклівы Стрэл і Ўцёкі"/>
 	<entry name="AstraMilitarum/ShootSharpAndScarperDescription" value="Дзеянні не спажываюць руху."/>
@@ -419,10 +419,10 @@
 	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Павялічвае бронепрабівальнасць."/>
 	<entry name="ChaosSpaceMarines/BoltDamageFlavor" value="Bridging the promethium-powered Inferno Bolts of the Imperium and the psychically-powered Inferno Bolts of the Thousand Sons Traitor Legion, Warpborne Bolt skip through the Warp to unleash superheated chemical fire upon their targets."/>
 	<entry name="ChaosSpaceMarines/CityTier2" value="Кліч Цёмных Багоў"/>
-	<entry name="ChaosSpaceMarines/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="ChaosSpaceMarines/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="ChaosSpaceMarines/CityTier2Flavor" value="The people of the Imperium will listen to any lies, believe any tale, which tells them that they’re not doomed. That way, sadly, lies perdition, and the gates of Chaos stand wide open to the lost and the damned—at least, on the way in."/>
 	<entry name="ChaosSpaceMarines/CityTier3" value="Сувязь з Рокам"/>
-	<entry name="ChaosSpaceMarines/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="ChaosSpaceMarines/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="ChaosSpaceMarines/CityTier3Flavor" value="The worshippers of Chaos have shed their pretences. Where before they drew souls to them by their weaknesses or by daemon seduction, now they do it by whips and chains. Packs of slavers and warbands hunt their city’s hinterland for lives to sacrifice. Only the strongest can escape their reach; the weak are grist to the mill for Chaos."/>
 	<entry name="ChaosSpaceMarines/Crazed" value="Звар'яцелы"/>
 	<entry name="ChaosSpaceMarines/CrazedDescription" value="Калі адзінка атрымала пашкоджанні ў папярэднім кроку, яна атрымвае выпадковым чынам адну з наступных асаблівасцяў: агнявую нястрымнасць, узрослы гнеў, крывавую лютасць."/>
@@ -643,10 +643,10 @@
 	<entry name="Eldar/BattleFocusDescription" value="Дзеянні не спажываюць руху."/>
 	<entry name="Eldar/BattleFocusFlavor" value="When the Asuryani don their war masks, they enter a battle trance so focused that they flow across the battlefield like quicksilver, killing their foes without breaking stride."/>
 	<entry name="Eldar/CityTier2" value="Экзадытавая Апора"/>
-	<entry name="Eldar/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Eldar/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Eldar/CityTier2Flavor" value="Despite the millenia they’ve spent drifting the stars, some Rangers of the Craftworld Aeldari have passed time on the Exodite worlds and Maiden worlds, and have learned how to establish life planetside, growing food and constructing their wraithbone buildings in the ancient ways."/>
 	<entry name="Eldar/CityTier3" value="Экзадытавая Інфраструктура"/>
-	<entry name="Eldar/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Eldar/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Eldar/CityTier3Flavor" value="Experienced Exodite construction designs are being employed by the Craftworld’s Bonesingers here. Only having worked on the ancient Craftworlds, the idea of building a city for the first time is something utterly new to their minds."/>
 	<entry name="Eldar/Command" value="<string name='Actions/Eldar/Command'/>"/>
 	<entry name="Eldar/CommandDescription" value="Павялічвае трапнасць."/>
@@ -982,10 +982,10 @@
 	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
 	<entry name="Necrons/BloodyCrusadeDescription" value="Павялічвае шкоду."/>
 	<entry name="Necrons/CityTier2" value="Папярэднія Раскопы"/>
-	<entry name="Necrons/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Necrons/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Necrons/CityTier2Flavor" value="More of the ancient city has been uncovered by the digging slaves, who are now turned to restoring the long-buried buildings."/>
 	<entry name="Necrons/CityTier3" value="Падняты Горад"/>
-	<entry name="Necrons/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Necrons/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Necrons/CityTier3Flavor" value="The entirety of the buried necropolis has now been revealed, resplendent in its mind-bending horror."/>
 	<entry name="Necrons/ConstructionBuildingBonus" value="Узбагачэнне за Кошт Рабоў"/>
 	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Павялічвае вытворчасць гарадоў."/>
@@ -1150,10 +1150,10 @@
 	<entry name="Orks/CityResearchDescription" value="Павялічвае вытворчасць даследаванняў."/>
 	<entry name="Orks/CityResearchFlavor" value="Given that technology is wired into the genes of normal Orks, a smart Warboss will find that dedicating space, manpower and time to locking his Mekz inside a small room full of scrap and ordering them come up with some really good Dakka invariably pays off."/>
 	<entry name="Orks/CityTier2" value="Трушчобаград"/>
-	<entry name="Orks/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Orks/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Orks/CityTier2Flavor" value="Outside each fortress' original walls, a slum town of Gretchin, Squigs, Snotlings and low-tier Orks has sprung up, whilst the insidious green fungus has spread everywhere, remaking this world in the Orks' genetic image."/>
 	<entry name="Orks/CityTier3" value="Халупаград"/>
-	<entry name="Orks/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Orks/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Orks/CityTier3Flavor" value="The Warboss' fame has spread across the entire planet, with the invisible Waaagh! energies paralleling its path. Wherever Orks are freshly-spawned, they feel the irresistible tugging towards the Warboss' cities, which are now sprawled across the nearby landscape in endless slums and shanties."/>
 	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Хуткае разлажэнне"/>
 	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Прыводзіць да з'яўлення оркоідных грыбоў пасля смерці адзінак."/>
@@ -1201,7 +1201,7 @@
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
 	<entry name="Orks/WingMissiles" value="<string name='Weapons/WingMissiles'/>"/>
-	<entry name="Orks/WingMissilesDescription" value="Павялічвае трапнасць супраць тэхнікі."/>
+	<entry name="Orks/WingMissilesDescription" value="Павялічвае трапнасць супраць машынаў."/>
 	<entry name="Outpost" value="Аванпост"/>
 	<entry name="OutpostDescription" value="Павялічвае зніжэнне шкоды і хуткасць лячэння хаўрусных адзінак. Павялічвае зніжэнне шкоды ад далёкага бою для пяхоты."/>
 	<entry name="Outflank" value="Абыход Фланга"/>
@@ -1346,10 +1346,10 @@
 	<entry name="SistersOfBattle/CityGrowthDescription" value="Павялічвае хуткасць узросту гарадоў."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="The Ork invasion and subsequent war on Gladius Prime left many, many orphans. Sending missionaries and preachers into the wastes to recruit for the armies of the Imperium will bolster our city’s growth."/>
 	<entry name="SistersOfBattle/CityTier2" value="Прэцэпторы Анэксес"/>
-	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="Given the numbers of refugees pouring into the Preceptory from the ruined hives and wastelands of Gladius Prime, the Canoness Superior has ordered that we sanctify new land for use, bringing any natives into the fold—willingly or not."/>
 	<entry name="SistersOfBattle/CityTier3" value="Крэпасць-Свяцілішча"/>
-	<entry name="SistersOfBattle/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="SistersOfBattle/CityTier3Flavor" value="The Preceptory is more of a city now, resembling the hive cities that once dotted the planet’s surface. Beneath its bulk lies an undercity, above it tower spires and chantries. Perhaps only the Fortress-Monasteries of the Adeptus Astartes rival it in scale and holy adornment."/>
 	<entry name="SistersOfBattle/DivineDeliverance" value="<string name='Actions/SistersOfBattle/DivineDeliverance'/>"/>
 	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="<string name='Actions/SistersOfBattle/DivineDeliveranceDescription'/>"/>
@@ -1509,7 +1509,7 @@
 	<entry name="SpaceMarines/BolterDisciplineDescription" value="<string name='Traits/ChaosSpaceMarines/MaliciousVolleysDescription'/>"/>
 	<entry name="SpaceMarines/BolterDisciplineFlavor" value="To a Space Marine, the boltgun is more than a weapon—it is an instrument of Mankind’s divinity, the bringer of death to his foes."/>
 	<entry name="SpaceMarines/CityTier2" value="Разбудова Крэпасці"/>
-	<entry name="SpaceMarines/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="SpaceMarines/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="SpaceMarines/CityTier2Flavor" value="The second stage of the Fortress' construction has started. With the core facilities established, the Techmarines are authorised to expand their operations and create a second defensive line."/>
 	<entry name="SpaceMarines/CityTier3" value="Прасунутыя Рэдуты"/>
 	<entry name="SpaceMarines/CityTier3Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
@@ -1567,7 +1567,7 @@
 	<entry name="TankDescription" value="Класіфікацыя."/>
 	<entry name="TankFlavor" value="Tanks can use their mass as a weapon, driving right into and through densely packed enemies. This often throws the opposing battle line into disarray, as having some monstrous metal behemoth coming straight at you is unnerving for anybody."/>
 	<entry name="TankHunters" value="Паляўнічыя за Танкамі"/>
-	<entry name="TankHuntersDescription" value="Павялічвае бронепрабівальнасць супраць тэхнікі ворага."/>
+	<entry name="TankHuntersDescription" value="Павялічвае бронепрабівальнасць супраць машынаў ворага."/>
 	<entry name="TankHuntersFlavor" value="These veterans of armoured warfare are able to identify the weak points of enemy vehicles and target their fire appropriately."/>
 	<entry name="Tau/AdvancedTargetingSystem" value="Прасунутая Сістэма Нацэльвання"/>
 	<entry name="Tau/AdvancedTargetingSystemDescription" value="Павялічвае трапнасць далёкага бою."/>
@@ -1588,10 +1588,10 @@
 	<entry name="Tau/BreakComposureDescription" value="Атакаваныя адзінкі губляюць мараль."/>
 	<entry name="Tau/BreakComposureFlavor" value="<string name='Actions/Tau/BreakComposureFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="Распаўсюджванне"/>
-	<entry name="Tau/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Tau/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Tau/CityTier2Flavor" value="Once a city is a certain size, the Water Caste begin a diplomatic offensive to bring more civilians to the Way—bombarding them with tailored propaganda of every form, from pamphlast drops to vid, rad and loudhailer broadcasts."/>
 	<entry name="Tau/CityTier3" value="Антаразодавы Падмурак"/>
-	<entry name="Tau/CityTier3Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Tau/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Tau/CityTier3Flavor" value="The thick-skinned Anthrazods are a slow-thinking race normally employed by the T'au for dangerous, heavy-duty activities like asteroid mining—but directed by the Demiurg and Earth Caste, they can produce city substructures and transport tunnels like no-one else, linking up distant sectors with ease."/>
 	<entry name="Tau/CounterfireDefenceSystem" value="Сістэма Абароны Супраць Агню"/>
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Павялічвае трапнасць атак назірання."/>
@@ -1781,7 +1781,7 @@
 	<entry name="Tyranids/CityProductionDescription" value="Павялічвае вытворчасць гарадоў."/>
 	<entry name="Tyranids/CityProductionFlavor" value="Waiting for Tyranid newborns to leave their respective mother-buildings is relatively inefficient. Genetors have sighted certain adapted buildings, however, which eject the newborn creature from its birthing sac with an convulsive electric impulse, enabling it to be rapidly re-used."/>
 	<entry name="Tyranids/CityTier2" value="Дысперсія Рыхліцеля"/>
-	<entry name="Tyranids/CityTier2Description" value="Павялічвае радыус набыцця плітак."/>
+	<entry name="Tyranids/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Tyranids/CityTier2Flavor" value="As the hive matures, the Rippers no longer need to swarm together in such huge numbers for safety. Dispersing them, allows the hive mind to co-ordinate their reclamation behaviour over a wider range."/>
 	<entry name="Tyranids/Dominion" value="<string name='Actions/Tyranids/Dominion'/>"/>
 	<entry name="Tyranids/DominionDescription" value="Павялічвае вытворчасць лаяльнасці."/>

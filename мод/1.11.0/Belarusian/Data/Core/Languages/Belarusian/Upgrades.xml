@@ -774,7 +774,7 @@
 
 	<!-- Other -->
 	<entry name="SmokeLauncher" value="Дымавая Пускавая Ўсталёўка"/>
-	<entry name="SmokeLauncherDescription" value="Дадае наземнай тэхніцы магчымасць запускаць дымавую заслону, якая зніжае шкоду ад далёкіх атак."/>
+	<entry name="SmokeLauncherDescription" value="Дае наземным машынам магчымасць запускаць дымавую заслону, якая зніжае шкоду ад далёкіх атак."/>
 	<entry name="SmokeLauncherFlavor" value="Some vehicles have small launchers mounted onto them that carry smoke canisters. These are used to temporarily obscure the vehicle behind billowing clouds of smoke, allowing it to cross open areas in greater safety—although it does so at the cost of being able to fire its own weapons."/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegration" value="<string name='Traits/AdeptusMechanicus/AdjacencyIntegration'/>"/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegrationDescription" value="Павялічвае вытворчасць даследаванняў будынка за кожны будынак на суседняй плітцы."/>
@@ -897,7 +897,7 @@
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дае дадатковыя цяжкія болтары Гібельным Клінкам, Баявым Танкам - Леман Рус і Валькірыям."/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
 	<entry name="AstraMilitarum/AwakenTheMachine" value="<string name='Actions/AwakenTheMachine'/>"/>
-	<entry name="AstraMilitarum/AwakenTheMachineDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасць павялічваць шкоду тэхніцы."/>
+	<entry name="AstraMilitarum/AwakenTheMachineDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасць павялічваць шкоду машынаў."/>
 	<entry name="AstraMilitarum/AwakenTheMachineFlavor" value="<string name='Actions/AwakenTheMachineFlavor'/>"/>
 	<entry name="AstraMilitarum/BanebladeLascannon" value="Лазгарматы Гібельных Клінкоў"/>
 	<entry name="AstraMilitarum/BanebladeLascannonDescription" value="Дадае Гібельным Клінкам дадатковыя лазгарматы."/>
@@ -912,7 +912,7 @@
 	<entry name="AstraMilitarum/BruteShieldDescription" value="Павялічвае шкоду і зніжэнне шкоды Быкрынаў."/>
 	<entry name="AstraMilitarum/BruteShieldFlavor" value="<string name='Traits/BruteShieldFlavor'/>"/>
 	<entry name="AstraMilitarum/CamoNetting" value="<string name='Traits/CamoNetting'/>"/>
-	<entry name="AstraMilitarum/CamoNettingDescription" value="Зніжае шкоду ад далёкіх атак наземнай тэхнікі."/>
+	<entry name="AstraMilitarum/CamoNettingDescription" value="Зніжае шкоду ад далёкіх атак наземных машынаў."/>
 	<entry name="AstraMilitarum/CamoNettingFlavor" value="<string name='Traits/CamoNettingFlavor'/>"/>
 	<entry name="AstraMilitarum/ChaffLauncher" value="Пускавая Ўсталёўка Падманак"/>
 	<entry name="AstraMilitarum/ChaffLauncherDescription" value="Дае Ударам Грому і Бамбавікам Марадзёр здольнасць запускаць падманкі, якія зніжаюць шкоду ад далёкіх атак."/>
@@ -930,7 +930,7 @@
 	<entry name="AstraMilitarum/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
 	<entry name="AstraMilitarum/ExtraInfantryArmourFlavor" value="Most infantry in the 41st millenium are equipped with flak armour or its equivalent. If a commander wants their troops to have more than a slight chance of survival, they'll equip them with something closer to the Astra Militarum armaplas-derived carapace armour."/>
 	<entry name="AstraMilitarum/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="AstraMilitarum/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
+	<entry name="AstraMilitarum/ExtraVehicleArmourDescription" value="Павялічвае браню машынаў."/>
 	<entry name="AstraMilitarum/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="AstraMilitarum/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="AstraMilitarum/FragGrenadeDescription" value="Дае Быкрынам, Гвардзейцам, Цяжкаўзброенаму Разьліку, Лорду-Камісару, Прымарыс-Псайкеру, Тэхнажрэцам-Машынабачцам і Нашчадкам Тэмпестус здольнасць кідаць супрацьпяхотныя гранаты."/>
@@ -939,7 +939,7 @@
 	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Дае Выведнікам-Вартавым ды Быкрынам здольнасць здзяйсняць больш разбуральныя атакі."/>
 	<entry name="AstraMilitarum/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="AstraMilitarum/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
-	<entry name="AstraMilitarum/HunterKillerMissileDescription" value="Дае наземнай тэхніцы здольнасць страляць ракетамі паляўнічы-забойца."/>
+	<entry name="AstraMilitarum/HunterKillerMissileDescription" value="Дае наземным машынам здольнасць страляць ракетамі паляўнічы-забойца."/>
 	<entry name="AstraMilitarum/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="AstraMilitarum/ImperialSplendour" value="<string name='Traits/ImperialSplendour'/>"/>
 	<entry name="AstraMilitarum/ImperialSplendourDescription" value="Павялічвае ўплыў гарадоў Астра Мілітарум."/>
@@ -960,10 +960,10 @@
 	<entry name="AstraMilitarum/MisfortuneDescription" value="Дае Вурдванскім Псайкерам здольнасць праклінаць варожыя адзінкі, што выклікае павышэнне атрыманай імі шкоды."/>
 	<entry name="AstraMilitarum/MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
 	<entry name="AstraMilitarum/RecoveryGear" value="<string name='Traits/RecoveryGear'/>"/>
-	<entry name="AstraMilitarum/RecoveryGearDescription" value="Павялічвае хуткасць лячэння наземнай тэхнікі."/>
+	<entry name="AstraMilitarum/RecoveryGearDescription" value="Павялічвае хуткасць лячэння наземных машынаў."/>
 	<entry name="AstraMilitarum/RecoveryGearFlavor" value="<string name='Traits/RecoveryGearFlavor'/>"/>
 	<entry name="AstraMilitarum/RelicPlating" value="<string name='Traits/RelicPlating'/>"/>
-	<entry name="AstraMilitarum/RelicPlatingDescription" value="Зніжае шкоду ад вядзьмарскага агню па наземнай тэхніцы."/>
+	<entry name="AstraMilitarum/RelicPlatingDescription" value="Зніжае шкоду ад вядзьмарскага агню па наземным машынам."/>
 	<entry name="AstraMilitarum/RelicPlatingFlavor" value="<string name='Traits/RelicPlatingFlavor'/>"/>
 	<entry name="AstraMilitarum/SkystrikeMissile" value="<string name='Weapons/SkystrikeMissile'/>"/>
 	<entry name="AstraMilitarum/SkystrikeMissileDescription" value="Дае ўдарам грому супрацьпаветраныя ракеты."/>
@@ -1005,13 +1005,13 @@
 	<entry name="ChaosSpaceMarines/CrystallineBodyDescription" value="Дае Чэмпіёнам Хаосу шанец на сталае павелічэнне здароўя пасля забойства ворага (Дарунак Хаосу)."/>
 	<entry name="ChaosSpaceMarines/CrystallineBodyFlavor" value="<string name='Traits/ChaosSpaceMarines/CrystallineBodyFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/DirgeCaster" value="<string name='Actions/ChaosSpaceMarines/DirgeCaster'/>"/>
-	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Дае Насарогам Хаосу, Апаганшчыкам ды Лэндрэйдэрам Хаосу здольнасць прадухіляць атакі назіральніка."/>
+	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Дае Насарогам Хаосу, Апаганьнікам ды Зямным Рэйдэрам Хаосу здольнасць прадухіляць атакі назіральніка."/>
 	<entry name="ChaosSpaceMarines/DirgeCasterFlavor" value="<string name='Actions/ChaosSpaceMarines/DirgeCasterFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="ChaosSpaceMarines/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
 	<entry name="ChaosSpaceMarines/ExtraInfantryArmourFlavor" value="Most infantry in the 41st millenium are equipped with flak armour or its equivalent. If a commander wants their troops to have more than a slight chance of survival, they'll equip them with something closer to the Astra Militarum armaplas-derived carapace armour."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
+	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="ChaosSpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Дае Лордам Хаосу, Космадэсантнікам Хаосу, Апусташальнікам, Берсеркам Кхорна, Майстарам Апантанасці ды Кавалям Варпу здольнасць кідаць супрацьпяхотныя гранаты."/>
@@ -1020,10 +1020,10 @@
 	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Космадэсантнікам Хаосу, Апусташальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганшчыкам, Дэманам Кузні, Хэлбрутам, Дэманічным Катам, Злосным Паўзунам і Кіпцюрам Варпу здольнасць выконваць больш разбуральныя атакі."/>
+	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузні, Хэлбрутам, Дэманічным Катам, Злосным Паўзунам і Кіпцюрам Варпу здольнасць выконваць больш разбуральныя атакі."/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncher" value="<string name='Weapons/HavocLauncher'/>"/>
-	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Дае Насарогам Хаосу і Лэндрэйдэрам Хаосу выбуховую зброю сярэдняй далёкасці."/>
+	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Дае Насарогам Хаосу і Зямным Рэйдэрам Хаосу выбуховую зброю сярэдняй далёкасці."/>
 	<entry name="ChaosSpaceMarines/HavocLauncherFlavor" value="<string name='Weapons/HavocLauncherFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfDespair" value="<string name='Actions/ChaosSpaceMarines/IconOfDespair'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="<string name='Actions/ChaosSpaceMarines/IconOfDespairDescription'/>"/>
@@ -1065,7 +1065,7 @@
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Дае Лордам Хаосу, Космадэсантнікам Хаосу, Апусташальнікам і Берсеркам Кхорна здольнасць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкай тэхнікі і фартыфікацый."/>
+	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Дае Лордам Хаосу, Космадэсантнікам Хаосу, Апусташальнікам і Берсеркам Кхорна здольнасць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацыяў."/>
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Нашыя Жыцці дзеля Багоў"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Павялічвае хуткасць узросту горада пасля Ахвяравання Культыстаў."/>
@@ -1083,7 +1083,7 @@
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasureDescription'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasureFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
-	<entry name="ChaosSpaceMarines/SmokeLauncherDescription" value="Дае Насарогам Хаосу, Апаганшчыкам ды Лэндрэйдэрам Хаосу здольнасць запускаць дымавую заслону, якая зніжае шкоду ад далёкіх атак."/>
+	<entry name="ChaosSpaceMarines/SmokeLauncherDescription" value="Дае Насарогам Хаосу, Апаганьнікам ды Зямным Рэйдэрам Хаосу здольнасць запускаць дымавую заслону, якая зніжае шкоду ад далёкіх атак."/>
 	<entry name="ChaosSpaceMarines/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/TemporalDistortion" value="<string name='Traits/ChaosSpaceMarines/TemporalDistortion'/>"/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Дае Чэмпіёнам Хаосу шанец на сталае павелічэнне руху пасля забойства ворага (Дарунак Хаосу)."/>
@@ -1092,7 +1092,7 @@
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Змяншае страты маралі і павялічвае трапнасць пяхоты ў блізкім боі супраць адзінак фракцыі Космадэсанта."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWarFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoyles" value="Гаргуллі Варп-Полымя"/>
-	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Зброя Насарогаў Хаосу, Апаганшчыкаў і Лэндрэйдэраў Хаосу пачынае наносіць перыядычную шкоду."/>
+	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Зброя Насарогаў Хаосу, Апаганьнікам і Зямных Рэйдэраў Хаосу пачынае нанасіць перыядычную шкоду."/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoylesFlavor" value="The muzzles of this vehicle's guns flicker with unnatural fire."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzy" value="<string name='Traits/ChaosSpaceMarines/WarpFrenzy'/>"/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Дае Чэмпіёнам Хаосу шанец на атрыманне сталага павелічэння атак пасля забойства ворага (Дарунак Хаосу)."/>
@@ -1129,16 +1129,16 @@
 	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Дае Агнявым Прызмам, Шэршням, Хвалевым Змеям і Баявым Крокаходам здольнасць часова павялічваць сваю трапнасць."/>
 	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="<string name='Traits/Eldar/CrystalTargetingMatrixFlavor'/>"/>
 	<entry name="Eldar/Dominate" value="<string name='Actions/Dominate'/>"/>
-	<entry name="Eldar/DominateDescription" value="Дае Прывідным Знішчальнікам Тсуга здольнасць аглушаць варожыя адзінкі, якія не з'яўляюцца тэхнікай або фартыфікацыямі."/>
+	<entry name="Eldar/DominateDescription" value="Дае Прывідным Знішчальнікам Тсуга здольнасць аглушаць варожыя адзінкі, якія не з'яўляюцца машынамі або фартыфікацыямі."/>
 	<entry name="Eldar/DominateFlavor" value="<string name='Actions/DominateFlavor'/>"/>
 	<entry name="Eldar/ExpertHunter" value="<string name='Traits/Eldar/ExpertHunter'/>"/>
-	<entry name="Eldar/ExpertHunterDescription" value="Павялічвае шкоду ад Бліскучых Дзідаў супраць жахлівых стварэнняў, тэхнікі і фартыфікацый."/>
+	<entry name="Eldar/ExpertHunterDescription" value="Павялічвае шкоду ад Бліскучых Дзідаў супраць жахлівых стварэнняў, машынаў і фартыфікацый."/>
 	<entry name="Eldar/ExpertHunterFlavor" value="<string name='Traits/Eldar/ExpertHunterFlavor'/>"/>
 	<entry name="Eldar/ExtraInfantryArmour" value="Лабірынтная Сецістая Браня"/>
 	<entry name="Eldar/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
 	<entry name="Eldar/ExtraInfantryArmourFlavor" value="The Aeldari’s thermoplas mesh armour isn’t designed with a focus solely on defense—it also enables the user to move as freely as if it weren’t there. However, by further involuting its complex dissipation protocols, it is possible to increase its resilience with no loss of mobility."/>
 	<entry name="Eldar/ExtraVehicleArmour" value="Дамешак Прывіднай Косткі"/>
-	<entry name="Eldar/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
+	<entry name="Eldar/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="Eldar/ExtraVehicleArmourFlavor" value="All Aeldari vehicles and structures are literally ‘sung’ into existence, by Bonesingers whose command of their vocal and psychic range is the constructive counterpart of the Howling Banshee’s war cry. Yet, with Gladius Prime’s resources and alteration in their internal harmonies, the Bonesingers can weave greater power into their creations, further increasing their resilience."/>
 	<entry name="Eldar/FoodBuildingBonus" value="<string name='Traits/Eldar/FoodBuildingBonus'/>"/>
 	<entry name="Eldar/FoodBuildingBonusDescription" value="Павялічвае вытворчасць ежы ў Садах Ішы."/>
@@ -1249,7 +1249,7 @@
 	<entry name="Necrons/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
 	<entry name="Necrons/ExtraInfantryArmourFlavor" value="Even after millenia of war and sleep, the Necron Crypteks have not lost their desire for innovation. Making minor adaptations to their necrodermis, they are able to increase the survivability of their troops against the weapons of today."/>
 	<entry name="Necrons/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="Necrons/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
+	<entry name="Necrons/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="Necrons/ExtraVehicleArmourFlavor" value="To an outside eye, these Necron vehicles are identical to their predecessors. To a Cryptek or perhaps even a learned Aeldari, they can see that the material of the vehicle has increased its resilience, somehow without affecting its density or weight."/>
 	<entry name="Necrons/GaussDamage" value="<string name='Traits/GaussDamage'/>"/>
 	<entry name="Necrons/GaussDamageDescription" value="Павялічвае бронепрабівальнасць гаўсавай зброі."/>
@@ -1397,13 +1397,13 @@
 	<entry name="Orks/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
 	<entry name="Orks/ExtraInfantryArmourFlavor" value="To any other race, Ork armour seems ridiculous: great lumps of thick metal plates, attached by cables, nails and nonsensical apparatuses, painted gold by lumpen Meks and grotz. But with a little bit of Ork belief, it works like a charm."/>
 	<entry name="Orks/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="Orks/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
+	<entry name="Orks/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="Orks/ExtraVehicleArmourFlavor" value="When a Mek is faced with a Warboss angry that his buggies and battlewagons keep getting blown up, he'll rapidly order his grots to dig out some scrap and nail extra armour anywhere it fits. He knows the Speed Freeks will soon enough peel it off, after all."/>
 	<entry name="Orks/Flyboss" value="<string name='Traits/Orks/Flyboss'/>"/>
 	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасць стральбы ў далёкім боі Дакка-Знішчалам супраць рэактыўных матацыклаў, лятучых і луналых адзінак."/>
 	<entry name="Orks/FlybossFlavor" value="<string name='Traits/Orks/FlybossFlavor'/>"/>
 	<entry name="Orks/GrabbinKlaw" value="<string name='Actions/GrabbinKlaw'/>"/>
-	<entry name="Orks/GrabbinKlawDescription" value="Дае Ваявым Фурам здольнасць знерухомліваць наземную тэхніку ворага."/>
+	<entry name="Orks/GrabbinKlawDescription" value="Дае Ваявым Фурам здольнасць знерухомліваць наземныя машыны ворага."/>
 	<entry name="Orks/GrabbinKlawFlavor" value="<string name='Actions/GrabbinKlawFlavor'/>"/>
 	<entry name="Orks/GrotRiggers" value="Гроты такелажы"/>
 	<entry name="Orks/GrotRiggersDescription" value="Дае пасіўную рэгенерацыю здароўя Ваявым Баггі, Бляшанкам-Забойцам, Ваявым Фурам, Горканаўтам і Выбухалам-Забойцам."/>
@@ -1469,10 +1469,10 @@
 	<entry name="SistersOfBattle/CityGrowthDescription" value="Павялічвае хуткасць узросту насельніцтва гарадоў."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="<string name='Traits/SistersOfBattle/CityGrowthFlavor'/>"/>
 	<entry name="SistersOfBattle/CityTier2" value="<string name='Traits/SistersOfBattle/CityTier2'/>"/>
-	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус набыцця плітак галоўнага горада."/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус забудовы галоўнага гарадоў."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="<string name='Traits/SistersOfBattle/CityTier2Flavor'/>"/>
 	<entry name="SistersOfBattle/CityTier3" value="<string name='Traits/SistersOfBattle/CityTier3'/>"/>
-	<entry name="SistersOfBattle/CityTier3Description" value="Павялічвае радыус набыцця плітак галоўнага горада."/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Павялічвае радыус забудовы галоўнага гарадоў."/>
 	<entry name="SistersOfBattle/CityTier3Flavor" value="<string name='Traits/SistersOfBattle/CityTier3Flavor'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaith" value="<string name='Actions/SistersOfBattle/ConvictionOfFaith'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="<string name='Actions/SistersOfBattle/ConvictionOfFaithDescription'/>"/>
@@ -1490,7 +1490,7 @@
 	<entry name="SistersOfBattle/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
 	<entry name="SistersOfBattle/ExtraInfantryArmourFlavor" value="Constructed from thick ceramite plates, the power armour worn by the Adepta Sororitas is based upon the same archaic systems as that worn by the brethren of the Adeptus Astartes. It provides the same degree of armoured protection, yet must forego the more advanced support systems and strength enhancing abilities, for the Сёстры Бітвы do not possess a Space Marine’s ability to interface directly with their own armour."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
+	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
 	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсвяцейшым Сэлесцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Дасканалым Вайсковым Гарнітурам, Карніцам, Святой Сэлесціне, Сёстрам Пакаяньня, Зэфірымам здольнасць кідаць супрацьпяхотныя гранаты."/>
@@ -1517,7 +1517,7 @@
 	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
 	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonusFlavor'/>"/>
 	<entry name="SistersOfBattle/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SistersOfBattle/MeltaBombDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсвяцейшым Сэлесцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Дасканалым Вайсковым Гарнітурам, Карніцам, Святой Сэлесціне, Сёстрам Пакаяньня і Зэфірымам здольнасць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкай тэхнікі і фартыфікацый."/>
+	<entry name="SistersOfBattle/MeltaBombDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсвяцейшым Сэлесцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Дасканалым Вайсковым Гарнітурам, Карніцам, Святой Сэлесціне, Сёстрам Пакаяньня і Зэфірымам здольнасць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорум"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Знішчальнікам, Ударным Знішчальнікам Помснік і Рыцарам-Капійнікам Цэрастус."/>
@@ -1650,7 +1650,7 @@
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасць зброі блізкага бою."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Космадэсантнікам, Штурмавым Космадэсантнікам, Космадэсантнікам-Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкай тэхнікі і фартыфікацый."/>
+	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Космадэсантнікам, Штурмавым Космадэсантнікам, Космадэсантнікам-Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="Дае Цэнтурыёнам-Разбуральнікам магчымасць абмінаць змяншэнне шкоды ў далёкім боі."/>
@@ -1689,13 +1689,13 @@
 	<entry name="SpaceMarines/TheFleshIsWeakDescription" value="<string name='Actions/TheFleshIsWeakDescription'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
 	<entry name="Tau/AdvancedTargetingSystem" value="<string name='Traits/Tau/AdvancedTargetingSystem'/>"/>
-	<entry name="Tau/AdvancedTargetingSystemDescription" value="Сістэма падтрымкі баявога касцюма і мадэрнізацыя тэхнікі павялічваюць трапнасць стральбы."/>
+	<entry name="Tau/AdvancedTargetingSystemDescription" value="Сістэма падтрымкі баявога касцюма і мадэрнізацыя машынаў, якая павялічвае трапнасць стральбы."/>
 	<entry name="Tau/AdvancedTargetingSystemFlavor" value="<string name='Traits/Tau/AdvancedTargetingSystemFlavor'/>"/>
 	<entry name="Tau/AutomatedRepairSystem" value="<string name='Traits/Tau/AutomatedRepairSystem'/>"/>
-	<entry name="Tau/AutomatedRepairSystemDescription" value="Дае аднаўленне здароўя тэхнікі кожны крок."/>
+	<entry name="Tau/AutomatedRepairSystemDescription" value="Дае аднаўленне здароўя машынам кожны крок."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="<string name='Traits/Tau/AutomatedRepairSystemFlavor'/>"/>
 	<entry name="Tau/BlacksunFilter" value="<string name='Traits/Tau/BlacksunFilter'/>"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае агляд тэхнікі, Следапытаў і Эфірных."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае агляд машынаў, Следапытаў і Эфірных."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="<string name='Traits/Tau/BlacksunFilterFlavor'/>"/>
 	<entry name="Tau/BlastDamage" value="<string name='Traits/Tau/BlastDamage'/>"/>
 	<entry name="Tau/BlastDamageDescription" value="Павялічвае бронепрабівальнасць агнявой і ракетнай зброі."/>
@@ -1728,7 +1728,7 @@
 	<entry name="Tau/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты і жахлівых стварэнняў."/>
 	<entry name="Tau/ExtraInfantryArmourFlavor" value="Further studying the chitinous carapace of our Thraxian comrades has revealed substantial structural improvements we can make to the composition of our Cadre and Battle Suit armour."/>
 	<entry name="Tau/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="Tau/ExtraVehicleArmourDescription" value="Павялічвае браню тэхнікі."/>
+	<entry name="Tau/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="Tau/ExtraVehicleArmourFlavor" value="Unlike the stagnant Techpriests of Mars, the Earth Caste are endlessly innovating and creating. Fio’tak is the material that is the current peak of their creativity, a hard, ultra-dense, nano-crystalline metal alloy used sparingly on their finest creations."/>
 	<entry name="Tau/FlechetteDischarger" value="<string name='Traits/Tau/FlechetteDischarger'/>"/>
 	<entry name="Tau/FlechetteDischargerDescription" value="Дае тэхніцы здольнасць наносіць шкоду атакоўцам блізкага бою."/>
@@ -1746,7 +1746,7 @@
 	<entry name="Tau/PhotonGrenadeDescription" value="Дае Ваярам Агню, Следапытам і Кадрам - Агнявым Клінкам здольнасць кідаць асляпляльныя гранаты."/>
 	<entry name="Tau/PhotonGrenadeFlavor" value="<string name='Weapons/PhotonGrenadeFlavor'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelay" value="<string name='Traits/Tau/PointDefenceTargetingRelay'/>"/>
-	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду тэхнікі пры назіранні за варожыя адзінкі, суседнія з іншым дружалюбным адзінкам."/>
+	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду машынаў падчас назірання за варожымі адзінкамі, калі яны суседнія з іншымі сяброўскімі адзінкам."/>
 	<entry name="Tau/PointDefenceTargetingRelayFlavor" value="<string name='Traits/Tau/PointDefenceTargetingRelayFlavor'/>"/>
 	<entry name="Tau/PurchaseEnergy" value="<string name='Actions/Tau/PurchaseEnergy'/>"/>
 	<entry name="Tau/PurchaseEnergyDescription" value="Дае магчымасць набываць энергію за ўплыў."/>
