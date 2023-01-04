@@ -8,7 +8,7 @@
 	<entry name="Audio/EffectVolume" value="Гучнасць Эфектаў"/>
 	<entry name="Audio/EffectVolumeHint" value="Рэгулюе гучнасць эфектаў."/>
 	<entry name="Audio/HRTF" value="HRTF"/>
-	<entry name="Audio/HRTFHint" value="Запытвае міксаванне з дапамогай функцыі перадачы злучанай з галавой (Head-Related Transfer Function ці HRTF).<br/><br/>HRTF можа забяспечыць лепшую прасторавую выразнасць пры выкарыстанні навушнікаў за кошт выкарыстання адмысловых фільтраў, якія ўлічваюць форму галавы слухача для гукаў, якія прыходзяць з зададзенага кірунку.<br/><br/>Запыт міксавання HRTF можа пераканфігураваць AL прыладу для пэўнага рэжыму вываду і абмежаваць выкарыстаныя значэнні частаты.<br/><br/><style color='GUI/Yellow'/>Папярэджанне: хоць HRTF можа выдатна гучаць у навушніках, ён можа прывесці да павелічэння выкарыстання рэсурсаў і можа дрэнна гучаць са звычайнымі дынамікамі, асабліва ў рэжыме аб'ёмнага гуку."/>
+	<entry name="Audio/HRTFHint" value="Запытвае міксаванне з дапамогай функцыі перадачы злучанай з галавой (Head-Related Transfer Function ці HRTF).<br/><br/>HRTF можа забясьпечыць лепшую прасторавую выразнасць пры выкарыстанні навушнікаў за кошт выкарыстання адмысловых фільтраў, якія ўлічваюць форму галавы слухача для гукаў, якія прыходзяць з зададзенага кірунку.<br/><br/>Запыт міксавання HRTF можа пераканфігураваць AL прыладу для пэўнага рэжыму вываду і абмежаваць выкарыстаныя значэнні частаты.<br/><br/><style color='GUI/Yellow'/>Папярэджанне: хоць HRTF можа выдатна гучаць у навушніках, ён можа прывесьці да павелічэння выкарыстання рэсурсаў і можа дрэнна гучаць са звычайнымі дынамікамі, асабліва ў рэжыме аб'ёмнага гуку."/>
 	<entry name="Audio/InterfaceVolume" value="Гучнасць Інтэрфейсу"/>
 	<entry name="Audio/InterfaceVolumeHint" value="Рэгулюе гучнасць інтэрфейсу."/>
 	<entry name="Audio/MasterVolume" value="Агульная Гучнасць"/>
@@ -39,7 +39,7 @@
 	<entry name="Controls/OK" value="Добра"/>
 	<entry name="Controls/OpenCompendiumScreen" value="Адкрыць Экран Кампендыума"/>
 	<entry name="Controls/OpenQuestsScreen" value="Адкрыць Экран Квэста"/>
-	<entry name="Controls/OpenResearchScreen" value="Адкрыць Экран Даследванняў"/>
+	<entry name="Controls/OpenResearchScreen" value="Адкрыць Экран Дасьледванняў"/>
 	<entry name="Controls/PlayerAction0" value="Дзеянне Гульца 1"/>
 	<entry name="Controls/PlayerAction1" value="Дзеянне Гульца 2"/>
 	<entry name="Controls/PlayerAction2" value="Дзеянне Гульца 3"/>
@@ -52,11 +52,11 @@
 	<entry name="Controls/PlayerAction9" value="Дзеянне Гульца 10"/>
 	<entry name="Controls/QuickLoad" value="Хуткая Загрузка"/>
 	<entry name="Controls/QuickSave" value="Хуткае Захаванне"/>
-	<entry name="Controls/ReloadModifiedResources" value="Перазагрузіць Змененыя Рэсурсы"/>
+	<entry name="Controls/ReloadModifiedResources" value="Перазагрузіць Зьмененыя Рэсурсы"/>
 	<entry name="Controls/SaveJPGScreenShot" value="Захаваць JPG Здымак Экрана"/>
-	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Захаваць JPG Здымак Экрана без Інтэрфейсу"/>
+	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Захаваць JPG Здымак Экрана безь Інтэрфейсу"/>
 	<entry name="Controls/SavePNGScreenShot" value="Захаваць PNG Здымак Экрана"/>
-	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Захаваць PNG Здымак Экрана без Інтэрфейсу"/>
+	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Захаваць PNG Здымак Экрана безь Інтэрфейсу"/>
 	<entry name="Controls/ScrollDown" value="Пракруціць Уніз"/>
 	<entry name="Controls/ScrollLeft" value="Пракруціць Налева"/>
 	<entry name="Controls/ScrollRight" value="Пракруціць Направа"/>
@@ -105,9 +105,9 @@
 	<entry name="General/AutoCycleUnits" value="Аўтавыбар Адзінак"/>
 	<entry name="General/AutoCycleUnitsHint" value="Аўтаматычны пераход да наступнай адзінкі што чакае загад."/>
 	<entry name="General/AutoSendReports" value="Адпраўленне Статыстыкі Выкарыстання і Справаздач аб Збоях"/>
-	<entry name="General/AutoSendReportsHint" value="Аўтаматычнае адпраўленне статыстыкі выкарыстання і справаздач аб збоях ў Proxy Studios для паляпшэння асаблівасцяў, стабільнасці і прадукцыйнасці гульні.<br/><br/><style color='GUI/Yellow'/>Мы паважаем Вашу прыватнасць. Мы імкнёмся збіраць толькі тую інфармацыю, якая патрэбна для паляпшэння гульні. Сабраныя дадзеныя ўключаюць ананімнае ўзаемадзеянне з гульнёй (напрыклад, колькасць спробаў і збояў сеткавага падлучэння, тыпы запушчаных гульняў, карыстаныя функцыі, націснутыя кнопкі і час  гульні), а таксама ананімную тэхнічную інфармацыю (напрыклад, версію гульні і мову, звесткі аб аперацыйнай сістэме і абсталяванне, а таксама базавую інфармацыю аб збоях і памылках). Гэтыя дадзеныя апрацоўваюцца ў адпаведнасці з законным інтарэсам для прадастаўлення якаснага і надзейнага прадукту. Дадзеныя захоўваецца да 1 года і ніколі не перадаюцца трэцім асобам."/>
+	<entry name="General/AutoSendReportsHint" value="Аўтаматычнае адпраўленне статыстыкі выкарыстання і справаздач аб збоях ў Proxy Studios для паляпшэння асаблівасьцяў, стабільнасьці і прадукцыйнасьці гульні.<br/><br/><style color='GUI/Yellow'/>Мы паважаем Вашу прыватнасць. Мы імкнёмся зьбіраць толькі тую інфармацыю, якая патрэбна для паляпшэння гульні. Сабраныя дадзеныя ўключаюць ананімнае ўзаемадзеянне з гульнёй (напрыклад, колькасць спробаў і збояў сеткавага падлучэння, тыпы запушчаных гульняў, карыстаныя функцыі, націснутыя кнопкі і час  гульні), а таксама ананімную тэхнічную інфармацыю (напрыклад, версію гульні і мову, зьвесткі аб аперацыйнай сістэме і абсталяванне, а таксама базавую інфармацыю аб збоях і памылках). Гэтыя дадзеныя апрацоўваюцца ў адпаведнасьці з законным інтарэсам для прадастаўлення якаснага і надзейнага прадукту. Дадзеныя захоўваецца да 1 года і ніколі не перадаюцца трэцім асобам."/>
 	<entry name="General/Language" value="Мова"/>
-	<entry name="General/LanguageHint" value="Вызначае пісьмовую мову.<br/><br/><style color='GUI/Red'/>Каб эфект ад змены гэтага параметра набыў моц, трэба перазагрузіць гульню."/>
+	<entry name="General/LanguageHint" value="Вызначае пісьмовую мову.<br/><br/><style color='GUI/Red'/>Каб эфект ад зьмены гэтага параметра набыў моц, трэба перазагрузіць гульню."/>
 	<entry name="General/ResetTips" value="Скінуць Падказкі"/>
 	<entry name="General/ResetTipsHint" value="Скіданне радаў прывядзе да іх паўторнага адлюстравання ў гульні."/>
 	<entry name="General/ScrollAcceleration" value="Паскарэнне Прагорткі"/>
@@ -121,7 +121,7 @@
 	<entry name="General/ShowCinematics" value="Паказваць Відэа"/>
 	<entry name="General/ShowCinematicsHint" value="Паказваць відэа ролікі."/>
 	<entry name="General/ShowPerformance" value="Паказваць Прадукцыйнасць"/>
-	<entry name="General/ShowPerformanceHint" value="Паказваць інфармацыю аб прадукцыйнасці."/>
+	<entry name="General/ShowPerformanceHint" value="Паказваць інфармацыю аб прадукцыйнасьці."/>
 	<entry name="General/ShowSubtitles" value="Паказваць Субтытры"/>
 	<entry name="General/ShowSubtitlesHint" value="Паказваць субтытры ўнізе відэа ролікаў, якія перакладаюць або транскрыбуюць дыялог і аповед."/>
 	<entry name="General/ShowTips" value="Паказваць Падказкі"/>
@@ -142,21 +142,21 @@
 	<entry name="Video/ContrastHint" value=""/>
 	<entry name="Video/DepthFog" value="Гушчыня Туману"/>
 	<entry name="Video/DepthFogHint" value=""/>
-	<entry name="Video/DepthOfField" value="Глыбіня Рэзкасці"/>
+	<entry name="Video/DepthOfField" value="Глыбіня Рэзкасьці"/>
 	<entry name="Video/DepthOfFieldHint" value=""/>
 	<entry name="Video/Device" value="Прылада"/>
 	<entry name="Video/DeviceHint" value=""/>
 	<entry name="Video/DisplayMode" value="Рэжым Адлюстравання"/>
 	<entry name="Video/DisplayMode0" value="Поўнаэкранны"/>
 	<entry name="Video/DisplayMode1" value="Аконны"/>
-	<entry name="Video/DisplayMode2" value="Аконны без Рамак"/>
-	<entry name="Video/DisplayModeHint" value="Дазваляе змяніць рэжым адлюстравання гульні. Аконныя рэжымы могуць выклікаць зніжэнне прадукцыйнасці.<br/><br/><style color='GUI/Yellow'/>Аконны рэжым найлепей падыходзіць для запісу ў роднай разрознасці."/>
+	<entry name="Video/DisplayMode2" value="Аконны бяз Рамак"/>
+	<entry name="Video/DisplayModeHint" value="Дазваляе зьмяніць рэжым адлюстравання гульні. Аконныя рэжымы могуць выклікаць зьніжэнне прадукцыйнасьці.<br/><br/><style color='GUI/Yellow'/>Аконны рэжым найлепей падыходзіць для запісу ў роднай разрознасьці."/>
 	<entry name="Video/FixedTimeOfDay" value="Фіксаваны Час Сутак"/>
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Фіксаваны Час Сутак у"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
 	<entry name="Video/FXAA" value="Згладжванне"/>
-	<entry name="Video/FXAAHint" value="Зменшвае няроўнасці шляхам згладжвання краёў з дапамогай FXAA. Можа панізіць прадукцыйнасць. Залежыць ад вылічальнай магутнасці вашай відэакарты."/>
+	<entry name="Video/FXAAHint" value="Зьменшвае няроўнасьці шляхам згладжвання краёў з дапамогай FXAA. Можа панізіць прадукцыйнасць. Залежыць ад вылічальнай магутнасьці вашай відэакарты."/>
 	<entry name="Video/Gamma" value="Гама"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="Маштаб ГКІ"/>
@@ -173,14 +173,14 @@
 	<entry name="Video/MultiThreadedRendering" value="Шматпаточны Рэндарынг"/>
 	<entry name="Video/MultiThreadedRenderingHint" value="Выкарыстоўвае некалькі ядзер ЦП для рэндарынгу. Гэта можа павялічыць прадукцыйнасць. Адключэнне гэтага параметра можа выдаліць патэнцыйныя візуальныя артэфакты."/>
 	<entry name="Video/Resolution" value="Разрознасць"/>
-	<entry name="Video/ResolutionHint" value="Дазваляе змяніць разрознасць экрана гульні. Больш высокая разрознасць прывядзе да павышэння выразнасці, але моцна паўплывае на прадукцыйнасць."/>
+	<entry name="Video/ResolutionHint" value="Дазваляе зьмяніць разрознасць экрана гульні. Больш высокая разрознасць прывядзе да павышэння выразнасьці, але моцна паўплывае на прадукцыйнасць."/>
 	<entry name="Video/ShadowQuality" value="Якасць Ценяў"/>
 	<entry name="Video/ShadowQuality0" value="Нізкая"/>
 	<entry name="Video/ShadowQuality1" value="Сярэдняя"/>
 	<entry name="Video/ShadowQuality2" value="Высокая"/>
 	<entry name="Video/ShadowQualityHint" value="Вызначае памер карты ценяў, што выкарыстоўваецца для рэндарынгу. Больш высокая якасць ценяў прывядзе да больш дэталёвых ценяў, але для гэтага спатрэбіцца магутнейшая відэакарта."/>
-	<entry name="Video/ShowCliffHighlights" value="Паказваць Падсветку Вяршынь"/>
-	<entry name="Video/ShowCliffHighlightsHint" value="Паказвае лініі, якія падсвятляюць вяршыні."/>
+	<entry name="Video/ShowCliffHighlights" value="Паказваць Падсьветку Вяршынь"/>
+	<entry name="Video/ShowCliffHighlightsHint" value="Паказвае лініі, якія падсьвятляюць вяршыні."/>
 	<entry name="Video/ShowGrid" value="Паказаць Сетку"/>
 	<entry name="Video/ShowGridHint" value="Паказаць сетку на зямлі."/>
 	<entry name="Video/TextureQuality" value="Якасць Тэкстур"/>
@@ -192,6 +192,6 @@
 	<entry name="Video/VerticalSynchronization-1" value="Адаптыўная"/> <!-- TODO: Hints -->
 	<entry name="Video/VerticalSynchronization0" value="Ніякая"/>
 	<entry name="Video/VerticalSynchronization1" value="Звычайная"/>
-	<entry name="Video/VerticalSynchronizationHint" value="Сінхранізуе часціню кадраў кампутара з чашчынёй абнаўлення манітора."/>
-	<entry name="World" value="Свет"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Сінхранізуе часьціню кадраў кампутара з чашчынёй абнаўлення манітора."/>
+	<entry name="World" value="Сьвет"/>
 </language>
