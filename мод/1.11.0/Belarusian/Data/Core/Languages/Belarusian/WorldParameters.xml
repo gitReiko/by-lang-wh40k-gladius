@@ -30,7 +30,7 @@
 	<entry name="Difficulty0AstraMilitarum" value="Прызыўнік"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Культыст"/>
 	<entry name="Difficulty0Eldar" value="Вартавы"/>
-	<entry name="Difficulty0Necrons" value="Раздзіральнік"/>
+	<entry name="Difficulty0Necrons" value="Разьдзіральнік"/>
 	<entry name="Difficulty0Orks" value="Сквіг"/>
 	<entry name="Difficulty0Random" value="Вельмі Слабы"/>
 	<entry name="Difficulty0SistersOfBattle" value="Паслушніца"/>
@@ -88,7 +88,7 @@
 	<entry name="Difficulty4SistersOfBattle" value="Кананэса"/>
 	<entry name="Difficulty4SpaceMarines" value="Майстар Ордэна"/>
 	<entry name="Difficulty4Tau" value="Шас‘врэ"/>
-	<entry name="Difficulty4Tyranids" value="Тыран Вулля"/>
+	<entry name="Difficulty4Tyranids" value="Тыран Вульля"/>
 	<entry name="Difficulty4FactionHint" value="%1%: атрымлівае сярэднюю перавагу ў лаяльнасьці і ўзроўні."/>
 	<entry name="Difficulty5" value="Ультра Цяжкая"/>
 	<entry name="Difficulty5AdeptusMechanicus" value="Фабрікэйтар Генерал"/>
@@ -98,7 +98,7 @@
 	<entry name="Difficulty5Necrons" value="Валадар"/>
 	<entry name="Difficulty5Orks" value="Вайнабос"/>
 	<entry name="Difficulty5Random" value="Ультра Цяжкі"/>
-	<entry name="Difficulty5SistersOfBattle" value="Ігумення"/>
+	<entry name="Difficulty5SistersOfBattle" value="Ігуменьня"/>
 	<entry name="Difficulty5SpaceMarines" value="Прымарх"/>
 	<entry name="Difficulty5Tau" value="Шас‘эл"/>
 	<entry name="Difficulty5Tyranids" value="Дамінатрыца"/>
@@ -127,9 +127,9 @@
 	<entry name="GameSpeed" value="Хуткасць Гульні"/>
 	<entry name="GameVisibility" value="Бачнасць гульні"/> 
 	<entry name="GameVisibility0" value="Толькі Сябры"/>
-	<entry name="GameVisibility0Hint" value="Гульня не даступная ў публічным сьпісе. Доступ магчымы праз сяброўскі сьпіс, запрашэнні ці непасрэдныя злучэнні."/>
+	<entry name="GameVisibility0Hint" value="Гульня не даступная ў публічным сьпісе. Доступ магчымы праз сяброўскі сьпіс, запрашэньні ці непасрэдныя злучэньні."/>
 	<entry name="GameVisibility1" value="Прыватная"/>
-	<entry name="GameVisibility1Hint" value="Гульня не даступная ў публічным сьпісе. Доступ магчымы толькі праз запрашэнні ці непасрэдныя злучэнні."/>
+	<entry name="GameVisibility1Hint" value="Гульня не даступная ў публічным сьпісе. Доступ магчымы толькі праз запрашэньні ці непасрэдныя злучэньні."/>
 	<entry name="GameVisibility2" value="Публічная"/>
 	<entry name="GameVisibility2Hint" value="Гэта публічная гульня. Кожны можа далучыцца."/>
 	<entry name="HolySiteDensity" value="Шчыльнасць Сьвятых Месцаў"/>
@@ -201,7 +201,7 @@
 	<entry name="ResourceCost2" value="Сярэдні"/>
 	<entry name="ResourceCost3" value="Высокі"/>
 	<entry name="ResourceCost4" value="Вельмі Высокі"/>
-	<entry name="ResourceUpkeep" value="Ўтрыманне Рэсурсаў"/>
+	<entry name="ResourceUpkeep" value="Ўтрыманьне Рэсурсаў"/>
 	<entry name="ResourceUpkeep0" value="Вельмі Нізкае"/>
 	<entry name="ResourceUpkeep1" value="Нізкае"/>
 	<entry name="ResourceUpkeep2" value="Сярэдняе"/>
@@ -219,7 +219,7 @@
 	<entry name="RuinsOfVaulDensity2" value="Сярэдняя"/>
 	<entry name="RuinsOfVaulDensity3" value="Высокая"/>
 	<entry name="RuinsOfVaulDensity4" value="Вельмі Высокая"/>	
-	<entry name="Seed" value="Насенне Сьвету"/>
+	<entry name="Seed" value="Насеньне Сьвету"/>
 	<entry name="SimultaneousTurns" value="Адначасовыя Крокі"/>
 	<entry name="SimultaneousTurnsHint" value="Калі адключана, толькі ўдзельнікі адной каманды будуць дзейнічаць адначасова."/>
 	<entry name="Size" value="Памер Сьвету"/>
@@ -245,7 +245,7 @@
 	<entry name="StartingResource2" value="Сярэдне"/>
 	<entry name="StartingResource3" value="Шмат"/>
 	<entry name="StartingResource4" value="Вельмі Шмат"/>
-	<entry name="Supplement1" value="DLC Набор Падмацаванне"/>
+	<entry name="Supplement1" value="DLC Набор Падмацаваньне"/>
 	<entry name="Supplement2" value="DLC Тыраніды"/>
 	<entry name="Supplement3" value="DLC Космадэсант Хаосу"/>
 	<entry name="Supplement4" value="DLC Набор Фартыфікацыя"/>
@@ -270,25 +270,25 @@
 	<entry name="TurnTimer3" value="Умераны (3 хвіліны)"/>
 	<entry name="TurnTimer4" value="Доўгі (4 хвіліны)"/>
 	<entry name="TurnTimer5" value="Вельмі Доўгі (5 хвілін)"/>
-	<entry name="WebwayGateDensity" value="Шчыльнасць Брам Павуціння"/>
+	<entry name="WebwayGateDensity" value="Шчыльнасць Брам Павуціньня"/>
 	<entry name="WebwayGateDensity0" value="Вельмі Нізкая"/>
 	<entry name="WebwayGateDensity1" value="Нізкая"/>
 	<entry name="WebwayGateDensity2" value="Сярэдняя"/>
 	<entry name="WebwayGateDensity3" value="Высокая"/>
 	<entry name="WebwayGateDensity4" value="Вельмі Высокая"/>
-	<entry name="WildlifeDensity" value="Шчыльнасць Дзікага Жыцця"/>
+	<entry name="WildlifeDensity" value="Шчыльнасць Дзікага Жыцьця"/>
 	<entry name="WildlifeDensity0" value="Вельмі Нізкая"/>
 	<entry name="WildlifeDensity1" value="Нізкая"/>
 	<entry name="WildlifeDensity2" value="Сярэдняя"/>
 	<entry name="WildlifeDensity3" value="Высокая"/>
 	<entry name="WildlifeDensity4" value="Вельмі Высокая"/>
-	<entry name="WireWeedDensity" value="Шчыльнасць Пустазелля-Дроту"/>
+	<entry name="WireWeedDensity" value="Шчыльнасць Пустазельля-Дроту"/>
 	<entry name="WireWeedDensity0" value="Вельмі Нізкая"/>
 	<entry name="WireWeedDensity1" value="Нізкая"/>
 	<entry name="WireWeedDensity2" value="Сярэдняя"/>
 	<entry name="WireWeedDensity3" value="Высокая"/>
 	<entry name="WireWeedDensity4" value="Вельмі Высокая"/>
-	<entry name="WorldSeed" value="Насенне  Сьвету"/>
+	<entry name="WorldSeed" value="Насеньне  Сьвету"/>
 	<entry name="WorldSize" value="Памер Сьвету"/>
 	<entry name="VolcanicRegionDensity" value="Шчыльнасць Вулканічнай Мясцовасьці"/>
 	<entry name="VolcanicRegionDensity0" value="Ніякая"/>
