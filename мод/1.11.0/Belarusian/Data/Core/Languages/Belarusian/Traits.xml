@@ -953,7 +953,7 @@
 	<entry name="MisfortuneDescription" value="Павялічвае атрымліваемую шкоду."/>
 	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
 	<entry name="Missing" value="Адсутнічае"/>
-	<entry name="MobRule" value="Самасуд"/>
+	<entry name="MobRule" value="Права Мобаў"/>
 	<entry name="MobRuleDescription" value="Зьніжае страты маралі ў залежнасьці ад колькасьці хаўрусных адзінак у вобласьці."/>
 	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
 	<entry name="MobileCommand" value="Мабільная Каманда"/>
@@ -1191,7 +1191,7 @@
 	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
 	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Дае ўплыў, які залежыць ад утрыманьня, пры атацы."/>
-	<entry name="Orks/Scavenger" value="Шмяцяр"/>
+	<entry name="Orks/Scavenger" value="Шьмяцяр"/>
 	<entry name="Orks/ScavengerDescription" value="Дае руду за забойства ворага."/>
 	<entry name="Orks/ScavengerFlavor" value="Orks aren't known for their love of labour, preferring to sit around between battles picking bits of Squig out of their mouths and fighting each other. So rather than mine minerals from the ground, they tend to salvage them from, well, anywhere. Or rather their Grot underlings do."/>
 	<entry name="Orks/WarbikeTurboBoost" value="<string name='Actions/Orks/WarbikeTurboBoost'/>"/>
