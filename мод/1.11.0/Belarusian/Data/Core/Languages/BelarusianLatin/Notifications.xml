@@ -7,16 +7,16 @@
 	<entry name="FactionDiscoveredSummary" value="%1% znojdziena."/>
 	<entry name="FeatureExploredSummary" value="%1% zabiaśpiečvaje %2%."/>
 	<entry name="FeatureTypeDiscoveredSummary" value="%1% znojdziena."/>
-	<entry name="LordOfSkullsAppearedSummary" value="%1% zjaviŭsia."/>
+	<entry name="LordOfSkullsAppearedSummary" value="%1% z'javiŭsia."/>
 	<entry name="LordOfSkullsDisappearedSummary" value="%1% źnik."/>
 	<entry name="PlayerLost" value="Paraza!"/>
 	<entry name="PlayerLostSummary" value="%1% · %2% %3% prajhrali!"/>
 	<entry name="PlayerWon" value="Pieramoha!"/>
 	<entry name="PlayerWonSummary" value="%1% · %2% %3% pieramahli!"/>
-	<entry name="PlayerWonElimination" value="<string name=Notifications/PlayerWon/>"/>
-	<entry name="PlayerWonEliminationSummary" value="<string name=Notifications/PlayerWonSummary/>"/>
-	<entry name="PlayerWonQuest" value="<string name=Notifications/PlayerWon/>"/>
-	<entry name="PlayerWonQuestSummary" value="<string name=Notifications/PlayerWonSummary/>"/>
+	<entry name="PlayerWonElimination" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonEliminationSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
+	<entry name="PlayerWonQuest" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonQuestSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
 	<entry name="ProductionCompletedSummary" value="%1% vyrabiŭ %2%."/>
 	<entry name="QuestAdded" value="Kvest Dadany"/>
 	<entry name="QuestCompleted" value="Kvest Zavieršany"/>

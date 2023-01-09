@@ -8,7 +8,7 @@
 	<entry name="Audio/EffectVolume" value="Hučnaść Efiektaŭ"/>
 	<entry name="Audio/EffectVolumeHint" value="Rehuluje hučnaść efiektaŭ."/>
 	<entry name="Audio/HRTF" value="HRTF"/>
-	<entry name="Audio/HRTFHint" value="Zapytvaje miksavańnie z dapamohaj funkcyi pieradačy złučanaj z hałavoj (Head-Related Transfer Function ci HRTF).<br/><br/>HRTF moža zabiaśpiečyć lepšuju prastoravuju vyraznaść pry vykarystańni navušnikaŭ za košt vykarystańnia admysłovych filtraŭ, jakija ŭličvajuć formu hałavy słuchača dla hukaŭ, jakija prychodziać z zadadzienaha kirunku.<br/><br/>Zapyt miksavańnia HRTF moža pierakanfihuravać AL pryładu dla peŭnaha režymu vyvadu i abmiežavać vykarystanyja značeńni častaty.<br/><br/><style color=GUI/Yellow/>Papiaredžańnie: choć HRTF moža vydatna hučać u navušnikach, jon moža pryvieści da pavieličeńnia vykarystańnia resursaŭ i moža drenna hučać sa zvyčajnymi dynamikami, asabliva ŭ režymie abjomnaha huku."/>
+	<entry name="Audio/HRTFHint" value="Zapytvaje miksavańnie z dapamohaj funkcyi pieradačy złučanaj z hałavoj (Head-Related Transfer Function ci HRTF).<br/><br/>HRTF moža zabiaśpiečyć lepšuju prastoravuju vyraznaść pry vykarystańni navušnikaŭ za košt vykarystańnia admysłovych filtraŭ, jakija ŭličvajuć formu hałavy słuchača dla hukaŭ, jakija prychodziać z zadadzienaha kirunku.<br/><br/>Zapyt miksavańnia HRTF moža pierakanfihuravać AL pryładu dla peŭnaha režymu vyvadu i abmiežavać vykarystanyja značeńni častaty.<br/><br/><style color='GUI/Yellow'/>Papiaredžańnie: choć HRTF moža vydatna hučać u navušnikach, jon moža pryvieści da pavieličeńnia vykarystańnia resursaŭ i moža drenna hučać sa zvyčajnymi dynamikami, asabliva ŭ režymie ab'jomnaha huku."/>
 	<entry name="Audio/InterfaceVolume" value="Hučnaść Interfiejsu"/>
 	<entry name="Audio/InterfaceVolumeHint" value="Rehuluje hučnaść interfiejsu."/>
 	<entry name="Audio/MasterVolume" value="Ahulnaja Hučnaść"/>
@@ -105,9 +105,9 @@
 	<entry name="General/AutoCycleUnits" value="Aŭtavybar Adzinak"/>
 	<entry name="General/AutoCycleUnitsHint" value="Aŭtamatyčny pierachod da nastupnaj adzinki što čakaje zahad."/>
 	<entry name="General/AutoSendReports" value="Adpraŭleńnie Statystyki Vykarystańnia i Spravazdač ab Zbojach"/>
-	<entry name="General/AutoSendReportsHint" value="Aŭtamatyčnaje adpraŭleńnie statystyki vykarystańnia i spravazdač ab zbojach ŭ Proxy Studios dla palapšeńnia asablivaściaŭ, stabilnaści i pradukcyjnaści hulni.<br/><br/><style color=GUI/Yellow/>My pavažajem Vašu pryvatnaść. My imkniomsia źbirać tolki tuju infarmacyju, jakaja patrebna dla palapšeńnia hulni. Sabranyja dadzienyja ŭklučajuć ananimnaje ŭzajemadziejańnie z hulnioj (naprykład, kolkaść sprobaŭ i zbojaŭ sietkavaha padłučeńnia, typy zapuščanych hulniaŭ, karystanyja funkcyi, nacisnutyja knopki i čas  hulni), a taksama ananimnuju techničnuju infarmacyju (naprykład, viersiju hulni i movu, źviestki ab apieracyjnaj sistemie i abstalavańnie, a taksama bazavuju infarmacyju ab zbojach i pamyłkach). Hetyja dadzienyja apracoŭvajucca ŭ adpaviednaści z zakonnym intaresam dla pradastaŭleńnia jakasnaha i nadziejnaha praduktu. Dadzienyja zachoŭvajecca da 1 hoda i nikoli nie pieradajucca trecim asobam."/>
+	<entry name="General/AutoSendReportsHint" value="Aŭtamatyčnaje adpraŭleńnie statystyki vykarystańnia i spravazdač ab zbojach ŭ Proxy Studios dla palapšeńnia asablivaściaŭ, stabilnaści i pradukcyjnaści hulni.<br/><br/><style color='GUI/Yellow'/>My pavažajem Vašu pryvatnaść. My imkniomsia źbirać tolki tuju infarmacyju, jakaja patrebna dla palapšeńnia hulni. Sabranyja dadzienyja ŭklučajuć ananimnaje ŭzajemadziejańnie z hulnioj (naprykład, kolkaść sprobaŭ i zbojaŭ sietkavaha padłučeńnia, typy zapuščanych hulniaŭ, karystanyja funkcyi, nacisnutyja knopki i čas  hulni), a taksama ananimnuju techničnuju infarmacyju (naprykład, viersiju hulni i movu, źviestki ab apieracyjnaj sistemie i abstalavańnie, a taksama bazavuju infarmacyju ab zbojach i pamyłkach). Hetyja dadzienyja apracoŭvajucca ŭ adpaviednaści z zakonnym intaresam dla pradastaŭleńnia jakasnaha i nadziejnaha praduktu. Dadzienyja zachoŭvajecca da 1 hoda i nikoli nie pieradajucca trecim asobam."/>
 	<entry name="General/Language" value="Mova"/>
-	<entry name="General/LanguageHint" value="Vyznačaje piśmovuju movu.<br/><br/><style color=GUI/Red/>Kab efiekt ad źmieny hetaha paramietra nabyŭ moc, treba pierazahruzić hulniu."/>
+	<entry name="General/LanguageHint" value="Vyznačaje piśmovuju movu.<br/><br/><style color='GUI/Red'/>Kab efiekt ad źmieny hetaha paramietra nabyŭ moc, treba pierazahruzić hulniu."/>
 	<entry name="General/ResetTips" value="Skinuć Padkazki"/>
 	<entry name="General/ResetTipsHint" value="Skidańnie radaŭ pryviadzie da ich paŭtornaha adlustravańnia ŭ hulni."/>
 	<entry name="General/ScrollAcceleration" value="Paskareńnie Prahortki"/>
@@ -150,7 +150,7 @@
 	<entry name="Video/DisplayMode0" value="Poŭnaekranny"/>
 	<entry name="Video/DisplayMode1" value="Akonny"/>
 	<entry name="Video/DisplayMode2" value="Akonny biaz Ramak"/>
-	<entry name="Video/DisplayModeHint" value="Dazvalaje źmianić režym adlustravańnia hulni. Akonnyja režymy mohuć vyklikać źnižeńnie pradukcyjnaści.<br/><br/><style color=GUI/Yellow/>Akonny režym najlepiej padychodzić dla zapisu ŭ rodnaj razroznaści."/>
+	<entry name="Video/DisplayModeHint" value="Dazvalaje źmianić režym adlustravańnia hulni. Akonnyja režymy mohuć vyklikać źnižeńnie pradukcyjnaści.<br/><br/><style color='GUI/Yellow'/>Akonny režym najlepiej padychodzić dla zapisu ŭ rodnaj razroznaści."/>
 	<entry name="Video/FixedTimeOfDay" value="Fiksavany Čas Sutak"/>
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Fiksavany Čas Sutak u"/>

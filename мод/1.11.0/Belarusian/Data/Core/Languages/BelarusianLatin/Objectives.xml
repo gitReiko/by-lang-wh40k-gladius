@@ -11,8 +11,8 @@
 	<entry name="ActivateSacredRiteDescription" value="Aktyvavać śviaščenny abrad (%1%/%2%)."/>
 	<entry name="ActivateTacticDescription" value="Aktyvavać taktyku padziełu (%1%/1)."/>
 	<entry name="CaptureUnitDescription" value="Zachapić %1% (%2%/1)."/>
-	<entry name="ClaimWebwayGateWithCelestineDescription" value="Pierasunuć <string name=Units/SistersOfBattle/SaintCelestine/> na plitku, susiedniuju da <string name=Units/Eldar/WebwayGate/> (%1%/1)."/>
-	<entry name="ClearHolySiteDescription" value="Daśledavać <string name=Features/HolySite/> Špitaljerkami (%1%/%2%)."/>
+	<entry name="ClaimWebwayGateWithCelestineDescription" value="Pierasunuć <string name='Units/SistersOfBattle/SaintCelestine'/> na plitku, susiedniuju da <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="ClearHolySiteDescription" value="Daśledavać <string name='Features/HolySite'/> Špitaljerkami (%1%/%2%)."/>
 	<entry name="ClearInfestationDescription" value="Źniščyć %1% (%2%/%3%)."/>
 	<entry name="ConstructBuildingDescription" value="Pabudavać %1% (%2%/%3%)."/>
 	<entry name="ConstructBuildingOnSameTileDescription" value="Pabudujcie %1% na toj ža plitcy (%2%/%3%)."/>
@@ -25,7 +25,7 @@
 	<entry name="DefendTileWithTurnLimitDescription" value="Baranić adznačanuju plitku (%1% krokaŭ)."/>
 	<entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Baranić niadaŭna znojdzieny ŭvachod %1% krokaŭ (%2%/1)."/>
 	<entry name="DeployFortressDescription" value="Razharnuć %1% pobač z admysłovym resursam i achoŭvać pierymietr (%2%/1)."/>
-	<entry name="DeployGunDroneDescription" value="Razharnuć <string name=Units/Tau/GunDrone/> (%2%/%3%)."/>
+	<entry name="DeployGunDroneDescription" value="Razharnuć <string name='Units/Tau/GunDrone'/> (%2%/%3%)."/>
 	<entry name="DestroySpawnedCityDescription" value="Źniščyć horad Astra Militarum (%1%/1)."/>
 	<entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
 	<entry name="ExploreDepthsDescription" value="Adpravić adzinki ŭ hłybini płaniety:"/>
@@ -38,7 +38,7 @@
 	<entry name="InvokeRapidRiseOnWarriorDescription" value="Vykarystać chutki ŭzdym pry vytvorčaści Vajaroŭ-Niekronaŭ (%1%/1)."/>
 	<entry name="InvokeRiteDescription" value="Vykarystać %1% u horadzie (%2%/%3%)."/>
 	<entry name="KeepUnitAliveDescription" value="Zachoŭvać %1% žyvym (%2%/1)."/>
-	<entry name="KeepWebwayGateAliveDescription" value="<string name=Objectives/KeepUnitAliveDescription/>"/>
+	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
 	<entry name="KillCampDescription" value="Źniščyć varožy stan (%1%/1)."/>
 	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Źniščycie Demana-Prynca, jaki vykonvaje rytuał za %2% krokaŭ (%1%/1)."/>
 	<entry name="KillCampWithDeceiverDescription" value="Znajdzicie i źniščycie Ašukanca (%1%/1)."/>
@@ -49,7 +49,7 @@
 	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Źniščycie miaciežnaha Technažraca i jaho kantynhient elitnych robataŭ za %2% krokaŭ (%1%/1)."/>
 	<entry name="KillCampWithTurnLimitDescription" value="Źniščyć varožy stan za %2% krokaŭ (%1%/1)."/>
 	<entry name="KillCampWithTyranidsDescription" value="Źniščycie vulej Tyranidaŭ (%1%/1)."/>
-	<entry name="KillCampWithWebwayGateDescription" value="Pieramažycie siły Aeldary, što baroniać <string name=Units/Eldar/WebwayGate/> (%1%/1)."/>
+	<entry name="KillCampWithWebwayGateDescription" value="Pieramažycie siły Aeldary, što baroniać <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Źniščyć %1% za %4% krokaŭ (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Pačakajcie pakul %1% vierniecca ŭ hety śviet (0/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Źniščycie razroźnienyja adzinki (%1%/%2%)."/>
