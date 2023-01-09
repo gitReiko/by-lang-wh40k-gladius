@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConfirmDelete" value="Vy ŭpeŭnieny, što žadajecie vydalić “%1%”?"/>
+	<entry name="ConfirmDisband" value="Vy ŭpeŭnieny, što žadajecie rasfarmavać “%1%”?"/>
+	<entry name="ConfirmOverwrite" value="Vy ŭpeŭnieny, što žadajecie pierazapisać “%1%”?"/>
+	<entry name="ConfirmRemoveItem" value="Vy ŭpeŭnieny, što žadajecie źniščyć “%1%”?"/>
+	<entry name="ConfirmRestoreDefaults" value="Vy ŭpeŭnieny, što žadajecie adnavić nałady %1% pa zmaŭčańni?"/>
+	<entry name="ConfirmSurrender" value="Vy ŭpeŭnieny, što žadajecie zdacca?"/>
+	<entry name="ConnectingToServer" value="Padłučeńnie da sierviera…"/>
+	<entry name="ConnectionLost" value="Złučeńnie stračana."/>
+	<entry name="Error" value="Pamyłka"/>
+	<entry name="GameLoaded" value="Hulnia zahružana"/>
+	<entry name="GameSaved" value="Hulnia zachavana"/>
+	<entry name="GraphicsDriverOutdated" value="Drajvier vašaj videakarty sastareŭ.<br/><br/>Dla palapšeńnia stabilnaści i pradukcyjnaści, kali łaska, abnavić jaho na sajcie vyrablalnika."/>
+	<entry name="IncompatibleVersion" value="Niesumiaščalnaja viersija hulni."/>
+	<entry name="Info" value="Infa"/>
+	<entry name="Kicked" value="Vas vyhnali z sierviera."/>
+	<entry name="MasterServerUnreachable" value="Nie atrymałasia dałučycca da hałoŭnaha sierviera."/>
+	<entry name="MissingDLC" value="Adsutničaje DLC."/>
+	<entry name="ModUploading" value="Zahruzka moda…"/>
+	<entry name="ModUploadComplete" value="Mod zahružany."/>
+	<entry name="ModUploadFailed" value="Niaŭdałaja zahruzka moda."/>
+	<entry name="NoFreeSlots" value="Na sierviery niama svabodnych miescaŭ."/>
+	<entry name="NoGames" value="U hety čas niama publičnych hulniaŭ. <br/> Čamu b nie pačać adnu ź ich?"/>
+	<entry name="NoMods" value="Niama ŭstalavanych modaŭ."/>
+	<entry name="NoValidTargets" value="<style color=GUI/Red/>Niama prydatnych celaŭ"/>
+	<entry name="PlayerJoined" value="%1% dałučyŭsia."/>
+	<entry name="PlayerLeft" value="%1% vyjšaŭ."/>
+	<entry name="PleaseEnterYourName" value="Kali łaska, uviadzicie Vaša imia."/>
+	<entry name="PleaseWait" value="<style color=GUI/Red/>Kali łaska, pačakajcie"/>
+	<entry name="ReceivingInfo" value="Atrymańnie infarmacyi…"/>
+	<entry name="RestartRequired" value="Vy pavinny pierazapuścić hulniu, kab źmieny nabyli moc."/>
+	<entry name="RetrievingServerList" value="Atrymańnie śpisa siervieraŭ…"/>
+	<entry name="ScreenShotSaveError" value="Pamyłka pry zachavańni zdymka ekrana"/>
+	<entry name="ScreenShotSaved" value="Zdymak ekrana zachavany"/>
+	<entry name="SetBinding" value="Naciśnicie novuju kambinacyju kłaviš dla pryviazki da %1%."/>
+	<entry name="ServerUnreachable" value="Nie atrymałasia dałučycca da sierviera. <br/> <br/> Kab palepšyć padłučeńnie, pierakanajciesia, što vy adklučyli brandmaŭery i ŭklučyli UPnP na maršrutyzatary abo pieranakiravali port TCP% 1% na łakalny kamputar."/>
+	<entry name="SelectTarget" value="Abiarycie cel"/>
+	<entry name="TerminatedWithDisableMods" value="Mody adklučany z-za zboju. Naviedajcie ekran modaŭ, kab iznoŭ ich uklučyć."/>
+	<entry name="TermsAndConditions" value="Umovy i stanoviščy"/>
+	<entry name="TurnTimerPaused" value="%1% čas paŭzy."/>
+	<entry name="TurnTimerUnpaused" value="%1% čas biaz paŭzy."/>
+	<entry name="UnboundControl" value="Pryviazki vydaleny ŭ %1%."/>
+	<entry name="Warning" value="Papiaredžańnie"/>
+</language>

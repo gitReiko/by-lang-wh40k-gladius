@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AIControlDisconnectedPlayers" value="Kantrol Adklučanych Hulcoŭ ŠI"/>
+	<entry name="AdaptiveTurnTimer" value="Adaptyŭny Tajmier Krokaŭ"/>
+	<entry name="ArcticRegionDensity" value="Ščylnaść Arktyčnaj Miascovaści"/>
+	<entry name="ArcticRegionDensity0" value="Nijakaja"/>
+	<entry name="ArcticRegionDensity1" value="Vielmi Nizkaja"/>
+	<entry name="ArcticRegionDensity2" value="Nizkaja"/>
+	<entry name="ArcticRegionDensity3" value="Siaredniaja"/>
+	<entry name="ArcticRegionDensity4" value="Vysokaja"/>
+	<entry name="ArcticRegionDensity5" value="Vielmi Vysokaja"/>	
+	<entry name="ArtefactDensity" value="Ščylnaść Artefaktaŭ"/>
+	<entry name="ArtefactDensity0" value="Vielmi Nizkaja"/>
+	<entry name="ArtefactDensity1" value="Nizkaja"/>
+	<entry name="ArtefactDensity2" value="Siaredniaja"/>
+	<entry name="ArtefactDensity3" value="Vysokaja"/>
+	<entry name="ArtefactDensity4" value="Vielmi Vysokaja"/>
+	<entry name="AvoidDuplicateRandomFactions" value="Nie dapuskać paŭtoru vypadkovych frakcyj"/>
+	<entry name="AvoidDuplicateRandomFactionsHint" value="Adrehulujcie šancy vypadkovych frakcyj tak, kab kožnaja frakcyja zjaŭlałasia ŭ hulni adnolkavuju kolkaść razoŭ."/>
+	<entry name="DesertRegionDensity" value="Ščylnaść Pustelnaj Miascovaści"/>
+	<entry name="DesertRegionDensity0" value="Nijakaja"/>
+	<entry name="DesertRegionDensity1" value="Vielmi Nizkaja"/>
+	<entry name="DesertRegionDensity2" value="Nizkaja"/>
+	<entry name="DesertRegionDensity3" value="Siaredniaja"/>
+	<entry name="DesertRegionDensity4" value="Vysokaja"/>
+	<entry name="DesertRegionDensity5" value="Vielmi Vysokaja"/>
+	<entry name="Difficulty" value="Składanaść"/>
+	<entry name="Difficulty0" value="Vielmi Lohkaja"/>
+	<entry name="Difficulty0AdeptusMechanicus" value="Adsikularys"/>
+	<entry name="Difficulty0AstraMilitarum" value="Pryzyŭnik"/>
+	<entry name="Difficulty0ChaosSpaceMarines" value="Kultyst"/>
+	<entry name="Difficulty0Eldar" value="Vartavy"/>
+	<entry name="Difficulty0Necrons" value="Raździralnik"/>
+	<entry name="Difficulty0Orks" value="Skvih"/>
+	<entry name="Difficulty0Random" value="Vielmi Słaby"/>
+	<entry name="Difficulty0SistersOfBattle" value="Pasłušnica"/>
+	<entry name="Difficulty0SpaceMarines" value="Nieafit"/>
+	<entry name="Difficulty0Tau" value="Hueviesa"/>
+	<entry name="Difficulty0Tyranids" value="Skarabiej"/>
+	<entry name="Difficulty0FactionHint" value="%1%: cierpić ad siaredniaj niastačy łajalnaści."/>
+	<entry name="Difficulty1" value="Lohkaja"/>
+	<entry name="Difficulty1AdeptusMechanicus" value="Siervitor"/>
+	<entry name="Difficulty1AstraMilitarum" value="Hvardziejec"/>
+	<entry name="Difficulty1ChaosSpaceMarines" value="Vyradak"/>
+	<entry name="Difficulty1Eldar" value="Vajar Aśpiektu"/>
+	<entry name="Difficulty1Necrons" value="Vajar"/>
+	<entry name="Difficulty1Orks" value="Hrot"/>
+	<entry name="Difficulty1Random" value="Słaby"/>
+	<entry name="Difficulty1SistersOfBattle" value="Siastra"/>
+	<entry name="Difficulty1SpaceMarines" value="Bajavy Brat"/>
+	<entry name="Difficulty1Tau" value="Šas‘saał"/>
+	<entry name="Difficulty1Tyranids" value="Termahant"/>
+	<entry name="Difficulty1FactionHint" value="%1%: cierpić ad maleńkaj niastačy łajalnaści."/>
+	<entry name="Difficulty2" value="Siaredniaja"/>
+	<entry name="Difficulty2AdeptusMechanicus" value="Mašynabačac"/>
+	<entry name="Difficulty2AstraMilitarum" value="Siaržant"/>
+	<entry name="Difficulty2ChaosSpaceMarines" value="Paŭšy Brat"/>
+	<entry name="Difficulty2Eldar" value="Rejndžar"/>
+	<entry name="Difficulty2Necrons" value="Nieśmiarotny"/>
+	<entry name="Difficulty2Orks" value="Chłopiec"/>
+	<entry name="Difficulty2Random" value="Siaredni"/>
+	<entry name="Difficulty2SistersOfBattle" value="Seleścina"/>
+	<entry name="Difficulty2SpaceMarines" value="Siaržant"/>
+	<entry name="Difficulty2Tau" value="Šas‘ła"/>
+	<entry name="Difficulty2Tyranids" value="Vajar"/>
+	<entry name="Difficulty2FactionHint" value="%1%: biez pieravahaŭ i niastač."/>
+	<entry name="Difficulty3" value="Ciažkaja"/>
+	<entry name="Difficulty3AdeptusMechanicus" value="Mahas"/>
+	<entry name="Difficulty3AstraMilitarum" value="Kamisar"/>
+	<entry name="Difficulty3ChaosSpaceMarines" value="Čempijon Chaosu"/>
+	<entry name="Difficulty3Eldar" value="Ekzarch"/>
+	<entry name="Difficulty3Necrons" value="Pretaryjaniec Tryjarchaŭ"/>
+	<entry name="Difficulty3Orks" value="Nob"/>
+	<entry name="Difficulty3Random" value="Mocny"/>
+	<entry name="Difficulty3SistersOfBattle" value="Pałacina"/>
+	<entry name="Difficulty3SpaceMarines" value="Kapitan"/>
+	<entry name="Difficulty3Tau" value="Šas‘ui"/>
+	<entry name="Difficulty3Tyranids" value="Liktar"/>
+	<entry name="Difficulty3FactionHint" value="%1%: atrymlivaje nievialikuju pieravahu ŭ łajalnaści i ŭzroŭni."/>
+	<entry name="Difficulty4" value="Vielmi Ciažkaja"/>
+	<entry name="Difficulty4AdeptusMechanicus" value="Fabrikejtar Łokum"/>
+	<entry name="Difficulty4AstraMilitarum" value="Hienierał"/>
+	<entry name="Difficulty4ChaosSpaceMarines" value="Vaładar Chaosu"/>
+	<entry name="Difficulty4Eldar" value="Avtarch"/>
+	<entry name="Difficulty4Necrons" value="Kriptek"/>
+	<entry name="Difficulty4Orks" value="Bos"/>
+	<entry name="Difficulty4Random" value="Vielmi Mocny"/>
+	<entry name="Difficulty4SistersOfBattle" value="Kananesa"/>
+	<entry name="Difficulty4SpaceMarines" value="Majstar Padziełu"/>
+	<entry name="Difficulty4Tau" value="Šas‘vre"/>
+	<entry name="Difficulty4Tyranids" value="Tyran Vulla"/>
+	<entry name="Difficulty4FactionHint" value="%1%: atrymlivaje siaredniuju pieravahu ŭ łajalnaści i ŭzroŭni."/>
+	<entry name="Difficulty5" value="Ultra Ciažkaja"/>
+	<entry name="Difficulty5AdeptusMechanicus" value="Fabrikejtar Hienierał"/>
+	<entry name="Difficulty5AstraMilitarum" value="Łord-Kamandzir"/>
+	<entry name="Difficulty5ChaosSpaceMarines" value="Kniaź-Deman"/>
+	<entry name="Difficulty5Eldar" value="Viaščun"/>
+	<entry name="Difficulty5Necrons" value="Vaładar"/>
+	<entry name="Difficulty5Orks" value="Vajnabos"/>
+	<entry name="Difficulty5Random" value="Ultra Ciažki"/>
+	<entry name="Difficulty5SistersOfBattle" value="Ihumieńnia"/>
+	<entry name="Difficulty5SpaceMarines" value="Prymarch"/>
+	<entry name="Difficulty5Tau" value="Šas‘eł"/>
+	<entry name="Difficulty5Tyranids" value="Daminatryca"/>
+	<entry name="Difficulty5FactionHint" value="%1%: atrymlivaje vialikuju pieravahu ŭ łajalnaści i ŭzroŭni."/>
+	<entry name="Difficulty6" value="Niemahčymaja"/>
+	<entry name="Difficulty6AdeptusMechanicus" value="Amnisija"/>
+	<entry name="Difficulty6AstraMilitarum" value="Majstar Vajny"/>
+	<entry name="Difficulty6ChaosSpaceMarines" value="Ciomny Boh"/>
+	<entry name="Difficulty6Eldar" value="Avatar"/>
+	<entry name="Difficulty6Necrons" value="Biazmoŭny Haspadar"/>
+	<entry name="Difficulty6Orks" value="Prarok Horka i Morka"/>
+	<entry name="Difficulty6Random" value="Niepieramožny"/>
+	<entry name="Difficulty6SistersOfBattle" value="Abatesa Sanktoruma"/>
+	<entry name="Difficulty6SpaceMarines" value="Impieratar"/>
+	<entry name="Difficulty6Tau" value="AŭnO"/>
+	<entry name="Difficulty6Tyranids" value="Norn-Karaleva"/>
+	<entry name="Difficulty6FactionHint" value="%1%: atrymlivaje ekstremalnuju pieravahu ŭ łajalnaści i ŭzroŭni."/>
+	<entry name="DifficultyHint" value="Źmianiaje pieravahi ŠI."/>
+	<entry name="ForestDensity" value="Ščylnaść Lesu"/>
+	<entry name="ForestDensity0" value="Vielmi Nizkaja"/>
+	<entry name="ForestDensity1" value="Nizkaja"/>
+	<entry name="ForestDensity2" value="Siaredniaja"/>
+	<entry name="ForestDensity3" value="Vysokaja"/>
+	<entry name="ForestDensity4" value="Vielmi Vysokaja"/>
+	<entry name="GameName" value="Nazva Hulni"/>
+	<entry name="GameSpeed" value="Chutkaść Hulni"/>
+	<entry name="GameVisibility" value="Bačnaść hulni"/> 
+	<entry name="GameVisibility0" value="Tolki Siabry"/>
+	<entry name="GameVisibility0Hint" value="Hulnia nie dastupnaja ŭ publičnym śpisie. Dostup mahčymy praz siabroŭski śpis, zaprašeńni ci niepasrednyja złučeńni."/>
+	<entry name="GameVisibility1" value="Pryvatnaja"/>
+	<entry name="GameVisibility1Hint" value="Hulnia nie dastupnaja ŭ publičnym śpisie. Dostup mahčymy tolki praz zaprašeńni ci niepasrednyja złučeńni."/>
+	<entry name="GameVisibility2" value="Publičnaja"/>
+	<entry name="GameVisibility2Hint" value="Heta publičnaja hulnia. Kožny moža dałučycca."/>
+	<entry name="HolySiteDensity" value="Ščylnaść Śviatych Miescaŭ"/>
+	<entry name="HolySiteDensity0" value="Vielmi Nizkaja"/>
+	<entry name="HolySiteDensity1" value="Nizkaja"/>
+	<entry name="HolySiteDensity2" value="Siaredniaja"/>
+	<entry name="HolySiteDensity3" value="Vysokaja"/>
+	<entry name="HolySiteDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="ImperialRuinsDensity" value="Ščylnaść Impierskich Ruin"/>
+	<entry name="ImperialRuinsDensity0" value="Vielmi Nizkaja"/>
+	<entry name="ImperialRuinsDensity1" value="Nizkaja"/>
+	<entry name="ImperialRuinsDensity2" value="Siaredniaja"/>
+	<entry name="ImperialRuinsDensity3" value="Vysokaja"/>
+	<entry name="ImperialRuinsDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="JokaeroTraderEncampmentDensity" value="Ščylnaść Handlovych Łahieraŭ Džakaera"/>
+	<entry name="JokaeroTraderEncampmentDensity0" value="Vielmi Nizkaja"/>
+	<entry name="JokaeroTraderEncampmentDensity1" value="Nizkaja"/>
+	<entry name="JokaeroTraderEncampmentDensity2" value="Siaredniaja"/>
+	<entry name="JokaeroTraderEncampmentDensity3" value="Vysokaja"/>
+	<entry name="JokaeroTraderEncampmentDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="LandMass" value="Płošča Sušy"/>
+	<entry name="LandMass0" value="Vielmi Nizkaja"/>
+	<entry name="LandMass1" value="Nizkaja"/>
+	<entry name="LandMass2" value="Siaredniaja"/>
+	<entry name="LandMass3" value="Vysokaja"/>
+	<entry name="LandMass4" value="Vielmi Vysokaja"/>
+	<entry name="LordOfSkulls" value="Łord Čerapaŭ DLC"/>
+	<entry name="MapEditor" value="Panel adładki"/>
+	<entry name="NecronTombDensity" value="Ščylnaść Hrabnic Niekronaŭ"/>
+	<entry name="NecronTombDensity0" value="Vielmi Nizkaja"/>
+	<entry name="NecronTombDensity1" value="Nizkaja"/>
+	<entry name="NecronTombDensity2" value="Siaredniaja"/>
+	<entry name="NecronTombDensity3" value="Vysokaja"/>
+	<entry name="NecronTombDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="OrkoidFungusDensity" value="Ščylnaść Orkoidnaha Hryba"/>
+	<entry name="OrkoidFungusDensity0" value="Vielmi Nizkaja"/>
+	<entry name="OrkoidFungusDensity1" value="Nizkaja"/>
+	<entry name="OrkoidFungusDensity2" value="Siaredniaja"/>
+	<entry name="OrkoidFungusDensity3" value="Vysokaja"/>
+	<entry name="OrkoidFungusDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="Pace" value="Chutkaść Hulni"/>
+	<entry name="Pace0" value="Vielmi Chutkaja"/>
+	<entry name="Pace1" value="Chutkaja"/>
+	<entry name="Pace2" value="Standartnaja"/>
+	<entry name="Pace3" value="Pavolnaja"/>
+	<entry name="Pace4" value="Vielmi Pavolnaja"/>
+	<entry name="Quests" value="Kvesty"/>
+	<entry name="RegionDensity" value="Ščylnaść Miascovaści"/>
+	<entry name="RegionDensity0" value="Vielmi Nizkaja"/>
+	<entry name="RegionDensity1" value="Nizkaja"/>
+	<entry name="RegionDensity2" value="Siaredniaja"/>
+	<entry name="RegionDensity3" value="Vysokaja"/>
+	<entry name="RegionDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="RegionSize" value="Pamier Miascovaści"/>
+	<entry name="RegionSize0" value="Vielmi maleńki"/>
+	<entry name="RegionSize1" value="Maleńki"/>
+	<entry name="RegionSize2" value="Siaredni"/>
+	<entry name="RegionSize3" value="Vialiki"/>
+	<entry name="RegionSize4" value="Vielmi Vialiki"/>
+	<entry name="ResearchCost" value="Košt Daśledavańniaŭ"/>
+	<entry name="ResearchCost0" value="Vielmi Nizki"/>
+	<entry name="ResearchCost1" value="Nizki"/>
+	<entry name="ResearchCost2" value="Siaredni"/>
+	<entry name="ResearchCost3" value="Vysoki"/>
+	<entry name="ResearchCost4" value="Vielmi Vysoki"/>
+	<entry name="ResourceCost" value="Košt Resursaŭ"/>
+	<entry name="ResourceCost0" value="Vielmi Nizki"/>
+	<entry name="ResourceCost1" value="Nizki"/>
+	<entry name="ResourceCost2" value="Siaredni"/>
+	<entry name="ResourceCost3" value="Vysoki"/>
+	<entry name="ResourceCost4" value="Vielmi Vysoki"/>
+	<entry name="ResourceUpkeep" value="Ŭtrymańnie Resursaŭ"/>
+	<entry name="ResourceUpkeep0" value="Vielmi Nizkaje"/>
+	<entry name="ResourceUpkeep1" value="Nizkaje"/>
+	<entry name="ResourceUpkeep2" value="Siaredniaje"/>
+	<entry name="ResourceUpkeep3" value="Vysokaje"/>
+	<entry name="ResourceUpkeep4" value="Vielmi Vysokaje"/>
+	<entry name="RiverDensity" value="Ščylnaść Rek"/>
+	<entry name="RiverDensity0" value="Vielmi Nizkaja"/>
+	<entry name="RiverDensity1" value="Nizkaja"/>
+	<entry name="RiverDensity2" value="Siaredniaja"/>
+	<entry name="RiverDensity3" value="Vysokaja"/>
+	<entry name="RiverDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="RuinsOfVaulDensity" value="Ščylnaść Ruin Vaŭła"/>
+	<entry name="RuinsOfVaulDensity0" value="Vielmi Nizkaja"/>
+	<entry name="RuinsOfVaulDensity1" value="Nizkaja"/>
+	<entry name="RuinsOfVaulDensity2" value="Siaredniaja"/>
+	<entry name="RuinsOfVaulDensity3" value="Vysokaja"/>
+	<entry name="RuinsOfVaulDensity4" value="Vielmi Vysokaja"/>	
+	<entry name="Seed" value="Nasieńnie Śvietu"/>
+	<entry name="SimultaneousTurns" value="Adnačasovyja Kroki"/>
+	<entry name="SimultaneousTurnsHint" value="Kali adklučana, tolki ŭdzielniki adnoj kamandy buduć dziejničać adnačasova."/>
+	<entry name="Size" value="Pamier Śvietu"/>
+	<entry name="Size0" value="Malusieńki"/>
+	<entry name="Size0Hint" value="%1%: Rekamiendavany dla 2 hulcoŭ."/>
+	<entry name="Size1" value="Maleńki"/>
+	<entry name="Size1Hint" value="%1%: Rekamiendavany dla 3 hulcoŭ."/>
+	<entry name="Size2" value="Siaredni"/>
+	<entry name="Size2Hint" value="%1%: Rekamiendavany dla 4 hulcoŭ."/>
+	<entry name="Size3" value="Vialiki"/>
+	<entry name="Size3Hint" value="%1%: Rekamiendavany dla 6 hulcoŭ."/>
+	<entry name="Size4" value="Vielizarny"/>
+	<entry name="Size4Hint" value="%1%: Rekamiendavany dla 8 hulcoŭ."/>
+	<entry name="SpecialResourceDensity" value="Ščylnaść Admysłovych Resursaŭ"/>
+	<entry name="SpecialResourceDensity0" value="Vielmi Nizkaja"/>
+	<entry name="SpecialResourceDensity1" value="Nizkaja"/>
+	<entry name="SpecialResourceDensity2" value="Siaredniaja"/>
+	<entry name="SpecialResourceDensity3" value="Vysokaja"/>
+	<entry name="SpecialResourceDensity4" value="Vielmi Vysokaja"/>
+	<entry name="StartingResource" value="Pačatkovyja Resursy"/>
+	<entry name="StartingResource0" value="Vielmi Mała"/>
+	<entry name="StartingResource1" value="Mała"/>
+	<entry name="StartingResource2" value="Siarednie"/>
+	<entry name="StartingResource3" value="Šmat"/>
+	<entry name="StartingResource4" value="Vielmi Šmat"/>
+	<entry name="Supplement1" value="DLC Nabor Padmacavańnie"/>
+	<entry name="Supplement2" value="DLC Tyranidy"/>
+	<entry name="Supplement3" value="DLC Kosmapiechi Chaosu"/>
+	<entry name="Supplement4" value="DLC Nabor Fartyfikacyja"/>
+	<entry name="Supplement5" value="DLC Tau"/>
+	<entry name="Supplement6" value="DLC Nabor Šturm"/>
+	<entry name="Supplement7" value="DLC Štučny Śviet Aeldary"/>
+	<entry name="Supplement8" value="DLC Nabor Admysłoŭcaŭ"/>
+	<entry name="Supplement9" value="DLC Adeptus Miechanikus"/>
+	<entry name="Supplement10" value="DLC Nabor Eskałacyja"/>
+	<entry name="Supplement11" value="DLC Adepta Sarorytas"/>
+	<entry name="TropicalRegionDensity" value="Ščylnaść Trapičnaj Miascovaści"/>
+	<entry name="TropicalRegionDensity0" value="Adsutničaje"/>
+	<entry name="TropicalRegionDensity1" value="Vielmi Nizkaja"/>
+	<entry name="TropicalRegionDensity2" value="Nizkaja"/>
+	<entry name="TropicalRegionDensity3" value="Siaredniaja"/>
+	<entry name="TropicalRegionDensity4" value="Vysokaja"/>
+	<entry name="TropicalRegionDensity5" value="Vielmi Vysokaja"/>	
+	<entry name="TurnTimer" value="Tajmier Kroku"/>
+	<entry name="TurnTimer0" value="Adsutničaje"/>
+	<entry name="TurnTimer1" value="Vielmi Karotki (1 chvilina)"/>
+	<entry name="TurnTimer2" value="Karotki (2 chviliny)"/>
+	<entry name="TurnTimer3" value="Umierany (3 chviliny)"/>
+	<entry name="TurnTimer4" value="Doŭhi (4 chviliny)"/>
+	<entry name="TurnTimer5" value="Vielmi Doŭhi (5 chvilin)"/>
+	<entry name="WebwayGateDensity" value="Ščylnaść Bram Pavucińnia"/>
+	<entry name="WebwayGateDensity0" value="Vielmi Nizkaja"/>
+	<entry name="WebwayGateDensity1" value="Nizkaja"/>
+	<entry name="WebwayGateDensity2" value="Siaredniaja"/>
+	<entry name="WebwayGateDensity3" value="Vysokaja"/>
+	<entry name="WebwayGateDensity4" value="Vielmi Vysokaja"/>
+	<entry name="WildlifeDensity" value="Ščylnaść Dzikaha Žyćcia"/>
+	<entry name="WildlifeDensity0" value="Vielmi Nizkaja"/>
+	<entry name="WildlifeDensity1" value="Nizkaja"/>
+	<entry name="WildlifeDensity2" value="Siaredniaja"/>
+	<entry name="WildlifeDensity3" value="Vysokaja"/>
+	<entry name="WildlifeDensity4" value="Vielmi Vysokaja"/>
+	<entry name="WireWeedDensity" value="Ščylnaść Pustaziella-Drotu"/>
+	<entry name="WireWeedDensity0" value="Vielmi Nizkaja"/>
+	<entry name="WireWeedDensity1" value="Nizkaja"/>
+	<entry name="WireWeedDensity2" value="Siaredniaja"/>
+	<entry name="WireWeedDensity3" value="Vysokaja"/>
+	<entry name="WireWeedDensity4" value="Vielmi Vysokaja"/>
+	<entry name="WorldSeed" value="Nasieńnie  Śvietu"/>
+	<entry name="WorldSize" value="Pamier Śvietu"/>
+	<entry name="VolcanicRegionDensity" value="Ščylnaść Vułkaničnaj Miascovaści"/>
+	<entry name="VolcanicRegionDensity0" value="Nijakaja"/>
+	<entry name="VolcanicRegionDensity1" value="Vielmi Nizkaja"/>
+	<entry name="VolcanicRegionDensity2" value="Nizkaja"/>
+	<entry name="VolcanicRegionDensity3" value="Siaredniaja"/>
+	<entry name="VolcanicRegionDensity4" value="Vysokaja"/>
+	<entry name="VolcanicRegionDensity5" value="Vielmi Vysokaja"/>
+</language>
