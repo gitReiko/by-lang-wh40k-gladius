@@ -35,7 +35,7 @@
 	<entry name="ClaimItemOnlyWithHero" value="Абярыце героя, каб забраць прадмет."/>
 	<entry name="ClearNotifications" value="Ачысьціць Апавяшчэньні"/>
 	<entry name="ClearNotificationsHint" value="Ачысьціць усе апавяшчэньні [<control name='Controls/NextTask'/>]."/>
-	<entry name="Community" value="Супольнасць"/>
+	<entry name="Community" value="Супольнасьць"/>
 	<entry name="Compendium" value="Кампендыум"/>
 	<entry name="CompendiumFlavor" value="Кампендыум захоўвае карысную інфармацыю пра гульню. Тут вы можаце прачытаць пра фракцыі, будынкі, адзінкі, атрымаць рады і шмат што іншае."/>
 	<entry name="Connect" value="Злучыць"/>
@@ -90,7 +90,7 @@
 	<entry name="ExitToDesktop" value="Выйсьці на Працоўны Стол"/>
 	<entry name="Explored" value="Дасьледавана"/>
 	<entry name="Factions" value="Фракцыі"/>
-	<entry name="Features" value="Мясцовасць"/>
+	<entry name="Features" value="Мясцовасьць"/>
 	<entry name="FreeAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Дармавое дзеяньне"/>
 	<entry name="Full" value="Поўны"/>
 	<entry name="GameBrowser" value="Агляд Гульні"/>
@@ -107,7 +107,7 @@
 	<entry name="InfoFormat" value="%3%%4%<style name='Italic'/>%5%<style name='Default'/>%9%%6%%7%%8%"/>
 	<entry name="Installed" value="Усталяваны"/>
 	<entry name="IntroductionGame" value="Навучаньне"/>
-	<entry name="IntroductionGameHint" value="Пачніце навучальную гульню за Космадэсант на найлягчэйшай складанасьці."/>
+	<entry name="IntroductionGameHint" value="Пачніце навучальную гульню за Космапехаў на найлягчэйшай складанасьці."/>
 	<entry name="InvalidName" value="Няправільнае імя."/>
 	<entry name="InviteEpicFriend" value="Запрасіць Сябра з Epic"/>
 	<entry name="InviteSteamFriend" value="Запрасіць Сябра з Steam"/>
@@ -180,9 +180,9 @@
 	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітак"/>
 	<entry name="Random" value="Выпадковы"/>
 	<entry name="Randomize" value="Выпадкова"/>
-	<entry name="RangeSelf" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасць: уласная"/>
-	<entry name="RangeTilesMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасць: %1% плітак"/>
-	<entry name="RangeTilesMinMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасць: %1%—%2% плітак"/>
+	<entry name="RangeSelf" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасьць: уласная"/>
+	<entry name="RangeTilesMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасьць: %1% плітак"/>
+	<entry name="RangeTilesMinMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Далёкасьць: %1%—%2% плітак"/>
 	<entry name="Ready" value="Гатовы"/>
 	<entry name="Refresh" value="Абнавіць"/>
 	<entry name="RemovePlayerHint" value="Выдаліць гульца."/>
@@ -227,7 +227,7 @@
 	<entry name="Scores" value="Вынікі"/>
 	<entry name="SelectCityHint" value="Абраць горад."/>
 	<entry name="SelectColorHint" value="Абраць колер."/>
-	<entry name="SelectDifficultyHint" value="Абраць складанасць."/>
+	<entry name="SelectDifficultyHint" value="Абраць складанасьць."/>
 	<entry name="SelectFaction" value="Абраць Фракцыю"/>
 	<entry name="SelectFactionHint" value="Абраць фракцыю."/>
 	<entry name="SelectNextCityHint" value="Абраць наступны горад."/>
@@ -286,7 +286,7 @@
 	<entry name="Version" value="Версія"/>
 	<entry name="VersionRevisionsDiffer" value="Версіі адрозьніваюцца (лакальная = %1%, сервер = %2%)."/>
 	<entry name="Victorious" value="Перамога"/>
-	<entry name="WaaaghLevelHint" value="<style name='Title'/>Узровень Вааагх!<style name='Default'/><br/>Кожны ўзровень Вааагх! павялічвае або зьменшвае атаку адзінак ды лаяльнасць будынкаў оркаў на 2%% (да +/-20%%). Узровень Вааагх! заснаваны на назапашаным уплыве і выдатку ўплыву на зьмест адзінак. Вааагх! абнаўляецца напачатку кожнага кроку.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% атакі ды лаяльнасць)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
+	<entry name="WaaaghLevelHint" value="<style name='Title'/>Узровень Вааагх!<style name='Default'/><br/>Кожны ўзровень Вааагх! павялічвае або зьменшвае атаку адзінак ды лаяльнасьць будынкаў оркаў на 2%% (да +/-20%%). Узровень Вааагх! заснаваны на назапашаным уплыве і выдатку ўплыву на зьмест адзінак. Вааагх! абнаўляецца напачатку кожнага кроку.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% атакі ды лаяльнасьць)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
 	<entry name="Weapons" value="Зброя"/>
 	<entry name="WorldDataChecksumsDiffer" value="Карта сьвету адрозьніваецца (лакальная = %1%, сервер = %2%)."/>
 	<entry name="WorldSeedHint" value="Націсьніце, каб скапіраваць насеньне сьвету"/>

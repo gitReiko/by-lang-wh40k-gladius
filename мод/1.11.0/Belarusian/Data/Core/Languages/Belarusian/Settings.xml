@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="Audio" value="Аўдыё"/>
-	<entry name="Audio/AmbientVolume" value="Гучнасць Навакольля"/>
-	<entry name="Audio/AmbientVolumeHint" value="Рэгулюе гучнасць навакольля."/>
-	<entry name="Audio/CinematicVolume" value="Гучнасць Відэа"/>
-	<entry name="Audio/CinematicVolumeHint" value="Рэгулюе гучнасць унутрыгульнявых відэа ролікаў."/>
-	<entry name="Audio/EffectVolume" value="Гучнасць Эфектаў"/>
-	<entry name="Audio/EffectVolumeHint" value="Рэгулюе гучнасць эфектаў."/>
+	<entry name="Audio/AmbientVolume" value="Гучнасьць Навакольля"/>
+	<entry name="Audio/AmbientVolumeHint" value="Рэгулюе гучнасьць навакольля."/>
+	<entry name="Audio/CinematicVolume" value="Гучнасьць Відэа"/>
+	<entry name="Audio/CinematicVolumeHint" value="Рэгулюе гучнасьць унутрыгульнявых відэа ролікаў."/>
+	<entry name="Audio/EffectVolume" value="Гучнасьць Эфектаў"/>
+	<entry name="Audio/EffectVolumeHint" value="Рэгулюе гучнасьць эфектаў."/>
 	<entry name="Audio/HRTF" value="HRTF"/>
-	<entry name="Audio/HRTFHint" value="Запытвае міксаваньне з дапамогай функцыі перадачы злучанай з галавой (Head-Related Transfer Function ці HRTF).<br/><br/>HRTF можа забясьпечыць лепшую прасторавую выразнасць пры выкарыстаньні навушнікаў за кошт выкарыстаньня адмысловых фільтраў, якія ўлічваюць форму галавы слухача для гукаў, якія прыходзяць з зададзенага кірунку.<br/><br/>Запыт міксаваньня HRTF можа пераканфігураваць AL прыладу для пэўнага рэжыму вываду і абмежаваць выкарыстаныя значэньні частаты.<br/><br/><style color='GUI/Yellow'/>Папярэджаньне: хоць HRTF можа выдатна гучаць у навушніках, ён можа прывесьці да павелічэньня выкарыстаньня рэсурсаў і можа дрэнна гучаць са звычайнымі дынамікамі, асабліва ў рэжыме аб'ёмнага гуку."/>
-	<entry name="Audio/InterfaceVolume" value="Гучнасць Інтэрфейсу"/>
-	<entry name="Audio/InterfaceVolumeHint" value="Рэгулюе гучнасць інтэрфейсу."/>
-	<entry name="Audio/MasterVolume" value="Агульная Гучнасць"/>
-	<entry name="Audio/MasterVolumeHint" value="Рэгулюе агульную гучнасць."/>
-	<entry name="Audio/MusicVolume" value="Гучнасць Музыкі"/>
-	<entry name="Audio/MusicVolumeHint" value="Рэгулюе гучнасць музыкі."/>
+	<entry name="Audio/HRTFHint" value="Запытвае міксаваньне з дапамогай функцыі перадачы злучанай з галавой (Head-Related Transfer Function ці HRTF).<br/><br/>HRTF можа забясьпечыць лепшую прасторавую выразнасьць пры выкарыстаньні навушнікаў за кошт выкарыстаньня адмысловых фільтраў, якія ўлічваюць форму галавы слухача для гукаў, якія прыходзяць з зададзенага кірунку.<br/><br/>Запыт міксаваньня HRTF можа пераканфігураваць AL прыладу для пэўнага рэжыму вываду і абмежаваць выкарыстаныя значэньні частаты.<br/><br/><style color='GUI/Yellow'/>Папярэджаньне: хоць HRTF можа выдатна гучаць у навушніках, ён можа прывесьці да павелічэньня выкарыстаньня рэсурсаў і можа дрэнна гучаць са звычайнымі дынамікамі, асабліва ў рэжыме аб'ёмнага гуку."/>
+	<entry name="Audio/InterfaceVolume" value="Гучнасьць Інтэрфейсу"/>
+	<entry name="Audio/InterfaceVolumeHint" value="Рэгулюе гучнасьць інтэрфейсу."/>
+	<entry name="Audio/MasterVolume" value="Агульная Гучнасьць"/>
+	<entry name="Audio/MasterVolumeHint" value="Рэгулюе агульную гучнасьць."/>
+	<entry name="Audio/MusicVolume" value="Гучнасьць Музыкі"/>
+	<entry name="Audio/MusicVolumeHint" value="Рэгулюе гучнасьць музыкі."/>
 	<entry name="Audio/OutputDevice" value="Прылада Вываду"/>
 	<entry name="Audio/OutputDeviceHint" value=""/>
-	<entry name="Audio/VoiceVolume" value="Гучнасць Голасу"/>
-	<entry name="Audio/VoiceVolumeHint" value="Рэгулюе гучнасць голасу."/>
+	<entry name="Audio/VoiceVolume" value="Гучнасьць Голасу"/>
+	<entry name="Audio/VoiceVolumeHint" value="Рэгулюе гучнасьць голасу."/>
 	<entry name="Controls" value="Кіраваньне"/>
 	<entry name="Controls/Cancel" value="Скасаваць"/>
 	<entry name="Controls/Cargo0" value="Груз 1"/>
@@ -100,19 +100,19 @@
 	<entry name="Controls/UnitItem8" value="Прадмет Адзінкі 9"/>
 	<entry name="Controls/UnitItem9" value="Прадмет Адзінкі 10"/>
 	<entry name="General" value="Агульныя"/>
-	<entry name="General/AnimationSpeed" value="Хуткасць Анімацыі"/>
+	<entry name="General/AnimationSpeed" value="Хуткасьць Анімацыі"/>
 	<entry name="General/AnimationSpeedHint" value=""/>
 	<entry name="General/AutoCycleUnits" value="Аўтавыбар Адзінак"/>
 	<entry name="General/AutoCycleUnitsHint" value="Аўтаматычны пераход да наступнай адзінкі што чакае загад."/>
 	<entry name="General/AutoSendReports" value="Адпраўленьне Статыстыкі Выкарыстаньня і Справаздач аб Збоях"/>
-	<entry name="General/AutoSendReportsHint" value="Аўтаматычнае адпраўленьне статыстыкі выкарыстаньня і справаздач аб збоях ў Proxy Studios для паляпшэньня асаблівасьцяў, стабільнасьці і прадукцыйнасьці гульні.<br/><br/><style color='GUI/Yellow'/>Мы паважаем Вашу прыватнасць. Мы імкнёмся зьбіраць толькі тую інфармацыю, якая патрэбна для паляпшэньня гульні. Сабраныя дадзеныя ўключаюць ананімнае ўзаемадзеяньне з гульнёй (напрыклад, колькасць спробаў і збояў сеткавага падлучэньня, тыпы запушчаных гульняў, карыстаныя функцыі, націснутыя кнопкі і час  гульні), а таксама ананімную тэхнічную інфармацыю (напрыклад, версію гульні і мову, зьвесткі аб аперацыйнай сістэме і абсталяваньне, а таксама базавую інфармацыю аб збоях і памылках). Гэтыя дадзеныя апрацоўваюцца ў адпаведнасьці з законным інтарэсам для прадастаўленьня якаснага і надзейнага прадукту. Дадзеныя захоўваецца да 1 года і ніколі не перадаюцца трэцім асобам."/>
+	<entry name="General/AutoSendReportsHint" value="Аўтаматычнае адпраўленьне статыстыкі выкарыстаньня і справаздач аб збоях ў Proxy Studios для паляпшэньня асаблівасьцяў, стабільнасьці і прадукцыйнасьці гульні.<br/><br/><style color='GUI/Yellow'/>Мы паважаем Вашу прыватнасьць. Мы імкнёмся зьбіраць толькі тую інфармацыю, якая патрэбна для паляпшэньня гульні. Сабраныя дадзеныя ўключаюць ананімнае ўзаемадзеяньне з гульнёй (напрыклад, колькасьць спробаў і збояў сеткавага падлучэньня, тыпы запушчаных гульняў, карыстаныя функцыі, націснутыя кнопкі і час  гульні), а таксама ананімную тэхнічную інфармацыю (напрыклад, версію гульні і мову, зьвесткі аб аперацыйнай сістэме і абсталяваньне, а таксама базавую інфармацыю аб збоях і памылках). Гэтыя дадзеныя апрацоўваюцца ў адпаведнасьці з законным інтарэсам для прадастаўленьня якаснага і надзейнага прадукту. Дадзеныя захоўваецца да 1 года і ніколі не перадаюцца трэцім асобам."/>
 	<entry name="General/Language" value="Мова"/>
 	<entry name="General/LanguageHint" value="Вызначае пісьмовую мову.<br/><br/><style color='GUI/Red'/>Каб эфект ад зьмены гэтага параметра набыў моц, трэба перазагрузіць гульню."/>
 	<entry name="General/ResetTips" value="Скінуць Падказкі"/>
 	<entry name="General/ResetTipsHint" value="Скіданьне радаў прывядзе да іх паўторнага адлюстраваньня ў гульні."/>
 	<entry name="General/ScrollAcceleration" value="Паскарэньне Прагорткі"/>
 	<entry name="General/ScrollAccelerationHint" value=""/>
-	<entry name="General/ScrollSpeed" value="Хуткасць Прагорткі"/>
+	<entry name="General/ScrollSpeed" value="Хуткасьць Прагорткі"/>
 	<entry name="General/ScrollSpeedHint" value=""/>
 	<entry name="General/ScrollToAction" value="Аўтапрагортка да Дзеяньня"/>
 	<entry name="General/ScrollToActionHint" value="Камера будзе аўтаматычна пракручвацца да кожнага дзеяньня, якое адбываецца падчас кроку ШІ."/>
@@ -120,7 +120,7 @@
 	<entry name="General/ShowBarksHint" value="Паказваць дыялогі адзінак."/>
 	<entry name="General/ShowCinematics" value="Паказваць Відэа"/>
 	<entry name="General/ShowCinematicsHint" value="Паказваць відэа ролікі."/>
-	<entry name="General/ShowPerformance" value="Паказваць Прадукцыйнасць"/>
+	<entry name="General/ShowPerformance" value="Паказваць Прадукцыйнасьць"/>
 	<entry name="General/ShowPerformanceHint" value="Паказваць інфармацыю аб прадукцыйнасьці."/>
 	<entry name="General/ShowSubtitles" value="Паказваць Субтытры"/>
 	<entry name="General/ShowSubtitlesHint" value="Паказваць субтытры ўнізе відэа ролікаў, якія перакладаюць або транскрыбуюць дыялог і аповед."/>
@@ -134,7 +134,7 @@
 	<entry name="Video" value="Відэа"/>
 	<entry name="Video/AnisotropicFiltering" value="Анізатропная Фільтрацыя"/>
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
-	<entry name="Video/Brightness" value="Яркасць"/>
+	<entry name="Video/Brightness" value="Яркасьць"/>
 	<entry name="Video/BrightnessHint" value=""/>
 	<entry name="Video/CloudShadows" value="Цені Воблакаў"/>
 	<entry name="Video/CloudShadowsHint" value=""/>
@@ -156,7 +156,7 @@
 	<entry name="Video/FixedTimeOfDayAt" value="Фіксаваны Час Сутак у"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
 	<entry name="Video/FXAA" value="Згладжваньне"/>
-	<entry name="Video/FXAAHint" value="Зьменшвае няроўнасьці шляхам згладжваньня краёў з дапамогай FXAA. Можа панізіць прадукцыйнасць. Залежыць ад вылічальнай магутнасьці вашай відэакарты."/>
+	<entry name="Video/FXAAHint" value="Зьменшвае няроўнасьці шляхам згладжваньня краёў з дапамогай FXAA. Можа панізіць прадукцыйнасьць. Залежыць ад вылічальнай магутнасьці вашай відэакарты."/>
 	<entry name="Video/Gamma" value="Гама"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="Маштаб ГКІ"/>
@@ -171,23 +171,23 @@
 	<entry name="Video/Monitor" value="Манітор"/>
 	<entry name="Video/MonitorHint" value=""/>
 	<entry name="Video/MultiThreadedRendering" value="Шматпаточны Рэндарынг"/>
-	<entry name="Video/MultiThreadedRenderingHint" value="Выкарыстоўвае некалькі ядзер ЦП для рэндарынгу. Гэта можа павялічыць прадукцыйнасць. Адключэньне гэтага параметра можа выдаліць патэнцыйныя візуальныя артэфакты."/>
-	<entry name="Video/Resolution" value="Разрознасць"/>
-	<entry name="Video/ResolutionHint" value="Дазваляе зьмяніць разрознасць экрана гульні. Больш высокая разрознасць прывядзе да павышэньня выразнасьці, але моцна паўплывае на прадукцыйнасць."/>
-	<entry name="Video/ShadowQuality" value="Якасць Ценяў"/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Выкарыстоўвае некалькі ядзер ЦП для рэндарынгу. Гэта можа павялічыць прадукцыйнасьць. Адключэньне гэтага параметра можа выдаліць патэнцыйныя візуальныя артэфакты."/>
+	<entry name="Video/Resolution" value="Разрознасьць"/>
+	<entry name="Video/ResolutionHint" value="Дазваляе зьмяніць разрознасьць экрана гульні. Больш высокая разрознасьць прывядзе да павышэньня выразнасьці, але моцна паўплывае на прадукцыйнасьць."/>
+	<entry name="Video/ShadowQuality" value="Якасьць Ценяў"/>
 	<entry name="Video/ShadowQuality0" value="Нізкая"/>
 	<entry name="Video/ShadowQuality1" value="Сярэдняя"/>
 	<entry name="Video/ShadowQuality2" value="Высокая"/>
-	<entry name="Video/ShadowQualityHint" value="Вызначае памер карты ценяў, што выкарыстоўваецца для рэндарынгу. Больш высокая якасць ценяў прывядзе да больш дэталёвых ценяў, але для гэтага спатрэбіцца магутнейшая відэакарта."/>
+	<entry name="Video/ShadowQualityHint" value="Вызначае памер карты ценяў, што выкарыстоўваецца для рэндарынгу. Больш высокая якасьць ценяў прывядзе да больш дэталёвых ценяў, але для гэтага спатрэбіцца магутнейшая відэакарта."/>
 	<entry name="Video/ShowCliffHighlights" value="Паказваць Падсьветку Вяршынь"/>
 	<entry name="Video/ShowCliffHighlightsHint" value="Паказвае лініі, якія падсьвятляюць вяршыні."/>
 	<entry name="Video/ShowGrid" value="Паказаць Сетку"/>
 	<entry name="Video/ShowGridHint" value="Паказаць сетку на зямлі."/>
-	<entry name="Video/TextureQuality" value="Якасць Тэкстур"/>
+	<entry name="Video/TextureQuality" value="Якасьць Тэкстур"/>
 	<entry name="Video/TextureQuality0" value="Нізкая"/>
 	<entry name="Video/TextureQuality1" value="Сярэдняя"/>
 	<entry name="Video/TextureQuality2" value="Высокая"/>
-	<entry name="Video/TextureQualityHint" value="Вызначае памер тэкстур, якія выкарыстоўваюцца ў гульні. Больш высокая якасць тэкстур прывядзе да больш дэталізаванага ландшафту і адзінак, але для гэтага спатрэбіцца болей відэапамяці (VRAM).<br/><br/>Нізкая: 1 Гб<br/>Сярэдняя: 2 Гб<br/>Высокая: 3 Гб"/>
+	<entry name="Video/TextureQualityHint" value="Вызначае памер тэкстур, якія выкарыстоўваюцца ў гульні. Больш высокая якасьць тэкстур прывядзе да больш дэталізаванага ландшафту і адзінак, але для гэтага спатрэбіцца болей відэапамяці (VRAM).<br/><br/>Нізкая: 1 Гб<br/>Сярэдняя: 2 Гб<br/>Высокая: 3 Гб"/>
 	<entry name="Video/VerticalSynchronization" value="Вертыкальная Сінхранізацыя"/>
 	<entry name="Video/VerticalSynchronization-1" value="Адаптыўная"/> <!-- TODO: Hints -->
 	<entry name="Video/VerticalSynchronization0" value="Ніякая"/>
