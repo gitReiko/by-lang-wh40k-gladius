@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Audio" value="Аўдыё"/>
+	<entry name="Audio/AmbientVolume" value="Гучнасьць Навакольля"/>
+	<entry name="Audio/AmbientVolumeHint" value="Рэгулюе гучнасьць навакольля."/>
+	<entry name="Audio/CinematicVolume" value="Гучнасьць Відэа"/>
+	<entry name="Audio/CinematicVolumeHint" value="Рэгулюе гучнасьць унутрыгульнявых відэа ролікаў."/>
+	<entry name="Audio/EffectVolume" value="Гучнасьць Эфектаў"/>
+	<entry name="Audio/EffectVolumeHint" value="Рэгулюе гучнасьць эфектаў."/>
+	<entry name="Audio/HRTF" value="HRTF"/>
+	<entry name="Audio/HRTFHint" value="Запытвае міксаваньне з дапамогай функцыі перадачы злучанай з галавой (Head-Related Transfer Function ці HRTF).<br/><br/>HRTF можа забясьпечыць лепшую прасторавую выразнасьць пры выкарыстаньні навушнікаў за кошт выкарыстаньня адмысловых фільтраў, якія ўлічваюць форму галавы слухача для гукаў, якія прыходзяць з зададзенага кірунку.<br/><br/>Запыт міксаваньня HRTF можа пераканфігураваць AL прыладу для пэўнага рэжыму вываду і абмежаваць выкарыстаныя значэньні частаты.<br/><br/><style color='GUI/Yellow'/>Папярэджаньне: хоць HRTF можа выдатна гучаць у навушніках, ён можа прывесьці да павелічэньня выкарыстаньня рэсурсаў і можа дрэнна гучаць са звычайнымі дынамікамі, асабліва ў рэжыме аб'ёмнага гуку."/>
+	<entry name="Audio/InterfaceVolume" value="Гучнасьць Інтэрфейсу"/>
+	<entry name="Audio/InterfaceVolumeHint" value="Рэгулюе гучнасьць інтэрфейсу."/>
+	<entry name="Audio/MasterVolume" value="Агульная Гучнасьць"/>
+	<entry name="Audio/MasterVolumeHint" value="Рэгулюе агульную гучнасьць."/>
+	<entry name="Audio/MusicVolume" value="Гучнасьць Музыкі"/>
+	<entry name="Audio/MusicVolumeHint" value="Рэгулюе гучнасьць музыкі."/>
+	<entry name="Audio/OutputDevice" value="Прылада Вываду"/>
+	<entry name="Audio/OutputDeviceHint" value=""/>
+	<entry name="Audio/VoiceVolume" value="Гучнасьць Голасу"/>
+	<entry name="Audio/VoiceVolumeHint" value="Рэгулюе гучнасьць голасу."/>
+	<entry name="Controls" value="Кіраваньне"/>
+	<entry name="Controls/Cancel" value="Скасаваць"/>
+	<entry name="Controls/Cargo0" value="Груз 1"/>
+	<entry name="Controls/Cargo1" value="Груз 2"/>
+	<entry name="Controls/Cargo2" value="Груз 3"/>
+	<entry name="Controls/Cargo3" value="Груз 4"/>
+	<entry name="Controls/Cargo4" value="Груз 5"/>
+	<entry name="Controls/Cargo5" value="Груз 6"/>
+	<entry name="Controls/Cargo6" value="Груз 7"/>
+	<entry name="Controls/Cargo7" value="Груз 8"/>
+	<entry name="Controls/Cargo8" value="Груз 9"/>
+	<entry name="Controls/Cargo9" value="Груз 10"/>
+	<entry name="Controls/Chat" value="Чат"/>
+	<entry name="Controls/ForceEndTurn" value="Прымусовае Завяршэньне Кроку"/>
+	<entry name="Controls/MarkTile" value="Пазначыць Плітку"/>
+	<entry name="Controls/NextMusicTrack" value="Наступны Музычны Трэк"/>
+	<entry name="Controls/NextTask" value="Наступная Задача"/>
+	<entry name="Controls/OK" value="Добра"/>
+	<entry name="Controls/OpenCompendiumScreen" value="Адкрыць Экран Кампендыума"/>
+	<entry name="Controls/OpenQuestsScreen" value="Адкрыць Экран Квэста"/>
+	<entry name="Controls/OpenResearchScreen" value="Адкрыць Экран Дасьледваньняў"/>
+	<entry name="Controls/PlayerAction0" value="Дзеяньне Гульца 1"/>
+	<entry name="Controls/PlayerAction1" value="Дзеяньне Гульца 2"/>
+	<entry name="Controls/PlayerAction2" value="Дзеяньне Гульца 3"/>
+	<entry name="Controls/PlayerAction3" value="Дзеяньне Гульца 4"/>
+	<entry name="Controls/PlayerAction4" value="Дзеяньне Гульца 5"/>
+	<entry name="Controls/PlayerAction5" value="Дзеяньне Гульца 6"/>
+	<entry name="Controls/PlayerAction6" value="Дзеяньне Гульца 7"/>
+	<entry name="Controls/PlayerAction7" value="Дзеяньне Гульца 8"/>
+	<entry name="Controls/PlayerAction8" value="Дзеяньне Гульца 9"/>
+	<entry name="Controls/PlayerAction9" value="Дзеяньне Гульца 10"/>
+	<entry name="Controls/QuickLoad" value="Хуткая Загрузка"/>
+	<entry name="Controls/QuickSave" value="Хуткае Захаваньне"/>
+	<entry name="Controls/ReloadModifiedResources" value="Перазагрузіць Зьмененыя Рэсурсы"/>
+	<entry name="Controls/SaveJPGScreenShot" value="Захаваць JPG Здымак Экрана"/>
+	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Захаваць JPG Здымак Экрана безь Інтэрфейсу"/>
+	<entry name="Controls/SavePNGScreenShot" value="Захаваць PNG Здымак Экрана"/>
+	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Захаваць PNG Здымак Экрана безь Інтэрфейсу"/>
+	<entry name="Controls/ScrollDown" value="Пракруціць Уніз"/>
+	<entry name="Controls/ScrollLeft" value="Пракруціць Налева"/>
+	<entry name="Controls/ScrollRight" value="Пракруціць Направа"/>
+	<entry name="Controls/ScrollUp" value="Пракруціць Уверх"/>
+	<entry name="Controls/SelectNext" value="Наступны Выбар"/>
+	<entry name="Controls/SelectPrevious" value="Папярэдні Выбар"/>
+	<entry name="Controls/ToggleDebugPanel" value="Уключыць Панэль Адладкі"/>
+	<entry name="Controls/ToggleDisplayMode" value="Уключыць Рэжым Адлюстраваньня"/>
+	<entry name="Controls/ToggleFPSDisplay" value="Уключыць Адлюстраваньне FPS"/>
+	<entry name="Controls/ToggleHUD" value="Уключыць Інтэрфейс"/>
+	<entry name="Controls/ToggleLoadScreen" value="Уключыць Экран Загрузкі"/>
+	<entry name="Controls/ToggleMixerPanel" value="Уключыць Панэль Мікшара"/>
+	<entry name="Controls/ToggleSaveScreen" value="Уключыць Экран Захаваньня"/>
+	<entry name="Controls/ToggleSettingsScreen" value="Уключыць Экран Наладаў"/>
+	<entry name="Controls/ToggleStatsPanel" value="Уключыць Панэль Статыстыкі"/>
+	<entry name="Controls/ToggleUnitOverlay" value="Уключыць Слой Адзінак"/>
+	<entry name="Controls/ToggleYieldOverlay" value="Уключыць Слой Прыбытку"/>
+	<entry name="Controls/UnitAction0" value="Дзеяньне Адзінкі 1"/>
+	<entry name="Controls/UnitAction1" value="Дзеяньне Адзінкі 2"/>
+	<entry name="Controls/UnitAction2" value="Дзеяньне Адзінкі 3"/>
+	<entry name="Controls/UnitAction3" value="Дзеяньне Адзінкі 4"/>
+	<entry name="Controls/UnitAction4" value="Дзеяньне Адзінкі 5"/>
+	<entry name="Controls/UnitAction5" value="Дзеяньне Адзінкі 6"/>
+	<entry name="Controls/UnitAction6" value="Дзеяньне Адзінкі 7"/>
+	<entry name="Controls/UnitAction7" value="Дзеяньне Адзінкі 8"/>
+	<entry name="Controls/UnitAction8" value="Дзеяньне Адзінкі 9"/>
+	<entry name="Controls/UnitAction9" value="Дзеяньне Адзінкі 10"/>
+	<entry name="Controls/UnitAction10" value="Дзеяньне Адзінкі 11"/>
+	<entry name="Controls/UnitAction11" value="Дзеяньне Адзінкі 12"/>
+	<entry name="Controls/UnitAction12" value="Дзеяньне Адзінкі 13"/>
+	<entry name="Controls/UnitAction13" value="Дзеяньне Адзінкі 14"/>
+	<entry name="Controls/UnitAction14" value="Дзеяньне Адзінкі 15"/>
+	<entry name="Controls/UnitItem0" value="Прадмет Адзінкі 1"/>
+	<entry name="Controls/UnitItem1" value="Прадмет Адзінкі 2"/>
+	<entry name="Controls/UnitItem2" value="Прадмет Адзінкі 3"/>
+	<entry name="Controls/UnitItem3" value="Прадмет Адзінкі 4"/>
+	<entry name="Controls/UnitItem4" value="Прадмет Адзінкі 5"/>
+	<entry name="Controls/UnitItem5" value="Прадмет Адзінкі 6"/>
+	<entry name="Controls/UnitItem6" value="Прадмет Адзінкі 7"/>
+	<entry name="Controls/UnitItem7" value="Прадмет Адзінкі 8"/>
+	<entry name="Controls/UnitItem8" value="Прадмет Адзінкі 9"/>
+	<entry name="Controls/UnitItem9" value="Прадмет Адзінкі 10"/>
+	<entry name="General" value="Агульныя"/>
+	<entry name="General/AnimationSpeed" value="Хуткасьць Анімацыі"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General/AutoCycleUnits" value="Аўтавыбар Адзінак"/>
+	<entry name="General/AutoCycleUnitsHint" value="Аўтаматычны пераход да наступнай адзінкі што чакае загад."/>
+	<entry name="General/AutoSendReports" value="Адпраўленьне Статыстыкі Выкарыстаньня і Справаздач аб Збоях"/>
+	<entry name="General/AutoSendReportsHint" value="Аўтаматычнае адпраўленьне статыстыкі выкарыстаньня і справаздач аб збоях ў Proxy Studios для паляпшэньня асаблівасьцяў, стабільнасьці і прадукцыйнасьці гульні.<br/><br/><style color='GUI/Yellow'/>Мы паважаем Вашу прыватнасьць. Мы імкнёмся зьбіраць толькі тую інфармацыю, якая патрэбна для паляпшэньня гульні. Сабраныя дадзеныя ўключаюць ананімнае ўзаемадзеяньне з гульнёй (напрыклад, колькасьць спробаў і збояў сеткавага падлучэньня, тыпы запушчаных гульняў, карыстаныя функцыі, націснутыя кнопкі і час  гульні), а таксама ананімную тэхнічную інфармацыю (напрыклад, версію гульні і мову, зьвесткі аб аперацыйнай сістэме і абсталяваньне, а таксама базавую інфармацыю аб збоях і памылках). Гэтыя дадзеныя апрацоўваюцца ў адпаведнасьці з законным інтарэсам для прадастаўленьня якаснага і надзейнага прадукту. Дадзеныя захоўваецца да 1 года і ніколі не перадаюцца трэцім асобам."/>
+	<entry name="General/Language" value="Мова"/>
+	<entry name="General/LanguageHint" value="Вызначае пісьмовую мову.<br/><br/><style color='GUI/Red'/>Каб эфект ад зьмены гэтага параметра набыў моц, трэба перазагрузіць гульню."/>
+	<entry name="General/ResetTips" value="Скінуць Падказкі"/>
+	<entry name="General/ResetTipsHint" value="Скіданьне радаў прывядзе да іх паўторнага адлюстраваньня ў гульні."/>
+	<entry name="General/ScrollAcceleration" value="Паскарэньне Прагорткі"/>
+	<entry name="General/ScrollAccelerationHint" value=""/>
+	<entry name="General/ScrollSpeed" value="Хуткасьць Прагорткі"/>
+	<entry name="General/ScrollSpeedHint" value=""/>
+	<entry name="General/ScrollToAction" value="Аўтапрагортка да Дзеяньня"/>
+	<entry name="General/ScrollToActionHint" value="Камера будзе аўтаматычна пракручвацца да кожнага дзеяньня, якое адбываецца падчас кроку ШІ."/>
+	<entry name="General/ShowBarks" value="Паказваць Дыялогі"/>
+	<entry name="General/ShowBarksHint" value="Паказваць дыялогі адзінак."/>
+	<entry name="General/ShowCinematics" value="Паказваць Відэа"/>
+	<entry name="General/ShowCinematicsHint" value="Паказваць відэа ролікі."/>
+	<entry name="General/ShowPerformance" value="Паказваць Прадукцыйнасьць"/>
+	<entry name="General/ShowPerformanceHint" value="Паказваць інфармацыю аб прадукцыйнасьці."/>
+	<entry name="General/ShowSubtitles" value="Паказваць Субтытры"/>
+	<entry name="General/ShowSubtitlesHint" value="Паказваць субтытры ўнізе відэа ролікаў, якія перакладаюць або транскрыбуюць дыялог і аповед."/>
+	<entry name="General/ShowTips" value="Паказваць Падказкі"/>
+	<entry name="General/ShowTipsHint" value="Паказваць карысныя падказкі ў гульні."/>
+	<entry name="Network" value="Сетка"/>
+	<entry name="Network/ListenPort" value="Праслухоўваць Порт"/>
+	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/RemoteAddress" value="Дыстанцыйны Адрас"/>
+	<entry name="Network/RemotePort" value="Дыстанцыйны Порт"/>
+	<entry name="Video" value="Відэа"/>
+	<entry name="Video/AnisotropicFiltering" value="Анізатропная Фільтрацыя"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="Яркасьць"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="Цені Воблакаў"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="Кантраст"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="Гушчыня Туману"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="Глыбіня Рэзкасьці"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/Device" value="Прылада"/>
+	<entry name="Video/DeviceHint" value=""/>
+	<entry name="Video/DisplayMode" value="Рэжым Адлюстраваньня"/>
+	<entry name="Video/DisplayMode0" value="Поўнаэкранны"/>
+	<entry name="Video/DisplayMode1" value="Аконны"/>
+	<entry name="Video/DisplayMode2" value="Аконны бяз Рамак"/>
+	<entry name="Video/DisplayModeHint" value="Дазваляе зьмяніць рэжым адлюстраваньня гульні. Аконныя рэжымы могуць выклікаць зьніжэньне прадукцыйнасьці.<br/><br/><style color='GUI/Yellow'/>Аконны рэжым найлепей падыходзіць для запісу ў роднай разрознасьці."/>
+	<entry name="Video/FixedTimeOfDay" value="Фіксаваны Час Сутак"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="Фіксаваны Час Сутак у"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="Згладжваньне"/>
+	<entry name="Video/FXAAHint" value="Зьменшвае няроўнасьці шляхам згладжваньня краёў з дапамогай FXAA. Можа панізіць прадукцыйнасьць. Залежыць ад вылічальнай магутнасьці вашай відэакарты."/>
+	<entry name="Video/Gamma" value="Гама"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/GUIScale" value="Маштаб ГКІ"/>
+	<entry name="Video/GUIScaleCustom" value="Уласны: %1%%%"/>
+	<entry name="Video/GUIScaleHint" value="Маштабуе графічны карыстацкі інтэрфейс."/>
+	<entry name="Video/MaxFocusedTickrate" value="Макс Факусаваны FPS"/>
+	<entry name="Video/MaxFocusedTickrateHint" value=""/>
+	<entry name="Video/MaxMinimizedTickrate" value="Макс Мінімальны FPS"/>
+	<entry name="Video/MaxMinimizedTickrateHint" value=""/>
+	<entry name="Video/MaxUnfocusedTickrate" value="Макс Несфакусаваны FPS"/>
+	<entry name="Video/MaxUnfocusedTickrateHint" value=""/>
+	<entry name="Video/Monitor" value="Манітор"/>
+	<entry name="Video/MonitorHint" value=""/>
+	<entry name="Video/MultiThreadedRendering" value="Шматпаточны Рэндарынг"/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Выкарыстоўвае некалькі ядзер ЦП для рэндарынгу. Гэта можа павялічыць прадукцыйнасьць. Адключэньне гэтага параметра можа выдаліць патэнцыйныя візуальныя артэфакты."/>
+	<entry name="Video/Resolution" value="Разрознасьць"/>
+	<entry name="Video/ResolutionHint" value="Дазваляе зьмяніць разрознасьць экрана гульні. Больш высокая разрознасьць прывядзе да павышэньня выразнасьці, але моцна паўплывае на прадукцыйнасьць."/>
+	<entry name="Video/ShadowQuality" value="Якасьць Ценяў"/>
+	<entry name="Video/ShadowQuality0" value="Нізкая"/>
+	<entry name="Video/ShadowQuality1" value="Сярэдняя"/>
+	<entry name="Video/ShadowQuality2" value="Высокая"/>
+	<entry name="Video/ShadowQualityHint" value="Вызначае памер карты ценяў, што выкарыстоўваецца для рэндарынгу. Больш высокая якасьць ценяў прывядзе да больш дэталёвых ценяў, але для гэтага спатрэбіцца магутнейшая відэакарта."/>
+	<entry name="Video/ShowCliffHighlights" value="Паказваць Падсьветку Вяршынь"/>
+	<entry name="Video/ShowCliffHighlightsHint" value="Паказвае лініі, якія падсьвятляюць вяршыні."/>
+	<entry name="Video/ShowGrid" value="Паказаць Сетку"/>
+	<entry name="Video/ShowGridHint" value="Паказаць сетку на зямлі."/>
+	<entry name="Video/TextureQuality" value="Якасьць Тэкстур"/>
+	<entry name="Video/TextureQuality0" value="Нізкая"/>
+	<entry name="Video/TextureQuality1" value="Сярэдняя"/>
+	<entry name="Video/TextureQuality2" value="Высокая"/>
+	<entry name="Video/TextureQualityHint" value="Вызначае памер тэкстур, якія выкарыстоўваюцца ў гульні. Больш высокая якасьць тэкстур прывядзе да больш дэталізаванага ландшафту і адзінак, але для гэтага спатрэбіцца болей відэапамяці (VRAM).<br/><br/>Нізкая: 1 Гб<br/>Сярэдняя: 2 Гб<br/>Высокая: 3 Гб"/>
+	<entry name="Video/VerticalSynchronization" value="Вертыкальная Сінхранізацыя"/>
+	<entry name="Video/VerticalSynchronization-1" value="Адаптыўная"/> <!-- TODO: Hints -->
+	<entry name="Video/VerticalSynchronization0" value="Ніякая"/>
+	<entry name="Video/VerticalSynchronization1" value="Звычайная"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Сінхранізуе часьціню кадраў кампутара з чашчынёй абнаўленьня манітора."/>
+	<entry name="World" value="Сьвет"/>
+</language>

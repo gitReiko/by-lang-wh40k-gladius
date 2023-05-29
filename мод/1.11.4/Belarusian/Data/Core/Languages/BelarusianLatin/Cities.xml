@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+<entry name="AdeptusMechanicus" value="<string name='Factions/AdeptusMechanicus'/>"/>
+	<entry name="AdeptusMechanicus0" value="Zoryel Ipse"/>
+	<entry name="AdeptusMechanicus1" value="Koł Supirior"/>
+	<entry name="AdeptusMechanicus2" value="Rarałosus"/>
+	<entry name="AdeptusMechanicus3" value="Ikaryja Splin"/>
+	<entry name="AdeptusMechanicus4" value="Anciok Miemoryja"/>
+	<entry name="AdeptusMechanicus5" value="Anviłus Novus"/>
+	<entry name="AdeptusMechanicus6" value="Fitalikan"/>
+	<entry name="AdeptusMechanicus7" value="Jadro Teta"/>
+	<entry name="AdeptusMechanicus8" value="Oŭmnmat"/>
+	<entry name="AdeptusMechanicus9" value="Fieronija"/>
+	<entry name="AdeptusMechanicus10" value="Ekstaban"/>
+	<entry name="AdeptusMechanicus11" value="Albieda"/>
+	<entry name="AdeptusMechanicus12" value="Strajkien Fiktus"/>
+	<entry name="AdeptusMechanicus13" value="Vytvorčaja Kamiera VIII"/>
+	<entry name="AdeptusMechanicus14" value="Dabrasłaviony Aktuatar"/>
+	<entry name="AdeptusMechanicus15" value="Enčiejnija"/>
+	<entry name="AdeptusMechanicus16" value="Hielikan"/>
+	<entry name="AdeptusMechanicus17" value="Łajenkar"/>
+	<entry name="AdeptusMechanicusCount" value="18"/>
+	<entry name="AstraMilitarum" value="<string name='Factions/AstraMilitarum'/>"/>
+	<entry name="AstraMilitarum0" value="Anankie"/>
+	<entry name="AstraMilitarum1" value="Viłaja Aleja"/>
+	<entry name="AstraMilitarum2" value="Lehamienan"/>
+	<entry name="AstraMilitarum3" value="Arystan"/>
+	<entry name="AstraMilitarum4" value="Uranija"/>
+	<entry name="AstraMilitarum5" value="Fion"/>
+	<entry name="AstraMilitarum6" value="Vikus Fobas"/>
+	<entry name="AstraMilitarum7" value="Chryzaforus"/>
+	<entry name="AstraMilitarum8" value="Heniezin"/>
+	<entry name="AstraMilitarum9" value="Eŭryka"/>
+	<entry name="AstraMilitarum10" value="Moenija Kryd"/>
+	<entry name="AstraMilitarum11" value="Municypum Seleścina"/>
+	<entry name="AstraMilitarum12" value="Urbs Koŭł"/>
+	<entry name="AstraMilitarum13" value="Aścikus Hriejfaks"/>
+	<entry name="AstraMilitarum14" value="Paradzisus Macharyŭs"/>
+	<entry name="AstraMilitarum15" value="Oppidum Virydziŭm"/>
+	<entry name="AstraMilitarum16" value="Tenaks"/>
+	<entry name="AstraMilitarum17" value="Cyvitus Palipus"/>
+	<entry name="AstraMilitarumCount" value="18"/>
+	<entry name="ChaosSpaceMarines" value="<string name='Factions/ChaosSpaceMarines'/>"/>
+	<entry name="ChaosSpaceMarines0" value="Krepaść Kryšyciela Čerapaŭ"/>
+	<entry name="ChaosSpaceMarines1" value="Pahibielny Ŭpłyŭ"/>
+	<entry name="ChaosSpaceMarines2" value="Złučajučy Losy"/>
+	<entry name="ChaosSpaceMarines3" value="Centr Chaosu"/>
+	<entry name="ChaosSpaceMarines4" value="Čumnoje Vohnišča"/>
+	<entry name="ChaosSpaceMarines5" value="Cień Marsa"/>
+	<entry name="ChaosSpaceMarines6" value="Niepadzielnaja Viera"/>
+	<entry name="ChaosSpaceMarines7" value="Kryvavy Zamak"/>
+	<entry name="ChaosSpaceMarines8" value="Kryž Jeretyka"/>
+	<entry name="ChaosSpaceMarines9" value="Lutaje Spahnańnie"/>
+	<entry name="ChaosSpaceMarines10" value="Jadro Čornaha Serca"/>
+	<entry name="ChaosSpaceMarines11" value="Udar Bizunom"/>
+	<entry name="ChaosSpaceMarines12" value="Ciomnaja Žałoba"/>
+	<entry name="ChaosSpaceMarines13" value="Kułak Majstra Vajny"/>
+	<entry name="ChaosSpaceMarines14" value="Ahidny Vykradalnik Nadziei"/>
+	<entry name="ChaosSpaceMarines15" value="Stračany Praklon"/>
+	<entry name="ChaosSpaceMarines16" value="Prach Sonca"/>
+	<entry name="ChaosSpaceMarines17" value="Prach Impieryŭma"/>
+	<entry name="ChaosSpaceMarinesCount" value="18"/>
+	<entry name="Eldar" value="<string name='Factions/Eldar'/>"/>
+	<entry name="Eldar0" value="Afesdan"/>
+	<entry name="Eldar1" value="Badbaltryłas"/>
+	<entry name="Eldar2" value="Bienataj"/>
+	<entry name="Eldar3" value="Karesenad"/>
+	<entry name="Eldar4" value="Zejnet"/>
+	<entry name="Eldar5" value="Irat"/>
+	<entry name="Eldar6" value="Ksamant"/>
+	<entry name="Eldar7" value="Viveja"/>
+	<entry name="Eldar8" value="Julit"/>
+	<entry name="Eldar9" value="Ciusič"/>
+	<entry name="Eldar10" value="Siuzikijon"/>
+	<entry name="Eldar11" value="Rylliślidzijan"/>
+	<entry name="Eldar12" value="Kvaryn"/>
+	<entry name="Eldar13" value="Partecijon"/>
+	<entry name="Eldar14" value="Artas"/>
+	<entry name="Eldar15" value="Neaśfi"/>
+	<entry name="Eldar16" value="Miraciuis"/>
+	<entry name="Eldar17" value="Łambriut"/>
+	<entry name="EldarCount" value="18"/>
+	<entry name="Necrons" value="<string name='Factions/Necrons'/>"/>
+	<entry name="Necrons0" value="Łektan Kopt"/>
+	<entry name="Necrons1" value="Zhuba Abidy"/> 
+	<entry name="Necrons2" value="Abał Chermanch"/>
+	<entry name="Necrons3" value="Unchi Sajr"/>
+	<entry name="Necrons4" value="Nechach Bakir"/>
+	<entry name="Necrons5" value="Az Ptek Sanacht"/>
+	<entry name="Necrons6" value="Iach Chabim"/>
+	<entry name="Necrons7" value="Abdu Chmun"/>
+	<entry name="Necrons8" value="Tanas Ta"/>
+	<entry name="Necrons9" value="Sar Ahorech"/> 
+	<entry name="Necrons10" value="Šabt Mandrech"/>
+	<entry name="Necrons11" value="Tramun Sech"/>
+	<entry name="Necrons12" value="Ftan Cheka"/>
+	<entry name="Necrons13" value="Ečatan Džet"/>
+	<entry name="Necrons14" value="Bakenchon"/>
+	<entry name="Necrons15" value="Chajrakan Char"/>
+	<entry name="Necrons16" value="D'kan Mefiet"/>
+	<entry name="Necrons17" value="Chorad'cir"/>
+	<entry name="NecronsCount" value="18"/>
+	<entry name="Orks" value="<string name='Factions/Orks'/>"/>
+	<entry name="Orks0" value="Da Drops"/>
+	<entry name="Orks1" value="Sam Habinz"/>
+	<entry name="Orks2" value="Hrotharad"/>
+	<entry name="Orks3" value="Ta Mkała"/>
+	<entry name="Orks4" value="Oo Cikavišsia?"/>
+	<entry name="Orks5" value="Nazdreh Bbyŭ Tut"/>
+	<entry name="Orks6" value="Harehch"/>
+	<entry name="Orks7" value="Vaaazdakka"/>
+	<entry name="Orks8" value="Miesca Bosa"/>
+	<entry name="Orks9" value="Da Dakka Kłub"/>
+	<entry name="Orks10" value="Taja Reč"/>
+	<entry name="Orks11" value="Domm"/>
+	<entry name="Orks12" value="Doktaŭn"/>
+	<entry name="Orks13" value="Videlec Horka"/>
+	<entry name="Orks14" value="Harhejts"/>
+	<entry name="Orks15" value="Skały-ikły"/> 
+	<entry name="Orks16" value="Da'ip"/>
+	<entry name="Orks17" value="Da Impieryja Da Orkaŭ"/>
+	<entry name="OrksCount" value="18"/>
+	<entry name="SistersOfBattle" value="<string name='Factions/SistersOfBattle'/>"/>
+	<entry name="SistersOfBattle0" value="Uznaharoda Pakutnika"/>
+	<entry name="SistersOfBattle1" value="Śviacilišča Trojčynarodžanaha"/>
+	<entry name="SistersOfBattle2" value="De Miryja"/>
+	<entry name="SistersOfBattle3" value="Selendzin"/>
+	<entry name="SistersOfBattle4" value="Łaska Seciny"/>
+	<entry name="SistersOfBattle5" value="Daminikanski Pakoj"/>
+	<entry name="SistersOfBattle6" value="Kroŭ Śviatoj Miny"/>
+	<entry name="SistersOfBattle7" value="Abłuda Arabełły"/>
+	<entry name="SistersOfBattle8" value="Kaplica Anaisy"/>
+	<entry name="SistersOfBattle9" value="Pałacin"/>
+	<entry name="SistersOfBattle10" value="Kiboryŭm Elehantyja"/>
+	<entry name="SistersOfBattle11" value="Sanktum Praksedes"/>
+	<entry name="SistersOfBattle12" value="Port Šterna"/>
+	<entry name="SistersOfBattle13" value="Akulum De Lucyja"/>
+	<entry name="SistersOfBattle14" value="Sabor Erucyja"/>
+	<entry name="SistersOfBattleCount" value="15"/>
+	<entry name="SpaceMarines" value="<string name='Factions/SpaceMarines'/>"/>
+	<entry name="SpaceMarines0" value="Krepaść Dorn"/>
+	<entry name="SpaceMarines1" value="Primarys Revienant"/>
+	<entry name="SpaceMarines2" value="Kuźnia Vułkana"/>
+	<entry name="SpaceMarines3" value="Špil"/>
+	<entry name="SpaceMarines4" value="Kryły Koraksa"/>
+	<entry name="SpaceMarines5" value="Chelbrecht"/>
+	<entry name="SpaceMarines6" value="Prystanak Viernikaŭ"/>
+	<entry name="SpaceMarines7" value="Cytadiel Umbrana"/>
+	<entry name="SpaceMarines8" value="Ajciec Fideliŭm"/>
+	<entry name="SpaceMarines9" value="Hnieŭ Azraela"/>
+	<entry name="SpaceMarines10" value="Padzieńnie Tantałajna"/>
+	<entry name="SpaceMarines11" value="Pakoi Prymarcha"/>
+	<entry name="SpaceMarines12" value="Kaplica Adytuma"/>
+	<entry name="SpaceMarines13" value="Serca Impieryi"/>
+	<entry name="SpaceMarines14" value="Ajreks Morcifier"/>
+	<entry name="SpaceMarines15" value="Kastełum Kapitalis"/>
+	<entry name="SpaceMarines16" value="Redžyja Funest"/>
+	<entry name="SpaceMarines17" value="Bastyjon Stuhija"/>
+	<entry name="SpaceMarinesCount" value="18"/>
+	<entry name="Tau" value="<string name='Factions/Tau'/>"/>
+	<entry name="Tau0" value="Eŭrtak"/>
+	<entry name="Tau1" value="Fiaviesa"/>
+	<entry name="Tau2" value="Chojar"/>
+	<entry name="Tau3" value="Kais"/>
+	<entry name="Tau4" value="Korši"/>
+	<entry name="Tau5" value="Java"/>
+	<entry name="Tau6" value="Kirła"/>
+	<entry name="Tau7" value="Funach"/>
+	<entry name="Tau8" value="Viesa"/>
+	<entry name="Tau9" value="Nuanuł"/>
+	<entry name="Tau10" value="Nłan"/>
+	<entry name="Tau11" value="Montakaj"/>
+	<entry name="Tau12" value="Vonna"/>
+	<entry name="Tau13" value="Sanał"/>
+	<entry name="Tau14" value="Ores"/>
+	<entry name="Tau15" value="Porł"/>
+	<entry name="Tau16" value="Viałaz"/>
+	<entry name="Tau17" value="Malkaara"/>
+	<entry name="TauCount" value="18"/>
+	<entry name="Tyranids" value="<string name='Factions/Tyranids'/>"/>
+	<entry name="Tyranids0" value="Džedžunhan"/>
+	<entry name="Tyranids1" value="Duadevar"/>
+	<entry name="Tyranids2" value="Trejšenks"/>
+	<entry name="Tyranids3" value="Farčar"/>
+	<entry name="Tyranids4" value="Bronchija"/>
+	<entry name="Tyranids5" value="Usafeks"/>
+	<entry name="Tyranids6" value="Panuratar"/>
+	<entry name="Tyranids7" value="Elektrakrajn"/>
+	<entry name="Tyranids8" value="Chajpalimfeks"/>
+	<entry name="Tyranids9" value="Trervitroid"/>
+	<entry name="Tyranids10" value="Somater"/>
+	<entry name="Tyranids11" value="Endatełan"/>
+	<entry name="Tyranids12" value="Kilia"/>
+	<entry name="Tyranids13" value="Tyranafiliŭm"/>
+	<entry name="Tyranids14" value="Dymašyra"/>
+	<entry name="Tyranids15" value="Hułfahes"/> 
+	<entry name="Tyranids16" value="Honadrynał"/>
+	<entry name="Tyranids17" value="Paralimfeks"/>
+	<entry name="TyranidsCount" value="18"/>
+</language>

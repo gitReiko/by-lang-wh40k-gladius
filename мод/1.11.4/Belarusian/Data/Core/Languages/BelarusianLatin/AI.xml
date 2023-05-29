@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AdeptusMechanicus0" value="Koŭł"/>
+	<entry name="AdeptusMechanicus1" value="Łend"/>
+	<entry name="AdeptusMechanicus2" value="Kejn"/>
+	<entry name="AdeptusMechanicus3" value="Satarael"/>
+	<entry name="AdeptusMechanicus4" value="Hruss"/>
+	<entry name="AdeptusMechanicus5" value="Paładzius"/>
+	<entry name="AdeptusMechanicus6" value="Łokard"/>
+	<entry name="AdeptusMechanicus7" value="Tajbier"/>
+	<entry name="AdeptusMechanicus8" value="Cyceryn"/>
+	<entry name="AdeptusMechanicus9" value="Tezła"/>
+	<entry name="AdeptusMechanicus10" value="Cilvius"/>
+	<entry name="AdeptusMechanicus11" value="Millez"/>
+	<entry name="AdeptusMechanicus12" value="Aŭtakułas"/>
+	<entry name="AdeptusMechanicus13" value="Doryłbas"/>
+	<entry name="AdeptusMechanicus14" value="Haełas"/>
+	<entry name="AdeptusMechanicus15" value="Jeranimus"/>
+	<entry name="AdeptusMechanicus16" value="Džaks"/>
+	<entry name="AdeptusMechanicus17" value="Džunh"/>
+	<entry name="AdeptusMechanicus18" value="Makabi"/>
+	<entry name="AdeptusMechanicus19" value="Manchajm"/>
+	<entry name="AdeptusMechanicusCount" value="20"/>
+	<entry name="AstraMilitarum0" value="Machar"/>
+	<entry name="AstraMilitarum1" value="Bastonius"/>
+	<entry name="AstraMilitarum2" value="Kalihaj"/>
+	<entry name="AstraMilitarum3" value="Kajd"/>
+	<entry name="AstraMilitarum4" value="Kamir"/>
+	<entry name="AstraMilitarum5" value="Draŭn"/>
+	<entry name="AstraMilitarum6" value="MakMenn"/>
+	<entry name="AstraMilitarum7" value="Straken"/>
+	<entry name="AstraMilitarum8" value="Tarryk"/>
+	<entry name="AstraMilitarum9" value="Ruchmann"/>
+	<entry name="AstraMilitarum10" value="Killen"/>
+	<entry name="AstraMilitarum11" value="Brednar"/>
+	<entry name="AstraMilitarum12" value="Hratton"/>
+	<entry name="AstraMilitarum13" value="Mońnic"/>
+	<entry name="AstraMilitarum14" value="Džota"/>
+	<entry name="AstraMilitarum15" value="Chikorski"/>
+	<entry name="AstraMilitarum16" value="Rudz"/>
+	<entry name="AstraMilitarum17" value="Hreŭand"/>
+	<entry name="AstraMilitarum18" value="Daŭdł"/>
+	<entry name="AstraMilitarum19" value="Skaŭcoŭ"/>
+	<entry name="AstraMilitarum20" value="Bajksi"/>
+	<entry name="AstraMilitarumCount" value="21"/>
+	<entry name="ChaosSpaceMarines0" value="Lucyus"/>
+	<entry name="ChaosSpaceMarines1" value="Chorus"/>
+	<entry name="ChaosSpaceMarines2" value="Valiryjan"/>
+	<entry name="ChaosSpaceMarines3" value="Ahryppa"/>
+	<entry name="ChaosSpaceMarines4" value="Morbus"/>
+	<entry name="ChaosSpaceMarines5" value="Jazva"/>
+	<entry name="ChaosSpaceMarines6" value="Vocismas"/>
+	<entry name="ChaosSpaceMarines7" value="Fiłaks"/>
+	<entry name="ChaosSpaceMarines8" value="Puhna"/>
+	<entry name="ChaosSpaceMarines9" value="Rudzis"/>
+	<entry name="ChaosSpaceMarines10" value="Sałpinks"/>
+	<entry name="ChaosSpaceMarines11" value="Tablifus"/>
+	<entry name="ChaosSpaceMarines12" value="Jovaryjan"/>
+	<entry name="ChaosSpaceMarines13" value="Kopis"/>
+	<entry name="ChaosSpaceMarines14" value="Drakonis"/>
+	<entry name="ChaosSpaceMarines15" value="Papiłus"/>
+	<entry name="ChaosSpaceMarines16" value="Rumpens"/>
+	<entry name="ChaosSpaceMarines17" value="Enhron"/>
+	<entry name="ChaosSpaceMarines18" value="Libidus"/>
+	<entry name="ChaosSpaceMarines19" value="Arcificyjon"/>
+	<entry name="ChaosSpaceMarinesCount" value="20"/>
+	<entry name="Eldar0" value="Ahchejn Źviazany Śmierciu"/>
+	<entry name="Eldar1" value="Kchajnocir Palaŭničy"/>
+	<entry name="Eldar2" value="Asuryjad Tkač Błytaniny"/>
+	<entry name="Eldar3" value="Ińnijan Śpieŭ Viedźmy"/>
+	<entry name="Eldar4" value="Liat Zorny Tancor"/>
+	<entry name="Eldar5" value="Liłair Zorny Biahun"/>
+	<entry name="Eldar6" value="Kurneat Soniečny Vybuch"/>
+	<entry name="Eldar7" value="Staražytny Eldanoŭs"/>
+	<entry name="Eldar8" value="Draešor Dzionnaja Dzida"/>
+	<entry name="Eldar9" value="Elinium Advažny"/>
+	<entry name="Eldar10" value="Aetech Skulptar"/>
+	<entry name="Eldar11" value="Kondry Starybaćka"/>
+	<entry name="Eldar12" value="Fue Ra"/>
+	<entry name="Eldar13" value="Karanzar"/>
+	<entry name="Eldar14" value="Artrahan"/> 
+	<entry name="Eldar15" value="Džajdras Niabačny"/>
+	<entry name="Eldar16" value="Maŭhik Prysud"/>
+	<entry name="Eldar17" value="Iłłan Ra"/>
+	<entry name="Eldar18" value="Aŭlirel Zorny Majstar"/>
+	<entry name="Eldar19" value="Ulciel Pryvidny Ŭdar"/>
+	<entry name="EldarCount" value="20"/>
+	<entry name="Necrons0" value="Chufiech"/>
+	<entry name="Necrons1" value="Amenses"/> 
+	<entry name="Necrons2" value="Atohard"/>
+	<entry name="Necrons3" value="Varcis"/>
+	<entry name="Necrons4" value="Mendrech"/>
+	<entry name="Necrons5" value="Zanes"/>
+	<entry name="Necrons6" value="Džet"/>
+	<entry name="Necrons7" value="Semierchet"/>
+	<entry name="Necrons8" value="Nunetdžerch"/>
+	<entry name="Necrons9" value="Siektyr"/> 
+	<entry name="Necrons10" value="Anrachiet"/>
+	<entry name="Necrons11" value="Achchaŭron"/>
+	<entry name="Necrons12" value="Saŭbiechar"/>
+	<entry name="Necrons13" value="Sachtech"/>
+	<entry name="Necrons14" value="Miench"/>
+	<entry name="Necrons15" value="Tech"/>
+	<entry name="Necrons16" value="Nomarch"/>
+	<entry name="Necrons17" value="Nefierzin"/>
+	<entry name="Necrons18" value="Kiendarch"/>
+	<entry name="Necrons19" value="Hrylijapaŭłos"/>
+	<entry name="NecronsCount" value="20"/>
+	<entry name="Orks0" value="Skar"/>
+	<entry name="Orks1" value="Žylezaryppa"/>
+	<entry name="Orks2" value="Duum"/>
+	<entry name="Orks3" value="Harhaš"/>
+	<entry name="Orks4" value="Bazhah"/>
+	<entry name="Orks5" value="Drennyžub"/>
+	<entry name="Orks6" value="Horśnik"/>
+	<entry name="Orks7" value="Ŭurrdakka"/>
+	<entry name="Orks8" value="Ŭotsit"/>
+	<entry name="Orks9" value="Žylezahroh"/>
+	<entry name="Orks10" value="Krašryppier"/>
+	<entry name="Orks11" value="Urdrab"/>
+	<entry name="Orks12" value="Morkrekk"/>
+	<entry name="Orks13" value="Uhskaŭ"/>
+	<entry name="Orks14" value="Uhłah"/>
+	<entry name="Orks15" value="Frahkrak"/> 
+	<entry name="Orks16" value="Žubaboss"/>
+	<entry name="Orks17" value="Ŭotšok"/>
+	<entry name="Orks18" value="Cinhuc"/>
+	<entry name="OrksCount" value="19"/>
+	<entry name="SistersOfBattle0" value="Kaciaryna"/>
+	<entry name="SistersOfBattle1" value="Vachłar"/>
+	<entry name="SistersOfBattle2" value="Silina"/>
+	<entry name="SistersOfBattle3" value="Mistral"/>
+	<entry name="SistersOfBattle4" value="Bryjar"/>
+	<entry name="SistersOfBattle5" value="Dzissenta"/>
+	<entry name="SistersOfBattle6" value="Nichiłus"/>
+	<entry name="SistersOfBattle7" value="Džosind"/>
+	<entry name="SistersOfBattle8" value="Ryjana"/>
+	<entry name="SistersOfBattle9" value="Veryci"/>
+	<entry name="SistersOfBattleCount" value="10"/>
+	<entry name="SpaceMarines0" value="Sullius"/>
+	<entry name="SpaceMarines1" value="Domenika"/>
+	<entry name="SpaceMarines2" value="Chipparchus"/>
+	<entry name="SpaceMarines3" value="Faedron"/>
+	<entry name="SpaceMarines4" value="Draka"/>
+	<entry name="SpaceMarines5" value="Leanatus"/>
+	<entry name="SpaceMarines6" value="Tełamon"/>
+	<entry name="SpaceMarines7" value="Bellerafon"/>
+	<entry name="SpaceMarines8" value="Jason"/>
+	<entry name="SpaceMarines9" value="Meliher"/>
+	<entry name="SpaceMarines10" value="Astoryus"/>
+	<entry name="SpaceMarines11" value="Chahan"/>
+	<entry name="SpaceMarines12" value="Parseter"/>
+	<entry name="SpaceMarines13" value="Chahani"/>
+	<entry name="SpaceMarines14" value="Tarvic"/>
+	<entry name="SpaceMarines15" value="Penates"/>
+	<entry name="SpaceMarines16" value="Achilles"/>
+	<entry name="SpaceMarines17" value="Ajaks"/>
+	<entry name="SpaceMarines18" value="Dziamedas"/>
+	<entry name="SpaceMarines19" value="Meryanes"/>
+	<entry name="SpaceMarines20" value="Teŭkser"/>
+	<entry name="SpaceMarinesCount" value="21"/>
+	<entry name="Tyranids0" value="Azatot"/>
+	<entry name="Tyranids1" value="Ksienanot"/>
+	<entry name="Tyranids2" value="Satot"/>
+	<entry name="Tyranids3" value="Dzitałła"/>
+	<entry name="Tyranids4" value="Ktohhcha"/>
+	<entry name="Tyranids5" value="Chaścir"/>
+	<entry name="Tyranids6" value="Mnomkuach"/>
+	<entry name="Tyranids7" value="Vorn"/>
+	<entry name="Tyranids8" value="Pers"/>
+	<entry name="Tyranids9" value="Šatak"/>
+	<entry name="Tyranids10" value="Vibur"/>
+	<entry name="Tyranids11" value="Tłła"/>
+	<entry name="Tyranids12" value="Zušakon"/>
+	<entry name="Tyranids13" value="Daołat"/>
+	<entry name="Tyranids14" value="Alkot"/>
+	<entry name="Tyranids15" value="Picija"/> 
+	<entry name="Tyranids16" value="Hrendel"/>
+	<entry name="Tyranids17" value="Chimaera"/>
+	<entry name="TyranidsCount" value="18"/>
+	<entry name="Tau0" value="Kamandzir Daloki Ŭdar"/>
+	<entry name="Tau1" value="Admirał Kananada"/>
+	<entry name="Tau2" value="Ambasadar Pavolnaja Mova"/>
+	<entry name="Tau3" value="Płanavalnik Strach Dapamohi"/>
+	<entry name="Tau4" value="Prync Samotny Ahoń"/>
+	<entry name="Tau5" value="Kamandzir Srebny Jazyk"/>
+	<entry name="Tau6" value="Kamandzir Daloki Źvier"/>
+	<entry name="Tau7" value="Kamandzir Apiakalnaja Mudraść"/>
+	<entry name="Tau8" value="Kamandzir Pustotnaja Pastka"/>
+	<entry name="Tau9" value="Kamandzir Šyroki Krok"/>
+	<entry name="Tau10" value="Admirał Dvajnaja Aściarožnaść"/>
+	<entry name="Tau11" value="Ambasadar Staraja Kazka"/>
+	<entry name="Tau12" value="Płanavalnik Šmat Darunkaŭ"/>
+	<entry name="Tau13" value="Kamandzir Schavany Ŭdar"/>
+	<entry name="Tau14" value="Prełat Vialikaje Serca"/> 
+	<entry name="Tau15" value="Šanoŭnaja Niepakornaść"/>
+	<entry name="Tau16" value="Śviaty Vartavy"/>
+	<entry name="Tau17" value="Kamandzir Biaśpiečnaja Dumka"/>
+	<entry name="Tau18" value="Kamandzir Źziajučaje Padzieńnie"/>
+	<entry name="TauCount" value="19"/>
+</language>
