@@ -1014,10 +1014,10 @@
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="ChaosSpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Дае Лордам Хаосу, Космапехам Хаосу, Апусташальнікам, Берсеркам Кхорна, Майстарам Апантанасьці ды Кавалям Варпу здольнасьць кідаць супрацьпяхотныя гранаты."/>
+	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апусташальнікам, Берсеркам Кхорна, Майстарам Апантанасьці ды Кавалям Варпу здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="ChaosSpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutation" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutation'/>"/>
-	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Космапехам Хаосу, Апусташальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
+	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Касьмічным Марынам Хаосу, Апусташальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Хэлбрутам, Дэманічным Катам, Злосным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
@@ -1041,7 +1041,7 @@
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathDescription'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Дае Лордам Хаосу, Космапехам Хаосу, Апусташальнікам, Берсеркам Кхорна, Майстарам Апантанасьці і Кавалям Варпу здольнасьць кідаць супрацьбранявыя гранаты."/>
+	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апусташальнікам, Берсеркам Кхорна, Майстарам Апантанасьці і Кавалям Варпу здольнасьць кідаць супрацьбранявыя гранаты."/>
 	<entry name="ChaosSpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamage" value="<string name='Traits/ChaosSpaceMarines/LasDamage'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Павялічвае бронепрабівальнасьць лазернай і плазмавай зброі."/>
@@ -1065,7 +1065,7 @@
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Дае Лордам Хаосу, Космапехам Хаосу, Апусташальнікам і Берсеркам Кхорна здольнасьць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацыяў."/>
+	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апусташальнікам і Берсеркам Кхорна здольнасьць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацыяў."/>
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Нашыя Жыцьці дзеля Багоў"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Павялічвае хуткасьць узросту горада пасьля Ахвяраваньня Культыстаў."/>
@@ -1089,7 +1089,7 @@
 	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Дае Чэмпіёнам Хаосу шанец на сталае павелічэньне руху пасьля забойства ворага (Дарунак Хаосу)."/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionFlavor" value="<string name='Traits/ChaosSpaceMarines/TemporalDistortionFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWar'/>"/>
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Зьмяншае страты маралі і павялічвае трапнасьць пяхоты ў блізкім боі супраць адзінак фракцыі Космапехаў."/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Зьмяншае страты маралі і павялічвае трапнасьць пяхоты ў блізкім боі супраць адзінак фракцыі Касьмічных Марынаў."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWarFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoyles" value="Гаргульлі Варп-Полымя"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Зброя Насарогаў Хаосу, Апаганьнікам і Зямных Рэйдараў Хаосу пачынае нанасіць перыядычную шкоду."/>
@@ -1595,7 +1595,7 @@
 	<entry name="SpaceMarines/ClusterMinesDescription" value="Дае Матацыклістам-Выведнікам здольнасьць усталёўваць касетныя міны."/>
 	<entry name="SpaceMarines/ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
 	<entry name="SpaceMarines/CombatShield" value="<string name='Traits/CombatShield'/>"/>
-	<entry name="SpaceMarines/CombatShieldDescription" value="Павялічвае зьніжэньне шкоды Штурмавых Космапехаў."/>
+	<entry name="SpaceMarines/CombatShieldDescription" value="Павялічвае зьніжэньне шкоды Штурмавых Касьмічных Марынаў."/>
 	<entry name="SpaceMarines/CombatShieldFlavor" value="<string name='Traits/CombatShieldFlavor'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrine" value="<string name='Traits/DevastatorDoctrine'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrineDescription" value="<string name='Actions/DevastatorDoctrineDescription'/>"/>
@@ -1616,10 +1616,10 @@
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloDescription" value="Дае Крэпасьці Выкупленьня ракетную шахту крак-шторм."/>
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloFlavor" value="<string name='Weapons/KrakstormMissileSiloFlavor'/>"/>
 	<entry name="SpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SpaceMarines/FragGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Космапехам, Капітанам, Космапехам-Разбуральнікам, Бібліятэкарам, Выведнікам, Матацыклістам-Выведнікам, Тактычным Космапехам і Гарматам Громавы Агонь здольнасьць кідаць супрацьпяхотныя гранаты."/>
+	<entry name="SpaceMarines/FragGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Касьмічным Марынам Разбуральнікам, Бібліятэкарам, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам Громавы Агонь здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="SpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="SpaceMarines/HammerOfWrathDescription" value="Дае Штурмавым Космапехам, Дрэдноўтам і Матацыклістам-Выведнікам здольнасьць выконваць больш разбуральныя атакі."/>
+	<entry name="SpaceMarines/HammerOfWrathDescription" value="Дае Штурмавым Касьмічным Марынам, Дрэдноўтам і Матацыклістам-Выведнікам здольнасьць выконваць больш разбуральныя атакі."/>
 	<entry name="SpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
@@ -1628,7 +1628,7 @@
 	<entry name="SpaceMarines/HurricaneBolterDescription" value="Дае Караблям Штармавы Крумкач болтар ураган."/>
 	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SpaceMarines/KrakGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Космапехам, Капітанам, Космапехам-Разбуральнікам, Бібліятэкарам, Выведнікам, Матацыклістам-Выведнікам, Тактычным Космапехам і Гарматам Громавы Агонь здольнасьць кідаць супрацьтанкавыя гранаты."/>
+	<entry name="SpaceMarines/KrakGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Касьмічным Марынам Разбуральнікам, Бібліятэкарам, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам Громавы Агонь здольнасьць кідаць супрацьтанкавыя гранаты."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Дае Наземным Хуткарам і Рэйдарам мульцімельтавую зброю."/>
@@ -1637,7 +1637,7 @@
 	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Upgrades/AstraMilitarum/LasDamageDescription'/>"/>
 	<entry name="SpaceMarines/LasDamageFlavor" value="<string name='Traits/SpaceMarines/LasDamageFlavor'/>"/>
 	<entry name="SpaceMarines/LastStand" value="<string name='Traits/LastStand'/>"/>
-	<entry name="SpaceMarines/LastStandDescription" value="Павялічвае мараль усіх адзінак Космапехаў."/>
+	<entry name="SpaceMarines/LastStandDescription" value="Павялічвае мараль усіх адзінак Касьмічных Марынаў."/>
 	<entry name="SpaceMarines/LastStandFlavor" value="<string name='Traits/LastStandFlavor'/>"/>
 	<entry name="SpaceMarines/LastStandReady" value="<string name='Traits/LastStand'/>"/>
 	<entry name="SpaceMarines/LocatorBeacon" value="<string name='Traits/LocatorBeacon'/>"/>
@@ -1650,7 +1650,7 @@
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Космапехам, Штурмавым Космапехам, Космапехам-Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасьць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
+	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Касьмічным Марынам, Штурмавым Касьмічным Марынам, Касьмічным Марынам Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасьць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="Дае Цэнтурыёнам-Разбуральнікам магчымасьць абмінаць зьмяншэньне шкоды ў далёкім боі."/>
@@ -1674,7 +1674,7 @@
 	<entry name="SpaceMarines/SiegeShieldDescription" value="Павялічвае браню Ачышчальнікаў і зьніжае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="SpaceMarines/SiegeShieldFlavor" value="<string name='Traits/SiegeShieldFlavor'/>"/>
 	<entry name="SpaceMarines/Signum" value="<string name='Actions/Signum'/>"/>
-	<entry name="SpaceMarines/SignumDescription" value="Дае Космапехам-Разбуральнікам здольнасьць скасоўваць штраф для цяжкай, артылерыйнай зброі і залпа з джалаў."/>
+	<entry name="SpaceMarines/SignumDescription" value="Дае Касьмічным Марынам Разбуральнікам здольнасьць скасоўваць штраф для цяжкай, артылерыйнай зброі і залпа з джалаў."/>
 	<entry name="SpaceMarines/SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
 	<entry name="SpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="SpaceMarines/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
@@ -1683,7 +1683,7 @@
 	<entry name="SpaceMarines/TacticalDoctrineDescription" value="<string name='Actions/TacticalDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/TeleportHomer" value="<string name='Traits/TeleportHomer'/>"/>
-	<entry name="SpaceMarines/TeleportHomerDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня пры разгортваньні Тэрмінатараў побач з Тактычнымі Космапехамі ці Выведнікамі."/>
+	<entry name="SpaceMarines/TeleportHomerDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня пры разгортваньні Тэрмінатараў побач з Тактычнымі Касьмічнымі Марынамі ці Выведнікамі."/>
 	<entry name="SpaceMarines/TeleportHomerFlavor" value="<string name='Traits/TeleportHomerFlavor'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeak" value="<string name='Traits/TheFleshIsWeak'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeakDescription" value="<string name='Actions/TheFleshIsWeakDescription'/>"/>

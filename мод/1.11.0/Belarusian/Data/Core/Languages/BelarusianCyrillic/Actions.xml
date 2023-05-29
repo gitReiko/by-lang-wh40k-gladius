@@ -139,7 +139,7 @@
 	<entry name="ArmoriumCherubDescription" value="Павялічвае трапнасьць."/>
 	<entry name="ArmoriumCherubFlavor" value="Cherubim are diminutive flying cyborg constructs created to assist the Emperor's servants, be they scribe or soldier. Among the Adeptus Astartes they are rarely seen outside of the Librarius, save for those few that relay targeting data and carry spare ammunition for Devastator Squads."/>
 	<entry name="AssaultDoctrine" value="Ужыць Дактрыну Штурма"/>
-	<entry name="AssaultDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Штурмавых Космапехаў."/>
+	<entry name="AssaultDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Штурмавых Касьмічных Марынаў."/>
 	<entry name="AssaultDoctrineFlavor" value="“Where there is uncertainty, I shall bring light<br/>Where there is doubt, I shall sow faith.<br/>Where there is shame, I shall point atonement.<br/>Where there is rage, I shall show its course.<br/>My word in the soul shall be as my bolter in the field.”<br/>  — Litany of Devotion, traditional"/>
 	<entry name="AstraMilitarum/ProjectedVoidShield" value="Праекцыявальны Пустэчны Шчыт"/>
 	<entry name="AstraMilitarum/ProjectedVoidShieldDescription" value="Павялічвае зьмяншэньне шкоды ад далёкага агню для адзінак у радыусе дзеяньня."/>
@@ -270,7 +270,7 @@
 	<entry name="ChaosSpaceMarines/Mechatendrils" value="Мехатэндрылы"/>
 	<entry name="ChaosSpaceMarines/MechatendrilsFlavor" value="Reminiscent of the servo-harness worn by the Techmarines of the Adeptus Astrates, these writhing tentacles are worn by—or even implanted into—Chaos Warpsmiths."/> <!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/CultistSacrifice" value="Ахвяраваньне Культыста"/>
-	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Павялічвае хуткасьць узросту насельніцтва абранага хаўруснага горада Космапехаў Хаосу, ахвяруючы адзінкай."/>
+	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Павялічвае хуткасьць узросту насельніцтва абранага хаўруснага горада Касьмічных Марынаў Хаосу, ахвяруючы адзінкаю."/>
 	<entry name="ChaosSpaceMarines/CultistSacrificeFlavor" value="So fervent are the cultists of Chaos but so weak their martial prowess, that the gods enjoy their demise as much as their life—more so, perhaps, given the blessings they bestow at their sacrifice."/>
 	<entry name="ChaosSpaceMarines/Daemonforge" value="Кузьня Дэманаў"/>
 	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Ахвяруе здароўем для павелічэньня шкоды і прабіваньня брані."/>
@@ -367,7 +367,7 @@
 	<entry name="DeployUnit" value="Разгарнуць %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Разгарнуць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="DevastatorDoctrine" value="Выкарыстаць Дактрыну Разбуральнікаў"/>
-	<entry name="DevastatorDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Космапехаў-Разбуральнікаў ды Цэнтурыёнаў-Разбуральнікаў."/>
+	<entry name="DevastatorDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Касьмічных Марынаў Разбуральнікаў ды Цэнтурыёнаў-Разбуральнікаў."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
 	<entry name="Disappear" value="Зьнікнуць"/>
 	<entry name="Disband" value="Расфармаваць"/>
@@ -817,7 +817,7 @@
 	<entry name="SupersonicDescription" value="Павялічвае рух."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
 	<entry name="TacticalDoctrine" value="Ужыць тактычную дактрыну"/>
-	<entry name="TacticalDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Тактычных Космапехаў."/>
+	<entry name="TacticalDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Тактычных Касьмічных Марынаў."/>
 	<entry name="TacticalDoctrineFlavor" value="“They shall be pure of heart and strong of body, untainted by doubt and unsullied by self-aggrandisement. They will be bright stars on the firmament of battle, Angels of Death whose shining wings bring swift annihilation to the enemies of Man. So it shall be for a thousand times for a thousand years, unto the very end of eternity and the extinction of mortal flesh.”<br/>  — Codex Astartes, by Roboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="Tau/AdvancedTargetingSystem" value="Усталяваць <string name='Traits/Tau/AdvancedTargetingSystem'/>"/>
 	<entry name="Tau/AdvancedTargetingSystemDescription" value="Усталяваць сістэму падтрымкі, якая павялічвае трапнасьць стральбы."/>

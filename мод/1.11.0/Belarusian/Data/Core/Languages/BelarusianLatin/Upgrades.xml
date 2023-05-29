@@ -1014,10 +1014,10 @@
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynam."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="ChaosSpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Daje Łordam Chaosu, Kosmapiecham Chaosu, Apustašalnikam, Biersierkam Kchorna, Majstaram Apantanaści dy Kavalam Varpu zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustašalnikam, Biersierkam Kchorna, Majstaram Apantanaści dy Kavalam Varpu zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="ChaosSpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutation" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutation'/>"/>
-	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Daje Kosmapiecham Chaosu, Apustašalnikam i Biersierkam Kchorna adzin vypadkovy adbłakavany Darunak Chaosu."/>
+	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Daje Kaśmičnym Marynam Chaosu, Apustašalnikam i Biersierkam Kchorna adzin vypadkovy adbłakavany Darunak Chaosu."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Daje Demaničnym Pryncam, Apahańnikam, Demanam Kuźni, Chełbrutam, Demaničnym Katam, Złosnym Paŭzunam i Kipciuram Varpu zdolnaść vykonvać bolš razburalnyja ataki."/>
@@ -1041,7 +1041,7 @@
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathDescription'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Daje Łordam Chaosu, Kosmapiecham Chaosu, Apustašalnikam, Biersierkam Kchorna, Majstaram Apantanaści i Kavalam Varpu zdolnaść kidać supraćbraniavyja hranaty."/>
+	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustašalnikam, Biersierkam Kchorna, Majstaram Apantanaści i Kavalam Varpu zdolnaść kidać supraćbraniavyja hranaty."/>
 	<entry name="ChaosSpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamage" value="<string name='Traits/ChaosSpaceMarines/LasDamage'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść łaziernaj i płazmavaj zbroi."/>
@@ -1065,7 +1065,7 @@
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Daje Łordam Chaosu, Kosmapiecham Chaosu, Apustašalnikam i Biersierkam Kchorna zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyjaŭ."/>
+	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustašalnikam i Biersierkam Kchorna zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Našyja Žyćci dziela Bahoŭ"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Pavialičvaje chutkaść uzrostu horada paśla Achviaravańnia Kultystaŭ."/>
@@ -1089,7 +1089,7 @@
 	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Daje Čempijonam Chaosu šaniec na stałaje pavieličeńnie ruchu paśla zabojstva voraha (Darunak Chaosu)."/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionFlavor" value="<string name='Traits/ChaosSpaceMarines/TemporalDistortionFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWar'/>"/>
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Źmianšaje straty marali i pavialičvaje trapnaść piachoty ŭ blizkim boi suprać adzinak frakcyi Kosmapiechaŭ."/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Źmianšaje straty marali i pavialičvaje trapnaść piachoty ŭ blizkim boi suprać adzinak frakcyi Kaśmičnych Marynaŭ."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWarFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoyles" value="Harhulli Varp-Połymia"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Zbroja Nasarohaŭ Chaosu, Apahańnikam i Ziamnych Rejdaraŭ Chaosu pačynaje nanasić pieryjadyčnuju škodu."/>
@@ -1595,7 +1595,7 @@
 	<entry name="SpaceMarines/ClusterMinesDescription" value="Daje Matacyklistam-Vyviednikam zdolnaść ustaloŭvać kasietnyja miny."/>
 	<entry name="SpaceMarines/ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
 	<entry name="SpaceMarines/CombatShield" value="<string name='Traits/CombatShield'/>"/>
-	<entry name="SpaceMarines/CombatShieldDescription" value="Pavialičvaje źnižeńnie škody Šturmavych Kosmapiechaŭ."/>
+	<entry name="SpaceMarines/CombatShieldDescription" value="Pavialičvaje źnižeńnie škody Šturmavych Kaśmičnych Marynaŭ."/>
 	<entry name="SpaceMarines/CombatShieldFlavor" value="<string name='Traits/CombatShieldFlavor'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrine" value="<string name='Traits/DevastatorDoctrine'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrineDescription" value="<string name='Actions/DevastatorDoctrineDescription'/>"/>
@@ -1616,10 +1616,10 @@
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloDescription" value="Daje Krepaści Vykupleńnia rakietnuju šachtu krak-štorm."/>
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloFlavor" value="<string name='Weapons/KrakstormMissileSiloFlavor'/>"/>
 	<entry name="SpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SpaceMarines/FragGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kosmapiecham, Kapitanam, Kosmapiecham-Razburalnikam, Biblijatekaram, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kosmapiecham i Harmatam Hromavy Ahoń zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="SpaceMarines/FragGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kaśmičnym Marynam, Kapitanam, Kaśmičnym Marynam Razburalnikam, Biblijatekaram, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kaśmičnym Marynam i Harmatam Hromavy Ahoń zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="SpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="SpaceMarines/HammerOfWrathDescription" value="Daje Šturmavym Kosmapiecham, Drednoŭtam i Matacyklistam-Vyviednikam zdolnaść vykonvać bolš razburalnyja ataki."/>
+	<entry name="SpaceMarines/HammerOfWrathDescription" value="Daje Šturmavym Kaśmičnym Marynam, Drednoŭtam i Matacyklistam-Vyviednikam zdolnaść vykonvać bolš razburalnyja ataki."/>
 	<entry name="SpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
@@ -1628,7 +1628,7 @@
 	<entry name="SpaceMarines/HurricaneBolterDescription" value="Daje Karablam Štarmavy Krumkač bołtar urahan."/>
 	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SpaceMarines/KrakGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kosmapiecham, Kapitanam, Kosmapiecham-Razburalnikam, Biblijatekaram, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kosmapiecham i Harmatam Hromavy Ahoń zdolnaść kidać supraćtankavyja hranaty."/>
+	<entry name="SpaceMarines/KrakGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kaśmičnym Marynam, Kapitanam, Kaśmičnym Marynam Razburalnikam, Biblijatekaram, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kaśmičnym Marynam i Harmatam Hromavy Ahoń zdolnaść kidać supraćtankavyja hranaty."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Daje Naziemnym Chutkaram i Rejdaram mulcimieltavuju zbroju."/>
@@ -1637,7 +1637,7 @@
 	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Upgrades/AstraMilitarum/LasDamageDescription'/>"/>
 	<entry name="SpaceMarines/LasDamageFlavor" value="<string name='Traits/SpaceMarines/LasDamageFlavor'/>"/>
 	<entry name="SpaceMarines/LastStand" value="<string name='Traits/LastStand'/>"/>
-	<entry name="SpaceMarines/LastStandDescription" value="Pavialičvaje maral usich adzinak Kosmapiechaŭ."/>
+	<entry name="SpaceMarines/LastStandDescription" value="Pavialičvaje maral usich adzinak Kaśmičnych Marynaŭ."/>
 	<entry name="SpaceMarines/LastStandFlavor" value="<string name='Traits/LastStandFlavor'/>"/>
 	<entry name="SpaceMarines/LastStandReady" value="<string name='Traits/LastStand'/>"/>
 	<entry name="SpaceMarines/LocatorBeacon" value="<string name='Traits/LocatorBeacon'/>"/>
@@ -1650,7 +1650,7 @@
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SpaceMarines/MeltaBombDescription" value="Daje Taktyčnym Kosmapiecham, Šturmavym Kosmapiecham, Kosmapiecham-Razburalnikam, Vyviednikam i Matacyklistam-Vyviednikam zdolnaść razhortvać mielta bombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyj."/>
+	<entry name="SpaceMarines/MeltaBombDescription" value="Daje Taktyčnym Kaśmičnym Marynam, Šturmavym Kaśmičnym Marynam, Kaśmičnym Marynam Razburalnikam, Vyviednikam i Matacyklistam-Vyviednikam zdolnaść razhortvać mielta bombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyj."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="Daje Centuryjonam-Razburalnikam mahčymaść abminać źmianšeńnie škody ŭ dalokim boi."/>
@@ -1674,7 +1674,7 @@
 	<entry name="SpaceMarines/SiegeShieldDescription" value="Pavialičvaje braniu Ačyščalnikaŭ i źnižaje štraf ruchu ŭ lasach i impierskich ruinach."/>
 	<entry name="SpaceMarines/SiegeShieldFlavor" value="<string name='Traits/SiegeShieldFlavor'/>"/>
 	<entry name="SpaceMarines/Signum" value="<string name='Actions/Signum'/>"/>
-	<entry name="SpaceMarines/SignumDescription" value="Daje Kosmapiecham-Razburalnikam zdolnaść skasoŭvać štraf dla ciažkaj, artyleryjnaj zbroi i załpa z džałaŭ."/>
+	<entry name="SpaceMarines/SignumDescription" value="Daje Kaśmičnym Marynam Razburalnikam zdolnaść skasoŭvać štraf dla ciažkaj, artyleryjnaj zbroi i załpa z džałaŭ."/>
 	<entry name="SpaceMarines/SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
 	<entry name="SpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="SpaceMarines/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
@@ -1683,7 +1683,7 @@
 	<entry name="SpaceMarines/TacticalDoctrineDescription" value="<string name='Actions/TacticalDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/TeleportHomer" value="<string name='Traits/TeleportHomer'/>"/>
-	<entry name="SpaceMarines/TeleportHomerDescription" value="Arbitalnaje razhortvańnie pierastaje patrabavać ački dziejańnia pry razhortvańni Terminataraŭ pobač z Taktyčnymi Kosmapiechami ci Vyviednikami."/>
+	<entry name="SpaceMarines/TeleportHomerDescription" value="Arbitalnaje razhortvańnie pierastaje patrabavać ački dziejańnia pry razhortvańni Terminataraŭ pobač z Taktyčnymi Kaśmičnymi Marynami ci Vyviednikami."/>
 	<entry name="SpaceMarines/TeleportHomerFlavor" value="<string name='Traits/TeleportHomerFlavor'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeak" value="<string name='Traits/TheFleshIsWeak'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeakDescription" value="<string name='Actions/TheFleshIsWeakDescription'/>"/>

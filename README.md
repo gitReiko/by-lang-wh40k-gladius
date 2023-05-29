@@ -2,6 +2,12 @@
 
 ## Кірылічная і łacinskaja версіі
 
+[NexusMods](https://www.nexusmods.com/warhammer40000gladiusrelicsofwar/mods/23)
+
+[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2372249255)
+
+[Patreon](https://patreon.com/Reiko651)
+
 ## Што перакладзена
 
 Большасьць тэксту, за выняткам: квэстаў, адкрыцьця ці знішчэньня фракцыяў, гутарак адзінак і энцыклапедыі.
@@ -16,7 +22,7 @@
 
     **Ubuntu (linux)**
 
-    Спампуйце мод патрэбнай версіі з рэпазіторыя і перанясіце тэчку Belarusian у тэчку ~/.config/Proxy Studios/Gladius/Mods/
+    Спампуйце мод патрэбнай версіі з рэпазіторыя ці [Нэксуса](https://www.nexusmods.com/warhammer40000gladiusrelicsofwar/mods/23) і перанясіце тэчку Belarusian у тэчку ~/.config/Proxy Studios/Gladius/Mods/
 
     **Windows**
 
@@ -34,7 +40,7 @@
 
 1. Набор Падмацаваньне
 2. Тыраніды
-3. Космапехі Хаосу
+3. Касьмічныя Марыны Хаосу
 4. Набор Фартыфікацыя
 5. T'ау
 6. Набор Штурм
