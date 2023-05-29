@@ -45,7 +45,7 @@
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CircumstanceMeleeDamage" value="Prahnoz Blizkaha Boju"/>
 	<entry name="CircumstanceMeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="CityDamageReduction" value="Haradskoje Źnižeńnie Škody"/>
+	<entry name="CityDamageReduction" value="Haradzkoje Źnižeńnie Škody"/>
 	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="CityRadius" value="Radyus Horada"/>
 	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
@@ -312,7 +312,7 @@
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, užyvańniu admysłovych zdolnaściaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
 	<entry name="Necrons/OreHint" value="<style name='Title'/>Ruda<br/><style name='Default'/>Vykarystoŭvajecca dla padtrymańnia nasielnictva ŭ haradach, a taksama dla absłuhoŭvańnia budynkaŭ i adzinak."/>
 	<entry name="Orks/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, padtrymki Vaaahch!, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
-	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i absłuhoŭvańnia haradskich plitak, praviadzieńnia śviaščennych abradaŭ, a taksama rekrutavańnia mahutnych adzinak-hierojaŭ i kupli ich pradmietaŭ."/>
+	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i absłuhoŭvańnia haradzkich plitak, praviadzieńnia śviaščennych abradaŭ, a taksama rekrutavańnia mahutnych adzinak-hierojaŭ i kupli ich pradmietaŭ."/>
 	<entry name="SistersOfBattle/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Vykarystoŭvajucca dla padtrymańnia nasielnictva ŭ horadzie, budavańni budynkaŭ, a taksama vytvorčaści i absłuhoŭvańnia adzinak."/>
 	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, vykarystańnia taktyk i apieracyj, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
 	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>Rekvizicyi<br/><style name='Default'/>Vykarystoŭvajucca dla padtrymańnia nasielnictva ŭ horadzie, budavańni budynkaŭ, a taksama vytvorčaści i absłuhoŭvańni adzinak."/>

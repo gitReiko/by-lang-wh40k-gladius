@@ -33,7 +33,7 @@
 	<entry name="Tip14Description" value="U <icon height='20' texture='Icons/Actions/Shop'/> kramie pradmietaŭ vy možacie kupić pradmiety za ŭpłyŭ <icon height='20' texture='Icons/Attributes/Influence'/>. Prosta naciśnicie pa pradmiecie, kab kupić abo pradać jaho. Pomnicie, što mnohija pradmiety majuć abmiežavanuju kolkaść <icon height='20' texture='Icons/Attributes/Uses'/> vykarystańniaŭ."/>
 	<entry name="Tip15" value="Harady"/>
 	<entry name="Tip15Description" value="Kab adkryć ekran horada, treba nacisnuć pa naźvie horada abo dvojčy pa štab-kvatery. Taksama vy možacie vybrać abaronu horada naciskam pa štab-kvatery abo značku nad horadam. Usie harady majuć abmiežavanuju ahniavuju moc i buduć baranicca pry atacy. Baranicie svaje harady lubym koštam. Kali vy stracicie ŭsie svaje harady, vy prajhrajecie!"/>
-	<entry name="Tip16" value="Haradskija Budynki"/>
+	<entry name="Tip16" value="Haradzkija Budynki"/>
 	<entry name="Tip16Description" value="Tut pieraličany budynki z dastupnymi dla ich dziejańniami. Źviarnicie ŭvahu, usie budynki adnaho typu zhrupavany razam i mohuć vykonvać tolki adno dziejańnie za raz. Niahledziačy na heta niekalki dziejańniaŭ mohuć być pastaŭleny ŭ čarhu. Pry hetym patrebnyja resursy buduć nieadkładna vyličany sa skarbu."/>
 	<entry name="Tip17" value="Ekran Daśledavańniaŭ"/>
 	<entry name="Tip17Description" value="Na ekranie daśledavańniaŭ padadziena ŭnikalnaje dreva technałohij vašaj frakcyi. Pačnicie z vybaru technałohii 1 uzroŭniu dla daśledavańnia. Kab adkryć nastupny ŭzrovień technałohij, treba daśledavać dźvie technałohii papiaredniaha. Vy možacie paskoryć daśledavańni pabudavaŭšy dadatkovyja <icon height='20' texture='Icons/Buildings/AstraMilitarum/Research'/> daśledčyja budynki ŭ vašych haradach. Pamiatajcie, uvieś prahres hublajecca paśla źmieny daśledujemaj ŭ dadzieny momant technałohii."/> <!-- , while shift-clicking will queue up the research -->
@@ -55,8 +55,8 @@
 	<entry name="Tip25Description" value="Kali <icon height='20' texture='Icons/Attributes/Loyalty'/> łajalnaść vašaha horada ŭpadzie da 0, heta admoŭna adab'jecca na efiektyŭnaści budynkaŭ. Z-za hetaha vy zachočacie pabudavać budynki, jakija vyrablajuć łajalnaść, kab trymać jaje na stanoŭčym uzroŭni. Heta pavialičyć efiektyŭnaść usiaho horada."/>
 	<entry name="Tip26" value="Hłabalna Nazapašanyja Resursy"/>
 	<entry name="Tip26Description" value="Žyćciova važnyja resursy, takija jak <icon height='20' texture='Icons/Attributes/Food'/> ježa, <icon height='20' texture='Icons/Attributes/Ore'/> ruda, <icon height='20' texture='Icons/Attributes/Energy'/> enierhija i <icon height='20' texture='Icons/Attributes/Influence'/> upłyŭ nazapašvajucca i raźmiarkoŭvajucca hłabalna. Kožny horad vyrablaje i spažyvaje resursy z adnaho puła. Heta dazvalaje vam śpiecyjalizavać harady i navat nazapašvacca resursami na bolš surovyja časy."/>
-	<entry name="Tip27" value="Haradskija Edykty"/>
-	<entry name="Tip27Description" value="Edykty - heta haradskija efiekty, jakija možna vydać vydatkavaŭšy ŭpłyŭ. Adnačasova moža być aktyŭna niekalki edyktaŭ, ale kožnaja aktyvacyja doŭžycca abmiežavany čas. Padbirajcie słušny momant, kab pieramahčy na Hładyusie."/>
+	<entry name="Tip27" value="Haradzkija Edykty"/>
+	<entry name="Tip27Description" value="Edykty - heta haradzkija efiekty, jakija možna vydać vydatkavaŭšy ŭpłyŭ. Adnačasova moža być aktyŭna niekalki edyktaŭ, ale kožnaja aktyvacyja doŭžycca abmiežavany čas. Padbirajcie słušny momant, kab pieramahčy na Hładyusie."/>
 	<entry name="Tip28" value="Artefakty"/>
 	<entry name="Tip28Description" value="Niešta pryciahnuła da Hładyusa ab'jekty z niezvyčajnaj siłaj. Usia pavierchnia pakryta technałohijami Staražytnych usich pamieraŭ i vyhladaŭ. Chacia niekatoryja artefakty možna kupić, najbolš mahutnyja artefakty možna zachapić tolki z macakaŭ Zaniavolnikaŭ. Paśla zabojstva ŭsich susiednich adzinak, što kantralujuć artefakt, jaho možna zachapić nacisnuŭšy pa im pravaj knopkaj myšy z abranaj adzinkaj."/>
 	<entry name="Tip29" value="Apieracyi"/>
@@ -106,7 +106,7 @@
 	<entry name="Tip51" value="Siłkavańnie Płanietaj"/>
 	<entry name="Tip51Description" value="Harady spažyvajuć usiu <icon height='20' texture='Icons/Attributes/Biomass'/> bijamasu plitki, pry jaje nabyćci. Hetaja bijamasa dadajecca da ahulnych zapasaŭ resursaŭ, i nazaŭždy vysilvajecca z plitki. <icon height='20' texture='Icons/Units/Tyranids/Malanthrope'/> Małantropy z'jaŭlajucca hruntam usiakaj ekanomiki tyranidaŭ. Jany zdolnyja spažyvać plitki ŭ kožnaj častcy Hładyusa, navat u samoj dalokaj."/>
 	<entry name="Tip52" value="Niazbožnyja Abrady"/>
-	<entry name="Tip52Description" value="Niazbožnyja abrady - heta mahutnyja haradskija efiekty, jakija možna aktyvavać achviaravaŭšy nasielnictvam. Kaardynujcie abrady z achviaravańniem kultystaŭ chaosu, kab pavialičyć uzrost nasielnictva. Heta klučavy elemient dla atrymańnia maksimalnaj addačy ad vašaj ekanomiki."/>	
+	<entry name="Tip52Description" value="Niazbožnyja abrady - heta mahutnyja haradzkija efiekty, jakija možna aktyvavać achviaravaŭšy nasielnictvam. Kaardynujcie abrady z achviaravańniem kultystaŭ chaosu, kab pavialičyć uzrost nasielnictva. Heta klučavy elemient dla atrymańnia maksimalnaj addačy ad vašaj ekanomiki."/>	
 	<entry name="Tip53" value="Čempijony Chaosu"/>
 	<entry name="Tip53Description" value="Čempijony chaosu majuć šaniec transfarmacyi ŭ paradžeńni chaosu abo mahutnaha deman-prynca, paśla zabojstva voraha. Taksama, paśla daśledavańnia darunkaŭ chaosu, kožny čempijon chaosu moža atrymać stałyja bafy. Budźcie aściarožnyja z tym, kim vy nanasicie apošni ŭdar."/>
 	<entry name="Tip54" value="Znaki Chaosu"/>

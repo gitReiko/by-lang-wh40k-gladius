@@ -45,7 +45,7 @@
 	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
 	<entry name="CircumstanceMeleeDamage" value="Прагноз Блізкага Бою"/>
 	<entry name="CircumstanceMeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="CityDamageReduction" value="Гарадское Зьніжэньне Шкоды"/>
+	<entry name="CityDamageReduction" value="Гарадзкое Зьніжэньне Шкоды"/>
 	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="CityRadius" value="Радыус Горада"/>
 	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
@@ -312,7 +312,7 @@
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, ужываньню адмысловых здольнасьцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="Necrons/OreHint" value="<style name='Title'/>Руда<br/><style name='Default'/>Выкарыстоўваецца для падтрыманьня насельніцтва ў гарадах, а таксама для абслугоўваньня будынкаў і адзінак."/>
 	<entry name="Orks/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, падтрымкі Вааагх!, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
-	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і абслугоўваньня гарадскіх плітак, правядзеньня сьвяшчэнных абрадаў, а таксама рэкрутаваньня магутных адзінак-герояў і куплі іх прадметаў."/>
+	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і абслугоўваньня гарадзкіх плітак, правядзеньня сьвяшчэнных абрадаў, а таксама рэкрутаваньня магутных адзінак-герояў і куплі іх прадметаў."/>
 	<entry name="SistersOfBattle/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Выкарыстоўваюцца для падтрыманьня насельніцтва ў горадзе, будаваньні будынкаў, а таксама вытворчасьці і абслугоўваньня адзінак."/>
 	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, выкарыстаньня тактык і аперацый, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>Рэквізіцыі<br/><style name='Default'/>Выкарыстоўваюцца для падтрыманьня насельніцтва ў горадзе, будаваньні будынкаў, а таксама вытворчасьці і абслугоўваньні адзінак."/>
