@@ -26,7 +26,7 @@
 
     **Windows**
 
-    Спампуйце мод патрэбнай версіі з рэпазіторыя і перанясіце тэчку Belarusian у тэчку \My Documents\Proxy Studios\Gladius\Mods\
+    Спампуйце мод патрэбнай версіі з рэпазіторыя ці [Нэксуса](https://www.nexusmods.com/warhammer40000gladiusrelicsofwar/mods/23) і перанясіце тэчку Belarusian у тэчку \My Documents\Proxy Studios\Gladius\Mods\
 
     Тэчка Belarusian знаходзіцца ў тэчцы мод.
 
