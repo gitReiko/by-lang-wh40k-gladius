@@ -567,7 +567,7 @@
 	<entry name="Necrons/QuantumShieldingDescription" value="Павелічэньне непаражальнага зьніжэньня шкоды Перазараджваецца напачатку наступнага кроку, калі атрымана шкода."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="Necron quantum shielding is a marvel of science, existing only at the precise moment of deflection—at all other times there is no indication of its presence. They are, however, temperamental devices, prone to malfunction if overloaded."/>
 	<entry name="Necrons/RepairBarge" value="Рамонтная Баржа"/> <!-- Ghost Ark -->
-	<entry name="Necrons/RepairBargeDescription" value="Аднаўляе здароўе мэтавай хаўруснай пяхоты Некронаў або жахлівага стварэньня."/>
+	<entry name="Necrons/RepairBargeDescription" value="Аднаўляе здароўе абранай хаўруснай пяхоты Некронаў або жахлівага стварэньня."/>
 	<entry name="Necrons/RepairBargeFlavor" value="Stately they might be, but these sinister vehicles are as great a threat as the better-known Monolith. Their role is to support the Necron army, gliding across the battlefield and disgorging minute repair scarabs to return even the most devastated Necron warriors to battle readiness, before transporting them back to the fray."/>
 	<entry name="Necrons/RapidRise" value="Хуткі Ўздым"/>
 	<entry name="Necrons/RapidRiseDescription" value="Паскарае вытворчасьць чаго-небудзь."/>
@@ -702,7 +702,7 @@
 	<entry name="SistersOfBattle/BodyguardDescription" value="Дадае дадатковую абарону суседнім хаўрусным героям."/>
 	<entry name="SistersOfBattle/BodyguardFlavor" value="Celestians are those Sisters most filled with martial spirit, proving themselves in the most intense melees. They frequently serve as bodyguards and champions of Canonesses, willingly sacrificing themselves to protect their charge."/>
 	<entry name="SistersOfBattle/CatechismOfRepugnance" value="Катэхізіс Агіды"/>
-	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="Павялічвае трапнасьць і бронепрабівальнасьць далёкага бою ў мэтавай хаўруснай адзінкі Адэпта Сарорытас."/>
+	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="Павялічвае трапнасьць і бронепрабівальнасьць далёкага бою абранай хаўруснай адзінкі Адэпта Сарорытас."/>
 	<entry name="SistersOfBattle/CatechismOfRepugnanceFlavor" value="With the holy bolter we shall cleanse the mutant, the alien and the heretic. With the Emperor’s gift do we deliver our hatred of the defiler."/>
 	<entry name="SistersOfBattle/ChaseTheProfane" value="Пагоня за Грэхам"/>
 	<entry name="SistersOfBattle/ChaseTheProfaneDescription" value="Сьвяшчэнны Абрад, які дае Рух Праз Хованкі для пяхоты."/>
@@ -711,7 +711,7 @@
 	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="Сьвяшчэнны Абрад, які аднаўляе мараль адзінак са Шчытом Веры."/>
 	<entry name="SistersOfBattle/ConvictionOfFaithFlavor" value="“In the age since our disgrace, not one of us has fallen. We do not struggle with our qualms as other do, nor fall to the dark path. Repeat: I know no fear for I am already death.”<br/>  — Canoness Vandire, “The Rite of Conviction” from In Memoriam De Virtute."/>
 	<entry name="SistersOfBattle/DeathBeforeDisgrace" value="Сьмерць да Ганьба"/>
-	<entry name="SistersOfBattle/DeathBeforeDisgraceDescription" value="Аднаўляе мараль мэтавай хаўруснай адзінкі."/>
+	<entry name="SistersOfBattle/DeathBeforeDisgraceDescription" value="Аднаўляе мараль абранай хаўруснай адзінкі."/>
 	<entry name="SistersOfBattle/DeathBeforeDisgraceFlavor" value="“What is death, to us? We are not fodder for laughing gods. We are not enshrined in stones, like the foul Aeldari. For us death is an end to service, a reward only given if we do not seek it. So act as if each moment is your last, but strive against that day with all your heart.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
 	<entry name="SistersOfBattle/DivineDeliverance" value="Божае Збавеньне"/>
 	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="Гэтая адзінка і суседнія адзінкі Адэпта Сарорытас зьніжаюць мараль атакаваных адзінак."/>
@@ -768,7 +768,7 @@
 	<entry name="SistersOfBattle/SacralVigorDescription" value="Сьвяшчэнны Абрад, які аднаўляе здароўе адзінак са Шчытом Веры."/>
 	<entry name="SistersOfBattle/SacralVigorFlavor" value="“What of these wounds upon us, sisters? Is our flesh that precious to us, our beauty that sacred? Tear at these cuts, open them, they are but motes in fanciful air. Never forget that our reality is faith, and pain, like life, is evanescent…”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
 	<entry name="SistersOfBattle/SacredHealing" value="Сьвяшчэннае Вылечваньне"/>
-	<entry name="SistersOfBattle/SacredHealingDescription" value="Аднаўляе здароўе мэтавай хаўруснай пяхоты."/>
+	<entry name="SistersOfBattle/SacredHealingDescription" value="Аднаўляе здароўе абранай хаўруснай пяхоты."/>
 	<entry name="SistersOfBattle/SacredHealingFlavor" value="Implements of both torture and salvation, the chirurgeon’s tools can restore the fallen so that they might fight once more."/>
 	<entry name="SistersOfBattle/SaintlyBlessings" value="Сьвятыя Благаславеньні"/>
 	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Дае дадатковае зьніжэньне шкоды гэтай адзінке і суседнім хаўрусным адзінкам."/>
@@ -798,7 +798,7 @@
 	<entry name="SistersOfBattle/VengefulSpiritDescription" value="Сьвяшчэнны Абрад, які вяртае шкоду назад варожаму атакоўцу."/>
 	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="<string name='Traits/SistersOfBattle/VengefulSpiritFlavor'/>"/>
 	<entry name="SistersOfBattle/VerseOfHolyPiety" value="Верш пра Сьвятую Набожнасьць"/>
-	<entry name="SistersOfBattle/VerseOfHolyPietyDescription" value="Зьніжае час перазарадкі Актаў Веры мэтавай адзінкі."/>
+	<entry name="SistersOfBattle/VerseOfHolyPietyDescription" value="Зьніжае час перазарадкі Актаў Веры абранай адзінкі."/>
 	<entry name="SistersOfBattle/VerseOfHolyPietyFlavor" value="Pray is stronger than any sword. As the sanctified words of the Order’s holy tenets are roared across the battlefield, the devout are infused with the Emperor’s blessings."/>
 	<entry name="SistersOfBattle/WarHymn" value="Вайсковы Гімн"/>
 	<entry name="SistersOfBattle/WarHymnDescription" value="Павялічвае атакі блізкага бою абранай хаўруснай адзінкі Адэпта Сарорытас, якая ня з'яўляецца звышцяжкай."/>

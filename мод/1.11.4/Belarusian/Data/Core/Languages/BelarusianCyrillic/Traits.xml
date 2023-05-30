@@ -358,14 +358,14 @@
 	<entry name="BarrageDescription" value="Не патрабуе прамой бачнасьці, але ня можа назіраць."/>
 	<entry name="BarrageFlavor" value="<string name='Weapons/BarrageFlavor'/>"/>
 	<entry name="Beam" value="Прамень"/>
-	<entry name="BeamDescription" value="Б'е з павышанай трапнасьцю па некалькіх чальцах групы мэтавай адзінкі."/>
+	<entry name="BeamDescription" value="Б'е з павышанай трапнасьцю па некалькіх чальцах групы абранай адзінкі."/>
 	<entry name="Bike" value="Матацыкл"/>
 	<entry name="BikeDescription" value="Класіфікацыя."/>
 	<entry name="BikeFlavor" value="Units mounted on Bikes excel at vanguard strikes. They are able to use their fast speed to strike deep into enemy territory, complete their mission and escape before an enemy is able to react. These warriors are often regarded as dangerously hot-headed risk-takers, but their effectiveness cannot be denied."/>
 	<entry name="Bladestorm" value="Шторм Клінкоў"/>
 	<entry name="BladestormDescription" value="Павялічвае шкоду і бронепрабівальнасьць."/>
 	<entry name="Blast" value="Выбух"/>
-	<entry name="BlastDescription" value="Б'е некалькіх чальцоў групы мэтавай адзінкі."/>
+	<entry name="BlastDescription" value="Б'е некалькіх чальцоў групы абранай адзінкі."/>
 	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="Blighted" value="Атручаны"/>
 	<entry name="BlightedDescription" value="Наносіць шкоду кожны крок."/>
@@ -843,7 +843,7 @@
 	<entry name="GargantuanCreatureDescription" value="<string name='Traits/GargantuanDescription'/>"/>
 	<entry name="GargantuanCreatureFlavor" value="<string name='Traits/GargantuanFlavor'/>"/>
 	<entry name="Gauss" value="Гаўс"/>
-	<entry name="GaussDescription" value="Мінімальная шкода залежыць ад здароўя мэтавай адзінкі."/>
+	<entry name="GaussDescription" value="Мінімальная шкода залежыць ад здароўя абранай адзінкі."/>
 	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
 	<entry name="GaussDamage" value="Атамныя Скуралупы"/>
 	<entry name="GaussDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
@@ -1028,7 +1028,7 @@
 	<entry name="Necrons/EnergyBuildingBonusDescription" value="Павялічвае вытворчасьць энергіі."/>
 	<entry name="Necrons/EnergyBuildingBonusFlavor" value="Little has changed on the outside of this baroque sarcophagus—yet, inside its unheimlich interior, dark Cryptek devices are stabilising a much improved device."/>
 	<entry name="Necrons/EntropicStrike" value="Энтрапічны Ўдар"/>
-	<entry name="Necrons/EntropicStrikeDescription" value="Мінімальная шкода залежыць ад здароўя мэтавай адзінкі."/>
+	<entry name="Necrons/EntropicStrikeDescription" value="Мінімальная шкода залежыць ад здароўя абранай адзінкі."/>
 	<entry name="Necrons/EternityGate" value="Брама Вечнасьці"/>
 	<entry name="Necrons/EternityGateDescription" value="Адзінкі некронаў могуць тэлепартавацца на суседнія пліткі."/>
 	<entry name="Necrons/EternityGateFlavor" value="A Monolith's eternity gate is a dimensional corridor between the battlefield and a tomb world, allowing legions of Necron warriors to cross vast distances and enter the fray with a single step."/>
