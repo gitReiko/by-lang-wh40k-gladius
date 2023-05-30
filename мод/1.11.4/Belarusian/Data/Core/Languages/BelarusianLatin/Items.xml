@@ -47,7 +47,7 @@
 	<entry name="JokaeroDigitalWeaponDescription" value="Pradmiet nanosić škodu varožaj adzinki-celi."/>
 	<entry name="JokaeroDigitalWeaponFlavor" value="Miniaturized killing tools of remarkable power, commonly concealed within jewellery, and created by a race of primate-like xenos with an apparently instinctive understanding of technology. The Imperium has, as yet, been unable to replicate the construction of these digi-weapons."/>
 	<entry name="LaurelsOfCommand" value="Łaŭry Kamandavańnia"/>
-	<entry name="LaurelsOfCommandDescription" value="Pradmiet adnaŭlaje bajavy duch susiednich chaŭrusnych adzinak."/>
+	<entry name="LaurelsOfCommandDescription" value="Pradmiet adnaŭlaje maral hetaj adzinki i susiednich chaŭrusnych adzinak u radyusie."/>
 	<entry name="LaurelsOfCommandFlavor" value="The Laurels of Command are a callous and controversial means to ensure obedience. Concealed within their peerless artistry is a band of empathic-impulsion circuitry which allows the wearer limited control over the minds of indoctrinated individuals via subliminal suggestion. Under their effects even cowards fight to the last, while orders are executed in perfect synchronisation."/>
 	<entry name="LightningGauntlet" value="Rukavicy Małanak"/>
 	<entry name="LightningGauntletDescription" value="Pradmiet pavialičvaje škodu ad nastupnaj ataki blizkaha boju."/>
@@ -73,6 +73,9 @@
 	<entry name="ScrollsOfMagnus" value="Skrutki Mahnusa"/>
 	<entry name="ScrollsOfMagnusDescription" value="Pradmiet pavialičvaje vytvorčaść daśledvańniaŭ."/>
 	<entry name="ScrollsOfMagnusFlavor" value="These illuminated pages of skin are fragments of the repository of sorcery compiled by the Primarch of the Thousand Sons, and contain arcane lore from across the galaxy. None possess them for long and remain sane, for they have their own ghastly sentience."/>
+	<entry name="SightlessHelm" value="Biazvoki Šałom"/>
+	<entry name="SightlessHelmDescription" value="Pradmiet daje zdolnaść ihnaravać źnižeńnie škody dalokaha boju i pavialičvaje trapnaść dalokaha boju."/>
+	<entry name="SightlessHelmFlavor" value="The lenses of this helm remain forever dark, the wearer unable to perceive the galaxy with their own eyes. Instead, strange warp senses are granted by the helms machine spirit, illuminating the foes weaknesses."/>
 	<entry name="StunGrenade" value="Ahłušalnaja Hranata"/>
 	<entry name="StunGrenadeDescription" value="Pradmiet časova zabaraniaje varožaj piachocie abo žachlivamu stvareńniu dziejničać."/>
 	<entry name="StunGrenadeFlavor" value="An ancient design, Stun grenades use a combination of a loud explosion and a bright flash to temporarily disable any combatants in the blast area."/>
@@ -82,6 +85,12 @@
 	<entry name="TemporaryShield" value="Časavy Ščyt"/>
 	<entry name="TemporaryShieldDescription" value="Pradmiet, jaki pavialičvaje braniu."/>
 	<entry name="TemporaryShieldFlavor" value="Portable shield generators are fairly rare amongst most species, given the technical capability and rare resources needed to make them. They also burn out quickly, but their ability to stop even the most powerful attacks dead in their tracks make them invaluable."/>
+	<entry name="UltraWidebandAuspex" value="Ultra Šyrokapałosny Auspieks"/>
+	<entry name="UltraWidebandAuspexDescription" value="Hety pradmiet nie daje napadać atakam nazirańnia."/>
+	<entry name="UltraWidebandAuspexFlavor" value="To hide yourself, you dont always need diffraction fields or chameleonic skin—sometimes just knowing more than the enemy is enough. An advanced Auspex uses passive and active sensors to discern the location of every enemy unit so the bearer can decide how best to engage them—or avoid them—at will."/>
+	<entry name="UncreatorGauntlet" value="Palčatka Niastvaralnika"/>
+	<entry name="UncreatorGauntletDescription" value="Pradmiet ramantuje susiedniuju chaŭrusnuju mašynu ci fartyfikacyju."/>
+	<entry name="UncreatorGauntletFlavor" value="The Uncreator Gauntlet was originally devised to reverse-engineer lost technologies. When laid upon a machine, xenotech fields are released that cause the constructs chronology to be wound back. If the timing is accurate to the picosecond, the temporal anomaly can rejuvenate the machine to the prime of its operative lifespan – or go on to reduce it to a neatly-arrayed pile of component parts, each ready for the Tech-Priests inspection."/>
 	<entry name="VolcanisShroud" value="Pokryva Vułkana"/>
 	<entry name="VolcanisShroudDescription" value="Pradmiet pavialičvaje źnižeńnie škody ad viadźmarskaha ahoniu."/>
 	<entry name="VolcanisShroudFlavor" value="Though this battered, heat-resistant armour was originally designed for industrial work at the deepest and most hazardous layers of Hive Worlds, by some happy accident it also muffles psychic attack. As yet, whatever gives the Shroud this quality has not been identified, for fear that reverse-engineering it may break its uncanny spell."/>

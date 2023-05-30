@@ -2985,8 +2985,6 @@
 	<entry name="SistersOfBattle/Exorcist:VictoryCount" value="1"/>
 	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestine#0" value="…behold the wondrous mystery of the Living Saint..!"/>
 	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
-	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestine#0" value=""/>
-	<entry name="SistersOfBattle/Exorcist:AlliedUnit:SistersOfBattle/SaintCelestineCount" value="1"/>
 	<entry name="SistersOfBattle/CelestianSacresant:Attack#0" value="Come closer, heretics."/>
 	<entry name="SistersOfBattle/CelestianSacresant:Attack#1" value="Feel the Emperor's wrath!"/>
 	<entry name="SistersOfBattle/CelestianSacresant:Attack#2" value="Faith is our shield."/>
@@ -3173,4 +3171,183 @@
 	<entry name="SistersOfBattle/ParagonWarsuit" value="SistersOfBattle/BattleSister"/>
 	<entry name="SistersOfBattle/Retributor" value="SistersOfBattle/BattleSister"/>
 	<entry name="SistersOfBattle/Castigator" value="SistersOfBattle/Exorcist"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#0" value="C32: Firing Pattern Achieved."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#1" value="7T32: All Armaments Deployed."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#2" value="8-6: Breacher Clade active."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Attack#3" value="P4-78: Armour/Transport Search & Destroy."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:AttackCount" value="4"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Broken#0" value="Disposable Assets… human once-"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:BrokenCount" value="1"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Hurt#0" value="Functionality Compromised. Machine Extant. Flesh 45%, Declining."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:HurtCount" value="1"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#0" value="Necrotic Tissue Being Excised."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#1" value="Servitor Waiting To Be Expended."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#2" value="Memory Of Grass, Clouds, Blue Sky… Mind Wipe Error. Erasing."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Idle#3" value="Binharic Chorus Commencing."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:IdleCount" value="4"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Shaken#0" value="Under Sustained Fire."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:ShakenCount" value="1"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:Victory#0" value="Eliminated, Brutally. Satisfactory."/>
+	<entry name="AdeptusMechanicus/KataphronBreacher:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#0" value="Oppressive fire!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#1" value="In the Primarch's name!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#2" value="Armoured assault!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Attack#3" value="One is firing… everything!"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Broken#0" value="One must preserve the tank-"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Hurt#0" value="Straight through the hull-"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#0" value="What would Dorn do?"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#1" value="One serves the Emperor's will."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#2" value="Armageddon, now that was a tank battle…"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Idle#3" value="Less infantry, more armour."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Shaken#0" value="They have quite got to One."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:Victory#0" value="One is always looking out for new targets."/>
+	<entry name="AstraMilitarum/RogalDornBattleTank:VictoryCount" value="1"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Attack#0" value="Khrrrrne!"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Attack#1" value="Rrrrr!"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Attack#2" value="Wrrrrr-"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Attack#3" value="K-k-k-k!"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:AttackCount" value="4"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Broken#0" value="Sklzzz-"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:BrokenCount" value="1"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Hurt#0" value="Ztt! Rrrr-"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:HurtCount" value="1"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Idle#0" value="Crck."/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Idle#1" value="Blddd…"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Idle#2" value="Mhnnn."/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Idle#3" value="Mrrrr."/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:IdleCount" value="4"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Shaken#0" value="Hnh!"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:ShakenCount" value="1"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:Victory#0" value="RRRRRRR!"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne:VictoryCount" value="1"/>
+	<entry name="Eldar/DarkReaper:Attack#0" value="Appreciate the art of destruction."/>
+	<entry name="Eldar/DarkReaper:Attack#1" value="Bringing Death."/>
+	<entry name="Eldar/DarkReaper:Attack#2" value="In the name of Khaine!"/>
+	<entry name="Eldar/DarkReaper:Attack#3" value="We do not miss."/>
+	<entry name="Eldar/DarkReaper:AttackCount" value="4"/>
+	<entry name="Eldar/DarkReaper:Broken#0" value="It is we who shall be destroyed…"/>
+	<entry name="Eldar/DarkReaper:BrokenCount" value="1"/>
+	<entry name="Eldar/DarkReaper:Hurt#0" value="Destruction comes to us all."/>
+	<entry name="Eldar/DarkReaper:HurtCount" value="1"/>
+	<entry name="Eldar/DarkReaper:Idle#0" value="We remember Altansar."/>
+	<entry name="Eldar/DarkReaper:Idle#1" value="Destruction is but another path in our long lives."/>
+	<entry name="Eldar/DarkReaper:Idle#2" value="Death without fear is our lot."/>
+	<entry name="Eldar/DarkReaper:Idle#3" value="The Destroyer took the Smith-God long ago."/>
+	<entry name="Eldar/DarkReaper:IdleCount" value="4"/>
+	<entry name="Eldar/DarkReaper:Shaken#0" value="The Destroyer has turned against us!"/>
+	<entry name="Eldar/DarkReaper:ShakenCount" value="1"/>
+	<entry name="Eldar/DarkReaper:Victory#0" value="The Destroyer has taken them."/>
+	<entry name="Eldar/DarkReaper:VictoryCount" value="1"/>
+	<entry name="Necrons/Deathmark:Attack#0" value="Targetting their leaders."/>
+	<entry name="Necrons/Deathmark:Attack#1" value="Disintegrating their synapses."/>
+	<entry name="Necrons/Deathmark:Attack#2" value="Dishonourable foe targetted."/>
+	<entry name="Necrons/Deathmark:Attack#3" value="Marking for death."/>
+	<entry name="Necrons/Deathmark:AttackCount" value="4"/>
+	<entry name="Necrons/Deathmark:Broken#0" value="Return to alternate dimension!"/>
+	<entry name="Necrons/Deathmark:BrokenCount" value="1"/>
+	<entry name="Necrons/Deathmark:Hurt#0" value="Reanimation protocols failing."/>
+	<entry name="Necrons/Deathmark:HurtCount" value="1"/>
+	<entry name="Necrons/Deathmark:Idle#0" value="Monitoring communications."/>
+	<entry name="Necrons/Deathmark:Idle#1" value="Is the Deceiver truly here?"/>
+	<entry name="Necrons/Deathmark:Idle#2" value="Locating nodes of command."/>
+	<entry name="Necrons/Deathmark:Idle#3" value="Decapitation protocols on hold."/>
+	<entry name="Necrons/Deathmark:IdleCount" value="4"/>
+	<entry name="Necrons/Deathmark:Shaken#0" value="We are precision tools, not targets."/>
+	<entry name="Necrons/Deathmark:ShakenCount" value="1"/>
+	<entry name="Necrons/Deathmark:Victory#0" value="As expected, eliminated."/>
+	<entry name="Necrons/Deathmark:VictoryCount" value="1"/>
+	<entry name="Neutral/Poxwalker:Attack#0" value="Heehee."/>
+	<entry name="Neutral/Poxwalker:Attack#1" value="Urrnnnn…"/>
+	<entry name="Neutral/Poxwalker:Attack#2" value="Harrrr…"/>
+	<entry name="Neutral/Poxwalker:Attack#3" value="Nurg Elll…"/>
+	<entry name="Neutral/Poxwalker:AttackCount" value="4"/>
+	<entry name="Neutral/Poxwalker:Broken#0" value="Father…"/>
+	<entry name="Neutral/Poxwalker:BrokenCount" value="1"/>
+	<entry name="Neutral/Poxwalker:Hurt#0" value="Falling…"/>
+	<entry name="Neutral/Poxwalker:HurtCount" value="1"/>
+	<entry name="Neutral/Poxwalker:Idle#0" value="…souls… trapped…"/>
+	<entry name="Neutral/Poxwalker:Idle#1" value="…Plague God…"/>
+	<entry name="Neutral/Poxwalker:Idle#2" value="…Father…"/>
+	<entry name="Neutral/Poxwalker:Idle#3" value="…Unhhhh…"/>
+	<entry name="Neutral/Poxwalker:IdleCount" value="4"/>
+	<entry name="Neutral/Poxwalker:Shaken#0" value="…nnnaaaa…"/>
+	<entry name="Neutral/Poxwalker:ShakenCount" value="1"/>
+	<entry name="Neutral/Poxwalker:Victory#0" value="…infected…"/>
+	<entry name="Neutral/Poxwalker:VictoryCount" value="1"/>
+	<entry name="Orks/DeffDread:Attack#0" value="Stompin' and Killin'!"/>
+	<entry name="Orks/DeffDread:Attack#1" value="Dis was worth da op!"/>
+	<entry name="Orks/DeffDread:Attack#2" value="Ooh, I az Rokkits!"/>
+	<entry name="Orks/DeffDread:Attack#3" value="Firin' ev'ryfin!"/>
+	<entry name="Orks/DeffDread:AttackCount" value="4"/>
+	<entry name="Orks/DeffDread:Broken#0" value="Leggin' it!"/>
+	<entry name="Orks/DeffDread:BrokenCount" value="1"/>
+	<entry name="Orks/DeffDread:Hurt#0" value="I fink dere's an 'ole in me."/>
+	<entry name="Orks/DeffDread:HurtCount" value="1"/>
+	<entry name="Orks/DeffDread:Idle#0" value="Dere's a Squig in 'ere!"/>
+	<entry name="Orks/DeffDread:Idle#1" value="Somewun, scratch me schnozz! Drivin' me mad!"/>
+	<entry name="Orks/DeffDread:Idle#2" value="Wotz all dese wires fer?"/>
+	<entry name="Orks/DeffDread:Idle#3" value="Borrringgg."/>
+	<entry name="Orks/DeffDread:IdleCount" value="4"/>
+	<entry name="Orks/DeffDread:Shaken#0" value="'ow d'ya 'ide in dis fing?"/>
+	<entry name="Orks/DeffDread:ShakenCount" value="1"/>
+	<entry name="Orks/DeffDread:Victory#0" value="WAAAGH! Deff Dreads iz da bestest!"/>
+	<entry name="Orks/DeffDread:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/Imagifier:Attack#0" value="And Celestine did smite them and saw it was good."/>
+	<entry name="SistersOfBattle/Imagifier:Attack#1" value="And they were the gloried dead!"/>
+	<entry name="SistersOfBattle/Imagifier:Attack#2" value="Their holy rage, oh my sisters!"/>
+	<entry name="SistersOfBattle/Imagifier:Attack#3" value="Defiant, they stood, against the foe!"/>
+	<entry name="SistersOfBattle/Imagifier:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/Imagifier:Broken#0" value="My song… falters…"/>
+	<entry name="SistersOfBattle/Imagifier:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/Imagifier:Hurt#0" value="Grievious wounds they suffered, but forged on!"/>
+	<entry name="SistersOfBattle/Imagifier:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/Imagifier:Idle#0" value="I bear the Simulacrum Imperialis."/>
+	<entry name="SistersOfBattle/Imagifier:Idle#1" value="In brief moments, they invoked the Emperor's love."/>
+	<entry name="SistersOfBattle/Imagifier:Idle#2" value="…And Celestine knew her moment was come…"/>
+	<entry name="SistersOfBattle/Imagifier:Idle#3" value="The arch-traitor clutched the fallen angel in a single claw…"/>
+	<entry name="SistersOfBattle/Imagifier:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/Imagifier:Shaken#0" value="And they sealed the Eternity Gate and were cowed.."/>
+	<entry name="SistersOfBattle/Imagifier:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/Imagifier:Victory#0" value="And they returned to holy Terra in triumph!"/>
+	<entry name="SistersOfBattle/Imagifier:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Whirlwind:Attack#0" value="Missiles away, Commander."/>
+	<entry name="SpaceMarines/Whirlwind:Attack#1" value="Whirlwind firing."/>
+	<entry name="SpaceMarines/Whirlwind:Attack#2" value="Indirect barrage impacting."/>
+	<entry name="SpaceMarines/Whirlwind:Attack#3" value="Saturation bombardment available."/>
+	<entry name="SpaceMarines/Whirlwind:AttackCount" value="4"/>
+	<entry name="SpaceMarines/Whirlwind:Broken#0" value="Pulling back."/>
+	<entry name="SpaceMarines/Whirlwind:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Whirlwind:Hurt#0" value="Within small arms range… damage sustained."/>
+	<entry name="SpaceMarines/Whirlwind:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Whirlwind:Idle#0" value="Machine spirits ministration."/>
+	<entry name="SpaceMarines/Whirlwind:Idle#1" value="Deployed, awaiting orders."/>
+	<entry name="SpaceMarines/Whirlwind:Idle#2" value="If enemies need softening up, artillery available."/>
+	<entry name="SpaceMarines/Whirlwind:Idle#3" value="Reloading missiles."/>
+	<entry name="SpaceMarines/Whirlwind:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Whirlwind:Shaken#0" value="This is our Chapter World… how can this be?"/>
+	<entry name="SpaceMarines/Whirlwind:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Whirlwind:Victory#0" value="Receiving reports target destroyed."/>
+	<entry name="SpaceMarines/Whirlwind:VictoryCount" value="1"/>
+	<entry name="Tau/RVarnaBattlesuit:Attack#0" value="Holding fast."/>
+	<entry name="Tau/RVarnaBattlesuit:Attack#1" value="Plasma saturation in process."/>
+	<entry name="Tau/RVarnaBattlesuit:AttackCount" value="2"/>
+	<entry name="Tau/RVarnaBattlesuit:Broken#0" value="Needing support here."/>
+	<entry name="Tau/RVarnaBattlesuit:BrokenCount" value="1"/>
+	<entry name="Tau/RVarnaBattlesuit:Hurt#0" value="Reactor leaking… no retreat."/>
+	<entry name="Tau/RVarnaBattlesuit:HurtCount" value="1"/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#0" value="What are we doing in this fu'llasso?"/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#1" value="The ho'or-ata-t'chel—the ghost pains—are bad today."/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#2" value="Shas'vre reporting."/>
+	<entry name="Tau/RVarnaBattlesuit:Idle#3" value="How do they make this fio'tak? It's impregnable!"/>
+	<entry name="Tau/RVarnaBattlesuit:IdleCount" value="4"/>
+	<entry name="Tau/RVarnaBattlesuit:Shaken#0" value="Iur'tae'mont! Where's Farsight when you need him?"/>
+	<entry name="Tau/RVarnaBattlesuit:ShakenCount" value="1"/>
+	<entry name="Tau/RVarnaBattlesuit:Victory#0" value="Nothing moving over there."/>
+	<entry name="Tau/RVarnaBattlesuit:VictoryCount" value="1"/>
+	<entry name="Tyranids/Tyrannocyte" value="Tyranids/Carnifex"/>
 </language>

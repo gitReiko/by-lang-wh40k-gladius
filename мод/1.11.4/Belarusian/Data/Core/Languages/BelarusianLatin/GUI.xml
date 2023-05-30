@@ -45,6 +45,8 @@
 	<entry name="Continue" value="Praciahnuć"/>
 	<entry name="Cooldown" value="Čas Pierazaradki"/>
 	<entry name="Copy" value="Kapijavać"/>
+	<entry name="CopyInviteCode" value="Kapijavać Kod Zaprašeńnia"/>
+	<entry name="CopyInviteCodeHint" value="Skapijujcie kod zaprašeńnia, jaki lha ŭstavić inšym hulcam dla lohkaha dałučeńnia da hulni.<br/><br/>Źviarnicie ŭvahu, vašy publičny IP adras lha vyniać z kodu."/>
 	<entry name="Cost" value="Košt"/>
 	<entry name="Create" value="Stvaryć"/>
 	<entry name="Credits" value="Pra Stvaralnikaŭ"/>
@@ -149,9 +151,9 @@
 	<entry name="NotEnoughResources" value="Brakuje resursaŭ."/>
 	<entry name="NotReady" value="Nie Hatovy"/>
 	<entry name="NotUsable" value="Nielha ŭžyvać."/>
+	<entry name="OK" value="Dobra"/>
 	<entry name="Objectives" value="Mety"/>
 	<entry name="ObjectivesCompleted" value="Mety dasiahnuty"/>
-	<entry name="OK" value="Dobra"/>
 	<entry name="OnCooldown" value="Na pierazaradcy."/>
 	<entry name="OpenStore" value="Naciśnicie, kab adkryć kramu."/>
 	<entry name="Operations" value="Apieracyi i Taktyki"/>
@@ -166,6 +168,9 @@
 	<entry name="Passive" value="Pasiŭny"/>
 	<entry name="PassiveAction" value="Pasiŭnaje Dziejańnie"/>
 	<entry name="Paste" value="Ustavić"/>
+	<entry name="PasteInviteCode" value="Ustavić Kod Zaprašeńnia"/>
+	<entry name="PasteInviteCodeHint" value="Dałučycca da hulni z kodu zaprašeńnia z vašaha bufiera pamienu."/>
+	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>Chibny kod zaprašeńnia.<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
 	<entry name="PatchNotes" value="Źmieny Abnaŭleńnia"/>
 	<entry name="Ping" value="Pinh"/>
 	<entry name="Play" value="Hulać"/>
@@ -175,6 +180,8 @@
 	<entry name="PleaseWait" value="Kali Łaska, Pačakajcie…"/>
 	<entry name="PleaseWaitHint" value="Kali łaska, pačakajcie inšych hulcoŭ."/>
 	<entry name="Quests" value="Zadańni"/>
+	<entry name="QuickSelectFactionHint" value="Chutki vybar frakcyi."/>
+	<entry name="Quit" value="Vychad"/>
 	<entry name="SacredRites" value="Śviaščennyja Abrady"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Radyus: %1% plitka"/>
 	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Radyus: %1% plitak"/>
@@ -218,9 +225,6 @@
 	<entry name="RestoreDefaults" value="Adnavić Značeńni pa Zmoŭčańni"/>
 	<entry name="Rewards" value="Uznaharody"/>
 	<entry name="RewardsReceived" value="Atrymana Ŭznaharodaŭ"/>
-	<entry name="QuickSelectFactionHint" value="Chutki vybar frakcyi."/>
-	<entry name="Quit" value="Vychad"/>
-	<entry name="Quests" value="Zadańni"/>
 	<entry name="Save" value="Zachavać"/>
 	<entry name="SaveGame" value="Zachavać Hulniu"/>
 	<entry name="Scenarios" value="Scenaryi"/>

@@ -45,6 +45,8 @@
 	<entry name="Continue" value="Працягнуць"/>
 	<entry name="Cooldown" value="Час Перазарадкі"/>
 	<entry name="Copy" value="Капіяваць"/>
+	<entry name="CopyInviteCode" value="Капіяваць Код Запрашэньня"/>
+	<entry name="CopyInviteCodeHint" value="Скапіюйце код запрашэньня, які льга ўставіць іншым гульцам для лёгкага далучэньня да гульні.<br/><br/>Зьвярніце ўвагу, вашы публічны IP адрас льга выняць з коду."/>
 	<entry name="Cost" value="Кошт"/>
 	<entry name="Create" value="Стварыць"/>
 	<entry name="Credits" value="Пра Стваральнікаў"/>
@@ -149,9 +151,9 @@
 	<entry name="NotEnoughResources" value="Бракуе рэсурсаў."/>
 	<entry name="NotReady" value="Не Гатовы"/>
 	<entry name="NotUsable" value="Нельга ўжываць."/>
+	<entry name="OK" value="Добра"/>
 	<entry name="Objectives" value="Мэты"/>
 	<entry name="ObjectivesCompleted" value="Мэты дасягнуты"/>
-	<entry name="OK" value="Добра"/>
 	<entry name="OnCooldown" value="На перазарадцы."/>
 	<entry name="OpenStore" value="Націсьніце, каб адкрыць краму."/>
 	<entry name="Operations" value="Аперацыі і Тактыкі"/>
@@ -166,6 +168,9 @@
 	<entry name="Passive" value="Пасіўны"/>
 	<entry name="PassiveAction" value="Пасіўнае Дзеяньне"/>
 	<entry name="Paste" value="Уставіць"/>
+	<entry name="PasteInviteCode" value="Уставіць Код Запрашэньня"/>
+	<entry name="PasteInviteCodeHint" value="Далучыцца да гульні з коду запрашэньня з вашага буфера памену."/>
+	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>Хібны код запрашэньня.<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
 	<entry name="PatchNotes" value="Зьмены Абнаўленьня"/>
 	<entry name="Ping" value="Пінг"/>
 	<entry name="Play" value="Гуляць"/>
@@ -175,6 +180,8 @@
 	<entry name="PleaseWait" value="Калі Ласка, Пачакайце…"/>
 	<entry name="PleaseWaitHint" value="Калі ласка, пачакайце іншых гульцоў."/>
 	<entry name="Quests" value="Заданьні"/>
+	<entry name="QuickSelectFactionHint" value="Хуткі выбар фракцыі."/>
+	<entry name="Quit" value="Выхад"/>
 	<entry name="SacredRites" value="Сьвяшчэнныя Абрады"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітка"/>
 	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радыус: %1% плітак"/>
@@ -218,9 +225,6 @@
 	<entry name="RestoreDefaults" value="Аднавіць Значэньні па Змоўчаньні"/>
 	<entry name="Rewards" value="Узнагароды"/>
 	<entry name="RewardsReceived" value="Атрымана Ўзнагародаў"/>
-	<entry name="QuickSelectFactionHint" value="Хуткі выбар фракцыі."/>
-	<entry name="Quit" value="Выхад"/>
-	<entry name="Quests" value="Заданьні"/>
 	<entry name="Save" value="Захаваць"/>
 	<entry name="SaveGame" value="Захаваць Гульню"/>
 	<entry name="Scenarios" value="Сцэнарыі"/>
