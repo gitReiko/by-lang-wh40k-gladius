@@ -47,7 +47,7 @@
 	<entry name="JokaeroDigitalWeaponDescription" value="Item that deals damage to the target enemy unit."/>
 	<entry name="JokaeroDigitalWeaponFlavor" value="Miniaturized killing tools of remarkable power, commonly concealed within jewellery, and created by a race of primate-like xenos with an apparently instinctive understanding of technology. The Imperium has, as yet, been unable to replicate the construction of these digi-weapons."/>
 	<entry name="LaurelsOfCommand" value="Laurels of Command"/>
-	<entry name="LaurelsOfCommandDescription" value="Item that restores the morale of adjacent allied units."/>
+	<entry name="LaurelsOfCommandDescription" value="Item that restores the morale of this unit and nearby allied units in range."/>
 	<entry name="LaurelsOfCommandFlavor" value="The Laurels of Command are a callous and controversial means to ensure obedience. Concealed within their peerless artistry is a band of empathic-impulsion circuitry which allows the wearer limited control over the minds of indoctrinated individuals via subliminal suggestion. Under their effects even cowards fight to the last, while orders are executed in perfect synchronisation."/>
 	<entry name="LightningGauntlet" value="Lightning Gauntlet"/>
 	<entry name="LightningGauntletDescription" value="Item that increases the damage of the next melee attack."/>
@@ -73,6 +73,9 @@
 	<entry name="ScrollsOfMagnus" value="Scrolls of Magnus"/>
 	<entry name="ScrollsOfMagnusDescription" value="Item that increases the research output."/>
 	<entry name="ScrollsOfMagnusFlavor" value="These illuminated pages of skin are fragments of the repository of sorcery compiled by the Primarch of the Thousand Sons, and contain arcane lore from across the galaxy. None possess them for long and remain sane, for they have their own ghastly sentience."/>
+	<entry name="SightlessHelm" value="Sightless Helm"/>
+	<entry name="SightlessHelmDescription" value="Item that grants the ability to ignore ranged damage reduction and increases the ranged accuracy."/>
+	<entry name="SightlessHelmFlavor" value="The lenses of this helm remain forever dark, the wearer unable to perceive the galaxy with their own eyes. Instead, strange warp senses are granted by the helms machine spirit, illuminating the foe’s weaknesses."/>
 	<entry name="StunGrenade" value="Stun Grenade"/>
 	<entry name="StunGrenadeDescription" value="Item that prevents the target enemy infantry or monstrous creature from acting."/>
 	<entry name="StunGrenadeFlavor" value="An ancient design, Stun grenades use a combination of a loud explosion and a bright flash to temporarily disable any combatants in the blast area."/>
@@ -82,6 +85,12 @@
 	<entry name="TemporaryShield" value="Temporary Shield"/>
 	<entry name="TemporaryShieldDescription" value="Item that increases the armour."/>
 	<entry name="TemporaryShieldFlavor" value="Portable shield generators are fairly rare amongst most species, given the technical capability and rare resources needed to make them. They also burn out quickly, but their ability to stop even the most powerful attacks dead in their tracks make them invaluable."/>
+	<entry name="UltraWidebandAuspex" value="Ultra Wideband Auspex"/>
+	<entry name="UltraWidebandAuspexDescription" value="Item that prevents the unit from being targeted by overwatch attacks."/>
+	<entry name="UltraWidebandAuspexFlavor" value="To hide yourself, you don’t always need diffraction fields or chameleonic skin—sometimes just knowing more than the enemy is enough. An advanced Auspex uses passive and active sensors to discern the location of every enemy unit so the bearer can decide how best to engage them—or avoid them—at will."/>
+	<entry name="UncreatorGauntlet" value="Uncreator Gauntlet"/>
+	<entry name="UncreatorGauntletDescription" value="Item that repairs an adjacent allied vehicle or fortification."/>
+	<entry name="UncreatorGauntletFlavor" value="The Uncreator Gauntlet was originally devised to reverse-engineer lost technologies. When laid upon a machine, xenotech fields are released that cause the construct’s chronology to be wound back. If the timing is accurate to the picosecond, the temporal anomaly can rejuvenate the machine to the prime of its operative lifespan – or go on to reduce it to a neatly-arrayed pile of component parts, each ready for the Tech-Priest’s inspection."/>
 	<entry name="VolcanisShroud" value="Volcanis Shroud"/>
 	<entry name="VolcanisShroudDescription" value="Item that increases the witchfire damage reduction."/>
 	<entry name="VolcanisShroudFlavor" value="Though this battered, heat-resistant armour was originally designed for industrial work at the deepest and most hazardous layers of Hive Worlds, by some happy accident it also muffles psychic attack. As yet, whatever gives the Shroud this quality has not been identified, for fear that reverse-engineering it may break its uncanny spell."/>

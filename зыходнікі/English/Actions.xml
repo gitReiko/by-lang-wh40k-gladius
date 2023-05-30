@@ -51,7 +51,7 @@
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Increases the ranged accuracy of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Those blessed enough to comprehend this blaring vox-prayer find their targeting reticules guided by the Omnissiah’s own vigilance."/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Broad Spectrum Data-Tether"/>
-	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Reduces the morale loss of adjacent allied Adeptus Mechanicus units."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Reduces the morale loss of this unit and adjacent allied Adeptus Mechanicus units."/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="A vehicle-mounted version of that carried by veteran Skitarii, the broad spectrum data-tether projects a Tech-Priest’s binharic blurts with such clarity it seems he is amongst the ranks of the Skitarii himself. Imperatives delivered via such information relays are more potent and reliable than any other."/>
 	<entry name="AdeptusMechanicus/BulwarkImperative" value="Bulwark Imperative"/>
 	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Increases the armour, but decreases the movement of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
@@ -60,7 +60,7 @@
 	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Increases the melee accuracy of Canticles of the Omnissiah units. Cost and effectiveness scales with the amount of affected units (up to 10)."/>
 	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="In spitting out a staccato chant to the Motive Force, the faithful warriors of the Cult Mechanicus are filled with merciless surety as well as intent."/>
 	<entry name="AdeptusMechanicus/CommandUplink" value="Command Uplink"/>
-	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Reduces the morale loss of adjacent allied Adeptus Mechanicus units."/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Reduces the morale loss of this unit and adjacent allied Adeptus Mechanicus units."/>
 	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="“You may feel fear, you may want to flee; but when your Magos can, with a thought, stop your limbs taking a single step back, well, then you fight anyway.”<br/>—Marshal Diktum"/>
 	<entry name="AdeptusMechanicus/ConquerorImperative" value="Conqueror Imperative"/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Increases the melee accuracy, but decreases the ranged accuracy of Doctrina Imperatives units. Cost scales with the amount of affected units (up to 10)."/>
@@ -75,7 +75,7 @@
 	<entry name="AdeptusMechanicus/ElectroShockedDescription" value="Stuns target enemy infantry or monstrous creature."/>
 	<entry name="AdeptusMechanicus/ElectroShockedFlavor" value="The truly devout can send a sudden charge of the Motive Force pulsing through their numerous augmentations, stunning nearby foes."/>
 	<entry name="AdeptusMechanicus/EnrichedRounds" value="Enriched Rounds"/> <!-- Skitarii Marshal elite -->
-	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Increases the damage of target allied Adeptus Mechanicus unit."/>
+	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Increases the damage of target allied Adeptus Mechanicus infantry unit."/>
 	<entry name="AdeptusMechanicus/EnrichedRoundsFlavor" value="Sanctified with the Tri-fold Litany, each of these slugs has spent a decade in the oldest and most irradiated forge temple to certify their lethality. When the Marshal hands them out to his maniples, they know they must make every shot count."/>
 	<entry name="AdeptusMechanicus/GalvanicField" value="Galvanic Field"/> <!-- Tech-Priest Manipulus ability -->
 	<entry name="AdeptusMechanicus/GalvanicFieldDescription" value="Increases the armour penetration of target allied Adeptus Mechanicus unit."/>
@@ -122,7 +122,7 @@
 	<entry name="AdeptusMechanicus/TechAdept" value="Tech-Adept"/> <!-- Tech-Priest Manipulus ability -->
 	<entry name="AdeptusMechanicus/TechAdeptDescription" value="<string name='Actions/AdeptusMechanicus/MasterOfMachinesDescription'/>"/>
 	<entry name="AdeptusMechanicus/TechAdeptFlavor" value="Repairing war engines damaged in the crusade is a holy task."/>
-	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Voices In The Code"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Voices in the Code"/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Increases the morale loss of adjacent enemy units."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="Closing with a Sicarian Infiltrator is a mistake—their augmented craniums broadcast a brutally disruptive audiovisual assault, causing enemies to fall deafened and blinded; battles are often decided before even a single kill is confirmed."/>
 	<entry name="AdeptusMechanicus/WrathOfMars" value="Wrath of Mars"/> <!-- Tech-Priest Dominus ability -->
@@ -204,7 +204,7 @@
 	<entry name="BringItDownFlavor" value="Enemy war machines and alien monstrosities are equally high priority targets for the commanders of the Imperial Guard."/>
 	<entry name="BuyHint" value="<style name='Title'/>Buy %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="CanticlesOfWrath" value="Canticles of Wrath"/>
-	<entry name="CanticlesOfWrathDescription" value="Restores the morale of adjacent allied units and reduces the morale of adjacent enemy units."/>
+	<entry name="CanticlesOfWrathDescription" value="Restores the morale of this unit and adjacent allied units and reduces the morale of adjacent enemy units."/>
 	<entry name="CanticlesOfWrathFlavor" value="Amplified through his vox grill, the Chaplain's bellicose rhetoric and canticles of wrath echo like thunder across the battlefield, filling the Space Marines with new strength while causing the enemy to cower in terror."/>
 	<entry name="Capture" value="Capture"/>
 	<entry name="ChaosSpaceMarines/BoonOfMutation" value="Boon of Mutation"/>
@@ -244,7 +244,7 @@
 	<entry name="ChaosSpaceMarines/IncursionDescription" value="Summon a temporary random Daemon."/>
 	<entry name="ChaosSpaceMarines/IncursionFlavor" value="The psyker opens a portal to the Realm of Chaos, allowing the warp's daemonic denizens to spill forth into reality."/>
 	<entry name="ChaosSpaceMarines/InfernalPower" value="Infernal Power"/>
-	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Increases the accuracy and damage of adjacent allied Chaos units."/>
+	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Increases the accuracy and damage of this unit and adjacent allied Chaos units."/>
 	<entry name="ChaosSpaceMarines/InfernalPowerFlavor" value="The fell power of the immaterium flows from the psyker, imbuing the Daemons that reside within his followers' bodies with even greater ferocity."/>
 	<entry name="ChaosSpaceMarines/LoathsomeAura" value="Loathsome Aura"/>
 	<entry name="ChaosSpaceMarines/LoathsomeAuraDescription" value="Increases the invulnerable damage reduction of adjacent allied Chaos units."/>
@@ -262,7 +262,7 @@
 	<entry name="ChaosSpaceMarines/MarkOfSlaaneshDescription" value="Mark of Chaos that increases the movement of an allied Chaos infantry unit."/>
 	<entry name="ChaosSpaceMarines/MarkOfSlaaneshFlavor" value="The devotees of Slaanesh have their senses and reactions heightened to a supernatural degree, all the better to drink in the extreme, multifaceted stimuli of the battlefield. A warrior gifted in this manner will move with uncanny grace and speed, his blade lashing out like the tongue of a serpent as he revels in the ugly spectacle of death."/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentch" value="Mark of Tzeentch"/>
-	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="Mark of Chaos that increases the invulnerable damage reduction of an allied Chaos infantry unit."/>
+	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="Mark of Chaos that increases the damage reduction of an allied Chaos infantry unit."/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="Those dedicated to Tzeentch enjoy the protection and prescience of the Master of Manipulation."/>
 	<entry name="ChaosSpaceMarines/MasterOfMechanisms" value="Master of Mechanisms"/>
 	<entry name="ChaosSpaceMarines/MasterOfMechanismsDescription" value="Restores the hitpoints of the target allied vehicle or fortification unit."/>
@@ -282,13 +282,13 @@
 	<entry name="ChaosSpaceMarines/InfernalIndustryDescription" value="Increases the energy and ore output."/>
 	<entry name="ChaosSpaceMarines/InfernalIndustryFlavor" value="A Warpsmith is an unparalleled master of technology, without the ethical or historical constraints of their erstwhile peers in the Mechanicum. If they can increase a facility’s functioning at the cost of a few hundred lives, they will."/> <!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/LasherTendrils" value="Lasher Tendrils"/>
-	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Decreases the melee attacks of adjacent units."/>
+	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Decreases the melee attacks of adjacent enemy units."/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsFlavor" value="These metallic tendrils entrap their prey in an iron grip."/>
 	<entry name="ChaosSpaceMarines/Possession" value="Possession"/>
 	<entry name="ChaosSpaceMarines/PossessionDescription" value="Killing enemy units transforms them into allied Chaos Spawns."/>
 	<entry name="ChaosSpaceMarines/PossessionFlavor" value="The psyker blasts away their enemy's soul so that the spiritless shell left behind can be possessed by a Daemon, who quickly transforms it into a more pleasing form."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaos" value="Prince of Chaos"/>
-	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Increases the accuracy of adjacent allied Chaos units."/>
+	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Increases the accuracy of this unit and adjacent allied Chaos units."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaosFlavor" value="Little else could more inspire a warrior of Chaos than to see a Daemon Prince—once a mortal just like them, now nearer to a God—fighting alongside them."/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergy" value="Reservoir of Daemonic Energy"/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyDescription" value="Reduces the cooldown of Incursion for adjacent allied Masters of Possesion."/>
@@ -318,7 +318,7 @@
 	<entry name="ChaosSpaceMarines/WarpflameStrikeDescription" value="Flies across obstacles to the target tile and blinds adjacent enemy infantry and monstrous creatures."/>
 	<entry name="ChaosSpaceMarines/WarpflameStrikeFlavor" value="Though the lesion they slice in the fabric of realspace seals over as soon as the hunting pack has passed through, the mind-shattering nature of their attack is usually enough to stun their prey into inactivity. This moment of awestruck hesitation is often fatal, for the hellishly sharp claws of the Warp Talons part heads from necks and limbs from torsos as the hunters hurtle into the ranks of the foe."/>
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="Worthy Offering"/>
-	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Increases the chance that adjacent allied Champions of Chaos receive a Boon of Chaos."/>
+	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Increases the chance that this unit and adjacent allied Champions of Chaos receive a Boon of Chaos."/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="Having the eye of the gods upon you means those nearby are also subject to greater scrutiny—whether that turns them to Spawn or Daemon Prince, depends on how well they perform and the inscrutable whim of the Gods."/> <!-- Chaos Lord levelable ability. -->
 	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
 	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
@@ -548,6 +548,9 @@
 	<entry name="Necrons/GloomPrismFlavor" value="The gloom prism's energy field creates a zone shrouded from Warp-spawned powers."/>
 	<entry name="Necrons/GravityPulse" value="Gravity Pulse"/>
 	<entry name="Necrons/GravityPulseDescription" value="Reduces the movement of and deals damage to adjacent enemy flyer, skimmer and jetbike units."/>
+	<entry name="Necrons/HuntersFromHyperspace" value="Hunters from Hyperspace"/>
+	<entry name="Necrons/HuntersFromHyperspaceDescription" value="Teleports to target explored tile and increases damage."/>
+	<entry name="Necrons/HuntersFromHyperspaceFlavor" value="These deadly marksmen seldom take position with the rest of the army. Instead, they slip sideways out of reality and monitor the conflict from a hyperspace oubliette – a pocket dimension riding the gap between the then and now. The Deathmarks track enemy communication channels, teleport beams and orbital descents in order to select suitably high-profile prey. This done, they exit their oubliette to tag their quarry with the hunter’s mark from which they take their name – an eerie green energy halo that plays about the target’s head in five dimensions."/>
 	<entry name="Necrons/JetCharge" value="Jet Charge"/>
 	<entry name="Necrons/JetChargeDescription" value="Increases damage reduction and flies across obstacles to the target tile."/>
 	<entry name="Necrons/JetChargeFlavor" value="In its limitless rage, a headstrong Necron Destroyer Lord can overcharge its grav-platform to move short distances extremely quickly, albeit at a further cost to its reason."/>
@@ -627,15 +630,15 @@
 	<entry name="Orks/DaJumpDescription" value="Teleports the Weirdboy and adjacent allied units to the target tile and adjacent tiles."/>
 	<entry name="Orks/DaJumpFlavor" value="The Weirdboy closes his eyes tight and, in a storm of flashing green light, teleports himself to another part of the battlefield—along with any confused Boyz who happened to be standing too close to him at the time."/>
 	<entry name="Orks/DoksTools" value="Dok's Tools"/>
-	<entry name="Orks/DoksToolsDescription" value="Restores the hitpoints of the target allied infantry unit."/>
+	<entry name="Orks/DoksToolsDescription" value="Restores the hitpoints of the target allied infantry unit or monstrous creature unit."/>
 	<entry name="Orks/DoksToolsFlavor" value="From chain-scalpels and cranial trowels to a nicely weighted mallet, Ork surgical implements are crude yet surprisingly effective."/>
 	<entry name="Orks/ExperimentalProcedure" value="Experimental Procedure"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Increases the damage and damage reduction of the target allied infantry unit."/>
 	<entry name="Orks/ExperimentalProcedureFlavor" value="“Exhibit 12: Ork biomechanical modification. 'Cyborks' are modified with equipment like this by the species' innate specialists, the 'Oddboyz', to repair major injuries and/or augment their capabilities. This one resembles an Imperial power weapon, save for the large claws and maker's mark which reads 'Grillmek woz 'ere!'“<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Orks/ExtraBitz" value="Extra Bitz"/>
-	<entry name="Orks/ExtraBitzDescription" value="Reduces the food, ore and energy upkeep of infantry units in the region."/>
+	<entry name="Orks/ExtraBitzDescription" value="Reduces the food, ore and energy upkeep of infantry units and monstrous creature units in the region."/>
 	<entry name="Orks/KustomForceField" value="Kustom Force Field"/>
-	<entry name="Orks/KustomForceFieldDescription" value="Increases the ranged damage reduction of adjacent allied units."/>
+	<entry name="Orks/KustomForceFieldDescription" value="Increases the ranged damage reduction of this unit and adjacent allied units."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="These bizarre devices are powered by crackling energy-coils and project invisible bubbles of energy that shield nearby Orks from incoming fire."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="Prophet of the Waaagh!"/>
 	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Increase the influence gain when dealing damage for units with Might Makes Right in the region."/>
@@ -683,7 +686,7 @@
 	<entry name="Shop" value="Shop"/>
 	<entry name="ShopDescription" value="Buys and sells items for influence. Available at the Jokaero Trader Encampment."/>
 	<entry name="Shrouding" value="Shrouding"/>
-	<entry name="ShroudingDescription" value="Increases the ranged damage reduction of adjacent allied units."/>
+	<entry name="ShroudingDescription" value="Increases the ranged damage reduction of this unit and adjacent allied units."/>
 	<entry name="ShroudingFlavor" value="The psyker uses his mastery of the Warp to fog the minds of his enemies, clouding their sight and instincts so that he appears as nothing more than an indistinct shadow."/>
 	<entry name="SiegeMasters" value="Deploy Siege Masters"/>
 	<entry name="SiegeMastersDescription" value="Chapter tactic that increases the damage of units attacking enemy units in cities and fortifications."/>
@@ -693,7 +696,7 @@
 	<entry name="SignumFlavor" value="The signum is a communication device that quickly processes and broadcasts targeting data. This ancient piece of technology allows one member of a Space Marine squad to fire with even greater accuracy, battering vital targets with a hail of unerring shots."/>
 	<entry name="SistersOfBattle/ActOfFaithDescription" value="Act of Faith. Usable if the unit is not shaken or broken."/>
 	<entry name="SistersOfBattle/BeaconOfFaith" value="Beacon of Faith"/>
-	<entry name="SistersOfBattle/BeaconOfFaithDescription" value="Restore the morale of nearby allied units."/>
+	<entry name="SistersOfBattle/BeaconOfFaithDescription" value="Restore the morale of this unit and nearby allied units."/>
 	<entry name="SistersOfBattle/BeaconOfFaithFlavor" value="“The Khornate warriors threatened to overwhelm us, we were cut and rent and thrown aside… even the Canoness fell… and then She intervened. As She descended, a shining beacon, our wounds closed, our spirits rallied and we drove back the heretics with newfound devotion…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/Bodyguard" value="Bodyguard"/>
 	<entry name="SistersOfBattle/BodyguardDescription" value="Grants additional protection to adjacent allied heroes."/>
@@ -711,7 +714,7 @@
 	<entry name="SistersOfBattle/DeathBeforeDisgraceDescription" value="Restores the morale of the target allied unit."/>
 	<entry name="SistersOfBattle/DeathBeforeDisgraceFlavor" value="“What is death, to us? We are not fodder for laughing gods. We are not enshrined in stones, like the foul Aeldari. For us death is an end to service, a reward only given if we do not seek it. So act as if each moment is your last, but strive against that day with all your heart.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
 	<entry name="SistersOfBattle/DivineDeliverance" value="Divine Deliverance"/>
-	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="Adjacent allied Adepta Sororitas units cause attacked units to lose morale."/>
+	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="This unit and adjacent allied Adepta Sororitas units cause attacked units to lose morale."/>
 	<entry name="SistersOfBattle/DivineDeliveranceFlavor" value="Enemy warlords tremble before the divine majesty of one blessed by the Emperor, and their minions quake before the booming onslaught of such a warrior’s companions."/>
 	<entry name="SistersOfBattle/DivineGuidance" value="Divine Guidance"/>
 	<entry name="SistersOfBattle/DivineGuidanceDescription" value="Increases the damage and armour penetration.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
@@ -738,13 +741,13 @@
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Adjacent Adepta Sororitas units can perform Acts of Faith even if they are shaken."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="Proclaiming the power of the Emperor in heavenly tones, a Laud Hailer bolsters the spirits of the faithful."/>
 	<entry name="SistersOfBattle/LeadTheRighteous" value="Lead The Righteous"/>
-	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Increases the accuracy of nearby allied Adepta Sororitas units."/>
+	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Increases the accuracy of this unit and nearby allied Adepta Sororitas infantry units."/>
 	<entry name="SistersOfBattle/LeadTheRighteousFlavor" value="“A Canonness is no skulking commissar, to hide behind her sisters’ skirts and send them to her deaths. My role is to lead from the front, to inspire love and faith by my example. For we are the righteous of the Emperor and we will not fail in our aim.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
 	<entry name="SistersOfBattle/LightOfTheEmperor" value="Light of the Emperor"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="Increases the accuracy.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="Sisters of the Adepta Sororitas are filled with the knowledge that the only thing they need fear is failing the Emperor of Mankind. Armed with such faith, they are driven to unprecedented feats of prowess."/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="Medicus Ministorum"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Grants Feel no Pain to adjacent allied infantry units."/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Grants feel no pain damage reduction to adjacent allied infantry units."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum and by the Hospitallers of the Adepta Sororitas. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments."/>
 	<entry name="SistersOfBattle/MiraculousIntervention" value="Miraculous Intervention"/>
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="After dying, Saint Celestine immediately comes back to life.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
@@ -768,14 +771,23 @@
 	<entry name="SistersOfBattle/SacredHealingDescription" value="Restores the hitpoints of the target allied infantry unit."/>
 	<entry name="SistersOfBattle/SacredHealingFlavor" value="Implements of both torture and salvation, the chirurgeon’s tools can restore the fallen so that they might fight once more."/>
 	<entry name="SistersOfBattle/SaintlyBlessings" value="Saintly Blessings"/>
-	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Grants additional damage reduction to adjacent allied units."/>
+	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Grants additional damage reduction to this unit and adjacent allied units."/>
 	<entry name="SistersOfBattle/SaintlyBlessingsFlavor" value="In the presence of an ordained Living Saint, even the most impious of the Emperor’s servants cannot help but be swept up by the tide of religious fervour."/>
 	<entry name="SistersOfBattle/SolaceInAnguish" value="Solace in Anguish"/>
 	<entry name="SistersOfBattle/SolaceInAnguishDescription" value="Increases the damage reduction.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/SolaceInAnguishFlavor" value="“I had seen a Preacher impaled on a steeple. The remains of a missionary found by genestealer cultists. We felt the loss so strongly—but our anguish did not weaken us, but spurred us on…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/StirringRhetoric" value="Stirring Rhetoric"/>
-	<entry name="SistersOfBattle/StirringRhetoricDescription" value="Nearby allied units that used an Act of Faith gain additional armor."/>
+	<entry name="SistersOfBattle/StirringRhetoricDescription" value="This unit and nearby allied units that used an Act of Faith gain additional armor."/>
 	<entry name="SistersOfBattle/StirringRhetoricFlavor" value="“There is no light but the light of the Emperor! There is no faith but faith in the Emperor! There is no truth but the truth of the Emperor!”<br/>  — First Exclamation of the Dialogus Order of the Resounding Vow."/>
+	<entry name="SistersOfBattle/TaleOfTheFaithful" value="Tale of the Faithful"/>
+	<entry name="SistersOfBattle/TaleOfTheFaithfulDescription" value="Increases the movement of this unit and adjacent Adepta Sororitas infantry units."/>
+	<entry name="SistersOfBattle/TaleOfTheFaithfulFlavor" value="From a young age, the initiates of the Adepta Sororitas exercise and pray backed by the sonorous songs of the Imagifiers, inspired to superhuman feats by the testaments of their long-dead sisters. Even cynical veterans, hearing the song in their dotage, are inspired to transcend their body’s limitations, moving with impossible swiftness and blessed grace."/>
+	<entry name="SistersOfBattle/TaleOfTheStoic" value="Tale of the Stoic"/>
+	<entry name="SistersOfBattle/TaleOfTheStoicDescription" value="Increases the damage reduction of this unit and adjacent Adepta Sororitas infantry units."/>
+	<entry name="SistersOfBattle/TaleOfTheStoicFlavor" value="Hearing the stories of the Emperor’s eternal suffering and silent resilience, each Sister is filled with His courage. Their will-to-fight in His name is indefatigable and they push through injuries so grievous that an average man would be long-dead from shock. Yet they are neither average nor men."/>
+	<entry name="SistersOfBattle/TaleOfTheWarrior" value="Tale of the Warrior"/>
+	<entry name="SistersOfBattle/TaleOfTheWarriorDescription" value="Increases the melee damage of adjacent Adepta Sororitas infantry units."/>
+	<entry name="SistersOfBattle/TaleOfTheWarriorFlavor" value="When the Imagifiers chant their tales of ancient battles of Istvaan V, of Sanguinius at the Eternity Gate, of Horus’ downfall, the Battle Sisters become suffused with the martial spirit of their forebears, every blow landing like the Emperor’s fist."/>
 	<entry name="SistersOfBattle/TheEmperorsVengeance" value="The Emperor's Vengeance"/>
 	<entry name="SistersOfBattle/TheEmperorsVengeanceDescription" value="Calls down a divine ray to bombard enemy positions."/>
 	<entry name="SistersOfBattle/TheEmperorsVengeanceFlavor" value="“This was not in the doctrines, nor the ephemera, nor even the apocrypha. This planet had drained the Saint, it is true. But at moments of great wrath, her true power broke through, all at once, and devastated those who dared to stand against her.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
@@ -789,7 +801,7 @@
 	<entry name="SistersOfBattle/VerseOfHolyPietyDescription" value="Reduces the cooldown of Acts of Faith on the target unit."/>
 	<entry name="SistersOfBattle/VerseOfHolyPietyFlavor" value="Pray is stronger than any sword. As the sanctified words of the Order’s holy tenets are roared across the battlefield, the devout are infused with the Emperor’s blessings."/>
 	<entry name="SistersOfBattle/WarHymn" value="War Hymn"/>
-	<entry name="SistersOfBattle/WarHymnDescription" value="Increases the attacks of the target Adepta Sororitas non-super-heavy allied unit."/>
+	<entry name="SistersOfBattle/WarHymnDescription" value="Increases the melee attacks of the target Adepta Sororitas non-super-heavy allied unit."/>
 	<entry name="SistersOfBattle/WarHymnFlavor" value="Suffer not the enemies of Mankind to live. Smite them down with all your strength and fury."/>
 	<entry name="SistersOfBattle/WarmachinesWrath" value="<string name='Traits/SistersOfBattle/WarmachinesWrath'/>"/>
 	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="Sacred Rite that increases the production output of Anointed Hangars and Ecclesiarchal Reinforcements."/>
@@ -826,7 +838,7 @@
 	<entry name="Tau/BondingKnifeRitualDescription" value="Restores the morale."/>
 	<entry name="Tau/BondingKnifeRitualFlavor" value="Many T'au groupings undergo the solemn and bloody ceremony known as the ta'lissera. Those teams that share this bond swear to support one another at all costs for the rest of their lives."/>
 	<entry name="Tau/BreakComposure" value="Break Composure"/>
-	<entry name="Tau/BreakComposureDescription" value="Adjacent allied infantry units cause attacked units to lose morale."/>
+	<entry name="Tau/BreakComposureDescription" value="This unit and adjacent allied infantry units cause attacked units to lose morale."/>
 	<entry name="Tau/BreakComposureFlavor" value="Though not physically impressive, the T’au can inculcate fear in their enemies through subtler means—by harrying them so that they can’t focus, by surrounding them, by forcing them down tactical paths that only lead to repeated failure. Sometimes you don’t need to even touch an enemy to defeat them."/>
 	<entry name="Tau/CalmOfTides" value="Calm of Tides"/>
 	<entry name="Tau/CalmOfTidesDescription" value="Restores the hitpoints of the Ethereal and adjacent allied T'au infantry and monstrous creatures."/>
@@ -863,6 +875,9 @@
 	<entry name="Tau/NovaBoost" value="Nova Boost"/>
 	<entry name="Tau/NovaBoostDescription" value="Sacrifices hitpoints to increase the movement."/>
 	<entry name="Tau/NovaBoostFlavor" value="Though slightly unstable, the nova reactor is a dark-matter power source with an output akin to that of a small star."/>
+	<entry name="Tau/NovaElectromagneticShockwave" value="Nova Electromagnetic Shockwave"/>
+	<entry name="Tau/NovaElectromagneticShockwaveDescription" value="Sacrifices hitpoints to do a special attack that targets adjacent enemies and allies alike."/>
+	<entry name="Tau/NovaElectromagneticShockwaveFlavor" value="The experimental Nova Reactors are only used on a handful of Battlesuit designs. Damage cannot be avoided from their use, but sometimes they must be employed for the Greater Good to supercharge offensive or defensive weapon systems—or, as here, to render the Battlesuit’s local area utterly lethal with a burst of raw power."/>
 	<entry name="Tau/NovaFire" value="Nova Fire"/>
 	<entry name="Tau/NovaFireDescription" value="Sacrifices hitpoints to increase the attacks."/>
 	<entry name="Tau/NovaFireFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
@@ -927,10 +942,10 @@
 	<entry name="Tau/VelocityTrackerDescription" value="Installs support system that increases the ranged accuracy against flyers."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="These advanced motion-detecting and heat-seeking sensor systems allow pilots to track the movements of airborne targets."/>
 	<entry name="Tau/VolleyFire" value="Volley Fire"/>
-	<entry name="Tau/VolleyFireDescription" value="Increases the ranged attacks of adjacent allied infantry units that have not moved."/>
+	<entry name="Tau/VolleyFireDescription" value="Increases the ranged attacks of this unit and adjacent allied infantry units that have not moved."/>
 	<entry name="Tau/VolleyFireFlavor" value="Under the constant eye of their Tutor, Fire Caste units learn to take cover, wait for the right moment and fire as one. The resulting volley of pulsed energy hits like neon fireworks and can thoroughly demoralize enemies."/>
 	<entry name="Tau/ZephyrsGrace" value="Zephyr's Grace"/>
-	<entry name="Tau/ZephyrsGraceDescription" value="Increases the action points of adjacent allied T'au infantry and monstrous creatures."/>
+	<entry name="Tau/ZephyrsGraceDescription" value="Increases the action points of this unit and adjacent allied T'au infantry and monstrous creatures."/>
 	<entry name="Tau/ZephyrsGraceFlavor" value="“Let none doubt that the Tau Empire will bring unity to all – let none doubt that now is our time. Forward, for the Greater Good!”<br/>  — Aun’Va, Master of the Undying Spirit."/>
 	<entry name="TelekineDome" value="Telekine Dome"/>
 	<entry name="TelekineDomeDescription" value="Creates a barrier on the tile of the Librarian and adjacent tiles that increases the ranged damage reduction."/>
@@ -955,7 +970,7 @@
 	<entry name="Tyranids/CatalystDescription" value="Restores the hitpoints of the Tervigon and target allied Tyranids unit."/>
 	<entry name="Tyranids/CatalystFlavor" value="Through its synaptic conduits, the power of the Hive Mind reaches out to infuse the organisms under its control, invigorating their systems with such unnatural vitality that they can ignore the most grievous of wounds."/>
 	<entry name="Tyranids/ClearTile" value="Clear Tile (Tyranids)"/>
-	<entry name="Tyranids/ClearTileDescription" value="Clears the tile of wire weed, imperial ruins and forests, one at a time."/>
+	<entry name="Tyranids/ClearTileDescription" value="Clears the tile of wire weed, imperial ruins, forests and sororitas holy sites, one at a time."/>
 	<entry name="Tyranids/ConstructTunnel" value="Construct <string name='Units/Tyranids/Tunnel'/>"/>
 	<entry name="Tyranids/ConstructTunnelFlavor" value="<string name='Units/Tyranids/TunnelFlavor'/>"/>
 	<entry name="Tyranids/ConsumeTile" value="Consume Tile"/>
@@ -1009,7 +1024,7 @@
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduces the morale of adjacent enemy psyker units each turn."/>
 	<entry name="Tyranids/ShadowInTheWarpFlavor" value="The unfathomable presence of the Hive Mind radiates out from its synapse creatures, smothering the ability of the psykers who stand before them to draw upon their mystic powers."/>
 	<entry name="Tyranids/SporeCloud" value="Spore Cloud"/>
-	<entry name="Tyranids/SporeCloudDescription" value="Increases the ranged damage reduction of adjacent allied units."/>
+	<entry name="Tyranids/SporeCloudDescription" value="Increases the ranged damage reduction of this unit and adjacent allied units."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="The best possible tactic against Tyranids is decapitation—namely, the execution of the synapse creatures that relay the Norn Queen's commands. Unfortunately, through the fluid mass of sinuous flesh that constitutes a Tyranid assault, the hail of acidic and living projectiles, and the obfuscating spore clouds, even a Vindicare assassin would have trouble picking out a Dominatrix, let alone a Tyrant."/>
 	<entry name="Tyranids/SporeMine" value="Spore Burst"/>
 	<entry name="Tyranids/SporeMineDescription" value="Create Spore Mines."/>

@@ -45,6 +45,8 @@
 	<entry name="Continue" value="Continue"/>
 	<entry name="Cooldown" value="Cooldown"/>
 	<entry name="Copy" value="Copy"/>
+	<entry name="CopyInviteCode" value="Copy Invite Code"/>
+	<entry name="CopyInviteCodeHint" value="Copy the invite code which can be pasted to other players to easily join this game.<br/><br/>Please note that your public IP address can be extracted from the code."/>
 	<entry name="Cost" value="Cost"/>
 	<entry name="Create" value="Create"/>
 	<entry name="Credits" value="Credits"/>
@@ -149,9 +151,9 @@
 	<entry name="NotEnoughResources" value="Not enough resources."/>
 	<entry name="NotReady" value="Not Ready"/>
 	<entry name="NotUsable" value="Not usable."/>
+	<entry name="OK" value="OK"/>
 	<entry name="Objectives" value="Objectives"/>
 	<entry name="ObjectivesCompleted" value="Objectives Completed"/>
-	<entry name="OK" value="OK"/>
 	<entry name="OnCooldown" value="On cooldown."/>
 	<entry name="OpenStore" value="Click to open store."/>
 	<entry name="Operations" value="Operations and Tactics"/>
@@ -166,6 +168,9 @@
 	<entry name="Passive" value="Passive"/>
 	<entry name="PassiveAction" value="Passive action"/>
 	<entry name="Paste" value="Paste"/>
+	<entry name="PasteInviteCode" value="Paste Invite Code"/>
+	<entry name="PasteInviteCodeHint" value="Join the game from the invite code in your clipboard."/>
+	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>Invalid invite code.<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
 	<entry name="PatchNotes" value="Patch Notes"/>
 	<entry name="Ping" value="Ping"/>
 	<entry name="Play" value="Play"/>
@@ -175,6 +180,8 @@
 	<entry name="PleaseWait" value="Please Wait …"/>
 	<entry name="PleaseWaitHint" value="Please wait for other players."/>
 	<entry name="Quests" value="Quests"/>
+	<entry name="QuickSelectFactionHint" value="Quick-select faction."/>
+	<entry name="Quit" value="Quit"/>
 	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Radius: %1% tile"/>
 	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Radius: %1% tiles"/>
 	<entry name="Random" value="Random"/>
@@ -217,9 +224,6 @@
 	<entry name="RestoreDefaults" value="Restore Defaults"/>
 	<entry name="Rewards" value="Rewards"/>
 	<entry name="RewardsReceived" value="Rewards Received"/>
-	<entry name="QuickSelectFactionHint" value="Quick-select faction."/>
-	<entry name="Quit" value="Quit"/>
-	<entry name="Quests" value="Quests"/>
 	<entry name="SacredRites" value="Sacred Rites"/>
 	<entry name="Save" value="Save"/>
 	<entry name="SaveGame" value="Save Game"/>

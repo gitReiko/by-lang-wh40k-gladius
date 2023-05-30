@@ -252,6 +252,9 @@
 	<entry name="AdeptusMechanicus/KastelanRobot" value="<string name='Units/Neutral/KastelanRobot'/>"/>
 	<entry name="AdeptusMechanicus/KastelanRobotDescription" value="<string name='Units/Neutral/KastelanRobotDescription'/>"/>
 	<entry name="AdeptusMechanicus/KastelanRobotFlavor" value="<string name='Units/Neutral/KastelanRobotFlavor'/>"/>
+	<entry name="AdeptusMechanicus/KataphronBreacher" value="<string name='Units/AdeptusMechanicus/KataphronBreacher'/>"/>
+	<entry name="AdeptusMechanicus/KataphronBreacherDescription" value="<string name='Units/AdeptusMechanicus/KataphronBreacherDescription'/>"/>
+	<entry name="AdeptusMechanicus/KataphronBreacherFlavor" value="<string name='Units/AdeptusMechanicus/KataphronBreacherFlavor'/>"/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer" value="<string name='Units/AdeptusMechanicus/KataphronDestroyer'/>"/>
 	<entry name="AdeptusMechanicus/KataphronDestroyerDescription" value="<string name='Units/AdeptusMechanicus/KataphronDestroyerDescription'/>"/>
 	<entry name="AdeptusMechanicus/KataphronDestroyerFlavor" value="<string name='Units/AdeptusMechanicus/KataphronDestroyerFlavor'/>"/>
@@ -324,6 +327,9 @@
 	<entry name="AstraMilitarum/Ratling" value="<string name='Units/AstraMilitarum/Ratling'/>"/>
 	<entry name="AstraMilitarum/RatlingDescription" value="<string name='Units/AstraMilitarum/RatlingDescription'/>"/>
 	<entry name="AstraMilitarum/RatlingFlavor" value="<string name='Units/AstraMilitarum/RatlingFlavor'/>"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank" value="<string name='Units/AstraMilitarum/RogalDornBattleTank'/>"/>
+	<entry name="AstraMilitarum/RogalDornBattleTankDescription" value="<string name='Units/AstraMilitarum/RogalDornBattleTankDescription'/>"/>
+	<entry name="AstraMilitarum/RogalDornBattleTankFlavor" value="<string name='Units/AstraMilitarum/RogalDornBattleTankFlavor'/>"/>
 	<entry name="AstraMilitarum/ScoutSentinel" value="<string name='Units/AstraMilitarum/ScoutSentinel'/>"/>
 	<entry name="AstraMilitarum/ScoutSentinelDescription" value="<string name='Units/AstraMilitarum/ScoutSentinelDescription'/>"/>
 	<entry name="AstraMilitarum/ScoutSentinelFlavor" value="<string name='Units/AstraMilitarum/ScoutSentinelFlavor'/>"/>
@@ -360,6 +366,9 @@
 	<entry name="ChaosSpaceMarines/Defiler" value="<string name='Units/ChaosSpaceMarines/Defiler'/>"/>
 	<entry name="ChaosSpaceMarines/DefilerDescription" value="<string name='Units/ChaosSpaceMarines/DefilerDescription'/>"/>
 	<entry name="ChaosSpaceMarines/DefilerFlavor" value="<string name='Units/ChaosSpaceMarines/DefilerFlavor'/>"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne" value="<string name='Units/ChaosSpaceMarines/GreaterBrassScorpionOfKhorne'/>"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorneDescription" value="<string name='Units/ChaosSpaceMarines/GreaterBrassScorpionOfKhorneDescription'/>"/>
+	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorneFlavor" value="<string name='Units/ChaosSpaceMarines/GreaterBrassScorpionOfKhorneFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Havoc" value="<string name='Units/ChaosSpaceMarines/Havoc'/>"/>
 	<entry name="ChaosSpaceMarines/HavocDescription" value="<string name='Units/ChaosSpaceMarines/HavocDescription'/>"/>
 	<entry name="ChaosSpaceMarines/HavocFlavor" value="<string name='Units/ChaosSpaceMarines/HavocFlavor'/>"/>
@@ -396,6 +405,9 @@
 	<entry name="Eldar/AvatarOfKhaine" value="<string name='Units/Eldar/AvatarOfKhaine'/>"/>
 	<entry name="Eldar/AvatarOfKhaineDescription" value="<string name='Units/Eldar/AvatarOfKhaineDescription'/>"/>
 	<entry name="Eldar/AvatarOfKhaineFlavor" value="<string name='Units/Eldar/AvatarOfKhaineFlavor'/>"/>
+	<entry name="Eldar/DarkReaper" value="<string name='Units/Eldar/DarkReaper'/>"/>
+	<entry name="Eldar/DarkReaperDescription" value="<string name='Units/Eldar/DarkReaperDescription'/>"/>
+	<entry name="Eldar/DarkReaperFlavor" value="<string name='Units/Eldar/DarkReaperFlavor'/>"/>
 	<entry name="Eldar/FarseerSkyrunner" value="<string name='Units/Eldar/FarseerSkyrunner'/>"/>
 	<entry name="Eldar/FarseerSkyrunnerDescription" value="<string name='Units/Eldar/FarseerSkyrunnerDescription'/>"/>
 	<entry name="Eldar/FarseerSkyrunnerFlavor" value="<string name='Units/Eldar/FarseerSkyrunnerFlavor'/>"/>
@@ -453,6 +465,9 @@
 	<entry name="Necrons/Cryptek" value="<string name='Units/Necrons/Cryptek'/>"/>
 	<entry name="Necrons/CryptekDescription" value="<string name='Units/Necrons/CryptekDescription'/>"/>
 	<entry name="Necrons/CryptekFlavor" value="<string name='Units/Necrons/CryptekFlavor'/>"/>
+	<entry name="Necrons/Deathmark" value="<string name='Units/Necrons/Deathmark'/>"/>
+	<entry name="Necrons/DeathmarkDescription" value="<string name='Units/Necrons/DeathmarkDescription'/>"/>
+	<entry name="Necrons/DeathmarkFlavor" value="<string name='Units/Necrons/DeathmarkFlavor'/>"/>
 	<entry name="Necrons/DestroyerLord" value="<string name='Units/Necrons/DestroyerLord'/>"/>
 	<entry name="Necrons/DestroyerLordDescription" value="<string name='Units/Necrons/DestroyerLordDescription'/>"/>
 	<entry name="Necrons/DestroyerLordFlavor" value="<string name='Units/Necrons/DestroyerLordFlavor'/>"/>
@@ -510,6 +525,9 @@
 	<entry name="Orks/Dakkajet" value="<string name='Units/Orks/Dakkajet'/>"/>
 	<entry name="Orks/DakkajetDescription" value="<string name='Units/Orks/DakkajetDescription'/>"/>
 	<entry name="Orks/DakkajetFlavor" value="<string name='Units/Orks/DakkajetFlavor'/>"/>
+	<entry name="Orks/DeffDread" value="<string name='Units/Orks/DeffDread'/>"/>
+	<entry name="Orks/DeffDreadDescription" value="<string name='Units/Orks/DeffDreadDescription'/>"/>
+	<entry name="Orks/DeffDreadFlavor" value="<string name='Units/Orks/DeffDreadFlavor'/>"/>
 	<entry name="Orks/Deffkopta" value="<string name='Units/Orks/Deffkopta'/>"/>
 	<entry name="Orks/DeffkoptaDescription" value="<string name='Units/Orks/DeffkoptaDescription'/>"/>
 	<entry name="Orks/DeffkoptaFlavor" value="<string name='Units/Orks/DeffkoptaFlavor'/>"/>
@@ -585,6 +603,9 @@
 	<entry name="SistersOfBattle/Hospitaller" value="<string name='Units/SistersOfBattle/Hospitaller'/>"/>
 	<entry name="SistersOfBattle/HospitallerDescription" value="<string name='Units/SistersOfBattle/HospitallerDescription'/>"/>
 	<entry name="SistersOfBattle/HospitallerFlavor" value="<string name='Units/SistersOfBattle/HospitallerFlavor'/>"/>
+	<entry name="SistersOfBattle/Imagifier" value="<string name='Units/SistersOfBattle/Imagifier'/>"/>
+	<entry name="SistersOfBattle/ImagifierDescription" value="<string name='Units/SistersOfBattle/ImagifierDescription'/>"/>
+	<entry name="SistersOfBattle/ImagifierFlavor" value="<string name='Units/SistersOfBattle/ImagifierFlavor'/>"/>
 	<entry name="SistersOfBattle/Mortifier" value="<string name='Units/SistersOfBattle/Mortifier'/>"/>
 	<entry name="SistersOfBattle/MortifierDescription" value="<string name='Units/SistersOfBattle/MortifierDescription'/>"/>
 	<entry name="SistersOfBattle/MortifierFlavor" value="<string name='Units/SistersOfBattle/MortifierFlavor'/>"/>
@@ -666,6 +687,9 @@
 	<entry name="SpaceMarines/Vindicator" value="<string name='Units/SpaceMarines/Vindicator'/>"/>
 	<entry name="SpaceMarines/VindicatorDescription" value="<string name='Units/SpaceMarines/VindicatorDescription'/>"/>
 	<entry name="SpaceMarines/VindicatorFlavor" value="<string name='Units/SpaceMarines/VindicatorFlavor'/>"/>
+	<entry name="SpaceMarines/Whirlwind" value="<string name='Units/SpaceMarines/Whirlwind'/>"/>
+	<entry name="SpaceMarines/WhirlwindDescription" value="<string name='Units/SpaceMarines/WhirlwindDescription'/>"/>
+	<entry name="SpaceMarines/WhirlwindFlavor" value="<string name='Units/SpaceMarines/WhirlwindFlavor'/>"/>
 	<entry name="Tau/BroadsideBattlesuit" value="<string name='Units/Tau/BroadsideBattlesuit'/>"/>
 	<entry name="Tau/BroadsideBattlesuitDescription" value="<string name='Units/Tau/BroadsideBattlesuitDescription'/>"/>
 	<entry name="Tau/BroadsideBattlesuitFlavor" value="<string name='Units/Tau/BroadsideBattlesuitFlavor'/>"/>
@@ -702,6 +726,9 @@
 	<entry name="Tau/RiptideBattlesuit" value="<string name='Units/Tau/RiptideBattlesuit'/>"/>
 	<entry name="Tau/RiptideBattlesuitDescription" value="<string name='Units/Tau/RiptideBattlesuitDescription'/>"/>
 	<entry name="Tau/RiptideBattlesuitFlavor" value="<string name='Units/Tau/RiptideBattlesuitFlavor'/>"/>
+	<entry name="Tau/RVarnaBattlesuit" value="<string name='Units/Tau/RVarnaBattlesuit'/>"/>
+	<entry name="Tau/RVarnaBattlesuitDescription" value="<string name='Units/Tau/RVarnaBattlesuitDescription'/>"/>
+	<entry name="Tau/RVarnaBattlesuitFlavor" value="<string name='Units/Tau/RVarnaBattlesuitFlavor'/>"/>
 	<entry name="Tau/ShieldDrone" value="<string name='Units/Tau/ShieldDrone'/>"/>
 	<entry name="Tau/ShieldDroneDescription" value="Grants Fire Warriors, XV8 Crisis Battlesuits, XV25 Stealth Battlesuits, XV88 Broadside Battlesuits, Cadre Fireblade, Ethereal and Commander the ability to deploy temporary drones that shield allies."/>
 	<entry name="Tau/ShieldDroneFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
@@ -726,6 +753,9 @@
 	<entry name="Tyranids/Biovore" value="<string name='Units/Tyranids/Biovore'/>"/>
 	<entry name="Tyranids/BiovoreDescription" value="<string name='Units/Tyranids/BiovoreDescription'/>"/>
 	<entry name="Tyranids/BiovoreFlavor" value="<string name='Units/Tyranids/BiovoreFlavor'/>"/>
+	<entry name="Tyranids/Carnifex" value="<string name='Units/Tyranids/Carnifex'/>"/>
+	<entry name="Tyranids/CarnifexDescription" value="<string name='Units/Tyranids/CarnifexDescription'/>"/>
+	<entry name="Tyranids/CarnifexFlavor" value="<string name='Units/Tyranids/CarnifexFlavor'/>"/>
 	<entry name="Tyranids/Exocrine" value="<string name='Units/Tyranids/Exocrine'/>"/>
 	<entry name="Tyranids/ExocrineDescription" value="<string name='Units/Tyranids/ExocrineDescription'/>"/>
 	<entry name="Tyranids/ExocrineFlavor" value="<string name='Units/Tyranids/ExocrineFlavor'/>"/>
@@ -828,7 +858,7 @@
 	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Increases the building influence output for each building in an adjacent tile."/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="<string name='Traits/AdeptusMechanicus/FidorumVossPrimeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="AdeptusMechanicus/HammerOfWrathDescription" value="Grants Ironstrider Ballistarius, Fulgurite Electro-Priests, Onager Dunecrawler and Knight Crusader the ability to perform more devastating attacks."/>
+	<entry name="AdeptusMechanicus/HammerOfWrathDescription" value="Grants Ironstrider Ballistarius, Fulgurite Electro-Priests, Onager Dunecrawler, Pteraxii Sterylizors and Knight Crusader the ability to perform more devastating attacks."/>
 	<entry name="AdeptusMechanicus/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonus" value="<string name='Traits/AdeptusMechanicus/HeavyWeaponBonus'/>"/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonusDescription" value="Increases the armour penetration of heavy weapons."/>
@@ -861,7 +891,7 @@
 	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="<string name='Actions/AdeptusMechanicus/ProtectorImperativeDescription'/>"/>
 	<entry name="AdeptusMechanicus/ProtectorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/ProtectorImperativeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ReclaimatorProtocols" value="<string name='Traits/AdeptusMechanicus/ReclaimatorProtocols'/>"/>
-	<entry name="AdeptusMechanicus/ReclaimatorProtocolsDescription" value="<string name='Traits/AdeptusMechanicus/ReclaimatorProtocolsDescription'/>"/>
+	<entry name="AdeptusMechanicus/ReclaimatorProtocolsDescription" value="Increases the growth rate of cities"/>
 	<entry name="AdeptusMechanicus/ReclaimatorProtocolsFlavor" value="<string name='Traits/AdeptusMechanicus/ReclaimatorProtocolsFlavor'/>"/>
 	<entry name="AdeptusMechanicus/Shroudpsalm" value="<string name='Actions/AdeptusMechanicus/Shroudpsalm'/>"/>
 	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="<string name='Actions/AdeptusMechanicus/ShroudpsalmDescription'/>"/>
@@ -880,7 +910,7 @@
 	<entry name="AdeptusMechanicus/TerranGeneralismFlavor" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiency" value="Thermo-Exchange Efficiency"/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyDescription" value="Increases the bonus output of Power Surge."/>
-	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyFlavor" value="Paradoxically, slowing down the inputs to the ThermoExchanger and feeding the plasma through a second set of heat couplings and condensers can stretch the length of time it can operate beyond nominal goals—or at least reduce the amount of lives lost and repairs needed."/>
+	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyFlavor" value="Paradoxically, slowing down the inputs to the Thermo-Exchanger and feeding the plasma through a second set of heat couplings and condensers can stretch the length of time it can operate beyond nominal goals—or at least reduce the amount of lives lost and repairs needed."/>
 	<entry name="AdeptusMechanicus/TriplexNecessity" value="<string name='Traits/AdeptusMechanicus/TriplexNecessity'/>"/>
 	<entry name="AdeptusMechanicus/TriplexNecessityDescription" value="Increases the building ore output for each building in an adjacent tile."/>
 	<entry name="AdeptusMechanicus/TriplexNecessityFlavor" value="<string name='Traits/AdeptusMechanicus/TriplexNecessityFlavor'/>"/>
@@ -891,7 +921,7 @@
 	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Increases the morale loss of enemy units adjacent to Sicarian Infiltrators."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptance" value="Xenarite Acceptance"/>
-	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Increases the flat amount of research gained from outposts."/>
+	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Increases the flat amount of research gained from Ruins of Vaul."/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="It seems the Xenarite Tech-Priests from Stygies VIII are having their way on Gladius Prime too—setting up observation units and drones at every Outpost to understand the Xenos better. The practical applications in terms of research are immediately obvious…"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Additional Heavy Bolters"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Grants Baneblades, Leman Russ Battle Tanks and Valkyries extra Heavy Bolters."/>
@@ -1249,7 +1279,7 @@
 	<entry name="Necrons/ExtraInfantryArmourDescription" value="Increases the armour of infantry."/>
 	<entry name="Necrons/ExtraInfantryArmourFlavor" value="Even after millenia of war and sleep, the Necron Crypteks have not lost their desire for innovation. Making minor adaptations to their necrodermis, they are able to increase the survivability of their troops against the weapons of today."/>
 	<entry name="Necrons/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
-	<entry name="Necrons/ExtraVehicleArmourDescription" value="Increases the armour of vehicles."/>
+	<entry name="Necrons/ExtraVehicleArmourDescription" value="Increases the armour of vehicles and Canoptek units."/>
 	<entry name="Necrons/ExtraVehicleArmourFlavor" value="To an outside eye, these Necron vehicles are identical to their predecessors. To a Cryptek or perhaps even a learned Aeldari, they can see that the material of the vehicle has increased its resilience, somehow without affecting its density or weight."/>
 	<entry name="Necrons/GaussDamage" value="<string name='Traits/GaussDamage'/>"/>
 	<entry name="Necrons/GaussDamageDescription" value="Increases the armour penetration of gauss weapons."/>
@@ -1298,7 +1328,7 @@
 	<entry name="Necrons/OreBuildingBonusDescription" value="Increases the ore output of Al-Khemic Quarries."/>
 	<entry name="Necrons/OreBuildingBonusFlavor" value="<string name='Traits/Necrons/OreBuildingBonusFlavor'/>"/>
 	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
-	<entry name="Necrons/QuantumShieldingDescription" value="Grants Annihilation Barges, Ghost Arks, Doomsday Arks and Triarch Stalkers increased armour that goes on cooldown at the start of the next turn if damage is taken."/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Grants Annihilation Barges, Ghost Arks, Doomsday Arks and Triarch Stalkers invulnerable damage reduction that goes on cooldown at the start of the next turn if damage is taken."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
 	<entry name="Necrons/RapidRiseBonus" value="The Lord's Command"/>
 	<entry name="Necrons/RapidRiseBonusDescription" value="Reduces the cost of Rapid Rise."/>
@@ -1508,7 +1538,7 @@
 	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Grants Battle Sisters, Canonesses, Dialogus, Dominions, Retributors, Sisters Repentia and Zephyrims the ability to throw anti-armour grenades."/>
 	<entry name="SistersOfBattle/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/LaudHailer" value="<string name='Traits/SistersOfBattle/LaudHailer'/>"/>
-	<entry name="SistersOfBattle/LaudHailerDescription" value="Allows shaken units to perform Acts of Faith."/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Grants Castigators, Exorcists and Immolators an aura allowing adjacent shaken units to perform Acts of Faith."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Traits/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Traits/SistersOfBattle/MedicusMinistorum'/>"/>
 	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Grants feel no pain damage reduction to allied infantry units adjacent to a Hospitaller unit."/>
@@ -1517,7 +1547,7 @@
 	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Increases the armour penetration of melee weapons."/>
 	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonusFlavor'/>"/>
 	<entry name="SistersOfBattle/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SistersOfBattle/MeltaBombDescription" value="Grants Battle Sisters, Canonesses, Celestian Sacresants, Dialogus, Dominions, Hospitallers, Paragon Warsuits, Retributors, Saint Celestine, Sisters Repentia and Zephyrims the ability to deploy a melta bomb that is highly effective against heavy vehicles and fortifications."/>
+	<entry name="SistersOfBattle/MeltaBombDescription" value="Grants Battle Sisters, Canonesses, Dialogus, Dominions, Retributors, Sisters Repentia and Zephyrims the ability to deploy a melta bomb that is highly effective against heavy vehicles and fortifications."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Ministorum Indoctrination"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Grants Martyr Spirit to Lightning Fighters, Avengers Strike Fighters and Cerastus Knight-Lancers."/>
@@ -1550,13 +1580,13 @@
 	<entry name="SistersOfBattle/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
 	<entry name="SistersOfBattle/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="SistersOfBattle/UniversalCatechism" value="Universal Catechism"/>
-	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Grants Shield Of Faith to Lightning Fighters, Avengers Strike Fighters and Cerastus Knight-Lancers."/>
+	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Grants Shield of Faith to Lightning Fighters, Avengers Strike Fighters and Cerastus Knight-Lancers."/>
 	<entry name="SistersOfBattle/UniversalCatechismFlavor" value="Imperial troops requisitioned for the Wars of Faith often end up praying side-by-side with the sisters of the Adepta Sororitas before each battle, finding guidance in their convictions."/>
 	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Actions/SistersOfBattle/VengefulSpirit'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritDescription" value="<string name='Actions/SistersOfBattle/VengefulSpiritDescription'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="<string name='Actions/SistersOfBattle/VengefulSpiritFlavor'/>"/>
-	<entry name="SistersOfBattle/VowOfTheMilitantOrder" value="Vow Of The Militant Order"/>
-	<entry name="SistersOfBattle/VowOfTheMilitantOrderDescription" value="Units keep their Shield Of Faith if they are broken."/>
+	<entry name="SistersOfBattle/VowOfTheMilitantOrder" value="Vow of the Militant Order"/>
+	<entry name="SistersOfBattle/VowOfTheMilitantOrderDescription" value="Units keep their Shield of Faith if they are broken."/>
 	<entry name="SistersOfBattle/VowOfTheMilitantOrderFlavor" value="<string name='Traits/SistersOfBattle/ShieldOfFaithFlavor'/>"/>
 	<entry name="SistersOfBattle/WarmachinesWrath" value="<string name='Actions/SistersOfBattle/WarmachinesWrath'/>"/>
 	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="<string name='Actions/SistersOfBattle/WarmachinesWrathDescription'/>"/>
@@ -1695,7 +1725,7 @@
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Grants vehicles hitpoint restoration each turn."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="<string name='Traits/Tau/AutomatedRepairSystemFlavor'/>"/>
 	<entry name="Tau/BlacksunFilter" value="<string name='Traits/Tau/BlacksunFilter'/>"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight of vehicles, Ethereal and Pathfinders."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Increases the sight of vehicles, Ethereal, Commander, Pathfinders and Battlesuits."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="<string name='Traits/Tau/BlacksunFilterFlavor'/>"/>
 	<entry name="Tau/BlastDamage" value="<string name='Traits/Tau/BlastDamage'/>"/>
 	<entry name="Tau/BlastDamageDescription" value="Increases the armour penetration of flame and missile weapons."/>
@@ -1704,7 +1734,7 @@
 	<entry name="Tau/BoltDamageDescription" value="Increases the armour penetration of burst and rail weapons."/>
 	<entry name="Tau/BoltDamageFlavor" value="<string name='Traits/Tau/BoltDamageFlavor'/>"/>
 	<entry name="Tau/BondingKnifeRitual" value="<string name='Actions/Tau/BondingKnifeRitual'/>"/>
-	<entry name="Tau/BondingKnifeRitualDescription" value="Grants Fire Warriors, Pathfinders, XV25 Stealth Battlesuits, XV88 Broadside Battlesuits, XV95 Ghostkeel Battlesuits and XV104 Riptide Battlesuits the ability to restore their morale."/>
+	<entry name="Tau/BondingKnifeRitualDescription" value="Grants Fire Warriors, Pathfinders, XV25 Stealth Battlesuits, XV8 Crisis Battlesuits, XV88 Broadside Battlesuits, XV95 Ghostkeel Battlesuits and XV104 Riptide Battlesuits the ability to restore their morale."/>
 	<entry name="Tau/BondingKnifeRitualFlavor" value="<string name='Actions/Tau/BondingKnifeRitualFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="<string name='Traits/Tau/CityTier2'/>"/>
 	<entry name="Tau/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
