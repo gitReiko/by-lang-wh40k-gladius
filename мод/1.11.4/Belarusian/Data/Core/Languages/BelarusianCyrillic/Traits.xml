@@ -61,12 +61,18 @@
 	<entry name="Items/ScrollsOfMagnus" value="<string name='Items/ScrollsOfMagnus'/>"/>
 	<entry name="Items/ScrollsOfMagnusDescription" value="<string name='Items/ScrollsOfMagnusDescription'/>"/>
 	<entry name="Items/ScrollsOfMagnusFlavor" value="<string name='Items/ScrollsOfMagnusFlavor'/>"/>
+	<entry name="Items/SightlessHelm" value="<string name='Items/SightlessHelm'/>"/>
+	<entry name="Items/SightlessHelmDescription" value="<string name='Items/SightlessHelmDescription'/>"/>
+	<entry name="Items/SightlessHelmFlavor" value="<string name='Items/SightlessHelmFlavor'/>"/>
 	<entry name="Items/TantalisingIcon" value="<string name='Items/TantalisingIcon'/>"/>
 	<entry name="Items/TantalisingIconDescription" value="<string name='Items/TantalisingIconDescription'/>"/>
 	<entry name="Items/TantalisingIconFlavor" value="<string name='Items/TantalisingIconFlavor'/>"/>
 	<entry name="Items/TemporaryShield" value="<string name='Items/TemporaryShield'/>"/>
 	<entry name="Items/TemporaryShieldDescription" value="<string name='Items/TemporaryShieldDescription'/>"/>
 	<entry name="Items/TemporaryShieldFlavor" value="<string name='Items/TemporaryShieldFlavor'/>"/>
+	<entry name="Items/UltraWidebandAuspex" value="<string name='Items/UltraWidebandAuspex'/>"/>
+	<entry name="Items/UltraWidebandAuspexDescription" value="<string name='Items/UltraWidebandAuspexDescription'/>"/>
+	<entry name="Items/UltraWidebandAuspexFlavor" value="<string name='Items/UltraWidebandAuspexFlavor'/>"/>
 	<entry name="Items/VolcanisShroud" value="<string name='Items/VolcanisShroud'/>"/>
 	<entry name="Items/VolcanisShroudDescription" value="<string name='Items/VolcanisShroudDescription'/>"/>
 	<entry name="Items/VolcanisShroudFlavor" value="<string name='Items/VolcanisShroudFlavor'/>"/>
@@ -391,6 +397,9 @@
 	<entry name="BruteShield" value="Грубы Шчыт"/>
 	<entry name="BruteShieldDescription" value="Павялічвае шкоду і зьніжэньне шкоды."/>
 	<entry name="BruteShieldFlavor" value="These shields resemble large and resilient energised bucklers. They are carried by some Bullgryns, serving equally well in combat as a defensive measure and handy bludgeon."/>
+	<entry name="Bulky" value="Буйны Памер"/>
+	<entry name="BulkyDescription" value="Патрабуе дадатковае транспартнае месца."/>
+	<entry name="BulkyFlavor" value="This creature is so massive it takes up an inordinate amount of space in any vehicle or building it enters."/>
 	<entry name="CamoNetting" value="Камуфляжная Сетка"/>
 	<entry name="CamoNettingDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="CamoNettingFlavor" value="Whether rare cameleoline netting or crude webbing woven with local flora, camo netting helps conceal a vehicle from prying eyes."/>
@@ -511,6 +520,9 @@
 	<entry name="ChaosSpaceMarines/MeleeDamage" value="Злучанае Ўзбраеньне"/>
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="It’s normal for soldiers to grow close to a trusted weapon—but the marines of the Traitor Legions have gone further. Over the centuries, the troops of the Adeptus Astartes have literally grown into their weaponry, becoming one with their guns and blades, exponentially increasing their effectiveness."/>
+	<entry name="ChaosSpaceMarines/MultiLeggedTerror" value="Шматногі Тэрор"/>
+	<entry name="ChaosSpaceMarines/MultiLeggedTerrorDescription" value="Павялічвае атакі Тупату."/>
+	<entry name="ChaosSpaceMarines/MultiLeggedTerrorFlavor" value="The titanic weight of the iron and brass that make up the non-Empyrean parts of the Brass Scorpion rests on six lethally sharp limbs. When it scuttles forward with unexpected, groundshattering speed, it easily trample any smaller foe."/>
 	<entry name="ChaosSpaceMarines/MutatedBeyondReason" value="Мутацыя без Прычыны"/>
 	<entry name="ChaosSpaceMarines/MutatedBeyondReasonDescription" value="Напачатку кожнага кроку адзінка атрымлівае выпадковым чынам адну з наступных мутацый на адзін крок: хваткія лжэножкі, падскурная браня, таксічны крывацёк."/>
 	<entry name="ChaosSpaceMarines/MutatedBeyondReasonFlavor" value="When they fall from their god’s favour, Chaos worshippers are blessed and cursed in equal measure, turning into the foul Chaos Spawn—writhing masses of mutation, endlessly sprouting new features at their god’s whim."/>
@@ -538,6 +550,9 @@
 	<entry name="ChaosSpaceMarines/RisingFury" value="Узрослы Гнеў"/>
 	<entry name="ChaosSpaceMarines/RisingFuryDescription" value="Павялічвае атакі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/RisingFuryFlavor" value="The Helbrute’s rage overtakes it, throwing it into a frenzy of blows against anything nearby."/> <!-- Hellbrute Crazed result. -->
+	<entry name="ChaosSpaceMarines/RunesOfTheBloodGod" value="Руны Крывавага Бога"/>
+	<entry name="ChaosSpaceMarines/RunesOfTheBloodGodDescription" value="Вяртае шкоду ад атак вядзьмарскага агню."/>
+	<entry name="ChaosSpaceMarines/RunesOfTheBloodGodFlavor" value="Inscribed on the Brass Scorpion by the adepts of the Dark Mechanicum are shimmering runes, dancing like flames, writhing on the surface. Psykers foolish enough to attempt an assault will find their minds seared by Khorne’s eternal rage."/>
 	<entry name="ChaosSpaceMarines/ShatterDefences" value="<string name='Actions/ChaosSpaceMarines/ShatterDefences'/>"/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Зьменшвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="<string name='Actions/ChaosSpaceMarines/ShatterDefencesFlavor'/>"/>
@@ -584,6 +599,9 @@
 	<entry name="CultAmbush" value="Засада Культу"/>
 	<entry name="CultAmbushDescription" value="Павялічвае трапнасьць атак назіраньня."/>
 	<entry name="CultAmbushFlavor" value="Genestealer Cults plan meticulously before each strike, their strategies honed to give every advantage when they rise up as one."/>
+	<entry name="CurseOfTheWalkingPox" value="Праклён Рушачай Воспы"/>
+	<entry name="CurseOfTheWalkingPoxDescription" value="Ператварае шкоду ў гаеньне для гэтай адзінкі."/>
+	<entry name="CurseOfTheWalkingPoxFlavor" value="The rictus grin adorning each Poxwalker belies the torment their souls are in, trapped inside their mutated, dead bodies that fight on for Nurgle, infecting more innocents with the Walking Plague as they go."/>
 	<entry name="Daemon" value="Дэман"/>
 	<entry name="DaemonDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
@@ -616,7 +634,7 @@
 	<entry name="EavyArmourFlavor" value="Ork 'eavy armour is hammered out of scrap iron, sheet metal and the looted battle-plate of fallen foes. Though its fit is dubious, 'eavy armour provides a solid defence for its wearer."/>
 	<entry name="Eldar/AerobaticGrace" value="Найвысокі Пілатаж"/>
 	<entry name="Eldar/AerobaticGraceDescription" value="Дае зьмяншэньне шкоды ад далёкага бою, калі адзінка перасунецца ў гэты крок."/>
-	<entry name="Eldar/AerobaticGraceFlavor" value="While the Harlequins are the true masters of dance amonst the Aeldari, the Shining Spears approach them in their control of their jetbikes, seeming to pirouette between storms of bolter fire as they charge their foe."/>
+	<entry name="Eldar/AerobaticGraceFlavor" value="While the Harlequins are the true masters of dance amongst the Aeldari, the Shining Spears approach them in their control of their jetbikes, seeming to pirouette between storms of bolter fire as they charge their foe."/>
 	<entry name="Eldar/AircraftBuildingBonus" value="Прызыў Курноўса"/>
 	<entry name="Eldar/AircraftBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="Eldar/AircraftBuildingBonusFlavor" value="The Crimson Hunters owe their allegiance to Kurnous, the Aeldari God of the Hunt. Though he is 60 million years dead, when his name is invoked they redouble their efforts, both in recruitment and construction."/>
@@ -678,6 +696,9 @@
 	<entry name="Eldar/HoloFields" value="Галапалі"/>
 	<entry name="Eldar/HoloFieldsDescription" value="Павялічвае зьніжэньне шкоды, калі адзінка перасунулася ў гэты крок."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="Harnessing kinetic energy to shimmer and distort the vehicle’s silhouette, holo-fields prevent the foe from accurately targeting the craft as it sweeps across the battlefield."/>
+	<entry name="Eldar/InescapableAccuracy" value="Непазьбежная Трапнасьць"/>
+	<entry name="Eldar/InescapableAccuracyDescription" value="Павялічвае трапнасьць супраць звычайных і рэактыўных матацыклаў, авіяцыі і машынаў, якія рушаць у гэты крок."/>
+	<entry name="Eldar/InescapableAccuracyFlavor" value="Inherited aeons of combat experience against their kin, the raiding Drukhari, has taught the Dark Reaper Aspect Warriors of the Eldar how to track even their own jinking, holofield-protected jetbikes. Hitting such targets with their deadly Reaper missiles is simple to them—and all part of their emulation of Khaine in his role of The Destroyer."/>
 	<entry name="Eldar/InfantryBuildingBonus" value="Заклік Асур'янаў"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="Eldar/InfantryBuildingBonusFlavor" value="Asurmen is the founder of the path of the Warrior and the first of the Phoenix Lords, the creators of the Aspect Shrines. Invoking his name will surely bring more warriors to Gladius Prime, to seize this planet for the Aeldari."/>
@@ -717,6 +738,9 @@
 	<entry name="Eldar/Protect" value="Абарона"/>
 	<entry name="Eldar/ProtectDescription" value="Павялічвае браню."/>
 	<entry name="Eldar/ProtectFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
+	<entry name="Eldar/ReaperRangefinder" value="Далямер Жняяр"/>
+	<entry name="Eldar/ReaperRangefinderDescription" value="Ігнаруе зьніжэньне шкоды далёкага бою ад Хітрыкаў."/>
+	<entry name="Eldar/ReaperRangefinderFlavor" value="Mounted in the helmet vanes of the Dark Reapers are highly advanced targeters that calculate telemetries in the blink of an eye."/>
 	<entry name="Eldar/RemnantsOfTheFall" value="Наступствы Заняпаду"/>
 	<entry name="Eldar/RemnantsOfTheFallDescription" value="Зьмяншае хуткасьць узросту."/>
 	<entry name="Eldar/RemnantsOfTheFallFlavor" value="Since the birth of Slaanesh, the remaining Aeldari have struggled to survive in a hostile galaxy. Their aeon-long lifespans mean that they always had a low fertility rate and slow gestation, so they struggle to replace those who fall in battle. On many Craftworlds, the dead far outnumber the living."/>
@@ -873,7 +897,7 @@
 	<entry name="IgnoresCoverDescription" value="Ігнаруе зьмяншэньне шкоды ад далёкага бою для цэлевай адзінкі."/>
 	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
 	<entry name="Illuminated" value="Асьветлены"/>
-	<entry name="IlluminatedDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою для цэлевай адзінкі."/>
+	<entry name="IlluminatedDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Immobilized" value="Зьнерухомлены"/>
 	<entry name="ImmobilizedDescription" value="Адзінка ня можа рухацца."/>
 	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
@@ -1019,6 +1043,9 @@
 	<entry name="Necrons/HousingBuildingBonus" value="Кампрэсія Сховішчаў"/>
 	<entry name="Necrons/HousingBuildingBonusDescription" value="Павялічвае ліміт насельніцтва."/>
 	<entry name="Necrons/HousingBuildingBonusFlavor" value="By altering the dimensional constraints of each shelter, many more Necrons can be accommodated for repair or maintenance."/>
+	<entry name="Necrons/HuntersFromHyperspace" value="<string name='Actions/Necrons/HuntersFromHyperspace'/>"/>
+	<entry name="Necrons/HuntersFromHyperspaceDescription" value="<string name='Actions/Necrons/HuntersFromHyperspaceDescription'/>"/>
+	<entry name="Necrons/HuntersFromHyperspaceFlavor" value="<string name='Actions/Necrons/HuntersFromHyperspaceFlavor'/>"/>
 	<entry name="Necrons/ImmuneToNaturalLaw" value="Імунітэт да Натуральнага Закона"/>
 	<entry name="Necrons/ImmuneToNaturalLawDescription" value="Адзінка можа перасоўвацца па вадзе праз варожыя адзінкі і ігнараваць штрафы ад рэк і пустазельля-дроту."/>
 	<entry name="Necrons/InfantryBuildingBonus" value="Паляпшэньні Ядра"/>
@@ -1279,7 +1306,7 @@
 	<entry name="RosariusDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="RosariusFlavor" value="A rosarius is worn by Space Marine Chaplains for protection and as a symbol of office. It emits a protective energy field around the wearer capable of deflecting blows and shots that would smash a ferrocrete bunker. It is said that the stronger the bearer's belief in the might of the Emperor, the stronger a rosarius' force field will be."/>
 	<entry name="RuinsStealth" value="Утойлівасьць у Руінах"/>
-	<entry name="RuinsStealthDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою ў Імперскіх Руінах."/>
+	<entry name="RuinsStealthDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою ў імперскіх руінах."/>
 	<entry name="Salvo" value="Залп"/>
 	<entry name="SalvoDescription" value="Зьменшвае ўдвая атакі і далёкасьць, калі адзінка перасунулася."/>
 	<entry name="SavantInterlocution" value="Гутарка з Навукоўцам"/>
@@ -1337,7 +1364,7 @@
 	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/BerserkKillingMachineFlavor" value="Tormented by neuro-agoniser arrays that amplify her self-loathing and divorced from her Sisters’ prayers by an enclosing baffle around her head, the unfortunate pilot’s spiritual suffering fuels the Mortifier. They storm forward as terrifying shock troops, before crashing into their foe."/>
 	<entry name="SistersOfBattle/BloodyResolution" value="Крывавая Рашучасьць"/>
-	<entry name="SistersOfBattle/BloodyResolutionDescription" value="Не дае адзінцы страчваць мараль."/>
+	<entry name="SistersOfBattle/BloodyResolutionDescription" value="Зьніжае страты маралі."/>
 	<entry name="SistersOfBattle/BloodyResolutionFlavor" value="<string name='Traits/SistersOfBattle/MartyrdomFlavor'/>"/>
 	<entry name="SistersOfBattle/CatechismOfRepugnance" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnance'/>"/>
 	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnanceDescription'/>"/>
@@ -1385,7 +1412,7 @@
 	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="<string name='Actions/SistersOfBattle/LightOfTheEmperorDescription'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="<string name='Actions/SistersOfBattle/LightOfTheEmperorFlavor'/>"/>
 	<entry name="SistersOfBattle/Martyrdom" value="Пакутніцтва"/>
-	<entry name="SistersOfBattle/MartyrdomDescription" value="Сьмерць не зьніжае мараль усім хаўрусным адзінкам Адэпта Сарорытас."/>
+	<entry name="SistersOfBattle/MartyrdomDescription" value="Сьмерць зьніжае страты маралі для ўсіх хаўрусных адзінак Адэпта Сарорытас."/>
 	<entry name="SistersOfBattle/MartyrdomFlavor" value="The Sisters of the Adepta Sororitas do not give in to despair when their leaders are slain. Instead, the blood of these martyred heroes only strengthens their resolve, the sacrifice inspiring them to great acts of heroism."/>
 	<entry name="SistersOfBattle/MartyrSpirit" value="Дух Пакутніцы"/>
 	<entry name="SistersOfBattle/MartyrSpiritDescription" value="Зьніжае страты маралі пасьля сьмерці суседнім хаўрусным адзінкам са Шчытом Веры."/>
@@ -1405,9 +1432,6 @@
 	<entry name="SistersOfBattle/OathOfFaith" value="Зарок Веры"/>
 	<entry name="SistersOfBattle/OathOfFaithDescription" value="Зьніжае трапнасьць і не дае выкарыстоўваць Шчыт Веры."/>
 	<entry name="SistersOfBattle/OathOfFaithFlavor" value="“We all took an oath, to defend the Imperium, to purge the heretic and alien. It supported us, drove us on through pain and fear. But when our sisters finally broke and fled, our oath haunted them… If they survived their flight, they would return as Sisters Repentia…”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
-	<entry name="SistersOfBattle/ParagonWarblade" value="Дасканалае Вайсковае Лязо"/>
-	<entry name="SistersOfBattle/ParagonWarbladeDescription" value="Дае дадатковыя атакі блізкага бою."/>
-	<entry name="SistersOfBattle/ParagonWarbladeFlavor" value="These enormous power swords can only be carried by the Dreadnought-sized Paragon Warsuits. The crackling power fields that surround it disrupt matter as they pass, allowing the heavy blade to cut through the thickest armour with ease."/>
 	<entry name="SistersOfBattle/ParagonWarsuit" value="Дасканалы Вайсковы Гарнітур"/>
 	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="Among the holy arsenal of an Order Militant, the ancient Paragon Warsuits are regarded as sacred vestments with a noble will of their own. Only the most worth Celestians can master its spirit for use in battle."/>
@@ -1447,6 +1471,15 @@
 	<entry name="SistersOfBattle/StirringRhetoric" value="<string name='Actions/SistersOfBattle/StirringRhetoric'/>"/>
 	<entry name="SistersOfBattle/StirringRhetoricDescription" value="Павялічвае браню."/>
 	<entry name="SistersOfBattle/StirringRhetoricFlavor" value="<string name='Actions/SistersOfBattle/StirringRhetoricFlavor'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheFaithful" value="<string name='Actions/SistersOfBattle/TaleOfTheFaithful'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheFaithfulDescription" value="<string name='Actions/SistersOfBattle/TaleOfTheFaithfulDescription'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheFaithfulFlavor" value="<string name='Actions/SistersOfBattle/TaleOfTheFaithfulFlavor'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheStoic" value="<string name='Actions/SistersOfBattle/TaleOfTheStoic'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheStoicDescription" value="<string name='Actions/SistersOfBattle/TaleOfTheStoicDescription'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheStoicFlavor" value="<string name='Actions/SistersOfBattle/TaleOfTheStoicFlavor'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheWarrior" value="<string name='Actions/SistersOfBattle/TaleOfTheWarrior'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheWarriorDescription" value="<string name='Actions/SistersOfBattle/TaleOfTheWarriorDescription'/>"/>
+	<entry name="SistersOfBattle/TaleOfTheWarriorFlavor" value="<string name='Actions/SistersOfBattle/TaleOfTheWarriorFlavor'/>"/>
 	<entry name="SistersOfBattle/ThePassion" value="<string name='Actions/SistersOfBattle/ThePassion'/>"/>
 	<entry name="SistersOfBattle/ThePassionDescription" value="Павялічвае трапнасьць блізкага бою."/>
 	<entry name="SistersOfBattle/ThePassionFlavor" value="<string name='Actions/SistersOfBattle/ThePassionFlavor'/>"/>
@@ -1529,6 +1562,9 @@
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="<string name='Actions/SpaceMarines/OmniscopeDescription'/>"/>
 	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
+	<entry name="SpaceMarines/SuppressiveBombardment" value="Прыдушальнае Бамбаваньне"/>
+	<entry name="SpaceMarines/SuppressiveBombardmentDescription" value="Павялічвае шкоду і атакі, якія звальваюць варожую пяхоту, калі яна знаходзіцца побач зь іншай Віхурай."/>
+	<entry name="SpaceMarines/SuppressiveBombardmentFlavor" value="The Codex Astartes dictates that Whirlwinds operate best in larger groups, laying down a rolling barrage that cannot be avoided but must instead be endured. Even when sheltered, lighter-armoured troops and vehicles are utterly devastated by the relentless rain of warheads."/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
 	<entry name="SpaceSlipDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="Stealth" value="Утойлівасьць"/>
@@ -1593,6 +1629,9 @@
 	<entry name="Tau/CityTier3" value="Антаразодавы Падмурак"/>
 	<entry name="Tau/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Tau/CityTier3Flavor" value="The thick-skinned Anthrazods are a slow-thinking race normally employed by the T'au for dangerous, heavy-duty activities like asteroid mining—but directed by the Demiurg and Earth Caste, they can produce city substructures and transport tunnels like no-one else, linking up distant sectors with ease."/>
+	<entry name="Tau/ClusterFire" value="Кластарны Агонь"/>
+	<entry name="Tau/ClusterFireDescription" value="Павялічвае атакі і шкоду супраць звычайных і рэактыўных матацыклаў ці вельмі буйных адзінак. Моцна павялічвае атакі і шкоду супраць жахлівых стварэньняў, машынаў і фартыфікацыяў."/>
+	<entry name="Tau/ClusterFireFlavor" value="The R’Varna’s unique Pulse Submunition Cannons work at extreme ranges, saturating their target area with micro-bursts of plasma. The larger the target, the more burst-waves of plasma strike near-simultaneously, ripping it into smaller pieces with ease."/>
 	<entry name="Tau/CounterfireDefenceSystem" value="Сістэма Абароны Супраць Агню"/>
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Павялічвае трапнасьць атак назіраньня."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="<string name='Actions/Tau/CounterfireDefenceSystemFlavor'/>"/>
@@ -1617,6 +1656,9 @@
 	<entry name="Tau/HolophotonCountermeasures" value="<string name='Actions/Tau/HolophotonCountermeasures'/>"/>
 	<entry name="Tau/HolophotonCountermeasuresDescription" value="Зьменшвае трапнасьць далёкага бою."/>
 	<entry name="Tau/HolophotonCountermeasuresFlavor" value="<string name='Actions/Tau/HolophotonCountermeasuresFlavor'/>"/>
+	<entry name="Tau/IntegratedShieldGenerator" value="Інтэграваны Генератар Шчыта"/>
+	<entry name="Tau/IntegratedShieldGeneratorDescription" value="Павялічвае непаражальнае зьніжэньне шкоды і дае палепшанае непаражальнае зьніжэньня шкоды далёкага бою."/>
+	<entry name="Tau/IntegratedShieldGeneratorFlavor" value="Unlike the Riptide, the R’Varna Battlesuit is intended for long-distance fire support and not mobility, allowing it to carry heavier armour. Similarly, its shield generator is still effective against close-ranged assaults, but operates optimally when the enemy is attacking from distance."/>
 	<entry name="Tau/Kauyon" value="<string name='Actions/Tau/Kauyon'/>"/>
 	<entry name="Tau/KauyonDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
@@ -1633,19 +1675,22 @@
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
 	<entry name="Tau/NovaBoostDescription" value="Павялічвае рух."/>
-	<entry name="Tau/NovaBoostFlavor" value="<trait name='Actions/Tau/NovaBoostFlavor'/>"/>
+	<entry name="Tau/NovaBoostFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
+	<entry name="Tau/NovaElectromagneticShockwave" value="<string name='Actions/Tau/NovaElectromagneticShockwave'/>"/>
+	<entry name="Tau/NovaElectromagneticShockwaveDescription" value="Ахапляе ўсіх чальцоў групы абранай адзінкі."/>
+	<entry name="Tau/NovaElectromagneticShockwaveFlavor" value="<string name='Actions/Tau/NovaElectromagneticShockwaveFlavor'/>"/>
 	<entry name="Tau/NovaFire" value="<string name='Actions/Tau/NovaFire'/>"/>
 	<entry name="Tau/NovaFireDescription" value="Павялічвае атакі."/>
-	<entry name="Tau/NovaFireFlavor" value="<trait name='Actions/Tau/NovaBoostFlavor'/>"/>
+	<entry name="Tau/NovaFireFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/NovaShield" value="<string name='Actions/Tau/NovaShield'/>"/>
 	<entry name="Tau/NovaShieldDescription" value="Павялічвае зьніжэньне шкоды."/>
-	<entry name="Tau/NovaShieldFlavor" value="<trait name='Actions/Tau/NovaBoostFlavor'/>"/>
+	<entry name="Tau/NovaShieldFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelay" value="Абарончы Пункт Рэле Нацэльваньня"/>
 	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду назіраньня супраць варожых адзінак, суседніх зь іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/PointDefenceTargetingRelayFlavor" value="Designed to provide superior covering fire for nearby Fire caste units, a point defense relay automatically targets and engages enemies that attempt to assault."/>
 	<entry name="Tau/PulseAccelerator" value="Імпульсны Паскаральнік"/>
 	<entry name="Tau/PulseAcceleratorDescription" value="Павялічвае далёкасьць імпульснай зброі."/>
-	<entry name="Tau/PulseAcceleratorFlavor" value="<trait name='Actions/Tau/PulseAcceleratorFlavor'/>"/>
+	<entry name="Tau/PulseAcceleratorFlavor" value="<string name='Actions/Tau/PulseAcceleratorFlavor'/>"/>
 	<entry name="Tau/Rinyon" value="<string name='Actions/Tau/Rinyon'/>"/>
 	<entry name="Tau/RinyonDescription" value="Павялічвае трапнасьць супраць варожых адзінак, суседніх зь іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/RinyonFlavor" value="<string name='Actions/Tau/RinyonFlavor'/>"/>
@@ -1738,8 +1783,8 @@
 	<entry name="Traktor" value="Трактар"/>
 	<entry name="TraktorDescription" value="Зьнерухаўляе варожую авіяцыю."/>
 	<entry name="Transport" value="Транспарт"/>
-	<entry name="TransportDescription" value="Дазваляе перавозіць пяхотныя адзінкі."/>
-	<entry name="TransportFlavor" value="Some vehicles can carry infantry across the battlefield, providing speed and protection. Of course, if the transport is destroyed, the passengers will be burnt alive in the explosion."/>
+	<entry name="TransportDescription" value="Дазваляе транспартаваць пяхоту і жахлівых стварэньняў."/>
+	<entry name="TransportFlavor" value="Some can carry others across the battlefield, providing speed and protection. Of course, if the transport is destroyed, the passengers will be burnt alive in the explosion."/>
 	<entry name="TurboBoost" value="Турбафарсаж"/>
 	<entry name="TurboBoostDescription" value="Павялічвае рух."/>
 	<entry name="Tusked" value="Іклаты"/>
@@ -1784,7 +1829,7 @@
 	<entry name="Tyranids/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Tyranids/CityTier2Flavor" value="As the hive matures, the Rippers no longer need to swarm together in such huge numbers for safety. Dispersing them, allows the hive mind to co-ordinate their reclamation behaviour over a wider range."/>
 	<entry name="Tyranids/Dominion" value="<string name='Actions/Tyranids/Dominion'/>"/>
-	<entry name="Tyranids/DominionDescription" value="Павялічвае вытворчасьць лаяльнасьці."/>
+	<entry name="Tyranids/DominionDescription" value="<string name='Actions/Tyranids/DominionDescription'/>"/>
 	<entry name="Tyranids/DominionFlavor" value="<string name='Actions/Tyranids/DominionFlavor'/>"/>
 	<entry name="Tyranids/ExploitWeaknesses" value="<string name='Actions/Tyranids/ExploitWeaknesses'/>"/>
 	<entry name="Tyranids/ExploitWeaknessesDescription" value="Зьніжае браню."/>
@@ -1818,6 +1863,9 @@
 	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Пераазначэньне Інстынктыўных Паводзінаў"/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="Інстынктыўныя паводзіны адзінкі ігнаруюцца."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/InstinctiveFire" value="Інстынктыўны Агонь"/>
+	<entry name="Tyranids/InstinctiveFireDescription" value="Можа абіраць у якасьці цэлі толькі найблізкія варожыя адзінкі."/>
+	<entry name="Tyranids/InstinctiveFireFlavor" value="The Tyrannocyte is grown by the Hive Fleet as a delivery mechanism, to land its key troops from space and get them closer to the enemy’s biomass. Yet, after its initial purpose has been fulfilled, the near-mindless creature’s work is not done; floating up, it continues to rain organic, acidic hell down and lash its flensing tentacles at anything nearby."/>
 	<entry name="Tyranids/LivingBatteringRam" value="<string name='Actions/Tyranids/LivingBatteringRam'/>"/>
 	<entry name="Tyranids/LivingBatteringRamDescription" value="Павялічвае шкоду."/>
 	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/Tyranids/LivingBatteringRamFlavor'/>"/>
@@ -1897,6 +1945,9 @@
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
 	<entry name="Uncommon" value="Незвычайны"/>
 	<entry name="UncommonDescription" value="Класіфікацыя."/>
+	<entry name="UnendingHorde" value="Бясконцая Арда"/>
+	<entry name="UnendingHordeDescription" value="Павялічвае зьніжэньне шкоды."/>
+	<entry name="UnendingHordeFlavor" value="Like the zombies of ancient Terran fiction, Poxwalkers do not stop unless they are thoroughly destroyed. Their dead flesh is unfeeling, so that attacks that would put down a normal human are mere inconveniences as they giggle and groan onward…"/>
 	<entry name="Unique" value="Унікальны"/>
 	<entry name="UniqueDescription" value="Абмяжоўвае колькасьць адзінак гэтага тыпу."/>
 	<entry name="Unwieldy" value="Грувасткі"/>
@@ -1907,6 +1958,9 @@
 	<entry name="Vehicle" value="Машына"/>
 	<entry name="VehicleDescription" value="Здымае штраф за цяжкую і артылерыйную зброю. Павялічвае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="VehicleFlavor" value="War is not a trade solely for living soldiers, but also for mighty war engines and tanks."/>
+	<entry name="VeryBulky" value="Вельмі Буйны Памер"/>
+	<entry name="VeryBulkyDescription" value="Патрабуе два дадатковых транспартных месцы."/>	
+	<entry name="VeryBulkyFlavor" value="<string name='Traits/BulkyFlavor'/>"/>
 	<entry name="VoidShield" value="Пустэчны Шчыт"/>
 	<entry name="VoidShieldDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
