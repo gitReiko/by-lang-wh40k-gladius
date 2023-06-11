@@ -1367,7 +1367,7 @@
 	<entry name="Orks/BattlewagonRokkitLaunchasDescription" value="Дае ваявым фурам вялікія ракетакіды."/>
 	<entry name="Orks/BattlewagonRokkitLaunchasFlavor" value="<string name='Weapons/RokkitLaunchaFlavor'/>"/>
 	<entry name="Orks/Bigbomm" value="<string name='Weapons/Bigbomm'/>"/>
-	<entry name="Orks/BigbommDescription" value="Дае Шмертавёртам магчымасьць скідаць супрацьпяхотныя бомбы."/>
+	<entry name="Orks/BigbommDescription" value="Дае Шьмертавёртам магчымасьць скідаць супрацьпяхотныя бомбы."/>
 	<entry name="Orks/BigbommFlavor" value="<string name='Weapons/BigbommFlavor'/>"/>
 	<entry name="Orks/BlastDamage" value="<string name='Traits/Orks/BlastDamage'/>"/>
 	<entry name="Orks/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць гранат, ракет і бластараў."/>
@@ -1435,14 +1435,14 @@
 	<entry name="Orks/GrabbinKlaw" value="<string name='Actions/GrabbinKlaw'/>"/>
 	<entry name="Orks/GrabbinKlawDescription" value="Дае Ваявым Фурам здольнасьць зьнерухомліваць наземныя машыны ворага."/>
 	<entry name="Orks/GrabbinKlawFlavor" value="<string name='Actions/GrabbinKlawFlavor'/>"/>
-	<entry name="Orks/GrotRiggers" value="Гроты такелажы"/>
+	<entry name="Orks/GrotRiggers" value="Гроты-Такелажы"/>
 	<entry name="Orks/GrotRiggersDescription" value="Дае пасіўную рэгенерацыю здароўя Ваявым Баггі, Бляшанкам-Забойцам, Ваявым Фурам, Горканаўтам і Выбухалам-Забойцам."/>
 	<entry name="Orks/GrotRiggersFlavor" value="<string name='Traits/GrotRiggersFlavor'/>"/>
 	<entry name="Orks/HealingRate" value="Зялёная Плынь"/>
 	<entry name="Orks/HealingRateDescription" value="Павялічвае хуткасьць лячэньня адзінак."/>
 	<entry name="Orks/HealingRateFlavor" value="Through the co-operation of a team of Bad Doks and Runtherdz, your Warlord has prescribed a new, 'more Orky' diet, to make the boyz bigger and stronger, quicker. Whether the cold Oil Squigs for breakfast and Faceeater Squigs for dinner actually has any physical effect is immaterial—the boyz believe it, and that makes it work."/>
 	<entry name="Orks/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Orks/HammerOfWrathDescription" value="Дае Шмертавёрту, Гіганцкаму Сквігготу, Горканаўту, Бляшанке-Забойцы і Ваявым Матацыклям магчымасьць выконваць больш разбуральныя атакі."/>
+	<entry name="Orks/HammerOfWrathDescription" value="Дае Шьмертавёрту, Гіганцкаму Сквігготу, Горканаўту, Бляшанке-Забойцы і Ваявым Матацыклям магчымасьць выконваць больш разбуральныя атакі."/>
 	<entry name="Orks/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="<string name='Traits/Orks/MeleeDamage'/>"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
@@ -1457,9 +1457,9 @@
 	<entry name="Orks/OrkoidFungusFoodDescription" value="Павялічвае вытворчасьць ежы на плітках з аркоідным грыбам."/>
 	<entry name="Orks/OrkoidFungusFoodFlavor" value="<string name='Traits/OrkoidFungusFoodFlavor'/>"/>
 	<entry name="Orks/RedPaintJob" value="Чырвоная Фарба"/>
-	<entry name="Orks/RedPaintJobDescription" value="Павялічвае шкоду Ваявых Баггі, Мегатрукавых Сьмецьцелётаў, Ваявых Фураў, Дакка-Зьнішчалаў і Палілаў-Бамбілаў."/>
+	<entry name="Orks/RedPaintJobDescription" value="Павялічвае шкоду Ваявых Баггі, Мегатрукавых Шьмецьцелётаў, Ваявых Фураў, Дакка-Зьнішчалаў і Палілаў-Бамбілаў."/>
 	<entry name="Orks/RedPaintJobFlavor" value="<string name='Traits/RedPaintJobFlavor'/>"/>
-	<entry name="Orks/Scavenger2" value="Гроты Шьмецяры"/>
+	<entry name="Orks/Scavenger2" value="Гроты-Шьмецяры"/>
 	<entry name="Orks/Scavenger2Description" value="Павялічвае колькасьць здабытай руды пры забойстве варожых адзінак."/>
 	<entry name="Orks/Scavenger2Flavor" value="A well organised Runtherd will have trained his Grots to gather and sort scrap for the Orks, as well as avoiding the more dangerous shell casings and munitions."/>
 	<entry name="Orks/SkorchaMissile" value="<string name='Weapons/SkorchaMissile'/>"/>

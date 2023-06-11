@@ -1144,11 +1144,11 @@
 	<entry name="Orks/BonusBeastsProduction" value="Буйныя Пугі"/>
 	<entry name="Orks/BonusBeastsProductionDescription" value="Павялічвае вытворчасьць Загонаў Паганятых."/>
 	<entry name="Orks/BonusBeastsProductionFlavor" value="“We's gonna need a bigger whip.”<br/>  — Runtherd Gark Snotsmeer, shortly before a Squiggoth stepped on him"/>
-	<entry name="Orks/BonusColonizersProduction" value="Молаты з Ламачча"/>
-	<entry name="Orks/BonusColonizersProductionDescription" value="Павялічвае вытворчасьць Двароў Мекаў."/>
+	<entry name="Orks/BonusColonizersProduction" value="Молаты Ламачча"/>
+	<entry name="Orks/BonusColonizersProductionDescription" value="Павялічвае вытворчасьць Двароў Шматоў Мекаў."/>
 	<entry name="Orks/BonusColonizersProductionFlavor" value="When there isn't enough small-sized scrap to hand to build their ungainly creations, Mekboys acquire more by devising weird and wonderful machines which ravage the ruins and wreckage of their conquered worlds."/>
 	<entry name="Orks/BonusInfantryProduction" value="Болей Дакк"/>
-	<entry name="Orks/BonusInfantryProductionDescription" value="Павялічвае вытворчасьць Кучаў Дакк."/>
+	<entry name="Orks/BonusInfantryProductionDescription" value="Павялічвае вытворчасьць Кучаў Во'Дакка."/>
 	<entry name="Orks/BonusInfantryProductionFlavor" value="“Da best shoota I eva made, dat iz. Loadza barrulz, so dat it's ded shooty. 'Sept dat wun, 'cos dat's da skorcha, dat's burny insted. Yeah, good an' propa. An' da bullitz is 'splosiv…dey goez boom inna fings wot you'z shootin.' An' dat button dere…dat's da best bit. Wot it duz, see, iz…iz…oh, zog. Nah, it's nuffin' boss. Nah, you'z don't need ta see wot dat button duz…'onist. Don't push it!”<br/>  — Last words, Nazdakka Boomsnik, Mek"/>
 	<entry name="Orks/BonusVehiclesProduction" value="Рымонтныя Працы"/>
 	<entry name="Orks/BonusVehiclesProductionDescription" value="Павялічвае вытворчасьць Культаў Хуткасьці."/>
@@ -1162,7 +1162,7 @@
 	<entry name="Orks/CityEnergyDescription" value="Павялічвае вытворчасьць энергіі."/>
 	<entry name="Orks/CityEnergyFlavor" value="Green and red lightning arcs between the intricate prongs of these power amplification devices, frying any Greenskin who wanders too near. It's quite the spectator sport, but the technology is missing key components so couldn't possibly bear out the Meks' claims of its increase in energy output—save for the Orks' reality-altering faith that it does."/>
 	<entry name="Orks/CityGrowth" value="Босамоўцы"/>
-	<entry name="Orks/CityGrowthDescription" value="Павялічвае выпуск прадукцыі Павецей для Ламачча."/>
+	<entry name="Orks/CityGrowthDescription" value="Павялічвае вытворчасьць Павецяў Ламачча."/>
 	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz… wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
 	<entry name="Orks/CityInfluence" value="Буйныя Бліскучы"/>
 	<entry name="Orks/CityInfluenceDescription" value="Павялічвае вытворчасьць уплыву."/>
@@ -1170,19 +1170,19 @@
 	<entry name="Orks/CityLoyalty" value="Трафеяшасты"/>
 	<entry name="Orks/CityLoyaltyDescription" value="Павялічвае вытворчасьць лаяльнасьці."/>
 	<entry name="Orks/CityLoyaltyFlavor" value="There's nothing that so stirs up the vim of an Ork as the sight of their defeated enemies (or their remaining parts) strung up high for all to see."/>
-	<entry name="Orks/CityPopulationLimit" value="Глыбокія Норы"/>
+	<entry name="Orks/CityPopulationLimit" value="Глыбокія Капальні"/>
 	<entry name="Orks/CityPopulationLimitDescription" value="Павялічвае ліміт насельніцтва."/>
 	<entry name="Orks/CityPopulationLimitFlavor" value="Using the Mek's latest contraptions, the Ork shacks and forges now extend deep beneath the city's surface. Sure, the occasional collapse drags Orks screaming into the depths, but it's worth it for the extra legroom."/>
 	<entry name="Orks/CityResearch" value="Думпакоі"/>
 	<entry name="Orks/CityResearchDescription" value="Павялічвае вытворчасьць дасьледаваньняў."/>
 	<entry name="Orks/CityResearchFlavor" value="Given that technology is wired into the genes of normal Orks, a smart Warboss will find that dedicating space, manpower and time to locking his Mekz inside a small room full of scrap and ordering them come up with some really good Dakka invariably pays off."/>
-	<entry name="Orks/CityTier2" value="Трушчобаград"/>
+	<entry name="Orks/CityTier2" value="Трушчобныград"/>
 	<entry name="Orks/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Orks/CityTier2Flavor" value="Outside each fortress' original walls, a slum town of Gretchin, Squigs, Snotlings and low-tier Orks has sprung up, whilst the insidious green fungus has spread everywhere, remaking this world in the Orks' genetic image."/>
 	<entry name="Orks/CityTier3" value="Халупаград"/>
 	<entry name="Orks/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Orks/CityTier3Flavor" value="The Warboss' fame has spread across the entire planet, with the invisible Waaagh! energies paralleling its path. Wherever Orks are freshly-spawned, they feel the irresistible tugging towards the Warboss' cities, which are now sprawled across the nearby landscape in endless slums and shanties."/>
-	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Хуткае разлажэньне"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Хуткая Дэкампазіцыя"/>
 	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Прыводзіць да з'яўленьня оркоідных грыбоў пасьля сьмерці адзінак."/>
 	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="“Exhibit 27: a single 'spore' of xenos species #0451 'Ork'. Acolytes, you should note the fungoid texture and microhomuncular structures. We theorise that these 'spores' generate new 'Orks' in any sufficiently fertile setting. When an Ork reaches maturity (typically 30 minutes after emergence) it emits these constantly—but they are released en masse at the moment of death. Please don't drop it.”<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
@@ -1205,7 +1205,7 @@
 	<entry name="Orks/GreenTideHealing" value="<string name='Traits/Orks/GreenTide'/>"/>
 	<entry name="Orks/GreenTideHealingDescription" value="Павялічвае хуткасьць лячэньня."/>
 	<entry name="Orks/GreenTideHealingFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
-	<entry name="Orks/GrotGunner" value="Грот-Стрыляла"/>
+	<entry name="Orks/GrotGunner" value="Грот-Штраляла"/>
 	<entry name="Orks/GrotGunnerDescription" value="Павялічвае трапнасьць Буйнаштралялы і Здвоенай Буйнаштралялы."/>
 	<entry name="Orks/KustomForceField" value="<string name='Actions/Orks/KustomForceField'/>"/>
 	<entry name="Orks/KustomForceFieldDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
@@ -1213,7 +1213,7 @@
 	<entry name="Orks/MeleeDamage" value="Буйныя Чоппы"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas… and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
-	<entry name="Orks/MightMakesRight" value="Моц Дае Права"/>
+	<entry name="Orks/MightMakesRight" value="Моц Робе Права"/>
 	<entry name="Orks/MightMakesRightDescription" value="Дае ўплыў за атаку."/>
 	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
