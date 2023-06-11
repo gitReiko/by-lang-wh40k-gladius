@@ -1358,7 +1358,7 @@
 	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Pavialičvaje vytvorčaść Hipastalnych Chramaŭ."/>
 	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="<string name='Traits/Necrons/VehiclesBuildingBonusFlavor'/>"/>
 	<entry name="Orks/AmmoRunt" value="<string name='Actions/AmmoRunt'/>"/>
-	<entry name="Orks/AmmoRuntDescription" value="Daje Bujnym Miekam, Chvalkanihodniam i Hrymatam Miekaŭ zdolnaść pavialičvać svaju trapnaść u dalokim boi."/>
+	<entry name="Orks/AmmoRuntDescription" value="Daje Bujnym Miekam, Blaskučym Hicam i Hrymatam Miekaŭ zdolnaść pavialičvać svaju trapnaść u dalokim boi."/>
 	<entry name="Orks/AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
 	<entry name="Orks/BattlewagonBigShootas" value="Bujnaštralały Vajavoj Fury"/>
 	<entry name="Orks/BattlewagonBigShootasDescription" value="Daje Vajavym Furam bujnaštralały."/>
@@ -1388,7 +1388,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="<string name='Traits/Orks/BonusVehiclesProductionDescription'/>"/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
 	<entry name="Orks/Bosspole" value="Šost Bosa"/>
-	<entry name="Orks/BosspoleDescription" value="Jašče bolej źnižaje straty marali ad Praviła Mobaŭ dla Bujnych Miekaŭ, Chłopcaŭ, Miehanobaŭ, Tankabojaŭ, Vajavych Matacyklaŭ i Vajnabosaŭ."/>
+	<entry name="Orks/BosspoleDescription" value="Jašče bolej źnižaje straty marali ad Praviła Mobaŭ dla Bujnych Miekaŭ, Drabaŭ, Miehanobaŭ, Tankabojaŭ, Vojnacyklaŭ i Vajnabosaŭ."/>
 	<entry name="Orks/BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
 	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
 	<entry name="Orks/CityEnergyDescription" value="Pavialičvaje vytvorčaść enierhii ŭ haradach Orkaŭ."/>
@@ -1421,7 +1421,7 @@
 	<entry name="Orks/DakkajetSupaShootaDescription" value="Daje Dakka-Źniščałam supier štralału."/>
 	<entry name="Orks/DakkajetSupaShootaFlavor" value="<string name='Weapons/TwinLinkedSupaShootaFlavor'/>"/>
 	<entry name="Orks/EavyArmour" value="<string name='Traits/EavyArmour'/>"/>
-	<entry name="Orks/EavyArmourDescription" value="Pavialičvaje braniu Chłopcam i Vajnabosam."/>
+	<entry name="Orks/EavyArmourDescription" value="Pavialičvaje braniu Drabam i Vajnabosam."/>
 	<entry name="Orks/EavyArmourFlavor" value="<string name='Traits/EavyArmourFlavor'/>"/>
 	<entry name="Orks/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Orks/ExtraInfantryArmourDescription" value="Pavialičvaje braniu piachoty."/>
