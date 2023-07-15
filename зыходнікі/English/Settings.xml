@@ -128,7 +128,9 @@
 	<entry name="General/ShowTipsHint" value="Display helpful game tips."/>
 	<entry name="Network" value="Network"/>
 	<entry name="Network/ListenPort" value="Listen Port"/>
-	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/ListenPortHint" value="The local TCP port to use when hosting a multiplayer game.<br/><br/><style color='GUI/Yellow'/>If you experience connection issues, make sure to allow this port on your firewall and forward it to the machine running the game on your router. Search the internet for 'Port Forwarding' for instructions for your router."/>
+	<entry name="Network/PreferRelayedData" value="Prefer Relayed Data"/>
+	<entry name="Network/PreferRelayedDataHint" value="Instead of connecting directly to the host, relay all data through a relay server if one is available.<br/><br/>This will increase the network latency.<br/><br/>When turned off, data is still relayed if the initial direct connection fails.<br/><br/><style color='GUI/Yellow'/>Only use if you are experiencing connection issues and cannot resolve them otherwise."/>
 	<entry name="Network/RemoteAddress" value="Remote Address"/>
 	<entry name="Network/RemotePort" value="Remote Port"/>
 	<entry name="Video" value="Video"/>

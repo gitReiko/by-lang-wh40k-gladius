@@ -924,7 +924,7 @@
 	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Павялічвае фіксаваную колькасьць дасьледаваньняў, што атрымліваюцца ад Руінаў Ваула."/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="It seems the Xenarite Tech-Priests from Stygies VIII are having their way on Gladius Prime too—setting up observation units and drones at every Outpost to understand the Xenos better. The practical applications in terms of research are immediately obvious…"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Дадатковыя Цяжкія Болтары"/>
-	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дае дадатковыя цяжкія болтары Гібельным Клінкам, Баявым Танкам - Леман Рус і Валькірыям."/>
+	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дае дадатковыя цяжкія болтары Гібельным Клінкам, Баявым Танкам - Леман Рус, Баявым Танкам Рогала Дорна і Валькірыям."/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
 	<entry name="AstraMilitarum/AwakenTheMachine" value="<string name='Actions/AwakenTheMachine'/>"/>
 	<entry name="AstraMilitarum/AwakenTheMachineDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць павялічваць шкоду машынаў."/>
@@ -1050,7 +1050,7 @@
 	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Касьмічным Марынам Хаосу, Апусташальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Хэлбрутам, Дэманічным Катам, Злосным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
+	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Вялікім Латуневым Скарпіёнам, Хэлбрутам, Дэманічным Катам, Злосным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncher" value="<string name='Weapons/HavocLauncher'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Дае Насарогам Хаосу і Зямным Рэйдарам Хаосу выбуховую зброю сярэдняй далёкасьці."/>
@@ -1436,13 +1436,13 @@
 	<entry name="Orks/GrabbinKlawDescription" value="Дае Ваявым Фурам здольнасьць зьнерухомліваць наземныя машыны ворага."/>
 	<entry name="Orks/GrabbinKlawFlavor" value="<string name='Actions/GrabbinKlawFlavor'/>"/>
 	<entry name="Orks/GrotRiggers" value="Гроты-Такелажы"/>
-	<entry name="Orks/GrotRiggersDescription" value="Дае пасіўную рэгенерацыю здароўя Ваявым Баггі, Бляшанкам-Забойцам, Ваявым Фурам, Горканаўтам і Выбухалам-Забойцам."/>
+	<entry name="Orks/GrotRiggersDescription" value="Дае пасіўную рэгенерацыю здароўя Ваявым Баггі, Бляшанкам-Забойцам, Ваявым Фурам, Шьмертажахам, Горканаўтам і Выбухалам-Забойцам."/>
 	<entry name="Orks/GrotRiggersFlavor" value="<string name='Traits/GrotRiggersFlavor'/>"/>
 	<entry name="Orks/HealingRate" value="Зялёная Плынь"/>
 	<entry name="Orks/HealingRateDescription" value="Павялічвае хуткасьць лячэньня адзінак."/>
 	<entry name="Orks/HealingRateFlavor" value="Through the co-operation of a team of Bad Doks and Runtherdz, your Warlord has prescribed a new, 'more Orky' diet, to make the boyz bigger and stronger, quicker. Whether the cold Oil Squigs for breakfast and Faceeater Squigs for dinner actually has any physical effect is immaterial—the boyz believe it, and that makes it work."/>
 	<entry name="Orks/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Orks/HammerOfWrathDescription" value="Дае Шьмертавёрту, Гіганцкаму Сквігготу, Горканаўту, Бляшанке-Забойцы і Ваявым Матацыклям магчымасьць выконваць больш разбуральныя атакі."/>
+	<entry name="Orks/HammerOfWrathDescription" value="Дае Шьмертажахам, Шьмертавёртам, Гіганцкім Сквігготам, Горканаўтам, Бляшанкам-Забойцам і Ваявым Матацыклям магчымасьць выконваць больш разбуральныя атакі."/>
 	<entry name="Orks/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="<string name='Traits/Orks/MeleeDamage'/>"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
@@ -1476,7 +1476,7 @@
 	<entry name="SistersOfBattle/AdditionalHeavyBolterFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
 	<entry name="SistersOfBattle/AdditionalSacredRite" value="Двайная Вера"/>
 	<entry name="SistersOfBattle/AdditionalSacredRiteDescription" value="Два Сьвяшчэнных Абрады могуць быць актыўны адначасова."/>
-	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/AircraftsMissiles" value="Авіацыйныя Ракеты"/>
 	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Дае Ракеты Нябесны Ўдар Маланкавым Зьнішчальнікам і Ракеты Пякельны Ўдар Ударным Зьнішчальнікам Помсьнік."/>
 	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="These missiles allow the aircrafts to effectively engage a variety of targets; Hellstrike missiles for missions targeting armoured vehicles, Skystrike missiles for enemy air forces."/>
@@ -1523,7 +1523,7 @@
 	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
 	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсьвяцейшым Сэлесьцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Дасканалым Вайсковым Гарнітурам, Карніцам, Сьвятой Сэлесьціне, Сёстрам Пакаяньня, Зэфірымам здольнасьць кідаць супрацьпяхотныя гранаты."/>
+	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсьвяцейшым Сэлесьцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Дасканалым Вайсковым Гарнітурам, Карніцам, Сьвятой Сэлесьціне, Сёстрам Пакаяньня, Зэфірымам здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrath" value="<string name='Traits/HammerOfWrath'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Дае Рыцарам-Капійнікам Цэрастус, Умярцьвіцелям, Дасканалым Вайсковым Гарнітурам, Сьвятой Сэлесьціне і Зэфірыму здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
@@ -1535,7 +1535,7 @@
 	<entry name="SistersOfBattle/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SistersOfBattle/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="SistersOfBattle/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасьць кідаць супрацьбранявыя гранаты."/>
+	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасьць кідаць супрацьбранявыя гранаты."/>
 	<entry name="SistersOfBattle/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/LaudHailer" value="<string name='Traits/SistersOfBattle/LaudHailer'/>"/>
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Дае Лупцоўнікам, Экзарцыстам і Ахвярнікам аўру, якая дазваляе ўзрушаным адзінкам зьдяйсьняць Акты Веры."/>
@@ -1551,7 +1551,7 @@
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорум"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам Помсьнік і Рыцарам-Капійнікам Цэрастус."/>
-	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationDescription'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationFlavor'/>"/>
@@ -1563,7 +1563,7 @@
 	<entry name="SistersOfBattle/RagingFervourFlavor" value="<string name='Actions/SistersOfBattle/RagingFervourFlavor'/>"/>
 	<entry name="SistersOfBattle/RitualizedCeremonies" value="Рытуалізаваныя Цырымоніі"/>
 	<entry name="SistersOfBattle/RitualizedCeremoniesDescription" value="Зьніжае кошт Сьвяшчэнных Абрадаў."/>
-	<entry name="SistersOfBattle/RitualizedCeremoniesFlavor" value="“At first, we prayed on the move, in moments of peace in ruins or caves. In time, as the conflict stabilized into endless, grinding war, our rituals and prayers stabilized too, to form a regime and routine.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/RitualizedCeremoniesFlavor" value="“At first, we prayed on the move, in moments of peace in ruins or caves. In time, as the conflict stabilized into endless, grinding war, our rituals and prayers stabilized too, to form a regime and routine.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/SacralVigor" value="<string name='Actions/SistersOfBattle/SacralVigor'/>"/>
 	<entry name="SistersOfBattle/SacralVigorDescription" value="<string name='Actions/SistersOfBattle/SacralVigorDescription'/>"/>
 	<entry name="SistersOfBattle/SacralVigorFlavor" value="<string name='Actions/SistersOfBattle/SacralVigorFlavor'/>"/>
@@ -1631,7 +1631,7 @@
 	<entry name="SpaceMarines/DevastatorDoctrineDescription" value="<string name='Actions/DevastatorDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrineFlavor" value="<string name='Traits/DevastatorDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
-	<entry name="SpaceMarines/DozerBladeDescription" value="Зьніжае штраф руху праз лясы і імперскія руіны для Паляўнічых, Драпежнікаў ды Брытвасьпінаў."/>
+	<entry name="SpaceMarines/DozerBladeDescription" value="Зьніжае штраф руху праз лясы і імперскія руіны для Паляўнічых, Драпежнікаў, Брытвасьпінаў ды Віхураў."/>
 	<entry name="SpaceMarines/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
@@ -1878,7 +1878,7 @@
 	<entry name="Tyranids/FleshHooksDescription" value="Дае Ваярам Тыранідаў, Гонару Тыранідаў і Ліктарам дадатковую зброю далёкага бою."/>
 	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
 	<entry name="Tyranids/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tyranids/HammerOfWrathDescription" value="Дае Экзакрынам, Гаргульлям, Гаруспэксам, Каргам Вульля, Тыранам Вульля, Касаносным Ерадулам, Тэрвігонам, Трыгонам і Тыранафэксам магчымасьць зьдзяйсьняць больш разбуральныя атакі."/>
+	<entry name="Tyranids/HammerOfWrathDescription" value="Дае Экзакрынам, Гаргульлям, Гаруспэксам, Каргам Вульля, Тыранам Вульля, Касаносным Ерадулам, Тэрвігонам, Трыгонам, Тыраннацыдам і Тыранафэксам магчымасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="Tyranids/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="<string name='Traits/Tyranids/InfantryUpkeep'/>"/>
 	<entry name="Tyranids/InfantryUpkeepDescription" value="Зьменшвае выдаткі біямасы на ўтрыманьне пяхоты."/>

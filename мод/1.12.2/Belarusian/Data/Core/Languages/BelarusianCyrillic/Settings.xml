@@ -128,7 +128,9 @@
 	<entry name="General/ShowTipsHint" value="Паказваць карысныя падказкі ў гульні."/>
 	<entry name="Network" value="Сетка"/>
 	<entry name="Network/ListenPort" value="Праслухоўваць Порт"/>
-	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/ListenPortHint" value="Лакальны TCP-порт, які выкарыстоўваецца падчас стварэньня сеткавай гульні.<br/><br/><style color='GUI/Yellow'/>Падчас узьнікненьня праблемаў з далучэньнем пераканайцеся, што гэты порт дазволены фаерволам і перанакірованы на гульнявую машыну, на якой працуе вашы роўтар. Шукайце ў Інтэрнэце інструкцыі 'Перанакіраваньне Порта (Port Forwarding)' для вашага роўтара."/>
+	<entry name="Network/PreferRelayedData" value="Перавага Рэтрансляцыі Дадзеных"/>
+	<entry name="Network/PreferRelayedDataHint" value="Заміж прамога далучэньня да хоста, рэтрансляваць усе дадзеныя праз сэрвер рэтрансляцыі, калі ён даступны.<br/><br/>Гэта прывядзе да павелічэньня затрымкі сеціва.<br/><br/>Калі выключана, дадзеныя ўсё адно будуць рэтранслявацца падчас узьнікненьня праблемаў з прамым далучэньнем.<br/><br/><style color='GUI/Yellow'/>Выкарыстоўвайце толькі ў выпадках узьнікненьня праблемаў з далучэньнем і немагчымасьці вырашэньня праблемаў іншым шляхам."/>
 	<entry name="Network/RemoteAddress" value="Дыстанцыйны Адрас"/>
 	<entry name="Network/RemotePort" value="Дыстанцыйны Порт"/>
 	<entry name="Video" value="Відэа"/>

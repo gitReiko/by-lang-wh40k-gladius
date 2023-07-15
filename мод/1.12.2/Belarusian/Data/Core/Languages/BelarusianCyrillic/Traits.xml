@@ -839,9 +839,6 @@
 	<entry name="Gargantuan" value="Гіганцкі"/>
 	<entry name="GargantuanDescription" value="Класіфікацыя."/>
 	<entry name="GargantuanFlavor" value="Gargantuan creatures are of such immense size that they can take on entire armies. They tower over the battlefield, making the ground shudder as they advance upon the foe, crushing lesser creatures beneath their feet as they lumber forwards."/>
-	<entry name="GargantuanCreature" value="<string name='Traits/Gargantuan'/>"/>
-	<entry name="GargantuanCreatureDescription" value="<string name='Traits/GargantuanDescription'/>"/>
-	<entry name="GargantuanCreatureFlavor" value="<string name='Traits/GargantuanFlavor'/>"/>
 	<entry name="Gauss" value="Гаўс"/>
 	<entry name="GaussDescription" value="Мінімальная шкода залежыць ад здароўя абранай адзінкі."/>
 	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
@@ -984,7 +981,7 @@
 	<entry name="MobileCommandDescription" value="Пасіўныя здольнасьці працуюць на загружаны на гэты транспарт груз."/>
 	<entry name="MobileCommandFlavor" value="A transport vehicle is typically sealed, rendering any troops ineffective (but protected) until they reach their destination. Unlike gun slits, communication equipment doesn’t compromise the protection, as the Imperial Chimera command variant proves out, enabling commanders to continue to direct their forces."/>
 	<entry name="Monofilament" value="Мананітка"/>
-	<entry name="MonofilamentDescription" value="Трапнасьць залежыць ад максімальнага руху адзінкі-цэлі. Павялічвае бронепрабівальнасьць."/>
+	<entry name="MonofilamentDescription" value="Інверсіўна маштабуе трапнасьць у залежнасьці ад максімальнага руху адзінкі-цэлі. Павялічвае бронепрабівальнасьць."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Жахлівае Стварэньне"/>
 	<entry name="MonstrousCreatureDescription" value="Класіфікацыя."/>
@@ -1356,7 +1353,7 @@
 	<entry name="SistersOfBattle/ArmourOfSaintKatherineFlavor" value="Ever since this revered suit of armour was anointed with a vial of blood from the martyred Saint Katherine it has been believed to have sacred powers of protection."/>
 	<entry name="SistersOfBattle/AssaultWeaponBonus" value="Лютая Страляніна"/>
 	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць."/>
-	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="“The right attack, carefully placed, can defeat the most overwhelming of enemies. However, if we do not know the right attack? Then an overwhelming, inchoate assault will hit the right spot, eventually…”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="“The right attack, carefully placed, can defeat the most overwhelming of enemies. However, if we do not know the right attack? Then an overwhelming, inchoate assault will hit the right spot, eventually…”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/AvengingZeal" value="Запал Помствы"/>
 	<entry name="SistersOfBattle/AvengingZealDescription" value="Зьніжае страту маралі."/>
 	<entry name="SistersOfBattle/AvengingZealFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
@@ -1383,7 +1380,7 @@
 	<entry name="SistersOfBattle/DivineDeliveranceFlavor" value="<string name='Actions/SistersOfBattle/DivineDeliveranceFlavor'/>"/>
 	<entry name="SistersOfBattle/EternalCrusade" value="Вечны Крыжовы Паход"/>
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Павялічвае вытворчасьць гарадоў."/>
-	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“And we shall not rest, for the God-Emperor’s eye is on us. He sees every soul saved and knows that the number imperilled far outweighs it. We cannot stop, we cannot slow—ours is an eternal crusade.”<br/>  — Canoness Vandire, In Memoriam De Virtute."/>
+	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“And we shall not rest, for the God-Emperor’s eye is on us. He sees every soul saved and knows that the number imperilled far outweighs it. We cannot stop, we cannot slow—ours is an eternal crusade.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
 	<entry name="SistersOfBattle/ExpertFighters" value="Зьнішчальнікі-Асы"/>
 	<entry name="SistersOfBattle/ExpertFightersDescription" value="Павялічвае трапнасьць."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="In most strike wings a handful of aircrafts are flown by veteran pilotes. These fighter aces are truly dangerous foes, able to predict the reaction of their prey with uncanny precision. Few of them survive beyond one or two campaigns as they draw the most dangerous missions where only the most experienced prevail."/>
@@ -1416,7 +1413,7 @@
 	<entry name="SistersOfBattle/MartyrdomFlavor" value="The Sisters of the Adepta Sororitas do not give in to despair when their leaders are slain. Instead, the blood of these martyred heroes only strengthens their resolve, the sacrifice inspiring them to great acts of heroism."/>
 	<entry name="SistersOfBattle/MartyrSpirit" value="Дух Пакутніцы"/>
 	<entry name="SistersOfBattle/MartyrSpiritDescription" value="Зьніжае страты маралі пасьля сьмерці суседнім хаўрусным адзінкам са Шчытом Веры."/>
-	<entry name="SistersOfBattle/MartyrSpiritFlavor" value="“The loss of our Sisters and auxiliaries saddened us—but encouraged us to redouble our efforts.”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/MartyrSpiritFlavor" value="“The loss of our Sisters and auxiliaries saddened us—but encouraged us to redouble our efforts.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Actions/SistersOfBattle/MedicusMinistorum'/>"/>
 	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="<string name='Actions/SistersOfBattle/MedicusMinistorumFlavor'/>"/>
@@ -1431,7 +1428,7 @@
 	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="The rites of the Ecclesiarchy are not merely militaristic: prayers and liturgies exist for all functions of the Imperium. To be the focus of such a rite, whether Famulus or Pronatus or even the most base worker, drives them on to greater efforts."/>
 	<entry name="SistersOfBattle/OathOfFaith" value="Зарок Веры"/>
 	<entry name="SistersOfBattle/OathOfFaithDescription" value="Зьніжае трапнасьць і не дае выкарыстоўваць Шчыт Веры."/>
-	<entry name="SistersOfBattle/OathOfFaithFlavor" value="“We all took an oath, to defend the Imperium, to purge the heretic and alien. It supported us, drove us on through pain and fear. But when our sisters finally broke and fled, our oath haunted them… If they survived their flight, they would return as Sisters Repentia…”<br/>  — Unknown remembrancer, Gospel of the Webway."/>
+	<entry name="SistersOfBattle/OathOfFaithFlavor" value="“We all took an oath, to defend the Imperium, to purge the heretic and alien. It supported us, drove us on through pain and fear. But when our sisters finally broke and fled, our oath haunted them… If they survived their flight, they would return as Sisters Repentia…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/ParagonWarsuit" value="Дасканалы Вайсковы Гарнітур"/>
 	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="Among the holy arsenal of an Order Militant, the ancient Paragon Warsuits are regarded as sacred vestments with a noble will of their own. Only the most worth Celestians can master its spirit for use in battle."/>
@@ -1443,10 +1440,10 @@
 	<entry name="SistersOfBattle/PsyShockFlavor" value="<string name='Weapons/CondemnorBoltgunSilverStake'/>"/>
 	<entry name="SistersOfBattle/PurifyingRecitations" value="Ачышчаюшчыя Чытаньні"/>
 	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Павялічвае шкоду."/>
-	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Our foes call us cold, inhuman, unfeeling. But we feel, we mourn, we rage. Let them feel our warmth—in our flamers, our meltas.”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Our foes call us cold, inhuman, unfeeling. But we feel, we mourn, we rage. Let them feel our warmth—in our flamers, our meltas.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/RagingFervour" value="Люты Запал"/>
 	<entry name="SistersOfBattle/RagingFervourDescription" value="Павялічвае шкоду."/>
-	<entry name="SistersOfBattle/RagingFervourFlavor" value="“The weapons in our hands are the instruments of our faith. Each bolt is a prayer sent to the heart of the faithless, spreading its word into their very being.”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/RagingFervourFlavor" value="“The weapons in our hands are the instruments of our faith. Each bolt is a prayer sent to the heart of the faithless, spreading its word into their very being.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/RighteousJudgement" value="<string name='Actions/SistersOfBattle/RighteousJudgement'/>"/>
 	<entry name="SistersOfBattle/RighteousJudgementDescription" value="<string name='Actions/SistersOfBattle/RighteousJudgementDescription'/>"/>
 	<entry name="SistersOfBattle/RighteousJudgementFlavor" value="<string name='Actions/SistersOfBattle/RighteousJudgementFlavor'/>"/>
@@ -1490,7 +1487,7 @@
 	<entry name="SistersOfBattle/UsedSacredRite2" value="Зьдяйсьняецца 2 Сьвяшчэнных Абрада"/>
 	<entry name="SistersOfBattle/VengefulSpirit" value="Помсьлівы Дух"/>
 	<entry name="SistersOfBattle/VengefulSpiritDescription" value="Вяртае шкоду назад атакоўцу."/>
-	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="“And in death, we have one last chance—a release from worry. Once dying, there is nothing holding back our fury, no need for self-preservation. We can use up all that we are, take all the blow that come our way, for one last chance at justice.”<br/>  — Canoness Vandire, In Nomine Strategi."/>
+	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="“And in death, we have one last chance—a release from worry. Once dying, there is nothing holding back our fury, no need for self-preservation. We can use up all that we are, take all the blow that come our way, for one last chance at justice.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/WarHymn" value="<string name='Actions/SistersOfBattle/WarHymn'/>"/>
 	<entry name="SistersOfBattle/WarHymnDescription" value="Павялічвае атакі."/>
 	<entry name="SistersOfBattle/WarHymnFlavor" value="<string name='Actions/SistersOfBattle/WarHymnFlavor'/>"/>

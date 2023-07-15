@@ -128,7 +128,9 @@
 	<entry name="General/ShowTipsHint" value="Pakazvać karysnyja padkazki ŭ hulni."/>
 	<entry name="Network" value="Sietka"/>
 	<entry name="Network/ListenPort" value="Prasłuchoŭvać Port"/>
-	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/ListenPortHint" value="Łakalny TCP-port, jaki vykarystoŭvajecca padčas stvareńnia sietkavaj hulni.<br/><br/><style color='GUI/Yellow'/>Padčas uźniknieńnia prablemaŭ z dałučeńniem pierakanajciesia, što hety port dazvoleny fajervołam i pieranakirovany na hulniavuju mašynu, na jakoj pracuje vašy roŭtar. Šukajcie ŭ Internecie instrukcyi 'Pieranakiravańnie Porta (Port Forwarding)' dla vašaha roŭtara."/>
+	<entry name="Network/PreferRelayedData" value="Pieravaha Retranslacyi Dadzienych"/>
+	<entry name="Network/PreferRelayedDataHint" value="Zamiž pramoha dałučeńnia da chosta, retranslavać usie dadzienyja praz servier retranslacyi, kali jon dastupny.<br/><br/>Heta pryviadzie da pavieličeńnia zatrymki sieciva.<br/><br/>Kali vyklučana, dadzienyja ŭsio adno buduć retranslavacca padčas uźniknieńnia prablemaŭ z pramym dałučeńniem.<br/><br/><style color='GUI/Yellow'/>Vykarystoŭvajcie tolki ŭ vypadkach uźniknieńnia prablemaŭ z dałučeńniem i niemahčymaści vyrašeńnia prablemaŭ inšym šlacham."/>
 	<entry name="Network/RemoteAddress" value="Dystancyjny Adras"/>
 	<entry name="Network/RemotePort" value="Dystancyjny Port"/>
 	<entry name="Video" value="Videa"/>
