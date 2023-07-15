@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Audio" value="Aŭdyjo"/>
+	<entry name="Audio/AmbientVolume" value="Hučnaść Navakolla"/>
+	<entry name="Audio/AmbientVolumeHint" value="Rehuluje hučnaść navakolla."/>
+	<entry name="Audio/CinematicVolume" value="Hučnaść Videa"/>
+	<entry name="Audio/CinematicVolumeHint" value="Rehuluje hučnaść unutryhulniavych videa rolikaŭ."/>
+	<entry name="Audio/EffectVolume" value="Hučnaść Efiektaŭ"/>
+	<entry name="Audio/EffectVolumeHint" value="Rehuluje hučnaść efiektaŭ."/>
+	<entry name="Audio/HRTF" value="HRTF"/>
+	<entry name="Audio/HRTFHint" value="Zapytvaje miksavańnie z dapamohaj funkcyi pieradačy złučanaj z hałavoj (Head-Related Transfer Function ci HRTF).<br/><br/>HRTF moža zabiaśpiečyć lepšuju prastoravuju vyraznaść pry vykarystańni navušnikaŭ za košt vykarystańnia admysłovych filtraŭ, jakija ŭličvajuć formu hałavy słuchača dla hukaŭ, jakija prychodziać z zadadzienaha kirunku.<br/><br/>Zapyt miksavańnia HRTF moža pierakanfihuravać AL pryładu dla peŭnaha režymu vyvadu i abmiežavać vykarystanyja značeńni častaty.<br/><br/><style color='GUI/Yellow'/>Papiaredžańnie: choć HRTF moža vydatna hučać u navušnikach, jon moža pryvieści da pavieličeńnia vykarystańnia resursaŭ i moža drenna hučać sa zvyčajnymi dynamikami, asabliva ŭ režymie ab'jomnaha huku."/>
+	<entry name="Audio/InterfaceVolume" value="Hučnaść Interfiejsu"/>
+	<entry name="Audio/InterfaceVolumeHint" value="Rehuluje hučnaść interfiejsu."/>
+	<entry name="Audio/MasterVolume" value="Ahulnaja Hučnaść"/>
+	<entry name="Audio/MasterVolumeHint" value="Rehuluje ahulnuju hučnaść."/>
+	<entry name="Audio/MusicVolume" value="Hučnaść Muzyki"/>
+	<entry name="Audio/MusicVolumeHint" value="Rehuluje hučnaść muzyki."/>
+	<entry name="Audio/OutputDevice" value="Pryłada Vyvadu"/>
+	<entry name="Audio/OutputDeviceHint" value=""/>
+	<entry name="Audio/VoiceVolume" value="Hučnaść Hołasu"/>
+	<entry name="Audio/VoiceVolumeHint" value="Rehuluje hučnaść hołasu."/>
+	<entry name="Controls" value="Kiravańnie"/>
+	<entry name="Controls/Cancel" value="Skasavać"/>
+	<entry name="Controls/Cargo0" value="Hruz 1"/>
+	<entry name="Controls/Cargo1" value="Hruz 2"/>
+	<entry name="Controls/Cargo2" value="Hruz 3"/>
+	<entry name="Controls/Cargo3" value="Hruz 4"/>
+	<entry name="Controls/Cargo4" value="Hruz 5"/>
+	<entry name="Controls/Cargo5" value="Hruz 6"/>
+	<entry name="Controls/Cargo6" value="Hruz 7"/>
+	<entry name="Controls/Cargo7" value="Hruz 8"/>
+	<entry name="Controls/Cargo8" value="Hruz 9"/>
+	<entry name="Controls/Cargo9" value="Hruz 10"/>
+	<entry name="Controls/Chat" value="Čat"/>
+	<entry name="Controls/ForceEndTurn" value="Prymusovaje Zaviaršeńnie Kroku"/>
+	<entry name="Controls/MarkTile" value="Paznačyć Plitku"/>
+	<entry name="Controls/NextMusicTrack" value="Nastupny Muzyčny Trek"/>
+	<entry name="Controls/NextTask" value="Nastupnaja Zadača"/>
+	<entry name="Controls/OK" value="Dobra"/>
+	<entry name="Controls/OpenCompendiumScreen" value="Adkryć Ekran Kampiendyuma"/>
+	<entry name="Controls/OpenQuestsScreen" value="Adkryć Ekran Kvesta"/>
+	<entry name="Controls/OpenResearchScreen" value="Adkryć Ekran Daśledvańniaŭ"/>
+	<entry name="Controls/PlayerAction0" value="Dziejańnie Hulca 1"/>
+	<entry name="Controls/PlayerAction1" value="Dziejańnie Hulca 2"/>
+	<entry name="Controls/PlayerAction2" value="Dziejańnie Hulca 3"/>
+	<entry name="Controls/PlayerAction3" value="Dziejańnie Hulca 4"/>
+	<entry name="Controls/PlayerAction4" value="Dziejańnie Hulca 5"/>
+	<entry name="Controls/PlayerAction5" value="Dziejańnie Hulca 6"/>
+	<entry name="Controls/PlayerAction6" value="Dziejańnie Hulca 7"/>
+	<entry name="Controls/PlayerAction7" value="Dziejańnie Hulca 8"/>
+	<entry name="Controls/PlayerAction8" value="Dziejańnie Hulca 9"/>
+	<entry name="Controls/PlayerAction9" value="Dziejańnie Hulca 10"/>
+	<entry name="Controls/QuickLoad" value="Chutkaja Zahruzka"/>
+	<entry name="Controls/QuickSave" value="Chutkaje Zachavańnie"/>
+	<entry name="Controls/ReloadModifiedResources" value="Pierazahruzić Źmienienyja Resursy"/>
+	<entry name="Controls/SaveJPGScreenShot" value="Zachavać JPG Zdymak Ekrana"/>
+	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Zachavać JPG Zdymak Ekrana bieź Interfiejsu"/>
+	<entry name="Controls/SavePNGScreenShot" value="Zachavać PNG Zdymak Ekrana"/>
+	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Zachavać PNG Zdymak Ekrana bieź Interfiejsu"/>
+	<entry name="Controls/ScrollDown" value="Prakrucić Uniz"/>
+	<entry name="Controls/ScrollLeft" value="Prakrucić Naleva"/>
+	<entry name="Controls/ScrollRight" value="Prakrucić Naprava"/>
+	<entry name="Controls/ScrollUp" value="Prakrucić Uvierch"/>
+	<entry name="Controls/SelectNext" value="Nastupny Vybar"/>
+	<entry name="Controls/SelectPrevious" value="Papiaredni Vybar"/>
+	<entry name="Controls/ToggleDebugPanel" value="Uklučyć Panel Adładki"/>
+	<entry name="Controls/ToggleDisplayMode" value="Uklučyć Režym Adlustravańnia"/>
+	<entry name="Controls/ToggleFPSDisplay" value="Uklučyć Adlustravańnie FPS"/>
+	<entry name="Controls/ToggleHUD" value="Uklučyć Interfiejs"/>
+	<entry name="Controls/ToggleLoadScreen" value="Uklučyć Ekran Zahruzki"/>
+	<entry name="Controls/ToggleMixerPanel" value="Uklučyć Panel Mikšara"/>
+	<entry name="Controls/ToggleSaveScreen" value="Uklučyć Ekran Zachavańnia"/>
+	<entry name="Controls/ToggleSettingsScreen" value="Uklučyć Ekran Naładaŭ"/>
+	<entry name="Controls/ToggleStatsPanel" value="Uklučyć Panel Statystyki"/>
+	<entry name="Controls/ToggleUnitOverlay" value="Uklučyć Słoj Adzinak"/>
+	<entry name="Controls/ToggleYieldOverlay" value="Uklučyć Słoj Prybytku"/>
+	<entry name="Controls/UnitAction0" value="Dziejańnie Adzinki 1"/>
+	<entry name="Controls/UnitAction1" value="Dziejańnie Adzinki 2"/>
+	<entry name="Controls/UnitAction2" value="Dziejańnie Adzinki 3"/>
+	<entry name="Controls/UnitAction3" value="Dziejańnie Adzinki 4"/>
+	<entry name="Controls/UnitAction4" value="Dziejańnie Adzinki 5"/>
+	<entry name="Controls/UnitAction5" value="Dziejańnie Adzinki 6"/>
+	<entry name="Controls/UnitAction6" value="Dziejańnie Adzinki 7"/>
+	<entry name="Controls/UnitAction7" value="Dziejańnie Adzinki 8"/>
+	<entry name="Controls/UnitAction8" value="Dziejańnie Adzinki 9"/>
+	<entry name="Controls/UnitAction9" value="Dziejańnie Adzinki 10"/>
+	<entry name="Controls/UnitAction10" value="Dziejańnie Adzinki 11"/>
+	<entry name="Controls/UnitAction11" value="Dziejańnie Adzinki 12"/>
+	<entry name="Controls/UnitAction12" value="Dziejańnie Adzinki 13"/>
+	<entry name="Controls/UnitAction13" value="Dziejańnie Adzinki 14"/>
+	<entry name="Controls/UnitAction14" value="Dziejańnie Adzinki 15"/>
+	<entry name="Controls/UnitItem0" value="Pradmiet Adzinki 1"/>
+	<entry name="Controls/UnitItem1" value="Pradmiet Adzinki 2"/>
+	<entry name="Controls/UnitItem2" value="Pradmiet Adzinki 3"/>
+	<entry name="Controls/UnitItem3" value="Pradmiet Adzinki 4"/>
+	<entry name="Controls/UnitItem4" value="Pradmiet Adzinki 5"/>
+	<entry name="Controls/UnitItem5" value="Pradmiet Adzinki 6"/>
+	<entry name="Controls/UnitItem6" value="Pradmiet Adzinki 7"/>
+	<entry name="Controls/UnitItem7" value="Pradmiet Adzinki 8"/>
+	<entry name="Controls/UnitItem8" value="Pradmiet Adzinki 9"/>
+	<entry name="Controls/UnitItem9" value="Pradmiet Adzinki 10"/>
+	<entry name="General" value="Ahulnyja"/>
+	<entry name="General/AnimationSpeed" value="Chutkaść Animacyi"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General/AutoCycleUnits" value="Aŭtavybar Adzinak"/>
+	<entry name="General/AutoCycleUnitsHint" value="Aŭtamatyčny pierachod da nastupnaj adzinki što čakaje zahad."/>
+	<entry name="General/AutoSendReports" value="Adpraŭleńnie Statystyki Vykarystańnia i Spravazdač ab Zbojach"/>
+	<entry name="General/AutoSendReportsHint" value="Aŭtamatyčnaje adpraŭleńnie statystyki vykarystańnia i spravazdač ab zbojach ŭ Proxy Studios dla palapšeńnia asablivaściaŭ, stabilnaści i pradukcyjnaści hulni.<br/><br/><style color='GUI/Yellow'/>My pavažajem Vašu pryvatnaść. My imkniomsia źbirać tolki tuju infarmacyju, jakaja patrebna dla palapšeńnia hulni. Sabranyja dadzienyja ŭklučajuć ananimnaje ŭzajemadziejańnie z hulnioj (naprykład, kolkaść sprobaŭ i zbojaŭ sietkavaha padłučeńnia, typy zapuščanych hulniaŭ, karystanyja funkcyi, nacisnutyja knopki i čas  hulni), a taksama ananimnuju techničnuju infarmacyju (naprykład, viersiju hulni i movu, źviestki ab apieracyjnaj sistemie i abstalavańnie, a taksama bazavuju infarmacyju ab zbojach i pamyłkach). Hetyja dadzienyja apracoŭvajucca ŭ adpaviednaści z zakonnym intaresam dla pradastaŭleńnia jakasnaha i nadziejnaha praduktu. Dadzienyja zachoŭvajecca da 1 hoda i nikoli nie pieradajucca trecim asobam."/>
+	<entry name="General/Language" value="Mova"/>
+	<entry name="General/LanguageHint" value="Vyznačaje piśmovuju movu.<br/><br/><style color='GUI/Red'/>Kab efiekt ad źmieny hetaha paramietra nabyŭ moc, treba pierazahruzić hulniu."/>
+	<entry name="General/ResetTips" value="Skinuć Padkazki"/>
+	<entry name="General/ResetTipsHint" value="Skidańnie radaŭ pryviadzie da ich paŭtornaha adlustravańnia ŭ hulni."/>
+	<entry name="General/ScrollAcceleration" value="Paskareńnie Prahortki"/>
+	<entry name="General/ScrollAccelerationHint" value=""/>
+	<entry name="General/ScrollSpeed" value="Chutkaść Prahortki"/>
+	<entry name="General/ScrollSpeedHint" value=""/>
+	<entry name="General/ScrollToAction" value="Aŭtaprahortka da Dziejańnia"/>
+	<entry name="General/ScrollToActionHint" value="Kamiera budzie aŭtamatyčna prakručvacca da kožnaha dziejańnia, jakoje adbyvajecca padčas kroku ŠI."/>
+	<entry name="General/ShowBarks" value="Pakazvać Dyjałohi"/>
+	<entry name="General/ShowBarksHint" value="Pakazvać dyjałohi adzinak."/>
+	<entry name="General/ShowCinematics" value="Pakazvać Videa"/>
+	<entry name="General/ShowCinematicsHint" value="Pakazvać videa roliki."/>
+	<entry name="General/ShowPerformance" value="Pakazvać Pradukcyjnaść"/>
+	<entry name="General/ShowPerformanceHint" value="Pakazvać infarmacyju ab pradukcyjnaści."/>
+	<entry name="General/ShowSubtitles" value="Pakazvać Subtytry"/>
+	<entry name="General/ShowSubtitlesHint" value="Pakazvać subtytry ŭnizie videa rolikaŭ, jakija pierakładajuć abo transkrybujuć dyjałoh i apovied."/>
+	<entry name="General/ShowTips" value="Pakazvać Padkazki"/>
+	<entry name="General/ShowTipsHint" value="Pakazvać karysnyja padkazki ŭ hulni."/>
+	<entry name="Network" value="Sietka"/>
+	<entry name="Network/ListenPort" value="Prasłuchoŭvać Port"/>
+	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/RemoteAddress" value="Dystancyjny Adras"/>
+	<entry name="Network/RemotePort" value="Dystancyjny Port"/>
+	<entry name="Video" value="Videa"/>
+	<entry name="Video/AnisotropicFiltering" value="Anizatropnaja Filtracyja"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="Jarkaść"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="Cieni Vobłakaŭ"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="Kantrast"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="Huščynia Tumanu"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="Hłybinia Rezkaści"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/Device" value="Pryłada"/>
+	<entry name="Video/DeviceHint" value=""/>
+	<entry name="Video/DisplayMode" value="Režym Adlustravańnia"/>
+	<entry name="Video/DisplayMode0" value="Poŭnaekranny"/>
+	<entry name="Video/DisplayMode1" value="Akonny"/>
+	<entry name="Video/DisplayMode2" value="Akonny biaz Ramak"/>
+	<entry name="Video/DisplayModeHint" value="Dazvalaje źmianić režym adlustravańnia hulni. Akonnyja režymy mohuć vyklikać źnižeńnie pradukcyjnaści.<br/><br/><style color='GUI/Yellow'/>Akonny režym najlepiej padychodzić dla zapisu ŭ rodnaj razroznaści."/>
+	<entry name="Video/FixedTimeOfDay" value="Fiksavany Čas Sutak"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="Fiksavany Čas Sutak u"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="Zhładžvańnie"/>
+	<entry name="Video/FXAAHint" value="Źmienšvaje niaroŭnaści šlacham zhładžvańnia krajoŭ z dapamohaj FXAA. Moža panizić pradukcyjnaść. Zaležyć ad vyličalnaj mahutnaści vašaj videakarty."/>
+	<entry name="Video/Gamma" value="Hama"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/GUIScale" value="Maštab HKI"/>
+	<entry name="Video/GUIScaleCustom" value="Ułasny: %1%%%"/>
+	<entry name="Video/GUIScaleHint" value="Maštabuje hrafičny karystacki interfiejs."/>
+	<entry name="Video/MaxFocusedTickrate" value="Maks Fakusavany FPS"/>
+	<entry name="Video/MaxFocusedTickrateHint" value=""/>
+	<entry name="Video/MaxMinimizedTickrate" value="Maks Minimalny FPS"/>
+	<entry name="Video/MaxMinimizedTickrateHint" value=""/>
+	<entry name="Video/MaxUnfocusedTickrate" value="Maks Niesfakusavany FPS"/>
+	<entry name="Video/MaxUnfocusedTickrateHint" value=""/>
+	<entry name="Video/Monitor" value="Manitor"/>
+	<entry name="Video/MonitorHint" value=""/>
+	<entry name="Video/MultiThreadedRendering" value="Šmatpatočny Rendarynh"/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Vykarystoŭvaje niekalki jadzier CP dla rendarynhu. Heta moža pavialičyć pradukcyjnaść. Adklučeńnie hetaha paramietra moža vydalić patencyjnyja vizualnyja artefakty."/>
+	<entry name="Video/Resolution" value="Razroznaść"/>
+	<entry name="Video/ResolutionHint" value="Dazvalaje źmianić razroznaść ekrana hulni. Bolš vysokaja razroznaść pryviadzie da pavyšeńnia vyraznaści, ale mocna paŭpłyvaje na pradukcyjnaść."/>
+	<entry name="Video/ShadowQuality" value="Jakaść Cieniaŭ"/>
+	<entry name="Video/ShadowQuality0" value="Nizkaja"/>
+	<entry name="Video/ShadowQuality1" value="Siaredniaja"/>
+	<entry name="Video/ShadowQuality2" value="Vysokaja"/>
+	<entry name="Video/ShadowQualityHint" value="Vyznačaje pamier karty cieniaŭ, što vykarystoŭvajecca dla rendarynhu. Bolš vysokaja jakaść cieniaŭ pryviadzie da bolš detalovych cieniaŭ, ale dla hetaha spatrebicca mahutniejšaja videakarta."/>
+	<entry name="Video/ShowCliffHighlights" value="Pakazvać Padśvietku Viaršyń"/>
+	<entry name="Video/ShowCliffHighlightsHint" value="Pakazvaje linii, jakija padśviatlajuć viaršyni."/>
+	<entry name="Video/ShowGrid" value="Pakazać Sietku"/>
+	<entry name="Video/ShowGridHint" value="Pakazać sietku na ziamli."/>
+	<entry name="Video/TextureQuality" value="Jakaść Tekstur"/>
+	<entry name="Video/TextureQuality0" value="Nizkaja"/>
+	<entry name="Video/TextureQuality1" value="Siaredniaja"/>
+	<entry name="Video/TextureQuality2" value="Vysokaja"/>
+	<entry name="Video/TextureQualityHint" value="Vyznačaje pamier tekstur, jakija vykarystoŭvajucca ŭ hulni. Bolš vysokaja jakaść tekstur pryviadzie da bolš detalizavanaha łandšaftu i adzinak, ale dla hetaha spatrebicca bolej videapamiaci (VRAM).<br/><br/>Nizkaja: 1 Hb<br/>Siaredniaja: 2 Hb<br/>Vysokaja: 3 Hb"/>
+	<entry name="Video/VerticalSynchronization" value="Viertykalnaja Sinchranizacyja"/>
+	<entry name="Video/VerticalSynchronization-1" value="Adaptyŭnaja"/> <!-- TODO: Hints -->
+	<entry name="Video/VerticalSynchronization0" value="Nijakaja"/>
+	<entry name="Video/VerticalSynchronization1" value="Zvyčajnaja"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Sinchranizuje čaściniu kadraŭ kamputara z čaščynioj abnaŭleńnia manitora."/>
+	<entry name="World" value="Śviet"/>
+</language>

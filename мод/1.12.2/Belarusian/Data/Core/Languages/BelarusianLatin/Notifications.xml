@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="CityGrownSummary" value="Nasielnictva %1% dasiahnuła %2%."/>
+	<entry name="FactionDefeated" value="Frakcyja Pieramožana"/>
+	<entry name="FactionDiscovered" value="Znojdziena Frakcyja"/>
+	<entry name="FactionDiscoveredSummary" value="%1% znojdziena."/>
+	<entry name="FeatureExploredSummary" value="%1% zabiaśpiečvaje %2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="%1% znojdziena."/>
+	<entry name="LordOfSkullsAppearedSummary" value="%1% z'javiŭsia."/>
+	<entry name="LordOfSkullsDisappearedSummary" value="%1% źnik."/>
+	<entry name="PlayerLost" value="Paraza!"/>
+	<entry name="PlayerLostSummary" value="%1% · %2% %3% prajhrali!"/>
+	<entry name="PlayerWon" value="Pieramoha!"/>
+	<entry name="PlayerWonSummary" value="%1% · %2% %3% pieramahli!"/>
+	<entry name="PlayerWonElimination" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonEliminationSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
+	<entry name="PlayerWonQuest" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonQuestSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
+	<entry name="ProductionCompletedSummary" value="%1% vyrabiŭ %2%."/>
+	<entry name="QuestAdded" value="Kvest Dadany"/>
+	<entry name="QuestCompleted" value="Kvest Zavieršany"/>
+	<entry name="QuestUpdated" value="Kvest Abnoŭleny"/>
+	<entry name="RegionDiscoveredSummary" value="%1% znojdzieny."/>
+	<entry name="ResearchCompleted" value="Daśledavańnie Zavieršana"/>
+	<entry name="TileAcquiredSummary" value="%1% nabyta plitka."/>
+	<entry name="TileCapturedSummary" value="%1% zachoplena %2%."/>
+	<entry name="TileClearedSummary" value="%1% ačyščana %2%."/>
+	<entry name="UnitAttackedSummary" value="%1% atakavaŭ<br/>%2%."/>
+	<entry name="UnitCapturedSummary" value="%1% atakavała<br/>%2%."/>
+	<entry name="UnitKilledSummary" value="%1% zachapiła<br/>%2%."/>
+	<entry name="UnitGainedTraitSummary" value="%1% atrymała %2%."/>
+	<entry name="UnitTransformedSummary" value="%1% pieratvaryłasia ŭ %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="%1% znojdziena."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% vykarystana %2% na %3%."/>
+</language>
