@@ -841,7 +841,7 @@
 	<entry name="Tau/BreakComposureDescription" value="Гэтая адзінка і суседняя хаўрусная пяхота зьніжае мараль адзінак, якія яе атакуюць."/>
 	<entry name="Tau/BreakComposureFlavor" value="Though not physically impressive, the T’au can inculcate fear in their enemies through subtler means—by harrying them so that they can’t focus, by surrounding them, by forcing them down tactical paths that only lead to repeated failure. Sometimes you don’t need to even touch an enemy to defeat them."/>
 	<entry name="Tau/CalmOfTides" value="Штыль"/>
-	<entry name="Tau/CalmOfTidesDescription" value="Аднаўляе здароўе Эфірнага, суседняй пяхоты Т'аў і жахлівых стварэньняў."/>
+	<entry name="Tau/CalmOfTidesDescription" value="Аднаўляе здароўе Этэрнага, суседняй пяхоты Т'аў і жахлівых стварэньняў."/>
 	<entry name="Tau/CalmOfTidesFlavor" value="“Wait a moment. Breathe. Do not hurry to their salvation. All will come to the T’au eventually. Alive or dead.”<br/>  — Aun’Dak’E, Curator of Spirit"/>
 	<entry name="Tau/ConvertWildlife" value="Перавабіць у Аўксіліярыі"/>
 	<entry name="Tau/ConvertWildlifeDescription" value="Пераваблівае на вашы бок адзінку Круцкіх Гончых або Весьпідаў Джалакрылаў. Заняволеныя адзінкі ня могуць быць пераваблены. Кошт залежыць ад сілы цэлі."/>
@@ -854,7 +854,7 @@
 	<entry name="Tau/DroneController" value="Усталяваць <string name='Traits/Tau/DroneController'/>"/>
 	<entry name="Tau/DroneControllerDescription" value="Усталёўвае сістэму падтрымкі, якая павялічвае трапнасьць суседніх дронаў."/>
 	<entry name="Tau/DroneControllerFlavor" value="A Drone controller acts as an interface between a Fire caste operator and the AI battle programs of nearby drones."/>
-	<entry name="Tau/ForTheGreaterGood" value="У Імя Найвысокага Дабрата"/>
+	<entry name="Tau/ForTheGreaterGood" value="У Імя Найвысокага Дабрабыту"/>
 	<entry name="Tau/ForTheGreaterGoodDescription" value="Зьніжае мараль абранага ворага. Кошт залежыць ад сілы цэлі."/>
 	<entry name="Tau/ForTheGreaterGoodFlavor" value="“There are two kinds of conduct the Ethereals will not countenance. The first is a failure to reflect upon what is for the Greater Good of the T'au race. The second is the deliberate refusal to follow the path of the Greater Good when it is clear what it must be.”<br/>  — Por'ui Dal'yth Ukos, water caste envoy"/>
 	<entry name="Tau/GravityWaveProjector" value="Праектар Гравітацыйных Хваляў"/>
@@ -915,7 +915,7 @@
 	<entry name="Tau/ProjectShieldDescription" value="Павялічвае зьніжэньне шкоды па абранай хаўруснай адзінцы."/>
 	<entry name="Tau/ProjectShieldFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SenseOfStone" value="Пачуцьцё Каменя"/>
-	<entry name="Tau/SenseOfStoneDescription" value="Павялічвае зьніжэньне шкоды па Эфірным, суседняй пяхоце Т'ау і жахлівым стварэньням. Агульны час перазарадкі з агнявым штормам."/>
+	<entry name="Tau/SenseOfStoneDescription" value="Павялічвае зьніжэньне шкоды па Этэрным, суседняй пяхоце Т'ау і жахлівым стварэньням. Агульны час перазарадкі з агнявым штормам."/>
 	<entry name="Tau/SenseOfStoneFlavor" value="“There are only four thoughts the Fire Caste must know. Knowing when to hide. Knowing when to defend. Knowing when to mislead. And knowing when to strike. Ask nothing more.”<br/>  — Aun’Dak’E, Curator of Spirit"/>
 	<entry name="Tau/ShieldGenerator" value="Усталяваць <string name='Traits/Tau/ShieldGenerator'/>"/>
 	<entry name="Tau/ShieldGeneratorDescription" value="Усталёўвае сістэму падтрымкі, якая павялічвае зьніжэньне шкоды."/>
@@ -927,7 +927,7 @@
 	<entry name="Tau/StimulantInjectorDescription" value="Усталёўвае сістэму падтрымкі, якая павялічвае зьніжэньне шкоды."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="The battlesuit is fitted with an advanced life-support system that is able to flood the warrior's system with analgesic drugs and life-sustaining stimulants should he become wounded."/>
 	<entry name="Tau/StormOfFire" value="Агнявы Шторм"/>
-	<entry name="Tau/StormOfFireDescription" value="Павялічвае атакі Эфірнага, суседняй пяхоты Т'ау і жахлівых стварэньняў. Мае агульны час перазарадкі з Пачуцьцём Каменя."/>
+	<entry name="Tau/StormOfFireDescription" value="Павялічвае атакі Этэрнага, суседняй пяхоты Т'ау і жахлівых стварэньняў. Мае агульны час перазарадкі з Пачуцьцём Каменя."/>
 	<entry name="Tau/StormOfFireFlavor" value="“It burns so briefly, the light of my children, so briefly. But, by the Greater Good, it burns so bright!”<br/>  — Aun’Va, Master of the Undying Spirit"/>
 	<entry name="Tau/SubvertCity" value="Зрынаньне Горада"/>
 	<entry name="Tau/SubvertCityDescription" value="Зьніжае лаяльнасьць абранага варожага горада. Кошт маштабуецца з улікам насельніцтва."/>

@@ -709,7 +709,7 @@
 	<entry name="Tau/EtherealDescription" value="<string name='Units/Tau/EtherealDescription'/>"/>
 	<entry name="Tau/EtherealFlavor" value="<string name='Units/Tau/EtherealFlavor'/>"/>
 	<entry name="Tau/GunDrone" value="<string name='Units/Tau/GunDrone'/>"/>
-	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Касьцюмам - XV8 Крызіс, Баявым Касьцюмам XV25 -  Невідзімка, Баявым Касьцюмам XV88 - Залп, Кадрам - Агнявым Клінкам, Эфірным ды Камандзірам здольнасьць выкарыстоўваць ня сталых асноўных баявых дронаў."/>
+	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Касьцюмам - XV8 Крызіс, Баявым Касьцюмам XV25 -  Невідзімка, Баявым Касьцюмам XV88 - Залп, Кадрам - Агнявым Клінкам, Этэрным ды Камандзірам здольнасьць выкарыстоўваць ня сталых асноўных баявых дронаў."/>
 	<entry name="Tau/GunDroneFlavor" value="<string name='Units/Tau/GunDroneFlavor'/>"/>
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
@@ -718,7 +718,7 @@
 	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
 	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
 	<entry name="Tau/MarkerDrone" value="<string name='Units/Tau/MarkerDrone'/>"/>
-	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Касьцюмам XV8 - Крызіс, Баявым Касьцюмам XV25 - Невідзімка, Баявым Касьцюмам XV88 - Залп, Кадрам - Агнявым Клінкам, Эфірным ды Камандзірам здольнасьць выкарыстоўваць ня сталых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
+	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Касьцюмам XV8 - Крызіс, Баявым Касьцюмам XV25 - Невідзімка, Баявым Касьцюмам XV88 - Залп, Кадрам - Агнявым Клінкам, Этэрным ды Камандзірам здольнасьць выкарыстоўваць ня сталых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
 	<entry name="Tau/MarkerDroneFlavor" value="<string name='Units/Tau/MarkerDroneFlavor'/>"/>
 	<entry name="Tau/Pathfinder" value="<string name='Units/Tau/Pathfinder'/>"/>
 	<entry name="Tau/PathfinderDescription" value="<string name='Units/Tau/PathfinderDescription'/>"/>
@@ -730,7 +730,7 @@
 	<entry name="Tau/RVarnaBattlesuitDescription" value="<string name='Units/Tau/RVarnaBattlesuitDescription'/>"/>
 	<entry name="Tau/RVarnaBattlesuitFlavor" value="<string name='Units/Tau/RVarnaBattlesuitFlavor'/>"/>
 	<entry name="Tau/ShieldDrone" value="<string name='Units/Tau/ShieldDrone'/>"/>
-	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Касьцюмам XV8 - Крызіс, Баявым Касьцюмам XV25 - Невідзімка, Баявым Касьцюмам XV88 - Залп, Кадрам - Агнявым Клінкам, Эфірным ды Камандзірам здольнасьць выкарыстоўваць ня сталыя дроны, якія бароняць хаўрусьнікаў."/>
+	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Касьцюмам XV8 - Крызіс, Баявым Касьцюмам XV25 - Невідзімка, Баявым Касьцюмам XV88 - Залп, Кадрам - Агнявым Клінкам, Этэрным ды Камандзірам здольнасьць выкарыстоўваць ня сталыя дроны, якія бароняць хаўрусьнікаў."/>
 	<entry name="Tau/ShieldDroneFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SkyRayGunship" value="<string name='Units/Tau/SkyRayGunship'/>"/>
 	<entry name="Tau/SkyRayGunshipDescription" value="<string name='Units/Tau/SkyRayGunshipDescription'/>"/>
@@ -1725,7 +1725,7 @@
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Дае аднаўленьне здароўя машынам кожны крок."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="<string name='Traits/Tau/AutomatedRepairSystemFlavor'/>"/>
 	<entry name="Tau/BlacksunFilter" value="<string name='Traits/Tau/BlacksunFilter'/>"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае агляд машынаў, Сьледапытаў, Эфірных, Камандзіраў і Баявых Касьцюмаў."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае агляд машынаў, Сьледапытаў, Этэрных, Камандзіраў і Баявых Касьцюмаў."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="<string name='Traits/Tau/BlacksunFilterFlavor'/>"/>
 	<entry name="Tau/BlastDamage" value="<string name='Traits/Tau/BlastDamage'/>"/>
 	<entry name="Tau/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць агнявой і ракетнай зброі."/>
@@ -1764,7 +1764,7 @@
 	<entry name="Tau/FlechetteDischargerDescription" value="Дае тэхніцы здольнасьць наносіць шкоду атакоўцам блізкага бою."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
 	<entry name="Tau/ForTheGreaterGoodBonus" value="Амбасаспоры Чарпактін"/>
-	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Зьменшвае кошт уплыву ў Імя Найвысокага Дабрата."/>
+	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Зьменшвае кошт уплыву Ў Імя Найвысокага Дабрабыту."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="Tau/HammerOfWrathDescription" value="Дае Баявым Касьцюмам - XV95 Прывідны Карабель, Баявым Касьцюмам XV104 - Рэжучы Струмень, KV128 - Штармавая Хваля здольнасьць зьдяйсьняць больш разбуральныя атакі."/>
