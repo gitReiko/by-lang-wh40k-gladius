@@ -709,7 +709,7 @@
 	<entry name="Tau/EtherealDescription" value="<string name='Units/Tau/EtherealDescription'/>"/>
 	<entry name="Tau/EtherealFlavor" value="<string name='Units/Tau/EtherealFlavor'/>"/>
 	<entry name="Tau/GunDrone" value="<string name='Units/Tau/GunDrone'/>"/>
-	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам - XV8 Крызіс, Баявым Гарнітурам XV25 -  Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадрам - Агнявым Клінкам, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых асноўных баявых дронаў."/>
+	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам - XV8 Крызіс, Баявым Гарнітурам XV25 -  Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадру - Агнявому Клінку, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых асноўных баявых дронаў."/>
 	<entry name="Tau/GunDroneFlavor" value="<string name='Units/Tau/GunDroneFlavor'/>"/>
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
@@ -718,7 +718,7 @@
 	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
 	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
 	<entry name="Tau/MarkerDrone" value="<string name='Units/Tau/MarkerDrone'/>"/>
-	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам XV8 - Крызіс, Баявым Гарнітурам XV25 - Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадрам - Агнявым Клінкам, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
+	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам XV8 - Крызіс, Баявым Гарнітурам XV25 - Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадру - Агнявому Клінку, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
 	<entry name="Tau/MarkerDroneFlavor" value="<string name='Units/Tau/MarkerDroneFlavor'/>"/>
 	<entry name="Tau/Pathfinder" value="<string name='Units/Tau/Pathfinder'/>"/>
 	<entry name="Tau/PathfinderDescription" value="<string name='Units/Tau/PathfinderDescription'/>"/>
@@ -730,7 +730,7 @@
 	<entry name="Tau/RVarnaBattlesuitDescription" value="<string name='Units/Tau/RVarnaBattlesuitDescription'/>"/>
 	<entry name="Tau/RVarnaBattlesuitFlavor" value="<string name='Units/Tau/RVarnaBattlesuitFlavor'/>"/>
 	<entry name="Tau/ShieldDrone" value="<string name='Units/Tau/ShieldDrone'/>"/>
-	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам XV8 - Крызіс, Баявым Гарнітурам XV25 - Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадрам - Агнявым Клінкам, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталыя дроны, якія бароняць хаўрусьнікаў."/>
+	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам XV8 - Крызіс, Баявым Гарнітурам XV25 - Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадру - Агнявому Клінку, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталыя дроны, якія бароняць хаўрусьнікаў."/>
 	<entry name="Tau/ShieldDroneFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SkyRayGunship" value="<string name='Units/Tau/SkyRayGunship'/>"/>
 	<entry name="Tau/SkyRayGunshipDescription" value="<string name='Units/Tau/SkyRayGunshipDescription'/>"/>
@@ -822,7 +822,7 @@
 	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Зьмяншае час перазарадкі павышэньня магутнасьці."/>
 	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="“And when at last he came upon the vehicle, he perceived the distress of the engine therein and forthwith struck the rune and it was good. Thereupon the engine ignited and was filled with strength…“<br/>—Lord of the Engines, 16th Tome, Verse 2001"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTether'/>"/>
-	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Дае Жалезным Балістарыўсам-Вандроўнікам, Скорпіўсам - Дзюнавым Наезьнікам, Анаграм Дзюнаходам і Скорпіўсам-Дэзынтэгратарам здольнасьць зьмяншаць страты маралі суседнім адзінкам Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Дае Жалезным Крокаходам · Балістарыус, Скорпіўсам · Дзюнавы Наезьнік, Анаграм · Дзюнаход і Скорпіўсам · Дэзынтэгратар здольнасьць зьмяншаць страты маралі суседнім адзінкам Адэптус Механікус."/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTetherFlavor'/>"/>
 	<entry name="AdeptusMechanicus/BulwarkImperative" value="<string name='Actions/AdeptusMechanicus/BulwarkImperative'/>"/>
 	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="<string name='Actions/AdeptusMechanicus/BulwarkImperativeDescription'/>"/>
@@ -837,16 +837,16 @@
 	<entry name="AdeptusMechanicus/CityTier3Description" value="<string name='Traits/AdeptusMechanicus/CityTier3Description'/>"/>
 	<entry name="AdeptusMechanicus/CityTier3Flavor" value="<string name='Traits/AdeptusMechanicus/CityTier3Flavor'/>"/>
 	<entry name="AdeptusMechanicus/CognisHeavyStubber" value="<string name='Weapons/CognisHeavyStubber'/>"/>
-	<entry name="AdeptusMechanicus/CognisHeavyStubberDescription" value="Дае Анаграм Дзюнаходам цяжкі когніс стаббер."/>
+	<entry name="AdeptusMechanicus/CognisHeavyStubberDescription" value="Дае Анаграм · Дзюнаход цяжкі когніс стаббер."/>
 	<entry name="AdeptusMechanicus/CognisHeavyStubberFlavor" value="<string name='Weapons/CognisHeavyStubberFlavor'/>"/>
 	<entry name="AdeptusMechanicus/CommandUplink" value="<string name='Traits/AdeptusMechanicus/CommandUplink'/>"/>
-	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Дае Археоптарам-Трансьвектарам і Археоптарам-Стратараптарам здольнасьць зьмяншаць страты маралі суседнім адзінкам Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Дае Археоптарам-Трансьвектарам і Археоптарам-Стратораптарам здольнасьць зьмяншаць страты маралі суседнім адзінкам Адэптус Механікус."/>
 	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="<string name='Traits/AdeptusMechanicus/CommandUplinkFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperative" value="<string name='Actions/AdeptusMechanicus/ConquerorImperative'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="<string name='Actions/AdeptusMechanicus/ConquerorImperativeDescription'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/ConquerorImperativeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/EnhancedDataTether" value="<string name='Traits/AdeptusMechanicus/EnhancedDataTether'/>"/>
-	<entry name="AdeptusMechanicus/EnhancedDataTetherDescription" value="Павялічвае мараль Скітарыям-Авангарда і Скітарыям-Рэйнджарам."/>
+	<entry name="AdeptusMechanicus/EnhancedDataTetherDescription" value="Павялічвае мараль Скітарыям-Авангардам і Скітарыям-Рэйнджарам."/>
 	<entry name="AdeptusMechanicus/EnhancedDataTetherFlavor" value="<string name='Traits/AdeptusMechanicus/EnhancedDataTetherFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ExtraInfantryArmour" value="Пратаколы Граяна"/>
 	<entry name="AdeptusMechanicus/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
@@ -858,7 +858,7 @@
 	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Павялічвае вытворчасьць уплыву будынка за кожны будынак на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="<string name='Traits/AdeptusMechanicus/FidorumVossPrimeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="AdeptusMechanicus/HammerOfWrathDescription" value="Дае жалезным Балістарыўсам-Вандроўнікам, Фульгурытавым Электрасьвятарам, Анаграм Дзюнаходам, Стэрылізатарам-Птэраксіям і Рыцарам-Крыжакам здольнасьць выконваць больш разбуральныя атакі."/>
+	<entry name="AdeptusMechanicus/HammerOfWrathDescription" value="Дае Жалезным Крокаходам · Балістарыус, Фульгурытавым Электражрацам, Анаграм · Дзюнаход, Стэрылізатарам-Птэраксіям і Рыцарам · Крыжак здольнасьць выконваць больш разбуральныя атакі."/>
 	<entry name="AdeptusMechanicus/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonus" value="<string name='Traits/AdeptusMechanicus/HeavyWeaponBonus'/>"/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць цяжкай зброі."/>
@@ -882,7 +882,7 @@
 	<entry name="AdeptusMechanicus/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="AdeptusMechanicus/MeleeWeaponBonusFlavor" value="<string name='Traits/AdeptusMechanicus/MeleeWeaponBonusFlavor'/>"/>
 	<entry name="AdeptusMechanicus/Omnispex" value="<string name='Traits/AdeptusMechanicus/Omnispex'/>"/>
-	<entry name="AdeptusMechanicus/OmnispexDescription" value="Дазваляе Скітарыям-Авангарду і Скітарыям-Рэйнджарам ігнараваць зьніжэньне шкоды ў далёкім боі."/>
+	<entry name="AdeptusMechanicus/OmnispexDescription" value="Дазваляе Скітарыям-Авангардам і Скітарыям-Рэйнджарам ігнараваць зьніжэньне шкоды ў далёкім боі."/>
 	<entry name="AdeptusMechanicus/OmnispexFlavor" value="<string name='Traits/AdeptusMechanicus/OmnispexFlavor'/>"/>
 	<entry name="AdeptusMechanicus/OptateRestrictions" value="<string name='Traits/AdeptusMechanicus/OptateRestrictions'/>"/>
 	<entry name="AdeptusMechanicus/OptateRestrictionsDescription" value="Павялічвае ліміт насельніцтва Хаб Фэйнаў."/>
@@ -915,16 +915,16 @@
 	<entry name="AdeptusMechanicus/TriplexNecessityDescription" value="Павялічвае вытворчасьць руды будынка за кожны будынак на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/TriplexNecessityFlavor" value="<string name='Traits/AdeptusMechanicus/TriplexNecessityFlavor'/>"/>
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannon" value="<string name='Weapons/TwinLinkedIcarusAutocannon'/>"/>
-	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonDescription" value="Дае Рыцарам-Крыжакам здвоеную аўтагармату ікарус."/>
+	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonDescription" value="Дае Рыцарам · Крыжак здвоеную аўтагармату ікарус."/>
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/TwinLinkedIcarusAutocannonFlavor'/>"/>
 	<entry name="AdeptusMechanicus/VoicesInTheCode" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCode'/>"/>
-	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Павялічвае страты маралі варожых адзінак суседніх да Сікарыйскіх Лазутчыкаў."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Павялічвае страты маралі варожых адзінак суседніх да Сікарыйскіх Інфільтратараў."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptance" value="Прыняцьце Ксенарыта"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Павялічвае фіксаваную колькасьць дасьледаваньняў, што атрымліваюцца ад Руінаў Ваула."/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="It seems the Xenarite Tech-Priests from Stygies VIII are having their way on Gladius Prime too—setting up observation units and drones at every Outpost to understand the Xenos better. The practical applications in terms of research are immediately obvious…"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Дадатковыя Цяжкія Болтары"/>
-	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дае дадатковыя цяжкія болтары Гібельным Клінкам, Баявым Танкам - Леман Рус, Баявым Танкам Рогала Дорна і Валькірыям."/>
+	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дае дадатковыя цяжкія болтары Гібельным Клінкам, Баявым Танкам · Леман Русс, Баявым Танкам · Рогал Дорн і Валькірыям."/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
 	<entry name="AstraMilitarum/AwakenTheMachine" value="<string name='Actions/AwakenTheMachine'/>"/>
 	<entry name="AstraMilitarum/AwakenTheMachineDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць павялічваць шкоду машынаў."/>
@@ -945,7 +945,7 @@
 	<entry name="AstraMilitarum/CamoNettingDescription" value="Зьніжае шкоду ад далёкіх атак наземных машынаў."/>
 	<entry name="AstraMilitarum/CamoNettingFlavor" value="<string name='Traits/CamoNettingFlavor'/>"/>
 	<entry name="AstraMilitarum/ChaffLauncher" value="Пускавая Ўсталёўка Падманак"/>
-	<entry name="AstraMilitarum/ChaffLauncherDescription" value="Дае Ударам Грому і Бамбавікам Марадзёр здольнасьць запускаць падманкі, якія зьніжаюць шкоду ад далёкіх атак."/>
+	<entry name="AstraMilitarum/ChaffLauncherDescription" value="Дае Ударам Грому і Бамбавікам · Марадзёр здольнасьць запускаць падманкі, якія зьніжаюць шкоду ад далёкіх атак."/>
 	<entry name="AstraMilitarum/ChaffLauncherFlavor" value="<string name='Actions/DispenseChaffFlavor'/>"/>
 	<entry name="AstraMilitarum/CityTier2" value="<string name='Traits/AstraMilitarum/CityTier2'/>"/>
 	<entry name="AstraMilitarum/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
@@ -966,7 +966,7 @@
 	<entry name="AstraMilitarum/FragGrenadeDescription" value="Дае Быкрынам, Гвардзейцам, Цяжкаўзброенаму Разьліку, Лорду-Камісару, Прымарыс-Псайкеру, Тэхнажрэцам-Машынабачцам і Нашчадкам Тэмпестус здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="AstraMilitarum/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="AstraMilitarum/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Дае Выведнікам-Вартавым ды Быкрынам здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
+	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Дае Выведніку · Вартавы і Быкрынам здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="AstraMilitarum/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="AstraMilitarum/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="AstraMilitarum/HunterKillerMissileDescription" value="Дае наземным машынам здольнасьць страляць ракетамі паляўнічы-забойца."/>
@@ -1002,7 +1002,7 @@
 	<entry name="AstraMilitarum/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
 	<entry name="AstraMilitarum/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="AstraMilitarum/TrainedSentinelPilots" value="<string name='Traits/TrainedSentinelPilots'/>"/>
-	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Павялічвае шкоду Выведнікаў Вартавых."/>
+	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Павялічвае шкоду Выведніка · Вартавы."/>
 	<entry name="AstraMilitarum/TrainedSentinelPilotsFlavor" value="<string name='Traits/TrainedSentinelPilotsFlavor'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGenerator" value="<string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць будаваць генератары шчытоў, якія зьніжаюць шкоду ад далёкіх атак адзінкам у радыусе дзеяньня."/>
@@ -1773,7 +1773,7 @@
 	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасьць фузійнай, іённай, плазмавай і імпульснай зброі."/>
 	<entry name="Tau/LasDamageFlavor" value="<string name='Traits/Tau/LasDamageFlavor'/>"/>
 	<entry name="Tau/PhotonGrenade" value="<string name='Weapons/PhotonGrenade'/>"/>
-	<entry name="Tau/PhotonGrenadeDescription" value="Дае Ваярам Агню, Сьледапытам і Кадрам - Агнявым Клінкам здольнасьць кідаць асьляпляльныя гранаты."/>
+	<entry name="Tau/PhotonGrenadeDescription" value="Дае Ваярам Агню, Сьледапытам і Кадру - Агнявому Клінку здольнасьць кідаць асьляпляльныя гранаты."/>
 	<entry name="Tau/PhotonGrenadeFlavor" value="<string name='Weapons/PhotonGrenadeFlavor'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelay" value="<string name='Traits/Tau/PointDefenceTargetingRelay'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду машынаў падчас назіраньня за варожымі адзінкамі, калі яны суседнія зь іншымі сяброўскімі адзінкам."/>

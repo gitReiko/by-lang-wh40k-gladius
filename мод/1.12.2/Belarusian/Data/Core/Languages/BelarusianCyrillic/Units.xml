@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector" value="Археоптар-Трансьвектар"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvectorDescription" value="Транспартавая авіяцыя Дактрына Імператыў."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvectorDescription" value="Авіятранспарт Дактрыны Імператыў."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvectorFlavor" value="Ideal aerial insertion transports, Transvectors are used in vast numbers by Explorator fleets for reconnaissance and rapid extraction in the face of hostiles. They are incredibly agile, their implanted pilots able to reshape the wings to suit changing atmospherics, while directing their cognis heavy stubbers to scythe apart oncoming foes."/>
-	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="Археоптар-Стратараптар"/>
-	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorDescription" value="Баявая авіяцыя Дактрына Імператыў."/>
+	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="Археоптар-Стратораптар"/>
+	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorDescription" value="Баявая авіяцыя Дактрыны Імператыў."/>
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorFlavor" value="The Stratoraptor takes advantage of the Archaeopter’s directional thrusters and adaptable wing profile to excel in the role of ground attack gunship. Its spread of heavy weapons – with a mixture of high strength and high rate of fire – ensures the Stratoraptor poses a lethal danger to dug-in infantry and heavily armoured vehicles alike."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith" value="Каваль Дадзеных Кібернэтыка"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmithDescription" value="Пяхота Сьпеваў Амнісіі, якая рамантуе адзінкі Адэптус Механікус, перапраграмуе Робатаў Касьцелянаў, ачышчае пліткі і будуе новыя гарады."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmithFlavor" value="Datasmiths optimise the programming of their robotic charges. These Tech-Priests employ rituals and binharic hymns to bless the doctrina wafers through which they alter the robots’ protocols, all the while laying waste to the enemies of the Omnissiah with blasts of ionizing radiation from their gamma pistols."/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest" value="Фульгурытавы Электрасьвятар"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest" value="Фульгурытавы Электражрэц"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestDescription" value="Пяхота блізкага бою Сьпеваў Амнісіі, якая павялічвае зьніжэньне шкоды, забіваючы адзінкі."/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestFlavor" value="Fulgurite Electro-Priests crackle with the life energies of those they have personally slain. Their quest is to locate the Motive Force that animates all things, rip it from the bodies of the unworthy in the heat of battle, and hoard it on behalf of the Machine God. To do so they use electroleech staves – eldritch weapons that suck the bioelectricity from living creatures, drawing it out in one great draught and harnessing it within their core capacitors. Once stolen, that sacred energy can be used to power the holy instead of the heretical, crackling around them in such measure it can even burn away incoming projectiles."/>
 	<entry name="AdeptusMechanicus/Headquarters" value="<string name='Buildings/AdeptusMechanicus/Headquarters'/>"/>
 	<entry name="AdeptusMechanicus/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
 	<entry name="AdeptusMechanicus/HeadquartersFlavor" value="<string name='Buildings/AdeptusMechanicus/HeadquartersFlavor'/>"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius" value="Жалезны Балістарыўс-Вандроўнік"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistariusDescription" value="Хуткі крокаход Дактрына Імператыў."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius" value="Жалезны Крокаход · Балістарыус"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistariusDescription" value="Хуткі крокаход Дактрыны Імператыў."/>
 	<entry name="AdeptusMechanicus/IronstriderBallistariusFlavor" value="Ironstrider Ballistarii are peerless marksmen. Stalking at the fringes of each Skitarii maniple, the Ballistarii hunt down enemy commanders and spiritual leaders, knowing that to slay such individuals is an efficient way to degrade the enemy’s operative capabilities. Equally capable of disabling the war engines of the enemy, these unmatched riflemen will trample down those who block their passage until they have the perfect vantage point for their shot."/>
 	<entry name="AdeptusMechanicus/KataphronBreacher" value="Катафроны-Прабівальнікі"/>
-	<entry name="AdeptusMechanicus/KataphronBreacherDescription" value="Пяхота Сьпеваў Амнісіі з магутнай супраць машыннай зброяй."/>
+	<entry name="AdeptusMechanicus/KataphronBreacherDescription" value="Пяхота Сьпеваў Амнісіі з магутнай супрацьмашыннай зброяй."/>
 	<entry name="AdeptusMechanicus/KataphronBreacherFlavor" value="Kataphron Breachers are battle servitors many times the size and power of those used by the rest of the Imperium. Utterly deadly at close quarters, they are not born so much as constructed, their every enhancement geared for maximum lethality. They are easily recognised by their growling motive units, vicious hydraulic pincers and deadly shoulder-mounted cannons. Yet the most vital component of all is within – the soul of a violent man. In battle Kataphron Breachers rumble forward at the command of their Tech-Priest masters, fulfilling the role of living shield and battering ram alike. Originally devised to break apart enemy battle lines and fortifications, they are of great use to those adepts who wish to seize a valuable artefact from the clutches of would-be usurpers."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer" value="Катафроны-Разбуральнікі"/>
 	<entry name="AdeptusMechanicus/KataphronDestroyerDescription" value="Пяхота Сьпеваў Амнісіі з разбуральнай супрацьмашыннай зброяй."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyerFlavor" value="Lobotomised to ensure unswerving faith, Kataphron Destroyers stray not one iota from the path allocated to them – that of holy annihilator. The minds of these servants of the Omnissiah have been filled with thoughts of war alone. Their limbs have been excised and cast aside to make room for arcane weapons that jut like battering rams from their shoulders. These centauroid cyborgs have been fashioned with more than brute force in mind, however, for each is a minor artillery piece in its own right."/>
-	<entry name="AdeptusMechanicus/KnightCrusader" value="Рыцар-Крыжак"/>
+	<entry name="AdeptusMechanicus/KnightCrusader" value="Рыцар · Крыжак"/>
 	<entry name="AdeptusMechanicus/KnightCrusaderDescription" value="Звышцяжкі крокаход з бясконцым наборам сьмяротнай зброі далёкага бою."/>
 	<entry name="AdeptusMechanicus/KnightCrusaderFlavor" value="Finding the optimal firing position, the Knight Crusader locks down its motive actuators in preparation to unleash a punishing salvo. From its avenger gatling cannon it levels a fusillade of heavy shells, sketching deadly patterns across the enemy army’s frontage. Those that are equipped with Icarus autocannons on their shoulders are given an additional duty: to protect their comrades from airborne attack. Swivelling in response to their predictive auto-auguries, the Icarus cannons spit streams of flak fire into the skies to detonate enemy aircraft in distant fireballs. With each section of the battlefield it clears of foes, the Crusader’s steady advance brings new targets under its sights, and it continues to unleash destruction with every stride."/>
-	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="Анагр Дзюнаход"/>
-	<entry name="AdeptusMechanicus/OnagerDunecrawlerDescription" value="Крокаход Дактрына Імператыў, якая факусуецца на зьнішчэньні авіяцыі."/>
+	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="Анагр · Дзюнаход"/>
+	<entry name="AdeptusMechanicus/OnagerDunecrawlerDescription" value="Крокаход Дактрыны Імператыў, які факусуецца на зьнішчэньні авіяцыі."/>
 	<entry name="AdeptusMechanicus/OnagerDunecrawlerFlavor" value="Onager Dunecrawlers decimate the foes of the Skitarii whilst channelling great swathes of battlefield information to their masters high above. Squadrons of these versatile walkers clank to war in long columns that stalk forwards in uncanny unison, clambering over shattered ruins and wading through toxic run-off without breaking stride. The enemies of the Cult Mechanicus have good reason to fear the Dunecrawler, for these ornate monsters are protected by overlapping emanatus force fields, and bear some of the most esoteric and destructive tank-portable weaponry the Tech-Priests can devise."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor" value="Стэрылізатары-Птэраксіі"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizorDescription" value="Пяхота Дактрына Імператыў, якая можа пераскокваць ворагаў і выпальваць іх з хованак."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizorDescription" value="Пяхота Дактрыны Імператыў, якая можа пераскокваць праз ворагаў і выпальваць іх з хованак."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizorFlavor" value="Sterylizors are eradicators of cybernetic parasite organisms within ships and manufactora, and eagerly unleash the chemical fire of their phosphor torches upon the Machine God’s foes. They descend in flocks from the sky upon membranous wing-packs, their vicious talons primed, eager to see their enemies writhe in flames."/>
 	<entry name="AdeptusMechanicus/SerberysSulphurhound" value="Серныя Цэрберы-Гончыя"/>
-	<entry name="AdeptusMechanicus/SerberysSulphurhoundDescription" value="Пяхота Дактрына Імператыў з агнявой зброяй і аўрай, якая калечыць варожую пяхоту і жахлівых стварэньняў."/>
+	<entry name="AdeptusMechanicus/SerberysSulphurhoundDescription" value="Пяхота Дактрыны Імператыў з агнявой зброяй і аўрай, якая калечыць варожую пяхоту і жахлівых стварэньняў."/>
 	<entry name="AdeptusMechanicus/SerberysSulphurhoundFlavor" value="Sulphurhound cavalry squadrons are aggressive shock troops and line-breakers. The loping, mechanical beasts breathe gouts of incinerating phosphor and disembowel the foe with slashing claws, while the elite Skitarii riders unload incandescent pistol fire as they smash through defence lines, before circling back for survivors."/>
-	<entry name="AdeptusMechanicus/SicarianInfiltrator" value="Сікарыйскія Лазутчыкі"/>
-	<entry name="AdeptusMechanicus/SicarianInfiltratorDescription" value="Пяхота Дактрына Імператыў, якая сьпецыялізуецца на пранікненьні ў тыл ворага."/>
+	<entry name="AdeptusMechanicus/SicarianInfiltrator" value="Сікарыйскія Інфільтратары"/>
+	<entry name="AdeptusMechanicus/SicarianInfiltratorDescription" value="Пяхота Дактрыны Імператыў, якая сьпецыялізуецца на пранікненьні ў варожы тыл."/>
 	<entry name="AdeptusMechanicus/SicarianInfiltratorFlavor" value="Those hunted by Sicarian Infiltrators will find themselves buffeted by the waves of neurostatic these gangle-limbed stalkers broadcast before them. Robbed of their sight, their hearing, even their sense of smell, such victims are easy targets for the compact tools the Infiltrators use in their deadly work. Should the initial salvo from flechette blaster or stubcarbine not prove sufficient, these merciless killers will dart in to finish the job in close assault."/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal" value="Скітарый-Маршал"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshalDescription" value="Герой Дактрына Імператыў, які ўзначальвае Адэптус Механікус у баі."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshalDescription" value="Герой Дактрыны Імператыў, які ўзначальвае Адэптус Механікус у бітве."/>
 	<entry name="AdeptusMechanicus/SkitariiMarshalFlavor" value="Marshals lead the maniples and cohorts of Skitarii soldiery. They are veteran warriors of countless crusades, privileged to bear enhanced augmentations. Marshals stand as intermediaries between Skitarii formations and their priestly masters, employing sacred uplinks to refine their warriors’ doctrines closer to holy perfection."/>
-	<entry name="AdeptusMechanicus/SkitariiRanger" value="Скітарый-Рэйнджар"/>
-	<entry name="AdeptusMechanicus/SkitariiRangerDescription" value="Пяхота Дактрына Імператыў са снайперскай зброяй, якая можа праходзіць праз хованкі."/>
+	<entry name="AdeptusMechanicus/SkitariiRanger" value="Скітарыі-Рэйнджары"/>
+	<entry name="AdeptusMechanicus/SkitariiRangerDescription" value="Пяхота Дактрыны Імператыў са снайперскай зброяй, якая можа праходзіць праз хованкі."/>
 	<entry name="AdeptusMechanicus/SkitariiRangerFlavor" value="Where the Tech-Priests are hunters of knowledge, their Skitarii Rangers are hunters of sentient creatures – the enemies of the Omnissiah in particular. These unstoppable cyborgs do not rest until the bloody deed is done, for they are driven ever onward by the imperative to locate their foes and ensure their destruction. They do this not in Drop Pod strikes launched from above, nor by sudden teleportation into the midst of the enemy, but by stalking their quarry over the course of weeks or even months until it can run no more. Once the designated target is in their crosshairs the air fills with the thump and crackle of galvanic weaponry, even as the Skitarii continue their relentless advance. The stink of electrocuted corpses is never far behind."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard" value="Скітарый-Авангард"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguardDescription" value="Асноўная пяхота Дактрына Імператыў з радыевай зброяй і аўрай, якая калечыць варожую пяхоту і жахлівых стварэньняў."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard" value="Скітарыі-Авангарды"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguardDescription" value="Асноўная пяхота Дактрыны Імператыў з радыевай зброяй і аўрай, якая калечыць варожую пяхоту і жахлівых стварэньняў."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguardFlavor" value="The Vanguard of the Skitarii cohorts are feared throughout the Imperium, for they use the baleful energies of the forge worlds as their weapon. Equipped with pack generators that bleed potent energy by-products, these Omnissian martyrs are so saturated in radiation that even to approach them is to succumb to their peculiar curse. Their baroque carbines fill the air around the foe with harmful emanations, corrupting the atmosphere itself even as they punch hyper-irradiated shot into the flesh of their victims."/>
-	<entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="Скорпіўс-Дэзынтэгратар"/>
-	<entry name="AdeptusMechanicus/SkorpiusDisintegratorDescription" value="Магутны франтавы танк Дактрына Імператыў."/>
+	<entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="Скорпіўс · Дэзынтэгратар"/>
+	<entry name="AdeptusMechanicus/SkorpiusDisintegratorDescription" value="Магутны франтавы танк Дактрыны Імператыў."/>
 	<entry name="AdeptusMechanicus/SkorpiusDisintegratorFlavor" value="Hovering over the ruins of war on a bed of atomised gases, Skorpius Disintegrators are archaic, front-line battle tanks. They surge forward in unstoppable armoured waves and support infantry advances, maintaining blistering salvoes of fire to cripple enemy war engines and sweep aside hordes of lesser foes."/>
-	<entry name="AdeptusMechanicus/SkorpiusDunerider" value="Скорпіўс - Дзюнавы Наезьнік"/>
-	<entry name="AdeptusMechanicus/SkorpiusDuneriderDescription" value="Транспартны сродак Дактрына Імператыў."/>
+	<entry name="AdeptusMechanicus/SkorpiusDunerider" value="Скорпіўс · Дзюнавы Наезьнік"/>
+	<entry name="AdeptusMechanicus/SkorpiusDuneriderDescription" value="Транспарт Дактрыны Імператыў."/>
 	<entry name="AdeptusMechanicus/SkorpiusDuneriderFlavor" value="Skorpius Duneriders enable forge lords to ferry squads of their cyborg infantry onto the front lines, overwhelming the foe through swiftly redeployed weight of numbers. Duneriders sweep onto enemy defences in a cloud of chemical smoke, saturating the area with heavy calibre shot as their payload of warriors disembarks."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus" value="Тэхнажрэц Домінус"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus" value="Тэхнажрэц-Домінус"/>
 	<entry name="AdeptusMechanicus/TechPriestDominusDescription" value="Самадастатковы герой Сьпеваў Амнісіі са здольнасьцямі выведкі і ўзмацненьнямі шкоды."/>
 	<entry name="AdeptusMechanicus/TechPriestDominusFlavor" value="Slithering, floating, stalking with avian gait, the Tech-Priests Dominus scour their surroundings with carrion eagerness. Ever vigilant for lost treasures they can pluck from the corpses of the worlds they conquer, their minds boil hot with data, and their spines are bent under the immense weight of knowledge they have torn from an unwilling universe. Despite their crooked appearance, these warrior magi are amongst the deadliest and most determined of all the Omnissiah’s hunters."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus" value="Тэхнажрэц Маніпулус"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus" value="Тэхнажрэц-Маніпулус"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulusDescription" value="Герой Сьпеваў Амнісіі з магутнымі здольнасьцямі падтрымкі і нейтралізацыйнымі эфектамі."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulusFlavor" value="Among the augmentations of a Tech-Priest Manipulus is a galvanic cell from which they channel powerful charges of the Motive Force. They drain power sources dry and use the energy to overcharge the cells of their warriors’ armaments, all while defending their divine work with blasts from their own arcane weapons."/>
 	<entry name="AstraMilitarum/Baneblade" value="Гібельны Клінок"/>
@@ -66,16 +66,16 @@
 	<entry name="AstraMilitarum/Basilisk" value="Васіліск"/>
 	<entry name="AstraMilitarum/BasiliskDescription" value="Далёкабойная браняваная артылерыйная ўсталёўка."/>
 	<entry name="AstraMilitarum/BasiliskFlavor" value="When the Imperial Guard go to war, they march to the thunderous report of batteries of Basilisks whose guns can flatten cities and end worlds. Instantly recognisable for the long, looming barrel of its earthshaker cannon, the Basilisk boasts a prodigious range."/>
-	<entry name="AstraMilitarum/Bullgryn" value="Быкрын"/>
+	<entry name="AstraMilitarum/Bullgryn" value="Быкрыны"/>
 	<entry name="AstraMilitarum/BullgrynDescription" value="Цяжкая пяхота блізкага бою."/>
 	<entry name="AstraMilitarum/BullgrynFlavor" value="Bullgryns are clad in custom-made carapace armour and carry crude assault weaponry to capitalise on the abhumans' stature and resilience. These units provide their comrades with a wall of walking cover as they advance across the battlefield, soaking up vast volumes of enemy fire in the process."/>
 	<entry name="AstraMilitarum/Chimera" value="Хімера"/>
 	<entry name="AstraMilitarum/ChimeraDescription" value="Транспарт-амфібія ўкамплектаваны ўзбраеньнем і сродкамі сувязі."/>
 	<entry name="AstraMilitarum/ChimeraFlavor" value="The Chimera is the most prolific and popular armoured transport used by the Imperial Guard. It is rugged, versatile, and easy to produce in huge numbers. For thousands of years it has been accepted wisdom that the Chimera punches well above its weight in a firefight; the tank itself mounts a variety of punishing anti-personnel weaponry, while passengers can lay down additional fire from its spacious top hatch and flank-mounted lasgun arrays."/>
 	<entry name="AstraMilitarum/DevilDog" value="Д'ябальскі Пёс"/>
-	<entry name="AstraMilitarum/DevilDogDescription" value="Хуткі танк са сьмяротнай мелтагарматай, якая плавіць браню."/>
+	<entry name="AstraMilitarum/DevilDogDescription" value="Хуткі танк са сьмяротнай мелтагарматай, што плавіць браню."/>
 	<entry name="AstraMilitarum/DevilDogFlavor" value="Acquiring its name from the high-pitched howl this weapon makes upon firing, the Devil Dog is capable of punching far above its weight in armoured combat. Indeed, many Devil Dog crews style themselves as big game hunters or monster slayers, excelling in the eradication of enemy armour and exceptionally heavy infantry assets. A foe forced to fight protracted campaigns in dense terrain against the Imperial Guard soon learns to dread the hunched silhouette of the Devil Dog – those who don’t soon find their vehicles reduced to molten slag by this aggressive and fast moving tank hunter."/>
-	<entry name="AstraMilitarum/Guardsman" value="Гвардзеец"/>
+	<entry name="AstraMilitarum/Guardsman" value="Гвардзейцы"/>
 	<entry name="AstraMilitarum/GuardsmanDescription" value="Лёгкая пяхота."/>
 	<entry name="AstraMilitarum/GuardsmanFlavor" value="From the steaming jungles of Catachan to the war-torn fortress world of Cadia, the humble Guardsmen provide the ironclad backbone of the Imperial Guard."/>
 	<entry name="AstraMilitarum/Headquarters" value="<string name='Buildings/AstraMilitarum/Headquarters'/>"/>
@@ -90,13 +90,13 @@
 	<entry name="AstraMilitarum/ImperialStrongpoint" value="Імперскі Бастыён"/>
 	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Умацаваньне абсталяванае цяжкімі болтарамі. Можа схаваць пяхоту."/>
 	<entry name="AstraMilitarum/ImperialStrongpointFlavor" value="An Imperial Bastion is an imposing edifice built from foot-thick ferrocrete and the remains of faithful servants of the Imperium. As they are relatively easy to construct, some planets boast networks of Bastions that span entire continents. Built to withstand orbital strikes and artillery bombardments, there are few weapons capable of razing them in a single blow. It is with good reason that such fortresses often form the cornerstone of a planet's defensive strategy."/>
-	<entry name="AstraMilitarum/LemanRussBattleTank" value="Баявы Танк - Леман Рус"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank" value="Баявы Танк · Леман Русс"/>
 	<entry name="AstraMilitarum/LemanRussBattleTankDescription" value="Асноўны цяжкабраняваны баявы танк."/>
 	<entry name="AstraMilitarum/LemanRussBattleTankFlavor" value="The Leman Russ battle tank is an ironclad declaration of might made manifest. They are the mainstay of the Imperial Guard's armoured forces, lumbering slabs of armour and intolerance whose inexorable advance has ground a billion foes of the Imperium to bloody ruin."/>
 	<entry name="AstraMilitarum/LordCommissar" value="Лорд-Камісар"/>
 	<entry name="AstraMilitarum/LordCommissarDescription" value="Герой, які дае бонусы найблізкім хаўрусным адзінкам."/>
 	<entry name="AstraMilitarum/LordCommissarFlavor" value="Amongst the ranks of the Officio Prefectus there are many heroic individuals who have become legend through their deeds. A Lord Commissar is expected to exemplify everything the Imperium strives toward."/>
-	<entry name="AstraMilitarum/MarauderBomber" value="Бамбавік Марадзёр"/>
+	<entry name="AstraMilitarum/MarauderBomber" value="Бамбавік · Марадзёр"/>
 	<entry name="AstraMilitarum/MarauderBomberDescription" value="Звышцяжкі бамбавік, які зьнішчае наземныя цэлі."/>
 	<entry name="AstraMilitarum/MarauderBomberFlavor" value="Sturdily built and boasting a colossal payload for its size, the Marauder is the archetypal heavy bomber of the Imperium. Powerful engines and capacious fuel tanks give the Marauder a substantial operational reach and, furthermore, allow bomber squadrons to operate effectively in times of sporadic resupply."/>
 	<entry name="AstraMilitarum/PrimarisPsyker" value="Прымарыс-Псайкер"/>
@@ -105,10 +105,10 @@
 	<entry name="AstraMilitarum/Ratling" value="Пацуклінг"/>
 	<entry name="AstraMilitarum/RatlingDescription" value="Снайперская пяхотная адзінка, якая можа рухацца пасьля стральбы."/>
 	<entry name="AstraMilitarum/RatlingFlavor" value="Though less resilient than their human comrades, Ratlings are naturally excellent shots. It is said that Ratling marksmen can take the head off a heretic from over a kilometre away. Coupled with their knack for staying out of harm’s way, this makes Ratlings formidable snipers who can take a surprising toll upon superior enemy forces."/>
-	<entry name="AstraMilitarum/RogalDornBattleTank" value="Баявы Танк Рогала Дорна"/>
+	<entry name="AstraMilitarum/RogalDornBattleTank" value="Баявы Танк · Рогал Дорн"/>
 	<entry name="AstraMilitarum/RogalDornBattleTankDescription" value="Цяжкабраняваны баявы танк з магутным узбраеньнем."/>
 	<entry name="AstraMilitarum/RogalDornBattleTankFlavor" value="The Rogal Dorn Battle Tank is a lumbering behemoth, equally suited to anchoring a battle line, or grinding forward in support of an assault. Bristling with thunderous guns, these hulking armoured fighting vehicles pound breaches in enemy’s defences with enormous shells, and tear apart infantry with raucous storms of fire."/>
-	<entry name="AstraMilitarum/ScoutSentinel" value="Выведнік-Вартавы"/>
+	<entry name="AstraMilitarum/ScoutSentinel" value="Выведнік · Вартавы"/>
 	<entry name="AstraMilitarum/ScoutSentinelDescription" value="Лёгкі бранявік, які сьпецыялізуецца на выведцы."/>
 	<entry name="AstraMilitarum/ScoutSentinelFlavor" value="The Sentinel is a fast-moving combat walker employed to scout dense terrain and provide close infantry fire support. With surprising speed and locomotive dexterity, Sentinels can traverse terrain that would confound other armoured vehicles. The lighter-armoured Scout Sentinels, in particular, are used to range ahead of the main battle line, setting up brutal ambushes or launching pin-point raids."/>
 	<entry name="AstraMilitarum/TankCommander" value="Камандор Танка"/>
@@ -124,13 +124,13 @@
 	<entry name="AstraMilitarum/ThunderboltDescription" value="Хуткі і цяжкі зьнішчальнік."/>
 	<entry name="AstraMilitarum/ThunderboltFlavor" value="A heavy fighter that combines devastating strike potential with graceful speed and manoeuvrability, the Thunderbolt forms the bulk of the Imperial Navy's intra-atmosphere fighter aircraft. The Thunderbolt is a true workhorse, with a rugged and reliable design both venerated by its crews and respected by its enemies."/>
 	<entry name="AstraMilitarum/Valkyrie" value="Валькірыя"/>
-	<entry name="AstraMilitarum/ValkyrieDescription" value="Універсальная авіядэсантная адзінка."/>
+	<entry name="AstraMilitarum/ValkyrieDescription" value="Універсальны авіятранспарт."/>
 	<entry name="AstraMilitarum/ValkyrieFlavor" value="The Valkyrie Assault Carrier is a well-armed, twin-engine attack craft. The durable armour and versatile payload of the Valkyrie chassis combine with the aircraft's powerful engines and stable handling to make it a popular choice for a broad spectrum of battlefield roles."/>
 	<entry name="AstraMilitarum/VoidShieldGenerator" value="Генератар Шчыта Пустэчы"/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Умацаваньне, якое бароніць юнітаў у радыусе дзеяньня."/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorFlavor" value="Void shields are normally localised force fields reserved for protecting the monolithic Titans of the Adeptus Mechanicus, but static generators can be erected to serve as an aegis for other targets of vital import. The largest Void Shield generators can even project an invisible bubble of power across a large area of the battlefield, sheltering both troops and strategically vital battlefield locations by absorbing or deflecting the energy of incoming munitions."/>
-	<entry name="AstraMilitarum/WyrdvanePsyker" value="Вурдванскі Псайкер"/>
-	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="Псайкер, які сьпецыялізуецца на праклёнах."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker" value="Вурдванскія Псайкеры"/>
+	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="Псайкеры, якія сьпецыялізуюцца на праклёнах."/>
 	<entry name="AstraMilitarum/WyrdvanePsykerFlavor" value="Wyrdvane Psykers transform the howling might of the Warp into a deadly weapon of Imperial supremacy. They are formed from those Scholastica Psykana inductees not able to control their burgeoning powers without guidance and aid. As individuals, such psykers are unpredictable and unsafe. Yet working in concert, these deadly mutants can be a valuable asset."/>
 	<entry name="ChaosSpaceMarines/ChaosCultist" value="Культыст Хаосу"/>
 	<entry name="ChaosSpaceMarines/ChaosCultistDescription" value="Масавая пяхота, якая можа засноўваць гарады, ачышчаць пліткі і прыносіць сябе ў ахвяру Цёмным Багам."/>
@@ -637,7 +637,7 @@
 	<entry name="Tau/BuilderDrone" value="Будаўнічыя Дроны"/>
 	<entry name="Tau/BuilderDroneDescription" value="Атрад дронаў, які рамантуе адзінкі, ачышчае пліткі і засноўвае новыя гарады."/>
 	<entry name="Tau/BuilderDroneFlavor" value="T’au Drones are small hovering AI machines that fulfil a large variety of support functions. Unlike the Imperium’s AIs, which are very simple and heavily constrained following the Men of Iron rebellion, T’au AIs are intelligent and operate independently. Builder Drones are an Earth Caste flavour."/>
-	<entry name="Tau/CadreFireblade" value="Кадры - Агнявы Клінок"/>
+	<entry name="Tau/CadreFireblade" value="Кадр - Агнявы Клінок"/>
 	<entry name="Tau/CadreFirebladeDescription" value="Герой, які ўзмацняе агнявыя лініі."/>
 	<entry name="Tau/CadreFirebladeFlavor" value="As the enemy surges closer, the Fireblade's courage steels his comrades, steadying the firing line and focussing the mind of every Fire Warrior present. Raising his pulse rifle and sighting down its length, the Cadre Fireblade calls out enemy weak spots and optimal firing solutions to his followers, watching the foe press closer with a practised eye. Only at the optimum moment does the Fireblade bark out the order to fire. At the Fireblade's command, the T'au gunline unleashes a storm of fire, an energised squall that tears the enemy to pieces with terrible efficiency."/>
 	<entry name="Tau/Commander" value="Камандор"/>
