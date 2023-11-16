@@ -27,7 +27,7 @@
 	<entry name="AdeptusMechanicus/KnightCrusader" value="Rycar · Kryžak"/>
 	<entry name="AdeptusMechanicus/KnightCrusaderDescription" value="Zvyšciažki krokachod z biaskoncym naboram śmiarotnaj zbroi dalokaha boju."/>
 	<entry name="AdeptusMechanicus/KnightCrusaderFlavor" value="Finding the optimal firing position, the Knight Crusader locks down its motive actuators in preparation to unleash a punishing salvo. From its avenger gatling cannon it levels a fusillade of heavy shells, sketching deadly patterns across the enemy armys frontage. Those that are equipped with Icarus autocannons on their shoulders are given an additional duty: to protect their comrades from airborne attack. Swivelling in response to their predictive auto-auguries, the Icarus cannons spit streams of flak fire into the skies to detonate enemy aircraft in distant fireballs. With each section of the battlefield it clears of foes, the Crusaders steady advance brings new targets under its sights, and it continues to unleash destruction with every stride."/>
-	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="Anahr · Dziunachod"/>
+	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="Anahr · Dziunavy Paŭzun"/>
 	<entry name="AdeptusMechanicus/OnagerDunecrawlerDescription" value="Krokachod Daktryny Impieratyŭ, jaki fakusujecca na źniščeńni avijacyi."/>
 	<entry name="AdeptusMechanicus/OnagerDunecrawlerFlavor" value="Onager Dunecrawlers decimate the foes of the Skitarii whilst channelling great swathes of battlefield information to their masters high above. Squadrons of these versatile walkers clank to war in long columns that stalk forwards in uncanny unison, clambering over shattered ruins and wading through toxic run-off without breaking stride. The enemies of the Cult Mechanicus have good reason to fear the Dunecrawler, for these ornate monsters are protected by overlapping emanatus force fields, and bear some of the most esoteric and destructive tank-portable weaponry the Tech-Priests can devise."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor" value="Sterylizatary-Pteraksii"/>
@@ -132,14 +132,14 @@
 	<entry name="AstraMilitarum/WyrdvanePsyker" value="Vurdvanskija Psajkiery"/>
 	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="Psajkiery, jakija śpiecyjalizujucca na praklonach."/>
 	<entry name="AstraMilitarum/WyrdvanePsykerFlavor" value="Wyrdvane Psykers transform the howling might of the Warp into a deadly weapon of Imperial supremacy. They are formed from those Scholastica Psykana inductees not able to control their burgeoning powers without guidance and aid. As individuals, such psykers are unpredictable and unsafe. Yet working in concert, these deadly mutants can be a valuable asset."/>
-	<entry name="ChaosSpaceMarines/ChaosCultist" value="Kultyst Chaosu"/>
-	<entry name="ChaosSpaceMarines/ChaosCultistDescription" value="Masavaja piachota, jakaja moža zasnoŭvać harady, ačyščać plitki i prynosić siabie ŭ achviaru Ciomnym Baham."/>
+	<entry name="ChaosSpaceMarines/ChaosCultist" value="Kultysty Chaosu"/>
+	<entry name="ChaosSpaceMarines/ChaosCultistDescription" value="Šmatlikaja piachota, jakaja moža zasnoŭvać harady, ačyščać plitki i prynosić siabie ŭ achviaru Ciomnym Baham."/>
 	<entry name="ChaosSpaceMarines/ChaosCultistFlavor" value="The cultists of Chaos can be found, in one form or another, almost anywhere the Imperium has spread. At first glance, they are indistinguishable from normal men, but under their clothes, their flesh is tattooed and branded with sigils that hurt the eyes of any faithful who look upon them. When the Chaos Space Marines come to a planet, the true colours of the cultists are revealed. The powers of darkness are ever quick to promise glory, and even the lowliest initiate knows that to fight alongside such legendary warriors is to court the gaze of the gods."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider" value="Naziemny Rejdar Chaosu"/>
+	<entry name="ChaosSpaceMarines/ChaosLandRaider" value="Ziamny Rejdar Chaosu"/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaiderDescription" value="Ciažkabraniavany i dobra ŭzbrojeny transpart."/>
 	<entry name="ChaosSpaceMarines/ChaosLandRaiderFlavor" value="The Chaos Land Raider is the heaviest ground vehicle in a Chaos Space Marine army. Its adamantine and ceramite plates can withstand all but the deadliest anti-tank weaponry, and the blessings of the Warpsmiths keep it at peak efficiency. The twin lascannons mounted in each sponson make short work of other vehicles that would dare to attempt to stop its rampage."/>
 	<entry name="ChaosSpaceMarines/ChaosLord" value="Łord Chaosu"/>
-	<entry name="ChaosSpaceMarines/ChaosLordDescription" value="Hieroj, jaki viartaje škodu atakoŭcam i zabivaje adzinki z nizkim uzroŭniem zdaroŭja."/>
+	<entry name="ChaosSpaceMarines/ChaosLordDescription" value="Hieroj, jaki viartaje škodu atakoŭcam i zabivaje adzinki z nizkim roŭniem zdaroŭja."/>
 	<entry name="ChaosSpaceMarines/ChaosLordFlavor" value="A Chaos Lord is a tyrannical warrior king who lives to bathe in the blood of worlds. He strives to bring whole star systems to their knees in the name of his patron deities. Typified by merciless ambition and fierce pride, many of these champions of disorder were once noble Chapter Masters and Captains of the Adeptus Astartes, but long years of unremitting war have twisted their souls beyond recovery."/>
 	<entry name="ChaosSpaceMarines/ChaosRhino" value="Nasaroh Chaosu"/>
 	<entry name="ChaosSpaceMarines/ChaosRhinoDescription" value="Braniavany transpart, jaki moža ažyćciaŭlać ramont samastojna."/>
@@ -147,7 +147,7 @@
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarine" value="Kaśmičnyja Maryny Chaosu"/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarineDescription" value="Univiersalnaja piachota."/>
 	<entry name="ChaosSpaceMarines/ChaosSpaceMarineFlavor" value="Ever since the Horus Heresy, Space Marines have been tempted by the path of Chaos, whether for selfish reasons or great ideals. Sundered from the Imperium, having turned their backs on the Emperor, these warriors know that there can be no peace for them, neither forgiveness nor absolution. They are wholly committed to the path they now tread, for good or ill, and they can expect no quarter from former battle-brothers."/>
-	<entry name="ChaosSpaceMarines/ChaosSpawn" value="Paradžeńnie Chaosu"/>
+	<entry name="ChaosSpaceMarines/ChaosSpawn" value="Paradžeńni Chaosu"/>
 	<entry name="ChaosSpaceMarines/ChaosSpawnDescription" value="Chutkaja piachota blizkaha boju, jakaja mutuje kožny krok."/>
 	<entry name="ChaosSpaceMarines/ChaosSpawnFlavor" value="Although physically powerful and extremely resilient, Chaos Spawn are insane, mewling creatures with no mental powers or self-awareness. Their former intelligence has been sacrificed to their failed ambition. Many a champion of great promise has ended up as a seething mound of bone and blubber, monstrous and screaming with lunatic rage."/>
 	<entry name="ChaosSpaceMarines/DaemonPrince" value="Deman-Prync"/>
@@ -168,10 +168,10 @@
 	<entry name="ChaosSpaceMarines/Headquarters" value="<string name='Buildings/ChaosSpaceMarines/Headquarters'/>"/>
 	<entry name="ChaosSpaceMarines/HeadquartersDescription" value="Štab-Kvatera, jakaja ŭjaŭlaje abaronu horada."/>
 	<entry name="ChaosSpaceMarines/HeadquartersFlavor" value="<string name='Buildings/ChaosSpaceMarines/HeadquartersFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/Helbrute" value="Chełbrut"/>
+	<entry name="ChaosSpaceMarines/Helbrute" value="Piakielny Źvier"/>
 	<entry name="ChaosSpaceMarines/HelbruteDescription" value="Krokachod, jaki schodzić z rozumu ad paškodžańniaŭ."/>
 	<entry name="ChaosSpaceMarines/HelbruteFlavor" value="Helbrutes are twisted mockeries of the Space Marine Dreadnoughts they used to be, combining the firepower of a small tank with the mind of a frenzied maniac. Each Helbrute holds a living creature within its plated metal chest—a Chaos Space Marine driven over the edge of madness by a never-ending cycle of war."/>
-	<entry name="ChaosSpaceMarines/Heldrake" value="Chełdrejk"/>
+	<entry name="ChaosSpaceMarines/Heldrake" value="Piakielny Cmok"/>
 	<entry name="ChaosSpaceMarines/HeldrakeDescription" value="Latučaja mašyna, jakaja cudoŭna spraŭlajecca z varožaj avijacyjaj."/>
 	<entry name="ChaosSpaceMarines/HeldrakeFlavor" value="Heldrakes are winged Daemon Engines that plummet out of the skies like living comets, hurtling towards enemy aircraft and crashing claws-first into them from above. Each is a vicious, hell-forged predator; a Heldrake takes cruel joy in diving down upon the unsuspecting air support of the enemy in order to shred them to pieces with its scything wings and rune-carved talons."/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker" value="Biersierki Kchorna"/>
@@ -192,7 +192,7 @@
 	<entry name="ChaosSpaceMarines/Obliterator" value="Abliteratary"/>
 	<entry name="ChaosSpaceMarines/ObliteratorDescription" value="Elitnaja piachota z cykličnaj zbrojaj."/>
 	<entry name="ChaosSpaceMarines/ObliteratorFlavor" value="The monstrous warriors of the Obliterator cults are a blasphemy against nature and Machine God alike. Their forms are so altered, so thoroughly conjoined with the tools of war, that every cell in their bodies thrills with a spark of mechanical life. Only the Dark Mechanicum have mastered the complete fusion of metal and flesh, melding the inert and the animate together on a spiritual level in order to form something far greater than mere cybernetics. Because of their Chaos-born powers, Obliterators are capable of not only absorbing weaponry into themselves, but also of manifesting munitions from their titanium-laced flesh."/>
-	<entry name="ChaosSpaceMarines/Venomcrawler" value="Złosny Paŭzun"/>
+	<entry name="ChaosSpaceMarines/Venomcrawler" value="Atrutny Paŭzun"/>
 	<entry name="ChaosSpaceMarines/VenomcrawlerDescription" value="Žachlivy krokachod, jaki pahłynaje dušy vorahaŭ, kab adnavić svajo zdaroŭje."/>
 	<entry name="ChaosSpaceMarines/VenomcrawlerFlavor" value="Pounding forwards upon bladed limbs come the horrors known as Venomcrawlers. Grotesque amalgams of metal, flesh and daemonic entities, these monstrosities hiss and snarl as they scuttle towards their prey. Fleshy tongues flap from snarling maws and soulflayer tendrils lash back and forth, all tasting the air for the scent of their enemies' fear. As the Venomcrawlers continue to butcher, their fanged mouths gape ever wider, drawing the souls of those slain into their vast mechanical abdomens."/>
 	<entry name="ChaosSpaceMarines/WarpTalon" value="Kipciury Varpu"/>
@@ -589,10 +589,10 @@
 	<entry name="SpaceMarines/Hunter" value="Palaŭničy"/>
 	<entry name="SpaceMarines/HunterDescription" value="Tank, jaki śpiecyjalizujecca na źniščeńni avijacyi i łunałych mašyn."/>
 	<entry name="SpaceMarines/HunterFlavor" value="From out of its massive turreted warhead chamber, the Hunter sends skyspear missiles thundering into the heavens. Emitting a piercing scream as it tears across the firmament, each of these sacred rounds seeks out the skyborne foes of the Emperor. Entombed in the heart of each missile, a servitor savant guides the ordnance to its foe. Even if the missile flies wide of its mark, the hard-wired savant will set it back on course."/>
-	<entry name="SpaceMarines/LandRaider" value="Naziemny Rejdar"/>
+	<entry name="SpaceMarines/LandRaider" value="Ziamny Rejdar"/>
 	<entry name="SpaceMarines/LandRaiderDescription" value="Vielizarnaja braniavanaja i dobra ŭzbrojenaja transpartavaja adzinka."/>
 	<entry name="SpaceMarines/LandRaiderFlavor" value="The ground trembles and enemies flee in fear as the mighty Land Raider advances into battle. Massively armoured and all but unstoppable, the noble war engine smashes through walls and grinds over wreckage while drumming volley after volley of fire into the foe. Beams of incandescent energy slam into enemy tanks, knifing through their armoured hulls and reducing them to blazing fireballs. Thudding bolt shells punch into the flesh of the foe before detonating in shocking sprays of gore. The kill count climbs with each passing moment as the Land Raider advances across the war zone, especially once the tank's assault ramp slams down and its Adeptus Astartes passengers charge out to add to the carnage."/>
-	<entry name="SpaceMarines/LandSpeeder" value="Naziemny Chutkar"/>
+	<entry name="SpaceMarines/LandSpeeder" value="Ziamny Chutkar"/>
 	<entry name="SpaceMarines/LandSpeederDescription" value="Mabilny łunały aparat, zdolny pieraadolvać navat vadu."/>
 	<entry name="SpaceMarines/LandSpeederFlavor" value="Skimming over the battlefield at breakneck speeds, Land Speeders bank and roll with incredible agility. Able to navigate tangled urban ruins, narrow-sided canyons, and even to weave through dense forest canopies, the Land Speeder possesses unrivalled manoeuvrability. This is enhanced by the superhuman reflexes of its Space Marine crew, and capitalised upon through the incorporation of resilient, if light, armour and an arsenal of heavy weapons."/>
 	<entry name="SpaceMarines/Librarian" value="Bibliaryj"/>
