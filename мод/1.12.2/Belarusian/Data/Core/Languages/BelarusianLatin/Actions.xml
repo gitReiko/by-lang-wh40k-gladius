@@ -462,7 +462,7 @@
 	<entry name="FoundCityNecrons" value="Abudzić Horad"/>
 	<entry name="FoundCityNecronsDescription" value="Spažyvaje adzinku dla abudžeńnia novaha horada.<br/><br/>Harady možna budavać tolki na miescy Hrabnic Niekronaŭ u vypadku adsutnaści inšych haradoŭ u radyusie 4 plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na 6."/>
 	<entry name="FullThrottle" value="“Poŭny Haz!”"/>
-	<entry name="FullThrottleDescription" value="Dadaje ruch Kamandziru Tanka i susiednim chaŭrusnym tankam."/>
+	<entry name="FullThrottleDescription" value="Dadaje ruch Kamandoru Tanka i susiednim chaŭrusnym tankam."/>
 	<entry name="FullThrottleFlavor" value="The officer leads a glorious tank charge that grinds the enemy beneath his treads."/>
 	<entry name="GateOfInfinity" value="Brama Biaskoncaści"/>
 	<entry name="GateOfInfinityDescription" value="Telepartujecca da abranaj daśledavanaj plitki."/>
@@ -471,7 +471,7 @@
 	<entry name="GrabbinKlawDescription" value="Źnieruchomlivaje abranuju varožuju naziemnuju mašynu."/>
 	<entry name="GrabbinKlawFlavor" value="In their pursuit of ever-larger Power Klaws, Ork Meks occasionally make ones that are simply too large for even the most over-sized Boss or Deff Dread. These are mounted on vehicles, where they are used to immobilise enemy vehicles or perform outrageous handbrake turns."/>
 	<entry name="GunnersKillOnSight" value="“Strałki, Zabivajcie Ŭsio, što Bačycie!”"/>
-	<entry name="GunnersKillOnSightDescription" value="Pavialičvaje ataku ŭ dalokim bai Kamandzira Tanka i susiednich chaŭrusnych tankaŭ."/>
+	<entry name="GunnersKillOnSightDescription" value="Pavialičvaje ataku ŭ dalokim bai Kamandora Tanka i susiednich chaŭrusnych tankaŭ."/>
 	<entry name="GunnersKillOnSightFlavor" value="The officer gives his men free rein to unleash discretionary fire."/>
 	<entry name="Hallucination" value="Halucynacyi"/>
 	<entry name="HallucinationDescription" value="Źnižaje ataki abranaj varožaj adzinki."/>
@@ -821,7 +821,7 @@
 	<entry name="SpawnUnits" value="Vyklikaje %1%"/>
 	<entry name="SpawnUnitsHint" value="<style name='Title'/>Vyklikaje %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="StrikeAndShroud" value="“Biej i chavajsia!”"/>
-	<entry name="StrikeAndShroudDescription" value="Stvaraje dymavuju zasłonu na plitcy z Kamandziram Tankaŭ i susiednich plitkach z chaŭrusnymi tankami dla zabieśpiačeńnia źnižeńnia škody ŭ dalokim bai. "/>
+	<entry name="StrikeAndShroudDescription" value="Stvaraje dymavuju zasłonu na plitcy z Kamandoram Tankaŭ i susiednich plitkach z chaŭrusnymi tankami dla zabieśpiačeńnia źnižeńnia škody ŭ dalokim bai. "/>
 	<entry name="SummaryExecution" value="Śmiarotnaja Kara"/>
 	<entry name="SummaryExecutionDescription" value="Karaje śmierciu člena atrada susiedniaj piachotnaj adzinki, kab adnavić maral najblizkich chaŭrusnych adzinak."/>
 	<entry name="SummaryExecutionFlavor" value="In extremis, a Commissar must be prepared to execute wavering soldiers or incompetent officers without a moment's remorse; few things enforce discipline better than a malcontent or coward being shot dead for their failings, and this message is all the stronger when a mass-reactive bolt shell sprays a Guardsman's brains across his horrified comrades in a shower of gore."/>
@@ -909,7 +909,7 @@
 	<entry name="Tau/RinyonDescription" value="Mietastratehija, jakaja pavialičvaje trapnaść chaŭrusnych adzinak T'aŭ u vobłaści suprać varožych adzinak, susiednich ź inšymi chaŭrusnymi adzinkami. Maje ahulny ź inšymi mietastratehijami čas pierazaradki."/>
 	<entry name="Tau/RinyonFlavor" value="“Your enemy encircles you. His troops are close. Too close. Your targeting network assigns every Fire Caste a victim, not his neighbour. You fire as one, every shot strikes, they fall as one. A distracted enemy is as good as dead.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/Ripyka" value="Ryp'ajka (Tysiača Kinžałaŭ)"/>
-	<entry name="Tau/RipykaDescription" value="Źmianšaje čas pierazaradki mietastratehij Kamandzira."/>
+	<entry name="Tau/RipykaDescription" value="Źmianšaje čas pierazaradki mietastratehij Kamandora."/>
 	<entry name="Tau/RipykaFlavor" value="“The enemys armour is thick, your blade makes only a scratch. In his arrogance, he allows you to strike. Hit the same spot, ten, a hundred, a thousand times. That scratch becomes a dent becomes a hole becomes his death. Water erodes the stone.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/ProjectShield" value="Prajektar-Ščyt"/>
 	<entry name="Tau/ProjectShieldDescription" value="Pavialičvaje źnižeńnie škody pa abranaj chaŭrusnaj adzincy."/>
@@ -985,7 +985,7 @@
 	<entry name="Tyranids/GraspingTail" value="Chvatki Chvost"/>
 	<entry name="Tyranids/GraspingTailDescription" value="Źnižaje ataki abranaj varožaj adzinki."/>
 	<entry name="Tyranids/GraspingTailFlavor" value="If a Malanthrope must engage in battle, it makes for a difficult foe. Its sinuous body is hard to strike, its grasping tail can immobilise foes or their weapons, and its feeder tendrils are highly poisonous, causing excruciating pain. If a foe becomes paralysed by its tendrils, the Malanthrope will begin to absorb it alive, to acquire the choicest, freshest genetic data."/>
-	<entry name="Tyranids/HiveCommander" value="Kamandzir Vulla"/>
+	<entry name="Tyranids/HiveCommander" value="Kamandor Vulla"/>
 	<entry name="Tyranids/HiveCommanderDescription" value="Tyran Vulla pavialičvaje škodu i źnižeńnie škody chaŭrusnych adzinak Tyranidaŭ u vobłaści."/>
 	<entry name="Tyranids/HiveCommanderFlavor" value="“A new Tyrant joined the fray and, in an eyeblink, the whole character of the swarm changed. The ravening berserker-spirit that had driven the Tyranids onto the ridge was gone as if it had never existed. Left in its place was something cannier and infinitely more worrisome. It was then that I knew the battle to be lost.”<br/>  — Sergeant Torias Telion, Ultramarines 10th Company"/>
 	<entry name="Tyranids/IndescribableHorror" value="Nieapisalny Žach"/>

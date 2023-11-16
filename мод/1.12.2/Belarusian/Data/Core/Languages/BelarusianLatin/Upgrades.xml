@@ -709,7 +709,7 @@
 	<entry name="Tau/EtherealDescription" value="<string name='Units/Tau/EtherealDescription'/>"/>
 	<entry name="Tau/EtherealFlavor" value="<string name='Units/Tau/EtherealFlavor'/>"/>
 	<entry name="Tau/GunDrone" value="<string name='Units/Tau/GunDrone'/>"/>
-	<entry name="Tau/GunDroneDescription" value="Daje Vajaram Ahniu, Bajavym Kaściumam - XV8 Kryzis, Bajavym Kaściumam XV25 -  Nievidzimka, Bajavym Kaściumam XV88 - Załp, Kadram - Ahniavym Klinkam, Eternym dy Kamandziram zdolnaść vykarystoŭvać nia stałych asnoŭnych bajavych dronaŭ."/>
+	<entry name="Tau/GunDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram - XV8 Kryzis, Bajavym Harnituram XV25 -  Nievidzimka, Bajavym Harnituram XV88 - Załp, Kadram - Ahniavym Klinkam, Eternym dy Kamandoram zdolnaść vykarystoŭvać nia stałych asnoŭnych bajavych dronaŭ."/>
 	<entry name="Tau/GunDroneFlavor" value="<string name='Units/Tau/GunDroneFlavor'/>"/>
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
@@ -718,7 +718,7 @@
 	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
 	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
 	<entry name="Tau/MarkerDrone" value="<string name='Units/Tau/MarkerDrone'/>"/>
-	<entry name="Tau/MarkerDroneDescription" value="Daje Vajaram Ahniu, Bajavym Kaściumam XV8 - Kryzis, Bajavym Kaściumam XV25 - Nievidzimka, Bajavym Kaściumam XV88 - Załp, Kadram - Ahniavym Klinkam, Eternym dy Kamandziram zdolnaść vykarystoŭvać nia stałych dronaŭ, jakija paznačajuć vorahaŭ, pavialičvajučy škodu pa ich."/>
+	<entry name="Tau/MarkerDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram XV8 - Kryzis, Bajavym Harnituram XV25 - Nievidzimka, Bajavym Harnituram XV88 - Załp, Kadram - Ahniavym Klinkam, Eternym dy Kamandoram zdolnaść vykarystoŭvać nia stałych dronaŭ, jakija paznačajuć vorahaŭ, pavialičvajučy škodu pa ich."/>
 	<entry name="Tau/MarkerDroneFlavor" value="<string name='Units/Tau/MarkerDroneFlavor'/>"/>
 	<entry name="Tau/Pathfinder" value="<string name='Units/Tau/Pathfinder'/>"/>
 	<entry name="Tau/PathfinderDescription" value="<string name='Units/Tau/PathfinderDescription'/>"/>
@@ -730,7 +730,7 @@
 	<entry name="Tau/RVarnaBattlesuitDescription" value="<string name='Units/Tau/RVarnaBattlesuitDescription'/>"/>
 	<entry name="Tau/RVarnaBattlesuitFlavor" value="<string name='Units/Tau/RVarnaBattlesuitFlavor'/>"/>
 	<entry name="Tau/ShieldDrone" value="<string name='Units/Tau/ShieldDrone'/>"/>
-	<entry name="Tau/ShieldDroneDescription" value="Daje Vajaram Ahniu, Bajavym Kaściumam XV8 - Kryzis, Bajavym Kaściumam XV25 - Nievidzimka, Bajavym Kaściumam XV88 - Załp, Kadram - Ahniavym Klinkam, Eternym dy Kamandziram zdolnaść vykarystoŭvać nia stałyja drony, jakija baroniać chaŭruśnikaŭ."/>
+	<entry name="Tau/ShieldDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram XV8 - Kryzis, Bajavym Harnituram XV25 - Nievidzimka, Bajavym Harnituram XV88 - Załp, Kadram - Ahniavym Klinkam, Eternym dy Kamandoram zdolnaść vykarystoŭvać nia stałyja drony, jakija baroniać chaŭruśnikaŭ."/>
 	<entry name="Tau/ShieldDroneFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SkyRayGunship" value="<string name='Units/Tau/SkyRayGunship'/>"/>
 	<entry name="Tau/SkyRayGunshipDescription" value="<string name='Units/Tau/SkyRayGunshipDescription'/>"/>
@@ -1719,13 +1719,13 @@
 	<entry name="SpaceMarines/TheFleshIsWeakDescription" value="<string name='Actions/TheFleshIsWeakDescription'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
 	<entry name="Tau/AdvancedTargetingSystem" value="<string name='Traits/Tau/AdvancedTargetingSystem'/>"/>
-	<entry name="Tau/AdvancedTargetingSystemDescription" value="Sistema padtrymki bajavoha kaściuma i madernizacyja mašynaŭ, jakaja pavialičvaje trapnaść stralby."/>
+	<entry name="Tau/AdvancedTargetingSystemDescription" value="Sistema padtrymki bajavoha harnitura i madernizacyja mašynaŭ, jakaja pavialičvaje trapnaść stralby."/>
 	<entry name="Tau/AdvancedTargetingSystemFlavor" value="<string name='Traits/Tau/AdvancedTargetingSystemFlavor'/>"/>
 	<entry name="Tau/AutomatedRepairSystem" value="<string name='Traits/Tau/AutomatedRepairSystem'/>"/>
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Daje adnaŭleńnie zdaroŭja mašynam kožny krok."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="<string name='Traits/Tau/AutomatedRepairSystemFlavor'/>"/>
 	<entry name="Tau/BlacksunFilter" value="<string name='Traits/Tau/BlacksunFilter'/>"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Pavialičvaje ahlad mašynaŭ, Śledapytaŭ, Eternych, Kamandziraŭ i Bajavych Kaściumaŭ."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Pavialičvaje ahlad mašynam, Śledapytam, Eternym, Kamandoram i Bajavych Harnituram."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="<string name='Traits/Tau/BlacksunFilterFlavor'/>"/>
 	<entry name="Tau/BlastDamage" value="<string name='Traits/Tau/BlastDamage'/>"/>
 	<entry name="Tau/BlastDamageDescription" value="Pavialičvaje bronieprabivalnaść ahniavoj i rakietnaj zbroi."/>
@@ -1734,7 +1734,7 @@
 	<entry name="Tau/BoltDamageDescription" value="Pavialičvaje bronieprabivalnaść razryŭnoj i rejkavaj zbroi."/>
 	<entry name="Tau/BoltDamageFlavor" value="<string name='Traits/Tau/BoltDamageFlavor'/>"/>
 	<entry name="Tau/BondingKnifeRitual" value="<string name='Actions/Tau/BondingKnifeRitual'/>"/>
-	<entry name="Tau/BondingKnifeRitualDescription" value="Daje Vajaram Ahniu, Śledapytam, Bajavym Kaściumam XV25 - Nievidzimka, Bajavym Kaściumam - XV8 Kryzis, Bajavym Kaściumam XV88 - Załp, Bajavym Kaściumam XV95 - Pryvidny Karabiel i Bajavym Kaściumam XV104 - Režučy Strumień zdolnaść adnaŭlać svaju maral."/>
+	<entry name="Tau/BondingKnifeRitualDescription" value="Daje Vajaram Ahniu, Śledapytam, Bajavym Harnituram XV25 - Nievidzimka, Bajavym Harnituram - XV8 Kryzis, Bajavym Harnituram XV88 - Załp, Bajavym Harnituram XV95 - Pryvidny Karabiel i Bajavym Harnituram XV104 - Režučy Strumień zdolnaść adnaŭlać svaju maral."/>
 	<entry name="Tau/BondingKnifeRitualFlavor" value="<string name='Actions/Tau/BondingKnifeRitualFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="<string name='Traits/Tau/CityTier2'/>"/>
 	<entry name="Tau/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
@@ -1743,13 +1743,13 @@
 	<entry name="Tau/CityTier3Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Tau/CityTier3Flavor" value="<string name='Traits/Tau/CityTier3Flavor'/>"/>
 	<entry name="Tau/CounterfireDefenceSystem" value="<string name='Traits/Tau/CounterfireDefenceSystem'/>"/>
-	<entry name="Tau/CounterfireDefenceSystemDescription" value="Sistema padtrymki bajavoha kaściuma, jakaja pavyšaje trapnaść atak nazirańnia."/>
+	<entry name="Tau/CounterfireDefenceSystemDescription" value="Sistema padtrymki bajavoha harnitura, jakaja pavyšaje trapnaść atak nazirańnia."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="<string name='Traits/Tau/CounterfireDefenceSystemFlavor'/>"/>
 	<entry name="Tau/DisruptionPod" value="<string name='Traits/Tau/DisruptionPod'/>"/>
 	<entry name="Tau/DisruptionPodDescription" value="Pavialičvaje źnižeńnie škody ŭ dalokim boi."/>
 	<entry name="Tau/DisruptionPodFlavor" value="<string name='Traits/Tau/DisruptionPodFlavor'/>"/>
 	<entry name="Tau/DroneController" value="<string name='Traits/Tau/DroneController'/>"/>
-	<entry name="Tau/DroneControllerDescription" value="Sistema padtrymki bajavoha kaściuma pavialičvaje trapnaść susiednich dronaŭ."/>
+	<entry name="Tau/DroneControllerDescription" value="Sistema padtrymki bajavoha harnitura pavialičvaje trapnaść susiednich dronaŭ."/>
 	<entry name="Tau/DroneControllerFlavor" value="<string name='Traits/Tau/DroneControllerFlavor'/>"/>
 	<entry name="Tau/EMPGrenade" value="<string name='Weapons/EMPGrenade'/>"/>
 	<entry name="Tau/EMPGrenadeDescription" value="Daje Vajaram Ahniu i Śledapytam zdolnaść kidać supraćtranspartnyja hranaty."/>
@@ -1767,7 +1767,7 @@
 	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Źmienšvaje košt upłyvu Ŭ Imia Najvyšejšaha Dabrabytu."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tau/HammerOfWrathDescription" value="Daje Bajavym Kaściumam - XV95 Pryvidny Karabiel, Bajavym Kaściumam XV104 - Režučy Strumień, KV128 - Štarmavaja Chvala zdolnaść źdiajśniać bolš razburalnyja ataki."/>
+	<entry name="Tau/HammerOfWrathDescription" value="Daje Bajavym Harnituram - XV95 Pryvidny Karabiel, Bajavym Harnituram XV104 - Režučy Strumień, KV128 - Štarmavaja Chvala zdolnaść źdiajśniać bolš razburalnyja ataki."/>
 	<entry name="Tau/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tau/LasDamage" value="<string name='Traits/Tau/LasDamage'/>"/>
 	<entry name="Tau/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść fuzijnaj, ijonnaj, płazmavaj i impulsnaj zbroi."/>
@@ -1794,19 +1794,19 @@
 	<entry name="Tau/PurchaseResearchDescription" value="Daje mahčymaść nabyvać daśledavańni za ŭpłyŭ."/>
 	<entry name="Tau/PurchaseResearchFlavor" value="<string name='Actions/Tau/PurchaseResearchFlavor'/>"/>
 	<entry name="Tau/RipykaVa" value="<string name='Traits/Tau/RipykaVa'/>"/>
-	<entry name="Tau/RipykaVaDescription" value="Źmienšvaje čas pierazaradki mietastratehij Kamandzira."/>
+	<entry name="Tau/RipykaVaDescription" value="Źmienšvaje čas pierazaradki mietastratehij Kamandora."/>
 	<entry name="Tau/RipykaVaFlavor" value="<string name='Traits/Tau/RipykaVaFlavor'/>"/>
 	<entry name="Tau/SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
-	<entry name="Tau/SeekerMissileDescription" value="Daje technicy i Bajavym Kaściumam XV88 - Załp rakietnuju zbroju. "/>
+	<entry name="Tau/SeekerMissileDescription" value="Daje technicy i Bajavym Harnituram XV88 - Załp rakietnuju zbroju. "/>
 	<entry name="Tau/SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Tau/SensorSpines" value="Sensarnyja Šypy"/>
 	<entry name="Tau/SensorSpinesDescription" value="Daje technicy mahčymaść ruchu praz chovanki."/>
 	<entry name="Tau/SensorSpinesFlavor" value="Sensor spines are used to feed data to an advanced ground-following flight control system, plotting safe courses through treacherous terrain that avoid traps and mines that might lie hidden from sight."/>
 	<entry name="Tau/ShieldGenerator" value="<string name='Traits/Tau/ShieldGenerator'/>"/>
-	<entry name="Tau/ShieldGeneratorDescription" value="Sistema padtrymki bajavoha kaściuma źnižaje škodu ad nieparažalnaści."/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Sistema padtrymki bajavoha harnitura źnižaje škodu ad nieparažalnaści."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StimulantInjector" value="<string name='Traits/Tau/StimulantInjector'/>"/>
-	<entry name="Tau/StimulantInjectorDescription" value="Sistema padtrymki bajavoha kaściuma palapšaje pačućcio biazbolnaha źmianšeńnia škody."/>
+	<entry name="Tau/StimulantInjectorDescription" value="Sistema padtrymki bajavoha harnitura palapšaje pačućcio biazbolnaha źmianšeńnia škody."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/SubversionBonus" value="Daśledavańnie Paŭstańniaŭ"/>
 	<entry name="Tau/SubversionBonusDescription" value="Pavialičvaje štraf łajalnaści za Źviaržeńni ŭ Haradach."/>
@@ -1818,10 +1818,10 @@
 	<entry name="Tau/UtopiaBonusDescription" value="<string name='Traits/Tau/UtopiaBonusDescription'/>"/>
 	<entry name="Tau/UtopiaBonusFlavor" value="<string name='Traits/Tau/UtopiaBonusFlavor'/>"/>
 	<entry name="Tau/VectoredRetroThrusters" value="<string name='Traits/Tau/VectoredRetroThrusters'/>"/>
-	<entry name="Tau/VectoredRetroThrustersDescription" value="Sistema padtrymki bajavoha kaściuma pavialičvaje ruch i dazvalaje adzincy ihnaravać zonu kantrolu voraha."/>
+	<entry name="Tau/VectoredRetroThrustersDescription" value="Sistema padtrymki bajavoha harnitura pavialičvaje ruch i dazvalaje adzincy ihnaravać zonu kantrolu voraha."/>
 	<entry name="Tau/VectoredRetroThrustersFlavor" value="<string name='Traits/Tau/VectoredRetroThrustersFlavor'/>"/>
 	<entry name="Tau/VelocityTracker" value="<string name='Traits/Tau/VelocityTracker'/>"/>
-	<entry name="Tau/VelocityTrackerDescription" value="Sistema padtrymki bajavoha kaściuma pavialičvaje trapnaść stralby pa aviacyi."/>
+	<entry name="Tau/VelocityTrackerDescription" value="Sistema padtrymki bajavoha harnitura pavialičvaje trapnaść stralby pa aviacyi."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="<string name='Traits/Tau/VelocityTrackerFlavor'/>"/>
 	<entry name="Tyranids/AcidBlood" value="Kisłotnaja Kroŭ"/>
 	<entry name="Tyranids/AcidBloodDescription" value="Daje žachlivym stvareńniam Tyranidaŭ i Honaru Tyranidaŭ asablivaść paškodžvańnia ŭsich atakoŭcaŭ blizkaha boju."/>

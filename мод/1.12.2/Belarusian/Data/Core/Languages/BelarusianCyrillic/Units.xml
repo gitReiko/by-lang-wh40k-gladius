@@ -111,7 +111,7 @@
 	<entry name="AstraMilitarum/ScoutSentinel" value="Выведнік-Вартавы"/>
 	<entry name="AstraMilitarum/ScoutSentinelDescription" value="Лёгкі бранявік, які сьпецыялізуецца на выведцы."/>
 	<entry name="AstraMilitarum/ScoutSentinelFlavor" value="The Sentinel is a fast-moving combat walker employed to scout dense terrain and provide close infantry fire support. With surprising speed and locomotive dexterity, Sentinels can traverse terrain that would confound other armoured vehicles. The lighter-armoured Scout Sentinels, in particular, are used to range ahead of the main battle line, setting up brutal ambushes or launching pin-point raids."/>
-	<entry name="AstraMilitarum/TankCommander" value="Камандзір Танка"/>
+	<entry name="AstraMilitarum/TankCommander" value="Камандор Танка"/>
 	<entry name="AstraMilitarum/TankCommanderDescription" value="Магутны герой-танк, які ўзмацняе блізкія хаўрусныя танкі."/>
 	<entry name="AstraMilitarum/TankCommanderFlavor" value="A Tank Commander rides to battle in the cupola of a mighty Leman Russ battle tank. These grizzled men are virtually one with their machine, possessing an implicit knowledge of armoured warfare in all its forms. The average Tank Commander is a steely eyed ace, heading up a crew of the very best their regiment has to offer."/>
 	<entry name="AstraMilitarum/TechpriestEnginseer" value="Тэхнажрэц-Машынабачац"/>
@@ -631,7 +631,7 @@
 	<entry name="SpaceMarines/Whirlwind" value="Віхура"/>
 	<entry name="SpaceMarines/WhirlwindDescription" value="Артылерыйны танк з размаітымі ракетамі для паразы варожых пазіцыяў здалёку."/>
 	<entry name="SpaceMarines/WhirlwindFlavor" value="The Whirlwind is the Adeptus Astartes’ foremost artillery tank. Highly mobile despite its fire support role, it excels in the annihilation of massed infantry and light armour. Able to keep pace with the swift advance of a Space Marine strike force, squadrons of Whirlwinds lurk behind or amongst their comrades’ formations, always ready to unleash a thundering barrage of missiles upon the foe at extreme range. When working in concert with farranging Land Speeders ‘spotters’, Whirlwind artillery tanks are utterly lethal, even to garrisons of enemy fortifications and troops occupying concealed positions."/>
-	<entry name="Tau/BroadsideBattlesuit" value="Баявы Касьцюм - XV88 Залп"/>
+	<entry name="Tau/BroadsideBattlesuit" value="Баявы Гарнітур - XV88 Залп"/>
 	<entry name="Tau/BroadsideBattlesuitDescription" value="Цяжкабраняваная пяхота з далёкабойным узбраеньнем."/>
 	<entry name="Tau/BroadsideBattlesuitFlavor" value="With deliberate strides, XV88 Broadside Battlesuits advance into optimum firing positions. Inside each of the heavily armoured battlesuits, holotargeting data dances across the retinas of the grim-faced pilot as he swings the suit's mighty guns towards the foe. Each Broadside is a walking gun battery, carrying either a twin-linked heavy rail rifle that can smash through Imperial power armour as though it were glass, or high-yield missile pods capable of wiping out swathes of enemy infantry in lethal explosions."/>
 	<entry name="Tau/BuilderDrone" value="Будаўнічыя Дроны"/>
@@ -640,10 +640,10 @@
 	<entry name="Tau/CadreFireblade" value="Кадры - Агнявы Клінок"/>
 	<entry name="Tau/CadreFirebladeDescription" value="Герой, які ўзмацняе агнявыя лініі."/>
 	<entry name="Tau/CadreFirebladeFlavor" value="As the enemy surges closer, the Fireblade's courage steels his comrades, steadying the firing line and focussing the mind of every Fire Warrior present. Raising his pulse rifle and sighting down its length, the Cadre Fireblade calls out enemy weak spots and optimal firing solutions to his followers, watching the foe press closer with a practised eye. Only at the optimum moment does the Fireblade bark out the order to fire. At the Fireblade's command, the T'au gunline unleashes a storm of fire, an energised squall that tears the enemy to pieces with terrible efficiency."/>
-	<entry name="Tau/Commander" value="Камандзір"/>
+	<entry name="Tau/Commander" value="Камандор"/>
 	<entry name="Tau/CommanderDescription" value="Герой з рэактыўным ранцам, які каардынуе метастратэгіі Т'ау."/>
 	<entry name="Tau/CommanderFlavor" value="The T'au Commander surges into battle in a blaze of firepower. Dynamic and determined, the Commander places every shot perfectly for maximum lethality. Veterans of hundreds of battles, each T'au Commander has the honour of piloting a battlesuit that represents the pinnacle of their race's military technology. The Commander's weapons are of the finest quality, often including special issue armaments that annihilate swathes of enemy infantry or tear battle tanks apart with a single shot."/>
-	<entry name="Tau/CrisisBattlesuit" value="Баявы Касьцюм - XV8 Крызіс"/>
+	<entry name="Tau/CrisisBattlesuit" value="Баявы Гарнітур - XV8 Крызіс"/>
 	<entry name="Tau/CrisisBattlesuitDescription" value="Універсальная пяхота з рэактыўнымі ранцамі і зброяй блізкага бою."/>
 	<entry name="Tau/CrisisBattlesuitFlavor" value="Whether leaping into battle from low atmosphere or bounding toward the foe with their jump jets flaring, XV8 Crisis Battlesuits make for a truly inspiring sight. Heroes of the T'au Empire, these elite shas’ui have every high-tech weapon and support system at their disposal as they cut deep into the enemy lines with guns blazing. Salvoes of missiles and plasma fire tear heavy infantry to pieces and vaporise their armoured support. Gouts of superheated flame and whirring volleys of burst cannon fire sweep lesser enemies away like autumn leaves upon a gale."/>
 	<entry name="Tau/Devilfish" value="TY7 - Д'ябальская Рыба"/>
@@ -655,7 +655,7 @@
 	<entry name="Tau/FireWarrior" value="Ваяры Агню"/>
 	<entry name="Tau/FireWarriorDescription" value="Асноўная ўніверсальная пяхота."/>
 	<entry name="Tau/FireWarriorFlavor" value="The strobing flare of massed pulse fire announces the attack of a Fire Warrior Strike Team. Whether leaping from the hatch of a hovering Devilfish or drawn up in a resolute firing line, the warriors of a Strike Team maintain a constant blizzard of shots that cuts their foes to pieces. Howling pulse rifles, pulse carbines and tactical support turrets lay down a withering carpet of suppressing fire, while EMP grenades kick out shimmering shockwaves of electromagnetic force that leave enemy vehicles as cold, dead husks."/>
-	<entry name="Tau/GhostkeelBattlesuit" value="Баявы Касьцюм - XV95 Прывідны Карабель"/>
+	<entry name="Tau/GhostkeelBattlesuit" value="Баявы Гарнітур - XV95 Прывідны Карабель"/>
 	<entry name="Tau/GhostkeelBattlesuitDescription" value="Жахлівая адзінка з рэактыўным ранцам, якая добра маскіруецца і саслабляе ворагаў."/>
 	<entry name="Tau/GhostkeelBattlesuitFlavor" value="Ghostkeel Battlesuits lunge from the shadows to rake their prey with lethal volleys of fire. Wreathed in stealth fields projected by their hovering drones, the half-seen battlesuits move with terrifying speed for their size. One moment the enemy is advancing across the battlefield, the next looming killers are bounding through their midst with guns blazing. Panicked return fire flies wide, the Ghostkeels' attackers unable to draw a bead on their sensor-baffled targets."/>
 	<entry name="Tau/GravInhibitorDrone" value="Дрон - MV33 Граў-Інгібітар"/>
@@ -694,10 +694,10 @@
 	<entry name="Tau/ReconDrone" value="MB3 - Дроны-Выведнікі"/>
 	<entry name="Tau/ReconDroneDescription" value="Баявы выведны дрон."/>
 	<entry name="Tau/ReconDroneFlavor" value="The Recon Drone mounts an array of support systems to aid Pathfinder Teams in the field."/>
-	<entry name="Tau/RiptideBattlesuit" value="Баявы Касьцюм XV104 - Рэжучы Струмень"/>
+	<entry name="Tau/RiptideBattlesuit" value="Баявы Гарнітур XV104 - Рэжучы Струмень"/>
 	<entry name="Tau/RiptideBattlesuitDescription" value="Цяжкабраняванае жахлівае стварэньне з рэактыўным ранцам, выдатнай агнявой моцай і шматмэтавым рэактарам новая зорка."/>
 	<entry name="Tau/RiptideBattlesuitFlavor" value="Looming through the smoke and flames of the battlefield, XV104 Riptides are a truly terrifying sight. The teams' strides shake the ground, and their jump jets roar thunderously as they make long, dynamic bounds across the war zone. Foes quail in horror as the massive suits swings their heads in their direction, the pilots and their networked Als bringing their mighty arsenals to bear. With a rising whine, the Riptides' nova reactors power up, a momentary glow gathering around the battlesuits' jutting guns before they turn the world to fire and light."/>
-	<entry name="Tau/RVarnaBattlesuit" value="Баявы Касьцюм XV107 - Р'Варна"/>
+	<entry name="Tau/RVarnaBattlesuit" value="Баявы Гарнітур XV107 - Р'Варна"/>
 	<entry name="Tau/RVarnaBattlesuitDescription" value="Цяжка браняванае жахлівае стварэньне з выключна магутнай далёкабойнай зброяй і шматмэтавым новым рэактарам."/>
 	<entry name="Tau/RVarnaBattlesuitFlavor" value="A development of the Riptide, the T'au XV107 R'varna battlesuit sacrifices mobility for heavier armour and increased firepower in the form of two pulse submunition cannon, experimental weapons systems which fire micro-cluster projectiles capable of saturating the target area in a deadly storm of plasma pulses."/>
 	<entry name="Tau/ShieldDrone" value="MV4 - Дроны-Шчыты"/>
@@ -709,7 +709,7 @@
 	<entry name="Tau/SkyRayGunship" value="Карабель TX78 - Сонечны Прамень"/>
 	<entry name="Tau/SkyRayGunshipDescription" value="Луналы танк, які абсталяваны магутнымі ракетамі прызначанымі для першага ўдару і знішчэньня авіяцыі."/>
 	<entry name="Tau/SkyRayGunshipFlavor" value="While the Hammerhead is a dynamic hunter, its sister gunship the TX78 Sky Ray is a far more sinister killer. Mounting a complement of seeker missiles beneath its upswept ordnance racks, the Sky Ray typically lurks behind the main T'au advance, remaining mute and concealed until the moment comes to strike. The Sky Ray often fulfils a supporting role, and its ballistic arsenal can be called in by any T'au with a markerlight to carry out a remote strike on a sufficiently valuable target."/>
-	<entry name="Tau/StealthBattlesuit" value="Баявыя Касьцюмы XV25 - Невідзімка"/>
+	<entry name="Tau/StealthBattlesuit" value="Баявыя Гарнітур XV25 - Невідзімка"/>
 	<entry name="Tau/StealthBattlesuitDescription" value="Пяхота з рэактыўнымі ранцамі. Сьпецыялізуецца на ўдарах з тылу і прабіваньні брані."/>
 	<entry name="Tau/StealthBattlesuitFlavor" value="For some foes, the only hint of danger is a slight sensor-ghost, or the unnerving feeling of being watched. For others there is no warning at all, before the world lights up with chattering burst cannons and hissing fusion blasters. Flickering out from amid their camouflage fields come the T'au Stealth Suits, their point-blank salvoes chopping enemy infantry to steaming offal and blowing their armoured vehicles sky high."/>
 	<entry name="Tau/StealthDrone" value="MV5 - Дроны-Невідзімкі"/>
@@ -815,7 +815,7 @@
 	<entry name="Orks/EliteWarboss" value="Огрыл Згуба Вульля"/>
 	<entry name="SpaceMarines/AdeptusMechanicusQuestCamp" value="Крэпасьць Падзелу"/>
 	<entry name="SpaceMarines/RebelFortressOfRedemption" value="Сховішча Тырана"/>
-	<entry name="Tau/EliteCommander" value="Камандзір Халоднае Полымя"/>
+	<entry name="Tau/EliteCommander" value="Камандор Халоднае Полымя"/>
 	<entry name="Tau/RebelCamp" value="Лагер Мяцежнікаў Халоднага Полымя"/>
 	<entry name="Tyranids/ChaosQuestCamp" value="Перламутравы Вузел"/>
 	<entry name="Tyranids/MeleeCamp" value="Зуб Ваула"/>

@@ -462,7 +462,7 @@
 	<entry name="FoundCityNecrons" value="Абудзіць Горад"/>
 	<entry name="FoundCityNecronsDescription" value="Спажывае адзінку для абуджэньня новага горада.<br/><br/>Гарады можна будаваць толькі на месцы Грабніц Некронаў у выпадку адсутнасьці іншых гарадоў у радыусе 4 плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на 6."/>
 	<entry name="FullThrottle" value="“Поўны Газ!”"/>
-	<entry name="FullThrottleDescription" value="Дадае рух Камандзіру Танка і суседнім хаўрусным танкам."/>
+	<entry name="FullThrottleDescription" value="Дадае рух Камандору Танка і суседнім хаўрусным танкам."/>
 	<entry name="FullThrottleFlavor" value="The officer leads a glorious tank charge that grinds the enemy beneath his treads."/>
 	<entry name="GateOfInfinity" value="Брама Бясконцасьці"/>
 	<entry name="GateOfInfinityDescription" value="Тэлепартуецца да абранай дасьледаванай пліткі."/>
@@ -471,7 +471,7 @@
 	<entry name="GrabbinKlawDescription" value="Зьнерухомлівае абраную варожую наземную машыну."/>
 	<entry name="GrabbinKlawFlavor" value="In their pursuit of ever-larger Power Klaws, Ork Meks occasionally make ones that are simply too large for even the most over-sized Boss or Deff Dread. These are mounted on vehicles, where they are used to immobilise enemy vehicles or perform outrageous handbrake turns."/>
 	<entry name="GunnersKillOnSight" value="“Стралкі, Забівайце Ўсё, што Бачыце!”"/>
-	<entry name="GunnersKillOnSightDescription" value="Павялічвае атаку ў далёкім баі Камандзіра Танка і суседніх хаўрусных танкаў."/>
+	<entry name="GunnersKillOnSightDescription" value="Павялічвае атаку ў далёкім баі Камандора Танка і суседніх хаўрусных танкаў."/>
 	<entry name="GunnersKillOnSightFlavor" value="The officer gives his men free rein to unleash discretionary fire."/>
 	<entry name="Hallucination" value="Галюцынацыі"/>
 	<entry name="HallucinationDescription" value="Зьніжае атакі абранай варожай адзінкі."/>
@@ -821,7 +821,7 @@
 	<entry name="SpawnUnits" value="Выклікае %1%"/>
 	<entry name="SpawnUnitsHint" value="<style name='Title'/>Выклікае %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="StrikeAndShroud" value="“Бей і хавайся!”"/>
-	<entry name="StrikeAndShroudDescription" value="Стварае дымавую заслону на плітцы з Камандзірам Танкаў і суседніх плітках з хаўруснымі танкамі для забесьпячэньня зьніжэньня шкоды ў далёкім баі. "/>
+	<entry name="StrikeAndShroudDescription" value="Стварае дымавую заслону на плітцы з Камандорам Танкаў і суседніх плітках з хаўруснымі танкамі для забесьпячэньня зьніжэньня шкоды ў далёкім баі. "/>
 	<entry name="SummaryExecution" value="Сьмяротная Кара"/>
 	<entry name="SummaryExecutionDescription" value="Карае сьмерцю члена атрада суседняй пяхотнай адзінкі, каб аднавіць мараль найблізкіх хаўрусных адзінак."/>
 	<entry name="SummaryExecutionFlavor" value="In extremis, a Commissar must be prepared to execute wavering soldiers or incompetent officers without a moment's remorse; few things enforce discipline better than a malcontent or coward being shot dead for their failings, and this message is all the stronger when a mass-reactive bolt shell sprays a Guardsman's brains across his horrified comrades in a shower of gore."/>
@@ -909,7 +909,7 @@
 	<entry name="Tau/RinyonDescription" value="Метастратэгія, якая павялічвае трапнасьць хаўрусных адзінак Т'аў у вобласьці супраць варожых адзінак, суседніх зь іншымі хаўруснымі адзінкамі. Мае агульны зь іншымі метастратэгіямі час перазарадкі."/>
 	<entry name="Tau/RinyonFlavor" value="“Your enemy encircles you. His troops are close. Too close. Your targeting network assigns every Fire Caste a victim, not his neighbour. You fire as one, every shot strikes, they fall as one. A distracted enemy is as good as dead.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/Ripyka" value="Рып'айка (Тысяча Кінжалаў)"/>
-	<entry name="Tau/RipykaDescription" value="Зьмяншае час перазарадкі метастратэгій Камандзіра."/>
+	<entry name="Tau/RipykaDescription" value="Зьмяншае час перазарадкі метастратэгій Камандора."/>
 	<entry name="Tau/RipykaFlavor" value="“The enemy’s armour is thick, your blade makes only a scratch. In his arrogance, he allows you to strike. Hit the same spot, ten, a hundred, a thousand times. That scratch becomes a dent becomes a hole becomes his death. Water erodes the stone.”<br/>  — Tutor Falsemoon"/>
 	<entry name="Tau/ProjectShield" value="Праектар-Шчыт"/>
 	<entry name="Tau/ProjectShieldDescription" value="Павялічвае зьніжэньне шкоды па абранай хаўруснай адзінцы."/>
@@ -985,7 +985,7 @@
 	<entry name="Tyranids/GraspingTail" value="Хваткі Хвост"/>
 	<entry name="Tyranids/GraspingTailDescription" value="Зьніжае атакі абранай варожай адзінкі."/>
 	<entry name="Tyranids/GraspingTailFlavor" value="If a Malanthrope must engage in battle, it makes for a difficult foe. Its sinuous body is hard to strike, its grasping tail can immobilise foes or their weapons, and its feeder tendrils are highly poisonous, causing excruciating pain. If a foe becomes paralysed by its tendrils, the Malanthrope will begin to absorb it alive, to acquire the choicest, freshest genetic data."/>
-	<entry name="Tyranids/HiveCommander" value="Камандзір Вульля"/>
+	<entry name="Tyranids/HiveCommander" value="Камандор Вульля"/>
 	<entry name="Tyranids/HiveCommanderDescription" value="Тыран Вульля павялічвае шкоду і зьніжэньне шкоды хаўрусных адзінак Тыранідаў у вобласьці."/>
 	<entry name="Tyranids/HiveCommanderFlavor" value="“A new Tyrant joined the fray and, in an eyeblink, the whole character of the swarm changed. The ravening berserker-spirit that had driven the Tyranids onto the ridge was gone as if it had never existed. Left in its place was something cannier and infinitely more worrisome. It was then that I knew the battle to be lost.”<br/>  — Sergeant Torias Telion, Ultramarines 10th Company"/>
 	<entry name="Tyranids/IndescribableHorror" value="Неапісальны Жах"/>
