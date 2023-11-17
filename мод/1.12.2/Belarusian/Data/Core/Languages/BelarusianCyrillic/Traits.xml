@@ -434,7 +434,7 @@
 	<entry name="ChaosSpaceMarines/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="ChaosSpaceMarines/CityTier3Flavor" value="The worshippers of Chaos have shed their pretences. Where before they drew souls to them by their weaknesses or by daemon seduction, now they do it by whips and chains. Packs of slavers and warbands hunt their city’s hinterland for lives to sacrifice. Only the strongest can escape their reach; the weak are grist to the mill for Chaos."/>
 	<entry name="ChaosSpaceMarines/Crazed" value="Звар'яцелы"/>
-	<entry name="ChaosSpaceMarines/CrazedDescription" value="Калі адзінка атрымала пашкоджаньні ў папярэднім кроку, яна атрымвае выпадковым чынам адну з наступных асаблівасьцяў: агнявую нястрымнасьць, узрослы гнеў, крывавую лютасьць."/>
+	<entry name="ChaosSpaceMarines/CrazedDescription" value="Калі адзінка атрымала пашкоджаньні ў папярэднім кроку, яна атрымвае выпадковым чынам адну з наступных асаблівасьцяў: Агнявую Нястрымнасьць, Узрослы Гнеў, Крывавую Лютасьць."/>
 	<entry name="ChaosSpaceMarines/CrazedFlavor" value="All Helbrutes are psychotic and dangerous monstrosities—a veteran of the Long War driven insane by tortured entombment. So attacking a Helbrute might seem rational, but if you fail to destroy it outright, you will only make it angrier and crazier."/> <!-- Hellbrute. -->
 	<entry name="ChaosSpaceMarines/ChampionOfChaos" value="Чэмпіён Хаосу"/>
 	<entry name="ChaosSpaceMarines/ChampionOfChaosDescription" value="Забойства варожай адзінкі можа ўзнагародзіць адзінку дарункам хаосу або ператварыць не герояў ува Параджэньне Хаосу або Дэман-Прынца."/>
@@ -697,7 +697,7 @@
 	<entry name="Eldar/HoloFieldsDescription" value="Павялічвае зьніжэньне шкоды, калі адзінка перасунулася ў гэты крок."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="Harnessing kinetic energy to shimmer and distort the vehicle’s silhouette, holo-fields prevent the foe from accurately targeting the craft as it sweeps across the battlefield."/>
 	<entry name="Eldar/InescapableAccuracy" value="Непазьбежная Трапнасьць"/>
-	<entry name="Eldar/InescapableAccuracyDescription" value="Павялічвае трапнасьць супраць звычайных і рэактыўных матацыклаў, авіяцыі і машынаў, якія рушаць у гэты крок."/>
+	<entry name="Eldar/InescapableAccuracyDescription" value="Павялічвае трапнасьць супраць звычайных і аэрацыклаў, авіяцыі і машынаў, якія рушаць у гэты крок."/>
 	<entry name="Eldar/InescapableAccuracyFlavor" value="Inherited aeons of combat experience against their kin, the raiding Drukhari, has taught the Dark Reaper Aspect Warriors of the Eldar how to track even their own jinking, holofield-protected jetbikes. Hitting such targets with their deadly Reaper missiles is simple to them—and all part of their emulation of Khaine in his role of The Destroyer."/>
 	<entry name="Eldar/InfantryBuildingBonus" value="Заклік Асур'янаў"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
@@ -917,10 +917,10 @@
 	<entry name="ItWillNotDie" value="Гэта Не Памрэ"/>
 	<entry name="ItWillNotDieDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="ItWillNotDieFlavor" value="In the dark corners of the galaxy, there are creatures that heal at a terrifying speed."/>
-	<entry name="JetPack" value="Рэактыўны Ранец"/>
+	<entry name="JetPack" value="Аэраранец"/>
 	<entry name="JetPackDescription" value="Адзінка можа перасоўвацца праз ваду. Ігнаруе штрафы ад ракі і пустазельля-дроту."/>
 	<entry name="JetPackFlavor" value="Jet packs are designed to provide stable firing platforms rather than a means of getting into close combat."/>
-	<entry name="Jetbike" value="Рэактыўны Матацыкл"/>
+	<entry name="Jetbike" value="Аэрацыкл"/>
 	<entry name="JetbikeDescription" value="Адзінка можа перасоўвацца праз ваду. Ігнаруе штрафы ад ракі і пустазельля-дроту."/>
 	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Aeldari had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
 	<entry name="Jink" value="<string name='Actions/Jink'/>"/>
@@ -1033,7 +1033,7 @@
 	<entry name="Necrons/GloomPrismDescription" value="Павялічвае зьніжэньне шкоды ад вядзьмарскага агню."/>
 	<entry name="Necrons/GloomPrismFlavor" value="<string name='Actions/Necrons/GloomPrismFlavor'/>"/>
 	<entry name="Necrons/GravityPulse" value="<string name='Actions/Necrons/GravityPulse'/>"/>
-	<entry name="Necrons/GravityPulseDescription" value="Зьніжае рух і наносіць шкоду авіяцыі, рэактыўным матацыклам і луналым адзінкам у радыусе."/>
+	<entry name="Necrons/GravityPulseDescription" value="Зьніжае рух і наносіць шкоду авіяцыі, аэрацыклам і луначам у радыусе."/>
 	<entry name="Necrons/GrowthBonus" value="Рытуалы Рэанімацыі"/>
 	<entry name="Necrons/GrowthBonusDescription" value="Павялічвае хуткасьць узросту гарадоў."/>
 	<entry name="Necrons/GrowthBonusFlavor" value="Establishing more efficient protocols for recovering the long-buried Necrons from their tombs reduces the loss from clumsy slave excavators."/>
@@ -1189,7 +1189,7 @@
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Павялічвае шкоду і зьніжэньне шкоды."/>
 	<entry name="Orks/Flyboss" value="Лётабос"/>
-	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі, рэактыўных матацыклаў і луналых адзінак."/>
+	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі, аэрацыклаў і луначоў."/>
 	<entry name="Orks/FlybossFlavor" value="Flybosses are ace pilots who have survived more dogfights than they can count (even when using their toes)."/>
 	<entry name="Orks/Gitfinda" value="Шукачы"/>
 	<entry name="Orks/GitfindaDescription" value="Павялічвае трапнасьць стральбы ў далёкім баі, калі адзінка застаецца нерухомай."/>
@@ -1307,9 +1307,9 @@
 	<entry name="Salvo" value="Залп"/>
 	<entry name="SalvoDescription" value="Зьменшвае ўдвая атакі і далёкасьць, калі адзінка перасунулася."/>
 	<entry name="SavantInterlocution" value="Гутарка з Навукоўцам"/>
-	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі і луналых адзінак, калі знаходзіцца поруч з хаўрусным паляўнічым."/>
+	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі і луначоў, калі знаходзіцца поруч з хаўрусным паляўнічым."/>
 	<entry name="SavantLock" value="Замок Навукоўца"/>
-	<entry name="SavantLockDescription" value="Павялічвае трапнасьць супраць авіяцыі, рэактыўных матацыклаў і луналых адзінак."/>
+	<entry name="SavantLockDescription" value="Павялічвае трапнасьць супраць авіяцыі, аэрацыклаў і луначоў."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
 	<entry name="SeekerMissileDescription" value="Зьменшвае далёкасьць супраць цэлей не пазначаных маркерам. Не патрабуе прамой бачнасьці супраць цэлей не пазначаных маркерам."/>
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
@@ -1497,7 +1497,7 @@
 	<entry name="SkilledJink" value="<string name='Actions/SkilledJink'/>"/>
 	<entry name="SkilledJinkDescription" value="<string name='Traits/JinkDescription'/>"/>
 	<entry name="SkilledJinkFlavor" value="<string name='Actions/SkilledJinkFlavor'/>"/>
-	<entry name="Skimmer" value="Луналая Адзінка"/>
+	<entry name="Skimmer" value="Лунач"/>
 	<entry name="SkimmerDescription" value="Адзінка можа перасоўвацца праз ваду. Ігнаруе штрафы ад рэкаў і пустазельля-дроту. Зьніжае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="SkimmerFlavor" value="Some highly advanced vehicles are fitted with anti-gravity drives that allow them to skim swiftly over tough terrain and intervening troops, making them perfect for surprise flanking attacks."/>
 	<entry name="SkullAltar" value="<string name='Features/SkullAltar'/>"/>
@@ -1507,7 +1507,7 @@
 	<entry name="SkullsForTheSkullThroneDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SkullsForTheSkullThroneFlavor" value="Khorne respects only the strong and boundlessly murderous."/>	
 	<entry name="Skyfire" value="Нябесны Агонь"/>
-	<entry name="SkyfireDescription" value="Павялічвае трапнасьць супраць авіяцыі. Зьніжае трапнасьць супраць наземных адзінак апроч луналых адзінак, рэактыўных матацыклаў або ранцаў."/>
+	<entry name="SkyfireDescription" value="Павялічвае трапнасьць супраць авіяцыі. Зьніжае трапнасьць супраць наземных адзінак апроч луначоў, аэрацыклаў і аэраранцаў."/>
 	<entry name="SkyfireFlavor" value="Skyfire weapons excel at shooting down enemy aircraft and skimmers."/>
 	<entry name="SlowAndPurposeful" value="Павольна і Мэтліва"/>
 	<entry name="SlowAndPurposefulDescription" value="Здымае штраф за цяжкую і артылерыйную зброю."/>
@@ -1627,7 +1627,7 @@
 	<entry name="Tau/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Tau/CityTier3Flavor" value="The thick-skinned Anthrazods are a slow-thinking race normally employed by the T'au for dangerous, heavy-duty activities like asteroid mining—but directed by the Demiurg and Earth Caste, they can produce city substructures and transport tunnels like no-one else, linking up distant sectors with ease."/>
 	<entry name="Tau/ClusterFire" value="Кластарны Агонь"/>
-	<entry name="Tau/ClusterFireDescription" value="Павялічвае атакі і шкоду супраць звычайных і рэактыўных матацыклаў ці вельмі буйных адзінак. Моцна павялічвае атакі і шкоду супраць жахлівых стварэньняў, машынаў і фартыфікацыяў."/>
+	<entry name="Tau/ClusterFireDescription" value="Павялічвае атакі і шкоду супраць матацыклаў і аэрацыклаў ці вельмі буйных адзінак. Моцна павялічвае атакі і шкоду супраць жахлівых стварэньняў, машынаў і фартыфікацыяў."/>
 	<entry name="Tau/ClusterFireFlavor" value="The R’Varna’s unique Pulse Submunition Cannons work at extreme ranges, saturating their target area with micro-bursts of plasma. The larger the target, the more burst-waves of plasma strike near-simultaneously, ripping it into smaller pieces with ease."/>
 	<entry name="Tau/CounterfireDefenceSystem" value="Сістэма Абароны Супраць Агню"/>
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Павялічвае трапнасьць атак назіраньня."/>
