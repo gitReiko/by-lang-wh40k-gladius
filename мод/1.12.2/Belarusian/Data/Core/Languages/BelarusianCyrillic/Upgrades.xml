@@ -1050,7 +1050,7 @@
 	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Касьмічным Марынам Хаосу, Апусташальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Вялікім Латуневым Скарпіёнам, Пякельным Зьверам, Дэманічным Катам, Атрутным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
+	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Вялікім Латуневым Скарпіёнам, Хэлбрутам, Дэманічным Катам, Атрутным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncher" value="<string name='Weapons/HavocLauncher'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Дае Насарогам Хаосу і Зямным Рэйдарам Хаосу выбуховую зброю сярэдняй далёкасьці."/>
@@ -1388,7 +1388,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="<string name='Traits/Orks/BonusVehiclesProductionDescription'/>"/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
 	<entry name="Orks/Bosspole" value="Шост Боса"/>
-	<entry name="Orks/BosspoleDescription" value="Яшчэ болей зьніжае страты маралі ад Правіла Мобаў для Буйных Мекаў, Драбаў, Меганобаў, Танкабояў, Войнацыкляў і Вайнабосаў."/>
+	<entry name="Orks/BosspoleDescription" value="Яшчэ болей зьніжае страты маралі ад Правіла Мобаў для Буйных Мекаў, Хлопцаў, Меганобаў, Танкабояў, Войнацыкляў і Вайнабосаў."/>
 	<entry name="Orks/BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
 	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
 	<entry name="Orks/CityEnergyDescription" value="Павялічвае вытворчасьць энергіі ў гарадах Оркаў."/>
@@ -1421,7 +1421,7 @@
 	<entry name="Orks/DakkajetSupaShootaDescription" value="Дае Дакка-Зьнішчалам супер штралялу."/>
 	<entry name="Orks/DakkajetSupaShootaFlavor" value="<string name='Weapons/TwinLinkedSupaShootaFlavor'/>"/>
 	<entry name="Orks/EavyArmour" value="<string name='Traits/EavyArmour'/>"/>
-	<entry name="Orks/EavyArmourDescription" value="Павялічвае браню Драбам і Вайнабосам."/>
+	<entry name="Orks/EavyArmourDescription" value="Павялічвае браню Хлопцам і Вайнабосам."/>
 	<entry name="Orks/EavyArmourFlavor" value="<string name='Traits/EavyArmourFlavor'/>"/>
 	<entry name="Orks/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Orks/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
@@ -1478,7 +1478,7 @@
 	<entry name="SistersOfBattle/AdditionalSacredRiteDescription" value="Два Сьвяшчэнных Абрады могуць быць актыўны адначасова."/>
 	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/AircraftsMissiles" value="Авіацыйныя Ракеты"/>
-	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Дае Ракеты Нябесны Ўдар Маланкавым Зьнішчальнікам і Ракеты Пякельны Ўдар Ударным Зьнішчальнікам Помсьнік."/>
+	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Дае Ракеты Нябесны Ўдар Маланкавым Зьнішчальнікам і Ракеты Пякельны Ўдар Ударным Зьнішчальнікам · Помсьнік."/>
 	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="These missiles allow the aircrafts to effectively engage a variety of targets; Hellstrike missiles for missions targeting armoured vehicles, Skystrike missiles for enemy air forces."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagus'/>"/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Паляпшае браню Умярцьвіцеляў."/>
@@ -1490,7 +1490,7 @@
 	<entry name="SistersOfBattle/AvengeTheMartyrsDescription" value="Павялічвае зьніжэньне стратаў маралі ад Заплу Помствы."/>
 	<entry name="SistersOfBattle/AvengeTheMartyrsFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
 	<entry name="SistersOfBattle/ChaffLauncher" value="Пускавая Ўсталёўка Падманак"/>
-	<entry name="SistersOfBattle/ChaffLauncherDescription" value="Дае Маланкавым Зьнішчальнікам і Ударным Зьнішчальнікам Помсьнік здольнасьць выпускаць падманкі, якія павялічваюць зьніжэньне шкоды ад далёкіх атак."/>
+	<entry name="SistersOfBattle/ChaffLauncherDescription" value="Дае Маланкавым Зьнішчальнікам і Ударным Зьнішчальнікам · Помсьнік здольнасьць выпускаць падманкі, якія павялічваюць зьніжэньне шкоды ад далёкіх атак."/>
 	<entry name="SistersOfBattle/ChaffLauncherFlavor" value="<string name='Actions/DispenseChaffFlavor'/>"/>
 	<entry name="SistersOfBattle/ChaseTheProfane" value="<string name='Actions/SistersOfBattle/ChaseTheProfane'/>"/>
 	<entry name="SistersOfBattle/ChaseTheProfaneDescription" value="<string name='Actions/SistersOfBattle/ChaseTheProfaneDescription'/>"/>
@@ -1514,7 +1514,7 @@
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="<string name='Actions/SistersOfBattle/EternalCrusadeDescription'/>"/>
 	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="<string name='Actions/SistersOfBattle/EternalCrusadeFlavor'/>"/>
 	<entry name="SistersOfBattle/ExpertFighters" value="Зьнішчальнікі-Асы"/>
-	<entry name="SistersOfBattle/ExpertFightersDescription" value="Павялічвае трапнасьць Маланкавых Зьнішчальнікаў і Ударных Зьнішчальнікаў Помсьнік."/>
+	<entry name="SistersOfBattle/ExpertFightersDescription" value="Павялічвае трапнасьць Маланкавых Зьнішчальнікаў і Ударных Зьнішчальнікаў · Помсьнік."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="<string name='Traits/SistersOfBattle/ExpertFightersFlavor'/>"/>
 	<entry name="SistersOfBattle/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="SistersOfBattle/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
@@ -1550,7 +1550,7 @@
 	<entry name="SistersOfBattle/MeltaBombDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасьць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорум"/>
-	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам Помсьнік і Рыцарам-Капійнікам Цэрастус."/>
+	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам Цэрастус."/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationDescription'/>"/>
@@ -1580,7 +1580,7 @@
 	<entry name="SistersOfBattle/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
 	<entry name="SistersOfBattle/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="SistersOfBattle/UniversalCatechism" value="Універсальны Катэхізіс"/>
-	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Дае Шчыт Веры Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам Помсьнік і Рыцарам-Капійнікам Цэрастус."/>
+	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Дае Шчыт Веры Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам Цэрастус."/>
 	<entry name="SistersOfBattle/UniversalCatechismFlavor" value="Imperial troops requisitioned for the Wars of Faith often end up praying side-by-side with the sisters of the Adepta Sororitas before each battle, finding guidance in their convictions."/>
 	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Actions/SistersOfBattle/VengefulSpirit'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritDescription" value="<string name='Actions/SistersOfBattle/VengefulSpiritDescription'/>"/>

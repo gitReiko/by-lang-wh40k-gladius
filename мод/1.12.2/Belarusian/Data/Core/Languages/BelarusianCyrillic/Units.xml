@@ -55,7 +55,7 @@
 	<entry name="AdeptusMechanicus/SkorpiusDuneriderDescription" value="Транспарт Дактрыны Імператыў."/>
 	<entry name="AdeptusMechanicus/SkorpiusDuneriderFlavor" value="Skorpius Duneriders enable forge lords to ferry squads of their cyborg infantry onto the front lines, overwhelming the foe through swiftly redeployed weight of numbers. Duneriders sweep onto enemy defences in a cloud of chemical smoke, saturating the area with heavy calibre shot as their payload of warriors disembarks."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus" value="Тэхнажрэц-Домінус"/>
-	<entry name="AdeptusMechanicus/TechPriestDominusDescription" value="Самадастатковы герой Сьпеваў Амнісіі са здольнасьцямі выведкі і ўзмацненьнямі шкоды."/>
+	<entry name="AdeptusMechanicus/TechPriestDominusDescription" value="Самадастатковы герой Сьпеваў Амнісіі са здольнасьцямі выведкі і ўзмацненьня шкоды."/>
 	<entry name="AdeptusMechanicus/TechPriestDominusFlavor" value="Slithering, floating, stalking with avian gait, the Tech-Priests Dominus scour their surroundings with carrion eagerness. Ever vigilant for lost treasures they can pluck from the corpses of the worlds they conquer, their minds boil hot with data, and their spines are bent under the immense weight of knowledge they have torn from an unwilling universe. Despite their crooked appearance, these warrior magi are amongst the deadliest and most determined of all the Omnissiah’s hunters."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus" value="Тэхнажрэц-Маніпулус"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulusDescription" value="Герой Сьпеваў Амнісіі з магутнымі здольнасьцямі падтрымкі і нейтралізацыйнымі эфектамі."/>
@@ -82,7 +82,7 @@
 	<entry name="AstraMilitarum/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="AstraMilitarum/HeadquartersFlavor" value="<string name='Buildings/AstraMilitarum/HeadquartersFlavor'/>"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad" value="Цяжкаўзброены Разьлік"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquadDescription" value="Пяхотная адзінка ўзброеная супраць цяжка браняваных цэляў."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquadDescription" value="Пяхотная адзінка ўзброеная супраць цяжкабраняваных цэляў."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquadFlavor" value="Infantry heavy weapons are typically crewed by a team of two men; one fires the weapon while the other supplies the ammunition, and between them they can relocate their weapon if needs be."/>
 	<entry name="AstraMilitarum/Hydra" value="Гідра"/>
 	<entry name="AstraMilitarum/HydraDescription" value="Хуткі танк, які выдатна спраўляецца з паветранымі цэлямі."/>
@@ -127,7 +127,7 @@
 	<entry name="AstraMilitarum/ValkyrieDescription" value="Універсальны авіятранспарт."/>
 	<entry name="AstraMilitarum/ValkyrieFlavor" value="The Valkyrie Assault Carrier is a well-armed, twin-engine attack craft. The durable armour and versatile payload of the Valkyrie chassis combine with the aircraft's powerful engines and stable handling to make it a popular choice for a broad spectrum of battlefield roles."/>
 	<entry name="AstraMilitarum/VoidShieldGenerator" value="Генератар Шчыта Пустэчы"/>
-	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Умацаваньне, якое бароніць юнітаў у радыусе дзеяньня."/>
+	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Умацаваньне, якое бароніць адзінкі ў радыусе дзеяньня."/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorFlavor" value="Void shields are normally localised force fields reserved for protecting the monolithic Titans of the Adeptus Mechanicus, but static generators can be erected to serve as an aegis for other targets of vital import. The largest Void Shield generators can even project an invisible bubble of power across a large area of the battlefield, sheltering both troops and strategically vital battlefield locations by absorbing or deflecting the energy of incoming munitions."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker" value="Вурдванскія Псайкеры"/>
 	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="Псайкеры, якія сьпецыялізуюцца на праклёнах."/>
@@ -154,10 +154,10 @@
 	<entry name="ChaosSpaceMarines/DaemonPrinceDescription" value="Жахлівы герой, які калечыць ворагаў псіхічнымі сіламі перад тым як разьдзірае іх на частцы."/>
 	<entry name="ChaosSpaceMarines/DaemonPrinceFlavor" value="Daemon Princes are infernal monsters that tower over the mortals they lead to battle. These paragons of evil take many forms, though all exude a palpable aura of terror and power. In battle, a Daemon Prince strides through the pitiful bullets of the enemy without pause, his unnatural laughter driving men to the edge of fear. Warp energy sizzles from his eyes, and black flames curl from his mouth as he speaks dread phrases that kill as sure as any blade. These are creatures of nightmare—a living expression of Chaos given form."/>
 	<entry name="ChaosSpaceMarines/DarkDisciple" value="Вучні Цемры"/>
-	<entry name="ChaosSpaceMarines/DarkDiscipleDescription" value="Пяхотны адзінка, якая павялічвае абарону адзінак хаосу."/>
+	<entry name="ChaosSpaceMarines/DarkDiscipleDescription" value="Пяхотная адзінка, што павялічвае абарону адзінак Хаосу."/>
 	<entry name="ChaosSpaceMarines/DarkDiscipleFlavor" value="Dark Disciples carry profane accoutrements of their masters’ worship and parrot the fell words spoken in his baleful prayers. Many such disciples have been augmented to better serve in their role–their skin stretched out and inked with grim litanies, or their mouths fitted with Daemon-touched vox-grilles to project their voices into the warp. Amidst the din of combat they join their Dark Apostle’s chants, crying out for the Chaos Gods to manifest their blessings."/>
 	<entry name="ChaosSpaceMarines/Defiler" value="Апаганьнік"/>
-	<entry name="ChaosSpaceMarines/DefilerDescription" value="Велізарны крокаход з разбуральнай зброяй блізкага і далёкага боя."/>
+	<entry name="ChaosSpaceMarines/DefilerDescription" value="Велізарны крокаход з разбуральнай зброяй блізкага і далёкага бою."/>
 	<entry name="ChaosSpaceMarines/DefilerFlavor" value="Defilers are truly massive beasts of war, twice the size of most other Daemon Engines and with a temperament to match. The ground shivers and melts as they stalk towards their foes on six massive, segmented legs, their great pincer-arms twitching and snipping with an impatient need to slice through warm flesh. The Defiler's crab-like body supports a daemonic torso that carries an array of deadly weaponry, ranging from reaper autocannons to racks of highly explosive missiles. It is the battle cannon mounted in its chest turret, however, that is undoubtedly its most potent armament. Each hell-forged shell that thunders out from its growling muzzle is capable of crippling a squad of Space Marines in a single earth-shaking blast."/>
 	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorne" value="Вялікі Латуневы Скарпіён"/>
 	<entry name="ChaosSpaceMarines/GreaterBrassScorpionOfKhorneDescription" value="Звышцяжкі крокаход здольны руйнаваць усякі фронт сваёй магутнай зброяй."/>
@@ -168,10 +168,10 @@
 	<entry name="ChaosSpaceMarines/Headquarters" value="<string name='Buildings/ChaosSpaceMarines/Headquarters'/>"/>
 	<entry name="ChaosSpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="ChaosSpaceMarines/HeadquartersFlavor" value="<string name='Buildings/ChaosSpaceMarines/HeadquartersFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/Helbrute" value="Пякельны Зьвер"/>
-	<entry name="ChaosSpaceMarines/HelbruteDescription" value="Крокаход, які сходзіць з розуму ад пашкоджаньняў."/>
+	<entry name="ChaosSpaceMarines/Helbrute" value="Хэлбрут"/>
+	<entry name="ChaosSpaceMarines/HelbruteDescription" value="Крокаход, які з'язджае з глузду ад пашкоджаньняў."/>
 	<entry name="ChaosSpaceMarines/HelbruteFlavor" value="Helbrutes are twisted mockeries of the Space Marine Dreadnoughts they used to be, combining the firepower of a small tank with the mind of a frenzied maniac. Each Helbrute holds a living creature within its plated metal chest—a Chaos Space Marine driven over the edge of madness by a never-ending cycle of war."/>
-	<entry name="ChaosSpaceMarines/Heldrake" value="Пякельны Цмок"/>
+	<entry name="ChaosSpaceMarines/Heldrake" value="Хэлдрэйк"/>
 	<entry name="ChaosSpaceMarines/HeldrakeDescription" value="Лятучая машына, якая цудоўна спраўляецца з варожай авіяцыяй."/>
 	<entry name="ChaosSpaceMarines/HeldrakeFlavor" value="Heldrakes are winged Daemon Engines that plummet out of the skies like living comets, hurtling towards enemy aircraft and crashing claws-first into them from above. Each is a vicious, hell-forged predator; a Heldrake takes cruel joy in diving down upon the unsuspecting air support of the enemy in order to shred them to pieces with its scything wings and rune-carved talons."/>
 	<entry name="ChaosSpaceMarines/KhorneBerzerker" value="Берсеркі Кхорна"/>
@@ -196,7 +196,7 @@
 	<entry name="ChaosSpaceMarines/VenomcrawlerDescription" value="Жахлівы крокаход, які паглынае душы ворагаў, каб аднавіць сваё здароўе."/>
 	<entry name="ChaosSpaceMarines/VenomcrawlerFlavor" value="Pounding forwards upon bladed limbs come the horrors known as Venomcrawlers. Grotesque amalgams of metal, flesh and daemonic entities, these monstrosities hiss and snarl as they scuttle towards their prey. Fleshy tongues flap from snarling maws and soulflayer tendrils lash back and forth, all tasting the air for the scent of their enemies' fear. As the Venomcrawlers continue to butcher, their fanged mouths gape ever wider, drawing the souls of those slain into their vast mechanical abdomens."/>
 	<entry name="ChaosSpaceMarines/WarpTalon" value="Кіпцюры Варпу"/>
-	<entry name="ChaosSpaceMarines/WarpTalonDescription" value="Пяхота блізкага бою, якая можа перасоўвацца праз складаную мясцовасьць і асляпляць ворагаў."/>
+	<entry name="ChaosSpaceMarines/WarpTalonDescription" value="Пяхота блізкага бою, якая можа перасоўвацца праз складаную мясцовасьць і асьляпляць ворагаў."/>
 	<entry name="ChaosSpaceMarines/WarpTalonFlavor" value="When a pack of Warp Talons emerges from the warp, it appears to those on the battlefield below as if daemonic warriors have burst out from nothingness into fiery, vengeful life. Like the stuff of nightmares, they plummet downwards in an explosion of warp fire, tearing into the foe with murderous intent."/>
 	<entry name="ChaosSpaceMarines/Warpsmith" value="Каваль Варпу"/>
 	<entry name="ChaosSpaceMarines/WarpsmithDescription" value="Герой, які падтрымлівае машыны і паляпшае эканоміку."/>
@@ -209,16 +209,16 @@
 	<entry name="Eldar/AvatarOfKhaineDescription" value="Унікальнае жахлівае стварэньне, якое забівае ворагаў у блізкім баі і выклікае бязьлітасную лютасьць у найблізкіх Аэльдары."/>
 	<entry name="Eldar/AvatarOfKhaineFlavor" value="The molten demigod of war blazes from legend into reality, his almighty bellow of bloodlust fuelling an inferno in the hearts of all those Aeldari who hear it. The living Avatar is an ancient war deity incarnate, rivalled in power only by the incalculable energies of the mightiest Daemons of the immaterium. His eyes glow like embers, and as he moves, his body of burning iron crackles and spits fire, while tendrils of smoke and cinders wreath him like a dark cloak. His mere presence incites the Aeldari around him into a black and merciless rage, the fires of the Bloody-Handed God’s battle lust crackling within them."/>
 	<entry name="Eldar/CrimsonHunter" value="Барвовы Паляўнічы"/>
-	<entry name="Eldar/CrimsonHunterDescription" value="Лёткая адзінка, якая можа хірургічна дакладна выдаляць нават самых браняваных ворагаў."/>
+	<entry name="Eldar/CrimsonHunterDescription" value="Авіацыя, якая можа з хірургічнай дакладнасьцю выдаляць нават самых браняваных ворагаў."/>
 	<entry name="Eldar/CrimsonHunterFlavor" value="Leaving a blood-hued blur in their wake, the Crimson Hunters are the assassins of the sky. Perhaps the most unusual of the Aspects of Khaine, they embody the role of the remorseless hunter, who takes wing only to bring destruction to his chosen foes. Armed with pulse lasers and bright lances capable of reducing a man to a pillar of flame in a pinpoint, stabbing beam, the Crimson Hunters can surgically remove the leaders of an enemy army in a single pass."/>
 	<entry name="Eldar/DarkReaper" value="Цёмныя Жнеяры"/>
-	<entry name="Eldar/DarkReaperDescription" value="Далёкабойная супрацьбраняваная пяхота, экіпіяваная размаітымі ракетамі для змаганьня з хуткімі цэлямі."/>
+	<entry name="Eldar/DarkReaperDescription" value="Далёкабойная супрацьбраняваная пяхота, экіпіяваная размаітымі ракетамі дзеля змаганьня з хуткімі цэлямі."/>
 	<entry name="Eldar/DarkReaperFlavor" value="From far across the battlefield, the Dark Reapers cut down their enemies with devastating salvoes of missiles, each armour-piercing projectile ripping through the air to blast ragged holes in tanks and soldiers alike. Silhouetted against the sky from their position on the high ground, the Reapers are as Khaine himself calling down destruction upon the unworthy. Impassive and all-seeing, they scan the horizon for any signs of movement, complex relays allowing their gaze to be channelled through the barrels of their ritual weaponry at will. Then, with unflinching precision, the Reapers wreak devastation upon their chosen targets."/>
 	<entry name="Eldar/FarseerSkyrunner" value="Вяшчун Нябесны Бягун"/>
 	<entry name="Eldar/FarseerSkyrunnerDescription" value="Герой-псайкер на аэрацыкле, які аслабляе ворагаў і аднаўляе мараль."/>
 	<entry name="Eldar/FarseerSkyrunnerFlavor" value="The Farseers that guide each craftworld are perhaps the most powerful of all psykers. By leading the Aeldari along the paths of fate they can bring salvation or doom to entire races. They are masters of prediction, and even in battle they perform their subtle art, casting up their wraithbone runes and interpreting changes in the glowing icons as they circle in the air."/>
 	<entry name="Eldar/FireDragon" value="Агнявыя Цмокі"/>
-	<entry name="Eldar/FireDragonDescription" value="Цяжкая пяхота, якая цудоўна паражае цяжкія цэлі з блізкай адлегласьці."/>
+	<entry name="Eldar/FireDragonDescription" value="Цяжкая пяхота, якая цудоўна паражае цяжкія цэлі на блізкай адлегласьці."/>
 	<entry name="Eldar/FireDragonFlavor" value="Shimmering with a haze of lambent fire, the Fire Dragons stride into battle. These warriors send blasts of fusion energy spearing out to incinerate their foes, turning men into pillars of flame and tanks into half-melted wrecks. Slab-sided fortresses and lumbering war machines are the prey of the Fire Dragons, and their craft is that of pure devastation."/>
 	<entry name="Eldar/FirePrism" value="Агнявая Прызма"/>
 	<entry name="Eldar/FirePrismDescription" value="Універсальная луналая адзінка, якая можа пераключаць свае гарматы і злучаць іх зь іншымі Агнявымі Прызмамі."/>
@@ -230,7 +230,7 @@
 	<entry name="Eldar/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Eldar/HeadquartersFlavor" value="<string name='Buildings/Eldar/HeadquartersFlavor'/>"/>
 	<entry name="Eldar/HemlockWraithfighter" value="Прывідны Зьнішчальнік Тсуга"/>
-	<entry name="Eldar/HemlockWraithfighterDescription" value="Разбуральная лёткая адзінка, якая можа адначасна бараніць хаўрусьнікаў і аглушаць ворагаў."/>
+	<entry name="Eldar/HemlockWraithfighterDescription" value="Разбуральная авіацыя, якая можа адначасова бараніць хаўрусьнікаў і аглушаць ворагаў."/>
 	<entry name="Eldar/HemlockWraithfighterFlavor" value="The ethereal scream of the Hemlock Wraithfighter drives a spike of terror into the mind, and even its flitting shadow can bring a brave man to his knees. The energies that pour from this eldritch craft are born of a psychic union between the living and the dead. Each Hemlock is piloted by a Spiritseer, a powerful psyker capable of assailing the minds of those below him with morbid visions. Stranger by far is his co-pilot, for the Wraithfighter is crewed by a dead Aeldari soul who controls weapons that would drive a mortal insane. As the Wraithfighter passes over the foe, its D-scythes flare bright – a silent second later, the craft’s victims slump, their souls severed from their bodies."/>
 	<entry name="Eldar/Hornet" value="Шэршань"/>
 	<entry name="Eldar/HornetDescription" value="Хуткі выведны лунач."/>
@@ -239,10 +239,10 @@
 	<entry name="Eldar/HowlingBansheeDescription" value="Спрытная жахлівая пяхота блізкага бою."/>
 	<entry name="Eldar/HowlingBansheeFlavor" value="The Howling Banshees are a predominately female Aspect, embodying Khaine’s speed, agility and terrifying presence. They stun and confound the foe as they charge in, ensuring none can escape the energised blade of the power sword as it thrusts forward with absolute precision. To exact this sudden retribution upon their enemies the Howling Banshees move with a terrible swiftness, preparing for the charge by thinning the ranks of their victims with shuriken pistol fire."/>
 	<entry name="Eldar/Ranger" value="Рэйнджары"/>
-	<entry name="Eldar/RangerDescription" value="Нябачная пяхота, цудоўна зьнішчае варожую пяхоту."/>
+	<entry name="Eldar/RangerDescription" value="Нябачная пяхота, якая цудоўна зьнішчае варожую пяхоту."/>
 	<entry name="Eldar/RangerFlavor" value="Moving like shadows through the darkness, Aeldari Rangers take up commanding positions above the battlefield, as silent and lethal as Asuryan’s withering gaze. A Ranger’s keen eyes are constantly seeking out prize targets, his subtle hand signals spelling the doom of commanders and priests. When his cross hairs flit over his target it takes only a single beat of the Aeldari’s heart to judge distance, direction and deflection before he squeezes the trigger."/>
 	<entry name="Eldar/Scorpion" value="Скарпіён"/>
-	<entry name="Eldar/ScorpionDescription" value="Звышцяжкая луналая адзінка, прасоўваньне якой немагчыма спыніць."/>
+	<entry name="Eldar/ScorpionDescription" value="Звышцяжкая луналая адзінка, прасоўваньне якой нельга спыніць."/>
 	<entry name="Eldar/ScorpionFlavor" value="The Scorpion is an Aeldari super-heavy grav-tank utilised exclusively by the Craftworld Aeldari, and is amongst the largest vehicles recorded capable of anti-gravitic movement in the galaxy. Known to the Aeldari as one of the Engines of Vaul, it combines sophisticated and powerful weaponry with the grace and speed that have come to be associated with the Aeldari's vehicles. Protected by a Holo-Field and armed with twin-linked Pulsars, the Scorpion has earned nicknames like the “Grave-maker” and “Deathsled” from the Imperium of Man's veteran tank crews."/>
 	<entry name="Eldar/ShiningSpear" value="Бліскучыя Дзіды"/>
 	<entry name="Eldar/ShiningSpearDescription" value="Дасьведчаная адзінка на аэрацыклах."/>
@@ -257,13 +257,13 @@
 	<entry name="Eldar/WarWalkerDescription" value="Добра збалансаваны і абсталяваны крокаход."/>
 	<entry name="Eldar/WarWalkerFlavor" value="Those that think they have escaped the main Aeldari assault are often hunted down and slain by cannon-armed War Walker squadrons. Enemy convoys are torn apart by hyper-focussed lasers before they realise they are under attack, platoons melt away under a hurricane of shuriken cannon fire, and the fighter planes of the foe are brought screaming down to earth like balls of fire hurled from the firmament."/>
 	<entry name="Eldar/Warlock" value="Ведзьмакі"/>
-	<entry name="Eldar/WarlockDescription" value="Пяхотная адзінка псайкераў, якая можа тэлепартавацца па полі бітвы і ачышчаць сваіх ворагаў."/>
+	<entry name="Eldar/WarlockDescription" value="Пяхотная адзінка псайкераў, здольная тэлепартавацца па полю бою і ачышчаць сваіх ворагаў."/>
 	<entry name="Eldar/WarlockFlavor" value="When the Warlocks of the craftworlds join their minds, the fate of worlds can hinge upon their actions. As true sons of Khaine, these militant psykers will plunge into combat at the slightest provocation. Witchblades and singing spears are swung in graceful arcs, leaving coruscating webs of energy behind them as the Conclave carves through the ranks of their adversaries. They do so with joy in their souls, for of all the seers of the Aeldari hosts, the Warlocks are the fiercest and most violent of all."/>
 	<entry name="Eldar/WaveSerpent" value="Хвалевы Зьмей"/>
 	<entry name="Eldar/WaveSerpentDescription" value="Луналы транспарт, які можа ахвяраваць бранёй дзеля зьнішчэньня цэлі."/>
 	<entry name="Eldar/WaveSerpentFlavor" value="The Wave Serpent is the primary transport of the craftworlds, though its capacity to deal death has earned it a fell reputation among the enemies of the Aeldari. Atop its turret it mounts a twin array of heavy weaponry that blasts priority targets, forcing the enemy to lie low as the grav-tank swoops down for its passengers to deploy."/>
 	<entry name="Eldar/WebwayGate" value="Шлях Павуціньня"/>
-	<entry name="Eldar/WebwayGateDescription" value="Умацаваньне, якое дазваляе Аэльдары перасоўвацца з аднаго месца ў іншае."/>
+	<entry name="Eldar/WebwayGateDescription" value="Умацаваньне, якое дазваляе Аэльдарам перасоўвацца з аднаго месца ў іншае."/>
 	<entry name="Eldar/WebwayGateFlavor" value="A galactic tapestry of shimmering strands used by the Aeldari to traverse the stars without risking the dread realm of the warp, the webway once spanned the galaxy, even stretching out into the empty void beyond. These days are long gone. Ravaged by war and catastrophe, many of its tunnels have been torn open or amputated, and a great number of its entrances have been sealed. Despite the degradation, the Aeldari still rely upon the webway for swift travel, using webway gates to enable this."/>
 	<entry name="Eldar/Wraithblade" value="Прывідныя Клінкі"/>
 	<entry name="Eldar/WraithbladeDescription" value="Пяхота блізкага бою, абсталяваная магутнай прывіднай зброяй."/>
@@ -275,7 +275,7 @@
 	<entry name="Necrons/AnnihilationBargeDescription" value="Супрацьпяхотная машына."/>
 	<entry name="Necrons/AnnihilationBargeFlavor" value="Annihilation Barges are the Necrons' favoured anti-infantry support platforms. At the Overlord's command, the Annihilation Barges' ancient repulsor sleds are coaxed back into life and the vehicles accompany the tomb world's army to war. Each is armed with a linked pair of tesla destructors—enormous energy cannons that fire arcs of crackling lightning and are death to lightly armoured targets."/>
 	<entry name="Necrons/CanoptekScarab" value="Канаптэкавыя Скарабеі"/>
-	<entry name="Necrons/CanoptekScarabDescription" value="Адзінка блізкага бою, якая нішчыць ворага за кошт вялікай колькасьці."/>
+	<entry name="Necrons/CanoptekScarabDescription" value="Адзінка блізкага бою, якая нішчыць ворага вялікай колькасьцю."/>
 	<entry name="Necrons/CanoptekScarabFlavor" value="Canoptek Scarabs sweep across the battlefield in vast, undulating swarms that devour all in their path. Mindless feeding machines, the Scarabs are constructs designed to break down matter into raw energy that can then be woven into fresh forms. Within the confines of a tomb this process is one of clearing and manufacture, but on the battlefield it is a powerful force of destruction."/>
 	<entry name="Necrons/CanoptekSpyder" value="Канаптэкавы Павук"/>
 	<entry name="Necrons/CanoptekSpyderDescription" value="Жахлівая адзінка падтрымкі, якая засноўвае новыя гарады і ачышчае пліткі."/>
@@ -299,7 +299,7 @@
 	<entry name="Necrons/DoomsdayArkDescription" value="Машына з разбуральнай агнявой моцай."/>
 	<entry name="Necrons/DoomsdayArkFlavor" value="Victory through overwhelming firepower is a common tenet of Necron strategic thinking. Nowhere is this more evident than in the Doomsday Ark. Though deceptively fragile at first glance, the Doomsday Ark is a self-propelled energy cannon whose raw, unsubtle firepower is so vastly destructive that a single shot can turn the tide of a battle."/>
 	<entry name="Necrons/FlayedOne" value="Разьбіральнікі"/>
-	<entry name="Necrons/FlayedOneDescription" value="Пяхота блізкага бою, якая ігнаруе варожае назіраньне."/>
+	<entry name="Necrons/FlayedOneDescription" value="Пяхота блізкага бою, якая ігнаруе варожае Назіраньне."/>
 	<entry name="Necrons/FlayedOneFlavor" value="Flayed Ones can materialise at any time, lured from their bleak dimension by the scent of blood and carnage, and will commonly stalk their prey before attacking with little regard for strategy. When the moment to strike comes, Flayed Ones scramble madly into battle, slashing at their prey with twisted talons and draping themselves in the mangled body parts of their quarry."/>
 	<entry name="Necrons/GaussPylon" value="Пілон Гаўса"/>
 	<entry name="Necrons/GaussPylonDescription" value="Магутная абарончая турэль, якая ахоўвае хаўрусныя адзінкі Некронаў."/>
@@ -344,7 +344,7 @@
 	<entry name="Necrons/TriarchStalkerDescription" value="Універсальны крокаход, які пасьля атакі перадае свае дадзеныя пра цэль хаўрусным Некронам дзеля паляпшэньня трапнасьці."/>
 	<entry name="Necrons/TriarchStalkerFlavor" value="Like an enormous spider, a Triarch Stalker looms over the battlefield, its devastating weaponry directed by a high-ranking Triarch Praetorian. When a Triarch Stalker advances, it does so with a speed and surety that belies its jerking gait. Indeed, it can cover all manner of terrain with a deftness and precision seldom found in the walkers of less advanced races."/>
 	<entry name="Necrons/Warrior" value="Ваяры-Некроны"/>
-	<entry name="Necrons/WarriorDescription" value="Асноўная адзінка пяхоты."/>
+	<entry name="Necrons/WarriorDescription" value="Асноўная пяхотная адзінка."/>
 	<entry name="Necrons/WarriorFlavor" value="Even with only a glimmer of consciousness to guide it, a Necron Warrior is a fearsome and resilient foe. Armed with ancient energy weapons, they can scythe down their enemies with lethal volleys of gauss flayer fire, while their unyielding metal bodies repair themselves should they sustain damage."/>
 	<entry name="Neutral/Artefacts/Accuracy" value="Фантасмагорыум"/>
 	<entry name="Neutral/Artefacts/AccuracyDescription" value="Стацыянарны артэфакт, які павялічвае трапнасьць."/>
@@ -425,22 +425,22 @@
 	<entry name="Neutral/VespidStingwingDescription" value="Хуткая пяхота далёкага бою, якая выдатна ваюе ў руінах і можа пераадольваць перашкоды."/>
 	<entry name="Neutral/VespidStingwingFlavor" value="Vespid Stingwings dart into battle with unsettling insectile speed. The high pitched whine of their wings inspires atavistic revulsion, seeming to come from every direction at once as it echoes and bounces from ruins and wreckage. When they strike, the Vespids do so with lightning speed, dropping from above with their neutron blasters emitting bolts of translucent fire. Each shot shimmers clean through the armour of the foe, scouring their bodies with massive doses of radiation and burning them alive from the inside."/>
 	<entry name="Orks/Battlewagon" value="Ваявая Фура"/>
-	<entry name="Orks/BattlewagonDescription" value="Цяжкабраняваная транспартавая адзінка."/>
+	<entry name="Orks/BattlewagonDescription" value="Цяжкабраняваны транспарт."/>
 	<entry name="Orks/BattlewagonFlavor" value="Ork Battlewagons rumble to war on a collection of tracks, tyres and massive spiked rollers. Whether lumbering gun-fortresses, bright red speedsters or gaudy rust buckets smeared with Ork glyphs, Battlewagons are massive slabs of motorised junk built to carry big mobs of greenskins into battle. No matter each Battlewagon's individual peculiarities, all fulfil the essential role of armoured attack vehicle. A solid wedge of these mighty tanks can provide a warband with a (somewhat rusty) mailed fist that can be jammed right down the throat of the enemy army."/>
 	<entry name="Orks/BigMek" value="Буйны Мек"/>
 	<entry name="Orks/BigMekDescription" value="Цяжкабраняваная пяхота, што бароніць сваіх хаўруснікаў."/>
 	<entry name="Orks/BigMekFlavor" value="Especially talented or popular Mekboyz will soon attract a following, lording it over a growing gang of underlings. A Mek with this much clout is referred to as a Big Mek, and can prove indispensable to the local Warboss with his knowledge of shokk attack guns, force field technology, and tellyporta rigs."/>
-	<entry name="Orks/Boy" value="Драбы"/>
-	<entry name="Orks/BoyDescription" value="Асноўная пяхота эфектыўная ў блізкім баі."/>
+	<entry name="Orks/Boy" value="Хлопцы"/>
+	<entry name="Orks/BoyDescription" value="Асноўная пяхота, эфектыўная ў блізкім баі."/>
 	<entry name="Orks/BoyFlavor" value="Ork Boyz are the heart and soul of any warband. They charge into battle in a great mass, crashing into the enemy like a green landslide. Bellowing with the joy of battle, mobs of Ork Boyz excel at close quarters where they can hack, bludgeon and stamp their foes into bloody ruin. The average Ork Boy is mean-tempered and exceptionally tough, more than compensating for his lack of intellect with a talent for violence."/>
 	<entry name="Orks/BurnaBommer" value="Паліла-Бамбіла"/>
 	<entry name="Orks/BurnaBommerDescription" value="Хуткі і лёгкабраняваны бамбавік, які лёгка спальвае буйныя пяхотныя злучэньні ў укрыцьці."/>
 	<entry name="Orks/BurnaBommerFlavor" value="Burna-bommers are an inevitable by-product of the Orks' love for speed, fire, and the desire to combine these things while killing something. Strapped with as many incendiary bombs and rockets as is physically feasible, Burna-bommers streak low over the battlefield, raining conflagrant death down on tightly-packed enemy infantry."/>
 	<entry name="Orks/Dakkajet" value="Дакка-Зьнішчала"/>
-	<entry name="Orks/DakkajetDescription" value="Хуткая лёгкабраняваная авіяцыя эфектыўная супраць наземных цэляў."/>
+	<entry name="Orks/DakkajetDescription" value="Хуткая лёгкабраняваная авіяцыя, эфектыўная супраць наземных цэляў."/>
 	<entry name="Orks/DakkajetFlavor" value="Streaking into battle through war-scorched skies, a Dakkajet's massive thruster leaves an oily contrail of black smoke in its wake even as its guns spit streams of bullets at the foe. Though not as nimble as the aircraft of some other races, Dakkajets are capable of an incredible turn of speed that makes them a fearsome enemy to face in aerial combat. It also helps that Orks fly like complete headcases."/>
 	<entry name="Orks/DeffDread" value="Шьмертажахі"/>
-	<entry name="Orks/DeffDreadDescription" value="Цяжкія штурмавыя крокаходы выдатныя ў блізкім боі."/>
+	<entry name="Orks/DeffDreadDescription" value="Цяжкія штурмавыя крокаходы, выдатныя ў блізкім боі."/>
 	<entry name="Orks/DeffDreadFlavor" value="Deff Dreads are clanking monstrosities that behave in battle much like enormous metal Orks. They clank toward the foe, waving piston-driven arms that end in saws, claws and really big guns. Lurching along as fast as their hydraulic legs will carry them, their bellows of ‘Waaagh!’ echo from in-built speakers at earsplitting volume. Though all this is hugely entertaining for Orks fighting alongside a Deff Dread, for enemies it is utterly terrifying. Deff Dreads epitomise the unstoppable ferocity of the greenskin race, and the damage they can do is jaw-dropping. The brutal implantation surgery and subsequent claustrophobia tends to drive Deff Dread pilots a bit bonkers. They will take any opportunity to vent their frustrations violently upon the foe, if only to make themselves feel better about having to eat everything through a straw…"/>
 	<entry name="Orks/Deffkopta" value="Шьмертавёрт"/>
 	<entry name="Orks/DeffkoptaDescription" value="Універсальны застрэльнік, які здольны пераадольваць перашкоды."/>
@@ -449,19 +449,19 @@
 	<entry name="Orks/FlashGitzDescription" value="Універсальная пяхота далёкага бою."/>
 	<entry name="Orks/FlashGitzFlavor" value="Amongst the richest and most obnoxious of their warlike breed, Flash Gitz travel the galaxy engaging in acts of outrageous piracy and wanton vandalism. They hire themselves out as mercenaries to Ork warbands, basking in the envy of Boyz jealous of their flashy kit and prodigious dakka. Despite their ostentation, Flash Gitz give a Warboss all the killpower he pays for. Completely lethal in gun battles, boarding actions and the like, a mob of Gitz opening fire is nothing short of cataclysmic. A punishing hail of energy bolts and bullets fills the air, the Flash Gitz' victims coming apart amid sprays of blood and blossoms of flame before the Gitz stomp the life out of anyone left standing."/>
 	<entry name="Orks/GargantuanSquiggoth" value="Гіганцкі Сквіггот"/>
-	<entry name="Orks/GargantuanSquiggothDescription" value="Велізарны жахлівы зьвер, які цісьне варожыя войскі і з'яўляецца транспартам."/>
+	<entry name="Orks/GargantuanSquiggothDescription" value="Велізарны жахлівы зьвер, які раздушвае варожыя войскі і з'яўляецца транспартам."/>
 	<entry name="Orks/GargantuanSquiggothFlavor" value="Squiggoths are Orkoid monstrosities, towering hulks made of little more than muscle and bad temper. They are distantly related to Squigs and have all savagery and single-mindedness of their smaller cousins, but Squiggoths can grow so large that they dwarf tanks and even buildings. Goaded by the Orks that ride on a howdah upon its back, the Squiggoth thuds into battle, the ground tremblind beneath its feet."/>
 	<entry name="Orks/Gorkanaut" value="Горканаўт"/>
-	<entry name="Orks/GorkanautDescription" value="Велізарны цяжкабраняваны крокаход, які абвальвае на сваіх супернікаў дождж сьмерці і разбурэньня."/>
+	<entry name="Orks/GorkanautDescription" value="Велізарны цяжкабраняваны крокаход, які абвальвае на сваіх супернікаў дождж сьмерці і руйнаваньня."/>
 	<entry name="Orks/GorkanautFlavor" value="A Gorkanaut is everything an Ork aspires to be. Massive, tough, loud and destructive, its blocky silhouette looms menacingly over friend and foe alike. From its hulking, orkoid shape to the brutal weapons it wields, a Gorkanaut epitomises the unsubtle brutality of Gork and his no-nonsense way of war. Every Gorkanaut is essentially a massively overbuilt armoured war suit bristling with dakka and packing an armoured claw the size of a Killa Kan."/>
 	<entry name="Orks/Headquarters" value="<string name='Buildings/Orks/Headquarters'/>"/>
 	<entry name="Orks/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Orks/HeadquartersFlavor" value="<string name='Buildings/Orks/HeadquartersFlavor'/>"/>
 	<entry name="Orks/KillBursta" value="Выбухала-Забойца"/>
-	<entry name="Orks/KillBurstaDescription" value="Звышцяжкая машына з вялікай гарматай і транспартава-штурмавой здольнасьцю."/>
+	<entry name="Orks/KillBurstaDescription" value="Звышцяжкая машына з вялікай гарматай і транспартна-штурмавой здольнасьцю."/>
 	<entry name="Orks/KillBurstaFlavor" value="Kill tanks are an Ork heavy tank design based around the twin Ork loves of speed and extreme violence. The Kill Bursta's main gun is an immense, wide-bore siege mortar mounted in the centre of its forward hull, much in the manner of a Space Marine Vindicator, only much, much larger! The huge rocket-boosted ordnance launched by the bursta gun, while appallingly short ranged, is powerful enough to blast a hardened bunker or defensive bastion to smithereens, and has been observed in direct fire shattering Imperial super-heavy tanks in a single shot, based as much on luck as good judgement by its gunners."/>
 	<entry name="Orks/KillaKan" value="Бляшанка-Забойца"/>
-	<entry name="Orks/KillaKanDescription" value="Лёгкабраняваны крокаход, які апальвае ворагаў."/>
+	<entry name="Orks/KillaKanDescription" value="Лёгкабраняваны крокаход, які спальвае ворагаў."/>
 	<entry name="Orks/KillaKanFlavor" value="The Killa Kans' grot pilots put their relative skill with firearms to good use, blowing the zog out of anything unlucky enough to cross their path. Despite being hardwired into a ten-foot tall killing machine, Killa Kan pilots still retain a good degree of Gretchin cowardice. As a result they still believe in safety in numbers, and have a bad habit of losing their nerve under fire. It is not unheard of for Killa Kans to waddle about in circles or freeze up entirely at the first sign of danger."/>
 	<entry name="Orks/Meganob" value="Меганобы"/>
 	<entry name="Orks/MeganobDescription" value="Цяжкая пяхота."/>
@@ -472,7 +472,7 @@
 	<entry name="Orks/MekGun" value="Грымата Мекаў"/>
 	<entry name="Orks/MekGunDescription" value="Браняваная зенітная адзінка"/>
 	<entry name="Orks/MekGunFlavor" value="The roar of Mek Gunz has heralded the end for many a hapless foe. Spitting out blasts of crackling energy, swatting planes out of the air or crushing their victims in crackling fists of bright green force, these big, clanky field guns have enough dakka to stomp even the toughest targets. Of course, as no self-respecting Ork would be left behind when there's a fight in the offing, crewing the gunz is left to the long-suffering grots."/>
-	<entry name="Orks/Painboy" value="Болядраб"/>
+	<entry name="Orks/Painboy" value="Боляхлопец"/>
 	<entry name="Orks/PainboyDescription" value="Герой, які лечыць і ўзмацняе хаўрусную пяхоту."/>
 	<entry name="Orks/PainboyFlavor" value="Often referred to by other Orks as Doks, Painboyz are the greenskin equivalent of both surgeons and dentists. They are driven to perform exploratory surgery on living creatures just as Mekboyz are driven to fiddle with machinery. Devious, deranged, and usually covered in gore from head to toe, Painboyz are a menace to friend and foe alike."/>
 	<entry name="Orks/MegatrakkScrapjet" value="Мегатрукавы Шьмецьцелёт"/>
@@ -490,10 +490,10 @@
 	<entry name="Orks/Warbuggy" value="Ваявы Баггі"/>
 	<entry name="Orks/WarbuggyDescription" value="Хуткая машына выведкі."/>
 	<entry name="Orks/WarbuggyFlavor" value="Orks tend toward light, fast vehicles with big guns that can be cobbled together from any junk to hand. Most are crewed by a mad-eyed Ork driver and cackling gunner, with perhaps a grot or two hanging on for dear life. What they lack in survivability, these crude vehicles make up for in speed, numbers and dakka. They encircle the enemy in speeding squadrons, guns blazing wildly while their crew throw their heads back and howl like Madboyz."/>
-	<entry name="Orks/Weirdboy" value="Дзівадраб"/>
+	<entry name="Orks/Weirdboy" value="Дзівахлопец"/>
 	<entry name="Orks/WeirdboyDescription" value="Герой з універсальнымі псіхічнымі здольнасьцямі."/>
 	<entry name="Orks/WeirdboyFlavor" value="Weirdboyz are the most psychically attuned of all Orks. They are capable of vomiting blasts of Warp energy that can reduce foes to molten goop in seconds. Weirdboyz unconsciously channel the background mental emissions of nearby greenskins. Even a close-run squig-eating contest between two rowdy Boyz will cause waves of energy to pulse through any Weirdboy that strays near. Unless the Weirdboy finds some way to release this pent-up energy his head will explode, detonating the heads of nearby Orks into the bargain. This can prove highly inconvenient."/>
-	<entry name="SistersOfBattle/AvengerStrikeFighter" value="Ударны Зьнішчальнік Помсьнік"/>
+	<entry name="SistersOfBattle/AvengerStrikeFighter" value="Ударны Зьнішчальнік · Помсьнік"/>
 	<entry name="SistersOfBattle/AvengerStrikeFighterDescription" value="Супрацьназемная авіяцыя з усталяванай магутнай гарматай Гатлінга."/>
 	<entry name="SistersOfBattle/AvengerStrikeFighterFlavor" value="The Avenger is a dedicated strike fighter, intended to conduct high-speed, low-level attacks on ground targets, with armoured vehicle formations and high-value strategic assets such as munitions dumps forming its principal prey. Its firepower exceeds most other Imperial aircraft of its size, and in particular the Avenger bolt cannon around which its hull is formed is responsible for the fighter's enviable reputation as a tank-killer."/>
 	<entry name="SistersOfBattle/BattleSister" value="Сёстры Бітвы"/>
