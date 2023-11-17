@@ -107,8 +107,8 @@
 	<entry name="AdeptusMechanicus/RadSaturation" value="Радыянасычаньне"/>
 	<entry name="AdeptusMechanicus/RadSaturationDescription" value="Наносіць шкоду кожны крок суседняй варожай пяхоце або жудаснаму стварэньню."/>
 	<entry name="AdeptusMechanicus/RadSaturationFlavor" value="Harnessing the destructive energies of forge worlds within their weaponry, certain Skitarii are so soaked in radiation that even to approach them is to confer a death sentence upon yourself. Victory for them is pyrrhic, as this radiation burns through even their heavy armour plate, slowly poisoning them to death even as their carbines bring about the (much quicker) demise of their enemies."/>
-	<entry name="AdeptusMechanicus/ReprogramKastelanRobot" value="Перапраграмаваць Робата Касьцеляна"/>
-	<entry name="AdeptusMechanicus/ReprogramKastelanRobotDescription" value="Бярэ пад кантроль варожага абранага Робата Касьцеляна."/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobot" value="Перапраграмаваць Робата · Каштэляна"/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobotDescription" value="Бярэ пад кантроль варожага абранага Робата · Каштэляна."/>
 	<entry name="AdeptusMechanicus/ReprogramKastelanRobotFlavor" value="Since the aftermath of Warmaster Horus’ rebellion the Legio Cybernetica’s robots have been controlled completely by their masters – not by the bio-plastic cerebra and nerve-like tendril webs of Mechanicum constructs, but by sanctified doctrina wafers. No bigger than the cards of the Emperor’s Tarot, these slivers of wetware are entrusted to the Cybernetica Datasmiths that accompany the robot maniples to war. Inserted into the dataslot hidden behind each robot’s chestplate, the wafer’s command protocol will dictate every iota of the host’s behaviour, usually optimising its ability to destroy its foes in a spectacular fashion."/>
 	<entry name="AdeptusMechanicus/Scryerskull" value="Чэрап Празорцы"/> <!-- Tech-Priest Dominus ability -->
 	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Паказвае абраную плітку і суседнія пліткі."/>
@@ -544,7 +544,7 @@
 	<entry name="Necrons/FabricatorClawArrayDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
 	<entry name="Necrons/FabricatorClawArrayFlavor" value="This clicking, whirring proliferation of energy tools is primarily intended for maintenance and repair."/>
 	<entry name="Necrons/GloomPrism" value="Змрочная Прызма"/>
-	<entry name="Necrons/GloomPrismDescription" value="Павялічвае зьніжэньне шкоды ад вядзьмарскага агню для каноптэкавых павукоў і суседніх хаўрусных адзінак."/>
+	<entry name="Necrons/GloomPrismDescription" value="Павялічвае зьніжэньне шкоды ад вядзьмарскага агню для Канаптэкавых Павукоў і суседніх хаўрусных адзінак."/>
 	<entry name="Necrons/GloomPrismFlavor" value="The gloom prism's energy field creates a zone shrouded from Warp-spawned powers."/>
 	<entry name="Necrons/GravityPulse" value="Гравітацыйны Імпульс"/>
 	<entry name="Necrons/GravityPulseDescription" value="Зьмяншае рух і наносіць шкоду суседнім варожай авіацыі, луначам і аэрацыклам."/>
@@ -582,7 +582,7 @@
 	<entry name="Necrons/RoyalGuardDescription" value="Часова прызывае Прэтарыянцаў Трыярхаў."/>
 	<entry name="Necrons/RoyalGuardFlavor" value="“I have watched the galaxy for sixty million years. I have raised civilisations to our ways and seen them thrive, fade and pass into myth. And I still believe that to exist without honour, without laws—well, it is better not to exist at all.”<br/>  — Eystan, Triarch Praetorian"/>
 	<entry name="Necrons/ScarabHive" value="Вулей Скарабеяў"/>
-	<entry name="Necrons/ScarabHiveDescription" value="Прызывае Каноптэкавых Скарабеяў."/>
+	<entry name="Necrons/ScarabHiveDescription" value="Прызывае Канаптэкавых Скарабеяў."/>
 	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Units/Necrons/CanoptekScarabFlavor'/>"/>
 	<entry name="Necrons/SleepingSentry" value="Сьпячы Вартавы"/>
 	<entry name="Necrons/SleepingSentryDescription" value="Павялічвае зьніжэньне шкоды, але прадухіляе дзеяньне."/>
@@ -844,7 +844,7 @@
 	<entry name="Tau/CalmOfTidesDescription" value="Аднаўляе здароўе Этэрнага, суседняй пяхоты Т'аў і жахлівых стварэньняў."/>
 	<entry name="Tau/CalmOfTidesFlavor" value="“Wait a moment. Breathe. Do not hurry to their salvation. All will come to the T’au eventually. Alive or dead.”<br/>  — Aun’Dak’E, Curator of Spirit"/>
 	<entry name="Tau/ConvertWildlife" value="Перавабіць у Аўксіліарыі"/>
-	<entry name="Tau/ConvertWildlifeDescription" value="Пераваблівае на вашы бок адзінку Круцкіх Гончых або Вэсьпідаў Джалакрылаў. Заняволеныя адзінкі ня могуць быць пераваблены. Кошт залежыць ад сілы цэлі."/>
+	<entry name="Tau/ConvertWildlifeDescription" value="Пераваблівае на вашы бок адзінку Круцкіх Гончых або Вэсьпідаў-Джалакрылаў. Заняволеныя адзінкі ня могуць быць пераваблены. Кошт залежыць ад сілы цэлі."/>
 	<entry name="Tau/ConvertWildlifeFlavor" value="“Soldiers of the Fire Caste! Kroot and Vespid allies! Today, we stand as a bulwark against the selfish, the soulless, and the mad!”<br/>  — Aun'el Shi'ores, at the loss of Kronus"/>
 	<entry name="Tau/CounterfireDefenceSystem" value="Усталяваць <string name='Traits/Tau/CounterfireDefenceSystem'/>"/>
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Усталёўвае сістэму падтрымкі, якая павялічвае трапнасьць атак ад назіраньня."/>

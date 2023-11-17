@@ -7,13 +7,13 @@
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorDescription" value="Баявая авіяцыя Дактрыны Імператыў."/>
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorFlavor" value="The Stratoraptor takes advantage of the Archaeopter’s directional thrusters and adaptable wing profile to excel in the role of ground attack gunship. Its spread of heavy weapons – with a mixture of high strength and high rate of fire – ensures the Stratoraptor poses a lethal danger to dug-in infantry and heavily armoured vehicles alike."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith" value="Каваль Дадзеных Кібернэтыка"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmithDescription" value="Пяхота Сьпеваў Амнісіі, якая рамантуе адзінкі Адэптус Механікус, перапраграмуе Робатаў Касьцелянаў, ачышчае пліткі і будуе новыя гарады."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmithDescription" value="Пяхота Сьпеваў Амнісіі, якая рамантуе адзінкі Адэптус Механікус, перапраграмуе Робатаў · Каштэлянаў, ачышчае пліткі і будуе новыя гарады."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmithFlavor" value="Datasmiths optimise the programming of their robotic charges. These Tech-Priests employ rituals and binharic hymns to bless the doctrina wafers through which they alter the robots’ protocols, all the while laying waste to the enemies of the Omnissiah with blasts of ionizing radiation from their gamma pistols."/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest" value="Фульгурытавы Электражрэц"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestDescription" value="Пяхота блізкага бою Сьпеваў Амнісіі, якая павялічвае зьніжэньне шкоды, забіваючы адзінкі."/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestFlavor" value="Fulgurite Electro-Priests crackle with the life energies of those they have personally slain. Their quest is to locate the Motive Force that animates all things, rip it from the bodies of the unworthy in the heat of battle, and hoard it on behalf of the Machine God. To do so they use electroleech staves – eldritch weapons that suck the bioelectricity from living creatures, drawing it out in one great draught and harnessing it within their core capacitors. Once stolen, that sacred energy can be used to power the holy instead of the heretical, crackling around them in such measure it can even burn away incoming projectiles."/>
 	<entry name="AdeptusMechanicus/Headquarters" value="<string name='Buildings/AdeptusMechanicus/Headquarters'/>"/>
-	<entry name="AdeptusMechanicus/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="AdeptusMechanicus/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="AdeptusMechanicus/HeadquartersFlavor" value="<string name='Buildings/AdeptusMechanicus/HeadquartersFlavor'/>"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius" value="Жалезны Крокаход · Балістарыус"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistariusDescription" value="Хуткі крокаход Дактрыны Імператыў."/>
@@ -79,7 +79,7 @@
 	<entry name="AstraMilitarum/GuardsmanDescription" value="Лёгкая пяхота."/>
 	<entry name="AstraMilitarum/GuardsmanFlavor" value="From the steaming jungles of Catachan to the war-torn fortress world of Cadia, the humble Guardsmen provide the ironclad backbone of the Imperial Guard."/>
 	<entry name="AstraMilitarum/Headquarters" value="<string name='Buildings/AstraMilitarum/Headquarters'/>"/>
-	<entry name="AstraMilitarum/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="AstraMilitarum/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="AstraMilitarum/HeadquartersFlavor" value="<string name='Buildings/AstraMilitarum/HeadquartersFlavor'/>"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad" value="Цяжкаўзброены Разьлік"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquadDescription" value="Пяхотная адзінка ўзброеная супраць цяжка браняваных цэляў."/>
@@ -166,7 +166,7 @@
 	<entry name="ChaosSpaceMarines/HavocDescription" value="Пяхота далёкага бою, якая больш трапная ў нерухомым стане."/>
 	<entry name="ChaosSpaceMarines/HavocFlavor" value="Some Chaos Space Marine squads carry a high proportion of heavy weapons, the better to annihilate the hated foe. Known as Havocs, these squads provide devastating anti-infantry and anti-armour firepower, dominating large swathes of the battlefield with volley after punishing volley."/>
 	<entry name="ChaosSpaceMarines/Headquarters" value="<string name='Buildings/ChaosSpaceMarines/Headquarters'/>"/>
-	<entry name="ChaosSpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="ChaosSpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="ChaosSpaceMarines/HeadquartersFlavor" value="<string name='Buildings/ChaosSpaceMarines/HeadquartersFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Helbrute" value="Пякельны Зьвер"/>
 	<entry name="ChaosSpaceMarines/HelbruteDescription" value="Крокаход, які сходзіць з розуму ад пашкоджаньняў."/>
@@ -227,7 +227,7 @@
 	<entry name="Eldar/GuardianDescription" value="Хуткая асноўная пяхота."/>
 	<entry name="Eldar/GuardianFlavor" value="Clad in psycho-reactive armour and armed with lethal shuriken weaponry, the Guardians of the Aeldari armies are able warriors all. Gifted with the natural speed of the Aeldari and the determination to preserve their craftworld no matter the cost, the Guardians are more than a match for the soldiery of the lesser races."/>
 	<entry name="Eldar/Headquarters" value="<string name='Buildings/Eldar/Headquarters'/>"/>
-	<entry name="Eldar/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="Eldar/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Eldar/HeadquartersFlavor" value="<string name='Buildings/Eldar/HeadquartersFlavor'/>"/>
 	<entry name="Eldar/HemlockWraithfighter" value="Прывідны Зьнішчальнік Тсуга"/>
 	<entry name="Eldar/HemlockWraithfighterDescription" value="Разбуральная лёткая адзінка, якая можа адначасна бараніць хаўрусьнікаў і аглушаць ворагаў."/>
@@ -274,23 +274,23 @@
 	<entry name="Necrons/AnnihilationBarge" value="Баржа Анігіляцыі"/>
 	<entry name="Necrons/AnnihilationBargeDescription" value="Супрацьпяхотная машына."/>
 	<entry name="Necrons/AnnihilationBargeFlavor" value="Annihilation Barges are the Necrons' favoured anti-infantry support platforms. At the Overlord's command, the Annihilation Barges' ancient repulsor sleds are coaxed back into life and the vehicles accompany the tomb world's army to war. Each is armed with a linked pair of tesla destructors—enormous energy cannons that fire arcs of crackling lightning and are death to lightly armoured targets."/>
-	<entry name="Necrons/CanoptekScarab" value="Каноптэкавыя Скарабеі"/>
-	<entry name="Necrons/CanoptekScarabDescription" value="Атрад блізкага бою, які нішчыць ворага вялікім лікам."/>
+	<entry name="Necrons/CanoptekScarab" value="Канаптэкавыя Скарабеі"/>
+	<entry name="Necrons/CanoptekScarabDescription" value="Адзінка блізкага бою, якая нішчыць ворага за кошт вялікай колькасьці."/>
 	<entry name="Necrons/CanoptekScarabFlavor" value="Canoptek Scarabs sweep across the battlefield in vast, undulating swarms that devour all in their path. Mindless feeding machines, the Scarabs are constructs designed to break down matter into raw energy that can then be woven into fresh forms. Within the confines of a tomb this process is one of clearing and manufacture, but on the battlefield it is a powerful force of destruction."/>
-	<entry name="Necrons/CanoptekSpyder" value="Каноптэкавы Павук"/>
+	<entry name="Necrons/CanoptekSpyder" value="Канаптэкавы Павук"/>
 	<entry name="Necrons/CanoptekSpyderDescription" value="Жахлівая адзінка падтрымкі, якая засноўвае новыя гарады і ачышчае пліткі."/>
 	<entry name="Necrons/CanoptekSpyderFlavor" value="Though essentially an automated drone, a Canoptek Spyder is nonetheless a formidable foe. Its vast array of self-repair and backup systems—vital for enduring uncaring millennia—offer substantial protection against incoming fire. In return, any enemy that strays within reach of the Canoptek Spyder will have flesh scoured from bone by a multitude of mechanical tools and pincers."/>
-	<entry name="Necrons/CanoptekWraith" value="Каноптэкавыя Прывіды"/>
+	<entry name="Necrons/CanoptekWraith" value="Канаптэкавыя Прывіды"/>
 	<entry name="Necrons/CanoptekWraithDescription" value="Надзвычайна мабільная пяхотная адзінка, якая аднолькава лёгка праходзіць праз мясцовасьць і ворагаў."/>
 	<entry name="Necrons/CanoptekWraithFlavor" value="Canoptek Wraiths flit across the battlefield like the spectres of the restless dead. Using their dimensional destabilisation matrices, these strange constructs are able to phase in and out of reality at will. This unique technology means that, though no more than mindless drones, Canoptek Wraiths have manifold uses in war. Fortifications are no obstacle to a Wraith, and they are able to pass more or less undetected even through the midst of the foe, making them exceptional spies and assassins both. Furthermore, Canoptek Wraiths make effective terror-troops, appearing as if from nowhere to strike at vital targets in the enemy’s midst. Here, swirling through the panicked gunfire of the foe, the Wraiths flicker rapidly in and out of phase with reality, shots and blades passing harmlessly through their indistinct forms."/>
 	<entry name="Necrons/Cryptek" value="Крыптэк"/>
 	<entry name="Necrons/CryptekDescription" value="Герой з магутнымі здольнасьцямі падтрымкі."/>
 	<entry name="Necrons/CryptekFlavor" value="Crypteks bend the forces of the universe to their will, creating impossible technologies and esoteric weaponry to lay waste to armies and destroy worlds. Time, matter and space are their playthings, as they manipulate the atomic structure of their foes or shift the laws of nature to obliterate all who stand before them."/>
-	<entry name="Necrons/Deathmark" value="Пазнакі Сьмерці"/>
-	<entry name="Necrons/DeathmarkDescription" value="Снайпер са здольнасьцю тэлепартацыі для дасягненьня сваіх цэляў."/>
+	<entry name="Necrons/Deathmark" value="Знакі Сьмерці"/>
+	<entry name="Necrons/DeathmarkDescription" value="Снайперы са здольнасьцю тэлепартацыі дзеля дасягненьня сваіх цэляў."/>
 	<entry name="Necrons/DeathmarkFlavor" value="Crackling into reality in the middle of battle to annihilate their enemies, Deathmarks are the assassins of the Necron cohorts. These specialist killers are possessed of a patience known only to the undying, and once a Deathmark has marked its prey, nothing will stand between it and its target. Unerringly accurate and single-minded in their devotion to the kill, they are often employed to locate and destroy enemy commanders, or hunt down priority targets in order to disrupt their foe’s strategy. Though some phaerons consider the use of the Deathmarks to contravene the ancient Necrontyr codes of honour, none can dispute their effectiveness when given a target."/>
 	<entry name="Necrons/DestroyerLord" value="Лорд-Разбуральнік"/>
-	<entry name="Necrons/DestroyerLordDescription" value="Герой з выключнымі магчымасьцямі блізкага бою."/>
+	<entry name="Necrons/DestroyerLordDescription" value="Герой з выключнымі здольнасьцямі блізкага бою."/>
 	<entry name="Necrons/DestroyerLordFlavor" value="Destroyer Lords are the most maniacal of their kind. This is chiefly because they retain far more intellect than baseline Destroyers, and can bring all of this fearsome intelligence to bear in their pursuit of universal oblivion. Indeed, in a galaxy overspilling with genocidal despots, Destroyer Lords remain worthy of mention as something truly horrific. Where others kill for pleasure, or in service to some malignant god, Destroyer Lords pursue their bloody crusade simply because they can."/>
 	<entry name="Necrons/DoomScythe" value="Каса Згубы"/>
 	<entry name="Necrons/DoomScytheDescription" value="Універсальны зьнішчальнік."/>
@@ -302,13 +302,13 @@
 	<entry name="Necrons/FlayedOneDescription" value="Пяхота блізкага бою, якая ігнаруе варожае назіраньне."/>
 	<entry name="Necrons/FlayedOneFlavor" value="Flayed Ones can materialise at any time, lured from their bleak dimension by the scent of blood and carnage, and will commonly stalk their prey before attacking with little regard for strategy. When the moment to strike comes, Flayed Ones scramble madly into battle, slashing at their prey with twisted talons and draping themselves in the mangled body parts of their quarry."/>
 	<entry name="Necrons/GaussPylon" value="Пілон Гаўса"/>
-	<entry name="Necrons/GaussPylonDescription" value="Магутная абарончая турэль, якая бароніць хаўрусныя адзінкі Некронаў."/>
+	<entry name="Necrons/GaussPylonDescription" value="Магутная абарончая турэль, якая ахоўвае хаўрусныя адзінкі Некронаў."/>
 	<entry name="Necrons/GaussPylonFlavor" value="The mysterious Necron defence turrets, designated as 'Pylons' by those who originally encountered them, were first recorded on the uncharted world of WDY-272. Rising suddenly from the desert sands, the Gauss Pylons opened fire without warning and with devastating effect, tanks and armoured carriers burning as the crescent-shaped weapons tore through the unsuspecting Imperial Guard column whilst resisting all return fire."/>
 	<entry name="Necrons/GhostArk" value="Прывідны Каўчэг"/>
-	<entry name="Necrons/GhostArkDescription" value="Транспартная машына са здольнасьцямі лекаваньня."/>
+	<entry name="Necrons/GhostArkDescription" value="Транспарт са здольнасьцямі лекаваньня."/>
 	<entry name="Necrons/GhostArkFlavor" value="Ghost Arks are tasked with trawling for remnants of Necrons unable to self-repair. Recovered components are set upon by swarms of constructor scarabs that return the fallen Necrons to full function. Repaired warriors are then locked in stasis until the Ghost Ark is at capacity, at which point it will either return its cargo to their tomb world or else deploy them directly into battle. Ghost Arks are often used as conventional transports that ferry reinforcements into battle – however, they truly come into their own once their grim cargo has disembarked. Drifting behind the ranks of Necrons, the Arks flicker with emerald energies as they repair one fallen foot soldier after another. The enemy can only watch with dawning horror as their best efforts to slay the Necrons are undone."/>
 	<entry name="Necrons/Headquarters" value="<string name='Buildings/Necrons/Headquarters'/>"/>
-	<entry name="Necrons/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="Necrons/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Necrons/HeadquartersFlavor" value="<string name='Buildings/Necrons/HeadquartersFlavor'/>"/>
 	<entry name="Necrons/HeavyDestroyer" value="Цяжкія Разбуральнікі"/>
 	<entry name="Necrons/HeavyDestroyerDescription" value="Магутная супрацьтанкавая пяхота."/>
@@ -320,7 +320,7 @@
 	<entry name="Necrons/LordDescription" value="Легендарны герой з універсальнымі здольнасьцямі."/>
 	<entry name="Necrons/LordFlavor" value="These Lords of the Necrons, though lesser in stature and power than an Overlord or phaeron, are nonetheless formidable foes in their own right, and often march to war at the head of a vast mechanical army. Independent of their monarchs, Lords are cunning leaders and pitiless commanders, focused upon the destruction of their foes and their own personal glory."/>
 	<entry name="Necrons/Monolith" value="Маналіт"/>
-	<entry name="Necrons/MonolithDescription" value="Цяжка ўзброеная браняваная луналая адзінка з брамай вечнасьці."/>
+	<entry name="Necrons/MonolithDescription" value="Цяжка ўзброеная браняваная луналая адзінка з Брамай Вечнасьці."/>
 	<entry name="Necrons/MonolithFlavor" value="The Monolith is an ancient war monument of unimaginable destructive potential. When its massive silhouette looms over a battlefield, it will lay waste to entire armies with strobing torrents of gauss fire and the deafening crack of its particle whip."/>
 	<entry name="Necrons/NightScythe" value="Начная Каса"/>
 	<entry name="Necrons/NightScytheDescription" value="Паветраны транспарт."/>
@@ -331,22 +331,22 @@
 	<entry name="Necrons/TesseractVault" value="Тэсэрактавае Сховішча"/>
 	<entry name="Necrons/TesseractVaultDescription" value="Звышцяжкая луналая адзінка са мноствам неверагодных разбуральных здольнасьцяў."/>
 	<entry name="Necrons/TesseractVaultFlavor" value="Only a race as ruthless and self-serving as the Necrons would think of unleashing a Tesseract Vault to further their aims—though each Vault is a potent weapon of war, the beings held within these floating prisons pose an almost incalculable threat."/>
-	<entry name="Necrons/TombBlade" value="Клінок Грабніц"/>
+	<entry name="Necrons/TombBlade" value="Лёзы Грабніцы"/>
 	<entry name="Necrons/TombBladeDescription" value="Хуткая выведная адзінка."/>
 	<entry name="Necrons/TombBladeFlavor" value="Operated by slaved Necron warriors but guided by super-complex navigation programs, these contra-gravity craft move with a speed and agility no living pilot could hope to match."/>
 	<entry name="Necrons/TranscendentCtan" value="Трансцэндэнтальны К'тан"/>
 	<entry name="Necrons/TranscendentCtanDescription" value="Жахлівае стварэньне са мноствам разбуральных здольнасьцяў."/>
 	<entry name="Necrons/TranscendentCtanFlavor" value="Transcendent C'tan are all that remain of the once mighty star-gods. They are echoes of their former selves, splinters of energy that survived the Necrons' betrayal and were trammelled in tesseract labyrinths. Ancient, archaic technologies shackle these beings to the will of their Necron masters, compelling them to obey and reducing them to the merest echoes of their ancient majesty. Yet even in their reduced and fettered state, Transcendent C'tan are still beings of immense power."/>
 	<entry name="Necrons/TriarchPraetorian" value="Прэтарыянцы Трыярхаў"/>
-	<entry name="Necrons/TriarchPraetorianDescription" value="Элітная скокавая адзінка пяхоты."/>
+	<entry name="Necrons/TriarchPraetorianDescription" value="Элітная скокавая пяхотная адзінка."/>
 	<entry name="Necrons/TriarchPraetorianFlavor" value="The Triarch Praetorians are the ancient law keepers of the Necron race, peerless warriors charged with the survival of the dynasties and the primacy of the ancient Necrontyr codes."/>
 	<entry name="Necrons/TriarchStalker" value="Трыярхі Паляўнічыя"/>
-	<entry name="Necrons/TriarchStalkerDescription" value="Універсальны крокаход, які пасьля атакі дзеліцца сваёй цэльлю з Некронамі хаўрусьнікамі для паляпшэньня трапнасьці."/>
+	<entry name="Necrons/TriarchStalkerDescription" value="Універсальны крокаход, які пасьля атакі перадае свае дадзеныя пра цэль хаўрусным Некронам дзеля паляпшэньня трапнасьці."/>
 	<entry name="Necrons/TriarchStalkerFlavor" value="Like an enormous spider, a Triarch Stalker looms over the battlefield, its devastating weaponry directed by a high-ranking Triarch Praetorian. When a Triarch Stalker advances, it does so with a speed and surety that belies its jerking gait. Indeed, it can cover all manner of terrain with a deftness and precision seldom found in the walkers of less advanced races."/>
 	<entry name="Necrons/Warrior" value="Ваяры-Некроны"/>
 	<entry name="Necrons/WarriorDescription" value="Асноўная адзінка пяхоты."/>
 	<entry name="Necrons/WarriorFlavor" value="Even with only a glimmer of consciousness to guide it, a Necron Warrior is a fearsome and resilient foe. Armed with ancient energy weapons, they can scythe down their enemies with lethal volleys of gauss flayer fire, while their unyielding metal bodies repair themselves should they sustain damage."/>
-	<entry name="Neutral/Artefacts/Accuracy" value="Фантасмагорыўм"/>
+	<entry name="Neutral/Artefacts/Accuracy" value="Фантасмагорыум"/>
 	<entry name="Neutral/Artefacts/AccuracyDescription" value="Стацыянарны артэфакт, які павялічвае трапнасьць."/>
 	<entry name="Neutral/Artefacts/AccuracyFlavor" value="Inside this obelisk's dark metal, is an eggshell-coloured interior. The first explorer reports a feeling of being dismantled atom-by-atom before being rebuilt perfectly. Shortly after, the other faction members begin to experience visual hallucinations, mostly accurate, of what their nearby allies can see, allowing for unparalleled co-ordination of attacks."/>
 	<entry name="Neutral/Artefacts/AncientExterminatusDevice" value="Старажытная Прылада - Экстэрмінатус"/>
@@ -364,7 +364,7 @@
 	<entry name="Neutral/Artefacts/Healing" value="Архаікопія"/>
 	<entry name="Neutral/Artefacts/HealingDescription" value="Стацыянарны артэфакт, які аднаўляе здароўе кожны ход."/>
 	<entry name="Neutral/Artefacts/HealingFlavor" value="Hollow like a blown egg, this artefact houses a range of ancient analgesic flora and associated hydroponic devices that would attract the eye of any ancient collector. Processing units on this artefact's underside end in various spigots and ducts out of which flows a mucilaginous syrup that nourishes the living races and is a perfect lubricant, even for living metal."/>
-	<entry name="Neutral/Artefacts/Hitpoints" value="Мабільны Галапраектар"/>
+	<entry name="Neutral/Artefacts/Hitpoints" value="Мабільны Галапраэктар"/>
 	<entry name="Neutral/Artefacts/HitpointsDescription" value="Стацыянарны артэфакт, што павялічвае здароўе."/>
 	<entry name="Neutral/Artefacts/HitpointsFlavor" value="This holoprojector may be monolithic, but it's never where you think it is. Once you've blundered into the actual holoprojector, you can deploy its capabilities on nearby units, massively increasing their survivability as enemy shots and blows are wasted."/>
 	<entry name="Neutral/Artefacts/Loyalty" value="Сірэна-Заклінальнік"/>
@@ -373,7 +373,7 @@
 	<entry name="Neutral/Artefacts/Movement" value="Старажытны Ачышчальнік Шляху"/>
 	<entry name="Neutral/Artefacts/MovementDescription" value="Стацыянарны артэфакт, што павялічвае рух."/>
 	<entry name="Neutral/Artefacts/MovementFlavor" value="This strange artefact bristles with weaponry—none of which has any effect on living creatures. Instead, it solely seems to target foliage and inanimate objects, aging and eroding them rapidly. This means, once controlled, it can be assigned to clear a path for any of your troops from a distance."/>
-	<entry name="Neutral/Artefacts/Sight" value="Поўны Аналізатар Сьпектра"/>
+	<entry name="Neutral/Artefacts/Sight" value="Аналізатар Усяго Сьпектру"/>
 	<entry name="Neutral/Artefacts/SightDescription" value="Стацыянарны артэфакт, які павялічвае агляд."/>
 	<entry name="Neutral/Artefacts/SightFlavor" value="A tiny crawlspace on this artefact allows access to a great internal chamber, which displays geographical data, readouts and holographs of the nearby area. Wise commanders will use this to hunt out enemies and relay targeting information to their troops."/>
 	<entry name="Neutral/Artefacts/TileDamage" value="Распыляльнік Туману"/>
@@ -383,7 +383,7 @@
 	<entry name="Neutral/Artefacts/UnitsDescription" value=""/>
 	<entry name="Neutral/Artefacts/UnitsFlavor" value="This age-old worker resembles Imperial Servitors only in the sense that it is a relentless mechanical worker—but it far exceeds their scale and capabilities, making it highly prized by all races for building and armament construction."/>
 	<entry name="Neutral/Artefacts/VaulControlDevice" value="Прылада Кіраваньня Ваула"/>
-	<entry name="Neutral/Artefacts/VaulControlDeviceDescription" value="Мабільны артэфакт, які выкарыстоўваецца для кіраваньня дарункам Бязмоўнага Караля."/>
+	<entry name="Neutral/Artefacts/VaulControlDeviceDescription" value="Мабільны артэфакт, які выкарыстоўваецца дзеля кіраваньня дарункам Бязмоўнага Караля."/>
 	<entry name="Neutral/Artefacts/VaulControlDeviceFlavor" value="No creature alive today could hope to create a device like this. Only the Crypteks—after aeons of study—can understand enough of the Old Ones' technology to exercise reliable control over it."/>
 	<entry name="Neutral/Artefacts/VaulSentry" value="Вартавы Ваула"/>
 	<entry name="Neutral/Artefacts/VaulSentryDescription" value=""/>
@@ -399,13 +399,13 @@
 	<entry name="Neutral/Enslaver" value="Занявольнікі"/>
 	<entry name="Neutral/EnslaverDescription" value="Вельмі небясьпечныя стварэньні варпу, якія занявольваюць розум ворагаў."/>
 	<entry name="Neutral/EnslaverFlavor" value="During the War in Heaven, legend tells that the Old Ones engineered new Warp-sensitive species to defeat the C'tan—Krork, Aeldari, Man and more. Yet they bargained without the denizens of the warp, the most numerous of which were the Enslavers or Psyrens. These transdimensional beings were able to rapidly enslave the new races, and hence aided in the downfall of the Old Ones. Today, Enslaver incursions are rare, but extremely destructive unless ended quickly."/>
-	<entry name="Neutral/KastelanRobot" value="Робат Касьцелян"/>
+	<entry name="Neutral/KastelanRobot" value="Робат · Каштэлян"/>
 	<entry name="Neutral/KastelanRobotDescription" value="Надзвычайна трывалы і добра ўзброены баявы крокаход Сьпеваў Амнісіі."/>
 	<entry name="Neutral/KastelanRobotFlavor" value="Kastelan Robots are ancient monstrosities that stamp to war, each an unliving giant assigned a deadly purpose by its master. Soulless, these metallic golems are given thought only by the doctrina wafers in their recessed chestslots and the Cybernetica Datasmiths that program their every move. These machines are walking relics from aeons past, and all the deadlier for it—the air nearby thrums with power, bullets ricocheting from repulsor fields that glow like golden cages around them. Volleys of phosphor blasts and promethium incinerate their foes wherever they may hide, and crushing fists bring ruin wherever they strike. The violence meted out by each maniple is as inspiring to the Omnissiah's faithful as it is terrifying to his foes."/>
 	<entry name="Neutral/KrootHound" value="Круцкія Гончыя"/>
 	<entry name="Neutral/KrootHoundDescription" value="Спрытны драпежнік асабліва небясьпечны ў лясах."/>
 	<entry name="Neutral/KrootHoundFlavor" value="The pseudo-avian Kroot is uniquely flexible, able to absorb the genetic data of other races by consuming them, but sometimes isolated Kroot communities run into evolutionary dead ends. The Kroot Hound is one such dead end, a devolution of the Kroot into a wolf-like species. On Gladius Prime, they have run feral for generations."/>
-	<entry name="Neutral/LordOfSkulls" value="Лорд Чэрапаў"/>
+	<entry name="Neutral/LordOfSkulls" value="Лорд Чарапоў"/>
 	<entry name="Neutral/LordOfSkullsDescription" value="Практычна няспынная вайсковая машына, здольная зьнішчыць цэлыя войскі."/>
 	<entry name="Neutral/LordOfSkullsFlavor" value="Grinding across the battlefield on rumbling tracks, the Lord of Skulls towers over its terrified foes. Given life by the raging spirit of a Bloodthirster bound within its hull, and powered by the boiling blood of murderers, this unholy engine of war is death to all who stand before it. Its devastating guns reduce swathes of victims to ruin, drowning them in jets of red-hot gore or burying them under rains of gnashing skulls. As it ploughs through the enemy ranks, the Daemon Engine wields its roaring cleaver with a speed and skill that is entirely horrifying in something so huge. Entire ranks of enemy warriors are swept away with a single swing, tanks and monstrous beasts swatted through the air like toys. Even towering war engines such as Stompas or Titans are made to look clumsy and sluggish as the Lord of Skulls hacks off their limbs and tears open their armoured torsos amid blossoms of dirty flame. Few warriors can face the Lord of Skulls and live, for it is a machine of absolute destruction."/>
 	<entry name="Neutral/NeophyteHybrid" value="Гібрыды-Неафіты"/>
@@ -421,7 +421,7 @@
 	<entry name="Neutral/Umbra" value="Умбра"/>
 	<entry name="Neutral/UmbraDescription" value="Жахлівае лёткае стварэньне ўразьлівае для сьвятла."/>
 	<entry name="Neutral/UmbraFlavor" value="The Umbra are an alien species appearing as smooth black spheres that live in the void of space, often observed attracted to areas resonant of the warp such as starship hulls and warp engines or suspected entrances to the Aeldari Webway. They can manipulate and control shadows to form terrifying limbs of hooks, blades, teeth and other nightmarish shapes."/>
-	<entry name="Neutral/VespidStingwing" value="Вэсьпід Джалакрыл"/>
+	<entry name="Neutral/VespidStingwing" value="Вэсьпід-Джалакрыл"/>
 	<entry name="Neutral/VespidStingwingDescription" value="Хуткая пяхота далёкага бою, якая выдатна ваюе ў руінах і можа пераадольваць перашкоды."/>
 	<entry name="Neutral/VespidStingwingFlavor" value="Vespid Stingwings dart into battle with unsettling insectile speed. The high pitched whine of their wings inspires atavistic revulsion, seeming to come from every direction at once as it echoes and bounces from ruins and wreckage. When they strike, the Vespids do so with lightning speed, dropping from above with their neutron blasters emitting bolts of translucent fire. Each shot shimmers clean through the armour of the foe, scouring their bodies with massive doses of radiation and burning them alive from the inside."/>
 	<entry name="Orks/Battlewagon" value="Ваявая Фура"/>
@@ -455,7 +455,7 @@
 	<entry name="Orks/GorkanautDescription" value="Велізарны цяжкабраняваны крокаход, які абвальвае на сваіх супернікаў дождж сьмерці і разбурэньня."/>
 	<entry name="Orks/GorkanautFlavor" value="A Gorkanaut is everything an Ork aspires to be. Massive, tough, loud and destructive, its blocky silhouette looms menacingly over friend and foe alike. From its hulking, orkoid shape to the brutal weapons it wields, a Gorkanaut epitomises the unsubtle brutality of Gork and his no-nonsense way of war. Every Gorkanaut is essentially a massively overbuilt armoured war suit bristling with dakka and packing an armoured claw the size of a Killa Kan."/>
 	<entry name="Orks/Headquarters" value="<string name='Buildings/Orks/Headquarters'/>"/>
-	<entry name="Orks/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="Orks/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Orks/HeadquartersFlavor" value="<string name='Buildings/Orks/HeadquartersFlavor'/>"/>
 	<entry name="Orks/KillBursta" value="Выбухала-Забойца"/>
 	<entry name="Orks/KillBurstaDescription" value="Звышцяжкая машына з вялікай гарматай і транспартава-штурмавой здольнасьцю."/>
@@ -524,7 +524,7 @@
 	<entry name="SistersOfBattle/ExorcistDescription" value="Супрацьтанкавая ракетная ўсталёўка."/>
 	<entry name="SistersOfBattle/ExorcistFlavor" value="Most vehicles in the Adepta Sororitas armoury serve multiple purposes, for in addition to being weapons of war, they are mobile shrines adorned with devotional icons and carvings. The Exorcist is perhaps the most ornate example of this. Each is an individual work of art whose battlefield role of providing devastating long-range fire support is secondary to its significance as a potent, divine symbol of the power and glory of the Ecclesiarchy."/>
 	<entry name="SistersOfBattle/Headquarters" value="<string name='Buildings/SistersOfBattle/Headquarters'/>"/>
-	<entry name="SistersOfBattle/HeadquartersDescription" value="Штаб-кватэра, якая ўяўляе абарону горада."/>
+	<entry name="SistersOfBattle/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="SistersOfBattle/HeadquartersFlavor" value="<string name='Buildings/SistersOfBattle/HeadquartersFlavor'/>"/>
 	<entry name="SistersOfBattle/Hospitaller" value="Шпітальеркі"/>
 	<entry name="SistersOfBattle/HospitallerDescription" value="Пяхота, якая дасьледуе Сьвятыя Месцы Сарорытас, лечыць хаўрусную пяхоту, ачышчае пліткі і будуе новыя гарады."/>
@@ -584,7 +584,7 @@
 	<entry name="SpaceMarines/FortressOfRedemptionDescription" value="Фартыфікацыя, якая аўтаматычна зьбірае суседнія рэсурсы."/>
 	<entry name="SpaceMarines/FortressOfRedemptionFlavor" value="A Fortress of Redemption is a towering bulwark against the ravages of planetary invasion. Each is virtually impervious to conventional firepower and the lower levels, bunker annexes and sub-crypts can house entire platoons of battle-ready warriors. First used by the Dark Angels Legion during the days of the Great Crusade, they have since been used by every military force in the Imperium and proven invaluable to its defence."/>
 	<entry name="SpaceMarines/Headquarters" value="<string name='Buildings/SpaceMarines/Headquarters'/>"/>
-	<entry name="SpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="SpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="SpaceMarines/HeadquartersFlavor" value="<string name='Buildings/SpaceMarines/HeadquartersFlavor'/>"/>
 	<entry name="SpaceMarines/Hunter" value="Паляўнічы"/>
 	<entry name="SpaceMarines/HunterDescription" value="Танк, які сьпецыялізуецца на зьнішчэньні авіяцыі і луналых машын."/>
@@ -668,7 +668,7 @@
 	<entry name="Tau/HammerheadGunshipDescription" value="Луналы танк з універсальным узбраеньнем."/>
 	<entry name="Tau/HammerheadGunshipFlavor" value="Hammerhead Gunships glide into battle like predatory beasts. As they advance, their massive turret armaments traverse smoothly, railguns and ion cannons sweeping left and right as they hunt for targets. The moment a suitable victim presents itself, firing solutions are calculated in the blink of an eye. Power surges as gravitic stabilisers kick in with a bass hum and the Hammerheads loose the lethal fury of their arsenal upon the foe."/>
 	<entry name="Tau/Headquarters" value="<string name='Buildings/Tau/Headquarters'/>"/>
-	<entry name="Tau/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="Tau/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Tau/HeadquartersFlavor" value="<string name='Buildings/Tau/HeadquartersFlavor'/>"/>
 	<entry name="Tau/InterceptorDrone" value="MV17 - Дроны-Перахопнікі"/>
 	<entry name="Tau/InterceptorDroneDescription" value="Палепшаны супрацьпаветраны дрон."/>
@@ -746,7 +746,7 @@
 	<entry name="Tyranids/HaruspexDescription" value="Жахлівая істота з учэпістым языком."/>
 	<entry name="Tyranids/HaruspexFlavor" value="The Tyranid Haruspex is a ferocious beast created to consume biomass at a sickening pace. It is possessed of a rapacious appetite, driven by the need to sate an infinite hunger. Few foes are foolish enough to stand before a feeding Haruspex, for it can devour an entire platoon of soldiers in a matter of moments, shovelling victim after victim into its craw without ever slowing down. Any morsel that proves too large to be swallowed in one gulp is seized with the Haruspex's gargantuan claws and ripped, crushed or battered apart with negligent ease."/>
 	<entry name="Tyranids/Headquarters" value="<string name='Buildings/Tyranids/Headquarters'/>"/>
-	<entry name="Tyranids/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе абарону горада."/>
+	<entry name="Tyranids/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Tyranids/HeadquartersFlavor" value="<string name='Buildings/Tyranids/HeadquartersFlavor'/>"/>
 	<entry name="Tyranids/HiveCrone" value="Карга Вульля"/>
 	<entry name="Tyranids/HiveCroneDescription" value="Лёткая адзінка эфектыўная супраць лёткіх цэляў."/>
