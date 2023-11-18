@@ -327,41 +327,41 @@
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
 	<entry name="ClusterMinesDescription" value="Ustaloŭvaje kasietnyja miny na susiedniuju abranuju plitku, kab zamarudzić i nanieści škodu voraham."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
-	<entry name="ConstructBuilding" value="Buduje %1%"/>
-	<entry name="ConstructBuildingHint" value="<style name='Title'/>Buduje %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
-	<entry name="ConstructFeature" value="Buduje %1%"/>
-	<entry name="ConstructFeatureHint" value="<style name='Title'/>Buduje %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
-	<entry name="ConstructFortification" value="Buduje %1%"/>
-	<entry name="ConstructFortificationHint" value="<style name='Title'/>Buduje %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
-	<entry name="ConstructGaussPylon" value="Buduje <string name='Units/Necrons/GaussPylon'/>"/>
+	<entry name="ConstructBuilding" value="Pabudavać %1%"/>
+	<entry name="ConstructBuildingHint" value="<style name='Title'/>Pabudavać %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="ConstructFeature" value="Pabudavać %1%"/>
+	<entry name="ConstructFeatureHint" value="<style name='Title'/>Pabudavać %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="ConstructFortification" value="Pabudavać %1%"/>
+	<entry name="ConstructFortificationHint" value="<style name='Title'/>Pabudavać %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="ConstructGaussPylon" value="Pabudavać <string name='Units/Necrons/GaussPylon'/>"/>
 	<entry name="ConstructGaussPylonDescription" value="<string name='Units/Necrons/GaussPylonDescription'/>"/>
 	<entry name="ConstructGaussPylonFlavor" value="<string name='Units/Necrons/GaussPylonFlavor'/>"/>
-	<entry name="ConstructImperialStrongpoint" value="Buduje <string name='Units/AstraMilitarum/ImperialStrongpoint'/>"/>
+	<entry name="ConstructImperialStrongpoint" value="Pabudavać <string name='Units/AstraMilitarum/ImperialStrongpoint'/>"/>
 	<entry name="ConstructImperialStrongpointDescription" value="<string name='Units/AstraMilitarum/ImperialStrongpointDescription'/>"/>
 	<entry name="ConstructImperialStrongpointFlavor" value="<string name='Units/AstraMilitarum/ImperialStrongpointFlavor'/>"/>
-	<entry name="ConstructNoctilithCrown" value="Buduje <string name='Units/ChaosSpaceMarines/NoctilithCrown'/>"/>
+	<entry name="ConstructNoctilithCrown" value="Pabudavać <string name='Units/ChaosSpaceMarines/NoctilithCrown'/>"/>
 	<entry name="ConstructNoctilithCrownDescription" value="<string name='Units/ChaosSpaceMarines/NoctilithCrownDescription'/>"/>
 	<entry name="ConstructNoctilithCrownFlavor" value="<string name='Units/ChaosSpaceMarines/NoctilithCrownFlavor'/>"/>
-	<entry name="ConstructTidewallGunrig" value="Buduje <string name='Units/Tau/TidewallGunrig'/>"/>
+	<entry name="ConstructTidewallGunrig" value="Pabudavać <string name='Units/Tau/TidewallGunrig'/>"/>
 	<entry name="ConstructTidewallGunrigDescription" value="<string name='Units/Tau/TidewallGunrigDescription'/>"/>
 	<entry name="ConstructTidewallGunrigFlavor" value="<string name='Units/Tau/TidewallGunrigFlavor'/>"/>
-	<entry name="ConstructVoidShieldGenerator" value="Buduje <string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
+	<entry name="ConstructVoidShieldGenerator" value="Pabudavać <string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
 	<entry name="ConstructVoidShieldGeneratorDescription" value="<string name='Units/AstraMilitarum/VoidShieldGeneratorDescription'/>"/>
 	<entry name="ConstructVoidShieldGeneratorFlavor" value="<string name='Units/AstraMilitarum/VoidShieldGeneratorFlavor'/>"/>
-	<entry name="ConstructPlayerAction" value="Buduje %1%"/>
-	<entry name="ConstructPlayerActionHint" value="<style name='Title'/>Buduje %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="ConstructPlayerAction" value="Pabudavać %1%"/>
+	<entry name="ConstructPlayerActionHint" value="<style name='Title'/>Pabudavać %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="CreateSmokeScreen" value="Stvaryć Dymavuju Zasłonu"/>
 	<entry name="CreateSmokeScreenDescription" value="Pavialičvaje źnižeńnie škody ŭ dalokim bai na plitcy."/>
 	<entry name="CreateSmokeScreenFlavor" value="Some vehicles have small launchers mounted onto them that carry smoke canisters. These are used to temporarily obscure the vehicle behind billowing clouds of smoke, allowing it to cross open areas in greater safety—although it does so at the cost of being able to fire its own weapons."/>
 	<entry name="CycleWeapon" value="Źmianić Zbroju"/>
-	<entry name="CycleWeaponDescription" value="Źmiena pamiž aktyŭnaj zbrojaj."/>
-	<entry name="CycleWeaponOnUse" value="Źmiena zbroi paśla vykarystańnia"/>
-	<entry name="CycleWeaponOnUseDescription" value="Aŭtamatyčnaja źmiena aktyŭnaj zbroi paśla vykarystańnia."/>
-	<entry name="DeedsOfGlory" value="Spravy Słavy"/>
-	<entry name="DeedsOfGloryDescription" value="Padzieł atrymlivaje ŭpłyŭ za dośvied u bajach."/>
+	<entry name="CycleWeaponDescription" value="Ažyciavić zamienu aktyŭnaj zbroi."/>
+	<entry name="CycleWeaponOnUse" value="Źmianić Zbroju Paśla Vykarystańnia"/>
+	<entry name="CycleWeaponOnUseDescription" value="Aŭtamatyčna źmianiaje aktyŭnuju zbroju paśla vykarystańnia."/>
+	<entry name="DeedsOfGlory" value="Chvalebnyja Vyčyny"/>
+	<entry name="DeedsOfGloryDescription" value="Daje Padziełu ŭpłyŭ za atrymańnie dośviedu ŭ bajach."/>
 	<entry name="DeedsOfGloryFlavor" value="“It is a captain's duty to place legionary lives in harm's way before his own. There is too little glory in the galaxy to go around and officers must be generous in the trust they place in others—for one day such brothers must be captains too.”<br/>  — Rouboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="DeployCity" value="Zasnavać Horad"/>
-	<entry name="DeployCityDescription" value="Apieracyja pa zasnavańni horada na abranaj plitcy.<br/><br/>Harady možna raźmiaščać tolki tam, dzie niama inšych haradoŭ u radyusie %1% plitak."/>
+	<entry name="DeployCityDescription" value="Apieracyja pa zasnavańni horada na abranaj plitcy.<br/><br/>Harady lha raźmiaščać tolki tam, dzie niama inšych haradoŭ u radyusie %1% plitak."/>
 	<entry name="DeployFortress" value="<string name='Actions/DeployUnit'/>"/>
 	<entry name="DeployFortressHint" value="<string name='Actions/DeployUnitHint'/>"/>
 	<entry name="DeployUnit" value="Razharnuć %1%"/>
@@ -378,13 +378,13 @@
 	<entry name="DispenseChaffDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="DispenseChaffFlavor" value="Since the earliest days of airborne combat, some form of lightweight material has been used to distract enemy pilots. Today's chaff would be unrecognizable to those early airmen, but its efficacy against modern countermeasures is about the same."/>
 	<entry name="DogmaAstrates" value="Dohma Astartes"/>
-	<entry name="DogmaAstratesDescription" value="Pavialičvaje vytvorčaść łajalnaści horada-krepaści."/>
+	<entry name="DogmaAstratesDescription" value="Pavialičvaje vytvorčaść łajalnaści Horada-Krepaści."/>
 	<entry name="DogmaAstratesFlavor" value="The Chaplains of the Space Marines are grim spiritual guardians, whose first duty is to be ever watchful for the dangers of pride, doubt and heresy. Daunting even to their own brethren, Chaplains rely on dogma and liturgy to keep their brothers from spiritual corruption."/>
 	<entry name="Dominate" value="Daminavać"/>
 	<entry name="DominateDescription" value="Praduchilaje dziejańni abranaj varožaj piachoty abo žachlivaha stvareńnia."/>
 	<entry name="DominateFlavor" value="The psyker reaches into his foes mind, trammelling his soul and crushing his will to fight on."/>
 	<entry name="Eldar/ActivateWebwayGate" value="Aktyvavać Šlach Pavucińnia"/>
-	<entry name="Eldar/ActivateWebwayGateDescription" value="Aktyvuje i zachaplaje niejtralny Šlach Pavucińnia."/>
+	<entry name="Eldar/ActivateWebwayGateDescription" value="Aktyvuje i zachoplivaje niejtralny Šlach Pavucińnia."/>
 	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime…"/>
 	<entry name="Eldar/AutarchsAssault" value="Napad Aŭtarcha"/>
 	<entry name="Eldar/AutarchsAssaultDescription" value="Zabojstva voraha Aŭtarcham pavialičvaje škodu chaŭrusnych adzinak Štučnaha Śvietu Aeldary ŭ vobłaści."/>
@@ -392,23 +392,23 @@
 	<entry name="Eldar/AsuryaniArrivals" value="Prybyćcio Asur'janaŭ"/>
 	<entry name="Eldar/AsuryaniArrivalsDescription" value="Pavialičvaje chutkaść uzrostu."/>
 	<entry name="Eldar/AsuryaniArrivalsFlavor" value="At a word from the commanding Farseer, a psychic missive is sent out through the Webway, to the craftworlds, exodite planets and roving Rangers, requesting support in this critical endeavour. Though the Aeldari race is dying, they will die fighting—and they come to Gladius to die there."/>
-	<entry name="Eldar/Command" value="Kamanda"/>
+	<entry name="Eldar/Command" value="Zahad"/>
 	<entry name="Eldar/CommandDescription" value="Pavialičvaje trapnaść chaŭrusnych adzinak Štučnaha Śvietu Aeldary ŭ vobłaści. "/>
 	<entry name="Eldar/CommandFlavor" value="Autarchs walk the Path of Command, and even the Exarchs of the aspect shrines defer to them. An Autarch personally co-ordinates the fire of his army, with deft signals and comms, combining firepower and movement to lure enemies into ingenious death-traps."/>
 	<entry name="Eldar/CrystalTargetingMatrix" value="Kryštaličnaja Matryca Naviadzieńnia"/>
 	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="Utilising advanced scanner technologies, this targeting matrix allows pinpoint fire even when on the move."/>
-	<entry name="Eldar/DestructorRenewer" value="Abnaviciel / Destruktar"/>
+	<entry name="Eldar/DestructorRenewer" value="Adnaviciel / Destruktar"/>
 	<entry name="Eldar/DestructorRenewerDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj adzinki abo nanosić škodu varožaj."/>
 	<entry name="Eldar/DestructorRenewerFlavor" value="Caging a portion of his psychic might, the Spiritseer sends waves of energy forth to destroy his enemies in a burst of azure flame--or, if the need arises, heal the wounds of his allies."/>
 	<entry name="Eldar/Doom" value="Zhuba"/>
 	<entry name="Eldar/DoomDescription" value="Pavialičvaje škodu, jakuju atrymlivaje abranaja adzinka voraha."/>
 	<entry name="Eldar/DoomFlavor" value="With a simple manipulation of that which is to come, the Farseer grants a darkened fate to a chosen foe. While this shadow rests upon the enemys soul, death seeks them out above all others, each blow or shot that comes their way rendered inescapably lethal."/>
 	<entry name="Eldar/EmboldenHorrify" value="Advaha / Strach"/>
-	<entry name="Eldar/EmboldenHorrifyDescription" value="Adnaŭlaje maral abranaj chaŭrusnaj adzinki abo źnižaje jaje varožaj."/>
+	<entry name="Eldar/EmboldenHorrifyDescription" value="Adnaŭlaje maral abranaj chaŭrusnaj adzinki abo źnižaje maral varožaj."/>
 	<entry name="Eldar/EmboldenHorrifyFlavor" value="The Spiritseer calls down the splendour of battle, instilling his allies with valour or sapping courage from his foes."/>
 	<entry name="Eldar/KhaineAwakened" value="Abudžeńnie Kchajna"/>
-	<entry name="Eldar/KhaineAwakenedDescription" value="Pavialičvaje ataki i škodu ŭ blizkim bai, źnižaje stratu marali, daje nieŭsprymalnaść da strachu i pryviazvajecca da susiednich chaŭrusnych adzinak Aeldary."/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Pavialičvaje ataki i škodu ŭ blizkim bai, źnižaje straty marali, daje nieŭsprymalnaść da strachu i pryviazvajecca da susiednich chaŭrusnych adzinak Aeldary."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="As the Wailing Doom cries out for blood and the Avatar rouses itself for war, so too are nearby Aeldari driven to greater deeds in his name. Fearing nothing, they throw themselves into the melee battle-crazed."/>
 	<entry name="Eldar/KhainesMight" value="Moc Kchajna"/>
 	<entry name="Eldar/KhainesMightDescription" value="Pavialičvaje ataki blizkaha boju Aŭtarcha."/>
@@ -417,18 +417,18 @@
 	<entry name="Eldar/LinkedFireDescription" value="Pavialičvaje škodu i bronieprabivalnaść chaŭrusnaj Ahniavoj Pryzmy i Pryzmaŭ Harmat."/>
 	<entry name="Eldar/LinkedFireFlavor" value="The unusual design of a Fire Prisms Prism Cannon crystal is designed to allow it to further concentrate its already-intense beam by feeding it into another Fire Prism, focusing both machines firepower into a single shot."/>
 	<entry name="Eldar/MindWar" value="Vajna Rozumu"/>
-	<entry name="Eldar/MindWarDescription" value="Źnižaje trapnaść abranaj varožaj adzinki. Škoda, što nanosicca, zaležyć ad roźnicy ŭ marali Viaščuna Niabiesnaha Biahuna i abranaj adzinki."/>
+	<entry name="Eldar/MindWarDescription" value="Źnižaje trapnaść abranaj varožaj adzinki. Škoda, što nanosicca, zaležyć ad roźnicy marali miž Viaščunom Niabiesnym Biehunom i abranaj adzinkaj."/>
 	<entry name="Eldar/MindWarFlavor" value="The Farseer reaches out to attack the mind of an enemy in a desperate mental duel. Foes find their thoughts invaded by the crushing presence of the Farseer, his ancient and inscrutable will extinguishing their personality with horrific ease, triggering a cascade of psychosomatic trauma."/>
-	<entry name="Eldar/ProtectJinx" value="Abaranić / Suročyć"/>
+	<entry name="Eldar/ProtectJinx" value="Achova / Suroki"/>
 	<entry name="Eldar/ProtectJinxDescription" value="Pavialičvaje braniu abranaj chaŭrusnaj adzinki abo źnižaje braniu varožaj."/>
 	<entry name="Eldar/ProtectJinxFlavor" value="Chained by runes of power, fate itself is bound to the Spiritseers will."/>
 	<entry name="Eldar/ReturnOfTheAeldari" value="Viartańnie Aeldary"/>
-	<entry name="Eldar/ReturnOfTheAeldariDescription" value="Pavialičvaje prybytak resursaŭ ad farpostaŭ."/>
+	<entry name="Eldar/ReturnOfTheAeldariDescription" value="Pavialičvaje atrymańnie resursaŭ ad farpostaŭ."/>
 	<entry name="Eldar/ReturnOfTheAeldariFlavor" value="After the disappearance of the Old Ones, the Aeldari ruled this planet for millions of years. They understand better than anyone else how to best cultivate and access its unique resources."/>
 	<entry name="Eldar/SpiritMark" value="Znak Duchu"/>
 	<entry name="Eldar/SpiritMarkDescription" value="Pavialičvaje trapnaść chaŭrusnych Pryvidnych Klinkoŭ i Pryvidnych Rycaraŭ."/>
 	<entry name="Eldar/SpiritMarkFlavor" value="The Avatars presence invigorates the dead distinctly from the living. Whilst the latter are filled with Khaines incandescent rage, those machines manned by spirit crystals instead find their awareness raised from their usual somnambulance, enabling them to better focus on their targets."/>
-	<entry name="Eldar/TranscendentBliss" value="Transcendentnaja Asałoda"/>
+	<entry name="Eldar/TranscendentBliss" value="Transcendentalnaja Asałoda"/>
 	<entry name="Eldar/TranscendentBlissDescription" value="Pavialičvaje łajalnaść."/>
 	<entry name="Eldar/TranscendentBlissFlavor" value="The life of an Aeldari is infinitely richer than that of a human, given their tremendous sensitivity, intellect and intensity of feeling—and sometimes it takes shared moments of that bliss to remind the Aeldari what theyre fighting for in this dark universe."/>
 	<entry name="Eldar/VectorDancer" value="Viektarny Tancor"/>
@@ -440,11 +440,11 @@
 	<entry name="Eldar/WarShout" value="Kryk Vajny"/>
 	<entry name="Eldar/WarShoutDescription" value="Źnižaje maral susiednich varožych adzinak."/>
 	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready…"/>
-	<entry name="Eldar/WebwayRedoubt" value="Znajści Redut Šlacha Pavucińnia"/>
-	<entry name="Eldar/WebwayRedoubtDescription" value="Zasnoŭvaje horad na zachoplenym Šlachu Pavucińnia.<br/><br/>Harady možna budavać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
+	<entry name="Eldar/WebwayRedoubt" value="Zasnavać Redut Šlacha Pavucińnia"/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Zasnoŭvaje horad na zachoplenym Šlachu Pavucińnia.<br/><br/>Harady lha budavać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webways limitless power to devastate any enemies foolish enough to venture near."/>
-	<entry name="Eldar/WebwayTravel" value="Padarožža praz Šlach Pavucińnia"/>
-	<entry name="Eldar/WebwayTravelDescription" value="Padarožža ad adnaho Šlacha Pavucińnia abo Reduta Pavucińnia da inšaha."/>
+	<entry name="Eldar/WebwayTravel" value="Vandravać praz Šlach Pavucińnia"/>
+	<entry name="Eldar/WebwayTravelDescription" value="Vandruje ad adnaho Šlacha Pavucińnia abo Reduta Pavucińnia da inšaha."/>
 	<entry name="Eldar/WebwayTravelFlavor" value="The unique Webway sub-structure riddling Gladius Prime enables the Aeldari to travel rapidly between the gateways dotted across the planet—though now that they are active, wise opposing races will recognise their threat and eliminate them on first sight."/>
 	<entry name="Eldar/WillOfAsuryan" value="Vola Asur'jana"/>
 	<entry name="Eldar/WillOfAsuryanDescription" value="Adnaŭlaje maral chaŭrusnych adzinak u vobłaści."/>
@@ -458,9 +458,9 @@
 	<entry name="EreWeGoDescription" value="Pavialičvaje ruch."/>
 	<entry name="EreWeGoFlavor" value="Ever eager to get stuck into the fray, Orks will barrel across the battlefield as quick as they can when the foe is in their sights."/>
 	<entry name="FoundCity" value="Zasnavać Horad"/>
-	<entry name="FoundCityDescription" value="Spažyvaje adzinku dla zasnavańnia novaha horada.<br/><br/>Harady možna zasnoŭvać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
+	<entry name="FoundCityDescription" value="Spažyvaje adzinku dziela zasnavańnia novaha horada.<br/><br/>Harady lha zasnoŭvać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
 	<entry name="FoundCityNecrons" value="Abudzić Horad"/>
-	<entry name="FoundCityNecronsDescription" value="Spažyvaje adzinku dla abudžeńnia novaha horada.<br/><br/>Harady možna budavać tolki na miescy Hrabnic Niekronaŭ u vypadku adsutnaści inšych haradoŭ u radyusie 4 plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na 6."/>
+	<entry name="FoundCityNecronsDescription" value="Spažyvaje adzinku dziela abudžeńnia novaha horada.<br/><br/>Harady lha budavać tolki na miescy Hrabnic Niekronaŭ u vypadku adsutnaści inšych haradoŭ u radyusie 4 plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na 6."/>
 	<entry name="FullThrottle" value="“Poŭny Haz!”"/>
 	<entry name="FullThrottleDescription" value="Dadaje ruch Kamandoru Tanka i susiednim chaŭrusnym tankam."/>
 	<entry name="FullThrottleFlavor" value="The officer leads a glorious tank charge that grinds the enemy beneath his treads."/>
@@ -470,14 +470,14 @@
 	<entry name="GrabbinKlaw" value="Klušnia Chapała"/>
 	<entry name="GrabbinKlawDescription" value="Źnieruchomlivaje abranuju varožuju naziemnuju mašynu."/>
 	<entry name="GrabbinKlawFlavor" value="In their pursuit of ever-larger Power Klaws, Ork Meks occasionally make ones that are simply too large for even the most over-sized Boss or Deff Dread. These are mounted on vehicles, where they are used to immobilise enemy vehicles or perform outrageous handbrake turns."/>
-	<entry name="GunnersKillOnSight" value="“Strałki, Zabivajcie Ŭsio, što Bačycie!”"/>
+	<entry name="GunnersKillOnSight" value="“Strałki, Zabivajcie Ŭsich, kaho Bačycie!”"/>
 	<entry name="GunnersKillOnSightDescription" value="Pavialičvaje ataku ŭ dalokim bai Kamandora Tanka i susiednich chaŭrusnych tankaŭ."/>
 	<entry name="GunnersKillOnSightFlavor" value="The officer gives his men free rein to unleash discretionary fire."/>
 	<entry name="Hallucination" value="Halucynacyi"/>
 	<entry name="HallucinationDescription" value="Źnižaje ataki abranaj varožaj adzinki."/>
 	<entry name="HallucinationFlavor" value="Paranoia, confusion and panic are heightened to a debilitating degree as the telepath alters his foes perceptions."/>
 	<entry name="HammerOfWrath" value="Mołat Hnievu"/>
-	<entry name="HammerOfWrathDescription" value="Pavialičvaje škodu zbroi za vyniatkam Bombaŭ."/>
+	<entry name="HammerOfWrathDescription" value="Pavialičvaje škodu nia bombavaj zbroi."/>
 	<entry name="HammerOfWrathFlavor" value="Many warriors hurl themselves headlong into combat, seeking to crush or trample the foe."/>
 	<entry name="Hammerhand" value="Ruka-Mołat"/>
 	<entry name="HammerhandDescription" value="Pavialičvaje škodu ŭ blizkim bai."/>
@@ -495,7 +495,7 @@
 	<entry name="IronWillDescription" value="Paśla śmierci Łord-Kamisar adrazu ž ažyvaje."/>
 	<entry name="IronWillFlavor" value="“Pain is temporary, Honour is forever.”<br/>  — Colonel-Commissar Ibram Gaunt, Tanith First and Only"/>
 	<entry name="Jink" value="Chitryki"/>
-	<entry name="JinkDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju, ale źnižaje trapnaść. Nielha vykarystoŭvać, kali adzinka atakavała ŭ hety krok."/>
+	<entry name="JinkDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju, ale źnižaje trapnaść. Nielha vykarystoŭvać, kali adzinka atakavała na hetym kroku."/>
 	<entry name="JinkFlavor" value="Some units favour speed and agility rather than heavy armour to keep them alive on the battlefield, dodging and weaving unscathed through hails of incoming fire."/>
 	<entry name="JumpPack" value="Skokavy Raniec"/>
 	<entry name="JumpPackDescription" value="Lacić praz pieraškody da abranaj plitki."/>
@@ -505,7 +505,7 @@
 	<entry name="LevitateDescription" value="Lacić praz pieraškody da abranaj plitki."/>
 	<entry name="LevitateFlavor" value="The psyker uses his telekinetic powers to launch himself skywards, leaping across the battlefield in a single bound."/>
 	<entry name="MachineEmpathy" value="Vykarystać Empatyju Mašyn"/>
-	<entry name="MachineEmpathyDescription" value="Taktyka Padziełu, što adnaŭlaje zdaroŭje mašynaŭ i fartyfikacyjaŭ."/>
+	<entry name="MachineEmpathyDescription" value="Taktyka Padziełu, što adnaŭlaje zdaroŭje mašyn i fartyfikacyjaŭ."/>
 	<entry name="MachineEmpathyFlavor" value="“Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of obedience which overcomes all obstacles, and armed with the three great guns of Zeal, Duty and Purity.”<br/>  — Traditional Imperial prayer, source unknown"/>
 	<entry name="MediPack" value="Aptečka"/>
 	<entry name="MediPackDescription" value="Adnaŭlaje zdaroŭje."/>
@@ -515,11 +515,11 @@
 	<entry name="MeksToolsFlavor" value="“Yer arm? I don't care about yer arm! Me trukk's zogging ruined! Did no wun tell you to stay away from Laskannons? 'Ere, Grot. Pass me the wotsit, the thingummy, and the whacker. And the red paint, o' course. She'll be all shiny-new in no time.”<br/>  — Skinwab, Evil Sunz Mek"/>
 	<entry name="MindControl" value="Kantrol nad Rozumam"/>
 	<entry name="MindControlDescription" value="Źnižaje maral susiednich varožych adzinak kožny krok."/>
-	<entry name="Misfortune" value="Niaŭdača"/>
+	<entry name="Misfortune" value="Niaščaście"/>
 	<entry name="MisfortuneDescription" value="Pavialičvaje škodu, jakaja nanosicca pa abranaj varožaj adzincy."/>
 	<entry name="MisfortuneFlavor" value="With a click of his fingers, the diviner twists fate so that his followers' blows punch through the weakest points in their opponent's armour."/>
 	<entry name="Move" value="Rušyć"/>
-	<entry name="Narthecium" value="Nartecyŭm"/>
+	<entry name="Narthecium" value="Nartecyum"/>
 	<entry name="NartheciumDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj piachoty abo žachlivaha stvareńnia."/>
 	<entry name="NartheciumFlavor" value="The narthecium is used by Space Marine Apothecaries to dispense medical aid, including complex battlefield surgery, to the wounded. The wrist-mounted device also houses a reductor—the mechanism with which the gene-seed of the fallen is recovered, ensuring the Chapter's future."/>
 	<entry name="Necrons/BloodyCrusade" value="Kryvavy Kryžovy Pachod"/>
@@ -529,13 +529,13 @@
 	<entry name="Necrons/ChronometronDescription" value="Pavialičvaje źnižeńnie škody abranaj chaŭrusnaj adzincy."/>
 	<entry name="Necrons/ChronometronFlavor" value="These eye-shaped devices project a bubble of energy that can alter the flow of time itself, slowing incoming projectiles such that those nearby can simply move out of their path."/>
 	<entry name="Necrons/DefensiveProtocols" value="Pratakoły Abarony"/>
-	<entry name="Necrons/DefensiveProtocolsDescription" value="Pavialičvaje braniu Łorda i chaŭrusnych adzinak niekronaŭ u radyusie."/>
+	<entry name="Necrons/DefensiveProtocolsDescription" value="Pavialičvaje braniu Łorda i chaŭrusnych adzinak Niekronaŭ u radyusie."/>
 	<entry name="Necrons/DefensiveProtocolsFlavor" value="A Necrons Lords higher functions arent devoted to containing a more-charming personality or a fiercer intelligence—they also contain control protocols that enable them to coordinate nearby Necron troops more minutely, heavily increasing their chances of survival."/>
 	<entry name="Necrons/DestructionProtocols" value="Pratakoły Razbureńnia"/>
 	<entry name="Necrons/DestructionProtocolsDescription" value="Pavialičvaje škodu, jakuju buduć atrymlivać susiednija varožyja adzinki."/>
 	<entry name="Necrons/DestructionProtocolsFlavor" value="When a Necron Lord falls to the Destroyer curse, they abandon the caution and of their Defensive Protocols, reconfiguring their engrammic pathways to augment the aggression of their peers, not their defensive capabilities."/>
 	<entry name="Necrons/DimensionalCorridor" value="Prastoravy Kalidor"/>
-	<entry name="Necrons/DimensionalCorridorDescription" value="Telepartuje na plitku susiedniuju da horada abo Manalita."/>
+	<entry name="Necrons/DimensionalCorridorDescription" value="Telepartuje na plitku susiedniuju da horada abo Manalitu."/>
 	<entry name="Necrons/DimensionalCorridorFlavor" value="“And first to walk the starlight bridge, from incorporeal to corporeal, was Artemorra, to whom the Necrontyr gave the name 'Messenger', later changed to 'Deceiver'—with good reason.”<br/>  — Fragmentary inscription on a Jokaerian Defence Orb"/>
 	<entry name="Necrons/Dynasty" value="Dynastyja"/>
 	<entry name="Necrons/DynastyDescription" value="Pavialičvaje limit nasielnictva haradoŭ."/>
@@ -551,7 +551,7 @@
 	<entry name="Necrons/HuntersFromHyperspace" value="Palaŭničyja z Hipierprastory"/>
 	<entry name="Necrons/HuntersFromHyperspaceDescription" value="Telepartuje na abranuju daśledavanuju plitku i pavialičvaje škodu."/>
 	<entry name="Necrons/HuntersFromHyperspaceFlavor" value="These deadly marksmen seldom take position with the rest of the army. Instead, they slip sideways out of reality and monitor the conflict from a hyperspace oubliette – a pocket dimension riding the gap between the then and now. The Deathmarks track enemy communication channels, teleport beams and orbital descents in order to select suitably high-profile prey. This done, they exit their oubliette to tag their quarry with the hunters mark from which they take their name – an eerie green energy halo that plays about the targets head in five dimensions."/>
-	<entry name="Necrons/JetCharge" value="Reaktyŭny Zarad"/>
+	<entry name="Necrons/JetCharge" value="Aeraskok"/>
 	<entry name="Necrons/JetChargeDescription" value="Pavialičvaje źnižeńnie škody i lacić praz pieraškody da abranaj plitki."/>
 	<entry name="Necrons/JetChargeFlavor" value="In its limitless rage, a headstrong Necron Destroyer Lord can overcharge its grav-platform to move short distances extremely quickly, albeit at a further cost to its reason."/>
 	<entry name="Necrons/MindshackleScarabs" value="Skarabiei Kajdanoŭ Rozumu"/>
@@ -564,21 +564,21 @@
 	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody Piłonaŭ Haŭsa i susiednich chaŭrusnych adzinak Niekronaŭ."/>
 	<entry name="Necrons/PhaseShiftGeneratorFlavor" value="When a Gauss Pylon is raised from the ground, it creates a temporal bubble altering the local flow of space time. Nearby Necrons can take advantage of this, shifting out of phase with reality to avoid destruction."/>
 	<entry name="Necrons/QuantumShielding" value="Kvantavaje Ekranavańnie"/>
-	<entry name="Necrons/QuantumShieldingDescription" value="Pavieličeńnie nieparažalnaha źnižeńnia škody Pierazaradžvajecca napačatku nastupnaha kroku, kali atrymana škoda."/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody. Pierazaradžvajecca napačatku nastupnaha kroku, kali atrymana škoda."/>
 	<entry name="Necrons/QuantumShieldingFlavor" value="Necron quantum shielding is a marvel of science, existing only at the precise moment of deflection—at all other times there is no indication of its presence. They are, however, temperamental devices, prone to malfunction if overloaded."/>
 	<entry name="Necrons/RepairBarge" value="Ramontnaja Barža"/> <!-- Ghost Ark -->
 	<entry name="Necrons/RepairBargeDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj piachoty Niekronaŭ abo žachlivaha stvareńnia."/>
 	<entry name="Necrons/RepairBargeFlavor" value="Stately they might be, but these sinister vehicles are as great a threat as the better-known Monolith. Their role is to support the Necron army, gliding across the battlefield and disgorging minute repair scarabs to return even the most devastated Necron warriors to battle readiness, before transporting them back to the fray."/>
 	<entry name="Necrons/RapidRise" value="Chutki Ŭzdym"/>
-	<entry name="Necrons/RapidRiseDescription" value="Paskaraje vytvorčaść čaho-niebudź."/>
+	<entry name="Necrons/RapidRiseDescription" value="Paskaraje vytvorčaść čahości."/>
 	<entry name="Necrons/RapidRiseFlavor" value="In times of desperation, a Necron Lord can override safety protocols in the reanimation of troops or repair of vehicles, at the cost of heavily increased losses. He will, however, lose support amongst any those of the ruling class who retain sentience, in horror at the waste of resources."/>
-	<entry name="Necrons/Reaper" value="Žniec"/>
-	<entry name="Necrons/ReaperDescription" value="Pavialičvaje braniu i trapnaść. Reaktyŭny zarad pierazaradžvajecca, kali Łord-Razburalnik atrymlivaje dośvied u bai."/>
+	<entry name="Necrons/Reaper" value="Žniajar"/>
+	<entry name="Necrons/ReaperDescription" value="Pavialičvaje braniu i trapnaść. Aeraskok pierazaradžvajecca, kali Łord-Razburalnik atrymlivaje dośvied u bai."/>
 	<entry name="Necrons/ReaperFlavor" value="Where the Flayers suffer the deathcurse of Llandu'gor, the Destroyers' madness derives from the universal fate of all Necrons—the loss of their souls when they took on living metal bodies. In the Destroyers, this drives them to refine themselves more and more, to become closer to perfect weapons—curiously, thus, closer to Aza'gorod, the Nightbringer, the doom of all life."/>
-	<entry name="Necrons/ResurrectionOrb" value="Śfiera Ažyvańnia"/>
+	<entry name="Necrons/ResurrectionOrb" value="Śfiera Ažyŭleńnia"/>
 	<entry name="Necrons/ResurrectionOrbDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj adzinki."/>
 	<entry name="Necrons/ResurrectionOrbFlavor" value="This glowing sphere focuses energy into the regeneration circuits of nearby Necrons, enhancing their ability to self-repair."/>
-	<entry name="Necrons/RoyalGuard" value="Karaleŭskaja Varta"/>
+	<entry name="Necrons/RoyalGuard" value="Haspadarskaja Varta"/>
 	<entry name="Necrons/RoyalGuardDescription" value="Časova zaklikaje Pretaryjancaŭ Tryjarchaŭ."/>
 	<entry name="Necrons/RoyalGuardFlavor" value="“I have watched the galaxy for sixty million years. I have raised civilisations to our ways and seen them thrive, fade and pass into myth. And I still believe that to exist without honour, without laws—well, it is better not to exist at all.”<br/>  — Eystan, Triarch Praetorian"/>
 	<entry name="Necrons/ScarabHive" value="Vulej Skarabiejaŭ"/>
@@ -589,8 +589,8 @@
 	<entry name="Necrons/SolarPulse" value="Soniečny Impuls"/>
 	<entry name="Necrons/SolarPulseDescription" value="Źnižaje trapnaść varožaj piachoty i žachlivych stvareńniaŭ u vobłaści."/>
 	<entry name="Necrons/SolarPulseFlavor" value="The Solar Staff burns with the light of truth and honour, and when its powers are unleashed they are a bane to all shadows. Set loose, the staff's energies blaze outward in a mighty flare, as though a new sun was born. The darkness is driven back by this false dawn, and the foe reels as their eyes are blinded and their deceptions are laid bare."/>
-	<entry name="Necrons/TheBoundCoalescent" value="Złučanaja Kaaleściencyja"/>
-	<entry name="Necrons/TheBoundCoalescentDescription" value="Źlivajecca z Abieliskam dla stvareńnia Teseraktavaha Schovišča."/>
+	<entry name="Necrons/TheBoundCoalescent" value="Złučanaja Kaaliścencyja"/>
+	<entry name="Necrons/TheBoundCoalescentDescription" value="Źlivajecca z Abieliskam dziela stvareńnia Teseraktavaha Schovišča."/>
 	<entry name="Necrons/TheBoundCoalescentFlavor" value="The C'tan were immeasurably-powerful and wholly evil; these shards, fragmented by the Necrons' desperate conspiracy, are all that remains of them. In desperate times, two shards might be allowed to re-coalesce, to form a greater weapon—but the Necrons never forget the insane power of the originals."/>
 	<entry name="Necrons/VoidStrike" value="Udar Pustečy"/>
 	<entry name="Necrons/VoidStrikeDescription" value="Vykonvaje ataku Klinkom Pustečy z pavialičanaj atakaj."/>
@@ -610,7 +610,7 @@
 	<entry name="OrbitalDeploymentDescription" value="Pierakidaje adzinku z plitki horada na abranuju plitku."/>
 	<entry name="OrbitalDeploymentFlavor" value="Some units make their way to battle via tunnelling, teleportation, flying or some other extraordinary means which allows them to appear in the thick of the fighting."/>
 	<entry name="OrbitalScan" value="Arbitalnaje Skanavańnie"/>
-	<entry name="OrbitalScanDescription" value="Apieracyja pa vyviedki abranaj i susiednich plitak."/>
+	<entry name="OrbitalScanDescription" value="Apieracyja pa vyviedcy abranaj i susiednich plitak."/>
 	<entry name="OrbitalScanFlavor" value="A Space Marine Chapter commonly possesses an entire fleet of ships, ranging from tiny Thunderhawk Gunships to massive Strike Cruisers. On Gladius Prime, the Chapter fleet was decimated by the warp storm. Only one ship survives, swinging around the planet in an low, erratic orbit. Yet for sufficiently important targets, the Techmarine and Servitor crew will focus all its sensors onto the planet's surface."/>
 	<entry name="OrbitalStrike" value="Arbitalny Ŭdar"/>
 	<entry name="OrbitalStrikeDescription" value="Vyklikaje arbitalny ŭdar pa abranaj varožaj adzincy."/>
