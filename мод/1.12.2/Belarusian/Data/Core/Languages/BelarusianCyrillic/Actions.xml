@@ -367,7 +367,7 @@
 	<entry name="DeployUnit" value="Разгарнуць %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Разгарнуць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="DevastatorDoctrine" value="Выкарыстаць Дактрыну Разбуральнікаў"/>
-	<entry name="DevastatorDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Касьмічных Марынаў Разбуральнікаў ды Цэнтурыёнаў-Разбуральнікаў."/>
+	<entry name="DevastatorDoctrineDescription" value="Тактыка Падзелу, якая павялічвае трапнасьць Космамарынаў-Разбуральнікаў ды Цэнтурыёнаў-Разбуральнікаў."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
 	<entry name="Disappear" value="Зьнікнуць"/>
 	<entry name="Disband" value="Расфармаваць"/>
@@ -970,7 +970,7 @@
 	<entry name="Tyranids/CatalystDescription" value="Аднаўляе здароўе Тэрвігона і абранай хаўруснай адзінкі Тыранідаў."/>
 	<entry name="Tyranids/CatalystFlavor" value="Through its synaptic conduits, the power of the Hive Mind reaches out to infuse the organisms under its control, invigorating their systems with such unnatural vitality that they can ignore the most grievous of wounds."/>
 	<entry name="Tyranids/ClearTile" value="Ачысьціць Плітку (Тыраніды)"/>
-	<entry name="Tyranids/ClearTileDescription" value="Ачышчае плітку ад пустазельля-дроту, імперскіх руін, лясоў і сьвятых месцаў сарорытас, ад адной асаблівасьці за раз."/>
+	<entry name="Tyranids/ClearTileDescription" value="Ачышчае плітку ад пустазельля-дроту, імперскіх руін, лясоў і сьвятых месцаў Сарорытас, ад адной асаблівасьці за раз."/>
 	<entry name="Tyranids/ConstructTunnel" value="Пабудаваць <string name='Units/Tyranids/Tunnel'/>"/>
 	<entry name="Tyranids/ConstructTunnelFlavor" value="<string name='Units/Tyranids/TunnelFlavor'/>"/>
 	<entry name="Tyranids/ConsumeTile" value="Спажыць Плітку"/>

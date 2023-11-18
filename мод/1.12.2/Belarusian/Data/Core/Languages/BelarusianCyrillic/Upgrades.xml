@@ -709,7 +709,7 @@
 	<entry name="Tau/EtherealDescription" value="<string name='Units/Tau/EtherealDescription'/>"/>
 	<entry name="Tau/EtherealFlavor" value="<string name='Units/Tau/EtherealFlavor'/>"/>
 	<entry name="Tau/GunDrone" value="<string name='Units/Tau/GunDrone'/>"/>
-	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам - XV8 Крызіс, Баявым Гарнітурам XV25 -  Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадру - Агнявому Клінку, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых асноўных баявых дронаў."/>
+	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых асноўных баявых дронаў."/>
 	<entry name="Tau/GunDroneFlavor" value="<string name='Units/Tau/GunDroneFlavor'/>"/>
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
@@ -718,7 +718,7 @@
 	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
 	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
 	<entry name="Tau/MarkerDrone" value="<string name='Units/Tau/MarkerDrone'/>"/>
-	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам XV8 - Крызіс, Баявым Гарнітурам XV25 - Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадру - Агнявому Клінку, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
+	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
 	<entry name="Tau/MarkerDroneFlavor" value="<string name='Units/Tau/MarkerDroneFlavor'/>"/>
 	<entry name="Tau/Pathfinder" value="<string name='Units/Tau/Pathfinder'/>"/>
 	<entry name="Tau/PathfinderDescription" value="<string name='Units/Tau/PathfinderDescription'/>"/>
@@ -730,7 +730,7 @@
 	<entry name="Tau/RVarnaBattlesuitDescription" value="<string name='Units/Tau/RVarnaBattlesuitDescription'/>"/>
 	<entry name="Tau/RVarnaBattlesuitFlavor" value="<string name='Units/Tau/RVarnaBattlesuitFlavor'/>"/>
 	<entry name="Tau/ShieldDrone" value="<string name='Units/Tau/ShieldDrone'/>"/>
-	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам XV8 - Крызіс, Баявым Гарнітурам XV25 - Невідзімка, Баявым Гарнітурам XV88 - Залп, Кадру - Агнявому Клінку, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталыя дроны, якія бароняць хаўрусьнікаў."/>
+	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталыя дроны, якія бароняць хаўрусьнікаў."/>
 	<entry name="Tau/ShieldDroneFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SkyRayGunship" value="<string name='Units/Tau/SkyRayGunship'/>"/>
 	<entry name="Tau/SkyRayGunshipDescription" value="<string name='Units/Tau/SkyRayGunshipDescription'/>"/>
@@ -1210,7 +1210,7 @@
 	<entry name="Eldar/SpiritPreservationBonusDescription" value="Павялічвае энергію атрыманую ад сьмерці адзінак Аэльдары."/>
 	<entry name="Eldar/SpiritPreservationBonusFlavor" value="For time immemorial, we have mounted our spirit stones in simple casings, trusting to the skill of their owners to preserve them. Yet, the ancient webway structures we have encountered on Gladius Prime demonstrate that a complex shielding can be built into any wraithbone casing, allowing us to snatch a greater number of our dead warriors from the maw of She Who Waits."/>
 	<entry name="Eldar/SpiritStones" value="<string name='Traits/Eldar/SpiritStones'/>"/>
-	<entry name="Eldar/SpiritStonesDescription" value="Зьніжае страту маральнага духу Агнявых Прызмаў, Шэршняў, Хвалевых Зьмеяў і Баявых Крокаходаў."/>
+	<entry name="Eldar/SpiritStonesDescription" value="Зьніжае страты маралі Агнявым Прызмам, Шэршням, Хвалевым Зьмеям і Баявым Крокаходам."/>
 	<entry name="Eldar/SpiritStonesFlavor" value="<string name='Traits/Eldar/SpiritStonesFlavor'/>"/>
 	<entry name="Eldar/StarEngines" value="<string name='Traits/Eldar/StarEngines'/>"/>
 	<entry name="Eldar/StarEnginesDescription" value="Павялічвае рух Агнявых Прызмаў, Шэршняў, Хвалевых Зьмеяў, Баявых Крокаходаў і Скарпіёнаў."/>
@@ -1526,7 +1526,7 @@
 	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсьвяцейшым Сэлесьцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Дасканалым Вайсковым Гарнітурам, Карніцам, Сьвятой Сэлесьціне, Сёстрам Пакаяньня, Зэфірымам здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrath" value="<string name='Traits/HammerOfWrath'/>"/>
-	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Дае Рыцарам-Капійнікам Цэрастус, Умярцьвіцелям, Дасканалым Вайсковым Гарнітурам, Сьвятой Сэлесьціне і Зэфірыму здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
+	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Дае Рыцарам-Капійнікам · Цэрастус, Умярцьвіцелям, Дасканалым Вайсковым Гарнітурам, Сьвятой Сэлесьціне і Зэфірыму здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="SistersOfBattle/HammerOfWrathFlavor" value="<string name='Traits/HammerOfWrathFlavor'/>"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonus" value="<string name='Traits/SistersOfBattle/HeavyWeaponBonus'/>"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць цяжкай зброі."/>
@@ -1550,7 +1550,7 @@
 	<entry name="SistersOfBattle/MeltaBombDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасьць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорум"/>
-	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам Цэрастус."/>
+	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам · Цэрастус."/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationDescription'/>"/>
@@ -1580,7 +1580,7 @@
 	<entry name="SistersOfBattle/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
 	<entry name="SistersOfBattle/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="SistersOfBattle/UniversalCatechism" value="Універсальны Катэхізіс"/>
-	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Дае Шчыт Веры Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам Цэрастус."/>
+	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Дае Шчыт Веры Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам · Цэрастус."/>
 	<entry name="SistersOfBattle/UniversalCatechismFlavor" value="Imperial troops requisitioned for the Wars of Faith often end up praying side-by-side with the sisters of the Adepta Sororitas before each battle, finding guidance in their convictions."/>
 	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Actions/SistersOfBattle/VengefulSpirit'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritDescription" value="<string name='Actions/SistersOfBattle/VengefulSpiritDescription'/>"/>
@@ -1607,7 +1607,7 @@
 	<entry name="SpaceMarines/BolterDrillDescription" value="<string name='Actions/BolterDrillDescription'/>"/>
 	<entry name="SpaceMarines/BolterDrillFlavor" value="<string name='Traits/BolterDrillFlavor'/>"/>
 	<entry name="SpaceMarines/CeramitePlating" value="<string name='Traits/CeramitePlating'/>"/>
-	<entry name="SpaceMarines/CeramitePlatingDescription" value="Павялічвае браню Караблёў Штармавы Крумкач і Штармавы Кіпцюр."/>
+	<entry name="SpaceMarines/CeramitePlatingDescription" value="Павялічвае браню Караблёў · Штармавы Крумкач і Штармавы Кіпцюр."/>
 	<entry name="SpaceMarines/CeramitePlatingFlavor" value="<string name='Traits/CeramitePlatingFlavor'/>"/>
 	<entry name="SpaceMarines/ChapterUnity" value="<string name='Traits/ChapterUnity'/>"/>
 	<entry name="SpaceMarines/ChapterUnityDescription" value="Павялічвае лаяльнасьць Вялікай Залы."/>
@@ -1646,7 +1646,7 @@
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloDescription" value="Дае Крэпасьці Выкупленьня ракетную шахту крак-шторм."/>
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloFlavor" value="<string name='Weapons/KrakstormMissileSiloFlavor'/>"/>
 	<entry name="SpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SpaceMarines/FragGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Касьмічным Марынам Разбуральнікам, Бібліарыям, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам Громавы Агонь здольнасьць кідаць супрацьпяхотныя гранаты."/>
+	<entry name="SpaceMarines/FragGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Космамарынам-Разбуральнікам, Бібліарыям, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам · Громавы Агонь здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="SpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="SpaceMarines/HammerOfWrathDescription" value="Дае Штурмавым Касьмічным Марынам, Дрэдноўтам і Матацыклістам-Выведнікам здольнасьць выконваць больш разбуральныя атакі."/>
@@ -1655,10 +1655,10 @@
 	<entry name="SpaceMarines/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="SpaceMarines/HurricaneBolter" value="Болтар Ураган"/>
-	<entry name="SpaceMarines/HurricaneBolterDescription" value="Дае Караблям Штармавы Крумкач болтар ураган."/>
+	<entry name="SpaceMarines/HurricaneBolterDescription" value="Дае Караблям · Штармавы Крумкач болтар ураган."/>
 	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SpaceMarines/KrakGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Касьмічным Марынам Разбуральнікам, Бібліарыям, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам Громавы Агонь здольнасьць кідаць супрацьтанкавыя гранаты."/>
+	<entry name="SpaceMarines/KrakGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Космамарынам-Разбуральнікам, Бібліарыям, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам · Громавы Агонь здольнасьць кідаць супрацьтанкавыя гранаты."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Дае Зямным Хуткарам і Зямны Рэйдарам мульцімельтавую зброю."/>
@@ -1671,7 +1671,7 @@
 	<entry name="SpaceMarines/LastStandFlavor" value="<string name='Traits/LastStandFlavor'/>"/>
 	<entry name="SpaceMarines/LastStandReady" value="<string name='Traits/LastStand'/>"/>
 	<entry name="SpaceMarines/LocatorBeacon" value="<string name='Traits/LocatorBeacon'/>"/>
-	<entry name="SpaceMarines/LocatorBeaconDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня пры разгортваньні побач з Матацыклістамі-Выведнікамі ды Караблямі Штармавы Крумкач."/>
+	<entry name="SpaceMarines/LocatorBeaconDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня пры разгортваньні побач з Матацыклістамі-Выведнікамі ды Караблямі · Штармавы Крумкач."/>
 	<entry name="SpaceMarines/LocatorBeaconFlavor" value="<string name='Traits/LocatorBeaconFlavor'/>"/>
 	<entry name="SpaceMarines/MachineEmpathy" value="<string name='Traits/MachineEmpathy'/>"/>
 	<entry name="SpaceMarines/MachineEmpathyDescription" value="<string name='Actions/MachineEmpathyDescription'/>"/>
@@ -1680,7 +1680,7 @@
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Касьмічным Марынам, Штурмавым Касьмічным Марынам, Касьмічным Марынам Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасьць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
+	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Касьмічным Марынам, Штурмавым Касьмічным Марынам, Космамарынам-Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасьць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="Дае Цэнтурыёнам-Разбуральнікам магчымасьць абмінаць зьмяншэньне шкоды ў далёкім боі."/>
@@ -1704,7 +1704,7 @@
 	<entry name="SpaceMarines/SiegeShieldDescription" value="Павялічвае браню Ачышчальнікаў і зьніжае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="SpaceMarines/SiegeShieldFlavor" value="<string name='Traits/SiegeShieldFlavor'/>"/>
 	<entry name="SpaceMarines/Signum" value="<string name='Actions/Signum'/>"/>
-	<entry name="SpaceMarines/SignumDescription" value="Дае Касьмічным Марынам Разбуральнікам здольнасьць скасоўваць штраф для цяжкай, артылерыйнай зброі і залпа з джалаў."/>
+	<entry name="SpaceMarines/SignumDescription" value="Дае Космамарынам-Разбуральнікам здольнасьць скасоўваць штраф для цяжкай, артылерыйнай зброі і залпа з джалаў."/>
 	<entry name="SpaceMarines/SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
 	<entry name="SpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="SpaceMarines/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
@@ -1734,7 +1734,7 @@
 	<entry name="Tau/BoltDamageDescription" value="Павялічвае бронепрабівальнасьць разрыўной і рэйкавай зброі."/>
 	<entry name="Tau/BoltDamageFlavor" value="<string name='Traits/Tau/BoltDamageFlavor'/>"/>
 	<entry name="Tau/BondingKnifeRitual" value="<string name='Actions/Tau/BondingKnifeRitual'/>"/>
-	<entry name="Tau/BondingKnifeRitualDescription" value="Дае Ваярам Агню, Сьледапытам, Баявым Гарнітурам XV25 - Невідзімка, Баявым Гарнітурам - XV8 Крызіс, Баявым Гарнітурам XV88 - Залп, Баявым Гарнітурам XV95 - Прывідны Карабель і Баявым Гарнітурам XV104 - Рэжучы Струмень здольнасьць аднаўляць сваю мараль."/>
+	<entry name="Tau/BondingKnifeRitualDescription" value="Дае Ваярам Агню, Сьледапытам, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV88 Залп, Баявым Гарнітурам · XV95 Прывідны Карабель і Баявым Гарнітурам · XV104 Рэжучы Струмень здольнасьць аднаўляць сваю мараль."/>
 	<entry name="Tau/BondingKnifeRitualFlavor" value="<string name='Actions/Tau/BondingKnifeRitualFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="<string name='Traits/Tau/CityTier2'/>"/>
 	<entry name="Tau/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
@@ -1767,13 +1767,13 @@
 	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Зьменшвае кошт уплыву Ў Імя Найвышэйшага Дабрабыту."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tau/HammerOfWrathDescription" value="Дае Баявым Гарнітурам - XV95 Прывідны Карабель, Баявым Гарнітурам XV104 - Рэжучы Струмень, KV128 - Штармавая Хваля здольнасьць зьдяйсьняць больш разбуральныя атакі."/>
+	<entry name="Tau/HammerOfWrathDescription" value="Дае Баявым Гарнітурам · XV95 Прывідны Карабель, Баявым Гарнітурам · XV104 Рэжучы Струмень, KV128 · Штармавая Хваля здольнасьць зьдяйсьняць больш разбуральныя атакі."/>
 	<entry name="Tau/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tau/LasDamage" value="<string name='Traits/Tau/LasDamage'/>"/>
 	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасьць фузійнай, іённай, плазмавай і імпульснай зброі."/>
 	<entry name="Tau/LasDamageFlavor" value="<string name='Traits/Tau/LasDamageFlavor'/>"/>
 	<entry name="Tau/PhotonGrenade" value="<string name='Weapons/PhotonGrenade'/>"/>
-	<entry name="Tau/PhotonGrenadeDescription" value="Дае Ваярам Агню, Сьледапытам і Кадру - Агнявому Клінку здольнасьць кідаць асьляпляльныя гранаты."/>
+	<entry name="Tau/PhotonGrenadeDescription" value="Дае Ваярам Агню, Сьледапытам і Кадру · Агнявы Клінок здольнасьць кідаць асьляпляльныя гранаты."/>
 	<entry name="Tau/PhotonGrenadeFlavor" value="<string name='Weapons/PhotonGrenadeFlavor'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelay" value="<string name='Traits/Tau/PointDefenceTargetingRelay'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду машынаў падчас назіраньня за варожымі адзінкамі, калі яны суседнія зь іншымі сяброўскімі адзінкам."/>
@@ -1797,7 +1797,7 @@
 	<entry name="Tau/RipykaVaDescription" value="Зьменшвае час перазарадкі метастратэгій Камандора."/>
 	<entry name="Tau/RipykaVaFlavor" value="<string name='Traits/Tau/RipykaVaFlavor'/>"/>
 	<entry name="Tau/SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
-	<entry name="Tau/SeekerMissileDescription" value="Дае тэхніцы і Баявым Гарнітурам XV88 - Залп ракетную зброю. "/>
+	<entry name="Tau/SeekerMissileDescription" value="Дае тэхніцы і Баявым Гарнітурам · XV88 Залп ракетную зброю. "/>
 	<entry name="Tau/SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Tau/SensorSpines" value="Сэнсарныя Шыпы"/>
 	<entry name="Tau/SensorSpinesDescription" value="Дае тэхніцы магчымасьць руху праз хованкі."/>
@@ -1862,8 +1862,8 @@
 	<entry name="Tyranids/ConsumeTile2" value="Эфектыўнае Страваваньне"/>
 	<entry name="Tyranids/ConsumeTile2Description" value="Зьніжае кошт уплыву за спажываньне плітак."/>
 	<entry name="Tyranids/ConsumeTile2Flavor" value="Whilst a Malanthrope or Ripper's razor-edged jaws have no problem eating their way through flesh, bone or even plasteel, they are slowed by the necessity of consuming the huge quantities of soil and rock the Hive Mind demands at scale and speed. It is presumed that specialised organisms are deployed to consume these—though, again, none have survived to report them."/>
-	<entry name="Tyranids/Deathspitter" value="Сьмяротны Плявок Рэйвэнэраў"/>
-	<entry name="Tyranids/DeathspitterDescription" value="Дае Рэйвэнэрам зброю далёкага бою."/>
+	<entry name="Tyranids/Deathspitter" value="Сьмяротны Плявок Рэйвенараў"/>
+	<entry name="Tyranids/DeathspitterDescription" value="Дае Рэйвенарам зброю далёкага бою."/>
 	<entry name="Tyranids/DeathspitterFlavor" value="<string name='Weapons/DeathspitterFlavor'/>"/>
 	<entry name="Tyranids/DesiccatorLarvae" value="<string name='Weapons/DesiccatorLarvae'/>"/>
 	<entry name="Tyranids/DesiccatorLarvaeDescription" value="Дае Тыранам Вульля, Тэрвігонам і Тыранафэксам шаблонную зброю."/>
@@ -1878,7 +1878,7 @@
 	<entry name="Tyranids/FleshHooksDescription" value="Дае Ваярам Тыранідаў, Гонару Тыранідаў і Ліктарам дадатковую зброю далёкага бою."/>
 	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
 	<entry name="Tyranids/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tyranids/HammerOfWrathDescription" value="Дае Экзакрынам, Гаргульлям, Гаруспэксам, Каргам Вульля, Тыранам Вульля, Касаносным Ерадулам, Тэрвігонам, Трыгонам, Тыраннацыдам і Тыранафэксам магчымасьць зьдзяйсьняць больш разбуральныя атакі."/>
+	<entry name="Tyranids/HammerOfWrathDescription" value="Дае Экзакрынам, Гаргульлям, Гаруспэксам, Каргам Вульля, Тыранам Вульля, Касаносным Ерадулам, Тэрвігонам, Трыгонам, Тыранацытам і Тыранафэксам магчымасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="Tyranids/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="<string name='Traits/Tyranids/InfantryUpkeep'/>"/>
 	<entry name="Tyranids/InfantryUpkeepDescription" value="Зьменшвае выдаткі біямасы на ўтрыманьне пяхоты."/>
