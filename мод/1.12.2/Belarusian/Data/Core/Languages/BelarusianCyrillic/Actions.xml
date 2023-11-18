@@ -196,15 +196,15 @@
 	<entry name="BolsterDefences" value="Узмацніць Абарону"/>
 	<entry name="BolsterDefencesDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою на абранай плітцы."/>
 	<entry name="BolsterDefencesFlavor" value="“Every position must be held to the last man: there must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight on to the end.”<br/>  — Imperial Warmaster Solon"/>
-	<entry name="BolterDrill" value="Ужыць Прарэзьлівы Болтар"/>
+	<entry name="BolterDrill" value="Ужыць Прарэзьлівыя Болтары"/>
 	<entry name="BolterDrillDescription" value="Тактыка Падзелу, што павялічвае трапнасьць болтарнай зброі."/>
 	<entry name="BolterDrillFlavor" value="“I believe in three tenets of battle—firepower, firepower, and more firepower.”<br/>  — Kardan Stronos, Chapter Master of the Iron Hands"/>
 	<entry name="BringItDown" value="“Зьнішчыце Іх!”"/>
-	<entry name="BringItDownDescription" value="Павялічвае бронепрабівальнасьць Лорда Камісара і суседняй пяхоты Астра Мілітарум."/>
+	<entry name="BringItDownDescription" value="Павялічвае бронепрабівальнасьць Лорда Камісара і суседняй хаўруснай пяхоты Астра Мілітарум."/>
 	<entry name="BringItDownFlavor" value="Enemy war machines and alien monstrosities are equally high priority targets for the commanders of the Imperial Guard."/>
 	<entry name="BuyHint" value="<style name='Title'/>Купіць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="CanticlesOfWrath" value="Песьні Гневу"/>
-	<entry name="CanticlesOfWrathDescription" value="Аднаўляе мараль гэтай адзінкі і суседніх хаўрусных адзінак ды зьніжае мараль суседніх варожых адзінак."/>
+	<entry name="CanticlesOfWrathDescription" value="Аднаўляе мараль гэтай адзінкі і суседніх хаўрусных адзінак і зьніжае мараль суседніх варожых адзінак."/>
 	<entry name="CanticlesOfWrathFlavor" value="Amplified through his vox grill, the Chaplain's bellicose rhetoric and canticles of wrath echo like thunder across the battlefield, filling the Space Marines with new strength while causing the enemy to cower in terror."/>
 	<entry name="Capture" value="Захапіць"/>
 	<entry name="ChaosSpaceMarines/BoonOfMutation" value="Дарунак Мутацыі"/>
@@ -217,7 +217,7 @@
 	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Павялічвае непаражальнае зьніжэньне шкоды суседніх хаўрусных адзінак Хаосу."/>
 	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="The bowed figures of the Dark Disciples incessantly shriek the names of the Chaos Gods, calling for their protection. Typically fickle, the Gods are prone to bless those nearby instead, leaving the desperate Disciples as frail as ever."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrike" value="Узвышаны Ўдар"/>
-	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Зьдзяйсьняе разбуральную атаку Грымотным Молатам супраць абранай варожай адзінцы, здароўе якой ніжэй за 50%."/>
+	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Зьдзяйсьняе руйнавальную атаку Грымотным Молатам супраць абранай варожай адзінцы, здароўе якой ніжэйшае за 50%."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isn’t just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—it’s to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagion" value="Дарунак Заражэньня"/>
 	<entry name="ChaosSpaceMarines/GiftOfContagionDescription" value="Наносіць шкоду абранай пяхоце або жахліваму стварэньню ворага."/>
@@ -226,13 +226,13 @@
 	<entry name="ChaosSpaceMarines/IchorBloodDescription" value="Ворагі атрымліваюць шкоду, калі атакуюць у блізкім баі."/>
 	<entry name="ChaosSpaceMarines/IchorBloodFlavor" value="It is not blood that runs through this champion's veins, but searing ichor, molten brass, psychadelic narcotics, virulent pus or some such vile and deadly substance."/>
 	<entry name="ChaosSpaceMarines/IconOfDespair" value="Абраз Роспачы"/>
-	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Абраз Хаосу павялічвае зьніжэньне шкоды ў блізкім баі ад страшных ворагаў адзінкам з Пазнакай Нургла."/>
+	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Абраз Хаосу павялічвае зьніжэньне шкоды ў блізкім баі ад жахлівых ворагаў адзінкам з Пазнакай Нургла."/>
 	<entry name="ChaosSpaceMarines/IconOfDespairFlavor" value="This icon is surrounded by a miasma of disease and hopelessness, turning the thoughts of any nearby foes to the grisly and inevitable deaths that await them."/>
 	<entry name="ChaosSpaceMarines/IconOfExcess" value="Абраз Празьмернасьцяў"/>
 	<entry name="ChaosSpaceMarines/IconOfExcessDescription" value="Абраз Хаосу павялічвае зьніжэньне шкоды адзінкам з Пазнакай Слаанэша."/>
 	<entry name="ChaosSpaceMarines/IconOfExcessFlavor" value="Depravity hangs about this icon like cloying musk, driving those below it into an orgy of sensation-seeking that can only be halted by the total destruction of their bodies."/>
 	<entry name="ChaosSpaceMarines/IconOfFlame" value="Абраз Полымя"/>
-	<entry name="ChaosSpaceMarines/IconOfFlameDescription" value="Абраз Хаосу дае адзінцы з Пазнакай Тзіінча атаку, якая наносіць агнявую шкоду душы кожны крок”."/>
+	<entry name="ChaosSpaceMarines/IconOfFlameDescription" value="Абраз Хаосу дае адзінцы з Пазнакай Тзіінча атаку, якая наносіць душы агнявую шкоду кожны крок”."/>
 	<entry name="ChaosSpaceMarines/IconOfFlameFlavor" value="Coruscating energies surround the icon, swathing the weapons of the devout with mutagenic flames."/>
 	<entry name="ChaosSpaceMarines/IconOfVengeance" value="Абраз Помсты"/>
 	<entry name="ChaosSpaceMarines/IconOfVengeanceDescription" value="Абраз Хаосу дае бясстрашша адзінкам з любой Пазнакай Хаосу."/>
@@ -244,13 +244,13 @@
 	<entry name="ChaosSpaceMarines/IncursionDescription" value="Часова заклікае выпадковага Дэмана."/>
 	<entry name="ChaosSpaceMarines/IncursionFlavor" value="The psyker opens a portal to the Realm of Chaos, allowing the warp's daemonic denizens to spill forth into reality."/>
 	<entry name="ChaosSpaceMarines/InfernalPower" value="Пякельная Моц"/>
-	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Павялічвае трапнасьць і шкоду гэтай адзінкі і суседніх хаўрусных адзінак Хаосу."/>
+	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Павялічвае трапнасьць і шкоду гэтай адзінцы і суседніх хаўрусных адзінак Хаосу."/>
 	<entry name="ChaosSpaceMarines/InfernalPowerFlavor" value="The fell power of the immaterium flows from the psyker, imbuing the Daemons that reside within his followers' bodies with even greater ferocity."/>
 	<entry name="ChaosSpaceMarines/LoathsomeAura" value="Агідная Аўра"/>
 	<entry name="ChaosSpaceMarines/LoathsomeAuraDescription" value="Павялічвае непаражальнае зьніжэньне шкоды суседніх хаўрусных адзінак Хаосу."/>
 	<entry name="ChaosSpaceMarines/LoathsomeAuraFlavor" value="A brutal edifice, raised up to destabilise local reality by the forces of Chaos, the Noctilith Crown brings the Warp closer, empowering those attuned to the Dark Gods."/>
 	<entry name="ChaosSpaceMarines/MalevolentLocus" value="Локус Зла"/>
-	<entry name="ChaosSpaceMarines/MalevolentLocusDescription" value="Кожны крок наносіць шкоду варожым псайкерам не Хаосістам."/>
+	<entry name="ChaosSpaceMarines/MalevolentLocusDescription" value="Кожны крок наносіць шкоду варожым псайкерам, якія не належаць да Хаосу."/>
 	<entry name="ChaosSpaceMarines/MalevolentLocusFlavor" value="By this twisted construct, the whispers of the Warp are amplified, assaulting the minds of enemy psykers constantly. Few emerge unscathed from the trial."/>
 	<entry name="ChaosSpaceMarines/MarkOfKhorne" value="Пазнака Кхорна"/>
 	<entry name="ChaosSpaceMarines/MarkOfKhorneDescription" value="Пазнака Хаосу павялічвае атаку хаўруснай пяхоты Хаосу, за выняткам псайкераў."/>
@@ -270,10 +270,10 @@
 	<entry name="ChaosSpaceMarines/Mechatendrils" value="Мехатэндрылы"/>
 	<entry name="ChaosSpaceMarines/MechatendrilsFlavor" value="Reminiscent of the servo-harness worn by the Techmarines of the Adeptus Astrates, these writhing tentacles are worn by—or even implanted into—Chaos Warpsmiths."/> <!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/CultistSacrifice" value="Ахвяраваньне Культыста"/>
-	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Павялічвае хуткасьць узросту насельніцтва абранага хаўруснага горада Касьмічных Марынаў Хаосу, ахвяруючы адзінкаю."/>
+	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Павялічвае хуткасьць узросту насельніцтва абранага хаўруснага горада Касьмічных Марынаў Хаосу за кошт ахвяры адзінкі."/>
 	<entry name="ChaosSpaceMarines/CultistSacrificeFlavor" value="So fervent are the cultists of Chaos but so weak their martial prowess, that the gods enjoy their demise as much as their life—more so, perhaps, given the blessings they bestow at their sacrifice."/>
 	<entry name="ChaosSpaceMarines/Daemonforge" value="Кузьня Дэманаў"/>
-	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Ахвяруе здароўем для павелічэньня шкоды і прабіваньня брані."/>
+	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Ахвяруе здароўем дзеля павелічэньня шкоды і прабіваньня брані."/>
 	<entry name="ChaosSpaceMarines/DaemonforgeFlavor" value="The Daemon Engines of the Chaos Space Marines are driven by a fathomless hatred born of the warp."/>
 	<entry name="ChaosSpaceMarines/DirgeCaster" value="Заклінальнік Паніхіды"/>
 	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Не дае суседнім варожым адзінкам зьдзяйсьняць атакі назіральніка."/>
@@ -285,34 +285,34 @@
 	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Зьніжае атакі блізкага бою суседніх варожых адзінак."/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsFlavor" value="These metallic tendrils entrap their prey in an iron grip."/>
 	<entry name="ChaosSpaceMarines/Possession" value="Апантанасьць"/>
-	<entry name="ChaosSpaceMarines/PossessionDescription" value="Забойства варожых адзінак ператварае іх у хаўрусныя Параджэньні Хаосу."/>
+	<entry name="ChaosSpaceMarines/PossessionDescription" value="Забойства варожых адзінак ператварае іх у хаўрусныя Параджэньняў Хаосу."/>
 	<entry name="ChaosSpaceMarines/PossessionFlavor" value="The psyker blasts away their enemy's soul so that the spiritless shell left behind can be possessed by a Daemon, who quickly transforms it into a more pleasing form."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaos" value="Прынц Хаосу"/>
-	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Павялічвае трапнасьць гэтай адзінкі і суседніх хаўрусных адзінак Хаосу."/>
+	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Павялічвае трапнасьць гэтай адзінцы і суседніх хаўрусных адзінак Хаосу."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaosFlavor" value="Little else could more inspire a warrior of Chaos than to see a Daemon Prince—once a mortal just like them, now nearer to a God—fighting alongside them."/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergy" value="Рэзервуар Дэманічнай Энергіі"/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyDescription" value="Зьмяншае час перазарадкі Ўварваньня для суседніх хаўрусных Майстараў Апантанасьці."/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyFlavor" value="Venomcrawlers are uniquely valued both off and on the battlefield. Not only can their repositories of stored warp energy be siphoned in order to create fresh Daemon Engines, but they can be used in the thick of combat to weaken the fabric of reality. Masters of Possession are particularly adept at drawing upon this reservoir to lure the daemonic servants of the Chaos Gods into existence. At battle's end these Daemons are hastily consumed by the Venomcrawler, their essences used to replenish its depleted warp stores."/>
 	<entry name="ChaosSpaceMarines/RiteOfBlood" value="Абрад Крыві"/>
-	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="Ахвяра насельніцтва Кхорну павялічвае вытворчасьць адзінак у горадзе."/>
+	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="Павялічвае вытворчасьць адзінак у горадзе за кошт ахвяры насельніцтва Кхорну."/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodFlavor" value="Khorne may have other, minor, traits—a certain nobility and simplicity of war—but his lust for death and blood outweighs them by far. Rites in his name bring not only his blessing, but also increase the work rate of the slave populace, in their terror that they could be next."/>
 	<entry name="ChaosSpaceMarines/RiteOfChange" value="Абрад Зьмен"/>
-	<entry name="ChaosSpaceMarines/RiteOfChangeDescription" value="Ахвяра насельніцтва Тзіінчу павялічвае вытворчасьць Варп-Кузьняў і дасьледаваньні Архіва Шляхоў у горадзе."/>
+	<entry name="ChaosSpaceMarines/RiteOfChangeDescription" value="Павялічвае вытворчасьць Варп-Кузьняў і дасьледаваньняў Архіва Шляхоў у горадзе за кошт ахвяры насельніцтва Тзіінчу."/>
 	<entry name="ChaosSpaceMarines/RiteOfChangeFlavor" value="Invoking the Changer’s name is highly risky—few know what he will do to further his endless plans, or the curses he brings if he is distracted to no purpose. After a Rite of Change, some mutate, some disappear, some are embedded alive into the city walls—but always something is learned."/>
 	<entry name="ChaosSpaceMarines/RiteOfPestilence" value="Абрад Мору"/>
-	<entry name="ChaosSpaceMarines/RiteOfPestilenceDescription" value="Ахвяра насельніцтва Нурглу павялічвае вытворчасьць ежы Рэндэрэраў і хуткасьць узросту ў горадзе."/>
+	<entry name="ChaosSpaceMarines/RiteOfPestilenceDescription" value="Павялічвае вытворчасьць ежы Рэндэраў і хуткасьць узросту ў горадзе за кошт ахвяры насельніцтва Нурглу."/>
 	<entry name="ChaosSpaceMarines/RiteOfPestilenceFlavor" value="A Rite of Pestilence doesn’t explicitly sacrifice to Nurgle—it merely invites his blessing upon your people. Given the virulence of Nurgle’s diseases—the Rot, the Chortling Murrain, the Oozing Pox—many will die of these blessings, in his name. Many others will live with them and burgeon with plague-ridden fecundity."/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasure" value="Абрад Нязбожнага Задавальненьня"/>
-	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Ахвяра насельніцтва Слаанэшу павялічвае ўплыў Алтароў Хаосу і лаяльнасьць Лугоў Жальбы ў горадзе."/>
+	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Павялічвае ўплыў Алтароў Хаосу і лаяльнасьць Лугоў Жальбы ў горадзе за кошт ахвяры насельніцтва Слаанэшу."/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="Stop your ears with wax, bind your mouth, stitch up your eyes, and tie yourself down. Only then invoke Slaanesh, so that you may not succumb utterly to the Pleasure God’s irresistible desires."/>
 	<entry name="ChaosSpaceMarines/Sacrifice" value="Ахвяраваньне"/>
-	<entry name="ChaosSpaceMarines/SacrificeDescription" value="Ахвяруе здароўем для аднаўленьня здароўя абранай хаўруснай адзінкі."/>
+	<entry name="ChaosSpaceMarines/SacrificeDescription" value="Ахвяруе здароўем дзеля аднаўленьня здароўя абранай хаўруснай адзінцы."/>
 	<entry name="ChaosSpaceMarines/SacrificeFlavor" value="The psyker uses a sacrificial soul to remould and repair an unholy Daemon-form. The tainted spirits of Warpsmiths are particularly invigorating offerings to those Daemon Engines that are in their charge."/>
 	<entry name="ChaosSpaceMarines/SelfRepair" value="Самастойны Рамонт"/>
 	<entry name="ChaosSpaceMarines/SelfRepairDescription" value="Аднаўляе здароўе."/>
 	<entry name="ChaosSpaceMarines/SelfRepairFlavor" value="The machine spirits of the Traitor Legions’ vehicles have long been driven to despair or corrupted by demons, but the surviving vehicles have gained something for that lost—a crude regeneration that stitches the unholy metal back together, so they can continue the work of the Dark Gods."/> <!-- Chaos Rhino -->
 	<entry name="ChaosSpaceMarines/ShatterDefences" value="Зруйнаваць Абарону"/>
-	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою абранай пліткі."/>
+	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою на абранай пліткі."/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="Whatever cover the enemy cowers behind, a Warpsmith can draw upon millennia of siege experience to advise on the best way to bypass or to destroy them."/> <!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/WarpflameStrike" value="Удар Варп-Полымя"/>
 	<entry name="ChaosSpaceMarines/WarpflameStrikeDescription" value="Пралятае праз перашкоды да абранай пліткі і асьляпляе зьмешчаную побач варожую пяхоту і жахлівых стварэньняў."/>

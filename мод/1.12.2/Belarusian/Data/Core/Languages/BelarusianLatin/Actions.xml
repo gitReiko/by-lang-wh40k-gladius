@@ -196,15 +196,15 @@
 	<entry name="BolsterDefences" value="Uzmacnić Abaronu"/>
 	<entry name="BolsterDefencesDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju na abranaj plitcy."/>
 	<entry name="BolsterDefencesFlavor" value="“Every position must be held to the last man: there must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight on to the end.”<br/>  — Imperial Warmaster Solon"/>
-	<entry name="BolterDrill" value="Užyć Prareźlivy Bołtar"/>
+	<entry name="BolterDrill" value="Užyć Prareźlivyja Bołtary"/>
 	<entry name="BolterDrillDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść bołtarnaj zbroi."/>
 	<entry name="BolterDrillFlavor" value="“I believe in three tenets of battle—firepower, firepower, and more firepower.”<br/>  — Kardan Stronos, Chapter Master of the Iron Hands"/>
 	<entry name="BringItDown" value="“Źniščycie Ich!”"/>
-	<entry name="BringItDownDescription" value="Pavialičvaje bronieprabivalnaść Łorda Kamisara i susiedniaj piachoty Astra Militarum."/>
+	<entry name="BringItDownDescription" value="Pavialičvaje bronieprabivalnaść Łorda Kamisara i susiedniaj chaŭrusnaj piachoty Astra Militarum."/>
 	<entry name="BringItDownFlavor" value="Enemy war machines and alien monstrosities are equally high priority targets for the commanders of the Imperial Guard."/>
 	<entry name="BuyHint" value="<style name='Title'/>Kupić %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="CanticlesOfWrath" value="Pieśni Hnievu"/>
-	<entry name="CanticlesOfWrathDescription" value="Adnaŭlaje maral hetaj adzinki i susiednich chaŭrusnych adzinak dy źnižaje maral susiednich varožych adzinak."/>
+	<entry name="CanticlesOfWrathDescription" value="Adnaŭlaje maral hetaj adzinki i susiednich chaŭrusnych adzinak i źnižaje maral susiednich varožych adzinak."/>
 	<entry name="CanticlesOfWrathFlavor" value="Amplified through his vox grill, the Chaplain's bellicose rhetoric and canticles of wrath echo like thunder across the battlefield, filling the Space Marines with new strength while causing the enemy to cower in terror."/>
 	<entry name="Capture" value="Zachapić"/>
 	<entry name="ChaosSpaceMarines/BoonOfMutation" value="Darunak Mutacyi"/>
@@ -217,7 +217,7 @@
 	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody susiednich chaŭrusnych adzinak Chaosu."/>
 	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="The bowed figures of the Dark Disciples incessantly shriek the names of the Chaos Gods, calling for their protection. Typically fickle, the Gods are prone to bless those nearby instead, leaving the desperate Disciples as frail as ever."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrike" value="Uzvyšany Ŭdar"/>
-	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Ździajśniaje razburalnuju ataku Hrymotnym Mołatam suprać abranaj varožaj adzincy, zdaroŭje jakoj nižej za 50%."/>
+	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Ździajśniaje rujnavalnuju ataku Hrymotnym Mołatam suprać abranaj varožaj adzincy, zdaroŭje jakoj nižejšaje za 50%."/>
 	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isnt just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—its to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/>
 	<entry name="ChaosSpaceMarines/GiftOfContagion" value="Darunak Zaražeńnia"/>
 	<entry name="ChaosSpaceMarines/GiftOfContagionDescription" value="Nanosić škodu abranaj piachocie abo žachlivamu stvareńniu voraha."/>
@@ -226,13 +226,13 @@
 	<entry name="ChaosSpaceMarines/IchorBloodDescription" value="Vorahi atrymlivajuć škodu, kali atakujuć u blizkim bai."/>
 	<entry name="ChaosSpaceMarines/IchorBloodFlavor" value="It is not blood that runs through this champion's veins, but searing ichor, molten brass, psychadelic narcotics, virulent pus or some such vile and deadly substance."/>
 	<entry name="ChaosSpaceMarines/IconOfDespair" value="Abraz Rospačy"/>
-	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Abraz Chaosu pavialičvaje źnižeńnie škody ŭ blizkim bai ad strašnych vorahaŭ adzinkam z Paznakaj Nurhła."/>
+	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Abraz Chaosu pavialičvaje źnižeńnie škody ŭ blizkim bai ad žachlivych vorahaŭ adzinkam z Paznakaj Nurhła."/>
 	<entry name="ChaosSpaceMarines/IconOfDespairFlavor" value="This icon is surrounded by a miasma of disease and hopelessness, turning the thoughts of any nearby foes to the grisly and inevitable deaths that await them."/>
 	<entry name="ChaosSpaceMarines/IconOfExcess" value="Abraz Praźmiernaściaŭ"/>
 	<entry name="ChaosSpaceMarines/IconOfExcessDescription" value="Abraz Chaosu pavialičvaje źnižeńnie škody adzinkam z Paznakaj Słaaneša."/>
 	<entry name="ChaosSpaceMarines/IconOfExcessFlavor" value="Depravity hangs about this icon like cloying musk, driving those below it into an orgy of sensation-seeking that can only be halted by the total destruction of their bodies."/>
 	<entry name="ChaosSpaceMarines/IconOfFlame" value="Abraz Połymia"/>
-	<entry name="ChaosSpaceMarines/IconOfFlameDescription" value="Abraz Chaosu daje adzincy z Paznakaj Tziinča ataku, jakaja nanosić ahniavuju škodu dušy kožny krok”."/>
+	<entry name="ChaosSpaceMarines/IconOfFlameDescription" value="Abraz Chaosu daje adzincy z Paznakaj Tziinča ataku, jakaja nanosić dušy ahniavuju škodu kožny krok”."/>
 	<entry name="ChaosSpaceMarines/IconOfFlameFlavor" value="Coruscating energies surround the icon, swathing the weapons of the devout with mutagenic flames."/>
 	<entry name="ChaosSpaceMarines/IconOfVengeance" value="Abraz Pomsty"/>
 	<entry name="ChaosSpaceMarines/IconOfVengeanceDescription" value="Abraz Chaosu daje biasstrašša adzinkam z luboj Paznakaj Chaosu."/>
@@ -244,13 +244,13 @@
 	<entry name="ChaosSpaceMarines/IncursionDescription" value="Časova zaklikaje vypadkovaha Demana."/>
 	<entry name="ChaosSpaceMarines/IncursionFlavor" value="The psyker opens a portal to the Realm of Chaos, allowing the warp's daemonic denizens to spill forth into reality."/>
 	<entry name="ChaosSpaceMarines/InfernalPower" value="Piakielnaja Moc"/>
-	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Pavialičvaje trapnaść i škodu hetaj adzinki i susiednich chaŭrusnych adzinak Chaosu."/>
+	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Pavialičvaje trapnaść i škodu hetaj adzincy i susiednich chaŭrusnych adzinak Chaosu."/>
 	<entry name="ChaosSpaceMarines/InfernalPowerFlavor" value="The fell power of the immaterium flows from the psyker, imbuing the Daemons that reside within his followers' bodies with even greater ferocity."/>
 	<entry name="ChaosSpaceMarines/LoathsomeAura" value="Ahidnaja Aŭra"/>
 	<entry name="ChaosSpaceMarines/LoathsomeAuraDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody susiednich chaŭrusnych adzinak Chaosu."/>
 	<entry name="ChaosSpaceMarines/LoathsomeAuraFlavor" value="A brutal edifice, raised up to destabilise local reality by the forces of Chaos, the Noctilith Crown brings the Warp closer, empowering those attuned to the Dark Gods."/>
 	<entry name="ChaosSpaceMarines/MalevolentLocus" value="Łokus Zła"/>
-	<entry name="ChaosSpaceMarines/MalevolentLocusDescription" value="Kožny krok nanosić škodu varožym psajkieram nie Chaosistam."/>
+	<entry name="ChaosSpaceMarines/MalevolentLocusDescription" value="Kožny krok nanosić škodu varožym psajkieram, jakija nie naležać da Chaosu."/>
 	<entry name="ChaosSpaceMarines/MalevolentLocusFlavor" value="By this twisted construct, the whispers of the Warp are amplified, assaulting the minds of enemy psykers constantly. Few emerge unscathed from the trial."/>
 	<entry name="ChaosSpaceMarines/MarkOfKhorne" value="Paznaka Kchorna"/>
 	<entry name="ChaosSpaceMarines/MarkOfKhorneDescription" value="Paznaka Chaosu pavialičvaje ataku chaŭrusnaj piachoty Chaosu, za vyniatkam psajkieraŭ."/>
@@ -270,10 +270,10 @@
 	<entry name="ChaosSpaceMarines/Mechatendrils" value="Miechatendryły"/>
 	<entry name="ChaosSpaceMarines/MechatendrilsFlavor" value="Reminiscent of the servo-harness worn by the Techmarines of the Adeptus Astrates, these writhing tentacles are worn by—or even implanted into—Chaos Warpsmiths."/> <!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/CultistSacrifice" value="Achviaravańnie Kultysta"/>
-	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Pavialičvaje chutkaść uzrostu nasielnictva abranaha chaŭrusnaha horada Kaśmičnych Marynaŭ Chaosu, achviarujučy adzinkaju."/>
+	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Pavialičvaje chutkaść uzrostu nasielnictva abranaha chaŭrusnaha horada Kaśmičnych Marynaŭ Chaosu za košt achviary adzinki."/>
 	<entry name="ChaosSpaceMarines/CultistSacrificeFlavor" value="So fervent are the cultists of Chaos but so weak their martial prowess, that the gods enjoy their demise as much as their life—more so, perhaps, given the blessings they bestow at their sacrifice."/>
 	<entry name="ChaosSpaceMarines/Daemonforge" value="Kuźnia Demanaŭ"/>
-	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Achviaruje zdaroŭjem dla pavieličeńnia škody i prabivańnia brani."/>
+	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Achviaruje zdaroŭjem dziela pavieličeńnia škody i prabivańnia brani."/>
 	<entry name="ChaosSpaceMarines/DaemonforgeFlavor" value="The Daemon Engines of the Chaos Space Marines are driven by a fathomless hatred born of the warp."/>
 	<entry name="ChaosSpaceMarines/DirgeCaster" value="Zaklinalnik Panichidy"/>
 	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Nie daje susiednim varožym adzinkam ździajśniać ataki naziralnika."/>
@@ -285,34 +285,34 @@
 	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Źnižaje ataki blizkaha boju susiednich varožych adzinak."/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsFlavor" value="These metallic tendrils entrap their prey in an iron grip."/>
 	<entry name="ChaosSpaceMarines/Possession" value="Apantanaść"/>
-	<entry name="ChaosSpaceMarines/PossessionDescription" value="Zabojstva varožych adzinak pieratvaraje ich u chaŭrusnyja Paradžeńni Chaosu."/>
+	<entry name="ChaosSpaceMarines/PossessionDescription" value="Zabojstva varožych adzinak pieratvaraje ich u chaŭrusnyja Paradžeńniaŭ Chaosu."/>
 	<entry name="ChaosSpaceMarines/PossessionFlavor" value="The psyker blasts away their enemy's soul so that the spiritless shell left behind can be possessed by a Daemon, who quickly transforms it into a more pleasing form."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaos" value="Prync Chaosu"/>
-	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Pavialičvaje trapnaść hetaj adzinki i susiednich chaŭrusnych adzinak Chaosu."/>
+	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Pavialičvaje trapnaść hetaj adzincy i susiednich chaŭrusnych adzinak Chaosu."/>
 	<entry name="ChaosSpaceMarines/PrinceOfChaosFlavor" value="Little else could more inspire a warrior of Chaos than to see a Daemon Prince—once a mortal just like them, now nearer to a God—fighting alongside them."/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergy" value="Reziervuar Demaničnaj Enierhii"/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyDescription" value="Źmianšaje čas pierazaradki Ŭvarvańnia dla susiednich chaŭrusnych Majstaraŭ Apantanaści."/>
 	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyFlavor" value="Venomcrawlers are uniquely valued both off and on the battlefield. Not only can their repositories of stored warp energy be siphoned in order to create fresh Daemon Engines, but they can be used in the thick of combat to weaken the fabric of reality. Masters of Possession are particularly adept at drawing upon this reservoir to lure the daemonic servants of the Chaos Gods into existence. At battle's end these Daemons are hastily consumed by the Venomcrawler, their essences used to replenish its depleted warp stores."/>
 	<entry name="ChaosSpaceMarines/RiteOfBlood" value="Abrad Kryvi"/>
-	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="Achviara nasielnictva Kchornu pavialičvaje vytvorčaść adzinak u horadzie."/>
+	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="Pavialičvaje vytvorčaść adzinak u horadzie za košt achviary nasielnictva Kchornu."/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodFlavor" value="Khorne may have other, minor, traits—a certain nobility and simplicity of war—but his lust for death and blood outweighs them by far. Rites in his name bring not only his blessing, but also increase the work rate of the slave populace, in their terror that they could be next."/>
 	<entry name="ChaosSpaceMarines/RiteOfChange" value="Abrad Źmien"/>
-	<entry name="ChaosSpaceMarines/RiteOfChangeDescription" value="Achviara nasielnictva Tziinču pavialičvaje vytvorčaść Varp-Kuźniaŭ i daśledavańni Archiva Šlachoŭ u horadzie."/>
+	<entry name="ChaosSpaceMarines/RiteOfChangeDescription" value="Pavialičvaje vytvorčaść Varp-Kuźniaŭ i daśledavańniaŭ Archiva Šlachoŭ u horadzie za košt achviary nasielnictva Tziinču."/>
 	<entry name="ChaosSpaceMarines/RiteOfChangeFlavor" value="Invoking the Changers name is highly risky—few know what he will do to further his endless plans, or the curses he brings if he is distracted to no purpose. After a Rite of Change, some mutate, some disappear, some are embedded alive into the city walls—but always something is learned."/>
 	<entry name="ChaosSpaceMarines/RiteOfPestilence" value="Abrad Moru"/>
-	<entry name="ChaosSpaceMarines/RiteOfPestilenceDescription" value="Achviara nasielnictva Nurhłu pavialičvaje vytvorčaść ježy Rendereraŭ i chutkaść uzrostu ŭ horadzie."/>
+	<entry name="ChaosSpaceMarines/RiteOfPestilenceDescription" value="Pavialičvaje vytvorčaść ježy Renderaŭ i chutkaść uzrostu ŭ horadzie za košt achviary nasielnictva Nurhłu."/>
 	<entry name="ChaosSpaceMarines/RiteOfPestilenceFlavor" value="A Rite of Pestilence doesnt explicitly sacrifice to Nurgle—it merely invites his blessing upon your people. Given the virulence of Nurgles diseases—the Rot, the Chortling Murrain, the Oozing Pox—many will die of these blessings, in his name. Many others will live with them and burgeon with plague-ridden fecundity."/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasure" value="Abrad Niazbožnaha Zadavalnieńnia"/>
-	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Achviara nasielnictva Słaanešu pavialičvaje ŭpłyŭ Ałtaroŭ Chaosu i łajalnaść Łuhoŭ Žalby ŭ horadzie."/>
+	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Pavialičvaje ŭpłyŭ Ałtaroŭ Chaosu i łajalnaść Łuhoŭ Žalby ŭ horadzie za košt achviary nasielnictva Słaanešu."/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="Stop your ears with wax, bind your mouth, stitch up your eyes, and tie yourself down. Only then invoke Slaanesh, so that you may not succumb utterly to the Pleasure Gods irresistible desires."/>
 	<entry name="ChaosSpaceMarines/Sacrifice" value="Achviaravańnie"/>
-	<entry name="ChaosSpaceMarines/SacrificeDescription" value="Achviaruje zdaroŭjem dla adnaŭleńnia zdaroŭja abranaj chaŭrusnaj adzinki."/>
+	<entry name="ChaosSpaceMarines/SacrificeDescription" value="Achviaruje zdaroŭjem dziela adnaŭleńnia zdaroŭja abranaj chaŭrusnaj adzincy."/>
 	<entry name="ChaosSpaceMarines/SacrificeFlavor" value="The psyker uses a sacrificial soul to remould and repair an unholy Daemon-form. The tainted spirits of Warpsmiths are particularly invigorating offerings to those Daemon Engines that are in their charge."/>
 	<entry name="ChaosSpaceMarines/SelfRepair" value="Samastojny Ramont"/>
 	<entry name="ChaosSpaceMarines/SelfRepairDescription" value="Adnaŭlaje zdaroŭje."/>
 	<entry name="ChaosSpaceMarines/SelfRepairFlavor" value="The machine spirits of the Traitor Legions vehicles have long been driven to despair or corrupted by demons, but the surviving vehicles have gained something for that lost—a crude regeneration that stitches the unholy metal back together, so they can continue the work of the Dark Gods."/> <!-- Chaos Rhino -->
 	<entry name="ChaosSpaceMarines/ShatterDefences" value="Zrujnavać Abaronu"/>
-	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Źmianšaje źnižeńnie škody ad dalokaha boju abranaj plitki."/>
+	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Źmianšaje źnižeńnie škody ad dalokaha boju na abranaj plitki."/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="Whatever cover the enemy cowers behind, a Warpsmith can draw upon millennia of siege experience to advise on the best way to bypass or to destroy them."/> <!-- Warpsmith levelable ability. -->
 	<entry name="ChaosSpaceMarines/WarpflameStrike" value="Udar Varp-Połymia"/>
 	<entry name="ChaosSpaceMarines/WarpflameStrikeDescription" value="Pralataje praz pieraškody da abranaj plitki i aślaplaje źmieščanuju pobač varožuju piachotu i žachlivych stvareńniaŭ."/>
