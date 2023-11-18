@@ -39,22 +39,22 @@
 	<entry name="TemporaryShieldDescription" value="<string name='Items/TemporaryShieldDescription'/>"/>
 
 	<entry name="AcquireTile" value="Nabyć Plitku"/>
-	<entry name="AcquireTileDescription" value="Nabyvaje novuju plitku dla horada. Budynki možna uzvodzić tolki na nabytych plitkach. Kožnaja plitka patrabuje ŭpłyŭ na ŭtrymańnie."/>
+	<entry name="AcquireTileDescription" value="Nabyvaje novuju plitku dla horada. Budynki lha stvarać tolki na nabytych plitkach. Kožnaja plitka patrabuje ŭpłyŭ dla ŭtrymańnia."/>
 	<entry name="Activate" value="Aktyvavać"/>
 	<entry name="AdeptusMechanicus/AggressionOverride" value="Pieraaznačeńnie Ahresii"/> <!-- Skitarii Marshal ability -->
 	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Pavialičvaje ataki abranaj chaŭrusnaj piachoty Adeptus Miechanikus."/>
 	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="Employing data-refined kill-canticle protocols, the Marshal ensures his Skitarii are driven into a state of heightened ferocity that sees their bloodstreams boil with combat hyperstimulants."/>
 	<entry name="AdeptusMechanicus/AggressorImperative" value="Impieratyŭ Ahresara"/>
-	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Pavialičvaje ruch, ale źnižaje braniu adzinak Daktryna Impieratyŭ. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
+	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Pavialičvaje ruch, ale źnižaje braniu adzinak Daktryny Impieratyŭ. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
 	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="The Skitarii feel the press of an invisible hand upon their minds as the Machine God drives them forward. Servos are pushed to their structural limits as fibre bundles fill with the boundless energy of the Motive Force and propel the faithful on an unstoppable crusade."/>
-	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="Dabrasłavieńnie Ŭsioviedańnia"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="Błasłavieńnie Amninavuki"/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Pavialičvaje trapnaść u dalokim bai adzinak Śpievaŭ Amnisii. Košt i efiektyŭnaść zaležać ad kolkaści zakranutych adzinak (da 10)."/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Those blessed enough to comprehend this blaring vox-prayer find their targeting reticules guided by the Omnissiahs own vigilance."/>
-	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Suviaź Dadzienych Šyrokaha Śpiektra"/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Suviaź Dadzienych Šyrokaha Śpiektru"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Źnižaje straty marali hetaj adziniki i susiednich chaŭrusnych adzinak Adeptus Miechanikus."/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="A vehicle-mounted version of that carried by veteran Skitarii, the broad spectrum data-tether projects a Tech-Priests binharic blurts with such clarity it seems he is amongst the ranks of the Skitarii himself. Imperatives delivered via such information relays are more potent and reliable than any other."/>
 	<entry name="AdeptusMechanicus/BulwarkImperative" value="Impieratyŭ Bastyjon"/>
-	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Pavialičvaje braniu, ale źmianšaje ruch adzinak Daktryna Impieratyŭ. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Pavialičvaje braniu, ale źmianšaje ruch adzinak Daktryny Impieratyŭ. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
 	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="The warrior wisdom of ancient and experienced Reductors is force-loaded into the Skitariis minds. Each thrilling pulse of data locks microactuators into bracing positions, brings reserve power cells online and bestows a sensation of sacred invulnerability upon the Tech-Priests soldiers."/>
 	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFist" value="Śpieŭ Biaźlitasnaha Kułaka"/>
 	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Pavialičvaje trapnaść u blizkim bai adzinak Śpievaŭ Amnisii. Košt i efiektyŭnaść zaležać ad kolkaści zakranutych adzinak (da 10)."/>
@@ -63,16 +63,16 @@
 	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Źnižaje straty marali hetaj adzinki i susiednich chaŭrusnych adzinak Adeptus Miechanikus."/>
 	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="“You may feel fear, you may want to flee; but when your Magos can, with a thought, stop your limbs taking a single step back, well, then you fight anyway.”<br/>—Marshal Diktum"/>
 	<entry name="AdeptusMechanicus/ConquerorImperative" value="Impieratyŭ Zavajoŭnik"/>
-	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Pavialičvaje trapnaść u blizkim bai adzinak Daktryna Impieratyŭ, ale źnižaje ŭ dalokim. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Pavialičvaje trapnaść u blizkim bai adzinak Daktryny Impieratyŭ, ale źnižaje ŭ dalokim. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="When the enemy close in, the Tech-Priests controlling each maniple inload Conqueror imperatives that boost the martial subroutines of their Skitarii minions and galvanise them into physical action at the expense of their more elaborate targeting programmes."/>
 	<entry name="AdeptusMechanicus/ControlEdict" value="Edykt Kantrolu"/> <!-- Skitarii Marshal ability -->
-	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Vydalaje Daktryna Impieratyŭ małus z chaŭrusnaj piachoty ŭ radyusie dziejańnia."/>
+	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Vydalaje Daktrynu Impieratyŭ małus z chaŭrusnaj piachoty ŭ radyusie dziejańnia."/>
 	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="A Doctrina Imperative is hardly a subtle tool, disabling a soldier just as much as it enables them elsewhere. Yet, the attentions of an experienced Marshal can aid in overcoming the Imperatives cruder commands, enabling the soldier to perform far above their nominal norms."/>
-	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Aŭtakazańnie Dabrasłaŭlonaje Dadzienymi"/> <!-- Tech-Priest Manipulus elite -->
+	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Aŭtakazańnie Błasłavionaje Dadzienymi"/> <!-- Tech-Priest Manipulus elite -->
 	<entry name="AdeptusMechanicus/DataBlessedAutosermonDescription" value="Adzinki Śpievaŭ Amnisii u vobłaści atrymlivajuć daśledavańni za zabojstvy vorahaŭ."/>
 	<entry name="AdeptusMechanicus/DataBlessedAutosermonFlavor" value="Struck with an infoload of revelation, truly blessed Tech-Priests will override the sacred canticles to deliver the Machine Gods adaptive wisdom."/>
 	<entry name="AdeptusMechanicus/ElectroShocked" value="Elektrašok"/> <!-- Tech-Priest Manipulus ability -->
-	<entry name="AdeptusMechanicus/ElectroShockedDescription" value="Ahłušaje varožuju piachotu abo žachlivaje stvareńnie."/>
+	<entry name="AdeptusMechanicus/ElectroShockedDescription" value="Ahłušaje varožuju piachotu abo žachlivych stvareńniaŭ."/>
 	<entry name="AdeptusMechanicus/ElectroShockedFlavor" value="The truly devout can send a sudden charge of the Motive Force pulsing through their numerous augmentations, stunning nearby foes."/>
 	<entry name="AdeptusMechanicus/EnrichedRounds" value="Uzbahačanyja Raŭndy"/> <!-- Skitarii Marshal elite -->
 	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Pavialičvaje škodu abranaj chaŭrusnaj piachotnaj adzinki Adeptus Miechanikus."/>
@@ -89,20 +89,20 @@
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="Litańnie Elektramanta"/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Nanosić škodu abranaj varožaj adzincy. Ataki i košt zaležać ad kolkaści zakranutych adzinak Śpievaŭ Amnisii (da 10)."/>
 	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Summoning the spark of the Machine Gods divinity that burns within them, the Omnissiahs faithful manifest blazing auras of energy that lay low the unbeliever."/>
-	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Łord Kultu Mašynaŭ"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Łord Kultu Mašyn"/> <!-- Tech-Priest Dominus ability -->
 	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Pavialičvaje trapnaść susiednich mašyn Adeptus Miechanikus."/>
 	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“You may say, it is impossible for a man to become like the Machine. And I would reply, that only the smallest mind strives to comprehend its limits.”<br/>—Fabricator General Kane"/>
-	<entry name="AdeptusMechanicus/MasterOfMachines" value="Majstar Mašynaŭ"/>
-	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj mašyny abo fartyfikacyi Adeptus Miechanikus."/>
+	<entry name="AdeptusMechanicus/MasterOfMachines" value="Majstar Mašyn"/>
+	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj mašynie abo fartyfikacyi Adeptus Miechanikus."/>
 	<entry name="AdeptusMechanicus/MasterOfMachinesFlavor" value="“Our enemies may rest but rust never sleeps.”<br/>—Tech-Priest Jung, Forge World Gehenna"/>
 	<entry name="AdeptusMechanicus/MechanicusLocum" value="Miechanikus Łokum"/> <!-- Tech-Priest Domunis elite -->
 	<entry name="AdeptusMechanicus/MechanicusLocumDescription" value="Pavialičvaje vytvorčaść upłyvu i daśledavańniaŭ."/>
 	<entry name="AdeptusMechanicus/MechanicusLocumFlavor" value="Every congregation of Tech-Priests comprises masters of arcane knowledge—zealous leaders of man and machine."/>
 	<entry name="AdeptusMechanicus/PowerSurge" value="Pavyšeńnie Mahutnaści"/> <!-- Faction ability -->
-	<entry name="AdeptusMechanicus/PowerSurgeDescription" value="Pavialičvaje vytvorčaść budynkaŭ nia štabkvatery na abranaj plitcy."/>
+	<entry name="AdeptusMechanicus/PowerSurgeDescription" value="Pavialičvaje vytvorčaść budynkaŭ na abranaj plitcy, za vyniatkam štabkvatery."/>
 	<entry name="AdeptusMechanicus/PowerSurgeFlavor" value="“Throw open the transonic oscillator and escalate the dereactor another three points. I require those forges running at optimal efficiency!”<br/>—Archmagos Dyatskin, shortly before the loss of Arklis Hive Primus"/>
 	<entry name="AdeptusMechanicus/ProtectorImperative" value="Impieratyŭ Abaronca"/>
-	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="Pavialičvaje trapnaść u dalokim bai adzinak Daktryna Impieratyŭ, ale źnižaje ŭ blizkim. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="Pavialičvaje trapnaść u dalokim bai adzinak Daktryny Impieratyŭ, ale źnižaje ŭ blizkim. Košt zaležyć ad kolkaści zakranutych adzinak (da 10)."/>
 	<entry name="AdeptusMechanicus/ProtectorImperativeFlavor" value="The Protector imperative is codified to yield the maximum spectra of hard data. Extra power is fed into narrow-band optics and rangefinders connected directly to the Skitariis priority programming as the holy warriors guns become an extension of themselves."/>
 	<entry name="AdeptusMechanicus/RadSaturation" value="Radyjanasyčanaść"/>
 	<entry name="AdeptusMechanicus/RadSaturationDescription" value="Nanosić škodu kožny krok susiedniaj varožaj piachocie abo žachlivamu stvareńniu."/>
@@ -111,9 +111,9 @@
 	<entry name="AdeptusMechanicus/ReprogramKastelanRobotDescription" value="Biare pad kantrol varožaha abranaha Robata · Kaštelana."/>
 	<entry name="AdeptusMechanicus/ReprogramKastelanRobotFlavor" value="Since the aftermath of Warmaster Horus rebellion the Legio Cyberneticas robots have been controlled completely by their masters – not by the bio-plastic cerebra and nerve-like tendril webs of Mechanicum constructs, but by sanctified doctrina wafers. No bigger than the cards of the Emperors Tarot, these slivers of wetware are entrusted to the Cybernetica Datasmiths that accompany the robot maniples to war. Inserted into the dataslot hidden behind each robots chestplate, the wafers command protocol will dictate every iota of the hosts behaviour, usually optimising its ability to destroy its foes in a spectacular fashion."/>
 	<entry name="AdeptusMechanicus/Scryerskull" value="Čerap Prazorcy"/> <!-- Tech-Priest Dominus ability -->
-	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Pakazvaje abranuju plitku i susiednija plitki."/>
+	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Pakazvaje abranuju plitku i susiednija plitcy."/>
 	<entry name="AdeptusMechanicus/ScryerskullFlavor" value="The Adeptus Mechanicus take the assessment and exploitation of battlefield resources very seriously indeed – so much so that many of them continue their work in this role beyond the point of death."/>
-	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Suviaź z Siervačerapam"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Suviaź z Servačerapam"/> <!-- Skitarii Marshal ability -->
 	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Pavialičvaje škodu chaŭrusnaj piachoty Adeptus Miechanikus u radyusie dziejańnia."/>
 	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="It is a great honour for a pious Imperial servant or tech-adept to be converted into a servo skull after death—to have their skull augmented with anti-grav and a rudimentary machine intelligence. Optically-augmented servo skulls like those possessed by a Skitarii Marshal are useful for reconnaissance and targeting, hugely reducing the chance of wasted shots."/>
 	<entry name="AdeptusMechanicus/Shroudpsalm" value="Savan Psałmoŭ"/>
@@ -133,19 +133,19 @@
 	<entry name="AgileFlavor" value="Size doesnt preclude speed. Look at the incredible manoeuvrability of the Imperiums Lightning Fighter. Or take the Tyranids Hierodule. Instead of lumbering forward like a lumpen Ogryn, their focus and grace is closer to that of a Harlequin. A hungry Harlequin the size of a house, admittedly, with acid drool and scytheblade arms the length of a Land Raider, that is. But elegant all the same."/>
 	<entry name="Appear" value="Z'javicca"/>
 	<entry name="AmmoRunt" value="Karantyška z Bojeprypasami"/>
-	<entry name="AmmoRuntDescription" value="Pavialičvaje trapnaść u dalokim ."/>
+	<entry name="AmmoRuntDescription" value="Pavialičvaje trapnaść dalokaha boju."/>
 	<entry name="AmmoRuntFlavor" value="An ammo runt is a heavily overburdened Gretchin who carries extra ammunition for his master."/>
 	<entry name="ArmoriumCherub" value="Braniavany Chieruvim"/>
 	<entry name="ArmoriumCherubDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="ArmoriumCherubFlavor" value="Cherubim are diminutive flying cyborg constructs created to assist the Emperor's servants, be they scribe or soldier. Among the Adeptus Astartes they are rarely seen outside of the Librarius, save for those few that relay targeting data and carry spare ammunition for Devastator Squads."/>
 	<entry name="AssaultDoctrine" value="Užyć Daktrynu Šturma"/>
-	<entry name="AssaultDoctrineDescription" value="Taktyka Padziełu, jakaja pavialičvaje trapnaść Šturmavych Kaśmičnych Marynaŭ."/>
+	<entry name="AssaultDoctrineDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść Šturmavych Kaśmičnych Marynaŭ."/>
 	<entry name="AssaultDoctrineFlavor" value="“Where there is uncertainty, I shall bring light<br/>Where there is doubt, I shall sow faith.<br/>Where there is shame, I shall point atonement.<br/>Where there is rage, I shall show its course.<br/>My word in the soul shall be as my bolter in the field.”<br/>  — Litany of Devotion, traditional"/>
-	<entry name="AstraMilitarum/ProjectedVoidShield" value="Prajekcyjavalny Pustečny Ščyt"/>
+	<entry name="AstraMilitarum/ProjectedVoidShield" value="Prajekcyjny Pustečny Ščyt"/>
 	<entry name="AstraMilitarum/ProjectedVoidShieldDescription" value="Pavialičvaje źmianšeńnie škody ad dalokaha ahniu dla adzinak u radyusie dziejańnia."/>
 	<entry name="AstraMilitarum/ProjectedVoidShieldFlavor" value="The Void Shield is the peak Imperial ranged-defense technology and is normally only mounted on Titans and Superheavy Tanks because of its immense power needs. This variant uses the technology to defend a wide area, though it is useless against melee attacks."/>
 	<entry name="AstraMilitarumAircraftProductionEdict" value="Zahad Fłotu"/>
-	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść Pustečnaha Porta horada."/>
+	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Edykt, jaki pavialičvaje haradzkuju vytvorčaść Pustečnaha Porta."/>
 	<entry name="AstraMilitarumAircraftProductionEdictFlavor" value="Edict, Departmento Munitorum: to all voidport overseers. Labourer sleep cycles are halved until further notice, production targets are raised. Arbitrators are being deployed to all sectors to ensure compliance."/>
 	<entry name="AstraMilitarumDefenseEdict" value="Apłot Impieratara"/>
 	<entry name="AstraMilitarumDefenseEdictDescription" value="Edykt, jaki pavialičvaje braniu adzinak u horadzie."/>
@@ -154,31 +154,31 @@
 	<entry name="AstraMilitarumEnergyEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść enierhii ad Ijanizataraŭ Płazmy ŭ horadzie."/>
 	<entry name="AstraMilitarumEnergyEdictFlavor" value="Edict, Departmento Munitorum: to all power unit overseers. Safeguards are to be removed on all plasma ionisers; the labour Corps has been mandated to replenish manpower depleted by resulting meltdowns without further authorisation."/>
 	<entry name="AstraMilitarumFoodEdict" value="Ahranamičny Ŭzrost"/>
-	<entry name="AstraMilitarumFoodEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść ježy na Fiermach Sojlentaŭ u horadzie."/>
+	<entry name="AstraMilitarumFoodEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść ježy na Fiermach Sojlena ŭ horadzie."/>
 	<entry name="AstraMilitarumFoodEdictFlavor" value="Edict, Departmento Munitorum: to all Imperial subjects. Personal rations are reduced with immediate effect. Arbitrators have been dispatched to farms, granaries and storehouses to ensure compliance."/>
 	<entry name="AstraMilitarumGrowthEdict" value="Licenzii na Razmnažeńnie"/>
-	<entry name="AstraMilitarumGrowthEdictDescription" value="Edykt, jaki pavialičvaje ŭzrost nasielnictva horada."/>
+	<entry name="AstraMilitarumGrowthEdictDescription" value="Edykt, jaki pavialičvaje ŭzrost nasielnictva ŭ horadzie."/>
 	<entry name="AstraMilitarumGrowthEdictFlavor" value="Edict, Departmento Munitorum: to all registered insula keepers. For the period of this Edict, connubial encounters are encouraged. Also, to all Imperial storehouse overseers. For the period of this Edict, anaphrodisiac dosages are to be eliminated from both the food and water supply."/>
 	<entry name="AstraMilitarumInfantryProductionEdict" value="Natchnialnaja Padrychtoŭka"/>
-	<entry name="AstraMilitarumInfantryProductionEdictDescription" value="Edykt, jaki pavialičvaje chutkaść padrychtoŭki Impierskich Žaŭnierniaŭ horada."/>
+	<entry name="AstraMilitarumInfantryProductionEdictDescription" value="Edykt, jaki pavialičvaje chutkaść padrychtoŭki haradzkich Impierskich Žaŭnierniaŭ."/>
 	<entry name="AstraMilitarumInfantryProductionEdictFlavor" value="Edict, Astra Militarum: to all Commissars and recruitment officers. Volunteering sweeps are to be doubled, the Emperor's Mercy is to be applied to all recusants."/>
 	<entry name="AstraMilitarumInfluenceEdict" value="Viera ŭ Impieratara"/>
-	<entry name="AstraMilitarumInfluenceEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść upłyvu na Stancyjach Kahitacyi horada."/>
+	<entry name="AstraMilitarumInfluenceEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść upłyvu ŭ haradzkich Stancyjach Kahitacyi."/>
 	<entry name="AstraMilitarumInfluenceEdictFlavor" value="Edict, Adeptus Ministorum: All unassigned workers are hereby ordered to report to the nearest Mission, Shrine or Schola Progenium to assist in spreading the word of the Emperor. Pontifices will be on hand for mandatory heresy-testing."/>
 	<entry name="AstraMilitarumLoyaltyEdict" value="Tranślacyja Prapahandy"/>
-	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść łajalnaści ŭ Sanktum Impieryalis horada."/>
+	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść łajalnaści ŭ haradzkich Sanktum Impieryalis."/>
 	<entry name="AstraMilitarumLoyaltyEdictFlavor" value="Edict, Adeptus Arbites: to all Commissars, Arbitrators and Enforcers: a period of increased Imperial communication has been commissioned. During this time, insula-to-insula searches are now authorised in order to ensure maximum devotion to the Emperor. Chasteners are to apply the Lex Imperialis rigorously."/>
 	<entry name="AstraMilitarumOreEdict" value="Kvoty na Zdabyču"/>
-	<entry name="AstraMilitarumOreEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść rudy na Ekstraktarach Rudy horada."/>
+	<entry name="AstraMilitarumOreEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść rudy ŭ haradzkich Ekstraktarach Rudy."/>
 	<entry name="AstraMilitarumOreEdictFlavor" value="Edict, Departmento Munitorum: to all manufactory overseers: servitors are required to be run continuously for this cycle. Burnouts / fatalities are to be replaced from the lower ranks of the penal and labour corps."/>
 	<entry name="AstraMilitarumPsykerProductionEdict" value="Fokus na Kovienie"/>
-	<entry name="AstraMilitarumPsykerProductionEdictDescription" value="Edykt, jaki pavialičvaje chutkaść padrychtoŭki Koviena Psajkieraŭ u horadzie."/>
+	<entry name="AstraMilitarumPsykerProductionEdictDescription" value="Edykt, jaki pavialičvaje chutkaść padrychtoŭki haradzkich Kovienaŭ Psajkieraŭ."/>
 	<entry name="AstraMilitarumPsykerProductionEdictFlavor" value="Edict, Adeptus Astra Telepathica: to the Coven Masters and magisters of the Scholastia Psykana. Quality thresholds for recruitment have been lowered; summary executions should thus be minimal, blanks excepted. Assign all recruits to a Sanctioned Psyker immediately."/>
 	<entry name="AstraMilitarumResearchEdict" value="Adkryćcio Amnisii"/>
-	<entry name="AstraMilitarumResearchEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść daśledavańniaŭ Aficyjo Taktyka ŭ horadzie."/>
+	<entry name="AstraMilitarumResearchEdictDescription" value="Edykt, jaki pavialičvaje haradzkija daśledavańni Aficyjo Taktyka."/>
 	<entry name="AstraMilitarumResearchEdictFlavor" value="Edict, Adeptus Mechanicus: to all Tech-Priests. During this cycle, the Quest for Knowledge takes precedence. Studies of STC designs, exploratory missions are to be encouraged. Praise the Omnissiah!"/>
 	<entry name="AstraMilitarumVehicleProductionEdict" value="Abrady Duchaŭ Mašyn"/>
-	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść Manufaktoruma ŭ horadzie."/>
+	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść hardzkich Manufaktorumaŭ."/>
 	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="Edict, Adeptus Mechanicus: to all Manufactorum Magi. Production quotas for this period are raised. Personal projects must be put on hold during this time. Additional resources / unguents will be provided for performance of the machine rites. Praise the Omnissiah!"/>
 	<entry name="Attack" value="Atakavać"/>
 	<entry name="AuraOfDiscipline" value="Aŭra Dyscypliny"/>
@@ -188,16 +188,16 @@
 	<entry name="AuraOfFearDescription" value="Kožny krok źnižaje maral susiednich varožych adzinak."/>
 	<entry name="AuraOfFearFlavor" value="Some beings are so monstrous or alien that they can force their foes to recoil in horror."/>
 	<entry name="AwakenTheMachine" value="Abudžeńnie Mašyny"/>
-	<entry name="AwakenTheMachineDescription" value="Pavialičvaje trapnaść u dalokim bai dla chaŭrusnaj mašyny ci fartyfikacyi."/>
+	<entry name="AwakenTheMachineDescription" value="Pavialičvaje trapnaść dalokaha boju chaŭrusnaj mašyny ci fartyfikacyi."/>
 	<entry name="AwakenTheMachineFlavor" value="“With push of Button fire the Engine<br/>And spark Turbine into life…<br/>Toll the Great Bell Thrice!<br/>Sing Praise to the<br/>God of All Machines”<br/>  — Catechism of the Autoculus of Mars"/>
 	<entry name="BlessingsOfTheOmnissiah" value="Bahasłavieńni Amnisii"/>
-	<entry name="BlessingsOfTheOmnissiahDescription" value="Adnaŭlaje zdaroŭje abranych chaŭrusnych mašyn abo fartyfikacyi."/>
+	<entry name="BlessingsOfTheOmnissiahDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj mašyny abo fartyfikacyi."/>
 	<entry name="BlessingsOfTheOmnissiahFlavor" value="“Thus do we invoke the Machine God.<br/>Thus do we make whole that which was sundered.”<br/>  — Hymn of reforging"/>
 	<entry name="BolsterDefences" value="Uzmacnić Abaronu"/>
 	<entry name="BolsterDefencesDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju na abranaj plitcy."/>
 	<entry name="BolsterDefencesFlavor" value="“Every position must be held to the last man: there must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight on to the end.”<br/>  — Imperial Warmaster Solon"/>
 	<entry name="BolterDrill" value="Užyć Prareźlivy Bołtar"/>
-	<entry name="BolterDrillDescription" value="Taktyka Padziełu, jakaja pavialičvaje trapnaść bołtarnaj zbroi."/>
+	<entry name="BolterDrillDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść bołtarnaj zbroi."/>
 	<entry name="BolterDrillFlavor" value="“I believe in three tenets of battle—firepower, firepower, and more firepower.”<br/>  — Kardan Stronos, Chapter Master of the Iron Hands"/>
 	<entry name="BringItDown" value="“Źniščycie Ich!”"/>
 	<entry name="BringItDownDescription" value="Pavialičvaje bronieprabivalnaść Łorda Kamisara i susiedniaj piachoty Astra Militarum."/>
@@ -367,7 +367,7 @@
 	<entry name="DeployUnit" value="Razharnuć %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Razharnuć %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="DevastatorDoctrine" value="Vykarystać Daktrynu Razburalnikaŭ"/>
-	<entry name="DevastatorDoctrineDescription" value="Taktyka Padziełu, jakaja pavialičvaje trapnaść Kosmamarynaŭ-Razburalnikaŭ dy Centuryjonaŭ-Razburalnikaŭ."/>
+	<entry name="DevastatorDoctrineDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść Kosmamarynaŭ-Razburalnikaŭ i Centuryjonaŭ-Razburalnikaŭ."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
 	<entry name="Disappear" value="Źniknuć"/>
 	<entry name="Disband" value="Rasfarmavać"/>
@@ -505,7 +505,7 @@
 	<entry name="LevitateDescription" value="Lacić praz pieraškody da abranaj plitki."/>
 	<entry name="LevitateFlavor" value="The psyker uses his telekinetic powers to launch himself skywards, leaping across the battlefield in a single bound."/>
 	<entry name="MachineEmpathy" value="Vykarystać Empatyju Mašyn"/>
-	<entry name="MachineEmpathyDescription" value="Taktyka Padziełu, jakaja adnaŭlaje zdaroŭje mašynaŭ i fartyfikacyjaŭ."/>
+	<entry name="MachineEmpathyDescription" value="Taktyka Padziełu, što adnaŭlaje zdaroŭje mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="MachineEmpathyFlavor" value="“Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of obedience which overcomes all obstacles, and armed with the three great guns of Zeal, Duty and Purity.”<br/>  — Traditional Imperial prayer, source unknown"/>
 	<entry name="MediPack" value="Aptečka"/>
 	<entry name="MediPackDescription" value="Adnaŭlaje zdaroŭje."/>
@@ -689,7 +689,7 @@
 	<entry name="ShroudingDescription" value="Pavialičvaje źmianšeńnie škody ad dalokaha boju hetaj adzinki i susiednich chaŭrusnych adzinak."/>
 	<entry name="ShroudingFlavor" value="The psyker uses his mastery of the Warp to fog the minds of his enemies, clouding their sight and instincts so that he appears as nothing more than an indistinct shadow."/>
 	<entry name="SiegeMasters" value="Razharnuć Majstroŭ Abłohi"/>
-	<entry name="SiegeMastersDescription" value="Taktyka Padziełu, jakaja pavialičvaje škodu adzinak, što atakujuć varožyja adzinki ŭ haradach i fartyfikacyjach."/>
+	<entry name="SiegeMastersDescription" value="Taktyka Padziełu, što pavialičvaje škodu adzinak, atakujučych varožyja adzinki ŭ haradach i fartyfikacyjach."/>
 	<entry name="SiegeMastersFlavor" value="“A fortress circumvented ceases to be an obstacle. A fortress destroyed ceases to be a threat. Do not forget the difference.”<br/>  — Leman Russ, Primarch of the Space Wolves"/>
 	<entry name="Signum" value="Sihnum"/>
 	<entry name="SignumDescription" value="<string name='Traits/RelentlessDescription'/>"/>
@@ -829,7 +829,7 @@
 	<entry name="SupersonicDescription" value="Pavialičvaje ruch."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
 	<entry name="TacticalDoctrine" value="Užyć taktyčnuju daktrynu"/>
-	<entry name="TacticalDoctrineDescription" value="Taktyka Padziełu, jakaja pavialičvaje trapnaść Taktyčnych Kaśmičnych Marynaŭ."/>
+	<entry name="TacticalDoctrineDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść Taktyčnych Kaśmičnych Marynaŭ."/>
 	<entry name="TacticalDoctrineFlavor" value="“They shall be pure of heart and strong of body, untainted by doubt and unsullied by self-aggrandisement. They will be bright stars on the firmament of battle, Angels of Death whose shining wings bring swift annihilation to the enemies of Man. So it shall be for a thousand times for a thousand years, unto the very end of eternity and the extinction of mortal flesh.”<br/>  — Codex Astartes, by Roboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="Tau/AdvancedTargetingSystem" value="Ustalavać <string name='Traits/Tau/AdvancedTargetingSystem'/>"/>
 	<entry name="Tau/AdvancedTargetingSystemDescription" value="Ustalavać sistemu padtrymki, jakaja pavialičvaje trapnaść stralby."/>
@@ -951,7 +951,7 @@
 	<entry name="TelekineDomeDescription" value="Stvaraje bar'jer na plitcy Bibliaryja i susiednich plitkach, jaki pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="TelekineDomeFlavor" value="Bullets bounce off of thin air and are deflected harmlessly away as the psyker erects a barrier of shimmering energy about himself."/>
 	<entry name="TheFleshIsWeak" value="Užyć “Płoć Słaba”"/>
-	<entry name="TheFleshIsWeakDescription" value="Taktyka Padziełu, jakaja pavialičvaje źnižeńnie škody dla piachoty."/>
+	<entry name="TheFleshIsWeakDescription" value="Taktyka Padziełu, što pavialičvaje źnižeńnie škody dla piachoty."/>
 	<entry name="TheFleshIsWeakFlavor" value="“We have been wounded sorely. Yet still we stand, with fire in our eyes and valour in our hearts. Let them think us beaten. We shall teach them otherwise.”<br/>  — Pedro Kantor, Chapter Master of the Crimson Fists"/>
 	<entry name="TurboBoost" value="Turba-Paskareńnie"/>
 	<entry name="TurboBoostDescription" value="Pavialičvaje ruch."/>

@@ -13,7 +13,7 @@
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestDescription" value="Пяхота блізкага бою Сьпеваў Амнісіі, якая павялічвае зьніжэньне шкоды, забіваючы адзінкі."/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestFlavor" value="Fulgurite Electro-Priests crackle with the life energies of those they have personally slain. Their quest is to locate the Motive Force that animates all things, rip it from the bodies of the unworthy in the heat of battle, and hoard it on behalf of the Machine God. To do so they use electroleech staves – eldritch weapons that suck the bioelectricity from living creatures, drawing it out in one great draught and harnessing it within their core capacitors. Once stolen, that sacred energy can be used to power the holy instead of the heretical, crackling around them in such measure it can even burn away incoming projectiles."/>
 	<entry name="AdeptusMechanicus/Headquarters" value="<string name='Buildings/AdeptusMechanicus/Headquarters'/>"/>
-	<entry name="AdeptusMechanicus/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="AdeptusMechanicus/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="AdeptusMechanicus/HeadquartersFlavor" value="<string name='Buildings/AdeptusMechanicus/HeadquartersFlavor'/>"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius" value="Жалезны Крокаход · Балістарыус"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistariusDescription" value="Хуткі крокаход Дактрыны Імператыў."/>
@@ -79,7 +79,7 @@
 	<entry name="AstraMilitarum/GuardsmanDescription" value="Лёгкая пяхота."/>
 	<entry name="AstraMilitarum/GuardsmanFlavor" value="From the steaming jungles of Catachan to the war-torn fortress world of Cadia, the humble Guardsmen provide the ironclad backbone of the Imperial Guard."/>
 	<entry name="AstraMilitarum/Headquarters" value="<string name='Buildings/AstraMilitarum/Headquarters'/>"/>
-	<entry name="AstraMilitarum/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="AstraMilitarum/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="AstraMilitarum/HeadquartersFlavor" value="<string name='Buildings/AstraMilitarum/HeadquartersFlavor'/>"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad" value="Цяжкаўзброены Разьлік"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquadDescription" value="Пяхотная адзінка ўзброеная супраць цяжкабраняваных цэляў."/>
@@ -166,7 +166,7 @@
 	<entry name="ChaosSpaceMarines/HavocDescription" value="Пяхота далёкага бою, якая больш трапная ў нерухомым стане."/>
 	<entry name="ChaosSpaceMarines/HavocFlavor" value="Some Chaos Space Marine squads carry a high proportion of heavy weapons, the better to annihilate the hated foe. Known as Havocs, these squads provide devastating anti-infantry and anti-armour firepower, dominating large swathes of the battlefield with volley after punishing volley."/>
 	<entry name="ChaosSpaceMarines/Headquarters" value="<string name='Buildings/ChaosSpaceMarines/Headquarters'/>"/>
-	<entry name="ChaosSpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="ChaosSpaceMarines/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="ChaosSpaceMarines/HeadquartersFlavor" value="<string name='Buildings/ChaosSpaceMarines/HeadquartersFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Helbrute" value="Хэльбрут"/>
 	<entry name="ChaosSpaceMarines/HelbruteDescription" value="Крокаход, які з'язджае з глузду ад пашкоджаньняў."/>
@@ -227,7 +227,7 @@
 	<entry name="Eldar/GuardianDescription" value="Хуткая асноўная пяхота."/>
 	<entry name="Eldar/GuardianFlavor" value="Clad in psycho-reactive armour and armed with lethal shuriken weaponry, the Guardians of the Aeldari armies are able warriors all. Gifted with the natural speed of the Aeldari and the determination to preserve their craftworld no matter the cost, the Guardians are more than a match for the soldiery of the lesser races."/>
 	<entry name="Eldar/Headquarters" value="<string name='Buildings/Eldar/Headquarters'/>"/>
-	<entry name="Eldar/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="Eldar/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Eldar/HeadquartersFlavor" value="<string name='Buildings/Eldar/HeadquartersFlavor'/>"/>
 	<entry name="Eldar/HemlockWraithfighter" value="Прывідны Зьнішчальнік Тсуга"/>
 	<entry name="Eldar/HemlockWraithfighterDescription" value="Разбуральная авіацыя, якая можа адначасова бараніць хаўрусьнікаў і аглушаць ворагаў."/>
@@ -308,7 +308,7 @@
 	<entry name="Necrons/GhostArkDescription" value="Транспарт са здольнасьцямі лекаваньня."/>
 	<entry name="Necrons/GhostArkFlavor" value="Ghost Arks are tasked with trawling for remnants of Necrons unable to self-repair. Recovered components are set upon by swarms of constructor scarabs that return the fallen Necrons to full function. Repaired warriors are then locked in stasis until the Ghost Ark is at capacity, at which point it will either return its cargo to their tomb world or else deploy them directly into battle. Ghost Arks are often used as conventional transports that ferry reinforcements into battle – however, they truly come into their own once their grim cargo has disembarked. Drifting behind the ranks of Necrons, the Arks flicker with emerald energies as they repair one fallen foot soldier after another. The enemy can only watch with dawning horror as their best efforts to slay the Necrons are undone."/>
 	<entry name="Necrons/Headquarters" value="<string name='Buildings/Necrons/Headquarters'/>"/>
-	<entry name="Necrons/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="Necrons/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Necrons/HeadquartersFlavor" value="<string name='Buildings/Necrons/HeadquartersFlavor'/>"/>
 	<entry name="Necrons/HeavyDestroyer" value="Цяжкія Разбуральнікі"/>
 	<entry name="Necrons/HeavyDestroyerDescription" value="Магутная супрацьтанкавая пяхота."/>
@@ -455,7 +455,7 @@
 	<entry name="Orks/GorkanautDescription" value="Велізарны цяжкабраняваны крокаход, які абвальвае на сваіх супернікаў дождж сьмерці і руйнаваньня."/>
 	<entry name="Orks/GorkanautFlavor" value="A Gorkanaut is everything an Ork aspires to be. Massive, tough, loud and destructive, its blocky silhouette looms menacingly over friend and foe alike. From its hulking, orkoid shape to the brutal weapons it wields, a Gorkanaut epitomises the unsubtle brutality of Gork and his no-nonsense way of war. Every Gorkanaut is essentially a massively overbuilt armoured war suit bristling with dakka and packing an armoured claw the size of a Killa Kan."/>
 	<entry name="Orks/Headquarters" value="<string name='Buildings/Orks/Headquarters'/>"/>
-	<entry name="Orks/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="Orks/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Orks/HeadquartersFlavor" value="<string name='Buildings/Orks/HeadquartersFlavor'/>"/>
 	<entry name="Orks/KillBursta" value="Выбухала-Забойца"/>
 	<entry name="Orks/KillBurstaDescription" value="Звышцяжкая машына з вялікай гарматай і транспартна-штурмавой здольнасьцю."/>
@@ -518,13 +518,13 @@
 	<entry name="SistersOfBattle/DominionDescription" value="Супрацьпяхотная адзінка маленькай далёкасьці, экіпіяваная вогнекідамі."/>
 	<entry name="SistersOfBattle/DominionFlavor" value="Battle Sisters who utilise specialised weaponry such as storm bolters, flamers and meltaguns are known as Dominions. They are amongst their Order’s most aggressive warriors, driven by the need to destroy the Emperor’s foes. Though their training has tempered the worse excess of their impetuosity, Dominions still yearn to fight at the fore of any Sororitas attack."/>
 	<entry name="SistersOfBattle/Enclave" value="<string name='Buildings/SistersOfBattle/Enclave'/>"/>
-	<entry name="SistersOfBattle/EnclaveDescription" value="Штаб-кватэра, якая забясьпечвае абарону меньшага камандорства."/>
+	<entry name="SistersOfBattle/EnclaveDescription" value="Штабкватэра, якая забясьпечвае абарону меньшага камандорства."/>
 	<entry name="SistersOfBattle/EnclaveFlavor" value="<string name='Buildings/SistersOfBattle/HeadquartersFlavor'/>"/>
 	<entry name="SistersOfBattle/Exorcist" value="Экзарцыст"/>
 	<entry name="SistersOfBattle/ExorcistDescription" value="Супрацьтанкавая ракетная ўсталёўка."/>
 	<entry name="SistersOfBattle/ExorcistFlavor" value="Most vehicles in the Adepta Sororitas armoury serve multiple purposes, for in addition to being weapons of war, they are mobile shrines adorned with devotional icons and carvings. The Exorcist is perhaps the most ornate example of this. Each is an individual work of art whose battlefield role of providing devastating long-range fire support is secondary to its significance as a potent, divine symbol of the power and glory of the Ecclesiarchy."/>
 	<entry name="SistersOfBattle/Headquarters" value="<string name='Buildings/SistersOfBattle/Headquarters'/>"/>
-	<entry name="SistersOfBattle/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="SistersOfBattle/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="SistersOfBattle/HeadquartersFlavor" value="<string name='Buildings/SistersOfBattle/HeadquartersFlavor'/>"/>
 	<entry name="SistersOfBattle/Hospitaller" value="Шпітальеркі"/>
 	<entry name="SistersOfBattle/HospitallerDescription" value="Пяхота, якая дасьледуе Сьвятыя Месцы Сарорытас, лечыць хаўрусную пяхоту, ачышчае пліткі і будуе новыя гарады."/>
@@ -584,7 +584,7 @@
 	<entry name="SpaceMarines/FortressOfRedemptionDescription" value="Фартыфікацыя, якая аўтаматычна зьбірае суседнія рэсурсы."/>
 	<entry name="SpaceMarines/FortressOfRedemptionFlavor" value="A Fortress of Redemption is a towering bulwark against the ravages of planetary invasion. Each is virtually impervious to conventional firepower and the lower levels, bunker annexes and sub-crypts can house entire platoons of battle-ready warriors. First used by the Dark Angels Legion during the days of the Great Crusade, they have since been used by every military force in the Imperium and proven invaluable to its defence."/>
 	<entry name="SpaceMarines/Headquarters" value="<string name='Buildings/SpaceMarines/Headquarters'/>"/>
-	<entry name="SpaceMarines/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="SpaceMarines/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="SpaceMarines/HeadquartersFlavor" value="<string name='Buildings/SpaceMarines/HeadquartersFlavor'/>"/>
 	<entry name="SpaceMarines/Hunter" value="Паляўнічы"/>
 	<entry name="SpaceMarines/HunterDescription" value="Танк, які сьпецыялізуецца на зьнішчэньні авіяцыі і луналых машын."/>
@@ -668,7 +668,7 @@
 	<entry name="Tau/HammerheadGunshipDescription" value="Луналы танк з універсальным узбраеньнем."/>
 	<entry name="Tau/HammerheadGunshipFlavor" value="Hammerhead Gunships glide into battle like predatory beasts. As they advance, their massive turret armaments traverse smoothly, railguns and ion cannons sweeping left and right as they hunt for targets. The moment a suitable victim presents itself, firing solutions are calculated in the blink of an eye. Power surges as gravitic stabilisers kick in with a bass hum and the Hammerheads loose the lethal fury of their arsenal upon the foe."/>
 	<entry name="Tau/Headquarters" value="<string name='Buildings/Tau/Headquarters'/>"/>
-	<entry name="Tau/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="Tau/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Tau/HeadquartersFlavor" value="<string name='Buildings/Tau/HeadquartersFlavor'/>"/>
 	<entry name="Tau/InterceptorDrone" value="MV17 · Дроны-Перахопнікі"/>
 	<entry name="Tau/InterceptorDroneDescription" value="Палепшаны супрацьпаветраны дрон."/>
@@ -746,7 +746,7 @@
 	<entry name="Tyranids/HaruspexDescription" value="Жахлівая істота з учэпістым языком."/>
 	<entry name="Tyranids/HaruspexFlavor" value="The Tyranid Haruspex is a ferocious beast created to consume biomass at a sickening pace. It is possessed of a rapacious appetite, driven by the need to sate an infinite hunger. Few foes are foolish enough to stand before a feeding Haruspex, for it can devour an entire platoon of soldiers in a matter of moments, shovelling victim after victim into its craw without ever slowing down. Any morsel that proves too large to be swallowed in one gulp is seized with the Haruspex's gargantuan claws and ripped, crushed or battered apart with negligent ease."/>
 	<entry name="Tyranids/Headquarters" value="<string name='Buildings/Tyranids/Headquarters'/>"/>
-	<entry name="Tyranids/HeadquartersDescription" value="Штаб-Кватэра, якая ўяўляе сабой абарону горада."/>
+	<entry name="Tyranids/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
 	<entry name="Tyranids/HeadquartersFlavor" value="<string name='Buildings/Tyranids/HeadquartersFlavor'/>"/>
 	<entry name="Tyranids/HiveCrone" value="Карга Вульля"/>
 	<entry name="Tyranids/HiveCroneDescription" value="Лёткая адзінка эфектыўная супраць лёткіх цэляў."/>
