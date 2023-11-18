@@ -709,7 +709,7 @@
 	<entry name="Tau/EtherealDescription" value="<string name='Units/Tau/EtherealDescription'/>"/>
 	<entry name="Tau/EtherealFlavor" value="<string name='Units/Tau/EtherealFlavor'/>"/>
 	<entry name="Tau/GunDrone" value="<string name='Units/Tau/GunDrone'/>"/>
-	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых асноўных баявых дронаў."/>
+	<entry name="Tau/GunDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць разгортваць часовых асноўных баявых дронаў."/>
 	<entry name="Tau/GunDroneFlavor" value="<string name='Units/Tau/GunDroneFlavor'/>"/>
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
@@ -718,7 +718,7 @@
 	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
 	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
 	<entry name="Tau/MarkerDrone" value="<string name='Units/Tau/MarkerDrone'/>"/>
-	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
+	<entry name="Tau/MarkerDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць разгортваць часовых дронаў, якія пазначаюць ворагаў, павялічваючы шкоду па іх."/>
 	<entry name="Tau/MarkerDroneFlavor" value="<string name='Units/Tau/MarkerDroneFlavor'/>"/>
 	<entry name="Tau/Pathfinder" value="<string name='Units/Tau/Pathfinder'/>"/>
 	<entry name="Tau/PathfinderDescription" value="<string name='Units/Tau/PathfinderDescription'/>"/>
@@ -730,7 +730,7 @@
 	<entry name="Tau/RVarnaBattlesuitDescription" value="<string name='Units/Tau/RVarnaBattlesuitDescription'/>"/>
 	<entry name="Tau/RVarnaBattlesuitFlavor" value="<string name='Units/Tau/RVarnaBattlesuitFlavor'/>"/>
 	<entry name="Tau/ShieldDrone" value="<string name='Units/Tau/ShieldDrone'/>"/>
-	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць выкарыстоўваць ня сталыя дроны, якія бароняць хаўрусьнікаў."/>
+	<entry name="Tau/ShieldDroneDescription" value="Дае Ваярам Агню, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV88 Залп, Кадру · Агнявы Клінок, Этэрным ды Камандорам здольнасьць разгортваць часовых дроны, якія бароняць хаўрусьнікаў."/>
 	<entry name="Tau/ShieldDroneFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SkyRayGunship" value="<string name='Units/Tau/SkyRayGunship'/>"/>
 	<entry name="Tau/SkyRayGunshipDescription" value="<string name='Units/Tau/SkyRayGunshipDescription'/>"/>
@@ -745,7 +745,7 @@
 	<entry name="Tau/SunSharkBomberDescription" value="<string name='Units/Tau/SunSharkBomberDescription'/>"/>
 	<entry name="Tau/SunSharkBomberFlavor" value="<string name='Units/Tau/SunSharkBomberFlavor'/>"/>
 	<entry name="Tau/TidewallGunrig" value="<string name='Units/Tau/TidewallGunrig'/>"/>
-	<entry name="Tau/TidewallGunrigDescription" value="Дае Будаўнічым Дронам здольнасьць будаваць цяжка ўзброеныя фартыфікацыі, якія могуць перасоўваць транспартавыя войскі."/>
+	<entry name="Tau/TidewallGunrigDescription" value="Дае Будаўнічым Дронам здольнасьць будаваць цяжка ўзброеныя фартыфікацыі, якія льга перасоўваць з дапамогай транспартных адзінак."/>
 	<entry name="Tau/TidewallGunrigFlavor" value="<string name='Units/Tau/TidewallGunrigFlavor'/>"/>
 	<entry name="Tau/TigerShark" value="<string name='Units/Tau/TigerShark'/>"/>
 	<entry name="Tau/TigerSharkDescription" value="<string name='Units/Tau/TigerSharkDescription'/>"/>
@@ -804,7 +804,7 @@
 
 	<!-- Other -->
 	<entry name="SmokeLauncher" value="Дымавая Пускавая Ўсталёўка"/>
-	<entry name="SmokeLauncherDescription" value="Дае наземным машынам магчымасьць запускаць дымавую заслону, якая зьніжае шкоду ад далёкіх атак."/>
+	<entry name="SmokeLauncherDescription" value="Дае наземным машынам магчымасьць ствараць дымавую заслону, якая зьніжае шкоду ад далёкіх атак."/>
 	<entry name="SmokeLauncherFlavor" value="Some vehicles have small launchers mounted onto them that carry smoke canisters. These are used to temporarily obscure the vehicle behind billowing clouds of smoke, allowing it to cross open areas in greater safety—although it does so at the cost of being able to fire its own weapons."/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegration" value="<string name='Traits/AdeptusMechanicus/AdjacencyIntegration'/>"/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegrationDescription" value="Павялічвае вытворчасьць дасьледаваньняў будынка за кожны будынак на суседняй плітцы."/>
@@ -908,7 +908,7 @@
 	<entry name="AdeptusMechanicus/TerranGeneralism" value="<string name='Traits/AdeptusMechanicus/TerranGeneralism'/>"/>
 	<entry name="AdeptusMechanicus/TerranGeneralismDescription" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismDescription'/>"/>
 	<entry name="AdeptusMechanicus/TerranGeneralismFlavor" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismFlavor'/>"/>
-	<entry name="AdeptusMechanicus/ThermoExchangeEfficiency" value="Эфектыўнасьць Тэрмаабмену"/>
+	<entry name="AdeptusMechanicus/ThermoExchangeEfficiency" value="Эфектыўнасьць Тэрмапамену"/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyDescription" value="Павялічвае бонус прыбытку павышэньня магутнасьці."/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyFlavor" value="Paradoxically, slowing down the inputs to the Thermo-Exchanger and feeding the plasma through a second set of heat couplings and condensers can stretch the length of time it can operate beyond nominal goals—or at least reduce the amount of lives lost and repairs needed."/>
 	<entry name="AdeptusMechanicus/TriplexNecessity" value="<string name='Traits/AdeptusMechanicus/TriplexNecessity'/>"/>
@@ -918,10 +918,10 @@
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonDescription" value="Дае Рыцарам · Крыжак здвоеную аўтагармату ікарус."/>
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/TwinLinkedIcarusAutocannonFlavor'/>"/>
 	<entry name="AdeptusMechanicus/VoicesInTheCode" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCode'/>"/>
-	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Павялічвае страты маралі варожых адзінак суседніх да Сікарыйскіх Інфільтратараў."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Павялічвае страты маралі варожых адзінак, суседніх да Сікарыйскіх Інфільтратараў."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptance" value="Прыняцьце Ксенарыта"/>
-	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Павялічвае фіксаваную колькасьць дасьледаваньняў, што атрымліваюцца ад Руінаў Ваула."/>
+	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Павялічвае фіксаваную колькасьць дасьледаваньняў, што здабываюцца з Руінаў Ваула."/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="It seems the Xenarite Tech-Priests from Stygies VIII are having their way on Gladius Prime too—setting up observation units and drones at every Outpost to understand the Xenos better. The practical applications in terms of research are immediately obvious…"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Дадатковыя Цяжкія Болтары"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дае дадатковыя цяжкія болтары Гібельным Клінкам, Баявым Танкам · Леман Русс, Баявым Танкам · Рогал Дорн і Валькірыям."/>
@@ -987,7 +987,7 @@
 	<entry name="AstraMilitarum/MediPackDescription" value="Дае Гвардзейцам ды Нашчадкам Тэмпестус здольнасьць лячыць сябе падчас бою."/>
 	<entry name="AstraMilitarum/MediPackFlavor" value="<string name='Actions/MediPackFlavor'/>"/>
 	<entry name="AstraMilitarum/Misfortune" value="<string name='Actions/Misfortune'/>"/>
-	<entry name="AstraMilitarum/MisfortuneDescription" value="Дае Вурдванскім Псайкерам здольнасьць праклінаць варожыя адзінкі, што выклікае павышэньне атрыманай імі шкоды."/>
+	<entry name="AstraMilitarum/MisfortuneDescription" value="Дае Вурдванскім Псайкерам здольнасьць праклінаць варожыя адзінкі, яны пачынаюць атрымліваць болей шкоды."/>
 	<entry name="AstraMilitarum/MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
 	<entry name="AstraMilitarum/RecoveryGear" value="<string name='Traits/RecoveryGear'/>"/>
 	<entry name="AstraMilitarum/RecoveryGearDescription" value="Павялічвае хуткасьць лячэньня наземных машынаў."/>
@@ -996,7 +996,7 @@
 	<entry name="AstraMilitarum/RelicPlatingDescription" value="Зьніжае шкоду ад вядзьмарскага агню па наземным машынам."/>
 	<entry name="AstraMilitarum/RelicPlatingFlavor" value="<string name='Traits/RelicPlatingFlavor'/>"/>
 	<entry name="AstraMilitarum/SkystrikeMissile" value="<string name='Weapons/SkystrikeMissile'/>"/>
-	<entry name="AstraMilitarum/SkystrikeMissileDescription" value="Дае ўдарам грому супрацьпаветраныя ракеты."/>
+	<entry name="AstraMilitarum/SkystrikeMissileDescription" value="Дае Ўдарам Грому супрацьпаветраныя ракеты."/>
 	<entry name="AstraMilitarum/SkystrikeMissileFlavor" value="<string name='Weapons/SkystrikeMissileFlavor'/>"/>
 	<entry name="AstraMilitarum/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="AstraMilitarum/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
@@ -1005,7 +1005,7 @@
 	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Павялічвае шкоду Выведніка · Вартавы."/>
 	<entry name="AstraMilitarum/TrainedSentinelPilotsFlavor" value="<string name='Traits/TrainedSentinelPilotsFlavor'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGenerator" value="<string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
-	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць будаваць генератары шчытоў, якія зьніжаюць шкоду ад далёкіх атак адзінкам у радыусе дзеяньня."/>
+	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць будаваць Генератары Шчытоў, якія зьніжаюць шкоду ад далёкіх атак адзінкам у радыусе дзеяньня."/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorFlavor" value="<string name='Units/AstraMilitarum/VoidShieldGeneratorFlavor'/>"/>
 	<entry name="AstraMilitarum/VoxCaster" value="<string name='Traits/VoxCaster'/>"/>
 	<entry name="AstraMilitarum/VoxCasterDescription" value="Зьніжае страты маралі Гвардзейцаў і Нашчадкаў Тэмпестус."/>
@@ -1020,7 +1020,7 @@
 	<entry name="ChaosSpaceMarines/BloatedDescription" value="Дае Чэмпіёнам Хаосу шанец аднавіць свае ачкі здароўя пасьля забойства ворага."/>
 	<entry name="ChaosSpaceMarines/BloatedFlavor" value="<string name='Traits/ChaosSpaceMarines/BloatedFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/BoltDamage" value="<string name='Traits/ChaosSpaceMarines/BoltDamage'/>"/>
-	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Павялічвае бронепрабівальнасьць балтарнай зброі."/>
+	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Павялічвае бронепрабівальнасьць болтарнай зброі."/>
 	<entry name="ChaosSpaceMarines/BoltDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/BoltDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ChaosRising" value="Узыход Хаосу"/>
 	<entry name="ChaosSpaceMarines/ChaosRisingDescription" value="Зьніжае кошт будаваньня новых гарадоў."/>
@@ -1050,7 +1050,7 @@
 	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Касьмічным Марынам Хаосу, Апусташальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Вялікім Латуневым Скарпіёнам, Хэлбрутам, Дэманічным Катам, Атрутным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
+	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Вялікім Латуневым Скарпіёнам, Хэльбрутам, Дэманічным Катам, Атрутным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncher" value="<string name='Weapons/HavocLauncher'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Дае Насарогам Хаосу і Зямным Рэйдарам Хаосу выбуховую зброю сярэдняй далёкасьці."/>
@@ -1089,7 +1089,7 @@
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentchDescription'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentchFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Mechanoid" value="<string name='Traits/ChaosSpaceMarines/Mechanoid'/>"/>
-	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Дае чэмпіёнам хаосу шанец на атрыманьне сталага павышэньня брані пры забойстве ворага (дарунак хаосу)."/>
+	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Дае чэмпіёнам хаосу шанец на атрыманьне сталага павышэньня брані пасьля забойства ворага (Дарунак Хаосу)."/>
 	<entry name="ChaosSpaceMarines/MechanoidFlavor" value="<string name='Traits/ChaosSpaceMarines/MechanoidFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeleeDamage" value="<string name='Traits/ChaosSpaceMarines/MeleeDamage'/>"/>
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
@@ -1147,7 +1147,7 @@
 	<entry name="Eldar/CityTier3Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Eldar/CityTier3Flavor" value="<string name='Traits/Eldar/CityTier3Flavor'/>"/>
 	<entry name="Eldar/CleansingFlame" value="<string name='Actions/CleansingFlame'/>"/>
-	<entry name="Eldar/CleansingFlameDescription" value="Дае Ведзьмакам здольнасьць падрываць суседніх ворагаў з дапамогай распаленага да бела псіхічнага полымя."/>
+	<entry name="Eldar/CleansingFlameDescription" value="Дае Ведзьмакам здольнасьць падрываць суседніх ворагаў з дапамогай распаленага да бяла псіхічнага полымя."/>
 	<entry name="Eldar/CleansingFlameFlavor" value="<string name='Actions/CleansingFlameFlavor'/>"/>
 	<entry name="Eldar/ConstructionBuildingBonus" value="<string name='Traits/Eldar/ConstructionBuildingBonus'/>"/>
 	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Павялічвае аб'ём вытворчасьці Капліц Сьпевакоў Косьці."/>
@@ -1162,13 +1162,13 @@
 	<entry name="Eldar/DominateDescription" value="Дае Прывідным Зьнішчальнікам Тсуга здольнасьць аглушаць варожыя адзінкі, якія ня з'яўляюцца машынамі або фартыфікацыямі."/>
 	<entry name="Eldar/DominateFlavor" value="<string name='Actions/DominateFlavor'/>"/>
 	<entry name="Eldar/ExpertHunter" value="<string name='Traits/Eldar/ExpertHunter'/>"/>
-	<entry name="Eldar/ExpertHunterDescription" value="Павялічвае шкоду ад Бліскучых Дзідаў супраць жахлівых стварэньняў, машынаў і фартыфікацый."/>
+	<entry name="Eldar/ExpertHunterDescription" value="Павялічвае шкоду ад Бліскучых Дзідаў супраць жахлівых стварэньняў, машынаў і фартыфікацыяў."/>
 	<entry name="Eldar/ExpertHunterFlavor" value="<string name='Traits/Eldar/ExpertHunterFlavor'/>"/>
-	<entry name="Eldar/ExtraInfantryArmour" value="Лабірынтная Сецістая Браня"/>
+	<entry name="Eldar/ExtraInfantryArmour" value="Лабірынтавая Сецістая Браня"/>
 	<entry name="Eldar/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
 	<entry name="Eldar/ExtraInfantryArmourFlavor" value="The Aeldari’s thermoplas mesh armour isn’t designed with a focus solely on defense—it also enables the user to move as freely as if it weren’t there. However, by further involuting its complex dissipation protocols, it is possible to increase its resilience with no loss of mobility."/>
 	<entry name="Eldar/ExtraVehicleArmour" value="Дамешак Прывіднай Косткі"/>
-	<entry name="Eldar/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
+	<entry name="Eldar/ExtraVehicleArmourDescription" value="Павялічвае браню машынаў."/>
 	<entry name="Eldar/ExtraVehicleArmourFlavor" value="All Aeldari vehicles and structures are literally ‘sung’ into existence, by Bonesingers whose command of their vocal and psychic range is the constructive counterpart of the Howling Banshee’s war cry. Yet, with Gladius Prime’s resources and alteration in their internal harmonies, the Bonesingers can weave greater power into their creations, further increasing their resilience."/>
 	<entry name="Eldar/FoodBuildingBonus" value="<string name='Traits/Eldar/FoodBuildingBonus'/>"/>
 	<entry name="Eldar/FoodBuildingBonusDescription" value="Павялічвае вытворчасьць ежы ў Садах Ішы."/>
@@ -1325,7 +1325,7 @@
 	<entry name="Necrons/NecrodermisRepair3Description" value="Прыбірае час перазарадкі Рамонту Некрадэрміса."/>
 	<entry name="Necrons/NecrodermisRepair3Flavor" value="The living metal that constitutes the Necron bodies and vehicles now constantly writhes, rebuilding itself from moment to moment."/>
 	<entry name="Necrons/OreBuildingBonus" value="<string name='Traits/Necrons/OreBuildingBonus'/>"/>
-	<entry name="Necrons/OreBuildingBonusDescription" value="Павялічвае здабычу руды на Кар'ерах Аль-Хемік."/>
+	<entry name="Necrons/OreBuildingBonusDescription" value="Павялічвае здабычу руды на Кар'ерах Аль-Хэмік."/>
 	<entry name="Necrons/OreBuildingBonusFlavor" value="<string name='Traits/Necrons/OreBuildingBonusFlavor'/>"/>
 	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
 	<entry name="Necrons/QuantumShieldingDescription" value="Дае Баржам Анігіляцыі, Прывідным Каўчэгам, Каўчэгам Суднага Дня і Трыярхам-Паляўнічым непаражальнае зьніжэньне шкоды, якое перазараджваецца напачатку наступнага кроку пасьля атрыманьня шкоды."/>
@@ -1343,7 +1343,7 @@
 	<entry name="Necrons/ScarabHiveDescription" value="Дае Канаптэкавым Павукам здольнасьць ствараць Канаптэкавых Скарабеяў."/>
 	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Actions/Necrons/ScarabHiveFlavor'/>"/>
 	<entry name="Necrons/SeismicAssault" value="Сейсьмічная Атака"/>
-	<entry name="Necrons/SeismicAssaultDescription" value="Дае Трансцэндэнтальным К'тан і Тэсэрактавым Сховішчам здольнасьць наносіць зьнішчальны ўдар."/>
+	<entry name="Necrons/SeismicAssaultDescription" value="Дае Трансцэндэнтальным К'танам і Тэсэрактавым Сховішчам здольнасьць наносіць зьнішчальны ўдар."/>
 	<entry name="Necrons/SeismicAssaultFlavor" value="<string name='Weapons/SeismicAssaultTranscendentFlavor'/>"/>
 	<entry name="Necrons/ShieldVane" value="<string name='Traits/Necrons/ShieldVane'/>"/>
 	<entry name="Necrons/ShieldVaneDescription" value="Павялічвае браню Лёзам Грабніцы."/>
@@ -1352,7 +1352,7 @@
 	<entry name="Necrons/TeslaDamageDescription" value="Павялічвае бронепрабівальнасьць зброі Тэсла."/>
 	<entry name="Necrons/TeslaDamageFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
 	<entry name="Necrons/TheBoundCoalescent" value="<string name='Actions/Necrons/TheBoundCoalescent'/>"/>
-	<entry name="Necrons/TheBoundCoalescentDescription" value="Дае Трансцэндэнтальным К'тан здольнасьць яднацца з Абеліскамі для стварэньня Тэсэрактавых Сховішчаў."/>
+	<entry name="Necrons/TheBoundCoalescentDescription" value="Дае Трансцэндэнтальным К'танам здольнасьць яднацца з Абеліскамі дзеля стварэньня Тэсэрактавых Сховішчаў."/>
 	<entry name="Necrons/TheBoundCoalescentFlavor" value="<string name='Actions/Necrons/TheBoundCoalescentFlavor'/>"/>
 	<entry name="Necrons/VehiclesBuildingBonus" value="<string name='Traits/Necrons/VehiclesBuildingBonus'/>"/>
 	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Павялічвае вытворчасьць Гіпастальных Храмаў."/>
@@ -1388,7 +1388,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="<string name='Traits/Orks/BonusVehiclesProductionDescription'/>"/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
 	<entry name="Orks/Bosspole" value="Шост Боса"/>
-	<entry name="Orks/BosspoleDescription" value="Яшчэ болей зьніжае страты маралі ад Правіла Мобаў для Буйных Мекаў, Хлопцаў, Меганобаў, Танкабояў, Войнацыкляў і Вайнабосаў."/>
+	<entry name="Orks/BosspoleDescription" value="Яшчэ больш зьніжае страты маралі ад Правіла Мобаў для Буйных Мекаў, Хлопцаў, Меганобаў, Танкабояў, Войнацыкляў і Вайнабосаў."/>
 	<entry name="Orks/BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
 	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
 	<entry name="Orks/CityEnergyDescription" value="Павялічвае вытворчасьць энергіі ў гарадах Оркаў."/>
@@ -1400,13 +1400,13 @@
 	<entry name="Orks/CityInfluenceDescription" value="Павялічвае вытворчасьць уплыву гарадоў Оркаў."/>
 	<entry name="Orks/CityInfluenceFlavor" value="<string name='Traits/Orks/CityInfluenceFlavor'/>"/>
 	<entry name="Orks/CityLoyalty" value="<string name='Traits/Orks/CityLoyalty'/>"/>
-	<entry name="Orks/CityLoyaltyDescription" value="Павялічвае вытворчасьць лаяльнасьці гарадоў Оркаў."/>
+	<entry name="Orks/CityLoyaltyDescription" value="Павялічвае вытворчасьць лаяльнасьці ў гарадах Оркаў."/>
 	<entry name="Orks/CityLoyaltyFlavor" value="<string name='Traits/Orks/CityLoyaltyFlavor'/>"/>
 	<entry name="Orks/CityPopulationLimit" value="<string name='Traits/Orks/CityPopulationLimit'/>"/>
-	<entry name="Orks/CityPopulationLimitDescription" value="Павялічвае ліміт насельніцтва гарадоў Оркаў."/>
+	<entry name="Orks/CityPopulationLimitDescription" value="Павялічвае ліміт насельніцтва ў гарадах Оркаў."/>
 	<entry name="Orks/CityPopulationLimitFlavor" value="<string name='Traits/Orks/CityPopulationLimitFlavor'/>"/>
 	<entry name="Orks/CityResearch" value="<string name='Traits/Orks/CityResearch'/>"/>
-	<entry name="Orks/CityResearchDescription" value="Павялічвае вытворчасьць дасьледваньняў гарадоў Оркаў."/>
+	<entry name="Orks/CityResearchDescription" value="Павялічвае вытворчасьць дасьледваньняў у гарадах Оркаў."/>
 	<entry name="Orks/CityResearchFlavor" value="<string name='Traits/Orks/CityResearchFlavor'/>"/>
 	<entry name="Orks/CityTier2" value="<string name='Traits/Orks/CityTier2'/>"/>
 	<entry name="Orks/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
@@ -1417,8 +1417,8 @@
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeath" value="Сталая Дэкампазіцыя"/>
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeathDescription" value="Стварае сталыя оркоідныя грыбы пасьля сьмерці адзінак."/>
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeathFlavor" value="<string name='Traits/Orks/CreateOrkoidFungusOnDeathFlavor'/>"/>
-	<entry name="Orks/DakkajetSupaShoota" value="Супер Штраляла Дакка-Зьнішчалы"/>
-	<entry name="Orks/DakkajetSupaShootaDescription" value="Дае Дакка-Зьнішчалам супер штралялу."/>
+	<entry name="Orks/DakkajetSupaShoota" value="Шупер Штраляла Дакка-Зьнішчалы"/>
+	<entry name="Orks/DakkajetSupaShootaDescription" value="Дае Дакка-Зьнішчалам шупер штралялу."/>
 	<entry name="Orks/DakkajetSupaShootaFlavor" value="<string name='Weapons/TwinLinkedSupaShootaFlavor'/>"/>
 	<entry name="Orks/EavyArmour" value="<string name='Traits/EavyArmour'/>"/>
 	<entry name="Orks/EavyArmourDescription" value="Павялічвае браню Хлопцам і Вайнабосам."/>
@@ -1448,7 +1448,7 @@
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="Orks/MeleeDamageFlavor" value="<string name='Traits/Orks/MeleeDamageFlavor'/>"/>
 	<entry name="Orks/MightMakesRight2" value="Страх Да Оркаў!"/>
-	<entry name="Orks/MightMakesRight2Description" value="Павялічвае ўплыў, які даюць адзінкі, наносячы шкоду."/>
+	<entry name="Orks/MightMakesRight2Description" value="Павялічвае ўплыў, якія атрымліваецца ад нанясеньня шкоды адзінкамі."/>
 	<entry name="Orks/MightMakesRight2Flavor" value="When a Waaagh! is powerful enough, it has something like a multiplying effect, with every blow struck further enhancing the leaking psychic field, in a sort of ultra-violent Orky feedback loop."/>
 	<entry name="Orks/OrkoidFungusBonusHealingRate" value="<string name='Traits/OrkoidFungusBonusHealingRate'/>"/>
 	<entry name="Orks/OrkoidFungusBonusHealingRateDescription" value="Павялічвае лячэньне ад аркоіднага грыба."/>
@@ -1460,7 +1460,7 @@
 	<entry name="Orks/RedPaintJobDescription" value="Павялічвае шкоду Ваявых Баггі, Мегатрукавых Шьмецьцелётаў, Ваявых Фураў, Дакка-Зьнішчалаў і Палілаў-Бамбілаў."/>
 	<entry name="Orks/RedPaintJobFlavor" value="<string name='Traits/RedPaintJobFlavor'/>"/>
 	<entry name="Orks/Scavenger2" value="Гроты-Шьмецяры"/>
-	<entry name="Orks/Scavenger2Description" value="Павялічвае колькасьць здабытай руды пры забойстве варожых адзінак."/>
+	<entry name="Orks/Scavenger2Description" value="Павялічвае колькасьць здабытай руды пасьля забойстве варожых адзінак."/>
 	<entry name="Orks/Scavenger2Flavor" value="A well organised Runtherd will have trained his Grots to gather and sort scrap for the Orks, as well as avoiding the more dangerous shell casings and munitions."/>
 	<entry name="Orks/SkorchaMissile" value="<string name='Weapons/SkorchaMissile'/>"/>
 	<entry name="Orks/SkorchaMissileDescription" value="Дае Палілам-Бамбілам супрацьпяхотныя ракеты, што ігнаруюць хованкі."/>
@@ -1478,7 +1478,7 @@
 	<entry name="SistersOfBattle/AdditionalSacredRiteDescription" value="Два Сьвяшчэнных Абрады могуць быць актыўны адначасова."/>
 	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/AircraftsMissiles" value="Авіацыйныя Ракеты"/>
-	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Дае Ракеты Нябесны Ўдар Маланкавым Зьнішчальнікам і Ракеты Пякельны Ўдар Ударным Зьнішчальнікам · Помсьнік."/>
+	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Дае ракеты нябесны ўдар Маланкавым Зьнішчальнікам і ракеты пякельны ўдар Ударным Зьнішчальнікам · Помсьнік."/>
 	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="These missiles allow the aircrafts to effectively engage a variety of targets; Hellstrike missiles for missions targeting armoured vehicles, Skystrike missiles for enemy air forces."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagus'/>"/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Паляпшае браню Умярцьвіцеляў."/>
@@ -1499,10 +1499,10 @@
 	<entry name="SistersOfBattle/CityGrowthDescription" value="Павялічвае хуткасьць узросту насельніцтва гарадоў."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="<string name='Traits/SistersOfBattle/CityGrowthFlavor'/>"/>
 	<entry name="SistersOfBattle/CityTier2" value="<string name='Traits/SistersOfBattle/CityTier2'/>"/>
-	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус забудовы галоўнага гарадоў."/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус забудовы галоўнага гарада."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="<string name='Traits/SistersOfBattle/CityTier2Flavor'/>"/>
 	<entry name="SistersOfBattle/CityTier3" value="<string name='Traits/SistersOfBattle/CityTier3'/>"/>
-	<entry name="SistersOfBattle/CityTier3Description" value="Павялічвае радыус забудовы галоўнага гарадоў."/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Павялічвае радыус забудовы галоўнага гарада."/>
 	<entry name="SistersOfBattle/CityTier3Flavor" value="<string name='Traits/SistersOfBattle/CityTier3Flavor'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaith" value="<string name='Actions/SistersOfBattle/ConvictionOfFaith'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="<string name='Actions/SistersOfBattle/ConvictionOfFaithDescription'/>"/>
@@ -1513,7 +1513,7 @@
 	<entry name="SistersOfBattle/EternalCrusade" value="<string name='Actions/SistersOfBattle/EternalCrusade'/>"/>
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="<string name='Actions/SistersOfBattle/EternalCrusadeDescription'/>"/>
 	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="<string name='Actions/SistersOfBattle/EternalCrusadeFlavor'/>"/>
-	<entry name="SistersOfBattle/ExpertFighters" value="Зьнішчальнікі-Асы"/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Дасьведчаныя Зьнішчальнікі"/>
 	<entry name="SistersOfBattle/ExpertFightersDescription" value="Павялічвае трапнасьць Маланкавых Зьнішчальнікаў і Ударных Зьнішчальнікаў · Помсьнік."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="<string name='Traits/SistersOfBattle/ExpertFightersFlavor'/>"/>
 	<entry name="SistersOfBattle/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
@@ -1535,7 +1535,7 @@
 	<entry name="SistersOfBattle/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SistersOfBattle/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="SistersOfBattle/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасьць кідаць супрацьбранявыя гранаты."/>
+	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасьць кідаць супрацьтанкавыя гранаты."/>
 	<entry name="SistersOfBattle/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/LaudHailer" value="<string name='Traits/SistersOfBattle/LaudHailer'/>"/>
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Дае Лупцоўнікам, Экзарцыстам і Ахвярнікам аўру, якая дазваляе ўзрушаным адзінкам зьдяйсьняць Акты Веры."/>
@@ -1661,7 +1661,7 @@
 	<entry name="SpaceMarines/KrakGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Космамарынам-Разбуральнікам, Бібліарыям, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам · Громавы Агонь здольнасьць кідаць супрацьтанкавыя гранаты."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
-	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Дае Зямным Хуткарам і Зямны Рэйдарам мульцімельтавую зброю."/>
+	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Дае Зямным Хуткарам і Зямным Рэйдарам мульцімельтавую зброю."/>
 	<entry name="SpaceMarines/LandSpeederMultiMeltaFlavor" value="<string name='Weapons/MultiMeltaFlavor'/>"/>
 	<entry name="SpaceMarines/LasDamage" value="<string name='Traits/SpaceMarines/LasDamage'/>"/>
 	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Upgrades/AstraMilitarum/LasDamageDescription'/>"/>
@@ -1671,7 +1671,7 @@
 	<entry name="SpaceMarines/LastStandFlavor" value="<string name='Traits/LastStandFlavor'/>"/>
 	<entry name="SpaceMarines/LastStandReady" value="<string name='Traits/LastStand'/>"/>
 	<entry name="SpaceMarines/LocatorBeacon" value="<string name='Traits/LocatorBeacon'/>"/>
-	<entry name="SpaceMarines/LocatorBeaconDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня пры разгортваньні побач з Матацыклістамі-Выведнікамі ды Караблямі · Штармавы Крумкач."/>
+	<entry name="SpaceMarines/LocatorBeaconDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня падчас разгортваньня побач з Матацыклістамі-Выведнікамі ды Караблямі · Штармавы Крумкач."/>
 	<entry name="SpaceMarines/LocatorBeaconFlavor" value="<string name='Traits/LocatorBeaconFlavor'/>"/>
 	<entry name="SpaceMarines/MachineEmpathy" value="<string name='Traits/MachineEmpathy'/>"/>
 	<entry name="SpaceMarines/MachineEmpathyDescription" value="<string name='Actions/MachineEmpathyDescription'/>"/>
@@ -1680,7 +1680,7 @@
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Касьмічным Марынам, Штурмавым Касьмічным Марынам, Космамарынам-Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасьць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
+	<entry name="SpaceMarines/MeltaBombDescription" value="Дае Тактычным Касьмічным Марынам, Штурмавым Касьмічным Марынам, Космамарынам-Разбуральнікам, Выведнікам і Матацыклістам-Выведнікам здольнасьць разгортваць мельта бомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацыяў."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="Дае Цэнтурыёнам-Разбуральнікам магчымасьць абмінаць зьмяншэньне шкоды ў далёкім боі."/>
@@ -1704,7 +1704,7 @@
 	<entry name="SpaceMarines/SiegeShieldDescription" value="Павялічвае браню Ачышчальнікаў і зьніжае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="SpaceMarines/SiegeShieldFlavor" value="<string name='Traits/SiegeShieldFlavor'/>"/>
 	<entry name="SpaceMarines/Signum" value="<string name='Actions/Signum'/>"/>
-	<entry name="SpaceMarines/SignumDescription" value="Дае Космамарынам-Разбуральнікам здольнасьць скасоўваць штраф для цяжкай, артылерыйнай зброі і залпа з джалаў."/>
+	<entry name="SpaceMarines/SignumDescription" value="Дае Космамарынам-Разбуральнікам здольнасьць скасоўваць штраф для цяжкай і артылерыйнай зброі ды залпа з джалаў."/>
 	<entry name="SpaceMarines/SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
 	<entry name="SpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="SpaceMarines/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
@@ -1713,7 +1713,7 @@
 	<entry name="SpaceMarines/TacticalDoctrineDescription" value="<string name='Actions/TacticalDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/TeleportHomer" value="<string name='Traits/TeleportHomer'/>"/>
-	<entry name="SpaceMarines/TeleportHomerDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня пры разгортваньні Тэрмінатараў побач з Тактычнымі Касьмічнымі Марынамі ці Выведнікамі."/>
+	<entry name="SpaceMarines/TeleportHomerDescription" value="Арбітальнае разгортваньне перастае патрабаваць ачкі дзеяньня падчас разгортваньня Тэрмінатараў побач з Тактычнымі Касьмічнымі Марынамі ці Выведнікамі."/>
 	<entry name="SpaceMarines/TeleportHomerFlavor" value="<string name='Traits/TeleportHomerFlavor'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeak" value="<string name='Traits/TheFleshIsWeak'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeakDescription" value="<string name='Actions/TheFleshIsWeakDescription'/>"/>
@@ -1725,7 +1725,7 @@
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Дае аднаўленьне здароўя машынам кожны крок."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="<string name='Traits/Tau/AutomatedRepairSystemFlavor'/>"/>
 	<entry name="Tau/BlacksunFilter" value="<string name='Traits/Tau/BlacksunFilter'/>"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае агляд машынам, Сьледапытам, Этэрным, Камандорам і Баявых Гарнітурам."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае агляд машынам, Сьледапытам, Этэрным, Камандорам і Баявым Гарнітурам."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="<string name='Traits/Tau/BlacksunFilterFlavor'/>"/>
 	<entry name="Tau/BlastDamage" value="<string name='Traits/Tau/BlastDamage'/>"/>
 	<entry name="Tau/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць агнявой і ракетнай зброі."/>
@@ -1734,7 +1734,7 @@
 	<entry name="Tau/BoltDamageDescription" value="Павялічвае бронепрабівальнасьць разрыўной і рэйкавай зброі."/>
 	<entry name="Tau/BoltDamageFlavor" value="<string name='Traits/Tau/BoltDamageFlavor'/>"/>
 	<entry name="Tau/BondingKnifeRitual" value="<string name='Actions/Tau/BondingKnifeRitual'/>"/>
-	<entry name="Tau/BondingKnifeRitualDescription" value="Дае Ваярам Агню, Сьледапытам, Баявым Гарнітурам · XV25 Нябачнік, Баявым Гарнітурам · XV8 Крызіс, Баявым Гарнітурам · XV88 Залп, Баявым Гарнітурам · XV95 Прывідны Карабель і Баявым Гарнітурам · XV104 Рэжучы Струмень здольнасьць аднаўляць сваю мараль."/>
+	<entry name="Tau/BondingKnifeRitualDescription" value="Дае Ваярам Агню, Сьледапытам, баявым гарнітурам: XV25 Нябачнік, XV8 Крызіс, XV88 Залп, XV95 Прывідны Карабель і XV104 Рэжучы Струмень здольнасьць аднаўляць сваю мараль."/>
 	<entry name="Tau/BondingKnifeRitualFlavor" value="<string name='Actions/Tau/BondingKnifeRitualFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="<string name='Traits/Tau/CityTier2'/>"/>
 	<entry name="Tau/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
@@ -1752,7 +1752,7 @@
 	<entry name="Tau/DroneControllerDescription" value="Сістэма падтрымкі баявога гарнітура павялічвае трапнасьць суседніх дронаў."/>
 	<entry name="Tau/DroneControllerFlavor" value="<string name='Traits/Tau/DroneControllerFlavor'/>"/>
 	<entry name="Tau/EMPGrenade" value="<string name='Weapons/EMPGrenade'/>"/>
-	<entry name="Tau/EMPGrenadeDescription" value="Дае Ваярам Агню і Сьледапытам здольнасьць кідаць супрацьтранспартныя гранаты."/>
+	<entry name="Tau/EMPGrenadeDescription" value="Дае Ваярам Агню і Сьледапытам здольнасьць кідаць супрацьмашынныя гранаты."/>
 	<entry name="Tau/EMPGrenadeFlavor" value="<string name='Weapons/EMPGrenadeFlavor'/>"/>
 	<entry name="Tau/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Tau/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты і жахлівых стварэньняў."/>
@@ -1764,19 +1764,19 @@
 	<entry name="Tau/FlechetteDischargerDescription" value="Дае тэхніцы здольнасьць наносіць шкоду атакоўцам блізкага бою."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
 	<entry name="Tau/ForTheGreaterGoodBonus" value="Амбасаспоры Чарпактін"/>
-	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Зьменшвае кошт уплыву Ў Імя Найвышэйшага Дабрабыту."/>
+	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Зьмяншае кошт уплыву на Ў Імя Найвышэйшага Дабрабыту."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tau/HammerOfWrathDescription" value="Дае Баявым Гарнітурам · XV95 Прывідны Карабель, Баявым Гарнітурам · XV104 Рэжучы Струмень, KV128 · Штармавая Хваля здольнасьць зьдяйсьняць больш разбуральныя атакі."/>
+	<entry name="Tau/HammerOfWrathDescription" value="Дае баявым гарнітурам XV95 Прывідны Карабель, XV104 Рэжучы Струмень, KV128 Штармавая Хваля здольнасьць зьдяйсьняць больш разбуральныя атакі."/>
 	<entry name="Tau/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tau/LasDamage" value="<string name='Traits/Tau/LasDamage'/>"/>
-	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасьць фузійнай, іённай, плазмавай і імпульснай зброі."/>
+	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасьць фузіённай, іённай, плазмавай і імпульснай зброі."/>
 	<entry name="Tau/LasDamageFlavor" value="<string name='Traits/Tau/LasDamageFlavor'/>"/>
 	<entry name="Tau/PhotonGrenade" value="<string name='Weapons/PhotonGrenade'/>"/>
 	<entry name="Tau/PhotonGrenadeDescription" value="Дае Ваярам Агню, Сьледапытам і Кадру · Агнявы Клінок здольнасьць кідаць асьляпляльныя гранаты."/>
 	<entry name="Tau/PhotonGrenadeFlavor" value="<string name='Weapons/PhotonGrenadeFlavor'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelay" value="<string name='Traits/Tau/PointDefenceTargetingRelay'/>"/>
-	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду машынаў падчас назіраньня за варожымі адзінкамі, калі яны суседнія зь іншымі сяброўскімі адзінкам."/>
+	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Павялічвае шкоду машынаў падчас назіраньня за варожымі адзінкамі, калі яны суседнічаюць зь іншымі сяброўскімі адзінкам."/>
 	<entry name="Tau/PointDefenceTargetingRelayFlavor" value="<string name='Traits/Tau/PointDefenceTargetingRelayFlavor'/>"/>
 	<entry name="Tau/PurchaseEnergy" value="<string name='Actions/Tau/PurchaseEnergy'/>"/>
 	<entry name="Tau/PurchaseEnergyDescription" value="Дае магчымасьць набываць энергію за ўплыў."/>
@@ -1794,7 +1794,7 @@
 	<entry name="Tau/PurchaseResearchDescription" value="Дае магчымасьць набываць дасьледаваньні за ўплыў."/>
 	<entry name="Tau/PurchaseResearchFlavor" value="<string name='Actions/Tau/PurchaseResearchFlavor'/>"/>
 	<entry name="Tau/RipykaVa" value="<string name='Traits/Tau/RipykaVa'/>"/>
-	<entry name="Tau/RipykaVaDescription" value="Зьменшвае час перазарадкі метастратэгій Камандора."/>
+	<entry name="Tau/RipykaVaDescription" value="Зьмяншае час перазарадкі метастратэгіяў Камандора."/>
 	<entry name="Tau/RipykaVaFlavor" value="<string name='Traits/Tau/RipykaVaFlavor'/>"/>
 	<entry name="Tau/SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
 	<entry name="Tau/SeekerMissileDescription" value="Дае тэхніцы і Баявым Гарнітурам · XV88 Залп ракетную зброю. "/>
@@ -1803,10 +1803,10 @@
 	<entry name="Tau/SensorSpinesDescription" value="Дае тэхніцы магчымасьць руху праз хованкі."/>
 	<entry name="Tau/SensorSpinesFlavor" value="Sensor spines are used to feed data to an advanced ground-following flight control system, plotting safe courses through treacherous terrain that avoid traps and mines that might lie hidden from sight."/>
 	<entry name="Tau/ShieldGenerator" value="<string name='Traits/Tau/ShieldGenerator'/>"/>
-	<entry name="Tau/ShieldGeneratorDescription" value="Сістэма падтрымкі баявога гарнітура зьніжае шкоду ад непаражальнасьці."/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Сістэма падтрымкі баявога гарнітура, якая зьніжае шкоду ад непаражальнасьці."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StimulantInjector" value="<string name='Traits/Tau/StimulantInjector'/>"/>
-	<entry name="Tau/StimulantInjectorDescription" value="Сістэма падтрымкі баявога гарнітура паляпшае пачуцьцё бязбольнага зьмяншэньня шкоды."/>
+	<entry name="Tau/StimulantInjectorDescription" value="Сістэма падтрымкі баявога гарнітура, якая паляпшае пачуцьцё бязбольнага зьмяншэньня шкоды."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/SubversionBonus" value="Дасьледаваньне Паўстаньняў"/>
 	<entry name="Tau/SubversionBonusDescription" value="Павялічвае штраф лаяльнасьці за Зьвяржэньні ў Гарадах."/>
@@ -1824,10 +1824,10 @@
 	<entry name="Tau/VelocityTrackerDescription" value="Сістэма падтрымкі баявога гарнітура павялічвае трапнасьць стральбы па авіацыі."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="<string name='Traits/Tau/VelocityTrackerFlavor'/>"/>
 	<entry name="Tyranids/AcidBlood" value="Кіслотная Кроў"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Дае жахлівым стварэньням Тыранідаў і Гонару Тыранідаў асаблівасьць пашкоджваньня ўсіх атакоўцаў блізкага бою."/>
+	<entry name="Tyranids/AcidBloodDescription" value="Дае жахлівым стварэньням Тыранідаў і Гонару Тыранідаў асаблівасьць пашкоджваць усіх атакоўцаў блізкага бою."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="<string name='Traits/Tyranids/AcidBloodFlavor'/>"/>
 	<entry name="Tyranids/AdrenalGlands" value="Адрэналінавыя Гланды"/>
-	<entry name="Tyranids/AdrenalGlandsDescription" value="Дае адзінкам павялічаны рух і шкоду ў блізкім бою."/>
+	<entry name="Tyranids/AdrenalGlandsDescription" value="Дае адзінкам павялічаны рух і шкоду ў блізкім боі."/>
 	<entry name="Tyranids/AdrenalGlandsFlavor" value="Adrenal glands saturate their host's bodies with chemicals that boost the creature's metabolism to a hyperactive state of frenzy."/>
 	<entry name="Tyranids/BiomorphDamage" value="<string name='Traits/Tyranids/BiomorphDamage'/>"/>
 	<entry name="Tyranids/BiomorphDamageDescription" value="Павялічвае бронепрабівальнасьць біяморфаў."/>
@@ -1878,7 +1878,7 @@
 	<entry name="Tyranids/FleshHooksDescription" value="Дае Ваярам Тыранідаў, Гонару Тыранідаў і Ліктарам дадатковую зброю далёкага бою."/>
 	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
 	<entry name="Tyranids/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tyranids/HammerOfWrathDescription" value="Дае Экзакрынам, Гаргульлям, Гаруспэксам, Каргам Вульля, Тыранам Вульля, Касаносным Ерадулам, Тэрвігонам, Трыгонам, Тыранацытам і Тыранафэксам магчымасьць зьдзяйсьняць больш разбуральныя атакі."/>
+	<entry name="Tyranids/HammerOfWrathDescription" value="Дае Экзакрынам, Гаргульлям, Гаруспэксам, Каргам Вульля, Тыранам Вульля, Касаносным Ерадулам, Тэрвігонам, Трыгонам, Тыранацытам і Тыранафэксам здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="Tyranids/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="<string name='Traits/Tyranids/InfantryUpkeep'/>"/>
 	<entry name="Tyranids/InfantryUpkeepDescription" value="Зьменшвае выдаткі біямасы на ўтрыманьне пяхоты."/>
@@ -1896,16 +1896,16 @@
 	<entry name="Tyranids/ParoxysmDescription" value="Дае Заантропам здольнасьць праклінаць варожыя адзінкі, зьніжаць іх трапнасьць."/>
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
 	<entry name="Tyranids/PreyAdaptation2" value="Малантропныя Густарфлагелі"/>
-	<entry name="Tyranids/PreyAdaptation2Description" value="Павялічвае прыбытак дасьледваньняў ад сьмерці ворагаў у абсягі дзеяньня Малантропа."/>
+	<entry name="Tyranids/PreyAdaptation2Description" value="Павялічвае прыбытак дасьледваньняў ад сьмерці ворагаў у радыусе дзеяньня Малантропа."/>
 	<entry name="Tyranids/PreyAdaptation2Flavor" value="An unusual adaptation of the Malanthropic form, gustarflagelli are filament thin tendrils that surround a malanthrope like a fleshy, wriggling cloud. It's presumed that they enable the Malanthrope to gather and retain more genetic data from recently-deceased enemies."/>
 	<entry name="Tyranids/ProductionBuildingUpkeep" value="<string name='Traits/Tyranids/ProductionBuildingUpkeep'/>"/>
 	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Зьніжае выдаткі ўплыву на ўтрыманьне вытворчых будынкаў."/>
 	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="<string name='Traits/Tyranids/ProductionBuildingUpkeepFlavor'/>"/>
 	<entry name="Tyranids/Reclamation2" value="<string name='Traits/Tyranids/Reclamation2'/>"/>
-	<entry name="Tyranids/Reclamation2Description" value="Зьніжае кошт уплыву на спажываньне земляў."/>
+	<entry name="Tyranids/Reclamation2Description" value="Зьніжае кошт уплыву на спажываньне плітак."/>
 	<entry name="Tyranids/Reclamation2Flavor" value="<string name='Traits/Tyranids/Reclamation2Flavor'/>"/>
 	<entry name="Tyranids/Reclamation3" value="<string name='Traits/Tyranids/Reclamation3'/>"/>
-	<entry name="Tyranids/Reclamation3Description" value="Прыбірае час перазарадкі на спажываньне земляў."/>
+	<entry name="Tyranids/Reclamation3Description" value="Прыбірае час перазарадкі на спажываньне плітак."/>
 	<entry name="Tyranids/Reclamation3Flavor" value="<string name='Traits/Tyranids/Reclamation3Flavor'/>"/>
 	<entry name="Tyranids/Regeneration" value="Рэгенерацыя"/>
 	<entry name="Tyranids/RegenerationDescription" value="Дае жахлівым стварэньням Тыранідаў і Гонару Тыранідаў аднаўленьне здароўя за кожны крок."/>
@@ -1932,7 +1932,7 @@
 	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе Вывадакаў Вульля."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="<string name='Traits/Tyranids/Tunnel2Flavor'/>"/>
 	<entry name="Tyranids/VehiclesUpkeep" value="<string name='Traits/Tyranids/VehiclesUpkeep'/>"/>
-	<entry name="Tyranids/VehiclesUpkeepDescription" value="Зьніжае выдаткі біямасы на ўтрыманьне жудасных стварэньнях."/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Зьніжае выдаткі біямасы на ўтрыманьне жахлівых стварэньнях."/>
 	<entry name="Tyranids/VehiclesUpkeepFlavor" value="<string name='Traits/Tyranids/VehiclesUpkeepFlavor'/>"/>
 	
 	<entry name="Missing" value="Адсутнічае"/>

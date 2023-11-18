@@ -709,7 +709,7 @@
 	<entry name="Tau/EtherealDescription" value="<string name='Units/Tau/EtherealDescription'/>"/>
 	<entry name="Tau/EtherealFlavor" value="<string name='Units/Tau/EtherealFlavor'/>"/>
 	<entry name="Tau/GunDrone" value="<string name='Units/Tau/GunDrone'/>"/>
-	<entry name="Tau/GunDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram · XV8 Kryzis, Bajavym Harnituram · XV25 Niabačnik, Bajavym Harnituram · XV88 Załp, Kadru · Ahniavy Klinok, Eternym dy Kamandoram zdolnaść vykarystoŭvać nia stałych asnoŭnych bajavych dronaŭ."/>
+	<entry name="Tau/GunDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram · XV8 Kryzis, Bajavym Harnituram · XV25 Niabačnik, Bajavym Harnituram · XV88 Załp, Kadru · Ahniavy Klinok, Eternym dy Kamandoram zdolnaść razhortvać časovych asnoŭnych bajavych dronaŭ."/>
 	<entry name="Tau/GunDroneFlavor" value="<string name='Units/Tau/GunDroneFlavor'/>"/>
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
@@ -718,7 +718,7 @@
 	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
 	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
 	<entry name="Tau/MarkerDrone" value="<string name='Units/Tau/MarkerDrone'/>"/>
-	<entry name="Tau/MarkerDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram · XV8 Kryzis, Bajavym Harnituram · XV25 Niabačnik, Bajavym Harnituram · XV88 Załp, Kadru · Ahniavy Klinok, Eternym dy Kamandoram zdolnaść vykarystoŭvać nia stałych dronaŭ, jakija paznačajuć vorahaŭ, pavialičvajučy škodu pa ich."/>
+	<entry name="Tau/MarkerDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram · XV8 Kryzis, Bajavym Harnituram · XV25 Niabačnik, Bajavym Harnituram · XV88 Załp, Kadru · Ahniavy Klinok, Eternym dy Kamandoram zdolnaść razhortvać časovych dronaŭ, jakija paznačajuć vorahaŭ, pavialičvajučy škodu pa ich."/>
 	<entry name="Tau/MarkerDroneFlavor" value="<string name='Units/Tau/MarkerDroneFlavor'/>"/>
 	<entry name="Tau/Pathfinder" value="<string name='Units/Tau/Pathfinder'/>"/>
 	<entry name="Tau/PathfinderDescription" value="<string name='Units/Tau/PathfinderDescription'/>"/>
@@ -730,7 +730,7 @@
 	<entry name="Tau/RVarnaBattlesuitDescription" value="<string name='Units/Tau/RVarnaBattlesuitDescription'/>"/>
 	<entry name="Tau/RVarnaBattlesuitFlavor" value="<string name='Units/Tau/RVarnaBattlesuitFlavor'/>"/>
 	<entry name="Tau/ShieldDrone" value="<string name='Units/Tau/ShieldDrone'/>"/>
-	<entry name="Tau/ShieldDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram · XV8 Kryzis, Bajavym Harnituram · XV25 Niabačnik, Bajavym Harnituram · XV88 Załp, Kadru · Ahniavy Klinok, Eternym dy Kamandoram zdolnaść vykarystoŭvać nia stałyja drony, jakija baroniać chaŭruśnikaŭ."/>
+	<entry name="Tau/ShieldDroneDescription" value="Daje Vajaram Ahniu, Bajavym Harnituram · XV8 Kryzis, Bajavym Harnituram · XV25 Niabačnik, Bajavym Harnituram · XV88 Załp, Kadru · Ahniavy Klinok, Eternym dy Kamandoram zdolnaść razhortvać časovych drony, jakija baroniać chaŭruśnikaŭ."/>
 	<entry name="Tau/ShieldDroneFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
 	<entry name="Tau/SkyRayGunship" value="<string name='Units/Tau/SkyRayGunship'/>"/>
 	<entry name="Tau/SkyRayGunshipDescription" value="<string name='Units/Tau/SkyRayGunshipDescription'/>"/>
@@ -745,7 +745,7 @@
 	<entry name="Tau/SunSharkBomberDescription" value="<string name='Units/Tau/SunSharkBomberDescription'/>"/>
 	<entry name="Tau/SunSharkBomberFlavor" value="<string name='Units/Tau/SunSharkBomberFlavor'/>"/>
 	<entry name="Tau/TidewallGunrig" value="<string name='Units/Tau/TidewallGunrig'/>"/>
-	<entry name="Tau/TidewallGunrigDescription" value="Daje Budaŭničym Dronam zdolnaść budavać ciažka ŭzbrojenyja fartyfikacyi, jakija mohuć pierasoŭvać transpartavyja vojski."/>
+	<entry name="Tau/TidewallGunrigDescription" value="Daje Budaŭničym Dronam zdolnaść budavać ciažka ŭzbrojenyja fartyfikacyi, jakija lha pierasoŭvać z dapamohaj transpartnych adzinak."/>
 	<entry name="Tau/TidewallGunrigFlavor" value="<string name='Units/Tau/TidewallGunrigFlavor'/>"/>
 	<entry name="Tau/TigerShark" value="<string name='Units/Tau/TigerShark'/>"/>
 	<entry name="Tau/TigerSharkDescription" value="<string name='Units/Tau/TigerSharkDescription'/>"/>
@@ -804,7 +804,7 @@
 
 	<!-- Other -->
 	<entry name="SmokeLauncher" value="Dymavaja Puskavaja Ŭstaloŭka"/>
-	<entry name="SmokeLauncherDescription" value="Daje naziemnym mašynam mahčymaść zapuskać dymavuju zasłonu, jakaja źnižaje škodu ad dalokich atak."/>
+	<entry name="SmokeLauncherDescription" value="Daje naziemnym mašynam mahčymaść stvarać dymavuju zasłonu, jakaja źnižaje škodu ad dalokich atak."/>
 	<entry name="SmokeLauncherFlavor" value="Some vehicles have small launchers mounted onto them that carry smoke canisters. These are used to temporarily obscure the vehicle behind billowing clouds of smoke, allowing it to cross open areas in greater safety—although it does so at the cost of being able to fire its own weapons."/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegration" value="<string name='Traits/AdeptusMechanicus/AdjacencyIntegration'/>"/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegrationDescription" value="Pavialičvaje vytvorčaść daśledavańniaŭ budynka za kožny budynak na susiedniaj plitcy."/>
@@ -908,7 +908,7 @@
 	<entry name="AdeptusMechanicus/TerranGeneralism" value="<string name='Traits/AdeptusMechanicus/TerranGeneralism'/>"/>
 	<entry name="AdeptusMechanicus/TerranGeneralismDescription" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismDescription'/>"/>
 	<entry name="AdeptusMechanicus/TerranGeneralismFlavor" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismFlavor'/>"/>
-	<entry name="AdeptusMechanicus/ThermoExchangeEfficiency" value="Efiektyŭnaść Termaabmienu"/>
+	<entry name="AdeptusMechanicus/ThermoExchangeEfficiency" value="Efiektyŭnaść Termapamienu"/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyDescription" value="Pavialičvaje bonus prybytku pavyšeńnia mahutnaści."/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyFlavor" value="Paradoxically, slowing down the inputs to the Thermo-Exchanger and feeding the plasma through a second set of heat couplings and condensers can stretch the length of time it can operate beyond nominal goals—or at least reduce the amount of lives lost and repairs needed."/>
 	<entry name="AdeptusMechanicus/TriplexNecessity" value="<string name='Traits/AdeptusMechanicus/TriplexNecessity'/>"/>
@@ -918,10 +918,10 @@
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonDescription" value="Daje Rycaram · Kryžak zdvojenuju aŭtaharmatu ikarus."/>
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/TwinLinkedIcarusAutocannonFlavor'/>"/>
 	<entry name="AdeptusMechanicus/VoicesInTheCode" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCode'/>"/>
-	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Pavialičvaje straty marali varožych adzinak susiednich da Sikaryjskich Infiltrataraŭ."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Pavialičvaje straty marali varožych adzinak, susiednich da Sikaryjskich Infiltrataraŭ."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptance" value="Pryniaćcie Ksienaryta"/>
-	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Pavialičvaje fiksavanuju kolkaść daśledavańniaŭ, što atrymlivajucca ad Ruinaŭ Vauła."/>
+	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Pavialičvaje fiksavanuju kolkaść daśledavańniaŭ, što zdabyvajucca z Ruinaŭ Vauła."/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="It seems the Xenarite Tech-Priests from Stygies VIII are having their way on Gladius Prime too—setting up observation units and drones at every Outpost to understand the Xenos better. The practical applications in terms of research are immediately obvious…"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Dadatkovyja Ciažkija Bołtary"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Daje dadatkovyja ciažkija bołtary Hibielnym Klinkam, Bajavym Tankam · Leman Russ, Bajavym Tankam · Rohał Dorn i Valkiryjam."/>
@@ -987,7 +987,7 @@
 	<entry name="AstraMilitarum/MediPackDescription" value="Daje Hvardziejcam dy Naščadkam Tempiestus zdolnaść lačyć siabie padčas boju."/>
 	<entry name="AstraMilitarum/MediPackFlavor" value="<string name='Actions/MediPackFlavor'/>"/>
 	<entry name="AstraMilitarum/Misfortune" value="<string name='Actions/Misfortune'/>"/>
-	<entry name="AstraMilitarum/MisfortuneDescription" value="Daje Vurdvanskim Psajkieram zdolnaść praklinać varožyja adzinki, što vyklikaje pavyšeńnie atrymanaj imi škody."/>
+	<entry name="AstraMilitarum/MisfortuneDescription" value="Daje Vurdvanskim Psajkieram zdolnaść praklinać varožyja adzinki, jany pačynajuć atrymlivać bolej škody."/>
 	<entry name="AstraMilitarum/MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
 	<entry name="AstraMilitarum/RecoveryGear" value="<string name='Traits/RecoveryGear'/>"/>
 	<entry name="AstraMilitarum/RecoveryGearDescription" value="Pavialičvaje chutkaść lačeńnia naziemnych mašynaŭ."/>
@@ -996,7 +996,7 @@
 	<entry name="AstraMilitarum/RelicPlatingDescription" value="Źnižaje škodu ad viadźmarskaha ahniu pa naziemnym mašynam."/>
 	<entry name="AstraMilitarum/RelicPlatingFlavor" value="<string name='Traits/RelicPlatingFlavor'/>"/>
 	<entry name="AstraMilitarum/SkystrikeMissile" value="<string name='Weapons/SkystrikeMissile'/>"/>
-	<entry name="AstraMilitarum/SkystrikeMissileDescription" value="Daje ŭdaram hromu supraćpavietranyja rakiety."/>
+	<entry name="AstraMilitarum/SkystrikeMissileDescription" value="Daje Ŭdaram Hromu supraćpavietranyja rakiety."/>
 	<entry name="AstraMilitarum/SkystrikeMissileFlavor" value="<string name='Weapons/SkystrikeMissileFlavor'/>"/>
 	<entry name="AstraMilitarum/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="AstraMilitarum/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
@@ -1005,7 +1005,7 @@
 	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Pavialičvaje škodu Vyviednika · Vartavy."/>
 	<entry name="AstraMilitarum/TrainedSentinelPilotsFlavor" value="<string name='Traits/TrainedSentinelPilotsFlavor'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGenerator" value="<string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
-	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Daje Technažrecam-Mašynabačcam zdolnaść budavać hienieratary ščytoŭ, jakija źnižajuć škodu ad dalokich atak adzinkam u radyusie dziejańnia."/>
+	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Daje Technažrecam-Mašynabačcam zdolnaść budavać Hienieratary Ščytoŭ, jakija źnižajuć škodu ad dalokich atak adzinkam u radyusie dziejańnia."/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorFlavor" value="<string name='Units/AstraMilitarum/VoidShieldGeneratorFlavor'/>"/>
 	<entry name="AstraMilitarum/VoxCaster" value="<string name='Traits/VoxCaster'/>"/>
 	<entry name="AstraMilitarum/VoxCasterDescription" value="Źnižaje straty marali Hvardziejcaŭ i Naščadkaŭ Tempiestus."/>
@@ -1020,7 +1020,7 @@
 	<entry name="ChaosSpaceMarines/BloatedDescription" value="Daje Čempijonam Chaosu šaniec adnavić svaje ački zdaroŭja paśla zabojstva voraha."/>
 	<entry name="ChaosSpaceMarines/BloatedFlavor" value="<string name='Traits/ChaosSpaceMarines/BloatedFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/BoltDamage" value="<string name='Traits/ChaosSpaceMarines/BoltDamage'/>"/>
-	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Pavialičvaje bronieprabivalnaść bałtarnaj zbroi."/>
+	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Pavialičvaje bronieprabivalnaść bołtarnaj zbroi."/>
 	<entry name="ChaosSpaceMarines/BoltDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/BoltDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ChaosRising" value="Uzychod Chaosu"/>
 	<entry name="ChaosSpaceMarines/ChaosRisingDescription" value="Źnižaje košt budavańnia novych haradoŭ."/>
@@ -1050,7 +1050,7 @@
 	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Daje Kaśmičnym Marynam Chaosu, Apustašalnikam i Biersierkam Kchorna adzin vypadkovy adbłakavany Darunak Chaosu."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Daje Demaničnym Pryncam, Apahańnikam, Demanam Kuźni, Vialikim Łatunievym Skarpijonam, Chełbrutam, Demaničnym Katam, Atrutnym Paŭzunam i Kipciuram Varpu zdolnaść vykonvać bolš razburalnyja ataki."/>
+	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Daje Demaničnym Pryncam, Apahańnikam, Demanam Kuźni, Vialikim Łatunievym Skarpijonam, Chelbrutam, Demaničnym Katam, Atrutnym Paŭzunam i Kipciuram Varpu zdolnaść vykonvać bolš razburalnyja ataki."/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncher" value="<string name='Weapons/HavocLauncher'/>"/>
 	<entry name="ChaosSpaceMarines/HavocLauncherDescription" value="Daje Nasaroham Chaosu i Ziamnym Rejdaram Chaosu vybuchovuju zbroju siaredniaj dalokaści."/>
@@ -1089,7 +1089,7 @@
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentchDescription'/>"/>
 	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="<string name='Actions/ChaosSpaceMarines/MarkOfTzeentchFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Mechanoid" value="<string name='Traits/ChaosSpaceMarines/Mechanoid'/>"/>
-	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Daje čempijonam chaosu šaniec na atrymańnie stałaha pavyšeńnia brani pry zabojstvie voraha (darunak chaosu)."/>
+	<entry name="ChaosSpaceMarines/MechanoidDescription" value="Daje čempijonam chaosu šaniec na atrymańnie stałaha pavyšeńnia brani paśla zabojstva voraha (Darunak Chaosu)."/>
 	<entry name="ChaosSpaceMarines/MechanoidFlavor" value="<string name='Traits/ChaosSpaceMarines/MechanoidFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeleeDamage" value="<string name='Traits/ChaosSpaceMarines/MeleeDamage'/>"/>
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
@@ -1147,7 +1147,7 @@
 	<entry name="Eldar/CityTier3Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Eldar/CityTier3Flavor" value="<string name='Traits/Eldar/CityTier3Flavor'/>"/>
 	<entry name="Eldar/CleansingFlame" value="<string name='Actions/CleansingFlame'/>"/>
-	<entry name="Eldar/CleansingFlameDescription" value="Daje Viedźmakam zdolnaść padryvać susiednich vorahaŭ z dapamohaj raspalenaha da bieła psichičnaha połymia."/>
+	<entry name="Eldar/CleansingFlameDescription" value="Daje Viedźmakam zdolnaść padryvać susiednich vorahaŭ z dapamohaj raspalenaha da biała psichičnaha połymia."/>
 	<entry name="Eldar/CleansingFlameFlavor" value="<string name='Actions/CleansingFlameFlavor'/>"/>
 	<entry name="Eldar/ConstructionBuildingBonus" value="<string name='Traits/Eldar/ConstructionBuildingBonus'/>"/>
 	<entry name="Eldar/ConstructionBuildingBonusDescription" value="Pavialičvaje ab'jom vytvorčaści Kaplic Śpievakoŭ Kości."/>
@@ -1162,13 +1162,13 @@
 	<entry name="Eldar/DominateDescription" value="Daje Pryvidnym Źniščalnikam Tsuha zdolnaść ahłušać varožyja adzinki, jakija nia z'jaŭlajucca mašynami abo fartyfikacyjami."/>
 	<entry name="Eldar/DominateFlavor" value="<string name='Actions/DominateFlavor'/>"/>
 	<entry name="Eldar/ExpertHunter" value="<string name='Traits/Eldar/ExpertHunter'/>"/>
-	<entry name="Eldar/ExpertHunterDescription" value="Pavialičvaje škodu ad Bliskučych Dzidaŭ suprać žachlivych stvareńniaŭ, mašynaŭ i fartyfikacyj."/>
+	<entry name="Eldar/ExpertHunterDescription" value="Pavialičvaje škodu ad Bliskučych Dzidaŭ suprać žachlivych stvareńniaŭ, mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="Eldar/ExpertHunterFlavor" value="<string name='Traits/Eldar/ExpertHunterFlavor'/>"/>
-	<entry name="Eldar/ExtraInfantryArmour" value="Łabiryntnaja Siecistaja Brania"/>
+	<entry name="Eldar/ExtraInfantryArmour" value="Łabiryntavaja Siecistaja Brania"/>
 	<entry name="Eldar/ExtraInfantryArmourDescription" value="Pavialičvaje braniu piachoty."/>
 	<entry name="Eldar/ExtraInfantryArmourFlavor" value="The Aeldaris thermoplas mesh armour isnt designed with a focus solely on defense—it also enables the user to move as freely as if it werent there. However, by further involuting its complex dissipation protocols, it is possible to increase its resilience with no loss of mobility."/>
 	<entry name="Eldar/ExtraVehicleArmour" value="Damiešak Pryvidnaj Kostki"/>
-	<entry name="Eldar/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynam."/>
+	<entry name="Eldar/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynaŭ."/>
 	<entry name="Eldar/ExtraVehicleArmourFlavor" value="All Aeldari vehicles and structures are literally ‘sung into existence, by Bonesingers whose command of their vocal and psychic range is the constructive counterpart of the Howling Banshees war cry. Yet, with Gladius Primes resources and alteration in their internal harmonies, the Bonesingers can weave greater power into their creations, further increasing their resilience."/>
 	<entry name="Eldar/FoodBuildingBonus" value="<string name='Traits/Eldar/FoodBuildingBonus'/>"/>
 	<entry name="Eldar/FoodBuildingBonusDescription" value="Pavialičvaje vytvorčaść ježy ŭ Sadach Išy."/>
@@ -1325,7 +1325,7 @@
 	<entry name="Necrons/NecrodermisRepair3Description" value="Prybiraje čas pierazaradki Ramontu Niekradermisa."/>
 	<entry name="Necrons/NecrodermisRepair3Flavor" value="The living metal that constitutes the Necron bodies and vehicles now constantly writhes, rebuilding itself from moment to moment."/>
 	<entry name="Necrons/OreBuildingBonus" value="<string name='Traits/Necrons/OreBuildingBonus'/>"/>
-	<entry name="Necrons/OreBuildingBonusDescription" value="Pavialičvaje zdabyču rudy na Kar'jerach Al-Chiemik."/>
+	<entry name="Necrons/OreBuildingBonusDescription" value="Pavialičvaje zdabyču rudy na Kar'jerach Al-Chemik."/>
 	<entry name="Necrons/OreBuildingBonusFlavor" value="<string name='Traits/Necrons/OreBuildingBonusFlavor'/>"/>
 	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
 	<entry name="Necrons/QuantumShieldingDescription" value="Daje Baržam Anihilacyi, Pryvidnym Kaŭčeham, Kaŭčeham Sudnaha Dnia i Tryjarcham-Palaŭničym nieparažalnaje źnižeńnie škody, jakoje pierazaradžvajecca napačatku nastupnaha kroku paśla atrymańnia škody."/>
@@ -1343,7 +1343,7 @@
 	<entry name="Necrons/ScarabHiveDescription" value="Daje Kanaptekavym Pavukam zdolnaść stvarać Kanaptekavych Skarabiejaŭ."/>
 	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Actions/Necrons/ScarabHiveFlavor'/>"/>
 	<entry name="Necrons/SeismicAssault" value="Siejśmičnaja Ataka"/>
-	<entry name="Necrons/SeismicAssaultDescription" value="Daje Transcendentalnym K'tan i Teseraktavym Schoviščam zdolnaść nanosić źniščalny ŭdar."/>
+	<entry name="Necrons/SeismicAssaultDescription" value="Daje Transcendentalnym K'tanam i Teseraktavym Schoviščam zdolnaść nanosić źniščalny ŭdar."/>
 	<entry name="Necrons/SeismicAssaultFlavor" value="<string name='Weapons/SeismicAssaultTranscendentFlavor'/>"/>
 	<entry name="Necrons/ShieldVane" value="<string name='Traits/Necrons/ShieldVane'/>"/>
 	<entry name="Necrons/ShieldVaneDescription" value="Pavialičvaje braniu Lozam Hrabnicy."/>
@@ -1352,7 +1352,7 @@
 	<entry name="Necrons/TeslaDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi Tesła."/>
 	<entry name="Necrons/TeslaDamageFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
 	<entry name="Necrons/TheBoundCoalescent" value="<string name='Actions/Necrons/TheBoundCoalescent'/>"/>
-	<entry name="Necrons/TheBoundCoalescentDescription" value="Daje Transcendentalnym K'tan zdolnaść jadnacca z Abieliskami dla stvareńnia Teseraktavych Schoviščaŭ."/>
+	<entry name="Necrons/TheBoundCoalescentDescription" value="Daje Transcendentalnym K'tanam zdolnaść jadnacca z Abieliskami dziela stvareńnia Teseraktavych Schoviščaŭ."/>
 	<entry name="Necrons/TheBoundCoalescentFlavor" value="<string name='Actions/Necrons/TheBoundCoalescentFlavor'/>"/>
 	<entry name="Necrons/VehiclesBuildingBonus" value="<string name='Traits/Necrons/VehiclesBuildingBonus'/>"/>
 	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Pavialičvaje vytvorčaść Hipastalnych Chramaŭ."/>
@@ -1388,7 +1388,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="<string name='Traits/Orks/BonusVehiclesProductionDescription'/>"/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
 	<entry name="Orks/Bosspole" value="Šost Bosa"/>
-	<entry name="Orks/BosspoleDescription" value="Jašče bolej źnižaje straty marali ad Praviła Mobaŭ dla Bujnych Miekaŭ, Chłopcaŭ, Miehanobaŭ, Tankabojaŭ, Vojnacyklaŭ i Vajnabosaŭ."/>
+	<entry name="Orks/BosspoleDescription" value="Jašče bolš źnižaje straty marali ad Praviła Mobaŭ dla Bujnych Miekaŭ, Chłopcaŭ, Miehanobaŭ, Tankabojaŭ, Vojnacyklaŭ i Vajnabosaŭ."/>
 	<entry name="Orks/BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
 	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
 	<entry name="Orks/CityEnergyDescription" value="Pavialičvaje vytvorčaść enierhii ŭ haradach Orkaŭ."/>
@@ -1400,13 +1400,13 @@
 	<entry name="Orks/CityInfluenceDescription" value="Pavialičvaje vytvorčaść upłyvu haradoŭ Orkaŭ."/>
 	<entry name="Orks/CityInfluenceFlavor" value="<string name='Traits/Orks/CityInfluenceFlavor'/>"/>
 	<entry name="Orks/CityLoyalty" value="<string name='Traits/Orks/CityLoyalty'/>"/>
-	<entry name="Orks/CityLoyaltyDescription" value="Pavialičvaje vytvorčaść łajalnaści haradoŭ Orkaŭ."/>
+	<entry name="Orks/CityLoyaltyDescription" value="Pavialičvaje vytvorčaść łajalnaści ŭ haradach Orkaŭ."/>
 	<entry name="Orks/CityLoyaltyFlavor" value="<string name='Traits/Orks/CityLoyaltyFlavor'/>"/>
 	<entry name="Orks/CityPopulationLimit" value="<string name='Traits/Orks/CityPopulationLimit'/>"/>
-	<entry name="Orks/CityPopulationLimitDescription" value="Pavialičvaje limit nasielnictva haradoŭ Orkaŭ."/>
+	<entry name="Orks/CityPopulationLimitDescription" value="Pavialičvaje limit nasielnictva ŭ haradach Orkaŭ."/>
 	<entry name="Orks/CityPopulationLimitFlavor" value="<string name='Traits/Orks/CityPopulationLimitFlavor'/>"/>
 	<entry name="Orks/CityResearch" value="<string name='Traits/Orks/CityResearch'/>"/>
-	<entry name="Orks/CityResearchDescription" value="Pavialičvaje vytvorčaść daśledvańniaŭ haradoŭ Orkaŭ."/>
+	<entry name="Orks/CityResearchDescription" value="Pavialičvaje vytvorčaść daśledvańniaŭ u haradach Orkaŭ."/>
 	<entry name="Orks/CityResearchFlavor" value="<string name='Traits/Orks/CityResearchFlavor'/>"/>
 	<entry name="Orks/CityTier2" value="<string name='Traits/Orks/CityTier2'/>"/>
 	<entry name="Orks/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
@@ -1417,8 +1417,8 @@
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeath" value="Stałaja Dekampazicyja"/>
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeathDescription" value="Stvaraje stałyja orkoidnyja hryby paśla śmierci adzinak."/>
 	<entry name="Orks/CreatePermanentOrkoidFungusOnDeathFlavor" value="<string name='Traits/Orks/CreateOrkoidFungusOnDeathFlavor'/>"/>
-	<entry name="Orks/DakkajetSupaShoota" value="Supier Štralała Dakka-Źniščały"/>
-	<entry name="Orks/DakkajetSupaShootaDescription" value="Daje Dakka-Źniščałam supier štralału."/>
+	<entry name="Orks/DakkajetSupaShoota" value="Šupier Štralała Dakka-Źniščały"/>
+	<entry name="Orks/DakkajetSupaShootaDescription" value="Daje Dakka-Źniščałam šupier štralału."/>
 	<entry name="Orks/DakkajetSupaShootaFlavor" value="<string name='Weapons/TwinLinkedSupaShootaFlavor'/>"/>
 	<entry name="Orks/EavyArmour" value="<string name='Traits/EavyArmour'/>"/>
 	<entry name="Orks/EavyArmourDescription" value="Pavialičvaje braniu Chłopcam i Vajnabosam."/>
@@ -1448,7 +1448,7 @@
 	<entry name="Orks/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
 	<entry name="Orks/MeleeDamageFlavor" value="<string name='Traits/Orks/MeleeDamageFlavor'/>"/>
 	<entry name="Orks/MightMakesRight2" value="Strach Da Orkaŭ!"/>
-	<entry name="Orks/MightMakesRight2Description" value="Pavialičvaje ŭpłyŭ, jaki dajuć adzinki, nanosiačy škodu."/>
+	<entry name="Orks/MightMakesRight2Description" value="Pavialičvaje ŭpłyŭ, jakija atrymlivajecca ad naniasieńnia škody adzinkami."/>
 	<entry name="Orks/MightMakesRight2Flavor" value="When a Waaagh! is powerful enough, it has something like a multiplying effect, with every blow struck further enhancing the leaking psychic field, in a sort of ultra-violent Orky feedback loop."/>
 	<entry name="Orks/OrkoidFungusBonusHealingRate" value="<string name='Traits/OrkoidFungusBonusHealingRate'/>"/>
 	<entry name="Orks/OrkoidFungusBonusHealingRateDescription" value="Pavialičvaje lačeńnie ad arkoidnaha hryba."/>
@@ -1460,7 +1460,7 @@
 	<entry name="Orks/RedPaintJobDescription" value="Pavialičvaje škodu Vajavych Bahhi, Miehatrukavych Šmiećcielotaŭ, Vajavych Furaŭ, Dakka-Źniščałaŭ i Paliłaŭ-Bambiłaŭ."/>
 	<entry name="Orks/RedPaintJobFlavor" value="<string name='Traits/RedPaintJobFlavor'/>"/>
 	<entry name="Orks/Scavenger2" value="Hroty-Šmieciary"/>
-	<entry name="Orks/Scavenger2Description" value="Pavialičvaje kolkaść zdabytaj rudy pry zabojstvie varožych adzinak."/>
+	<entry name="Orks/Scavenger2Description" value="Pavialičvaje kolkaść zdabytaj rudy paśla zabojstvie varožych adzinak."/>
 	<entry name="Orks/Scavenger2Flavor" value="A well organised Runtherd will have trained his Grots to gather and sort scrap for the Orks, as well as avoiding the more dangerous shell casings and munitions."/>
 	<entry name="Orks/SkorchaMissile" value="<string name='Weapons/SkorchaMissile'/>"/>
 	<entry name="Orks/SkorchaMissileDescription" value="Daje Paliłam-Bambiłam supraćpiachotnyja rakiety, što ihnarujuć chovanki."/>
@@ -1478,7 +1478,7 @@
 	<entry name="SistersOfBattle/AdditionalSacredRiteDescription" value="Dva Śviaščennych Abrady mohuć być aktyŭny adnačasova."/>
 	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/AircraftsMissiles" value="Aviacyjnyja Rakiety"/>
-	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Daje Rakiety Niabiesny Ŭdar Małankavym Źniščalnikam i Rakiety Piakielny Ŭdar Udarnym Źniščalnikam · Pomśnik."/>
+	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Daje rakiety niabiesny ŭdar Małankavym Źniščalnikam i rakiety piakielny ŭdar Udarnym Źniščalnikam · Pomśnik."/>
 	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="These missiles allow the aircrafts to effectively engage a variety of targets; Hellstrike missiles for missions targeting armoured vehicles, Skystrike missiles for enemy air forces."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagus'/>"/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Palapšaje braniu Umiarćvicielaŭ."/>
@@ -1499,10 +1499,10 @@
 	<entry name="SistersOfBattle/CityGrowthDescription" value="Pavialičvaje chutkaść uzrostu nasielnictva haradoŭ."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="<string name='Traits/SistersOfBattle/CityGrowthFlavor'/>"/>
 	<entry name="SistersOfBattle/CityTier2" value="<string name='Traits/SistersOfBattle/CityTier2'/>"/>
-	<entry name="SistersOfBattle/CityTier2Description" value="Pavialičvaje radyus zabudovy hałoŭnaha haradoŭ."/>
+	<entry name="SistersOfBattle/CityTier2Description" value="Pavialičvaje radyus zabudovy hałoŭnaha harada."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="<string name='Traits/SistersOfBattle/CityTier2Flavor'/>"/>
 	<entry name="SistersOfBattle/CityTier3" value="<string name='Traits/SistersOfBattle/CityTier3'/>"/>
-	<entry name="SistersOfBattle/CityTier3Description" value="Pavialičvaje radyus zabudovy hałoŭnaha haradoŭ."/>
+	<entry name="SistersOfBattle/CityTier3Description" value="Pavialičvaje radyus zabudovy hałoŭnaha harada."/>
 	<entry name="SistersOfBattle/CityTier3Flavor" value="<string name='Traits/SistersOfBattle/CityTier3Flavor'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaith" value="<string name='Actions/SistersOfBattle/ConvictionOfFaith'/>"/>
 	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="<string name='Actions/SistersOfBattle/ConvictionOfFaithDescription'/>"/>
@@ -1513,7 +1513,7 @@
 	<entry name="SistersOfBattle/EternalCrusade" value="<string name='Actions/SistersOfBattle/EternalCrusade'/>"/>
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="<string name='Actions/SistersOfBattle/EternalCrusadeDescription'/>"/>
 	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="<string name='Actions/SistersOfBattle/EternalCrusadeFlavor'/>"/>
-	<entry name="SistersOfBattle/ExpertFighters" value="Źniščalniki-Asy"/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Daśviedčanyja Źniščalniki"/>
 	<entry name="SistersOfBattle/ExpertFightersDescription" value="Pavialičvaje trapnaść Małankavych Źniščalnikaŭ i Udarnych Źniščalnikaŭ · Pomśnik."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="<string name='Traits/SistersOfBattle/ExpertFightersFlavor'/>"/>
 	<entry name="SistersOfBattle/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
@@ -1535,7 +1535,7 @@
 	<entry name="SistersOfBattle/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SistersOfBattle/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="SistersOfBattle/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Karnicam, Siostram Pakajańnia i Zefirymam zdolnaść kidać supraćbraniavyja hranaty."/>
+	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Karnicam, Siostram Pakajańnia i Zefirymam zdolnaść kidać supraćtankavyja hranaty."/>
 	<entry name="SistersOfBattle/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/LaudHailer" value="<string name='Traits/SistersOfBattle/LaudHailer'/>"/>
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Daje Łupcoŭnikam, Ekzarcystam i Achviarnikam aŭru, jakaja dazvalaje ŭzrušanym adzinkam źdiajśniać Akty Viery."/>
@@ -1661,7 +1661,7 @@
 	<entry name="SpaceMarines/KrakGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kaśmičnym Marynam, Kapitanam, Kosmamarynam-Razburalnikam, Bibliaryjam, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kaśmičnym Marynam i Harmatam · Hromavy Ahoń zdolnaść kidać supraćtankavyja hranaty."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
-	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Daje Ziamnym Chutkaram i Ziamny Rejdaram mulcimieltavuju zbroju."/>
+	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Daje Ziamnym Chutkaram i Ziamnym Rejdaram mulcimieltavuju zbroju."/>
 	<entry name="SpaceMarines/LandSpeederMultiMeltaFlavor" value="<string name='Weapons/MultiMeltaFlavor'/>"/>
 	<entry name="SpaceMarines/LasDamage" value="<string name='Traits/SpaceMarines/LasDamage'/>"/>
 	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Upgrades/AstraMilitarum/LasDamageDescription'/>"/>
@@ -1671,7 +1671,7 @@
 	<entry name="SpaceMarines/LastStandFlavor" value="<string name='Traits/LastStandFlavor'/>"/>
 	<entry name="SpaceMarines/LastStandReady" value="<string name='Traits/LastStand'/>"/>
 	<entry name="SpaceMarines/LocatorBeacon" value="<string name='Traits/LocatorBeacon'/>"/>
-	<entry name="SpaceMarines/LocatorBeaconDescription" value="Arbitalnaje razhortvańnie pierastaje patrabavać ački dziejańnia pry razhortvańni pobač z Matacyklistami-Vyviednikami dy Karablami · Štarmavy Krumkač."/>
+	<entry name="SpaceMarines/LocatorBeaconDescription" value="Arbitalnaje razhortvańnie pierastaje patrabavać ački dziejańnia padčas razhortvańnia pobač z Matacyklistami-Vyviednikami dy Karablami · Štarmavy Krumkač."/>
 	<entry name="SpaceMarines/LocatorBeaconFlavor" value="<string name='Traits/LocatorBeaconFlavor'/>"/>
 	<entry name="SpaceMarines/MachineEmpathy" value="<string name='Traits/MachineEmpathy'/>"/>
 	<entry name="SpaceMarines/MachineEmpathyDescription" value="<string name='Actions/MachineEmpathyDescription'/>"/>
@@ -1680,7 +1680,7 @@
 	<entry name="SpaceMarines/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
 	<entry name="SpaceMarines/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SpaceMarines/MeltaBombDescription" value="Daje Taktyčnym Kaśmičnym Marynam, Šturmavym Kaśmičnym Marynam, Kosmamarynam-Razburalnikam, Vyviednikam i Matacyklistam-Vyviednikam zdolnaść razhortvać mielta bombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyj."/>
+	<entry name="SpaceMarines/MeltaBombDescription" value="Daje Taktyčnym Kaśmičnym Marynam, Šturmavym Kaśmičnym Marynam, Kosmamarynam-Razburalnikam, Vyviednikam i Matacyklistam-Vyviednikam zdolnaść razhortvać mielta bombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="Daje Centuryjonam-Razburalnikam mahčymaść abminać źmianšeńnie škody ŭ dalokim boi."/>
@@ -1704,7 +1704,7 @@
 	<entry name="SpaceMarines/SiegeShieldDescription" value="Pavialičvaje braniu Ačyščalnikaŭ i źnižaje štraf ruchu ŭ lasach i impierskich ruinach."/>
 	<entry name="SpaceMarines/SiegeShieldFlavor" value="<string name='Traits/SiegeShieldFlavor'/>"/>
 	<entry name="SpaceMarines/Signum" value="<string name='Actions/Signum'/>"/>
-	<entry name="SpaceMarines/SignumDescription" value="Daje Kosmamarynam-Razburalnikam zdolnaść skasoŭvać štraf dla ciažkaj, artyleryjnaj zbroi i załpa z džałaŭ."/>
+	<entry name="SpaceMarines/SignumDescription" value="Daje Kosmamarynam-Razburalnikam zdolnaść skasoŭvać štraf dla ciažkaj i artyleryjnaj zbroi dy załpa z džałaŭ."/>
 	<entry name="SpaceMarines/SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
 	<entry name="SpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
 	<entry name="SpaceMarines/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
@@ -1713,7 +1713,7 @@
 	<entry name="SpaceMarines/TacticalDoctrineDescription" value="<string name='Actions/TacticalDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/TeleportHomer" value="<string name='Traits/TeleportHomer'/>"/>
-	<entry name="SpaceMarines/TeleportHomerDescription" value="Arbitalnaje razhortvańnie pierastaje patrabavać ački dziejańnia pry razhortvańni Terminataraŭ pobač z Taktyčnymi Kaśmičnymi Marynami ci Vyviednikami."/>
+	<entry name="SpaceMarines/TeleportHomerDescription" value="Arbitalnaje razhortvańnie pierastaje patrabavać ački dziejańnia padčas razhortvańnia Terminataraŭ pobač z Taktyčnymi Kaśmičnymi Marynami ci Vyviednikami."/>
 	<entry name="SpaceMarines/TeleportHomerFlavor" value="<string name='Traits/TeleportHomerFlavor'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeak" value="<string name='Traits/TheFleshIsWeak'/>"/>
 	<entry name="SpaceMarines/TheFleshIsWeakDescription" value="<string name='Actions/TheFleshIsWeakDescription'/>"/>
@@ -1725,7 +1725,7 @@
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Daje adnaŭleńnie zdaroŭja mašynam kožny krok."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="<string name='Traits/Tau/AutomatedRepairSystemFlavor'/>"/>
 	<entry name="Tau/BlacksunFilter" value="<string name='Traits/Tau/BlacksunFilter'/>"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Pavialičvaje ahlad mašynam, Śledapytam, Eternym, Kamandoram i Bajavych Harnituram."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Pavialičvaje ahlad mašynam, Śledapytam, Eternym, Kamandoram i Bajavym Harnituram."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="<string name='Traits/Tau/BlacksunFilterFlavor'/>"/>
 	<entry name="Tau/BlastDamage" value="<string name='Traits/Tau/BlastDamage'/>"/>
 	<entry name="Tau/BlastDamageDescription" value="Pavialičvaje bronieprabivalnaść ahniavoj i rakietnaj zbroi."/>
@@ -1734,7 +1734,7 @@
 	<entry name="Tau/BoltDamageDescription" value="Pavialičvaje bronieprabivalnaść razryŭnoj i rejkavaj zbroi."/>
 	<entry name="Tau/BoltDamageFlavor" value="<string name='Traits/Tau/BoltDamageFlavor'/>"/>
 	<entry name="Tau/BondingKnifeRitual" value="<string name='Actions/Tau/BondingKnifeRitual'/>"/>
-	<entry name="Tau/BondingKnifeRitualDescription" value="Daje Vajaram Ahniu, Śledapytam, Bajavym Harnituram · XV25 Niabačnik, Bajavym Harnituram · XV8 Kryzis, Bajavym Harnituram · XV88 Załp, Bajavym Harnituram · XV95 Pryvidny Karabiel i Bajavym Harnituram · XV104 Režučy Strumień zdolnaść adnaŭlać svaju maral."/>
+	<entry name="Tau/BondingKnifeRitualDescription" value="Daje Vajaram Ahniu, Śledapytam, bajavym harnituram: XV25 Niabačnik, XV8 Kryzis, XV88 Załp, XV95 Pryvidny Karabiel i XV104 Režučy Strumień zdolnaść adnaŭlać svaju maral."/>
 	<entry name="Tau/BondingKnifeRitualFlavor" value="<string name='Actions/Tau/BondingKnifeRitualFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="<string name='Traits/Tau/CityTier2'/>"/>
 	<entry name="Tau/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
@@ -1752,7 +1752,7 @@
 	<entry name="Tau/DroneControllerDescription" value="Sistema padtrymki bajavoha harnitura pavialičvaje trapnaść susiednich dronaŭ."/>
 	<entry name="Tau/DroneControllerFlavor" value="<string name='Traits/Tau/DroneControllerFlavor'/>"/>
 	<entry name="Tau/EMPGrenade" value="<string name='Weapons/EMPGrenade'/>"/>
-	<entry name="Tau/EMPGrenadeDescription" value="Daje Vajaram Ahniu i Śledapytam zdolnaść kidać supraćtranspartnyja hranaty."/>
+	<entry name="Tau/EMPGrenadeDescription" value="Daje Vajaram Ahniu i Śledapytam zdolnaść kidać supraćmašynnyja hranaty."/>
 	<entry name="Tau/EMPGrenadeFlavor" value="<string name='Weapons/EMPGrenadeFlavor'/>"/>
 	<entry name="Tau/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Tau/ExtraInfantryArmourDescription" value="Pavialičvaje braniu piachoty i žachlivych stvareńniaŭ."/>
@@ -1764,19 +1764,19 @@
 	<entry name="Tau/FlechetteDischargerDescription" value="Daje technicy zdolnaść nanosić škodu atakoŭcam blizkaha boju."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
 	<entry name="Tau/ForTheGreaterGoodBonus" value="Ambasaspory Čarpaktin"/>
-	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Źmienšvaje košt upłyvu Ŭ Imia Najvyšejšaha Dabrabytu."/>
+	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Źmianšaje košt upłyvu na Ŭ Imia Najvyšejšaha Dabrabytu."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tau/HammerOfWrathDescription" value="Daje Bajavym Harnituram · XV95 Pryvidny Karabiel, Bajavym Harnituram · XV104 Režučy Strumień, KV128 · Štarmavaja Chvala zdolnaść źdiajśniać bolš razburalnyja ataki."/>
+	<entry name="Tau/HammerOfWrathDescription" value="Daje bajavym harnituram XV95 Pryvidny Karabiel, XV104 Režučy Strumień, KV128 Štarmavaja Chvala zdolnaść źdiajśniać bolš razburalnyja ataki."/>
 	<entry name="Tau/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tau/LasDamage" value="<string name='Traits/Tau/LasDamage'/>"/>
-	<entry name="Tau/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść fuzijnaj, ijonnaj, płazmavaj i impulsnaj zbroi."/>
+	<entry name="Tau/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść fuzijonnaj, ijonnaj, płazmavaj i impulsnaj zbroi."/>
 	<entry name="Tau/LasDamageFlavor" value="<string name='Traits/Tau/LasDamageFlavor'/>"/>
 	<entry name="Tau/PhotonGrenade" value="<string name='Weapons/PhotonGrenade'/>"/>
 	<entry name="Tau/PhotonGrenadeDescription" value="Daje Vajaram Ahniu, Śledapytam i Kadru · Ahniavy Klinok zdolnaść kidać aślaplalnyja hranaty."/>
 	<entry name="Tau/PhotonGrenadeFlavor" value="<string name='Weapons/PhotonGrenadeFlavor'/>"/>
 	<entry name="Tau/PointDefenceTargetingRelay" value="<string name='Traits/Tau/PointDefenceTargetingRelay'/>"/>
-	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Pavialičvaje škodu mašynaŭ padčas nazirańnia za varožymi adzinkami, kali jany susiednija ź inšymi siabroŭskimi adzinkam."/>
+	<entry name="Tau/PointDefenceTargetingRelayDescription" value="Pavialičvaje škodu mašynaŭ padčas nazirańnia za varožymi adzinkami, kali jany susiedničajuć ź inšymi siabroŭskimi adzinkam."/>
 	<entry name="Tau/PointDefenceTargetingRelayFlavor" value="<string name='Traits/Tau/PointDefenceTargetingRelayFlavor'/>"/>
 	<entry name="Tau/PurchaseEnergy" value="<string name='Actions/Tau/PurchaseEnergy'/>"/>
 	<entry name="Tau/PurchaseEnergyDescription" value="Daje mahčymaść nabyvać enierhiju za ŭpłyŭ."/>
@@ -1794,7 +1794,7 @@
 	<entry name="Tau/PurchaseResearchDescription" value="Daje mahčymaść nabyvać daśledavańni za ŭpłyŭ."/>
 	<entry name="Tau/PurchaseResearchFlavor" value="<string name='Actions/Tau/PurchaseResearchFlavor'/>"/>
 	<entry name="Tau/RipykaVa" value="<string name='Traits/Tau/RipykaVa'/>"/>
-	<entry name="Tau/RipykaVaDescription" value="Źmienšvaje čas pierazaradki mietastratehij Kamandora."/>
+	<entry name="Tau/RipykaVaDescription" value="Źmianšaje čas pierazaradki mietastratehijaŭ Kamandora."/>
 	<entry name="Tau/RipykaVaFlavor" value="<string name='Traits/Tau/RipykaVaFlavor'/>"/>
 	<entry name="Tau/SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
 	<entry name="Tau/SeekerMissileDescription" value="Daje technicy i Bajavym Harnituram · XV88 Załp rakietnuju zbroju. "/>
@@ -1803,10 +1803,10 @@
 	<entry name="Tau/SensorSpinesDescription" value="Daje technicy mahčymaść ruchu praz chovanki."/>
 	<entry name="Tau/SensorSpinesFlavor" value="Sensor spines are used to feed data to an advanced ground-following flight control system, plotting safe courses through treacherous terrain that avoid traps and mines that might lie hidden from sight."/>
 	<entry name="Tau/ShieldGenerator" value="<string name='Traits/Tau/ShieldGenerator'/>"/>
-	<entry name="Tau/ShieldGeneratorDescription" value="Sistema padtrymki bajavoha harnitura źnižaje škodu ad nieparažalnaści."/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Sistema padtrymki bajavoha harnitura, jakaja źnižaje škodu ad nieparažalnaści."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StimulantInjector" value="<string name='Traits/Tau/StimulantInjector'/>"/>
-	<entry name="Tau/StimulantInjectorDescription" value="Sistema padtrymki bajavoha harnitura palapšaje pačućcio biazbolnaha źmianšeńnia škody."/>
+	<entry name="Tau/StimulantInjectorDescription" value="Sistema padtrymki bajavoha harnitura, jakaja palapšaje pačućcio biazbolnaha źmianšeńnia škody."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/SubversionBonus" value="Daśledavańnie Paŭstańniaŭ"/>
 	<entry name="Tau/SubversionBonusDescription" value="Pavialičvaje štraf łajalnaści za Źviaržeńni ŭ Haradach."/>
@@ -1824,10 +1824,10 @@
 	<entry name="Tau/VelocityTrackerDescription" value="Sistema padtrymki bajavoha harnitura pavialičvaje trapnaść stralby pa aviacyi."/>
 	<entry name="Tau/VelocityTrackerFlavor" value="<string name='Traits/Tau/VelocityTrackerFlavor'/>"/>
 	<entry name="Tyranids/AcidBlood" value="Kisłotnaja Kroŭ"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Daje žachlivym stvareńniam Tyranidaŭ i Honaru Tyranidaŭ asablivaść paškodžvańnia ŭsich atakoŭcaŭ blizkaha boju."/>
+	<entry name="Tyranids/AcidBloodDescription" value="Daje žachlivym stvareńniam Tyranidaŭ i Honaru Tyranidaŭ asablivaść paškodžvać usich atakoŭcaŭ blizkaha boju."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="<string name='Traits/Tyranids/AcidBloodFlavor'/>"/>
 	<entry name="Tyranids/AdrenalGlands" value="Adrenalinavyja Hłandy"/>
-	<entry name="Tyranids/AdrenalGlandsDescription" value="Daje adzinkam pavialičany ruch i škodu ŭ blizkim boju."/>
+	<entry name="Tyranids/AdrenalGlandsDescription" value="Daje adzinkam pavialičany ruch i škodu ŭ blizkim boi."/>
 	<entry name="Tyranids/AdrenalGlandsFlavor" value="Adrenal glands saturate their host's bodies with chemicals that boost the creature's metabolism to a hyperactive state of frenzy."/>
 	<entry name="Tyranids/BiomorphDamage" value="<string name='Traits/Tyranids/BiomorphDamage'/>"/>
 	<entry name="Tyranids/BiomorphDamageDescription" value="Pavialičvaje bronieprabivalnaść bijamorfaŭ."/>
@@ -1878,7 +1878,7 @@
 	<entry name="Tyranids/FleshHooksDescription" value="Daje Vajaram Tyranidaŭ, Honaru Tyranidaŭ i Liktaram dadatkovuju zbroju dalokaha boju."/>
 	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
 	<entry name="Tyranids/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tyranids/HammerOfWrathDescription" value="Daje Ekzakrynam, Harhullam, Haruspeksam, Karham Vulla, Tyranam Vulla, Kasanosnym Jeradułam, Tervihonam, Tryhonam, Tyranacytam i Tyranafeksam mahčymaść ździajśniać bolš razburalnyja ataki."/>
+	<entry name="Tyranids/HammerOfWrathDescription" value="Daje Ekzakrynam, Harhullam, Haruspeksam, Karham Vulla, Tyranam Vulla, Kasanosnym Jeradułam, Tervihonam, Tryhonam, Tyranacytam i Tyranafeksam zdolnaść ździajśniać bolš razburalnyja ataki."/>
 	<entry name="Tyranids/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="<string name='Traits/Tyranids/InfantryUpkeep'/>"/>
 	<entry name="Tyranids/InfantryUpkeepDescription" value="Źmienšvaje vydatki bijamasy na ŭtrymańnie piachoty."/>
@@ -1896,16 +1896,16 @@
 	<entry name="Tyranids/ParoxysmDescription" value="Daje Zaantropam zdolnaść praklinać varožyja adzinki, źnižać ich trapnaść."/>
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
 	<entry name="Tyranids/PreyAdaptation2" value="Małantropnyja Hustarfłahieli"/>
-	<entry name="Tyranids/PreyAdaptation2Description" value="Pavialičvaje prybytak daśledvańniaŭ ad śmierci vorahaŭ u absiahi dziejańnia Małantropa."/>
+	<entry name="Tyranids/PreyAdaptation2Description" value="Pavialičvaje prybytak daśledvańniaŭ ad śmierci vorahaŭ u radyusie dziejańnia Małantropa."/>
 	<entry name="Tyranids/PreyAdaptation2Flavor" value="An unusual adaptation of the Malanthropic form, gustarflagelli are filament thin tendrils that surround a malanthrope like a fleshy, wriggling cloud. It's presumed that they enable the Malanthrope to gather and retain more genetic data from recently-deceased enemies."/>
 	<entry name="Tyranids/ProductionBuildingUpkeep" value="<string name='Traits/Tyranids/ProductionBuildingUpkeep'/>"/>
 	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Źnižaje vydatki ŭpłyvu na ŭtrymańnie vytvorčych budynkaŭ."/>
 	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="<string name='Traits/Tyranids/ProductionBuildingUpkeepFlavor'/>"/>
 	<entry name="Tyranids/Reclamation2" value="<string name='Traits/Tyranids/Reclamation2'/>"/>
-	<entry name="Tyranids/Reclamation2Description" value="Źnižaje košt upłyvu na spažyvańnie ziemlaŭ."/>
+	<entry name="Tyranids/Reclamation2Description" value="Źnižaje košt upłyvu na spažyvańnie plitak."/>
 	<entry name="Tyranids/Reclamation2Flavor" value="<string name='Traits/Tyranids/Reclamation2Flavor'/>"/>
 	<entry name="Tyranids/Reclamation3" value="<string name='Traits/Tyranids/Reclamation3'/>"/>
-	<entry name="Tyranids/Reclamation3Description" value="Prybiraje čas pierazaradki na spažyvańnie ziemlaŭ."/>
+	<entry name="Tyranids/Reclamation3Description" value="Prybiraje čas pierazaradki na spažyvańnie plitak."/>
 	<entry name="Tyranids/Reclamation3Flavor" value="<string name='Traits/Tyranids/Reclamation3Flavor'/>"/>
 	<entry name="Tyranids/Regeneration" value="Rehienieracyja"/>
 	<entry name="Tyranids/RegenerationDescription" value="Daje žachlivym stvareńniam Tyranidaŭ i Honaru Tyranidaŭ adnaŭleńnie zdaroŭja za kožny krok."/>
@@ -1932,7 +1932,7 @@
 	<entry name="Tyranids/Tunnel2Description" value="Pavialičvaje zdaroŭje Vyvadakaŭ Vulla."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="<string name='Traits/Tyranids/Tunnel2Flavor'/>"/>
 	<entry name="Tyranids/VehiclesUpkeep" value="<string name='Traits/Tyranids/VehiclesUpkeep'/>"/>
-	<entry name="Tyranids/VehiclesUpkeepDescription" value="Źnižaje vydatki bijamasy na ŭtrymańnie žudasnych stvareńniach."/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Źnižaje vydatki bijamasy na ŭtrymańnie žachlivych stvareńniach."/>
 	<entry name="Tyranids/VehiclesUpkeepFlavor" value="<string name='Traits/Tyranids/VehiclesUpkeepFlavor'/>"/>
 	
 	<entry name="Missing" value="Adsutničaje"/>
