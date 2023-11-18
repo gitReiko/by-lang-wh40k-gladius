@@ -166,7 +166,7 @@
 	<entry name="AstraMilitarumInfluenceEdictDescription" value="Эдыкт, які павялічвае вытворчасьць уплыву на Станцыях Кагітацыі горада."/>
 	<entry name="AstraMilitarumInfluenceEdictFlavor" value="Edict, Adeptus Ministorum: All unassigned workers are hereby ordered to report to the nearest Mission, Shrine or Schola Progenium to assist in spreading the word of the Emperor. Pontifices will be on hand for mandatory heresy-testing."/>
 	<entry name="AstraMilitarumLoyaltyEdict" value="Трансьляцыя Прапаганды"/>
-	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Эдыкт, які павялічвае вытворчасьць лаяльнасьці ў Санктум Імперыяліс горада."/>
+	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Эдыкт, які павялічвае вытворчасьць лаяльнасьці ў Санктум Імперыаліс горада."/>
 	<entry name="AstraMilitarumLoyaltyEdictFlavor" value="Edict, Adeptus Arbites: to all Commissars, Arbitrators and Enforcers: a period of increased Imperial communication has been commissioned. During this time, insula-to-insula searches are now authorised in order to ensure maximum devotion to the Emperor. Chasteners are to apply the Lex Imperialis rigorously."/>
 	<entry name="AstraMilitarumOreEdict" value="Квоты на Здабычу"/>
 	<entry name="AstraMilitarumOreEdictDescription" value="Эдыкт, які павялічвае вытворчасьць руды на Экстрактарах Руды горада."/>
@@ -241,7 +241,7 @@
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="Абраз Хаосу павялічвае шкоду адзінак з Пазнакай Кхорна."/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="The red-hot curses of the Blood God resound in the minds of those in the shadow of this icon, compelling them to hurl themselves into the fray with wild abandon."/>
 	<entry name="ChaosSpaceMarines/Incursion" value="Уварваньне"/>
-	<entry name="ChaosSpaceMarines/IncursionDescription" value="Часова прызывае выпадковага Дэмана."/>
+	<entry name="ChaosSpaceMarines/IncursionDescription" value="Часова заклікае выпадковага Дэмана."/>
 	<entry name="ChaosSpaceMarines/IncursionFlavor" value="The psyker opens a portal to the Realm of Chaos, allowing the warp's daemonic denizens to spill forth into reality."/>
 	<entry name="ChaosSpaceMarines/InfernalPower" value="Пякельная Моц"/>
 	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Павялічвае трапнасьць і шкоду гэтай адзінкі і суседніх хаўрусных адзінак Хаосу."/>
@@ -579,10 +579,10 @@
 	<entry name="Necrons/ResurrectionOrbDescription" value="Аднаўляе здароўе абранай хаўруснай адзінкі."/>
 	<entry name="Necrons/ResurrectionOrbFlavor" value="This glowing sphere focuses energy into the regeneration circuits of nearby Necrons, enhancing their ability to self-repair."/>
 	<entry name="Necrons/RoyalGuard" value="Каралеўская Варта"/>
-	<entry name="Necrons/RoyalGuardDescription" value="Часова прызывае Прэтарыянцаў Трыярхаў."/>
+	<entry name="Necrons/RoyalGuardDescription" value="Часова заклікае Прэтарыянцаў Трыярхаў."/>
 	<entry name="Necrons/RoyalGuardFlavor" value="“I have watched the galaxy for sixty million years. I have raised civilisations to our ways and seen them thrive, fade and pass into myth. And I still believe that to exist without honour, without laws—well, it is better not to exist at all.”<br/>  — Eystan, Triarch Praetorian"/>
 	<entry name="Necrons/ScarabHive" value="Вулей Скарабеяў"/>
-	<entry name="Necrons/ScarabHiveDescription" value="Прызывае Канаптэкавых Скарабеяў."/>
+	<entry name="Necrons/ScarabHiveDescription" value="Заклікае Канаптэкавых Скарабеяў."/>
 	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Units/Necrons/CanoptekScarabFlavor'/>"/>
 	<entry name="Necrons/SleepingSentry" value="Сьпячы Вартавы"/>
 	<entry name="Necrons/SleepingSentryDescription" value="Павялічвае зьніжэньне шкоды, але прадухіляе дзеяньне."/>
@@ -998,7 +998,7 @@
 	<entry name="Tyranids/LivingBatteringRamDescription" value="Павялічвае шкоду."/>
 	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/LivingIncubator" value="Жывы Інкубатар"/>
-	<entry name="Tyranids/LivingIncubatorDescription" value="Прызывае Тэрмагаўнтаў."/>
+	<entry name="Tyranids/LivingIncubatorDescription" value="Заклікае Тэрмагаўнтаў."/>
 	<entry name="Tyranids/LivingIncubatorFlavor" value="A foe engaging a Tervigon up close will find itself assailed by waves of skittering Termagants. Such a confrontation is terrible to behold, for a Tervigon's capacity to reinforce is vast, and its broods are driven into a near-frenzy by the need to protect their progenitor."/>
 	<entry name="Tyranids/MassIncubation" value="Масавая Інкубацыя"/>
 	<entry name="Tyranids/MassIncubationDescription" value="Зьмяншае час перазарадкі Жывога Інкубатара."/>

@@ -166,7 +166,7 @@
 	<entry name="AstraMilitarumInfluenceEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść upłyvu na Stancyjach Kahitacyi horada."/>
 	<entry name="AstraMilitarumInfluenceEdictFlavor" value="Edict, Adeptus Ministorum: All unassigned workers are hereby ordered to report to the nearest Mission, Shrine or Schola Progenium to assist in spreading the word of the Emperor. Pontifices will be on hand for mandatory heresy-testing."/>
 	<entry name="AstraMilitarumLoyaltyEdict" value="Tranślacyja Prapahandy"/>
-	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść łajalnaści ŭ Sanktum Impieryjalis horada."/>
+	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść łajalnaści ŭ Sanktum Impieryalis horada."/>
 	<entry name="AstraMilitarumLoyaltyEdictFlavor" value="Edict, Adeptus Arbites: to all Commissars, Arbitrators and Enforcers: a period of increased Imperial communication has been commissioned. During this time, insula-to-insula searches are now authorised in order to ensure maximum devotion to the Emperor. Chasteners are to apply the Lex Imperialis rigorously."/>
 	<entry name="AstraMilitarumOreEdict" value="Kvoty na Zdabyču"/>
 	<entry name="AstraMilitarumOreEdictDescription" value="Edykt, jaki pavialičvaje vytvorčaść rudy na Ekstraktarach Rudy horada."/>
@@ -241,7 +241,7 @@
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="Abraz Chaosu pavialičvaje škodu adzinak z Paznakaj Kchorna."/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="The red-hot curses of the Blood God resound in the minds of those in the shadow of this icon, compelling them to hurl themselves into the fray with wild abandon."/>
 	<entry name="ChaosSpaceMarines/Incursion" value="Uvarvańnie"/>
-	<entry name="ChaosSpaceMarines/IncursionDescription" value="Časova pryzyvaje vypadkovaha Demana."/>
+	<entry name="ChaosSpaceMarines/IncursionDescription" value="Časova zaklikaje vypadkovaha Demana."/>
 	<entry name="ChaosSpaceMarines/IncursionFlavor" value="The psyker opens a portal to the Realm of Chaos, allowing the warp's daemonic denizens to spill forth into reality."/>
 	<entry name="ChaosSpaceMarines/InfernalPower" value="Piakielnaja Moc"/>
 	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Pavialičvaje trapnaść i škodu hetaj adzinki i susiednich chaŭrusnych adzinak Chaosu."/>
@@ -579,10 +579,10 @@
 	<entry name="Necrons/ResurrectionOrbDescription" value="Adnaŭlaje zdaroŭje abranaj chaŭrusnaj adzinki."/>
 	<entry name="Necrons/ResurrectionOrbFlavor" value="This glowing sphere focuses energy into the regeneration circuits of nearby Necrons, enhancing their ability to self-repair."/>
 	<entry name="Necrons/RoyalGuard" value="Karaleŭskaja Varta"/>
-	<entry name="Necrons/RoyalGuardDescription" value="Časova pryzyvaje Pretaryjancaŭ Tryjarchaŭ."/>
+	<entry name="Necrons/RoyalGuardDescription" value="Časova zaklikaje Pretaryjancaŭ Tryjarchaŭ."/>
 	<entry name="Necrons/RoyalGuardFlavor" value="“I have watched the galaxy for sixty million years. I have raised civilisations to our ways and seen them thrive, fade and pass into myth. And I still believe that to exist without honour, without laws—well, it is better not to exist at all.”<br/>  — Eystan, Triarch Praetorian"/>
 	<entry name="Necrons/ScarabHive" value="Vulej Skarabiejaŭ"/>
-	<entry name="Necrons/ScarabHiveDescription" value="Pryzyvaje Kanaptekavych Skarabiejaŭ."/>
+	<entry name="Necrons/ScarabHiveDescription" value="Zaklikaje Kanaptekavych Skarabiejaŭ."/>
 	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Units/Necrons/CanoptekScarabFlavor'/>"/>
 	<entry name="Necrons/SleepingSentry" value="Śpiačy Vartavy"/>
 	<entry name="Necrons/SleepingSentryDescription" value="Pavialičvaje źnižeńnie škody, ale praduchilaje dziejańnie."/>
@@ -998,7 +998,7 @@
 	<entry name="Tyranids/LivingBatteringRamDescription" value="Pavialičvaje škodu."/>
 	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/LivingIncubator" value="Žyvy Inkubatar"/>
-	<entry name="Tyranids/LivingIncubatorDescription" value="Pryzyvaje Termahaŭntaŭ."/>
+	<entry name="Tyranids/LivingIncubatorDescription" value="Zaklikaje Termahaŭntaŭ."/>
 	<entry name="Tyranids/LivingIncubatorFlavor" value="A foe engaging a Tervigon up close will find itself assailed by waves of skittering Termagants. Such a confrontation is terrible to behold, for a Tervigon's capacity to reinforce is vast, and its broods are driven into a near-frenzy by the need to protect their progenitor."/>
 	<entry name="Tyranids/MassIncubation" value="Masavaja Inkubacyja"/>
 	<entry name="Tyranids/MassIncubationDescription" value="Źmianšaje čas pierazaradki Žyvoha Inkubatara."/>
