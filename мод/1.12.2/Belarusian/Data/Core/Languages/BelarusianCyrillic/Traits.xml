@@ -367,7 +367,7 @@
 	<entry name="Blast" value="Выбух"/>
 	<entry name="BlastDescription" value="Б'е некалькіх чальцоў групы абранай адзінкі."/>
 	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="Blighted" value="Атручаны"/>
+	<entry name="Blighted" value="Атручанасьць"/>
 	<entry name="BlightedDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="Blind" value="Сьляпы"/>
 	<entry name="BlindDescription" value="Зьніжае трапнасьць."/>
@@ -416,7 +416,7 @@
 	<entry name="ChaosSpaceMarines/BlastDamage" value="Пакрыцьцё Дэманічнай Косткай"/>
 	<entry name="ChaosSpaceMarines/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="ChaosSpaceMarines/BlastDamageFlavor" value="The Warpsmiths may have only trapped minor horrors in the casings of these explosive shells, but their rage at the point of impact isn’t minor—as they shatter and return to the warp, they rage and snatch at anything nearby."/>
-	<entry name="ChaosSpaceMarines/Bloated" value="Распухлы"/>
+	<entry name="ChaosSpaceMarines/Bloated" value="Распухласьць"/>
 	<entry name="ChaosSpaceMarines/BloatedDescription" value="Аднаўляе здароўе."/>
 	<entry name="ChaosSpaceMarines/BloatedFlavor" value="Though Nurgle’s cursed diseases rot a man both physically and spiritually, they also imbue their subjects decaying flesh with inhuman resilience. To such bloated forms, spreading their pox can often bring with it minor blessings from the plague God."/>
 	<entry name="ChaosSpaceMarines/BloodForTheBloodGod" value="Кроў Крываваму Богу"/>
@@ -433,7 +433,7 @@
 	<entry name="ChaosSpaceMarines/CityTier3" value="Сувязь з Рокам"/>
 	<entry name="ChaosSpaceMarines/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="ChaosSpaceMarines/CityTier3Flavor" value="The worshippers of Chaos have shed their pretences. Where before they drew souls to them by their weaknesses or by daemon seduction, now they do it by whips and chains. Packs of slavers and warbands hunt their city’s hinterland for lives to sacrifice. Only the strongest can escape their reach; the weak are grist to the mill for Chaos."/>
-	<entry name="ChaosSpaceMarines/Crazed" value="Звар'яцелы"/>
+	<entry name="ChaosSpaceMarines/Crazed" value="Звар'яцеласьць"/>
 	<entry name="ChaosSpaceMarines/CrazedDescription" value="Калі адзінка атрымала пашкоджаньні ў папярэднім кроку, яна атрымвае выпадковым чынам адну з наступных асаблівасьцяў: Агнявую Нястрымнасьць, Узрослы Гнеў, Крывавую Лютасьць."/>
 	<entry name="ChaosSpaceMarines/CrazedFlavor" value="All Helbrutes are psychotic and dangerous monstrosities—a veteran of the Long War driven insane by tortured entombment. So attacking a Helbrute might seem rational, but if you fail to destroy it outright, you will only make it angrier and crazier."/> <!-- Hellbrute. -->
 	<entry name="ChaosSpaceMarines/ChampionOfChaos" value="Чэмпіён Хаосу"/>
@@ -605,7 +605,7 @@
 	<entry name="Daemon" value="Дэман"/>
 	<entry name="DaemonDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
-	<entry name="Damaged" value="Пашкоджаны"/>
+	<entry name="Damaged" value="Пашкоджанасьць"/>
 	<entry name="DamagedDescription" value="Зьмяншае трапнасьць."/>
 	<entry name="Deathshriek" value="Віскат Сьмерці"/>
 	<entry name="DeathshriekDescription" value="Наносіць шкоду атакоўцу перад сьмерцю."/>
@@ -789,7 +789,7 @@
 	<entry name="Eldar/VehicleBuildingBonus" value="Заклік Ваула"/>
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="Eldar/VehicleBuildingBonusFlavor" value="A spirit stone recovered from Gladius proved to be that of an ancient Bonesinger, lost here millenia past. With their insights into the planet’s structure and resources, we’re able to greatly increase our production."/>
-	<entry name="Enslaved" value="Заняволены"/>
+	<entry name="Enslaved" value="Заняволенасьць"/>
 	<entry name="EnslavedDescription" value="Дзеля вызваленьня адзінкі трэба забіць Занявольніка."/>
 	<entry name="EreWeGo" value="Ходзьма Туды!"/>
 	<entry name="EreWeGoDescription" value="Павялічвае рух."/>
@@ -849,7 +849,7 @@
 	<entry name="GetsHotDescription" value="Адзінка губляе здароўе пасьля кожнага выстралу зброі далёкага бою."/>
 	<entry name="GetsHotFlavor" value="Some weapons are fuelled by unstable power sources and risk overheating with each shot—often to the detriment of the wielder."/>
 	<entry name="Graviton" value="Гравітон"/>
-	<entry name="GravitonDescription" value="Маштабуе шкоду ў адпаведнасьці з бранёй цэлевай адзінкі."/>
+	<entry name="GravitonDescription" value="Маштабуе шкоду ў адпаведнасьці з бранёй адзінкі-цэлі."/>
 	<entry name="GravitonFlavor" value="Some weapons crush their enemies within their own armour."/>
 	<entry name="Grenade" value="Граната"/>
 	<entry name="GrenadeDescription" value="Класіфікацыя."/>
@@ -891,11 +891,11 @@
 	<entry name="Homing" value="Саманавядзеньне"/>
 	<entry name="HomingDescription" value="Не патрабуе прамой бачнасьці."/>
 	<entry name="IgnoresCover" value="Ігнаруе Хованкі"/>
-	<entry name="IgnoresCoverDescription" value="Ігнаруе зьмяншэньне шкоды ад далёкага бою цэлевай адзінкі."/>
+	<entry name="IgnoresCoverDescription" value="Ігнаруе зьмяншэньне шкоды ад далёкага бою адзінкі-цэлі."/>
 	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
 	<entry name="Illuminated" value="Асьветлены"/>
 	<entry name="IlluminatedDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою."/>
-	<entry name="Immobilized" value="Зьнерухомлены"/>
+	<entry name="Immobilized" value="Зьнерухомленасьць"/>
 	<entry name="ImmobilizedDescription" value="Адзінка ня можа рухацца."/>
 	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
 	<entry name="ImperialRuinDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою для пяхоты."/>
@@ -930,7 +930,7 @@
 	<entry name="KillshotDescription" value="Павялічвае шкоду супраць жахлівых стварэньняў, машын і фартыфікацыяў, калі знаходзіцца поруч з хаўрусным драпежнікам."/>
 	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron—a trio of Predators—their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
 	<entry name="Lance" value="Дзіда"/>
-	<entry name="LanceDescription" value="Абмяжоўвае браню цэлевай адзінкі."/>
+	<entry name="LanceDescription" value="Абмяжоўвае браню адзінкі-цэлі."/>
 	<entry name="LanceFlavor" value="The terror of tank commanders, a lance weapon fires a concentrated beam of energy that can bore through any armour, regardless of thickness."/>
 	<entry name="LargeBlast" value="Вялікі Выбух"/>
 	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
@@ -943,9 +943,9 @@
 	<entry name="LifeSteal" value="Крадзёж Жыцьця"/>
 	<entry name="LifeStealDescription" value="Ператворвае шкоду ў здароўе для гэтай і суседніх пяхотных адзінак і жахлівых стварэньняў."/>
 	<entry name="LinebreakerBombardment" value="Лінейнае Бамбаваньне"/>
-	<entry name="LinebreakerBombardmentDescription" value="Ігнаруе зьніжэньне шкоды ад далёкага бою цэлевай адзінкі, калі знаходзіцца поруч з хаўрусным Ачышчальнікам."/>
+	<entry name="LinebreakerBombardmentDescription" value="Ігнаруе зьніжэньне шкоды ад далёкага бою адзінкі-цэлі, калі знаходзіцца поруч з хаўрусным Ачышчальнікам."/>
 	<entry name="Luminagen" value="Люмінаген"/>
-	<entry name="LuminagenDescription" value="Часова зьніжае зьніжае шкоду ад далёкага бою цэлевай адзінкі."/>
+	<entry name="LuminagenDescription" value="Часова зьніжае зьніжае шкоду ад далёкага бою адзінкі-цэлі."/>
 	<entry name="LocatorBeacon" value="Маяк-Лакатар"/>
 	<entry name="LocatorBeaconDescription" value="Дазваляе не губляць ачкоў дзеяньняў за Арбітальнае Разгортваньне, калі разгортваньне адбываецца поруч з гэтай адзінкай."/>
 	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
@@ -987,7 +987,7 @@
 	<entry name="MonstrousCreatureDescription" value="Класіфікацыя."/>
 	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank–like the Tyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
 	<entry name="MoraleSoak" value="Паглынаньне Маралі"/>
-	<entry name="MoraleSoakDescription" value="Зьніжае страты маралі цэлевай адзінкі."/>
+	<entry name="MoraleSoakDescription" value="Зьніжае страты маралі адзінкі-цэлі."/>
 	<entry name="MoveThroughCover" value="Рух праз Хованкі"/>
 	<entry name="MoveThroughCoverDescription" value="Адсутнічае штраф за перасоўваньне па лясах і імперскіх руінах."/>
 	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
@@ -1228,16 +1228,16 @@
 	<entry name="Orks/WingMissilesDescription" value="Павялічвае трапнасьць супраць машын."/>
 	<entry name="Outpost" value="Аванпост"/>
 	<entry name="OutpostDescription" value="Павялічвае зьніжэньне шкоды і хуткасьць лячэньня хаўрусных адзінак. Павялічвае зьніжэньне шкоды ад далёкага бою для пяхоты."/>
-	<entry name="Outflank" value="Абыход Фланга"/>
+	<entry name="Outflank" value="Абыход з Флангу"/>
 	<entry name="OutflankDescription" value="Павялічвае трапнасьць, калі знаходзіцца поруч з хаўруснай адзінкай."/>
 	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
-	<entry name="Pinned" value="Скаваны"/>
+	<entry name="Pinned" value="Скаванасьць"/>
 	<entry name="PinnedDescription" value="Зьмяншае рух і трапнасьць у далёкім баі, павялічвае зьніжэньне шкоды ад далёкага бою і не дае адзінцы зьдзяйсьняць атакі назіраньня."/>
 	<entry name="PinnedFlavor" value="Coming under fire without knowing where the shots are coming from, or having ordnance rain down from the skies, can shake the resolve of even the bravest warriors, making them dive flat and cling to whatever cover presents itself."/>
 	<entry name="Pinning" value="Скоўваньне"/>
-	<entry name="PinningDescription" value="Часова зьніжае рух цэлевай напалоханай пяхотнай адзінцы і не дае адзінцы зьдзяйсьняць атакі назіраньня."/>
+	<entry name="PinningDescription" value="Часова зьніжае рух напалоханай пяхотнай адзінкі-цэлі і не дае адзінцы зьдзяйсьняць атакі назіраньня."/>
 	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
-	<entry name="Poisoned" value="Атручаны"/>
+	<entry name="Poisoned" value="Атручанасьць"/>
 	<entry name="PoisonedDescription" value="Павялічвае шкоду супраць пяхотных адзінак і жахлівых стварэньняў."/>
 	<entry name="PoisonedFlavor" value="There are many virulent and lethal poisons in the dark future. It is simplicity itself to adapt such toxins for battlefield use. It does not matter whether they coat weapon-blades or bullets, or are secreted by alien monstrosities – all are lethal."/>
 	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
@@ -1259,21 +1259,21 @@
 	<entry name="PsychicPower" value="Псіхічная Сіла"/>
 	<entry name="PsychicPowerDescription" value="Класіфікацыя."/>
 	<entry name="PsychneueinInfest" value="Заражэньне Псіханэйна"/>
-	<entry name="PsychneueinInfestDescription" value="Прымушае цэлевую адзінку пасьля сьмерці парадзіць Псіханэйна."/>
-	<entry name="PsychneueinInfestation" value="Заражаны Псіханэйнам"/>
-	<entry name="PsychneueinInfestationDescription" value="Спараджае Псіханэйна пасьля сьмерці."/>
+	<entry name="PsychneueinInfestDescription" value="Прымушае адзінку-цэль пасьля сьмерці перарадзіцца ў Псіханэйна."/>
+	<entry name="PsychneueinInfestation" value="Заражанасьць Псіханэйнам"/>
+	<entry name="PsychneueinInfestationDescription" value="Нараджае Псіханэйна пасьля сьмерці."/>
 	<entry name="Psyker" value="Псайкер"/>
 	<entry name="PsykerDescription" value="Класіфікацыя."/>
 	<entry name="PsykerFlavor" value="Psykers are battlefield mystics who harness the power of the Warp."/>
 	<entry name="Rage" value="Лютасьць"/>
 	<entry name="RageDescription" value="Павялічвае атакі."/>
 	<entry name="RageFlavor" value="Bloodlust is a powerful weapon on the battlefield, spurring a warrior to hack his foes apart in a flurry of mindless (but eminently satisfying) carnage."/>
-	<entry name="Rampage" value="Буянства"/>
+	<entry name="Rampage" value="Нястрымнасьць"/>
 	<entry name="RampageDescription" value="Павялічвае атакі, калі ворагаў на суседніх плітках больш, чым хаўрусьнікаў."/>
 	<entry name="RampageFlavor" value="For some warriors, being outnumbered is not a cause for despair, but a call to set about their foes with a berserk counter-attack."/>
 	<entry name="RapidFire" value="Хуткі Агонь"/>
 	<entry name="RapidFireDescription" value="Падвойвае атакі на палове дыстанцыі."/>
-	<entry name="RecoveryGear" value="Набор для Аднаўленьня"/>
+	<entry name="RecoveryGear" value="Набор дзеля Аднаўленьня"/>
 	<entry name="RecoveryGearDescription" value="Павялічвае хуткасьць лячэньня."/>
 	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
 	<entry name="RedPaintJob" value="Чырвоная Фарба"/>
@@ -1285,10 +1285,10 @@
 	<entry name="Regeneration" value="Рэгенерацыя"/>
 	<entry name="RegenerationDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="RegenerationFlavor" value="Some units have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
-	<entry name="Relentless" value="Бязьлітасны"/>
+	<entry name="Relentless" value="Бязьлітаснасьць"/>
 	<entry name="RelentlessDescription" value=" Здымае штраф за цяжкую і артылерыйную зброю ды залп з джалаў."/>
 	<entry name="RelentlessFlavor" value="Relentless warriors are strong of arm—nothing can slow their implacable advance."/>
-	<entry name="RelicPlating" value="Пакрыцьцё рэліквіяй"/>
+	<entry name="RelicPlating" value="Пакрыцьцё Рэліквіямі"/>
 	<entry name="RelicPlatingDescription" value="Павялічвае зьніжэньне шкоды ад вядзьмарскага агню."/>
 	<entry name="RelicPlatingFlavor" value="Occasionally a crew will achieve an empathic relationship with the machine spirit of their battle tank. When such a crew perishes, their remains may be interred within their vehicle, spirits lingering protectively to drive away the baleful energies of the void."/>
 	<entry name="Rending" value="Разьдзіраньне"/>
@@ -1307,7 +1307,7 @@
 	<entry name="Salvo" value="Залп"/>
 	<entry name="SalvoDescription" value="Зьмяншае ўдвая атакі і далёкасьць, калі адзінка перасунулася."/>
 	<entry name="SavantInterlocution" value="Гутарка з Навукоўцам"/>
-	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі і луначоў, калі знаходзіцца поруч з хаўрусным паляўнічым."/>
+	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі і луначоў, калі знаходзіцца поруч з хаўрусным Паляўнічым."/>
 	<entry name="SavantLock" value="Замок Навукоўца"/>
 	<entry name="SavantLockDescription" value="Павялічвае трапнасьць супраць авіяцыі, аэрацыклаў і луначоў."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
@@ -1315,9 +1315,9 @@
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Seeking" value="Пошук"/>
 	<entry name="SeekingDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі."/>
-	<entry name="Shaken" value="Узрушаны"/>
+	<entry name="Shaken" value="Узрушанасьць"/>
 	<entry name="ShakenDescription" value="Зьніжае трапнасьць і павялічвае атрымліваемую шкоду."/>
-	<entry name="Shielded" value="Абаронены"/>
+	<entry name="Shielded" value="Абароненасьць"/>
 	<entry name="ShieldedDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="ShieldedFlavor" value="Some warriors are protected by more than mere physical armour. They may be shielded by force fields, enveloped in mystical energies or have a constitution that can shrug off hits that would put holes in a battle tank."/>
 	<entry name="Shop" value="Крама"/>
@@ -1325,7 +1325,7 @@
 	<entry name="Shred" value="Шрапнэль"/>
 	<entry name="ShredDescription" value="Павялічвае шкоду."/>
 	<entry name="ShredFlavor" value="Some weapons and warriors strike in a flurry of blows, tearing flesh asunder in a series of brutal strikes."/>
-	<entry name="Shrouded" value="Ахінуты"/>
+	<entry name="Shrouded" value="Ахінутасьць"/>
 	<entry name="ShroudedDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="ShroudedFlavor" value="The source of the darkness around these warriors matters not—only a lucky shot has any chance of piercing the shroud that hides them from view."/>
 	<entry name="SiegeMasters" value="Майстры Аблогі"/>
@@ -1357,7 +1357,7 @@
 	<entry name="SistersOfBattle/AvengingZeal" value="Запал Помствы"/>
 	<entry name="SistersOfBattle/AvengingZealDescription" value="Зьніжае страты маралі."/>
 	<entry name="SistersOfBattle/AvengingZealFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
-	<entry name="SistersOfBattle/BerserkKillingMachine" value="Машына для Забойстваў Берсерк"/>
+	<entry name="SistersOfBattle/BerserkKillingMachine" value="Машына для Забойстваў Берсеркер"/>
 	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/BerserkKillingMachineFlavor" value="Tormented by neuro-agoniser arrays that amplify her self-loathing and divorced from her Sisters’ prayers by an enclosing baffle around her head, the unfortunate pilot’s spiritual suffering fuels the Mortifier. They storm forward as terrifying shock troops, before crashing into their foe."/>
 	<entry name="SistersOfBattle/BloodyResolution" value="Крывавая Рашучасьць"/>
@@ -1369,7 +1369,7 @@
 	<entry name="SistersOfBattle/CityGrowth" value="Рэкрутаваньне Паслушнікаў"/>
 	<entry name="SistersOfBattle/CityGrowthDescription" value="Павялічвае хуткасьць узросту гарадоў."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="The Ork invasion and subsequent war on Gladius Prime left many, many orphans. Sending missionaries and preachers into the wastes to recruit for the armies of the Imperium will bolster our city’s growth."/>
-	<entry name="SistersOfBattle/CityTier2" value="Прэцэпторы Анэксес"/>
+	<entry name="SistersOfBattle/CityTier2" value="Прэцэпторы Анэксіс"/>
 	<entry name="SistersOfBattle/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="Given the numbers of refugees pouring into the Preceptory from the ruined hives and wastelands of Gladius Prime, the Canoness Superior has ordered that we sanctify new land for use, bringing any natives into the fold—willingly or not."/>
 	<entry name="SistersOfBattle/CityTier3" value="Крэпасьць-Сьвяцілішча"/>
@@ -1381,16 +1381,16 @@
 	<entry name="SistersOfBattle/EternalCrusade" value="Вечны Крыжовы Паход"/>
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“And we shall not rest, for the God-Emperor’s eye is on us. He sees every soul saved and knows that the number imperilled far outweighs it. We cannot stop, we cannot slow—ours is an eternal crusade.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
-	<entry name="SistersOfBattle/ExpertFighters" value="Зьнішчальнікі-Асы"/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Дасьведчаныя Зьнішчальнікі"/>
 	<entry name="SistersOfBattle/ExpertFightersDescription" value="Павялічвае трапнасьць."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="In most strike wings a handful of aircrafts are flown by veteran pilotes. These fighter aces are truly dangerous foes, able to predict the reaction of their prey with uncanny precision. Few of them survive beyond one or two campaigns as they draw the most dangerous missions where only the most experienced prevail."/>
 	<entry name="SistersOfBattle/FlankSpeed" value="Флангавая Хуткасьць"/>
 	<entry name="SistersOfBattle/FlankSpeedDescription" value="Павялічвае рух, але не дае выкарыстоўваць зброю далёкага бою."/>
 	<entry name="SistersOfBattle/FlankSpeedFlavor" value="“One should not question the nobility of Questor Imperialis. But for faith, none can match the Knight-Lancer, which goes into battle armed only with a spear and its own prodigious speed, praying that it makes it to the enemy lines. It is a fine match for our forces.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Палепшаныя Боепрыпасы"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Прасунутыя Боепрыпасы"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusFlavor" value="“Over the shells of the Castigator, we sprinkle the soil of holy Terra, raise our voices in prayer, and genuflect before the Shrine of St Katherine. Then we add 25% more explosive to each shell and cap them with adamantium.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/IonGauntletShield" value="Іонны Шчыт Рукавіцы"/>
+	<entry name="SistersOfBattle/IonGauntletShield" value="Іённы Шчыт Рукавіцы"/>
 	<entry name="SistersOfBattle/IonGauntletShieldDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/IonGauntletShieldFlavor" value="The ion gauntlet shield generator mounted in the Cerastus’ right gauntlet assembly is more concentrated than the directional ion shield mounted on the Knight Paladin, but lacks its tactical flexibility."/>
 	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Захавальніцы Веры"/>
@@ -1400,7 +1400,7 @@
 	<entry name="SistersOfBattle/KnightParryDescription" value="Зьніжае трапнасьць блізкага бою."/>
 	<entry name="SistersOfBattle/KnightParryFlavor" value="The ion gauntlet shield generator mounted in the Cerastus’ right gauntlet assembly can be used to deflect the mightiest hits in close-combat."/>
 	<entry name="SistersOfBattle/LaudHailer" value="Хвалебнае Вітаньне"/>
-	<entry name="SistersOfBattle/LaudHailerDescription" value="Гэтая адзінка можа зьдяйсьняць акты веры, нават калі ўзрушана."/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Гэтая адзінка можа зьдяйсьняць Акты Веры, нават калі ўзрушана."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Actions/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/LeadTheRighteous" value="<string name='Actions/SistersOfBattle/LeadTheRighteous'/>"/>
 	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Павялічвае трапнасьць."/>
@@ -1424,7 +1424,7 @@
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="<string name='Actions/SistersOfBattle/MiraculousInterventionDescription'/>"/>
 	<entry name="SistersOfBattle/MiraculousInterventionFlavor" value="<string name='Actions/SistersOfBattle/MiraculousInterventionFlavor'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="Мабілізацыя Міністорум"/>
-	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Павялічвае зьбіраньне рэквізіцый."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Павялічвае зьбіраньне рэквізіцыяў."/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="The rites of the Ecclesiarchy are not merely militaristic: prayers and liturgies exist for all functions of the Imperium. To be the focus of such a rite, whether Famulus or Pronatus or even the most base worker, drives them on to greater efforts."/>
 	<entry name="SistersOfBattle/OathOfFaith" value="Зарок Веры"/>
 	<entry name="SistersOfBattle/OathOfFaithDescription" value="Зьніжае трапнасьць і не дае выкарыстоўваць Шчыт Веры."/>
@@ -1432,13 +1432,13 @@
 	<entry name="SistersOfBattle/ParagonWarsuit" value="Дасканалы Вайсковы Гарнітур"/>
 	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="Among the holy arsenal of an Order Militant, the ancient Paragon Warsuits are regarded as sacred vestments with a noble will of their own. Only the most worth Celestians can master its spirit for use in battle."/>
-	<entry name="SistersOfBattle/Protected" value="Абароненая"/>
+	<entry name="SistersOfBattle/Protected" value="Абароненасьць"/>
 	<entry name="SistersOfBattle/ProtectedDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="SistersOfBattle/ProtectedFlavor" value="<string name='Actions/SistersOfBattle/BodyguardFlavor'/>"/>
 	<entry name="SistersOfBattle/PsyShock" value="ПсіШок"/>
 	<entry name="SistersOfBattle/PsyShockDescription" value="Аглушае псайкераў."/>
 	<entry name="SistersOfBattle/PsyShockFlavor" value="<string name='Weapons/CondemnorBoltgunSilverStake'/>"/>
-	<entry name="SistersOfBattle/PurifyingRecitations" value="Ачышчаюшчыя Чытаньні"/>
+	<entry name="SistersOfBattle/PurifyingRecitations" value="Ачышчальныя Чытаньні"/>
 	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Павялічвае шкоду."/>
 	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Our foes call us cold, inhuman, unfeeling. But we feel, we mourn, we rage. Let them feel our warmth—in our flamers, our meltas.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/RagingFervour" value="Люты Запал"/>
@@ -1481,7 +1481,7 @@
 	<entry name="SistersOfBattle/ThePassionDescription" value="Павялічвае трапнасьць блізкага бою."/>
 	<entry name="SistersOfBattle/ThePassionFlavor" value="<string name='Actions/SistersOfBattle/ThePassionFlavor'/>"/>
 	<entry name="SistersOfBattle/UsedActOfFaith" value="Зьдяйсьняецца Акт Веры"/>
-	<entry name="SistersOfBattle/UsedActOfFaithDescription" value="Гэтая адзінка зьдзяйсьняе здольнасьць акт веры ў гэты крок."/>
+	<entry name="SistersOfBattle/UsedActOfFaithDescription" value="Гэтая адзінка зьдзяйсьняе здольнасьць Акт Веры на гэтым кроку."/>
 	<entry name="SistersOfBattle/UsedActOfFaithFlavor" value="<string name='Traits/SistersOfBattle/UsedActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/UsedSacredRite" value="Зьдяйсьняецца 1 Сьвяшчэнны Абрад"/>
 	<entry name="SistersOfBattle/UsedSacredRite2" value="Зьдяйсьняецца 2 Сьвяшчэнных Абрада"/>
@@ -1571,7 +1571,7 @@
 	<entry name="StrafingRunDescription" value="Павялічвае трапнасьць далёкага бою па наземных адзінках."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
 	<entry name="Strikedown" value="Зьбіць з Ног"/>
-	<entry name="StrikedownDescription" value="Часова Зьмяншае рух цэлевай пяхотнай адзінкі."/>
+	<entry name="StrikedownDescription" value="Часова Зьмяншае рух пяхотнай адзінкі-цэлі."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
 	<entry name="Stubborn" value="Упарты"/>
 	<entry name="StubbornDescription" value="Зьніжае страты маралі."/>

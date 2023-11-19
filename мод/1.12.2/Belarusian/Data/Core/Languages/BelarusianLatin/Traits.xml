@@ -367,7 +367,7 @@
 	<entry name="Blast" value="Vybuch"/>
 	<entry name="BlastDescription" value="B'je niekalkich čalcoŭ hrupy abranaj adzinki."/>
 	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="Blighted" value="Atručany"/>
+	<entry name="Blighted" value="Atručanaść"/>
 	<entry name="BlightedDescription" value="Nanosić škodu kožny krok."/>
 	<entry name="Blind" value="Ślapy"/>
 	<entry name="BlindDescription" value="Źnižaje trapnaść."/>
@@ -416,7 +416,7 @@
 	<entry name="ChaosSpaceMarines/BlastDamage" value="Pakryćcio Demaničnaj Kostkaj"/>
 	<entry name="ChaosSpaceMarines/BlastDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="ChaosSpaceMarines/BlastDamageFlavor" value="The Warpsmiths may have only trapped minor horrors in the casings of these explosive shells, but their rage at the point of impact isnt minor—as they shatter and return to the warp, they rage and snatch at anything nearby."/>
-	<entry name="ChaosSpaceMarines/Bloated" value="Raspuchły"/>
+	<entry name="ChaosSpaceMarines/Bloated" value="Raspuchłaść"/>
 	<entry name="ChaosSpaceMarines/BloatedDescription" value="Adnaŭlaje zdaroŭje."/>
 	<entry name="ChaosSpaceMarines/BloatedFlavor" value="Though Nurgles cursed diseases rot a man both physically and spiritually, they also imbue their subjects decaying flesh with inhuman resilience. To such bloated forms, spreading their pox can often bring with it minor blessings from the plague God."/>
 	<entry name="ChaosSpaceMarines/BloodForTheBloodGod" value="Kroŭ Kryvavamu Bohu"/>
@@ -433,7 +433,7 @@
 	<entry name="ChaosSpaceMarines/CityTier3" value="Suviaź z Rokam"/>
 	<entry name="ChaosSpaceMarines/CityTier3Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="ChaosSpaceMarines/CityTier3Flavor" value="The worshippers of Chaos have shed their pretences. Where before they drew souls to them by their weaknesses or by daemon seduction, now they do it by whips and chains. Packs of slavers and warbands hunt their citys hinterland for lives to sacrifice. Only the strongest can escape their reach; the weak are grist to the mill for Chaos."/>
-	<entry name="ChaosSpaceMarines/Crazed" value="Zvar'jacieły"/>
+	<entry name="ChaosSpaceMarines/Crazed" value="Zvar'jaciełaść"/>
 	<entry name="ChaosSpaceMarines/CrazedDescription" value="Kali adzinka atrymała paškodžańni ŭ papiarednim kroku, jana atrymvaje vypadkovym čynam adnu z nastupnych asablivaściaŭ: Ahniavuju Niastrymnaść, Uzrosły Hnieŭ, Kryvavuju Lutaść."/>
 	<entry name="ChaosSpaceMarines/CrazedFlavor" value="All Helbrutes are psychotic and dangerous monstrosities—a veteran of the Long War driven insane by tortured entombment. So attacking a Helbrute might seem rational, but if you fail to destroy it outright, you will only make it angrier and crazier."/> <!-- Hellbrute. -->
 	<entry name="ChaosSpaceMarines/ChampionOfChaos" value="Čempijon Chaosu"/>
@@ -605,7 +605,7 @@
 	<entry name="Daemon" value="Deman"/>
 	<entry name="DaemonDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
-	<entry name="Damaged" value="Paškodžany"/>
+	<entry name="Damaged" value="Paškodžanaść"/>
 	<entry name="DamagedDescription" value="Źmianšaje trapnaść."/>
 	<entry name="Deathshriek" value="Viskat Śmierci"/>
 	<entry name="DeathshriekDescription" value="Nanosić škodu atakoŭcu pierad śmierciu."/>
@@ -789,7 +789,7 @@
 	<entry name="Eldar/VehicleBuildingBonus" value="Zaklik Vauła"/>
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Pavialičvaje vytvorčaść haradoŭ."/>
 	<entry name="Eldar/VehicleBuildingBonusFlavor" value="A spirit stone recovered from Gladius proved to be that of an ancient Bonesinger, lost here millenia past. With their insights into the planets structure and resources, were able to greatly increase our production."/>
-	<entry name="Enslaved" value="Zaniavoleny"/>
+	<entry name="Enslaved" value="Zaniavolenaść"/>
 	<entry name="EnslavedDescription" value="Dziela vyzvaleńnia adzinki treba zabić Zaniavolnika."/>
 	<entry name="EreWeGo" value="Chodźma Tudy!"/>
 	<entry name="EreWeGoDescription" value="Pavialičvaje ruch."/>
@@ -849,7 +849,7 @@
 	<entry name="GetsHotDescription" value="Adzinka hublaje zdaroŭje paśla kožnaha vystrału zbroi dalokaha boju."/>
 	<entry name="GetsHotFlavor" value="Some weapons are fuelled by unstable power sources and risk overheating with each shot—often to the detriment of the wielder."/>
 	<entry name="Graviton" value="Hraviton"/>
-	<entry name="GravitonDescription" value="Maštabuje škodu ŭ adpaviednaści z branioj celevaj adzinki."/>
+	<entry name="GravitonDescription" value="Maštabuje škodu ŭ adpaviednaści z branioj adzinki-celi."/>
 	<entry name="GravitonFlavor" value="Some weapons crush their enemies within their own armour."/>
 	<entry name="Grenade" value="Hranata"/>
 	<entry name="GrenadeDescription" value="Kłasifikacyja."/>
@@ -891,11 +891,11 @@
 	<entry name="Homing" value="Samanaviadzieńnie"/>
 	<entry name="HomingDescription" value="Nie patrabuje pramoj bačnaści."/>
 	<entry name="IgnoresCover" value="Ihnaruje Chovanki"/>
-	<entry name="IgnoresCoverDescription" value="Ihnaruje źmianšeńnie škody ad dalokaha boju celevaj adzinki."/>
+	<entry name="IgnoresCoverDescription" value="Ihnaruje źmianšeńnie škody ad dalokaha boju adzinki-celi."/>
 	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
 	<entry name="Illuminated" value="Aśvietleny"/>
 	<entry name="IlluminatedDescription" value="Źmianšaje źnižeńnie škody ad dalokaha boju."/>
-	<entry name="Immobilized" value="Źnieruchomleny"/>
+	<entry name="Immobilized" value="Źnieruchomlenaść"/>
 	<entry name="ImmobilizedDescription" value="Adzinka nia moža ruchacca."/>
 	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
 	<entry name="ImperialRuinDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju dla piachoty."/>
@@ -930,7 +930,7 @@
 	<entry name="KillshotDescription" value="Pavialičvaje škodu suprać žachlivych stvareńniaŭ, mašyn i fartyfikacyjaŭ, kali znachodzicca poruč z chaŭrusnym drapiežnikam."/>
 	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron—a trio of Predators—their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
 	<entry name="Lance" value="Dzida"/>
-	<entry name="LanceDescription" value="Abmiažoŭvaje braniu celevaj adzinki."/>
+	<entry name="LanceDescription" value="Abmiažoŭvaje braniu adzinki-celi."/>
 	<entry name="LanceFlavor" value="The terror of tank commanders, a lance weapon fires a concentrated beam of energy that can bore through any armour, regardless of thickness."/>
 	<entry name="LargeBlast" value="Vialiki Vybuch"/>
 	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
@@ -943,9 +943,9 @@
 	<entry name="LifeSteal" value="Kradziož Žyćcia"/>
 	<entry name="LifeStealDescription" value="Pieratvorvaje škodu ŭ zdaroŭje dla hetaj i susiednich piachotnych adzinak i žachlivych stvareńniaŭ."/>
 	<entry name="LinebreakerBombardment" value="Liniejnaje Bambavańnie"/>
-	<entry name="LinebreakerBombardmentDescription" value="Ihnaruje źnižeńnie škody ad dalokaha boju celevaj adzinki, kali znachodzicca poruč z chaŭrusnym Ačyščalnikam."/>
+	<entry name="LinebreakerBombardmentDescription" value="Ihnaruje źnižeńnie škody ad dalokaha boju adzinki-celi, kali znachodzicca poruč z chaŭrusnym Ačyščalnikam."/>
 	<entry name="Luminagen" value="Luminahien"/>
-	<entry name="LuminagenDescription" value="Časova źnižaje źnižaje škodu ad dalokaha boju celevaj adzinki."/>
+	<entry name="LuminagenDescription" value="Časova źnižaje źnižaje škodu ad dalokaha boju adzinki-celi."/>
 	<entry name="LocatorBeacon" value="Majak-Łakatar"/>
 	<entry name="LocatorBeaconDescription" value="Dazvalaje nie hublać ačkoŭ dziejańniaŭ za Arbitalnaje Razhortvańnie, kali razhortvańnie adbyvajecca poruč z hetaj adzinkaj."/>
 	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
@@ -987,7 +987,7 @@
 	<entry name="MonstrousCreatureDescription" value="Kłasifikacyja."/>
 	<entry name="MonstrousCreatureFlavor" value="These are towering giants that are capable of crushing a tank–like the Tyranid Carnifex, a creature bioengineered and evolved to become a living battering ram."/>
 	<entry name="MoraleSoak" value="Pahłynańnie Marali"/>
-	<entry name="MoraleSoakDescription" value="Źnižaje straty marali celevaj adzinki."/>
+	<entry name="MoraleSoakDescription" value="Źnižaje straty marali adzinki-celi."/>
 	<entry name="MoveThroughCover" value="Ruch praz Chovanki"/>
 	<entry name="MoveThroughCoverDescription" value="Adsutničaje štraf za pierasoŭvańnie pa lasach i impierskich ruinach."/>
 	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
@@ -1228,16 +1228,16 @@
 	<entry name="Orks/WingMissilesDescription" value="Pavialičvaje trapnaść suprać mašyn."/>
 	<entry name="Outpost" value="Avanpost"/>
 	<entry name="OutpostDescription" value="Pavialičvaje źnižeńnie škody i chutkaść lačeńnia chaŭrusnych adzinak. Pavialičvaje źnižeńnie škody ad dalokaha boju dla piachoty."/>
-	<entry name="Outflank" value="Abychod Fłanha"/>
+	<entry name="Outflank" value="Abychod z Fłanhu"/>
 	<entry name="OutflankDescription" value="Pavialičvaje trapnaść, kali znachodzicca poruč z chaŭrusnaj adzinkaj."/>
 	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
-	<entry name="Pinned" value="Skavany"/>
+	<entry name="Pinned" value="Skavanaść"/>
 	<entry name="PinnedDescription" value="Źmianšaje ruch i trapnaść u dalokim bai, pavialičvaje źnižeńnie škody ad dalokaha boju i nie daje adzincy ździajśniać ataki nazirańnia."/>
 	<entry name="PinnedFlavor" value="Coming under fire without knowing where the shots are coming from, or having ordnance rain down from the skies, can shake the resolve of even the bravest warriors, making them dive flat and cling to whatever cover presents itself."/>
 	<entry name="Pinning" value="Skoŭvańnie"/>
-	<entry name="PinningDescription" value="Časova źnižaje ruch celevaj napałochanaj piachotnaj adzincy i nie daje adzincy ździajśniać ataki nazirańnia."/>
+	<entry name="PinningDescription" value="Časova źnižaje ruch napałochanaj piachotnaj adzinki-celi i nie daje adzincy ździajśniać ataki nazirańnia."/>
 	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
-	<entry name="Poisoned" value="Atručany"/>
+	<entry name="Poisoned" value="Atručanaść"/>
 	<entry name="PoisonedDescription" value="Pavialičvaje škodu suprać piachotnych adzinak i žachlivych stvareńniaŭ."/>
 	<entry name="PoisonedFlavor" value="There are many virulent and lethal poisons in the dark future. It is simplicity itself to adapt such toxins for battlefield use. It does not matter whether they coat weapon-blades or bullets, or are secreted by alien monstrosities – all are lethal."/>
 	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
@@ -1259,21 +1259,21 @@
 	<entry name="PsychicPower" value="Psichičnaja Siła"/>
 	<entry name="PsychicPowerDescription" value="Kłasifikacyja."/>
 	<entry name="PsychneueinInfest" value="Zaražeńnie Psichanejna"/>
-	<entry name="PsychneueinInfestDescription" value="Prymušaje celevuju adzinku paśla śmierci paradzić Psichanejna."/>
-	<entry name="PsychneueinInfestation" value="Zaražany Psichanejnam"/>
-	<entry name="PsychneueinInfestationDescription" value="Sparadžaje Psichanejna paśla śmierci."/>
+	<entry name="PsychneueinInfestDescription" value="Prymušaje adzinku-cel paśla śmierci pieraradzicca ŭ Psichanejna."/>
+	<entry name="PsychneueinInfestation" value="Zaražanaść Psichanejnam"/>
+	<entry name="PsychneueinInfestationDescription" value="Naradžaje Psichanejna paśla śmierci."/>
 	<entry name="Psyker" value="Psajkier"/>
 	<entry name="PsykerDescription" value="Kłasifikacyja."/>
 	<entry name="PsykerFlavor" value="Psykers are battlefield mystics who harness the power of the Warp."/>
 	<entry name="Rage" value="Lutaść"/>
 	<entry name="RageDescription" value="Pavialičvaje ataki."/>
 	<entry name="RageFlavor" value="Bloodlust is a powerful weapon on the battlefield, spurring a warrior to hack his foes apart in a flurry of mindless (but eminently satisfying) carnage."/>
-	<entry name="Rampage" value="Bujanstva"/>
+	<entry name="Rampage" value="Niastrymnaść"/>
 	<entry name="RampageDescription" value="Pavialičvaje ataki, kali vorahaŭ na susiednich plitkach bolš, čym chaŭruśnikaŭ."/>
 	<entry name="RampageFlavor" value="For some warriors, being outnumbered is not a cause for despair, but a call to set about their foes with a berserk counter-attack."/>
 	<entry name="RapidFire" value="Chutki Ahoń"/>
 	<entry name="RapidFireDescription" value="Padvojvaje ataki na pałovie dystancyi."/>
-	<entry name="RecoveryGear" value="Nabor dla Adnaŭleńnia"/>
+	<entry name="RecoveryGear" value="Nabor dziela Adnaŭleńnia"/>
 	<entry name="RecoveryGearDescription" value="Pavialičvaje chutkaść lačeńnia."/>
 	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
 	<entry name="RedPaintJob" value="Čyrvonaja Farba"/>
@@ -1285,10 +1285,10 @@
 	<entry name="Regeneration" value="Rehienieracyja"/>
 	<entry name="RegenerationDescription" value="Adnaŭlaje zdaroŭje kožny krok."/>
 	<entry name="RegenerationFlavor" value="Some units have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
-	<entry name="Relentless" value="Biaźlitasny"/>
+	<entry name="Relentless" value="Biaźlitasnaść"/>
 	<entry name="RelentlessDescription" value=" Zdymaje štraf za ciažkuju i artyleryjnuju zbroju dy załp z džałaŭ."/>
 	<entry name="RelentlessFlavor" value="Relentless warriors are strong of arm—nothing can slow their implacable advance."/>
-	<entry name="RelicPlating" value="Pakryćcio relikvijaj"/>
+	<entry name="RelicPlating" value="Pakryćcio Relikvijami"/>
 	<entry name="RelicPlatingDescription" value="Pavialičvaje źnižeńnie škody ad viadźmarskaha ahniu."/>
 	<entry name="RelicPlatingFlavor" value="Occasionally a crew will achieve an empathic relationship with the machine spirit of their battle tank. When such a crew perishes, their remains may be interred within their vehicle, spirits lingering protectively to drive away the baleful energies of the void."/>
 	<entry name="Rending" value="Raździrańnie"/>
@@ -1307,7 +1307,7 @@
 	<entry name="Salvo" value="Załp"/>
 	<entry name="SalvoDescription" value="Źmianšaje ŭdvaja ataki i dalokaść, kali adzinka pierasunułasia."/>
 	<entry name="SavantInterlocution" value="Hutarka z Navukoŭcam"/>
-	<entry name="SavantInterlocutionDescription" value="Pavialičvaje trapnaść u dalokim bai suprać avijacyi i łunačoŭ, kali znachodzicca poruč z chaŭrusnym palaŭničym."/>
+	<entry name="SavantInterlocutionDescription" value="Pavialičvaje trapnaść u dalokim bai suprać avijacyi i łunačoŭ, kali znachodzicca poruč z chaŭrusnym Palaŭničym."/>
 	<entry name="SavantLock" value="Zamok Navukoŭca"/>
 	<entry name="SavantLockDescription" value="Pavialičvaje trapnaść suprać avijacyi, aeracykłaŭ i łunačoŭ."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
@@ -1315,9 +1315,9 @@
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Seeking" value="Pošuk"/>
 	<entry name="SeekingDescription" value="Pavialičvaje trapnaść u dalokim bai suprać avijacyi."/>
-	<entry name="Shaken" value="Uzrušany"/>
+	<entry name="Shaken" value="Uzrušanaść"/>
 	<entry name="ShakenDescription" value="Źnižaje trapnaść i pavialičvaje atrymlivajemuju škodu."/>
-	<entry name="Shielded" value="Abaronieny"/>
+	<entry name="Shielded" value="Abaronienaść"/>
 	<entry name="ShieldedDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="ShieldedFlavor" value="Some warriors are protected by more than mere physical armour. They may be shielded by force fields, enveloped in mystical energies or have a constitution that can shrug off hits that would put holes in a battle tank."/>
 	<entry name="Shop" value="Krama"/>
@@ -1325,7 +1325,7 @@
 	<entry name="Shred" value="Šrapnel"/>
 	<entry name="ShredDescription" value="Pavialičvaje škodu."/>
 	<entry name="ShredFlavor" value="Some weapons and warriors strike in a flurry of blows, tearing flesh asunder in a series of brutal strikes."/>
-	<entry name="Shrouded" value="Achinuty"/>
+	<entry name="Shrouded" value="Achinutaść"/>
 	<entry name="ShroudedDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="ShroudedFlavor" value="The source of the darkness around these warriors matters not—only a lucky shot has any chance of piercing the shroud that hides them from view."/>
 	<entry name="SiegeMasters" value="Majstry Abłohi"/>
@@ -1357,7 +1357,7 @@
 	<entry name="SistersOfBattle/AvengingZeal" value="Zapał Pomstvy"/>
 	<entry name="SistersOfBattle/AvengingZealDescription" value="Źnižaje straty marali."/>
 	<entry name="SistersOfBattle/AvengingZealFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
-	<entry name="SistersOfBattle/BerserkKillingMachine" value="Mašyna dla Zabojstvaŭ Biersierk"/>
+	<entry name="SistersOfBattle/BerserkKillingMachine" value="Mašyna dla Zabojstvaŭ Biersierkier"/>
 	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="SistersOfBattle/BerserkKillingMachineFlavor" value="Tormented by neuro-agoniser arrays that amplify her self-loathing and divorced from her Sisters prayers by an enclosing baffle around her head, the unfortunate pilots spiritual suffering fuels the Mortifier. They storm forward as terrifying shock troops, before crashing into their foe."/>
 	<entry name="SistersOfBattle/BloodyResolution" value="Kryvavaja Rašučaść"/>
@@ -1369,7 +1369,7 @@
 	<entry name="SistersOfBattle/CityGrowth" value="Rekrutavańnie Pasłušnikaŭ"/>
 	<entry name="SistersOfBattle/CityGrowthDescription" value="Pavialičvaje chutkaść uzrostu haradoŭ."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="The Ork invasion and subsequent war on Gladius Prime left many, many orphans. Sending missionaries and preachers into the wastes to recruit for the armies of the Imperium will bolster our citys growth."/>
-	<entry name="SistersOfBattle/CityTier2" value="Preceptory Aneksies"/>
+	<entry name="SistersOfBattle/CityTier2" value="Preceptory Aneksis"/>
 	<entry name="SistersOfBattle/CityTier2Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="Given the numbers of refugees pouring into the Preceptory from the ruined hives and wastelands of Gladius Prime, the Canoness Superior has ordered that we sanctify new land for use, bringing any natives into the fold—willingly or not."/>
 	<entry name="SistersOfBattle/CityTier3" value="Krepaść-Śviacilišča"/>
@@ -1381,16 +1381,16 @@
 	<entry name="SistersOfBattle/EternalCrusade" value="Viečny Kryžovy Pachod"/>
 	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Pavialičvaje vytvorčaść haradoŭ."/>
 	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="“And we shall not rest, for the God-Emperors eye is on us. He sees every soul saved and knows that the number imperilled far outweighs it. We cannot stop, we cannot slow—ours is an eternal crusade.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
-	<entry name="SistersOfBattle/ExpertFighters" value="Źniščalniki-Asy"/>
+	<entry name="SistersOfBattle/ExpertFighters" value="Daśviedčanyja Źniščalniki"/>
 	<entry name="SistersOfBattle/ExpertFightersDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="In most strike wings a handful of aircrafts are flown by veteran pilotes. These fighter aces are truly dangerous foes, able to predict the reaction of their prey with uncanny precision. Few of them survive beyond one or two campaigns as they draw the most dangerous missions where only the most experienced prevail."/>
 	<entry name="SistersOfBattle/FlankSpeed" value="Fłanhavaja Chutkaść"/>
 	<entry name="SistersOfBattle/FlankSpeedDescription" value="Pavialičvaje ruch, ale nie daje vykarystoŭvać zbroju dalokaha boju."/>
 	<entry name="SistersOfBattle/FlankSpeedFlavor" value="“One should not question the nobility of Questor Imperialis. But for faith, none can match the Knight-Lancer, which goes into battle armed only with a spear and its own prodigious speed, praying that it makes it to the enemy lines. It is a fine match for our forces.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Palepšanyja Bojeprypasy"/>
+	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Prasunutyja Bojeprypasy"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusFlavor" value="“Over the shells of the Castigator, we sprinkle the soil of holy Terra, raise our voices in prayer, and genuflect before the Shrine of St Katherine. Then we add 25% more explosive to each shell and cap them with adamantium.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
-	<entry name="SistersOfBattle/IonGauntletShield" value="Ionny Ščyt Rukavicy"/>
+	<entry name="SistersOfBattle/IonGauntletShield" value="Ijonny Ščyt Rukavicy"/>
 	<entry name="SistersOfBattle/IonGauntletShieldDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="SistersOfBattle/IonGauntletShieldFlavor" value="The ion gauntlet shield generator mounted in the Cerastus right gauntlet assembly is more concentrated than the directional ion shield mounted on the Knight Paladin, but lacks its tactical flexibility."/>
 	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Zachavalnicy Viery"/>
@@ -1400,7 +1400,7 @@
 	<entry name="SistersOfBattle/KnightParryDescription" value="Źnižaje trapnaść blizkaha boju."/>
 	<entry name="SistersOfBattle/KnightParryFlavor" value="The ion gauntlet shield generator mounted in the Cerastus right gauntlet assembly can be used to deflect the mightiest hits in close-combat."/>
 	<entry name="SistersOfBattle/LaudHailer" value="Chvalebnaje Vitańnie"/>
-	<entry name="SistersOfBattle/LaudHailerDescription" value="Hetaja adzinka moža źdiajśniać akty viery, navat kali ŭzrušana."/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Hetaja adzinka moža źdiajśniać Akty Viery, navat kali ŭzrušana."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Actions/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/LeadTheRighteous" value="<string name='Actions/SistersOfBattle/LeadTheRighteous'/>"/>
 	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Pavialičvaje trapnaść."/>
@@ -1424,7 +1424,7 @@
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="<string name='Actions/SistersOfBattle/MiraculousInterventionDescription'/>"/>
 	<entry name="SistersOfBattle/MiraculousInterventionFlavor" value="<string name='Actions/SistersOfBattle/MiraculousInterventionFlavor'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="Mabilizacyja Ministorum"/>
-	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Pavialičvaje źbirańnie rekvizicyj."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Pavialičvaje źbirańnie rekvizicyjaŭ."/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="The rites of the Ecclesiarchy are not merely militaristic: prayers and liturgies exist for all functions of the Imperium. To be the focus of such a rite, whether Famulus or Pronatus or even the most base worker, drives them on to greater efforts."/>
 	<entry name="SistersOfBattle/OathOfFaith" value="Zarok Viery"/>
 	<entry name="SistersOfBattle/OathOfFaithDescription" value="Źnižaje trapnaść i nie daje vykarystoŭvać Ščyt Viery."/>
@@ -1432,13 +1432,13 @@
 	<entry name="SistersOfBattle/ParagonWarsuit" value="Daskanały Vajskovy Harnitur"/>
 	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="Among the holy arsenal of an Order Militant, the ancient Paragon Warsuits are regarded as sacred vestments with a noble will of their own. Only the most worth Celestians can master its spirit for use in battle."/>
-	<entry name="SistersOfBattle/Protected" value="Abaronienaja"/>
+	<entry name="SistersOfBattle/Protected" value="Abaronienaść"/>
 	<entry name="SistersOfBattle/ProtectedDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="SistersOfBattle/ProtectedFlavor" value="<string name='Actions/SistersOfBattle/BodyguardFlavor'/>"/>
 	<entry name="SistersOfBattle/PsyShock" value="PsiŠok"/>
 	<entry name="SistersOfBattle/PsyShockDescription" value="Ahłušaje psajkieraŭ."/>
 	<entry name="SistersOfBattle/PsyShockFlavor" value="<string name='Weapons/CondemnorBoltgunSilverStake'/>"/>
-	<entry name="SistersOfBattle/PurifyingRecitations" value="Ačyščajuščyja Čytańni"/>
+	<entry name="SistersOfBattle/PurifyingRecitations" value="Ačyščalnyja Čytańni"/>
 	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Pavialičvaje škodu."/>
 	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Our foes call us cold, inhuman, unfeeling. But we feel, we mourn, we rage. Let them feel our warmth—in our flamers, our meltas.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/RagingFervour" value="Luty Zapał"/>
@@ -1481,7 +1481,7 @@
 	<entry name="SistersOfBattle/ThePassionDescription" value="Pavialičvaje trapnaść blizkaha boju."/>
 	<entry name="SistersOfBattle/ThePassionFlavor" value="<string name='Actions/SistersOfBattle/ThePassionFlavor'/>"/>
 	<entry name="SistersOfBattle/UsedActOfFaith" value="Źdiajśniajecca Akt Viery"/>
-	<entry name="SistersOfBattle/UsedActOfFaithDescription" value="Hetaja adzinka ździajśniaje zdolnaść akt viery ŭ hety krok."/>
+	<entry name="SistersOfBattle/UsedActOfFaithDescription" value="Hetaja adzinka ździajśniaje zdolnaść Akt Viery na hetym kroku."/>
 	<entry name="SistersOfBattle/UsedActOfFaithFlavor" value="<string name='Traits/SistersOfBattle/UsedActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/UsedSacredRite" value="Źdiajśniajecca 1 Śviaščenny Abrad"/>
 	<entry name="SistersOfBattle/UsedSacredRite2" value="Źdiajśniajecca 2 Śviaščennych Abrada"/>
@@ -1571,7 +1571,7 @@
 	<entry name="StrafingRunDescription" value="Pavialičvaje trapnaść dalokaha boju pa naziemnych adzinkach."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
 	<entry name="Strikedown" value="Źbić z Noh"/>
-	<entry name="StrikedownDescription" value="Časova Źmianšaje ruch celevaj piachotnaj adzinki."/>
+	<entry name="StrikedownDescription" value="Časova Źmianšaje ruch piachotnaj adzinki-celi."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
 	<entry name="Stubborn" value="Uparty"/>
 	<entry name="StubbornDescription" value="Źnižaje straty marali."/>
