@@ -111,10 +111,10 @@
 	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Павялічвае трапнасьць у блізкім баі."/>
 	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="<string name='Actions/AdeptusMechanicus/ChantOfTheRemorselessFistFlavor'/>"/>
 	<entry name="AdeptusMechanicus/CityTier2" value="Мавораформінг"/>
-	<entry name="AdeptusMechanicus/CityTier2Description" value="Павялічвае радыус захопу пліткі."/>
+	<entry name="AdeptusMechanicus/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="AdeptusMechanicus/CityTier2Flavor" value="Terraforming is the ironically-named process of making a planet more livable for humans, exactly unlike the devastated bulk of Earth, hidden beneath the continent-sprawling Imperial Palace. Mavoraforming has no such pretensions, turning a planet into an exploited, poisoned dotted with incredibly productive cities, just like home."/>
-	<entry name="AdeptusMechanicus/CityTier3" value="Усталяваньне Сьвету-Вульля"/>
-	<entry name="AdeptusMechanicus/CityTier3Description" value="Павялічвае радыус захопу пліткі."/>
+	<entry name="AdeptusMechanicus/CityTier3" value="Ухвала Сьвету-Вульля"/>
+	<entry name="AdeptusMechanicus/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="AdeptusMechanicus/CityTier3Flavor" value="The final conversion of a planet to a Hive World is visible from space. Gone are the rolling hills, the valleys, the trees. Vanished the lakes, seas and breathable atmosphere. Biting grit blows over dust bowls where a few recalcitrant Imperials eke out subsistence farms in the shadows of sky-piercing Hive spires, filled with billions of souls."/>
 	<entry name="AdeptusMechanicus/Cognis" value="Когніс"/>
 	<entry name="AdeptusMechanicus/CognisDescription" value="Абмяжоўвае страту трапнасьці."/>
@@ -123,10 +123,10 @@
 	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Зьмяншае страту маралі."/>
 	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="<string name='Actions/AdeptusMechanicus/CommandUplinkFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperative" value="<string name='Actions/AdeptusMechanicus/ConquerorImperative'/>"/>
-	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Павялічвае трапнасьць у блізкім баі, але зьмяншае ў далёкім."/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Павялічвае трапнасьць блізкага бою, але зьмяншае далёкага."/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="<string name='Actions/AdeptusMechanicus/ConquerorImperativeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ControlEdict" value="<string name='Actions/AdeptusMechanicus/ControlEdict'/>"/>
-	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Выдаляе Дактрыну Імператыў Малус."/>
+	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Выдаляе Дактрыну Імператыў малус."/>
 	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="<string name='Actions/AdeptusMechanicus/ControlEdictFlavor'/>"/>
 	<entry name="AdeptusMechanicus/DartingHunters" value="Імклівыя Паляўнічыя"/>
 	<entry name="AdeptusMechanicus/DartingHuntersDescription" value="Дзеяньні не спажываюць рух."/>
@@ -152,10 +152,10 @@
 	<entry name="AdeptusMechanicus/EnslavedToThePast" value="Заняволеныя Мінулым"/>
 	<entry name="AdeptusMechanicus/EnslavedToThePastDescription" value="Павялічвае кошт дасьледаваньняў."/>
 	<entry name="AdeptusMechanicus/EnslavedToThePastFlavor" value="Ultimately the Cult’s citadels of knowledge are built upon a foundation of lies. The ability to truly innovate has long been lost, replaced with a reverence for the times when Humanity was the architect of its own destiny. No longer the master of its creations, the Cult Mechanicus is enslaved to the past. It maintains the glories of yesteryear with rite, dogma and edict instead of discernment and comprehension. Even the theoretically simple process of activating a weapon is preceded by the application of ritual oils, the burning of sacred resins and the chanting of long and complex hymns. And yet so long as the process works – or rather, so long as the Cult’s armies can obliterate those who displease them – the Tech-Priests are content to tread the slippery path toward entropy and ignorance."/>
-	<entry name="AdeptusMechanicus/GuldiresOrison" value="Пацеры Гульдаэра"/>
+	<entry name="AdeptusMechanicus/GuldiresOrison" value="Пацеры Гульдзіра"/>
 	<entry name="AdeptusMechanicus/GuldiresOrisonDescription" value="Зьніжае трапнасьць."/>
 	<entry name="AdeptusMechanicus/GuldiresOrisonFlavor" value="Guldire was a Chief Warpsmith of the Word Bearers under Erebus. His ‘Orison’ is a prayer of pure corrupted machine code, carrying demonic whispers from the heart of the Warp. Though rendered non-lethal by Imperial defenses, it is still incredibly distracting…"/>
-	<entry name="AdeptusMechanicus/FidorumVossPrime" value="Фідорум Вос Прайм"/>
+	<entry name="AdeptusMechanicus/FidorumVossPrime" value="Фідорум Восс Прайм"/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Павялічвае вытворчасьць уплыву за кожны будынак на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="The Cult Mechanicus Priesthood venerate the Forge World of Voss Prime for its loyalty above all others—its loyalty to the Imperium is second-to-none. Even when Mars itself fell to the Dark Mechanicum, Voss Prime continued to churn out armaments and was instrumental in the defeat of the Horus Heresy."/>
 	<entry name="AdeptusMechanicus/GalvanicField" value="<string name='Actions/AdeptusMechanicus/GalvanicField'/>"/>
@@ -194,8 +194,8 @@
 	<entry name="AdeptusMechanicus/MonolithicBuildings" value="Маналітнае Будаваньне"/>
 	<entry name="AdeptusMechanicus/MonolithicBuildingsDescription" value="Павялічвае вытворчасьць рэсурсаў аднолькавага тыпу на адной плітцы для будынкаў ня штабкватэр. Зьмяншае вытворчасьць розных тыпаў рэсурсаў на адной плітцы для будынкаў ня штабкватэр."/>
 	<entry name="AdeptusMechanicus/MonolithicBuildingsFlavor" value="“In uniformity, specialisations. In specialisation, efficiency. In efficiency, ecstasy.”<br/>—Kelphor Zhuko-Dim, Arch Flagellant"/>
-	<entry name="AdeptusMechanicus/NeurostaticInterface" value="Нейрастатычны Інтэрфейс"/>
-	<entry name="AdeptusMechanicus/NeurostaticInterfaceDescription" value="Павялічвае зьніжэньне шкоды пры атацы суседніх варожых адзінак."/>
+	<entry name="AdeptusMechanicus/NeurostaticInterface" value="Нейрастатычны Інтэрфэйс"/>
+	<entry name="AdeptusMechanicus/NeurostaticInterfaceDescription" value="Павялічвае зьніжэньне шкоды пасьля атакі суседняй варожай адзінкі."/>
 	<entry name="AdeptusMechanicus/NeurostaticInterfaceFlavor" value="Amidst the audio-visual cacophony accompanied by a Sicarian Infiltrator attack is wide-band electromagnetic interference, designed to cripple enemy systems and set nerves jangling."/>
 	<entry name="AdeptusMechanicus/Omnispex" value="Амніспэкс"/>
 	<entry name="AdeptusMechanicus/OmnispexDescription" value="Абыходзіць зьніжэньне шкоды ў далёкім баі."/>
@@ -223,7 +223,7 @@
 	<entry name="AdeptusMechanicus/Shroudpsalm" value="<string name='Actions/AdeptusMechanicus/Shroudpsalm'/>"/>
 	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Павялічвае зьніжэньне шкоды ў далёкім боі."/>
 	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="<string name='Actions/AdeptusMechanicus/ShroudpsalmFlavor'/>"/>
-	<entry name="AdeptusMechanicus/SiphonVigour" value="Перапампаваць Энергію"/>
+	<entry name="AdeptusMechanicus/SiphonVigour" value="Перапампоўка Энергіі"/>
 	<entry name="AdeptusMechanicus/SiphonVigourDescription" value="Забойства варожай адзінкі павялічвае непаражальнае зьніжэньне шкоды."/>
 	<entry name="AdeptusMechanicus/SiphonVigourFlavor" value="<string name='Traits/AdeptusMechanicus/SiphonedVigourFlavor'/>"/>
 	<entry name="AdeptusMechanicus/SiphonedVigour" value="Перапампанаваная Энергія"/>
@@ -267,10 +267,10 @@
 	<entry name="AndTheyShallKnowNoFearDescription" value="Зьніжае страты маралі і дае імунітэт да страху."/>
 	<entry name="AndTheyShallKnowNoFearFlavor" value="Some warriors refuse to surrender, fighting on whatever the odds."/>
 	<entry name="Animosity" value="Варожасьць"/>
-	<entry name="AnimosityDescription" value="Зьменшвае атакі."/>
+	<entry name="AnimosityDescription" value="Зьмяншае атакі."/>
 	<entry name="AnimosityFlavor" value="When the tides of Waaagh! flow, the Orks are visibly larger and stronger—but when the tides ebb, the Orks are weakened too."/>
 	<entry name="AntiGravUpwash" value="Антыгравітацыйная Падушка"/>
-	<entry name="AntiGravUpwashDescription" value="Павялічвае рух, калі здароўе вышэй за 66%."/>
+	<entry name="AntiGravUpwashDescription" value="Павялічвае рух, калі здароўе вышэйшае за 66%."/>
 	<entry name="ApocalypticBarrage" value="Апакаліптычны Загараджальны Агонь"/>
 	<entry name="ApocalypticBarrageDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="ApocalypticBarrageFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
@@ -300,13 +300,13 @@
 	<entry name="AstraMilitarum/BlastDamage" value="Палепшаная Аскепкавая Абалонка"/>
 	<entry name="AstraMilitarum/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="AstraMilitarum/BlastDamageFlavor" value="By using a more advanced engraving protocol on the casing, the lethality of explosive is much improved."/>
-	<entry name="AstraMilitarum/BoltDamage" value="Кракен Балты"/>
+	<entry name="AstraMilitarum/BoltDamage" value="Балты Кракена"/>
 	<entry name="AstraMilitarum/BoltDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="AstraMilitarum/BoltDamageFlavor" value="An Astartes-derived upgrade to the standard bolter, this kit allows a bolter to fire Kraken penetrator rounds, hard-tipped projectiles with a heavier explosive charge. These heavier rounds are much favoured by the Space Marine Deathwatch alien hunters."/>
-	<entry name="AstraMilitarum/CityTier2" value="Пашырэньне Субструктуры"/>
+	<entry name="AstraMilitarum/CityTier2" value="Пашырэньне Падструктуры"/>
 	<entry name="AstraMilitarum/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="AstraMilitarum/CityTier2Flavor" value="One day, this will be a Hive City—a billion people in one structure, towering over a poisoned world—but first, this settlement needs to expand a little, to set the foundations for the galaxies' biggest conurbations."/>
-	<entry name="AstraMilitarum/CityTier3" value="Тунэлі Забесьпячэньня Субструктуры"/>
+	<entry name="AstraMilitarum/CityTier3" value="Тунэлі Забесьпячэньня Падструктуры"/>
 	<entry name="AstraMilitarum/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="AstraMilitarum/CityTier3Flavor" value="The Departmento Munitorum might be inefficient, but they can plan and the Techpriest Explorators and Servitors can build. These bunkered tunnels allow the Astra Militarum commander to oversee a much larger city area, without losing defensive control."/>
 	<entry name="AstraMilitarum/ShootSharpAndScarper" value="Імклівы Стрэл і Ўцёкі"/>
@@ -373,7 +373,7 @@
 	<entry name="BlindDescription" value="Зьніжае трапнасьць."/>
 	<entry name="BlindFlavor" value="This attack looses a brilliant flare of light, searing the sight of the victim and forcing him to fight blind for a few moments."/>
 	<entry name="Blinding" value="Асьляпленьне"/>
-	<entry name="BlindingDescription" value="Зьніжае трапнасьць цэлевай пяхоты або жахлівага стварэньня."/>
+	<entry name="BlindingDescription" value="Зьніжае трапнасьць абранай пяхоты або жахлівага стварэньня."/>
 	<entry name="BloodBlessing" value="Дабраславеньне Крыві"/>
 	<entry name="BloodBlessingDescription" value="Павялічвае атакі."/>
 	<entry name="BloodBlessingFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
@@ -382,7 +382,7 @@
 	<entry name="BolsterDefencesFlavor" value="<string name='Actions/BolsterDefencesFlavor'/>"/>
 	<entry name="BoltWeapon" value="Болтарная Зброя"/>
 	<entry name="BoltWeaponFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
-	<entry name="BolterDrill" value="Болтар Дрыль"/>
+	<entry name="BolterDrill" value="Болтар-Дрыль"/>
 	<entry name="BolterDrillDescription" value="Павялічвае трапнасьць."/>
 	<entry name="BolterDrillFlavor" value="<string name='Actions/BolterDrillFlavor'/>"/>
 	<entry name="Bomb" value="Бомба"/>
@@ -405,7 +405,7 @@
 	<entry name="CamoNettingFlavor" value="Whether rare cameleoline netting or crude webbing woven with local flora, camo netting helps conceal a vehicle from prying eyes."/>
 	<entry name="Capturable" value="Захопліваемы"/>
 	<entry name="CapturableDescription" value="Адзінка можа быць захоплена іншай суседняй адзінкай."/>
-	<entry name="CeramitePlating" value="Керамітавая Абшыўка"/>
+	<entry name="CeramitePlating" value="Керамітныя Пласьціны"/>
 	<entry name="CeramitePlatingDescription" value="Павялічвае браню."/>
 	<entry name="CeramitePlatingFlavor" value="These hull plates are thrice-blessed by the Chapter's Techmarines and anointed with the seven sacred unguents of thermic warding to protect against the extreme conditions of orbital re-entry. Such precautions also serve to thwart the fury of certain weapons, absorbing and dispersing even the most extreme temperatures and microwave emissions."/>
 	<entry name="Chaff" value="Адбівальнікі"/>
@@ -422,7 +422,7 @@
 	<entry name="ChaosSpaceMarines/BloodForTheBloodGod" value="Кроў Крываваму Богу"/>
 	<entry name="ChaosSpaceMarines/BloodForTheBloodGodDescription" value="Павялічвае атакі."/>
 	<entry name="ChaosSpaceMarines/BloodRage" value="Крывавая Лютасьць"/>
-	<entry name="ChaosSpaceMarines/BloodRageDescription" value="Павялічвае атакі блізкага бою і рух."/>
+	<entry name="ChaosSpaceMarines/BloodRageDescription" value="Павялічвае атакі блізкага бою і руху."/>
 	<entry name="ChaosSpaceMarines/BloodRageFlavor" value="The Helbrute launches itself at nearby enemies, driving its cursed Dreadnought prison past its ancient safety limits into behaviour thoroughly daemonic."/> <!-- Hellbrute Crazed result. -->
 	<entry name="ChaosSpaceMarines/BoltDamage" value="Болтары Народжаныя ў Варпе"/>
 	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
@@ -437,7 +437,7 @@
 	<entry name="ChaosSpaceMarines/CrazedDescription" value="Калі адзінка атрымала пашкоджаньні ў папярэднім кроку, яна атрымвае выпадковым чынам адну з наступных асаблівасьцяў: Агнявую Нястрымнасьць, Узрослы Гнеў, Крывавую Лютасьць."/>
 	<entry name="ChaosSpaceMarines/CrazedFlavor" value="All Helbrutes are psychotic and dangerous monstrosities—a veteran of the Long War driven insane by tortured entombment. So attacking a Helbrute might seem rational, but if you fail to destroy it outright, you will only make it angrier and crazier."/> <!-- Hellbrute. -->
 	<entry name="ChaosSpaceMarines/ChampionOfChaos" value="Чэмпіён Хаосу"/>
-	<entry name="ChaosSpaceMarines/ChampionOfChaosDescription" value="Забойства варожай адзінкі можа ўзнагародзіць адзінку дарункам хаосу або ператварыць не герояў ува Параджэньне Хаосу або Дэман-Прынца."/>
+	<entry name="ChaosSpaceMarines/ChampionOfChaosDescription" value="Забойства варожай адзінкі можа ўзнагародзіць адзінку Дарункам Хаосу або ператварыць не герояў ува Параджэньне Хаосу ці Дэман-Прынца."/>
 	<entry name="ChaosSpaceMarines/ChampionOfChaosFlavor" value="It is not unusual for the Chaos powers to bestow strange boons and mutations upon those who kill in their name. Not all of these boons are beneficial—the dark ones are as fickle as they are inscrutable, and even their most ardent followers are little more than pawns in a celestial game."/>
 	<entry name="ChaosSpaceMarines/CrystallineBody" value="Крышталічнае Цела"/>
 	<entry name="ChaosSpaceMarines/CrystallineBodyDescription" value="Дарунак Хаосу, які павялічвае здароўе."/>
@@ -452,7 +452,7 @@
 	<entry name="ChaosSpaceMarines/DarkGloryDescription" value="<string name='Actions/ChaosSpaceMarines/DarkGloryDescription'/>"/>
 	<entry name="ChaosSpaceMarines/DarkGloryFlavor" value="<string name='Actions/ChaosSpaceMarines/DarkGloryFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/DevourerOfSouls" value="Паглынальнік Душ"/>
-	<entry name="ChaosSpaceMarines/DevourerOfSoulsDescription" value="Аднаўляе здароўе кожны крок або пры кожным забойстве варожай адзінкі."/>
+	<entry name="ChaosSpaceMarines/DevourerOfSoulsDescription" value="Аднаўляе здароўе кожны крок або пасьля кожнага забойства варожай адзінкі."/>
 	<entry name="ChaosSpaceMarines/DevourerOfSoulsFlavor" value="Venomcrawlers are perhaps the most sophisticated works of the Warpsmith, spider-like Daemon Engines that crave empyric energy and will consume other daemonic entities to get it—or even the living."/> <!-- Venomcrawler -->
 	<entry name="ChaosSpaceMarines/DirgeCaster" value="<string name='Actions/ChaosSpaceMarines/DirgeCaster'/>"/>
 	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Не дае адзінцы зьдзяйсьняць атакі назіраньня."/>
@@ -491,7 +491,7 @@
 	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="ChaosSpaceMarines/LasDamageFlavor" value="Going beyond the Imperium’s proscribed technologies has allowed the Dark Mechanicum to unlock more lethal and more horrifying weapon capabilities."/>
 	<entry name="ChaosSpaceMarines/LasherTendrils" value="<string name='Actions/ChaosSpaceMarines/LasherTendrils'/>"/>
-	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Зьменшвае атакі блізкага бою."/>
+	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Зьмяншае атакі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/LasherTendrilsFlavor" value="<string name='Actions/ChaosSpaceMarines/LasherTendrilsFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LoathsomeAura" value="<string name='Actions/ChaosSpaceMarines/LoathsomeAura'/>"/>
 	<entry name="ChaosSpaceMarines/LoathsomeAuraDescription" value="Павялічвае непаражальнае зьніжэньне шкоды."/>
@@ -547,17 +547,17 @@
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasure" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasure'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Павялічвае вытворчасьць уплыву і лаяльнасьці."/>
 	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfUnholyPleasureFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/RisingFury" value="Узрослы Гнеў"/>
+	<entry name="ChaosSpaceMarines/RisingFury" value="Растучая Лютасьць"/>
 	<entry name="ChaosSpaceMarines/RisingFuryDescription" value="Павялічвае атакі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/RisingFuryFlavor" value="The Helbrute’s rage overtakes it, throwing it into a frenzy of blows against anything nearby."/> <!-- Hellbrute Crazed result. -->
 	<entry name="ChaosSpaceMarines/RunesOfTheBloodGod" value="Руны Крывавага Бога"/>
 	<entry name="ChaosSpaceMarines/RunesOfTheBloodGodDescription" value="Вяртае шкоду ад атак вядзьмарскага агню."/>
 	<entry name="ChaosSpaceMarines/RunesOfTheBloodGodFlavor" value="Inscribed on the Brass Scorpion by the adepts of the Dark Mechanicum are shimmering runes, dancing like flames, writhing on the surface. Psykers foolish enough to attempt an assault will find their minds seared by Khorne’s eternal rage."/>
 	<entry name="ChaosSpaceMarines/ShatterDefences" value="<string name='Actions/ChaosSpaceMarines/ShatterDefences'/>"/>
-	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Зьменшвае зьніжэньне шкоды ад далёкага бою."/>
+	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="<string name='Actions/ChaosSpaceMarines/ShatterDefencesFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/SiegeCrawler" value="Аблогавы Паўзун"/>
-	<entry name="ChaosSpaceMarines/SiegeCrawlerDescription" value="Павялічвае бронепрабівальнасьць супраць фартыфікацый."/>
+	<entry name="ChaosSpaceMarines/SiegeCrawlerDescription" value="Павялічвае бронепрабівальнасьць супраць фартыфікацыяў."/>
 	<entry name="ChaosSpaceMarines/SiegeCrawlerFlavor" value="Maulerfiends lack ranged weapons of any kind, unusual for a vehicle of their size. Yet their agility and their various cutting weapons mean that they are a huge threat to static fortifications, able to explore them, find a weak spot, and exploit it."/> <!-- Maulerfiend. -->
 	<entry name="ChaosSpaceMarines/SubcutaneousArmour" value="Падскурная Браня"/>
 	<entry name="ChaosSpaceMarines/SubcutaneousArmourDescription" value="Павялічвае браню."/>
@@ -569,7 +569,7 @@
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Павялічвае шкоду супраць пяхотных адзінак і жахлівых стварэньняў."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageFlavor" value="Spurting vile vapours and heinous fluids, the Chaos Spawn’s cursed innards could spell the death of a less-blessed creature."/> <!-- MutatedBeyondReason result. -->
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWar" value="Ветэраны Доўгай Вайны"/>
-	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Зьніжае страты маралі і трапнасьць у блізкім баі супраць адзінак фракцыі Касьмічных Марынаў."/>
+	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarDescription" value="Зьніжае страты маралі і трапнасьць у блізкім баі супраць адзінак фракцыі Касьмічныя Марыны."/>
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="Many Chaos Space Marine factions have been locked in a constant, grinding war against the Imperium of Man for centuries, if not millennia. The burning hate they feel for their loyalist brothers has had time to fester, now eclipsing all other emotions. This applies, above all, to the original nine Traitor Legions who flocked to Horus' banner ten millennia ago and continue their war against their loyal brethren to this day."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzy" value="Вар'яцтва Варпу"/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Дарунак хаосу, які павялічвае атакі."/>
@@ -581,7 +581,7 @@
 	<entry name="ChapterUnityDescription" value="Павялічвае вытворчасьць лаяльнасьці."/>
 	<entry name="ChapterUnityFlavor" value="The relics housed in the Great Hall remind the Adeptus Astartes of the heroes of the past, and that one day their armour, weapons and bones could also be revered here."/>
 	<entry name="City" value="Горад"/>
-	<entry name="CityDescription" value="Павялічвае зьніжэньне шкоды і хуткасьць вылячэньня хаўрусных адзінак. Зьменшвае кошт руху адзінак. Павялічвае зьніжэньне шкоды ад далёкага бою пяхотным адзінкам."/>
+	<entry name="CityDescription" value="Павялічвае зьніжэньне шкоды і хуткасьць вылячэньня хаўрусных адзінак. Зьмяншае кошт руху адзінак. Павялічвае зьніжэньне шкоды ад далёкага бою пяхотным адзінкам."/>
 	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
 	<entry name="ClusterMinesDescription" value="Наносіць шкоду пры ўваходзе на плітку."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
@@ -606,11 +606,11 @@
 	<entry name="DaemonDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
 	<entry name="Damaged" value="Пашкоджаны"/>
-	<entry name="DamagedDescription" value="Зьменшвае трапнасьць."/>
+	<entry name="DamagedDescription" value="Зьмяншае трапнасьць."/>
 	<entry name="Deathshriek" value="Віскат Сьмерці"/>
 	<entry name="DeathshriekDescription" value="Наносіць шкоду атакоўцу перад сьмерцю."/>
 	<entry name="DeathshriekFlavor" value="At the point of an Umbra’s death, all those around it receive a vision—of the long ago creature that was torn asunder and cast into the Warp, whilst a voice, horrifying and alluring, whispers a curse… “LINGER…”"/>
-	<entry name="DeedsOfGlory" value="Справы Славы"/>
+	<entry name="DeedsOfGlory" value="Хвалебныя Вычыны"/>
 	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
 	<entry name="DestroyerWeapon" value="Разбуральная Зброя"/>
 	<entry name="DestroyerWeaponDescription" value="Павялічвае шкоду."/>
@@ -633,9 +633,9 @@
 	<entry name="EavyArmourDescription" value="Павялічвае браню."/>
 	<entry name="EavyArmourFlavor" value="Ork 'eavy armour is hammered out of scrap iron, sheet metal and the looted battle-plate of fallen foes. Though its fit is dubious, 'eavy armour provides a solid defence for its wearer."/>
 	<entry name="Eldar/AerobaticGrace" value="Найвысокі Пілатаж"/>
-	<entry name="Eldar/AerobaticGraceDescription" value="Дае зьмяншэньне шкоды ад далёкага бою, калі адзінка перасунецца ў гэты крок."/>
+	<entry name="Eldar/AerobaticGraceDescription" value="Дае зьмяншэньне шкоды ад далёкага бою пасьля перасоўваньня адзінкі на гэтым кроке."/>
 	<entry name="Eldar/AerobaticGraceFlavor" value="While the Harlequins are the true masters of dance amongst the Aeldari, the Shining Spears approach them in their control of their jetbikes, seeming to pirouette between storms of bolter fire as they charge their foe."/>
-	<entry name="Eldar/AircraftBuildingBonus" value="Прызыў Курноўса"/>
+	<entry name="Eldar/AircraftBuildingBonus" value="Заклік Курноўса"/>
 	<entry name="Eldar/AircraftBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="Eldar/AircraftBuildingBonusFlavor" value="The Crimson Hunters owe their allegiance to Kurnous, the Aeldari God of the Hunt. Though he is 60 million years dead, when his name is invoked they redouble their efforts, both in recruitment and construction."/>
 	<entry name="Eldar/AncientDoom" value="Старажытны Рок"/>
@@ -694,10 +694,10 @@
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць цяжкай зброі."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="Whilst humanity’s plasma weaponry is often fatal to its users, the elegant Aeldari equivalents harbour no such threats. And now a chance discovery on Gladius Prime’s surface has allowed the Bonesingers and Exarchs to further improve their focus."/>
 	<entry name="Eldar/HoloFields" value="Галапалі"/>
-	<entry name="Eldar/HoloFieldsDescription" value="Павялічвае зьніжэньне шкоды, калі адзінка перасунулася ў гэты крок."/>
+	<entry name="Eldar/HoloFieldsDescription" value="Павялічвае зьніжэньне шкоды, калі адзінка перасунулася на гэтым кроку."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="Harnessing kinetic energy to shimmer and distort the vehicle’s silhouette, holo-fields prevent the foe from accurately targeting the craft as it sweeps across the battlefield."/>
 	<entry name="Eldar/InescapableAccuracy" value="Непазьбежная Трапнасьць"/>
-	<entry name="Eldar/InescapableAccuracyDescription" value="Павялічвае трапнасьць супраць звычайных і аэрацыклаў, авіяцыі і машынаў, якія рушаць у гэты крок."/>
+	<entry name="Eldar/InescapableAccuracyDescription" value="Павялічвае трапнасьць супраць мота- і аэрацыклаў, авіяцыі і машынаў, якія рушаць на гэтым кроку."/>
 	<entry name="Eldar/InescapableAccuracyFlavor" value="Inherited aeons of combat experience against their kin, the raiding Drukhari, has taught the Dark Reaper Aspect Warriors of the Eldar how to track even their own jinking, holofield-protected jetbikes. Hitting such targets with their deadly Reaper missiles is simple to them—and all part of their emulation of Khaine in his role of The Destroyer."/>
 	<entry name="Eldar/InfantryBuildingBonus" value="Заклік Асур'янаў"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
@@ -715,7 +715,7 @@
 	<entry name="Eldar/KhainesMightDescription" value="Павялічвае атакі блізкага бою."/>
 	<entry name="Eldar/KhainesMightFlavor" value="<string name='Actions/Eldar/KhainesMightFlavor'/>"/>
 	<entry name="Eldar/LinkedFire" value="<string name='Actions/Eldar/LinkedFire'/>"/>
-	<entry name="Eldar/LinkedFireDescription" value="Павялічвае шкоду і бронепрабівальнасьць прызмавай гарматы."/>
+	<entry name="Eldar/LinkedFireDescription" value="Павялічвае шкоду і бронепрабівальнасьць Прызмавай Гарматы."/>
 	<entry name="Eldar/LinkedFireFlavor" value="<string name='Actions/Eldar/LinkedFireFlavor'/>"/>
 	<entry name="Eldar/MarksmansEye" value="Вока Снайпера"/>
 	<entry name="Eldar/MarksmansEyeDescription" value="Павялічвае трапнасьць."/>
@@ -724,12 +724,12 @@
 	<entry name="Eldar/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Eldar/MeleeWeaponBonusFlavor" value="The monomolecular filaments and blades of the Aeldari are lethal enough by themselves, but with the smallest addition of phasing technology (as used in the Harlequin’s Caress), they pass through even the thickest armour."/>
 	<entry name="Eldar/MindWar" value="<string name='Actions/Eldar/MindWar'/>"/>
-	<entry name="Eldar/MindWarDescription" value="Зьменшвае трапнасьць."/>
+	<entry name="Eldar/MindWarDescription" value="Зьмяншае трапнасьць."/>
 	<entry name="Eldar/MindWarFlavor" value="<string name='Actions/Eldar/MindWarFlavor'/>"/>
 	<entry name="Eldar/MoltenBody" value="Расплаўленае Цела"/>
-	<entry name="Eldar/MoltenBodyDescription" value="Імунітэт да агнявой і мельта-зброі."/>
+	<entry name="Eldar/MoltenBodyDescription" value="Імунітэт да агнявой і мельтазброі."/>
 	<entry name="Eldar/MoltenBodyFlavor" value="The Avatar of Khaine isn’t merely the last fragment of a dying god—more practically, it’s a construct of super-heated iron with a core that is literally lava, animated by the psychic power of the Aeldari and the god’s undying rage. Heating it up only makes it more angry…"/>
-	<entry name="Eldar/OreBuildingBonus" value="Эфектыўнае Здабываньне"/>
+	<entry name="Eldar/OreBuildingBonus" value="Эфектыўная Здабыча"/>
 	<entry name="Eldar/OreBuildingBonusDescription" value="Павялічвае вытворчасьць руды."/>
 	<entry name="Eldar/OreBuildingBonusFlavor" value="The Aeldari require metals less than other races, given that almost all of their structures and vehicles are psychic energy made tangible, in the form of wraithbone. But for the small amount they need, there are always improvements to be made."/>
 	<entry name="Eldar/PowerField" value="Сілавое Поле"/>
@@ -738,7 +738,7 @@
 	<entry name="Eldar/Protect" value="Абарона"/>
 	<entry name="Eldar/ProtectDescription" value="Павялічвае браню."/>
 	<entry name="Eldar/ProtectFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
-	<entry name="Eldar/ReaperRangefinder" value="Далямер Жняяр"/>
+	<entry name="Eldar/ReaperRangefinder" value="Далямер Жняяра"/>
 	<entry name="Eldar/ReaperRangefinderDescription" value="Ігнаруе зьніжэньне шкоды далёкага бою ад Хітрыкаў."/>
 	<entry name="Eldar/ReaperRangefinderFlavor" value="Mounted in the helmet vanes of the Dark Reapers are highly advanced targeters that calculate telemetries in the blink of an eye."/>
 	<entry name="Eldar/RemnantsOfTheFall" value="Наступствы Заняпаду"/>
@@ -754,7 +754,7 @@
 	<entry name="Eldar/RuneArmourDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="Eldar/RuneArmourFlavor" value="Aeldari psykers fashion themselves elegant armour decorated with wraithbone runes. Said to pulse in time with the wearer’s heartbeat, rune armour offers protection against attacks both spiritual and physical in nature."/>
 	<entry name="Eldar/Scattershield" value="Расьсейвальны Шчыт"/>
-	<entry name="Eldar/ScattershieldDescription" value="Павялічвае зьніжэньне шкоды ды асьляпляе пяхоту і жахлівых стварэньняў, якія атакуюць."/>
+	<entry name="Eldar/ScattershieldDescription" value="Павялічвае зьніжэньне шкоды ды асьляпляе пяхоту і жахлівых стварэньняў, што атакуюць."/>
 	<entry name="Eldar/ScattershieldFlavor" value="Used to protect precious Aeldari war-constructs, scattershields are gigantic fan-shaped shield generators that convert the energy of incoming attacks into blinding sprays of multicoloured light."/>
 	<entry name="Eldar/SerpentShield" value="Зьмяіны Шчыт"/>
 	<entry name="Eldar/SerpentShieldDescription" value="Павялічвае браню, калі зброя «Зьмяіны шчыт» не перазараджваецца."/>
@@ -769,7 +769,7 @@
 	<entry name="Eldar/SpiritPreservationDescription" value="Дае энергію за сьмерць."/>
 	<entry name="Eldar/SpiritPreservationFlavor" value="We are few in number and She Who Thirsts waits in the Warp, to consume our souls. However, we wear Spirit Stones to capture our essence at the moment of death; though every Aeldari shudders in distaste at the thought, when recovered these spirits can be used to guide our war machines."/>
 	<entry name="Eldar/SpiritStones" value="Камяні Душ"/>
-	<entry name="Eldar/SpiritStonesDescription" value="Зьніжае страту маралі."/>
+	<entry name="Eldar/SpiritStonesDescription" value="Зьніжае страты маралі."/>
 	<entry name="Eldar/SpiritStonesFlavor" value="Some Aeldari vehicles incorporate large spirit stones with a captive animus that can control the vehicle should it be disabled."/>
 	<entry name="Eldar/StarEngines" value="Зорныя Рухавікі"/>
 	<entry name="Eldar/StarEnginesDescription" value="Павялічвае рух."/>
@@ -786,7 +786,7 @@
 	<entry name="Eldar/VectoredEngines" value="<string name='Actions/Eldar/VectoredEngines'/>"/>
 	<entry name="Eldar/VectoredEnginesDescription" value="<string name='Actions/Eldar/VectoredEnginesDescription'/>"/>
 	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Actions/Eldar/VectoredEnginesFlavor'/>"/>
-	<entry name="Eldar/VehicleBuildingBonus" value="Прызыў Ваула"/>
+	<entry name="Eldar/VehicleBuildingBonus" value="Заклік Ваула"/>
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="Eldar/VehicleBuildingBonusFlavor" value="A spirit stone recovered from Gladius proved to be that of an ancient Bonesinger, lost here millenia past. With their insights into the planet’s structure and resources, we’re able to greatly increase our production."/>
 	<entry name="Enslaved" value="Заняволены"/>
@@ -1185,7 +1185,7 @@
 	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
 	<entry name="Orks/CyborkImplantsDescription" value="Павялічвае шкоду і зьніжэньне шкоды."/>
 	<entry name="Orks/ExtraBitz" value="<string name='Actions/Orks/ExtraBitz'/>"/>
-	<entry name="Orks/ExtraBitzDescription" value="Зьменшвае ўтрыманьне ежы, руды і энергіі."/>
+	<entry name="Orks/ExtraBitzDescription" value="Зьмяншае ўтрыманьне ежы, руды і энергіі."/>
 	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
 	<entry name="Orks/ExperimentalProcedureDescription" value="Павялічвае шкоду і зьніжэньне шкоды."/>
 	<entry name="Orks/Flyboss" value="Лётабос"/>
@@ -1232,7 +1232,7 @@
 	<entry name="OutflankDescription" value="Павялічвае трапнасьць, калі знаходзіцца поруч з хаўруснай адзінкай."/>
 	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
 	<entry name="Pinned" value="Скаваны"/>
-	<entry name="PinnedDescription" value="Зьменшвае рух і трапнасьць у далёкім баі, павялічвае зьніжэньне шкоды ад далёкага бою і не дае адзінцы зьдзяйсьняць атакі назіраньня."/>
+	<entry name="PinnedDescription" value="Зьмяншае рух і трапнасьць у далёкім баі, павялічвае зьніжэньне шкоды ад далёкага бою і не дае адзінцы зьдзяйсьняць атакі назіраньня."/>
 	<entry name="PinnedFlavor" value="Coming under fire without knowing where the shots are coming from, or having ordnance rain down from the skies, can shake the resolve of even the bravest warriors, making them dive flat and cling to whatever cover presents itself."/>
 	<entry name="Pinning" value="Скоўваньне"/>
 	<entry name="PinningDescription" value="Часова зьніжае рух цэлевай напалоханай пяхотнай адзінцы і не дае адзінцы зьдзяйсьняць атакі назіраньня."/>
@@ -1305,13 +1305,13 @@
 	<entry name="RuinsStealth" value="Утойлівасьць у Руінах"/>
 	<entry name="RuinsStealthDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою ў імперскіх руінах."/>
 	<entry name="Salvo" value="Залп"/>
-	<entry name="SalvoDescription" value="Зьменшвае ўдвая атакі і далёкасьць, калі адзінка перасунулася."/>
+	<entry name="SalvoDescription" value="Зьмяншае ўдвая атакі і далёкасьць, калі адзінка перасунулася."/>
 	<entry name="SavantInterlocution" value="Гутарка з Навукоўцам"/>
 	<entry name="SavantInterlocutionDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі і луначоў, калі знаходзіцца поруч з хаўрусным паляўнічым."/>
 	<entry name="SavantLock" value="Замок Навукоўца"/>
 	<entry name="SavantLockDescription" value="Павялічвае трапнасьць супраць авіяцыі, аэрацыклаў і луначоў."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
-	<entry name="SeekerMissileDescription" value="Зьменшвае далёкасьць супраць цэлей не пазначаных маркерам. Не патрабуе прамой бачнасьці супраць цэлей не пазначаных маркерам."/>
+	<entry name="SeekerMissileDescription" value="Зьмяншае далёкасьць супраць цэлей не пазначаных маркерам. Не патрабуе прамой бачнасьці супраць цэлей не пазначаных маркерам."/>
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Seeking" value="Пошук"/>
 	<entry name="SeekingDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі."/>
@@ -1513,7 +1513,7 @@
 	<entry name="SlowAndPurposefulDescription" value="Здымае штраф за цяжкую і артылерыйную зброю."/>
 	<entry name="SlowAndPurposefulFlavor" value="Many warriors are steady but sure, slow to advance but no less deadly for it."/>
 	<entry name="Slowed" value="Запаволены"/>
-	<entry name="SlowedDescription" value="Зьменшвае рух."/>
+	<entry name="SlowedDescription" value="Зьмяншае рух."/>
 	<entry name="Smash" value="Разбурэньне"/>
 	<entry name="SmashDescription" value="Павялічвае прабіцьцё брані ў блізкім баі."/>
 	<entry name="SmashFlavor" value="For the most fearsome of creatures, a single blow is sufficient to breach a tank's armour or crush a living creature to bloody pulp."/>
@@ -1571,7 +1571,7 @@
 	<entry name="StrafingRunDescription" value="Павялічвае трапнасьць далёкага бою па наземных адзінках."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
 	<entry name="Strikedown" value="Зьбіць з Ног"/>
-	<entry name="StrikedownDescription" value="Часова зьменшвае рух цэлевай пяхотнай адзінкі."/>
+	<entry name="StrikedownDescription" value="Часова Зьмяншае рух цэлевай пяхотнай адзінкі."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
 	<entry name="Stubborn" value="Упарты"/>
 	<entry name="StubbornDescription" value="Зьніжае страту маралі."/>
@@ -1651,7 +1651,7 @@
 	<entry name="Tau/GhostkeelElectrowarfareSuiteDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою супраць атак з далёкасьці 2 або вышэй."/>
 	<entry name="Tau/GhostkeelElectrowarfareSuiteFlavor" value="The Ghostkeel's AI electrowarfare suite aggressively scans enemy targeting spectrums and invades the foe's sensor arrays, filling them with false information and scrap-data that makes it almost impossible to effectively fire upon the battlesuit at range."/>
 	<entry name="Tau/HolophotonCountermeasures" value="<string name='Actions/Tau/HolophotonCountermeasures'/>"/>
-	<entry name="Tau/HolophotonCountermeasuresDescription" value="Зьменшвае трапнасьць далёкага бою."/>
+	<entry name="Tau/HolophotonCountermeasuresDescription" value="Зьмяншае трапнасьць далёкага бою."/>
 	<entry name="Tau/HolophotonCountermeasuresFlavor" value="<string name='Actions/Tau/HolophotonCountermeasuresFlavor'/>"/>
 	<entry name="Tau/IntegratedShieldGenerator" value="Інтэграваны Генератар Шчыта"/>
 	<entry name="Tau/IntegratedShieldGeneratorDescription" value="Павялічвае непаражальнае зьніжэньне шкоды і дае палепшанае непаражальнае зьніжэньня шкоды далёкага бою."/>
@@ -1725,7 +1725,7 @@
 	<entry name="Tau/SupportingFireDescription" value="Павялічвае шкоду назіраньня супраць варожых адзінак, суседніх зь іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/SupportingFireFlavor" value="Fire caste doctrine, as laid down in the Code of Fire, instructs every warrior to protect their comrades. Using overlapping fields of fire, teams provide each other this mutual support on the battlefield."/>
 	<entry name="Tau/TargetAcquired" value="Пазначэньне Цэлі"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Павялічвае трапнасьць т'аў ў далёкім баі супраць адзінак. Зьменшвае зьніжэньне шкоды ад далёкага бою адзінкі супраць т'аў. Скончваецца пасьля таго, як адзінка атакавана т'аў."/>
+	<entry name="Tau/TargetAcquiredDescription" value="Павялічвае трапнасьць т'аў ў далёкім баі супраць адзінак. Зьмяншае зьніжэньне шкоды ад далёкага бою адзінкі супраць т'аў. Скончваецца пасьля таго, як адзінка атакавана т'аў."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the T’au, and the Markerlight is an excellent example of this. It’s a handheld targeting laser that is networked into the T’au’s information system, allowing for pinpoint strikes by other T’au forces."/>
 	<entry name="Tau/TidewallShieldline" value="Лінія Шчытоў - Сьцяна з Хваль"/>
 	<entry name="Tau/TidewallShieldlineDescription" value="Вяртае шкоду ад далёкага бою ад зброі, якая ня з'яўляецца выбуховай, шаблоннай або вядзьмоўскім агнём, назад атакоўцу."/>
@@ -1814,7 +1814,7 @@
 	<entry name="Tyranids/CityGrowthDescription" value="Павялічвае хуткасьць узросту гарадоў."/>
 	<entry name="Tyranids/CityGrowthFlavor" value="Tyranid cities place little value on size, but focus instead on productivity. As long as a city is efficiently churning out troops, it doesn't matter if it occupies land. But when a city must expand, it can do it extremely rapidly—from sphincters fly hooked tendons, dragging seed pods out to the landscape, where they erupt like Barbed Stranglers. In moments the land is occupied, rapidly gestating a new structure."/>
 	<entry name="Tyranids/CityLoyalty" value="Дысьперсія Шэрай Матэрыі"/>
-	<entry name="Tyranids/CityLoyaltyDescription" value="Зьменшвае штраф лаяльнасьці за суму гарадоў."/>
+	<entry name="Tyranids/CityLoyaltyDescription" value="Зьмяншае штраф лаяльнасьці за суму гарадоў."/>
 	<entry name="Tyranids/CityLoyaltyFlavor" value="Throughout the hive, from the great producer organisms, to the smaller maintenance creatures, to the substrate itself, small packages of grey matter are dispersed, increasing the ease with which swarm creatures can be controlled."/>
 	<entry name="Tyranids/CityPopulationLimit" value="Арганэлы Біягенезу"/>
 	<entry name="Tyranids/CityPopulationLimitDescription" value="Павялічвае ліміт насельніцтва."/>
@@ -1843,7 +1843,7 @@
 	<entry name="Tyranids/IndescribableHorrorDescription" value="Зьніжае мараль кожны крок."/>
 	<entry name="Tyranids/IndescribableHorrorFlavor" value="<string name='Actions/Tyranids/IndescribableHorrorFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="Інстынкты Галаданьня"/>
-	<entry name="Tyranids/InfantryUpkeepDescription" value="Зьменшвае ўтрыманьне біямасы."/>
+	<entry name="Tyranids/InfantryUpkeepDescription" value="Зьмяншае ўтрыманьне біямасы."/>
 	<entry name="Tyranids/InfantryUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything save for unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
 	<entry name="Tyranids/InstinctiveBehaviour" value="Інстынктыўныя Паводзіны"/>
 	<entry name="Tyranids/InstinctiveBehaviourDescription" value="<string name='Traits/Tyranids/InstinctiveBehaviourLurkDescription'/>"/>
@@ -1932,7 +1932,7 @@
 	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
 	<entry name="Tyranids/VehiclesUpkeep" value="Інстынкты Мегонта"/>
-	<entry name="Tyranids/VehiclesUpkeepDescription" value="Зьменшвае ўтрыманьне біямасы."/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Зьмяншае ўтрыманьне біямасы."/>
 	<entry name="Tyranids/VehiclesUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions, save for its alpha creatures—but by loosening that control, larger organisms can direct or predate on the smaller organisms, enabling them to survive without direct control."/>
 	<entry name="Tyranids/WarpField" value="Варп Поле"/>
 	<entry name="Tyranids/WarpFieldDescription" value="Павялічвае зьніжэньне шкоды."/>
@@ -1970,7 +1970,7 @@
 	<entry name="Walker" value="Хадун"/>
 	<entry name="WalkerDescription" value="<string name='Traits/DozerBladeDescription'/>"/>
 	<entry name="Weakened" value="Саслабелы"/>
-	<entry name="WeakenedDescription" value="Зьменшвае рух і шкоду."/>
+	<entry name="WeakenedDescription" value="Зьмяншае рух і шкоду."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
 	<entry name="WireWeedDescription" value="Наносіць шкоду кожны крок."/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
