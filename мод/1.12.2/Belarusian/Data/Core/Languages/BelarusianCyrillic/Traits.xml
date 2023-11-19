@@ -938,16 +938,16 @@
 	<entry name="LastStand" value="Апошні Бой"/>
 	<entry name="LastStandDescription" value="Павялічвае мараль."/>
 	<entry name="LastStandFlavor" value="“Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”<br/>  — Chaplain Armand Titus of the Howling Griffons"/>
-	<entry name="LifeDrain" value="Зьнясіленьне Жыцьця"/>
+	<entry name="LifeDrain" value="Выцягваньне Жыцьця"/>
 	<entry name="LifeDrainDescription" value="Павялічвае шкоду супраць пяхоты і жахлівых стварэньняў."/>
-	<entry name="LifeSteal" value="Крадзеж Жыцьця"/>
-	<entry name="LifeStealDescription" value="Ператворвае шкоду ў вылячэньне для гэтай і суседніх пяхотных адзінак і жахлівых стварэньняў."/>
+	<entry name="LifeSteal" value="Крадзёж Жыцьця"/>
+	<entry name="LifeStealDescription" value="Ператворвае шкоду ў здароўе для гэтай і суседніх пяхотных адзінак і жахлівых стварэньняў."/>
 	<entry name="LinebreakerBombardment" value="Лінейнае Бамбаваньне"/>
 	<entry name="LinebreakerBombardmentDescription" value="Ігнаруе зьніжэньне шкоды ад далёкага бою цэлевай адзінкі, калі знаходзіцца поруч з хаўрусным Ачышчальнікам."/>
 	<entry name="Luminagen" value="Люмінаген"/>
 	<entry name="LuminagenDescription" value="Часова зьніжае зьніжае шкоду ад далёкага бою цэлевай адзінкі."/>
 	<entry name="LocatorBeacon" value="Маяк-Лакатар"/>
-	<entry name="LocatorBeaconDescription" value="Дазваляе не губляць ачкоў дзеяньняў за арбітальнае разгортваньне, калі разгортваньне адбываецца поруч з гэтай адзінкай."/>
+	<entry name="LocatorBeaconDescription" value="Дазваляе не губляць ачкоў дзеяньняў за Арбітальнае Разгортваньне, калі разгортваньне адбываецца поруч з гэтай адзінкай."/>
 	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
 	<entry name="LowPower" value="Малая Напруга"/>
 	<entry name="LowPowerDescription" value="Актывуецца пасьля руху."/>
@@ -959,14 +959,14 @@
 	<entry name="MassiveBlast" value="Масіўны Выбух"/>
 	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="MasterCrafted" value="Па-майстэрску Зроблены"/>
+	<entry name="MasterCrafted" value="Па-Майстэрску Выраблены"/>
 	<entry name="MasterCraftedDescription" value="Павялічвае трапнасьць."/>
 	<entry name="MasterCraftedFlavor" value="Some weapons are lovingly maintained artefacts, crafted with a skill now lost. Though the exact form of master-crafting varies, it is always considered to be the pinnacle of the weaponsmith’s art."/>
 	<entry name="Melee" value="Блізкі Бой"/>
-	<entry name="MeleeDescription" value="Ня можа назіраць."/>
+	<entry name="MeleeDescription" value="Адсутнічаюць атакі назіраньня."/>
 	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="Melta" value="Мельта"/>
-	<entry name="MeltaDescription" value="Павялічвае бронепрабівальнасьць на палове дыстанцыі."/>
+	<entry name="MeltaDescription" value="Павялічаная бронепрабівальнасьць на палове дыстанцыі."/>
 	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="MindControl" value="Кантроль Розуму"/>
 	<entry name="MindControlDescription" value="Зьніжае мараль кожны крок."/>
@@ -978,9 +978,9 @@
 	<entry name="MobRuleDescription" value="Зьніжае страты маралі ў залежнасьці ад колькасьці хаўрусных адзінак у вобласьці."/>
 	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
 	<entry name="MobileCommand" value="Мабільная Каманда"/>
-	<entry name="MobileCommandDescription" value="Пасіўныя здольнасьці працуюць на загружаны на гэты транспарт груз."/>
+	<entry name="MobileCommandDescription" value="Пасіўныя здольнасьці распаўсюджваюцца на груз гэтага транспарта."/>
 	<entry name="MobileCommandFlavor" value="A transport vehicle is typically sealed, rendering any troops ineffective (but protected) until they reach their destination. Unlike gun slits, communication equipment doesn’t compromise the protection, as the Imperial Chimera command variant proves out, enabling commanders to continue to direct their forces."/>
-	<entry name="Monofilament" value="Мананітка"/>
+	<entry name="Monofilament" value="Монанітка"/>
 	<entry name="MonofilamentDescription" value="Інверсіўна маштабуе трапнасьць у залежнасьці ад максімальнага руху адзінкі-цэлі. Павялічвае бронепрабівальнасьць."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Жахлівае Стварэньне"/>
@@ -989,15 +989,15 @@
 	<entry name="MoraleSoak" value="Паглынаньне Маралі"/>
 	<entry name="MoraleSoakDescription" value="Зьніжае страты маралі цэлевай адзінкі."/>
 	<entry name="MoveThroughCover" value="Рух праз Хованкі"/>
-	<entry name="MoveThroughCoverDescription" value="Адмаўляе штраф за перасоўваньне ў лясах і імперскіх руінах."/>
+	<entry name="MoveThroughCoverDescription" value="Адсутнічае штраф за перасоўваньне па лясах і імперскіх руінах."/>
 	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
-	<entry name="Necrons/AircraftBuildingBonus" value="Арфічная дасканаласьць"/>
+	<entry name="Necrons/AircraftBuildingBonus" value="Арфічная Дасканаласьць"/>
 	<entry name="Necrons/AircraftBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="Necrons/AircraftBuildingBonusFlavor" value="This inhuman expanse of stone now seems to bend impossibly, filling more space than there is. The Necron flying machines stretch and flicker in and out of existence as they traverse it."/>
-	<entry name="Necrons/AttackCityBonus" value="Статычнае нацэльваньне"/>
+	<entry name="Necrons/AttackCityBonus" value="Статычнае Нацэльваньне"/>
 	<entry name="Necrons/AttackCityBonusDescription" value="Павялічвае трапнасьць супраць адзінак у гарадах."/>
 	<entry name="Necrons/AttackCityBonusFlavor" value="The Necrons' technology may have been raised from dusty ancient tombs, but few races in the past 60 million years have matched their prowess in manipulating dimensional variables. No wall, bunker or laser grid is a defense against such weaponry."/>
-	<entry name="Necrons/BlastDamage" value="Дысьпергаванае Нацэльваньне"/>
+	<entry name="Necrons/BlastDamage" value="Дысьперсаванае Нацэльваньне"/>
 	<entry name="Necrons/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Necrons/BlastDamageFlavor" value="Human targeting systems tend to focus on accuracy, narrowing the dispersal of a weapon's shots. Counter-intuitively, the more advanced Necron targeting systems spread a weapon's attacks out, yet somehow still increase the chance of each shot to hit."/>
 	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
@@ -1027,7 +1027,7 @@
 	<entry name="Necrons/EntropicStrike" value="Энтрапічны Ўдар"/>
 	<entry name="Necrons/EntropicStrikeDescription" value="Мінімальная шкода залежыць ад здароўя абранай адзінкі."/>
 	<entry name="Necrons/EternityGate" value="Брама Вечнасьці"/>
-	<entry name="Necrons/EternityGateDescription" value="Адзінкі некронаў могуць тэлепартавацца на суседнія пліткі."/>
+	<entry name="Necrons/EternityGateDescription" value="Адзінкі Некронаў могуць тэлепартавацца на суседнія пліткі."/>
 	<entry name="Necrons/EternityGateFlavor" value="A Monolith's eternity gate is a dimensional corridor between the battlefield and a tomb world, allowing legions of Necron warriors to cross vast distances and enter the fray with a single step."/>
 	<entry name="Necrons/GloomPrism" value="<string name='Actions/Necrons/GloomPrism'/>"/>
 	<entry name="Necrons/GloomPrismDescription" value="Павялічвае зьніжэньне шкоды ад вядзьмарскага агню."/>
@@ -1093,10 +1093,10 @@
 	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
 	<entry name="Necrons/SleepingSentryDescription" value="Павялічвае зьніжэньне шкоды, але не дае адзінцы рухацца або зьдзяйсьняць дзеяньні."/>
 	<entry name="Necrons/TargetRelayed" value="Рэтрансьляцыя Цэлі"/>
-	<entry name="Necrons/TargetRelayedDescription" value="Павялічвае трапнасьць стральбы некронаў супраць адзінак."/>
+	<entry name="Necrons/TargetRelayedDescription" value="Павялічвае трапнасьць стральбы Некронаў супраць адзінак."/>
 	<entry name="Necrons/TargetRelayedFlavor" value="<string name='Traits/Necrons/TargetingRelayFlavor'/>"/>
 	<entry name="Necrons/TargetingRelay" value="Рэле Нацэльваньня"/>
-	<entry name="Necrons/TargetingRelayDescription" value="Часова павялічвае трапнасьць стральбы некронаў па цэлі."/>
+	<entry name="Necrons/TargetingRelayDescription" value="Часова павялічвае трапнасьць стральбы Некронаў па цэлі."/>
 	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers might appear fragile, but their unique Quantum Shielding keeps them in one piece, in order that their Targeting Relay can amplify the firepower of nearby Necrons."/>
 	<entry name="Necrons/Technomancer" value="Тэхнамант"/>
 	<entry name="Necrons/TechnomancerDescription" value="Павялічвае зьніжэньне шкоды."/>
@@ -1164,7 +1164,7 @@
 	<entry name="Orks/CityInfluence" value="Буйныя Бліскучы"/>
 	<entry name="Orks/CityInfluenceDescription" value="Павялічвае вытворчасьць уплыву."/>
 	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”<br/>  — Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
-	<entry name="Orks/CityLoyalty" value="Трафеяшасты"/>
+	<entry name="Orks/CityLoyalty" value="Трафейныя Шасты"/>
 	<entry name="Orks/CityLoyaltyDescription" value="Павялічвае вытворчасьць лаяльнасьці."/>
 	<entry name="Orks/CityLoyaltyFlavor" value="There's nothing that so stirs up the vim of an Ork as the sight of their defeated enemies (or their remaining parts) strung up high for all to see."/>
 	<entry name="Orks/CityPopulationLimit" value="Глыбокія Капальні"/>
@@ -1180,7 +1180,7 @@
 	<entry name="Orks/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Orks/CityTier3Flavor" value="The Warboss' fame has spread across the entire planet, with the invisible Waaagh! energies paralleling its path. Wherever Orks are freshly-spawned, they feel the irresistible tugging towards the Warboss' cities, which are now sprawled across the nearby landscape in endless slums and shanties."/>
 	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Хуткая Дэкампазіцыя"/>
-	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Прыводзіць да з'яўленьня оркоідных грыбоў пасьля сьмерці адзінак."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Стварае оркоідныя грыбы на плітцы пасьля сьмерці адзінкі."/>
 	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="“Exhibit 27: a single 'spore' of xenos species #0451 'Ork'. Acolytes, you should note the fungoid texture and microhomuncular structures. We theorise that these 'spores' generate new 'Orks' in any sufficiently fertile setting. When an Ork reaches maturity (typically 30 minutes after emergence) it emits these constantly—but they are released en masse at the moment of death. Please don't drop it.”<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
 	<entry name="Orks/CyborkImplantsDescription" value="Павялічвае шкоду і зьніжэньне шкоды."/>
@@ -1210,7 +1210,7 @@
 	<entry name="Orks/MeleeDamage" value="Буйныя Чоппы"/>
 	<entry name="Orks/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas… and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
-	<entry name="Orks/MightMakesRight" value="Моц Робе Права"/>
+	<entry name="Orks/MightMakesRight" value="Моц Стварае Права"/>
 	<entry name="Orks/MightMakesRightDescription" value="Дае ўплыў за атаку."/>
 	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
@@ -1225,7 +1225,7 @@
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
 	<entry name="Orks/WingMissiles" value="<string name='Weapons/WingMissiles'/>"/>
-	<entry name="Orks/WingMissilesDescription" value="Павялічвае трапнасьць супраць машынаў."/>
+	<entry name="Orks/WingMissilesDescription" value="Павялічвае трапнасьць супраць машын."/>
 	<entry name="Outpost" value="Аванпост"/>
 	<entry name="OutpostDescription" value="Павялічвае зьніжэньне шкоды і хуткасьць лячэньня хаўрусных адзінак. Павялічвае зьніжэньне шкоды ад далёкага бою для пяхоты."/>
 	<entry name="Outflank" value="Абыход Фланга"/>

@@ -893,7 +893,7 @@
 	<entry name="IgnoresCover" value="Ihnaruje Chovanki"/>
 	<entry name="IgnoresCoverDescription" value="Ihnaruje źmianšeńnie škody ad dalokaha boju celevaj adzinki."/>
 	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
-	<entry name="Illuminated" value="Asvietleny"/>
+	<entry name="Illuminated" value="Aśvietleny"/>
 	<entry name="IlluminatedDescription" value="Źmianšaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="Immobilized" value="Źnieruchomleny"/>
 	<entry name="ImmobilizedDescription" value="Adzinka nia moža ruchacca."/>
@@ -938,16 +938,16 @@
 	<entry name="LastStand" value="Apošni Boj"/>
 	<entry name="LastStandDescription" value="Pavialičvaje maral."/>
 	<entry name="LastStandFlavor" value="“Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”<br/>  — Chaplain Armand Titus of the Howling Griffons"/>
-	<entry name="LifeDrain" value="Źniasileńnie Žyćcia"/>
+	<entry name="LifeDrain" value="Vyciahvańnie Žyćcia"/>
 	<entry name="LifeDrainDescription" value="Pavialičvaje škodu suprać piachoty i žachlivych stvareńniaŭ."/>
-	<entry name="LifeSteal" value="Kradziež Žyćcia"/>
-	<entry name="LifeStealDescription" value="Pieratvorvaje škodu ŭ vylačeńnie dla hetaj i susiednich piachotnych adzinak i žachlivych stvareńniaŭ."/>
+	<entry name="LifeSteal" value="Kradziož Žyćcia"/>
+	<entry name="LifeStealDescription" value="Pieratvorvaje škodu ŭ zdaroŭje dla hetaj i susiednich piachotnych adzinak i žachlivych stvareńniaŭ."/>
 	<entry name="LinebreakerBombardment" value="Liniejnaje Bambavańnie"/>
 	<entry name="LinebreakerBombardmentDescription" value="Ihnaruje źnižeńnie škody ad dalokaha boju celevaj adzinki, kali znachodzicca poruč z chaŭrusnym Ačyščalnikam."/>
 	<entry name="Luminagen" value="Luminahien"/>
 	<entry name="LuminagenDescription" value="Časova źnižaje źnižaje škodu ad dalokaha boju celevaj adzinki."/>
 	<entry name="LocatorBeacon" value="Majak-Łakatar"/>
-	<entry name="LocatorBeaconDescription" value="Dazvalaje nie hublać ačkoŭ dziejańniaŭ za arbitalnaje razhortvańnie, kali razhortvańnie adbyvajecca poruč z hetaj adzinkaj."/>
+	<entry name="LocatorBeaconDescription" value="Dazvalaje nie hublać ačkoŭ dziejańniaŭ za Arbitalnaje Razhortvańnie, kali razhortvańnie adbyvajecca poruč z hetaj adzinkaj."/>
 	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
 	<entry name="LowPower" value="Małaja Napruha"/>
 	<entry name="LowPowerDescription" value="Aktyvujecca paśla ruchu."/>
@@ -959,14 +959,14 @@
 	<entry name="MassiveBlast" value="Masiŭny Vybuch"/>
 	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
 	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
-	<entry name="MasterCrafted" value="Pa-majstersku Zrobleny"/>
+	<entry name="MasterCrafted" value="Pa-Majstersku Vyrableny"/>
 	<entry name="MasterCraftedDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="MasterCraftedFlavor" value="Some weapons are lovingly maintained artefacts, crafted with a skill now lost. Though the exact form of master-crafting varies, it is always considered to be the pinnacle of the weaponsmiths art."/>
 	<entry name="Melee" value="Blizki Boj"/>
-	<entry name="MeleeDescription" value="Nia moža nazirać."/>
+	<entry name="MeleeDescription" value="Adsutničajuć ataki nazirańnia."/>
 	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="Melta" value="Mielta"/>
-	<entry name="MeltaDescription" value="Pavialičvaje bronieprabivalnaść na pałovie dystancyi."/>
+	<entry name="MeltaDescription" value="Pavialičanaja bronieprabivalnaść na pałovie dystancyi."/>
 	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="MindControl" value="Kantrol Rozumu"/>
 	<entry name="MindControlDescription" value="Źnižaje maral kožny krok."/>
@@ -978,9 +978,9 @@
 	<entry name="MobRuleDescription" value="Źnižaje straty marali ŭ zaležnaści ad kolkaści chaŭrusnych adzinak u vobłaści."/>
 	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
 	<entry name="MobileCommand" value="Mabilnaja Kamanda"/>
-	<entry name="MobileCommandDescription" value="Pasiŭnyja zdolnaści pracujuć na zahružany na hety transpart hruz."/>
+	<entry name="MobileCommandDescription" value="Pasiŭnyja zdolnaści raspaŭsiudžvajucca na hruz hetaha transparta."/>
 	<entry name="MobileCommandFlavor" value="A transport vehicle is typically sealed, rendering any troops ineffective (but protected) until they reach their destination. Unlike gun slits, communication equipment doesnt compromise the protection, as the Imperial Chimera command variant proves out, enabling commanders to continue to direct their forces."/>
-	<entry name="Monofilament" value="Mananitka"/>
+	<entry name="Monofilament" value="Monanitka"/>
 	<entry name="MonofilamentDescription" value="Inviersiŭna maštabuje trapnaść u zaležnaści ad maksimalnaha ruchu adzinki-celi. Pavialičvaje bronieprabivalnaść."/>
 	<entry name="MonofilamentFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="MonstrousCreature" value="Žachlivaje Stvareńnie"/>
@@ -989,15 +989,15 @@
 	<entry name="MoraleSoak" value="Pahłynańnie Marali"/>
 	<entry name="MoraleSoakDescription" value="Źnižaje straty marali celevaj adzinki."/>
 	<entry name="MoveThroughCover" value="Ruch praz Chovanki"/>
-	<entry name="MoveThroughCoverDescription" value="Admaŭlaje štraf za pierasoŭvańnie ŭ lasach i impierskich ruinach."/>
+	<entry name="MoveThroughCoverDescription" value="Adsutničaje štraf za pierasoŭvańnie pa lasach i impierskich ruinach."/>
 	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
-	<entry name="Necrons/AircraftBuildingBonus" value="Arfičnaja daskanałaść"/>
+	<entry name="Necrons/AircraftBuildingBonus" value="Arfičnaja Daskanałaść"/>
 	<entry name="Necrons/AircraftBuildingBonusDescription" value="Pavialičvaje vytvorčaść haradoŭ."/>
 	<entry name="Necrons/AircraftBuildingBonusFlavor" value="This inhuman expanse of stone now seems to bend impossibly, filling more space than there is. The Necron flying machines stretch and flicker in and out of existence as they traverse it."/>
-	<entry name="Necrons/AttackCityBonus" value="Statyčnaje nacelvańnie"/>
+	<entry name="Necrons/AttackCityBonus" value="Statyčnaje Nacelvańnie"/>
 	<entry name="Necrons/AttackCityBonusDescription" value="Pavialičvaje trapnaść suprać adzinak u haradach."/>
 	<entry name="Necrons/AttackCityBonusFlavor" value="The Necrons' technology may have been raised from dusty ancient tombs, but few races in the past 60 million years have matched their prowess in manipulating dimensional variables. No wall, bunker or laser grid is a defense against such weaponry."/>
-	<entry name="Necrons/BlastDamage" value="Dyśpierhavanaje Nacelvańnie"/>
+	<entry name="Necrons/BlastDamage" value="Dyśpiersavanaje Nacelvańnie"/>
 	<entry name="Necrons/BlastDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Necrons/BlastDamageFlavor" value="Human targeting systems tend to focus on accuracy, narrowing the dispersal of a weapon's shots. Counter-intuitively, the more advanced Necron targeting systems spread a weapon's attacks out, yet somehow still increase the chance of each shot to hit."/>
 	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
@@ -1027,7 +1027,7 @@
 	<entry name="Necrons/EntropicStrike" value="Entrapičny Ŭdar"/>
 	<entry name="Necrons/EntropicStrikeDescription" value="Minimalnaja škoda zaležyć ad zdaroŭja abranaj adzinki."/>
 	<entry name="Necrons/EternityGate" value="Brama Viečnaści"/>
-	<entry name="Necrons/EternityGateDescription" value="Adzinki niekronaŭ mohuć telepartavacca na susiednija plitki."/>
+	<entry name="Necrons/EternityGateDescription" value="Adzinki Niekronaŭ mohuć telepartavacca na susiednija plitki."/>
 	<entry name="Necrons/EternityGateFlavor" value="A Monolith's eternity gate is a dimensional corridor between the battlefield and a tomb world, allowing legions of Necron warriors to cross vast distances and enter the fray with a single step."/>
 	<entry name="Necrons/GloomPrism" value="<string name='Actions/Necrons/GloomPrism'/>"/>
 	<entry name="Necrons/GloomPrismDescription" value="Pavialičvaje źnižeńnie škody ad viadźmarskaha ahniu."/>
@@ -1093,10 +1093,10 @@
 	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
 	<entry name="Necrons/SleepingSentryDescription" value="Pavialičvaje źnižeńnie škody, ale nie daje adzincy ruchacca abo ździajśniać dziejańni."/>
 	<entry name="Necrons/TargetRelayed" value="Retranślacyja Celi"/>
-	<entry name="Necrons/TargetRelayedDescription" value="Pavialičvaje trapnaść stralby niekronaŭ suprać adzinak."/>
+	<entry name="Necrons/TargetRelayedDescription" value="Pavialičvaje trapnaść stralby Niekronaŭ suprać adzinak."/>
 	<entry name="Necrons/TargetRelayedFlavor" value="<string name='Traits/Necrons/TargetingRelayFlavor'/>"/>
 	<entry name="Necrons/TargetingRelay" value="Rele Nacelvańnia"/>
-	<entry name="Necrons/TargetingRelayDescription" value="Časova pavialičvaje trapnaść stralby niekronaŭ pa celi."/>
+	<entry name="Necrons/TargetingRelayDescription" value="Časova pavialičvaje trapnaść stralby Niekronaŭ pa celi."/>
 	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers might appear fragile, but their unique Quantum Shielding keeps them in one piece, in order that their Targeting Relay can amplify the firepower of nearby Necrons."/>
 	<entry name="Necrons/Technomancer" value="Technamant"/>
 	<entry name="Necrons/TechnomancerDescription" value="Pavialičvaje źnižeńnie škody."/>
@@ -1164,7 +1164,7 @@
 	<entry name="Orks/CityInfluence" value="Bujnyja Bliskučy"/>
 	<entry name="Orks/CityInfluenceDescription" value="Pavialičvaje vytvorčaść upłyvu."/>
 	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”<br/>  — Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
-	<entry name="Orks/CityLoyalty" value="Trafiejašasty"/>
+	<entry name="Orks/CityLoyalty" value="Trafiejnyja Šasty"/>
 	<entry name="Orks/CityLoyaltyDescription" value="Pavialičvaje vytvorčaść łajalnaści."/>
 	<entry name="Orks/CityLoyaltyFlavor" value="There's nothing that so stirs up the vim of an Ork as the sight of their defeated enemies (or their remaining parts) strung up high for all to see."/>
 	<entry name="Orks/CityPopulationLimit" value="Hłybokija Kapalni"/>
@@ -1180,7 +1180,7 @@
 	<entry name="Orks/CityTier3Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="Orks/CityTier3Flavor" value="The Warboss' fame has spread across the entire planet, with the invisible Waaagh! energies paralleling its path. Wherever Orks are freshly-spawned, they feel the irresistible tugging towards the Warboss' cities, which are now sprawled across the nearby landscape in endless slums and shanties."/>
 	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Chutkaja Dekampazicyja"/>
-	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Pryvodzić da z'jaŭleńnia orkoidnych hryboŭ paśla śmierci adzinak."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Stvaraje orkoidnyja hryby na plitcy paśla śmierci adzinki."/>
 	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="“Exhibit 27: a single 'spore' of xenos species #0451 'Ork'. Acolytes, you should note the fungoid texture and microhomuncular structures. We theorise that these 'spores' generate new 'Orks' in any sufficiently fertile setting. When an Ork reaches maturity (typically 30 minutes after emergence) it emits these constantly—but they are released en masse at the moment of death. Please don't drop it.”<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
 	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
 	<entry name="Orks/CyborkImplantsDescription" value="Pavialičvaje škodu i źnižeńnie škody."/>
@@ -1210,7 +1210,7 @@
 	<entry name="Orks/MeleeDamage" value="Bujnyja Čoppy"/>
 	<entry name="Orks/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas… and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
-	<entry name="Orks/MightMakesRight" value="Moc Robie Prava"/>
+	<entry name="Orks/MightMakesRight" value="Moc Stvaraje Prava"/>
 	<entry name="Orks/MightMakesRightDescription" value="Daje ŭpłyŭ za ataku."/>
 	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
@@ -1225,7 +1225,7 @@
 	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
 	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
 	<entry name="Orks/WingMissiles" value="<string name='Weapons/WingMissiles'/>"/>
-	<entry name="Orks/WingMissilesDescription" value="Pavialičvaje trapnaść suprać mašynaŭ."/>
+	<entry name="Orks/WingMissilesDescription" value="Pavialičvaje trapnaść suprać mašyn."/>
 	<entry name="Outpost" value="Avanpost"/>
 	<entry name="OutpostDescription" value="Pavialičvaje źnižeńnie škody i chutkaść lačeńnia chaŭrusnych adzinak. Pavialičvaje źnižeńnie škody ad dalokaha boju dla piachoty."/>
 	<entry name="Outflank" value="Abychod Fłanha"/>
