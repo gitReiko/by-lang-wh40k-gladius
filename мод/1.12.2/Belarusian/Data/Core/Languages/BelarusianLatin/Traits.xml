@@ -120,7 +120,7 @@
 	<entry name="AdeptusMechanicus/CognisDescription" value="Abmiažoŭvaje stratu trapnaści."/>
 	<entry name="AdeptusMechanicus/CognisFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
 	<entry name="AdeptusMechanicus/CommandUplink" value="<string name='Actions/AdeptusMechanicus/CommandUplink'/>"/>
-	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Źmianšaje stratu marali."/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Źmianšaje straty marali."/>
 	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="<string name='Actions/AdeptusMechanicus/CommandUplinkFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperative" value="<string name='Actions/AdeptusMechanicus/ConquerorImperative'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Pavialičvaje trapnaść blizkaha boju, ale źmianšaje dalokaha."/>
@@ -709,7 +709,7 @@
 	<entry name="Eldar/JinxDescription" value="Źnižaje braniu."/>
 	<entry name="Eldar/JinxFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
 	<entry name="Eldar/KhaineAwakened" value="<string name='Actions/Eldar/KhaineAwakened'/>"/>
-	<entry name="Eldar/KhaineAwakenedDescription" value="Pavialičvaje ataki i škodu ŭ blizkim bai, źnižaje stratu marali i daje imunitet da strachu i skoŭvańnia."/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Pavialičvaje ataki i škodu ŭ blizkim bai, źnižaje straty marali i daje imunitet da strachu i skoŭvańnia."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="<string name='Actions/Eldar/KhaineAwakenedFlavor'/>"/>
 	<entry name="Eldar/KhainesMight" value="<string name='Actions/Eldar/KhainesMight'/>"/>
 	<entry name="Eldar/KhainesMightDescription" value="Pavialičvaje ataki blizkaha boju."/>
@@ -790,8 +790,8 @@
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Pavialičvaje vytvorčaść haradoŭ."/>
 	<entry name="Eldar/VehicleBuildingBonusFlavor" value="A spirit stone recovered from Gladius proved to be that of an ancient Bonesinger, lost here millenia past. With their insights into the planets structure and resources, were able to greatly increase our production."/>
 	<entry name="Enslaved" value="Zaniavoleny"/>
-	<entry name="EnslavedDescription" value="Zabicie Zaniavolnika, kab vyzvalić adzinku."/>
-	<entry name="EreWeGo" value="Chadziom Tudy!"/>
+	<entry name="EnslavedDescription" value="Dziela vyzvaleńnia adzinki treba zabić Zaniavolnika."/>
+	<entry name="EreWeGo" value="Chodźma Tudy!"/>
 	<entry name="EreWeGoDescription" value="Pavialičvaje ruch."/>
 	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
 	<entry name="ExtraInfantryArmour" value="Dadatkovaja Brania Piachoty"/>
@@ -804,7 +804,7 @@
 	<entry name="FearDescription" value="Źnižaje maral kožny krok."/>
 	<entry name="FearFlavor" value="<string name='Actions/AuraOfFearFlavor'/>"/>
 	<entry name="Fearless" value="Advažny"/>
-	<entry name="FearlessDescription" value="Źnižaje stratu marali i daje imunitet da strachu i skavanaści."/>
+	<entry name="FearlessDescription" value="Źnižaje straty marali i daje imunitet da strachu i skavanaści."/>
 	<entry name="FearlessFlavor" value="Fearless troops never give up and seldom take full use of cover—even if it would be wiser to do so."/>
 	<entry name="FeelNoPain" value="Adsutnaść Pačućcia Bolu"/>
 	<entry name="FeelNoPainDescription" value="Pavialičvaje źnižeńnie škody."/>
@@ -820,7 +820,7 @@
 	<entry name="Fleshbane" value="Atručvańnie Płoci"/>
 	<entry name="FleshbaneDescription" value="Pavialičvaje škodu suprać piachotnych adzinak."/>
 	<entry name="Flyer" value="Avijacyja"/>
-	<entry name="FlyerDescription" value="Moža lotać nad skałami, vadoj i varožymi adzinkami. Nia moža zachoplivać artefakty i avanposty. Ihnaruje zonu kantrolu naziemnych varožych adzinak. Nia moža być paražana naziemnaj zbrojaj blizkaha boju i drenna paražanaja nia supraćpavietranaj naziemnaj zbrojaj. Niama štrafu za ciažkuju i artyleryjnuju zbroju."/>
+	<entry name="FlyerDescription" value="Moža latać nad skałami, vadoj i varožymi adzinkami. Nia moža zachoplivać artefakty i avanposty. Ihnaruje zonu kantrolu naziemnych varožych adzinak. Niedasiažnaja dla naziemnaj zbroi blizkaha boju. Naziemnaja nia supraćpavietranaj zbroja nanosić mała škody. Adsutničaje štraf za ciažkuju i artyleryjnuju zbroju."/>
 	<entry name="FlyerFlavor" value="The airspace above a battle is thronged with activity. Fighters and bomber craft hurtle through the skies, duelling with one another providing fire support for the troops on the ground."/>
 	<entry name="Forest" value="Les"/>
 	<entry name="ForestDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju dla piachoty."/>
@@ -829,9 +829,9 @@
 	<entry name="ForestStealthDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju ŭ lesie."/>
 	<entry name="Fortification" value="Fartyfikacyja"/>
 	<entry name="FortificationDescription" value="Stacyjanarnaja fartyfikavanaja adzinka. Kali adzinka ŭzbrojena, to jana kantraluje susiednija avanposty."/>
-	<entry name="FullThrottle" value="“Poŭny Haz!”"/>
+	<entry name="FullThrottle" value="“Poŭny Ruch!”"/>
 	<entry name="FullThrottleDescription" value="Pavialičvaje ruch."/>
-	<entry name="FuelledByRage" value="Padsiłkavańnie Lutaściu"/>
+	<entry name="FuelledByRage" value="Siłkavańnie Lutaściu"/>
 	<entry name="FuelledByRageDescription" value="Pavialičvaje ataki pry źmianšeńni zdaroŭja adzinki."/>
 	<entry name="FuriousCharge" value="Paryŭ Lutaści"/>
 	<entry name="FuriousChargeDescription" value="Pavialičvaje škodu ŭ blizkim bai."/>
@@ -858,7 +858,7 @@
 	<entry name="GrotRiggersFlavor" value="Whether hurriedly re-attaching gubbinz with rivet guns, or just getting out and pushing, a crew of grot riggers can help to keep an Ork vehicle in the fight long after it should have fallen apart."/>
 	<entry name="GroundAttack" value="Naziemnaja Ataka"/>
 	<entry name="GroundAttackDescription" value="Moža nacelvacca tolki na naziemnyja adzinki."/>
-	<entry name="GunnersKillOnSight" value="“Strełki Zabivajcie Ŭsio, što Bačycie!”"/>
+	<entry name="GunnersKillOnSight" value="“Strełki Zabicie Ŭsich, kaho Bačycie!”"/>
 	<entry name="GunnersKillOnSightDescription" value="Pavialičvaje ataki dalokaha boju."/>
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="HammerOfWrathDescription" value="Pavialičvaje škodu zbroi za vyniatkam bombaŭ."/>
@@ -872,7 +872,7 @@
 	<entry name="HarvestResourceFeatures" value="Zbor Resursaŭ Plitki"/>
 	<entry name="HarvestResourceFeaturesDescription" value="Zdabyvaje resursy z susiednich admysłovych resursaŭ."/>
 	<entry name="Haywire" value="Var'jat"/>
-	<entry name="HaywireDescription" value="Pavialičvaje škodu i ihnaruje braniu varožych mašyn i fartyfikacyj."/>
+	<entry name="HaywireDescription" value="Pavialičvaje škodu i ihnaruje braniu varožych mašyn i fartyfikacyjaŭ."/>
 	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
 	<entry name="Headquarters" value="Štabkvatera"/>
 	<entry name="HeadquartersDescription" value="Źniščeńnie štabkvatery źniščaje ŭvieś horad."/>
@@ -891,9 +891,9 @@
 	<entry name="Homing" value="Samanaviadzieńnie"/>
 	<entry name="HomingDescription" value="Nie patrabuje pramoj bačnaści."/>
 	<entry name="IgnoresCover" value="Ihnaruje Chovanki"/>
-	<entry name="IgnoresCoverDescription" value="Ihnaruje źmianšeńnie škody ad dalokaha boju dla celevaj adzinki."/>
+	<entry name="IgnoresCoverDescription" value="Ihnaruje źmianšeńnie škody ad dalokaha boju celevaj adzinki."/>
 	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
-	<entry name="Illuminated" value="Aśvietleny"/>
+	<entry name="Illuminated" value="Aśviatlony"/>
 	<entry name="IlluminatedDescription" value="Źmianšaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="Immobilized" value="Źnieruchomleny"/>
 	<entry name="ImmobilizedDescription" value="Adzinka nia moža ruchacca."/>
@@ -903,8 +903,8 @@
 	<entry name="ImperialSplendour" value="Impierskaja Vielič"/>
 	<entry name="ImperialSplendourDescription" value="Pavialičvaje ŭpłyŭ."/>
 	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium—mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
-	<entry name="Infiltrate" value="Pranikańnie"/>
-	<entry name="InfiltrateDescription" value="Praduchilaje ataku adzinki z boku naziralnika."/>
+	<entry name="Infiltrate" value="Praniknieńnie"/>
+	<entry name="InfiltrateDescription" value="Ataki nazirańnia nie pracujuć na hetuju adzinku."/>
 	<entry name="InfiltrateFlavor" value="Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike."/>
 	<entry name="Invulnerable" value="Nieparažalny"/>
 	<entry name="InvulnerableDescription" value="Hetaja adzinka nieparažalnaja."/>
@@ -927,7 +927,7 @@
 	<entry name="JinkDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju, ale źnižaje trapnaść."/>
 	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
 	<entry name="Killshot" value="Śmiarotny Streł"/>
-	<entry name="KillshotDescription" value="Pavialičvaje škodu suprać žachlivych stvareńniaŭ, mašyn i fartyfikacyj, kali znachodzicca poruč z chaŭrusnym drapiežnikam."/>
+	<entry name="KillshotDescription" value="Pavialičvaje škodu suprać žachlivych stvareńniaŭ, mašyn i fartyfikacyjaŭ, kali znachodzicca poruč z chaŭrusnym drapiežnikam."/>
 	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron—a trio of Predators—their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
 	<entry name="Lance" value="Dzida"/>
 	<entry name="LanceDescription" value="Abmiažoŭvaje braniu celevaj adzinki."/>
@@ -1120,7 +1120,7 @@
 	<entry name="OrationOfRestoration" value="Pramova Adnaŭleńnia"/>
 	<entry name="OrationOfRestorationDescription" value="Adnaŭlaje zdaroŭje."/>
 	<entry name="Ordnance" value="Artyleryja"/>
-	<entry name="OrdnanceDescription" value="Pavialičvaje bronieprabivalnaść suprać mašyn i fartyfikacyj. Nielha vykarystoŭvać piachotaj paśla pierasoŭvańnia."/>
+	<entry name="OrdnanceDescription" value="Pavialičvaje bronieprabivalnaść suprać mašyn i fartyfikacyjaŭ. Nielha vykarystoŭvać piachotaj paśla pierasoŭvańnia."/>
 	<entry name="OrkoidFungus" value="Orkoidny Hryb"/>
 	<entry name="OrkoidFungusDescription" value="Adnaŭlaje zdaroŭje kožny krok naziemnym adzinkam Orkaŭ."/>
 	<entry name="OrkoidFungusFlavor" value="Orks have a weirdly symbiotic relationship with the fungus that spreads across their planets—it's genetically identical to them, Squigs and Grots, and all these species tend to emerge from it rather than being born. Ork units depleted by battle would be wise to retreat to these fields to acquire (literally) fresh recruits."/>
@@ -1151,7 +1151,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="Pavialičvaje vytvorčaść Kultaŭ Chutkaści."/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work—vital components are often missing or the device is simply impossible. The Ork's single-minded belief—realised in the form of the Waaagh! energy that surrounds them—fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality…"/>
 	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
-	<entry name="Orks/BustHeadsDescription" value="Źnižaje stratu marali."/>
+	<entry name="Orks/BustHeadsDescription" value="Źnižaje straty marali."/>
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Pavialičvaje vytvorčaść daśledavańniaŭ."/>
@@ -1355,7 +1355,7 @@
 	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="“The right attack, carefully placed, can defeat the most overwhelming of enemies. However, if we do not know the right attack? Then an overwhelming, inchoate assault will hit the right spot, eventually…”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/AvengingZeal" value="Zapał Pomstvy"/>
-	<entry name="SistersOfBattle/AvengingZealDescription" value="Źnižaje stratu marali."/>
+	<entry name="SistersOfBattle/AvengingZealDescription" value="Źnižaje straty marali."/>
 	<entry name="SistersOfBattle/AvengingZealFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
 	<entry name="SistersOfBattle/BerserkKillingMachine" value="Mašyna dla Zabojstvaŭ Biersierk"/>
 	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Pavialičvaje źnižeńnie škody."/>
@@ -1574,7 +1574,7 @@
 	<entry name="StrikedownDescription" value="Časova Źmianšaje ruch celevaj piachotnaj adzinki."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
 	<entry name="Stubborn" value="Uparty"/>
-	<entry name="StubbornDescription" value="Źnižaje stratu marali."/>
+	<entry name="StubbornDescription" value="Źnižaje straty marali."/>
 	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
 	<entry name="Stunned" value="Ašałomleny"/>
 	<entry name="StunnedDescription" value="Praduchilaje ruch abo dziejańnie adzinki."/>
@@ -1962,7 +1962,7 @@
 	<entry name="VoidShieldDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
 	<entry name="VoxCaster" value="Hałasavy Pieradatnik"/>
-	<entry name="VoxCasterDescription" value="Źnižaje stratu marali."/>
+	<entry name="VoxCasterDescription" value="Źnižaje straty marali."/>
 	<entry name="VoxCasterFlavor" value="A vox-caster is a reliable communications array connected to the tactical command net via tight-beam transmitters."/>
 	<entry name="Waaagh" value="Vaaahch!"/>
 	<entry name="WaaaghDescription" value="Pavialičvaje ataki."/>

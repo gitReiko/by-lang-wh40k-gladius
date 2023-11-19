@@ -120,7 +120,7 @@
 	<entry name="AdeptusMechanicus/CognisDescription" value="Абмяжоўвае страту трапнасьці."/>
 	<entry name="AdeptusMechanicus/CognisFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
 	<entry name="AdeptusMechanicus/CommandUplink" value="<string name='Actions/AdeptusMechanicus/CommandUplink'/>"/>
-	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Зьмяншае страту маралі."/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Зьмяншае страты маралі."/>
 	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="<string name='Actions/AdeptusMechanicus/CommandUplinkFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperative" value="<string name='Actions/AdeptusMechanicus/ConquerorImperative'/>"/>
 	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Павялічвае трапнасьць блізкага бою, але зьмяншае далёкага."/>
@@ -709,7 +709,7 @@
 	<entry name="Eldar/JinxDescription" value="Зьніжае браню."/>
 	<entry name="Eldar/JinxFlavor" value="<string name='Actions/Eldar/ProtectJinxFlavor'/>"/>
 	<entry name="Eldar/KhaineAwakened" value="<string name='Actions/Eldar/KhaineAwakened'/>"/>
-	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім баі, зьніжае страту маралі і дае імунітэт да страху і скоўваньня."/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім баі, зьніжае страты маралі і дае імунітэт да страху і скоўваньня."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="<string name='Actions/Eldar/KhaineAwakenedFlavor'/>"/>
 	<entry name="Eldar/KhainesMight" value="<string name='Actions/Eldar/KhainesMight'/>"/>
 	<entry name="Eldar/KhainesMightDescription" value="Павялічвае атакі блізкага бою."/>
@@ -790,8 +790,8 @@
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Павялічвае вытворчасьць гарадоў."/>
 	<entry name="Eldar/VehicleBuildingBonusFlavor" value="A spirit stone recovered from Gladius proved to be that of an ancient Bonesinger, lost here millenia past. With their insights into the planet’s structure and resources, we’re able to greatly increase our production."/>
 	<entry name="Enslaved" value="Заняволены"/>
-	<entry name="EnslavedDescription" value="Забіце Занявольніка, каб вызваліць адзінку."/>
-	<entry name="EreWeGo" value="Хадзём Туды!"/>
+	<entry name="EnslavedDescription" value="Дзеля вызваленьня адзінкі трэба забіць Занявольніка."/>
+	<entry name="EreWeGo" value="Ходзьма Туды!"/>
 	<entry name="EreWeGoDescription" value="Павялічвае рух."/>
 	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
 	<entry name="ExtraInfantryArmour" value="Дадатковая Браня Пяхоты"/>
@@ -804,7 +804,7 @@
 	<entry name="FearDescription" value="Зьніжае мараль кожны крок."/>
 	<entry name="FearFlavor" value="<string name='Actions/AuraOfFearFlavor'/>"/>
 	<entry name="Fearless" value="Адважны"/>
-	<entry name="FearlessDescription" value="Зьніжае страту маралі і дае імунітэт да страху і скаванасьці."/>
+	<entry name="FearlessDescription" value="Зьніжае страты маралі і дае імунітэт да страху і скаванасьці."/>
 	<entry name="FearlessFlavor" value="Fearless troops never give up and seldom take full use of cover—even if it would be wiser to do so."/>
 	<entry name="FeelNoPain" value="Адсутнасьць Пачуцьця Болю"/>
 	<entry name="FeelNoPainDescription" value="Павялічвае зьніжэньне шкоды."/>
@@ -820,7 +820,7 @@
 	<entry name="Fleshbane" value="Атручваньне Плоці"/>
 	<entry name="FleshbaneDescription" value="Павялічвае шкоду супраць пяхотных адзінак."/>
 	<entry name="Flyer" value="Авіяцыя"/>
-	<entry name="FlyerDescription" value="Можа лётаць над скаламі, вадой і варожымі адзінкамі. Ня можа захопліваць артэфакты і аванпосты. Ігнаруе зону кантролю наземных варожых адзінак. Ня можа быць паражана наземнай зброяй блізкага бою і дрэнна паражаная ня супрацьпаветранай наземнай зброяй. Няма штрафу за цяжкую і артылерыйную зброю."/>
+	<entry name="FlyerDescription" value="Можа лятаць над скаламі, вадой і варожымі адзінкамі. Ня можа захопліваць артэфакты і аванпосты. Ігнаруе зону кантролю наземных варожых адзінак. Недасяжная для наземнай зброі блізкага бою. Наземная ня супрацьпаветранай зброя наносіць мала шкоды. Адсутнічае штраф за цяжкую і артылерыйную зброю."/>
 	<entry name="FlyerFlavor" value="The airspace above a battle is thronged with activity. Fighters and bomber craft hurtle through the skies, duelling with one another providing fire support for the troops on the ground."/>
 	<entry name="Forest" value="Лес"/>
 	<entry name="ForestDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою для пяхоты."/>
@@ -829,9 +829,9 @@
 	<entry name="ForestStealthDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою ў лесе."/>
 	<entry name="Fortification" value="Фартыфікацыя"/>
 	<entry name="FortificationDescription" value="Стацыянарная фартыфікаваная адзінка. Калі адзінка ўзброена, то яна кантралюе суседнія аванпосты."/>
-	<entry name="FullThrottle" value="“Поўны Газ!”"/>
+	<entry name="FullThrottle" value="“Поўны Рух!”"/>
 	<entry name="FullThrottleDescription" value="Павялічвае рух."/>
-	<entry name="FuelledByRage" value="Падсілкаваньне Лютасьцю"/>
+	<entry name="FuelledByRage" value="Сілкаваньне Лютасьцю"/>
 	<entry name="FuelledByRageDescription" value="Павялічвае атакі пры зьмяншэньні здароўя адзінкі."/>
 	<entry name="FuriousCharge" value="Парыў Лютасьці"/>
 	<entry name="FuriousChargeDescription" value="Павялічвае шкоду ў блізкім баі."/>
@@ -858,7 +858,7 @@
 	<entry name="GrotRiggersFlavor" value="Whether hurriedly re-attaching gubbinz with rivet guns, or just getting out and pushing, a crew of grot riggers can help to keep an Ork vehicle in the fight long after it should have fallen apart."/>
 	<entry name="GroundAttack" value="Наземная Атака"/>
 	<entry name="GroundAttackDescription" value="Можа нацэльвацца толькі на наземныя адзінкі."/>
-	<entry name="GunnersKillOnSight" value="“Стрэлкі Забівайце Ўсё, што Бачыце!”"/>
+	<entry name="GunnersKillOnSight" value="“Стрэлкі Забіце Ўсіх, каго Бачыце!”"/>
 	<entry name="GunnersKillOnSightDescription" value="Павялічвае атакі далёкага бою."/>
 	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="HammerOfWrathDescription" value="Павялічвае шкоду зброі за выняткам бомбаў."/>
@@ -872,7 +872,7 @@
 	<entry name="HarvestResourceFeatures" value="Збор Рэсурсаў Пліткі"/>
 	<entry name="HarvestResourceFeaturesDescription" value="Здабывае рэсурсы з суседніх адмысловых рэсурсаў."/>
 	<entry name="Haywire" value="Вар'ят"/>
-	<entry name="HaywireDescription" value="Павялічвае шкоду і ігнаруе браню варожых машын і фартыфікацый."/>
+	<entry name="HaywireDescription" value="Павялічвае шкоду і ігнаруе браню варожых машын і фартыфікацыяў."/>
 	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
 	<entry name="Headquarters" value="Штабкватэра"/>
 	<entry name="HeadquartersDescription" value="Зьнішчэньне штабкватэры зьнішчае ўвесь горад."/>
@@ -891,9 +891,9 @@
 	<entry name="Homing" value="Саманавядзеньне"/>
 	<entry name="HomingDescription" value="Не патрабуе прамой бачнасьці."/>
 	<entry name="IgnoresCover" value="Ігнаруе Хованкі"/>
-	<entry name="IgnoresCoverDescription" value="Ігнаруе зьмяншэньне шкоды ад далёкага бою для цэлевай адзінкі."/>
+	<entry name="IgnoresCoverDescription" value="Ігнаруе зьмяншэньне шкоды ад далёкага бою цэлевай адзінкі."/>
 	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
-	<entry name="Illuminated" value="Асьветлены"/>
+	<entry name="Illuminated" value="Асьвятлёны"/>
 	<entry name="IlluminatedDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Immobilized" value="Зьнерухомлены"/>
 	<entry name="ImmobilizedDescription" value="Адзінка ня можа рухацца."/>
@@ -903,8 +903,8 @@
 	<entry name="ImperialSplendour" value="Імперская Веліч"/>
 	<entry name="ImperialSplendourDescription" value="Павялічвае ўплыў."/>
 	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium—mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
-	<entry name="Infiltrate" value="Праніканьне"/>
-	<entry name="InfiltrateDescription" value="Прадухіляе атаку адзінкі з боку назіральніка."/>
+	<entry name="Infiltrate" value="Пранікненьне"/>
+	<entry name="InfiltrateDescription" value="Атакі назіраньня не працуюць на гэтую адзінку."/>
 	<entry name="InfiltrateFlavor" value="Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike."/>
 	<entry name="Invulnerable" value="Непаражальны"/>
 	<entry name="InvulnerableDescription" value="Гэтая адзінка непаражальная."/>
@@ -927,7 +927,7 @@
 	<entry name="JinkDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою, але зьніжае трапнасьць."/>
 	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
 	<entry name="Killshot" value="Сьмяротны Стрэл"/>
-	<entry name="KillshotDescription" value="Павялічвае шкоду супраць жахлівых стварэньняў, машын і фартыфікацый, калі знаходзіцца поруч з хаўрусным драпежнікам."/>
+	<entry name="KillshotDescription" value="Павялічвае шкоду супраць жахлівых стварэньняў, машын і фартыфікацыяў, калі знаходзіцца поруч з хаўрусным драпежнікам."/>
 	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron—a trio of Predators—their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
 	<entry name="Lance" value="Дзіда"/>
 	<entry name="LanceDescription" value="Абмяжоўвае браню цэлевай адзінкі."/>
@@ -1120,7 +1120,7 @@
 	<entry name="OrationOfRestoration" value="Прамова Аднаўленьня"/>
 	<entry name="OrationOfRestorationDescription" value="Аднаўляе здароўе."/>
 	<entry name="Ordnance" value="Артылерыя"/>
-	<entry name="OrdnanceDescription" value="Павялічвае бронепрабівальнасьць супраць машын і фартыфікацый. Нельга выкарыстоўваць пяхотай пасьля перасоўваньня."/>
+	<entry name="OrdnanceDescription" value="Павялічвае бронепрабівальнасьць супраць машын і фартыфікацыяў. Нельга выкарыстоўваць пяхотай пасьля перасоўваньня."/>
 	<entry name="OrkoidFungus" value="Оркоідны Грыб"/>
 	<entry name="OrkoidFungusDescription" value="Аднаўляе здароўе кожны крок наземным адзінкам Оркаў."/>
 	<entry name="OrkoidFungusFlavor" value="Orks have a weirdly symbiotic relationship with the fungus that spreads across their planets—it's genetically identical to them, Squigs and Grots, and all these species tend to emerge from it rather than being born. Ork units depleted by battle would be wise to retreat to these fields to acquire (literally) fresh recruits."/>
@@ -1151,7 +1151,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="Павялічвае вытворчасьць Культаў Хуткасьці."/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work—vital components are often missing or the device is simply impossible. The Ork's single-minded belief—realised in the form of the Waaagh! energy that surrounds them—fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality…"/>
 	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
-	<entry name="Orks/BustHeadsDescription" value="Зьніжае страту маралі."/>
+	<entry name="Orks/BustHeadsDescription" value="Зьніжае страты маралі."/>
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Павялічвае вытворчасьць дасьледаваньняў."/>
@@ -1355,7 +1355,7 @@
 	<entry name="SistersOfBattle/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="SistersOfBattle/AssaultWeaponBonusFlavor" value="“The right attack, carefully placed, can defeat the most overwhelming of enemies. However, if we do not know the right attack? Then an overwhelming, inchoate assault will hit the right spot, eventually…”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/AvengingZeal" value="Запал Помствы"/>
-	<entry name="SistersOfBattle/AvengingZealDescription" value="Зьніжае страту маралі."/>
+	<entry name="SistersOfBattle/AvengingZealDescription" value="Зьніжае страты маралі."/>
 	<entry name="SistersOfBattle/AvengingZealFlavor" value="<string name='Traits/SistersOfBattle/MartyrSpiritFlavor'/>"/>
 	<entry name="SistersOfBattle/BerserkKillingMachine" value="Машына для Забойстваў Берсерк"/>
 	<entry name="SistersOfBattle/BerserkKillingMachineDescription" value="Павялічвае зьніжэньне шкоды."/>
@@ -1574,7 +1574,7 @@
 	<entry name="StrikedownDescription" value="Часова Зьмяншае рух цэлевай пяхотнай адзінкі."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
 	<entry name="Stubborn" value="Упарты"/>
-	<entry name="StubbornDescription" value="Зьніжае страту маралі."/>
+	<entry name="StubbornDescription" value="Зьніжае страты маралі."/>
 	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
 	<entry name="Stunned" value="Ашаломлены"/>
 	<entry name="StunnedDescription" value="Прадухіляе рух або дзеяньне адзінкі."/>
@@ -1962,7 +1962,7 @@
 	<entry name="VoidShieldDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
 	<entry name="VoxCaster" value="Галасавы Перадатнік"/>
-	<entry name="VoxCasterDescription" value="Зьніжае страту маралі."/>
+	<entry name="VoxCasterDescription" value="Зьніжае страты маралі."/>
 	<entry name="VoxCasterFlavor" value="A vox-caster is a reliable communications array connected to the tactical command net via tight-beam transmitters."/>
 	<entry name="Waaagh" value="Вааагх!"/>
 	<entry name="WaaaghDescription" value="Павялічвае атакі."/>
