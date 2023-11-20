@@ -876,7 +876,7 @@
 	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
 	<entry name="Headquarters" value="Štabkvatera"/>
 	<entry name="HeadquartersDescription" value="Źniščeńnie štabkvatery źniščaje ŭvieś horad."/>
-	<entry name="HeavyWeapon" value="Ciažki"/>
+	<entry name="HeavyWeapon" value="Ciažkaja Adzinka"/>
 	<entry name="HeavyWeaponDescription" value="Paśla pierasoŭvańnia źnižajecca trapnaść."/>
 	<entry name="HellstormTemplate" value="Šabłon Piakielny Štorm"/>
 	<entry name="HellstormTemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
@@ -1501,7 +1501,7 @@
 	<entry name="SkimmerDescription" value="Adzinka moža pierasoŭvacca praz vadu. Ihnaruje štrafy ad rekaŭ i pustaziella-drotu. Źnižaje štraf ruchu ŭ lasach i impierskich ruinach."/>
 	<entry name="SkimmerFlavor" value="Some highly advanced vehicles are fitted with anti-gravity drives that allow them to skim swiftly over tough terrain and intervening troops, making them perfect for surprise flanking attacks."/>
 	<entry name="SkullAltar" value="<string name='Features/SkullAltar'/>"/>
-	<entry name="SkullAltarDescription" value="Daje ŭznaharodu adzincy, jakaja ŭvachodzić na plitku."/>
+	<entry name="SkullAltarDescription" value="Daje ŭznaharodu adzincy, što ŭvachodzić na plitku."/>
 	<entry name="SkullAltarFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
 	<entry name="SkullsForTheSkullThrone" value="Čerapy dla Trona Čarapoŭ"/>
 	<entry name="SkullsForTheSkullThroneDescription" value="Pavialičvaje źnižeńnie škody."/>
@@ -1512,7 +1512,7 @@
 	<entry name="SlowAndPurposeful" value="Pavolna i Metliva"/>
 	<entry name="SlowAndPurposefulDescription" value="Zdymaje štraf za ciažkuju i artyleryjnuju zbroju."/>
 	<entry name="SlowAndPurposefulFlavor" value="Many warriors are steady but sure, slow to advance but no less deadly for it."/>
-	<entry name="Slowed" value="Zapavoleny"/>
+	<entry name="Slowed" value="Zapavolenaść"/>
 	<entry name="SlowedDescription" value="Źmianšaje ruch."/>
 	<entry name="Smash" value="Razbureńnie"/>
 	<entry name="SmashDescription" value="Pavialičvaje prabićcio brani ŭ blizkim bai."/>
@@ -1559,36 +1559,36 @@
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="<string name='Actions/SpaceMarines/OmniscopeDescription'/>"/>
 	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
-	<entry name="SpaceMarines/SuppressiveBombardment" value="Prydušalnaje Bambavańnie"/>
-	<entry name="SpaceMarines/SuppressiveBombardmentDescription" value="Pavialičvaje škodu i ataki, jakija zvalvajuć varožuju piachotu, kali jana znachodzicca pobač ź inšaj Vichuraj."/>
+	<entry name="SpaceMarines/SuppressiveBombardment" value="Prydušvalnaje Bambavańnie"/>
+	<entry name="SpaceMarines/SuppressiveBombardmentDescription" value="Pavialičvaje škodu i ataki, jakija źbivaje z noh varožuju piachotu, kali jana znachodzicca pobač ź inšaj Vichuraj."/>
 	<entry name="SpaceMarines/SuppressiveBombardmentFlavor" value="The Codex Astartes dictates that Whirlwinds operate best in larger groups, laying down a rolling barrage that cannot be avoided but must instead be endured. Even when sheltered, lighter-armoured troops and vehicles are utterly devastated by the relentless rain of warheads."/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
 	<entry name="SpaceSlipDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="Stealth" value="Utojlivaść"/>
 	<entry name="StealthDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
-	<entry name="StrafingRun" value="Stralba na Biehu"/>
+	<entry name="StrafingRun" value="Jazda sa Stralboj"/>
 	<entry name="StrafingRunDescription" value="Pavialičvaje trapnaść dalokaha boju pa naziemnych adzinkach."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
 	<entry name="Strikedown" value="Źbić z Noh"/>
-	<entry name="StrikedownDescription" value="Časova Źmianšaje ruch piachotnaj adzinki-celi."/>
+	<entry name="StrikedownDescription" value="Časova źmianšaje ruch piachotnaj adzinki-celi."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
-	<entry name="Stubborn" value="Uparty"/>
+	<entry name="Stubborn" value="Upartaść"/>
 	<entry name="StubbornDescription" value="Źnižaje straty marali."/>
 	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
-	<entry name="Stunned" value="Ašałomleny"/>
+	<entry name="Stunned" value="Ašałomlenaść"/>
 	<entry name="StunnedDescription" value="Praduchilaje ruch abo dziejańnie adzinki."/>
 	<entry name="Suicider" value="Samazhubca"/>
 	<entry name="SuiciderDescription" value="Vorahi nie atrymvajuć dośviedu, kali hetaja adzinka zabivaje siabie."/>
-	<entry name="Summon" value="Pryzvany"/>
+	<entry name="Summon" value="Zaklikanaja Adzinka"/>
 	<entry name="SummonDescription" value="Kłasifikacyja."/>
-	<entry name="SuperHeavy" value="Zvyšciažki"/>
+	<entry name="SuperHeavy" value="Zvyšciažkaja Adzinka"/>
 	<entry name="SuperHeavyDescription" value="Kłasifikacyja."/>
 	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
-	<entry name="Supersonic" value="Zvyšhukavy"/>
+	<entry name="Supersonic" value="Zvyšhukavaja Adzinka"/>
 	<entry name="SupersonicDescription" value="Pavialičvaje ruch."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
-	<entry name="Swarms" value="Rai"/>
+	<entry name="Swarms" value="Vyvadki"/>
 	<entry name="SwarmsDescription" value="Atrymanaja škoda raźmiarkoŭvajecca raŭnamierna pa ŭsioj hrupie adzinak, ale hrupa atrymlivaje dadatkovyja ŭdary ad vybuchovaj i šabłonnaj zbroi."/>
 	<entry name="SwarmsFlavor" value="These creatures are so multitudinous that they cannot be picked out individually and must be fought as a group."/>
 	<entry name="Swiftstrike" value="Chutki Ŭdar"/>
@@ -1608,7 +1608,7 @@
 	<entry name="Tau/AutomatedRepairSystem" value="Aŭtamatyzavanaja Sistema Ramontu"/>
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Adnaŭlaje zdaroŭje kožny krok."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="Tiny maintenance drones swarm over damaged systems to repair them in the midst of battle."/>
-	<entry name="Tau/BlacksunFilter" value="Filtr Čornaha Sonca"/>
+	<entry name="Tau/BlacksunFilter" value="Filtar Čornaha Sonca"/>
 	<entry name="Tau/BlacksunFilterDescription" value="Pavialičvaje bačnaść."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="This optical filtering suite allows vehicle sensors to target enemies at full efficiency and range, even during night fighting operations."/>
 	<entry name="Tau/BlastDamage" value="Vybuchovaje Fazavańnie"/>
@@ -1618,7 +1618,7 @@
 	<entry name="Tau/BoltDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Tau/BoltDamageFlavor" value="Even the finest Earth Caste technician cant assemble the components of their rail weapons by hand. But by entrusting this work to the tiny Brachyuran race and supplying them with miniaturised tools, they can shrink the scale and lower the fundamental deviation of any delicate operations, allowing for even more finerly tuned weaponry."/>
 	<entry name="Tau/BreakComposure" value="<string name='Actions/Tau/BreakComposure'/>"/>
-	<entry name="Tau/BreakComposureDescription" value="Atakavanyja adzinki hublajuć maral."/>
+	<entry name="Tau/BreakComposureDescription" value="Atakavanyja adzinki stračvajuć maral."/>
 	<entry name="Tau/BreakComposureFlavor" value="<string name='Actions/Tau/BreakComposureFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="Raspaŭsiudžvańnie"/>
 	<entry name="Tau/CityTier2Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
@@ -1644,7 +1644,7 @@
 	<entry name="Tau/FireTeam" value="Kamanda Ahniu"/>
 	<entry name="Tau/FireTeamDescription" value="Pavialičvaje trapnaść dalokaha boju, kali znachodzicca poruč z chaŭrusnaj mašynaj abo žachlivym stvareńniem."/>
 	<entry name="Tau/FireTeamFlavor" value="Some battlesuits and battle tank sensor-systems can be networked to provide enhanced efficiency when they fight in dedicated fire teams."/>
-	<entry name="Tau/FlechetteDischarger" value="Strałavaty Razradnik"/>
+	<entry name="Tau/FlechetteDischarger" value="Strełavidny Razradnik"/>
 	<entry name="Tau/FlechetteDischargerDescription" value="Nanosić škodu atakoŭcam u blizkim bai."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="Powerful clusters of reactive charges are attached to the hulls of many T'au vehicles. If the enemy approaches, the clusters fire off vicious clouds of high velocity flechettes."/>
 	<entry name="Tau/GhostkeelElectrowarfareSuite" value="Pryvidny Nabor Elektrazmahańnia"/>
@@ -1659,16 +1659,16 @@
 	<entry name="Tau/Kauyon" value="<string name='Actions/Tau/Kauyon'/>"/>
 	<entry name="Tau/KauyonDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
-	<entry name="Tau/LasDamage" value="Mar'toniumavyje Paskaralniki"/>
+	<entry name="Tau/LasDamage" value="Paskaralniki Mor'tonium"/>
 	<entry name="Tau/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Tau/LasDamageFlavor" value="As humanity has discovered to its cost, over and over, using radioactive materials in weaponry is always dangerous. Its reasonable to assume the Tau are cognisant of this, but choose to use the recently discovered Mortonium in their military technology anyway. Upon exposure to air, it rapidly decays into a massive burst of ionic energy that the Tau use."/>
 	<entry name="Tau/MobileDefencePlatform" value="Mabilnaja Abarončaja Płatforma"/>
-	<entry name="Tau/MobileDefencePlatformDescription" value="Pavialičvaje ruch pry transpartoŭcy hruzu."/>
+	<entry name="Tau/MobileDefencePlatformDescription" value="Pavialičvaje ruch padčas transpartacyi hruzu."/>
 	<entry name="Tau/Montka" value="<string name='Actions/Tau/Montka'/>"/>
-	<entry name="Tau/MontkaDescription" value="Pavialičvaje škodu pa adzinkach sa zdaroŭjem nižej za 50%."/>
+	<entry name="Tau/MontkaDescription" value="Pavialičvaje škodu pa adzinkach sa zdaroŭjem nižejšym za 50%."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
 	<entry name="Tau/NetworkedMarkerlight" value="Sietkavaja Paznaka Celi"/>
-	<entry name="Tau/NetworkedMarkerlightDescription" value="Pavialičvaje trapnaść stralby ŭ dalokim bai i abychod źmianšeńnia škody ŭ dalokim bai. Ataki adzinak nie atrymlivajuć abo vydatkoŭvajuć vyhadu ad paznačeńnia celi."/>
+	<entry name="Tau/NetworkedMarkerlightDescription" value="Pavialičvaje trapnaść stralby ŭ dalokim bai i abychod źmianšeńnia škody ŭ dalokim bai. Ataki adzinak nie atrymlivajuć abo vydatkoŭvajuć pieravahu ad Paznačeńnia Celi."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
 	<entry name="Tau/NovaBoostDescription" value="Pavialičvaje ruch."/>
@@ -1697,7 +1697,7 @@
 	<entry name="Tau/Ripyka" value="<string name='Actions/Tau/Ripyka'/>"/>
 	<entry name="Tau/RipykaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaFlavor" value="<string name='Actions/Tau/RipykaFlavor'/>"/>
-	<entry name="Tau/RipykaVa" value="Rypajka'va"/>
+	<entry name="Tau/RipykaVa" value="Rypika'va"/>
 	<entry name="Tau/RipykaVaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaVaFlavor" value="Commander Coldflame was famed for her subtlety, her ability to layer tactics on tactics but somehow inspire her troops to strive to match her strategic complexity. Some whispered, however, that she concerned herself too deeply with the Greater Good for a mere Fire Warrior…"/>
 	<entry name="Tau/SenseOfStone" value="<string name='Actions/Tau/SenseOfStone'/>"/>
@@ -1707,7 +1707,7 @@
 	<entry name="Tau/ShieldGeneratorDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Actions/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StabilisingAnchors" value="Jakary Stabilizacyi"/>
-	<entry name="Tau/StabilisingAnchorsDescription" value="Pavialičvaje ataki dalokaha boju, kali adzinka nia ruchałasia ŭ hety krok."/>
+	<entry name="Tau/StabilisingAnchorsDescription" value="Pavialičvaje ataki dalokaha boju, kali adzinka nia ruchałasia na hetym kroku."/>
 	<entry name="Tau/StabilisingAnchorsFlavor" value="KV128 Stormsurge Ballistic Suits are too large to mount a jetpack like their Battle Suit counterparts. Instead, the Earth Case scientist Bork'an designed them to lock into place once deployed, allowing them to divert all their reactor power to their immense weaponry."/>
 	<entry name="Tau/StimulantInjector" value="Inžektar Stymulatara"/>
 	<entry name="Tau/StimulantInjectorDescription" value="Pavialičvaje źnižeńnie škody."/>
@@ -1725,7 +1725,7 @@
 	<entry name="Tau/SupportingFireDescription" value="Pavialičvaje škodu nazirańnia suprać varožych adzinak, susiednich ź inšymi chaŭrusnymi adzinkami."/>
 	<entry name="Tau/SupportingFireFlavor" value="Fire caste doctrine, as laid down in the Code of Fire, instructs every warrior to protect their comrades. Using overlapping fields of fire, teams provide each other this mutual support on the battlefield."/>
 	<entry name="Tau/TargetAcquired" value="Paznačeńnie Celi"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Pavialičvaje trapnaść t'aŭ ŭ dalokim bai suprać adzinak. Źmianšaje źnižeńnie škody ad dalokaha boju adzinki suprać t'aŭ. Skončvajecca paśla taho, jak adzinka atakavana t'aŭ."/>
+	<entry name="Tau/TargetAcquiredDescription" value="Pavialičvaje trapnaść T'aŭ ŭ dalokim bai suprać adzinak. Źmianšaje źnižeńnie škody ad dalokaha boju adzinki suprać T'aŭ. Skončvajecca paśla taho, jak adzinka atakavana T'aŭ."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the Tau, and the Markerlight is an excellent example of this. Its a handheld targeting laser that is networked into the Taus information system, allowing for pinpoint strikes by other Tau forces."/>
 	<entry name="Tau/TidewallShieldline" value="Linija Ščytoŭ - Ściana z Chval"/>
 	<entry name="Tau/TidewallShieldlineDescription" value="Viartaje škodu ad dalokaha boju ad zbroi, jakaja nia z'jaŭlajecca vybuchovaj, šabłonnaj abo viadźmoŭskim ahniom, nazad atakoŭcu."/>
@@ -1739,7 +1739,7 @@
 	<entry name="Tau/Unity" value="<string name='Actions/Tau/Unity'/>"/>
 	<entry name="Tau/UnityDescription" value="<string name='Actions/Tau/UnityDescription'/>"/>
 	<entry name="Tau/UnityFlavor" value="<string name='Actions/Tau/UnityFlavor'/>"/>
-	<entry name="Tau/UtopiaBonus" value="U Raznastajnaści, Adzinstva"/>
+	<entry name="Tau/UtopiaBonus" value="U Raznastajnaści Adzinstva"/>
 	<entry name="Tau/UtopiaBonusDescription" value="Pavialičvaje bonus łajalnaści ad novych typaŭ budynkaŭ."/>
 	<entry name="Tau/UtopiaBonusFlavor" value="The ideal Tau city is an example to all others, displaying a perfect balance of the various castes of the Tau race with their client and auxiliary races, all living in harmony."/>
 	<entry name="Tau/VectoredRetroThrusters" value="Viektarnyja Retraruchaviki"/>
@@ -1758,7 +1758,7 @@
 	<entry name="TelekineDomeDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
 	<entry name="TeleportHomer" value="Teleport Hamiera"/>
-	<entry name="TeleportHomerDescription" value="Prymušaje Arbitalnaje Razhortvańnie nie spažyvać ački dziejańnia pry razhortvańni Terminataraŭ poruč z hetaj adzinkaj."/>
+	<entry name="TeleportHomerDescription" value="Prymušaje Arbitalnaje Razhortvańnie nie spažyvać ački dziejańnia padčas razhortvańnia Terminataraŭ poruč z hetaj adzinkaj."/>
 	<entry name="TeleportHomerFlavor" value="Teleport homers emit a powerful signal enabling orbiting Strike Cruisers to lock onto them with their teleportation equipment. By matching the exact coordinates of this signal, the risk of missing the intended mark is greatly reduced."/>
 	<entry name="Template" value="Šabłon"/>
 	<entry name="TemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
@@ -1787,7 +1787,7 @@
 	<entry name="Tusked" value="Ikłaty"/>
 	<entry name="TuskedDescription" value="Pavialičvaje ataki zbroi blizkaha boju."/>
 	<entry name="Tyranids/AcidBlood" value="Kisłotnaja Kroŭ"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Vorahi atrymlivajuć škodu, kali nanosiać škodu ŭ blizkim bai."/>
+	<entry name="Tyranids/AcidBloodDescription" value="Vorahi atrymlivajuć škodu, kali jany atakujuć adzinku ŭ blizkim bai."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="The alien blood spilt from certain Tyranids is so corrosive that it can eat through ceramite armour and dissolve flesh in mere moments."/>
 	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
 	<entry name="Tyranids/AdaptiveBiologyDescription" value="Pavialičvaje źnižeńnie škody."/>
@@ -1857,7 +1857,7 @@
 	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Instynktyŭnyja Pavodziny (Chavańnie)"/>
 	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="Adzinka hublaje maral kožny krok, pakul jana nie znachodzicca ŭ miežach dasiahalnaści sinapsaŭ."/>
 	<entry name="Tyranids/InstinctiveBehaviourLurkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Pieraaznačeńnie Instynktyŭnych Pavodzinaŭ"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Pieravyznačeńnie Instynktyŭnych Pavodzinaŭ"/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="Instynktyŭnyja pavodziny adzinki ihnarujucca."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
 	<entry name="Tyranids/InstinctiveFire" value="Instynktyŭny Ahoń"/>
@@ -1885,7 +1885,7 @@
 	<entry name="Tyranids/PreyAdaptationDescription" value="Rozum vulla atrymlivaje daśledavańni, kali Małantron atrymlivaje dośvied za bitvy."/>
 	<entry name="Tyranids/PreyAdaptationFlavor" value="The Malanthrope doesn't just garner new genetic data from fallen corpses—it is also quite capable of observing the learned patterns communicated by creatures to one another, whether parent or teacher, and retaining that for encoding into the Hive Mind's creatures."/>
 	<entry name="Tyranids/ProductionBuildingUpkeep" value="Radavyja Kanały"/>
-	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Źnižaje ŭtrymańnie upłyvu."/>
+	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Źnižaje ŭtrymańnie ŭpłyvu."/>
 	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="A simple shift in the structure of the great organisms that make up the Tyranid hive, birthing canals are something like biological production lines, enabling many creatures to be produced in parallel without the direct oversight of the Hive Mind."/>
 	<entry name="Tyranids/RakingStrike" value="Hrabučy Ŭdar"/>
 	<entry name="Tyranids/RakingStrikeDescription" value="Pavialičvaje ataki blizkaha boju Karhi Vulla. Dadatkova pavialičvaje ataki blizkaha boju suprać avijacyi."/>
@@ -1893,7 +1893,7 @@
 	<entry name="Tyranids/RapaciousHunger" value="<string name='Actions/Tyranids/RapaciousHunger'/>"/>
 	<entry name="Tyranids/RapaciousHungerDescription" value="Pavialičvaje ataki."/>
 	<entry name="Tyranids/RapaciousHungerFlavor" value="<string name='Actions/Tyranids/RapaciousHungerFlavor'/>"/>
-	<entry name="Tyranids/Reclamation2" value="Sinaptyčnyja Arčievory"/>
+	<entry name="Tyranids/Reclamation2" value="Sinaptyčnyja Archievory"/>
 	<entry name="Tyranids/Reclamation2Description" value="Źnižaje košt upłyvu."/>
 	<entry name="Tyranids/Reclamation2Flavor" value="Reclamation pools may seem the simplest of Tyranid organisms—bubbling digestive pits to render down biomass—but given their core function to the Tyranid lifecycle, they have doubtless seen generations of design refinement. This particular adaptation places control synapses at each pool's edge to manage digestion with less Hive Mind oversight."/>
 	<entry name="Tyranids/Reclamation3" value="Paskaralniki Asimilacyi"/>
@@ -1918,7 +1918,7 @@
 	<entry name="Tyranids/SporeCloudDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
 	<entry name="Tyranids/SymbioticTargeting" value="Simbijatyčnaje Nacelvańnie"/>
-	<entry name="Tyranids/SymbioticTargetingDescription" value="Pavialičvaje trapnaść dalokaha boju, kali adzinka zastajecca nieruchomym."/>
+	<entry name="Tyranids/SymbioticTargetingDescription" value="Pavialičvaje trapnaść dalokaha boju, kali adzinka zastajecca nieruchomaj."/>
 	<entry name="Tyranids/SynapseLink" value="Złučały Sinaps"/>
 	<entry name="Tyranids/SynapseLinkDescription" value="Adzinka nia moža być uzrušana i złamana. Vałodaje imunitetam da strachu i nia schilnaja da instynktyŭnych pavodzin."/>
 	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
@@ -1928,7 +1928,7 @@
 	<entry name="Tyranids/ToxinSacs" value="Miech z Taksinam"/>
 	<entry name="Tyranids/ToxinSacsDescription" value="Pavialičvaje škodu zbroi blizkaha boju pa piachotnych adzinkach i žachlivych stvareńniaŭ."/>
 	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
-	<entry name="Tyranids/Tunnel2" value="Ečuryjanskija Mury"/>
+	<entry name="Tyranids/Tunnel2" value="Ečuryjanskija Ścieny"/>
 	<entry name="Tyranids/Tunnel2Description" value="Pavialičvaje zdaroŭje."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
 	<entry name="Tyranids/VehiclesUpkeep" value="Instynkty Miehonta"/>
@@ -1940,14 +1940,14 @@
 	<entry name="TwinLinked" value="Padvojnaja Suviaź"/>
 	<entry name="TwinLinkedDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
-	<entry name="Uncommon" value="Niezvyčajny"/>
+	<entry name="Uncommon" value="Niezvyčajnaść"/>
 	<entry name="UncommonDescription" value="Kłasifikacyja."/>
 	<entry name="UnendingHorde" value="Biaskoncaja Arda"/>
 	<entry name="UnendingHordeDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="UnendingHordeFlavor" value="Like the zombies of ancient Terran fiction, Poxwalkers do not stop unless they are thoroughly destroyed. Their dead flesh is unfeeling, so that attacks that would put down a normal human are mere inconveniences as they giggle and groan onward…"/>
-	<entry name="Unique" value="Unikalny"/>
+	<entry name="Unique" value="Unikalnaść"/>
 	<entry name="UniqueDescription" value="Abmiažoŭvaje kolkaść adzinak hetaha typu."/>
-	<entry name="Unwieldy" value="Hruvastki"/>
+	<entry name="Unwieldy" value="Hruvastkaść"/>
 	<entry name="UnwieldyDescription" value="Źnižaje trapnaść."/>
 	<entry name="UnwieldyFlavor" value="This weapon is very large, and more than a little clumsy, making swift blows all but impossible to achieve."/>
 	<entry name="VectoredAfterburners" value="Viektarnyja Farsažnyja Kamiery"/>
@@ -1969,7 +1969,7 @@
 	<entry name="WaaaghFlavor" value="The Waaagh! is joie de vivre, crusade, immense psychic power, a tangible belief aura and perhaps the Ork gods themselves, all rolled into one teeth-rattling, gut-wrenching roar of delighted aggression pushing the Orks across the galaxy and into battle. It is the core of being an Ork."/>
 	<entry name="Walker" value="Chadun"/>
 	<entry name="WalkerDescription" value="<string name='Traits/DozerBladeDescription'/>"/>
-	<entry name="Weakened" value="Sasłabieły"/>
+	<entry name="Weakened" value="Sasłabiełaść"/>
 	<entry name="WeakenedDescription" value="Źmianšaje ruch i škodu."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
 	<entry name="WireWeedDescription" value="Nanosić škodu kožny krok."/>

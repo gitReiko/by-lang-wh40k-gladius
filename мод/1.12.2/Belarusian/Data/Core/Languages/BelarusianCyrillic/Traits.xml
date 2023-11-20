@@ -876,7 +876,7 @@
 	<entry name="HaywireFlavor" value="Haywire weapons send out powerful electromagnetic pulses."/>
 	<entry name="Headquarters" value="Штабкватэра"/>
 	<entry name="HeadquartersDescription" value="Зьнішчэньне штабкватэры зьнішчае ўвесь горад."/>
-	<entry name="HeavyWeapon" value="Цяжкі"/>
+	<entry name="HeavyWeapon" value="Цяжкая Адзінка"/>
 	<entry name="HeavyWeaponDescription" value="Пасьля перасоўваньня зьніжаецца трапнасьць."/>
 	<entry name="HellstormTemplate" value="Шаблон Пякельны Шторм"/>
 	<entry name="HellstormTemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
@@ -1501,7 +1501,7 @@
 	<entry name="SkimmerDescription" value="Адзінка можа перасоўвацца праз ваду. Ігнаруе штрафы ад рэкаў і пустазельля-дроту. Зьніжае штраф руху ў лясах і імперскіх руінах."/>
 	<entry name="SkimmerFlavor" value="Some highly advanced vehicles are fitted with anti-gravity drives that allow them to skim swiftly over tough terrain and intervening troops, making them perfect for surprise flanking attacks."/>
 	<entry name="SkullAltar" value="<string name='Features/SkullAltar'/>"/>
-	<entry name="SkullAltarDescription" value="Дае ўзнагароду адзінцы, якая ўваходзіць на плітку."/>
+	<entry name="SkullAltarDescription" value="Дае ўзнагароду адзінцы, што ўваходзіць на плітку."/>
 	<entry name="SkullAltarFlavor" value="<string name='Features/SkullAltarFlavor'/>"/>
 	<entry name="SkullsForTheSkullThrone" value="Чэрапы для Трона Чарапоў"/>
 	<entry name="SkullsForTheSkullThroneDescription" value="Павялічвае зьніжэньне шкоды."/>
@@ -1512,7 +1512,7 @@
 	<entry name="SlowAndPurposeful" value="Павольна і Мэтліва"/>
 	<entry name="SlowAndPurposefulDescription" value="Здымае штраф за цяжкую і артылерыйную зброю."/>
 	<entry name="SlowAndPurposefulFlavor" value="Many warriors are steady but sure, slow to advance but no less deadly for it."/>
-	<entry name="Slowed" value="Запаволены"/>
+	<entry name="Slowed" value="Запаволенасьць"/>
 	<entry name="SlowedDescription" value="Зьмяншае рух."/>
 	<entry name="Smash" value="Разбурэньне"/>
 	<entry name="SmashDescription" value="Павялічвае прабіцьцё брані ў блізкім баі."/>
@@ -1559,36 +1559,36 @@
 	<entry name="SpaceMarines/Omniscope" value="<string name='Actions/SpaceMarines/Omniscope'/>"/>
 	<entry name="SpaceMarines/OmniscopeDescription" value="<string name='Actions/SpaceMarines/OmniscopeDescription'/>"/>
 	<entry name="SpaceMarines/OmniscopeFlavor" value="<string name='Actions/SpaceMarines/OmniscopeFlavor'/>"/>
-	<entry name="SpaceMarines/SuppressiveBombardment" value="Прыдушальнае Бамбаваньне"/>
-	<entry name="SpaceMarines/SuppressiveBombardmentDescription" value="Павялічвае шкоду і атакі, якія звальваюць варожую пяхоту, калі яна знаходзіцца побач зь іншай Віхурай."/>
+	<entry name="SpaceMarines/SuppressiveBombardment" value="Прыдушвальнае Бамбаваньне"/>
+	<entry name="SpaceMarines/SuppressiveBombardmentDescription" value="Павялічвае шкоду і атакі, якія зьбівае з ног варожую пяхоту, калі яна знаходзіцца побач зь іншай Віхурай."/>
 	<entry name="SpaceMarines/SuppressiveBombardmentFlavor" value="The Codex Astartes dictates that Whirlwinds operate best in larger groups, laying down a rolling barrage that cannot be avoided but must instead be endured. Even when sheltered, lighter-armoured troops and vehicles are utterly devastated by the relentless rain of warheads."/>
 	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
 	<entry name="SpaceSlipDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="Stealth" value="Утойлівасьць"/>
 	<entry name="StealthDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
-	<entry name="StrafingRun" value="Стральба на Бегу"/>
+	<entry name="StrafingRun" value="Язда са Стральбой"/>
 	<entry name="StrafingRunDescription" value="Павялічвае трапнасьць далёкага бою па наземных адзінках."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
 	<entry name="Strikedown" value="Зьбіць з Ног"/>
-	<entry name="StrikedownDescription" value="Часова Зьмяншае рух пяхотнай адзінкі-цэлі."/>
+	<entry name="StrikedownDescription" value="Часова зьмяншае рух пяхотнай адзінкі-цэлі."/>
 	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
-	<entry name="Stubborn" value="Упарты"/>
+	<entry name="Stubborn" value="Упартасьць"/>
 	<entry name="StubbornDescription" value="Зьніжае страты маралі."/>
 	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
-	<entry name="Stunned" value="Ашаломлены"/>
+	<entry name="Stunned" value="Ашаломленасьць"/>
 	<entry name="StunnedDescription" value="Прадухіляе рух або дзеяньне адзінкі."/>
 	<entry name="Suicider" value="Самазгубца"/>
 	<entry name="SuiciderDescription" value="Ворагі не атрымваюць досьведу, калі гэтая адзінка забівае сябе."/>
-	<entry name="Summon" value="Прызваны"/>
+	<entry name="Summon" value="Закліканая Адзінка"/>
 	<entry name="SummonDescription" value="Класіфікацыя."/>
-	<entry name="SuperHeavy" value="Звышцяжкі"/>
+	<entry name="SuperHeavy" value="Звышцяжкая Адзінка"/>
 	<entry name="SuperHeavyDescription" value="Класіфікацыя."/>
 	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
-	<entry name="Supersonic" value="Звышгукавы"/>
+	<entry name="Supersonic" value="Звышгукавая Адзінка"/>
 	<entry name="SupersonicDescription" value="Павялічвае рух."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
-	<entry name="Swarms" value="Раі"/>
+	<entry name="Swarms" value="Вывадкі"/>
 	<entry name="SwarmsDescription" value="Атрыманая шкода разьмяркоўваецца раўнамерна па ўсёй групе адзінак, але група атрымлівае дадатковыя ўдары ад выбуховай і шаблоннай зброі."/>
 	<entry name="SwarmsFlavor" value="These creatures are so multitudinous that they cannot be picked out individually and must be fought as a group."/>
 	<entry name="Swiftstrike" value="Хуткі Ўдар"/>
@@ -1608,7 +1608,7 @@
 	<entry name="Tau/AutomatedRepairSystem" value="Аўтаматызаваная Сістэма Рамонту"/>
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="Tiny maintenance drones swarm over damaged systems to repair them in the midst of battle."/>
-	<entry name="Tau/BlacksunFilter" value="Фільтр Чорнага Сонца"/>
+	<entry name="Tau/BlacksunFilter" value="Фільтар Чорнага Сонца"/>
 	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае бачнасьць."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="This optical filtering suite allows vehicle sensors to target enemies at full efficiency and range, even during night fighting operations."/>
 	<entry name="Tau/BlastDamage" value="Выбуховае Фазаваньне"/>
@@ -1618,7 +1618,7 @@
 	<entry name="Tau/BoltDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Tau/BoltDamageFlavor" value="Even the finest Earth Caste technician can’t assemble the components of their rail weapons by hand. But by entrusting this work to the tiny Brachyuran race and supplying them with miniaturised tools, they can shrink the scale and lower the fundamental deviation of any delicate operations, allowing for even more finerly tuned weaponry."/>
 	<entry name="Tau/BreakComposure" value="<string name='Actions/Tau/BreakComposure'/>"/>
-	<entry name="Tau/BreakComposureDescription" value="Атакаваныя адзінкі губляюць мараль."/>
+	<entry name="Tau/BreakComposureDescription" value="Атакаваныя адзінкі страчваюць мараль."/>
 	<entry name="Tau/BreakComposureFlavor" value="<string name='Actions/Tau/BreakComposureFlavor'/>"/>
 	<entry name="Tau/CityTier2" value="Распаўсюджваньне"/>
 	<entry name="Tau/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
@@ -1644,7 +1644,7 @@
 	<entry name="Tau/FireTeam" value="Каманда Агню"/>
 	<entry name="Tau/FireTeamDescription" value="Павялічвае трапнасьць далёкага бою, калі знаходзіцца поруч з хаўруснай машынай або жахлівым стварэньнем."/>
 	<entry name="Tau/FireTeamFlavor" value="Some battlesuits and battle tank sensor-systems can be networked to provide enhanced efficiency when they fight in dedicated fire teams."/>
-	<entry name="Tau/FlechetteDischarger" value="Стралаваты Разраднік"/>
+	<entry name="Tau/FlechetteDischarger" value="Стрэлавідны Разраднік"/>
 	<entry name="Tau/FlechetteDischargerDescription" value="Наносіць шкоду атакоўцам у блізкім баі."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="Powerful clusters of reactive charges are attached to the hulls of many T'au vehicles. If the enemy approaches, the clusters fire off vicious clouds of high velocity flechettes."/>
 	<entry name="Tau/GhostkeelElectrowarfareSuite" value="Прывідны Набор Электразмаганьня"/>
@@ -1659,16 +1659,16 @@
 	<entry name="Tau/Kauyon" value="<string name='Actions/Tau/Kauyon'/>"/>
 	<entry name="Tau/KauyonDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
-	<entry name="Tau/LasDamage" value="Мар'тоніумавые Паскаральнікі"/>
+	<entry name="Tau/LasDamage" value="Паскаральнікі Мор'тоніум"/>
 	<entry name="Tau/LasDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Tau/LasDamageFlavor" value="As humanity has discovered to its cost, over and over, using radioactive materials in weaponry is always dangerous. It’s reasonable to assume the T’au are cognisant of this, but choose to use the recently discovered Mor’tonium in their military technology anyway. Upon exposure to air, it rapidly decays into a massive burst of ionic energy that the T’au use."/>
 	<entry name="Tau/MobileDefencePlatform" value="Мабільная Абарончая Платформа"/>
-	<entry name="Tau/MobileDefencePlatformDescription" value="Павялічвае рух пры транспартоўцы грузу."/>
+	<entry name="Tau/MobileDefencePlatformDescription" value="Павялічвае рух падчас транспартацыі грузу."/>
 	<entry name="Tau/Montka" value="<string name='Actions/Tau/Montka'/>"/>
-	<entry name="Tau/MontkaDescription" value="Павялічвае шкоду па адзінках са здароўем ніжэй за 50%."/>
+	<entry name="Tau/MontkaDescription" value="Павялічвае шкоду па адзінках са здароўем ніжэйшым за 50%."/>
 	<entry name="Tau/MontkaFlavor" value="<string name='Actions/Tau/MontkaFlavor'/>"/>
 	<entry name="Tau/NetworkedMarkerlight" value="Сеткавая Пазнака Цэлі"/>
-	<entry name="Tau/NetworkedMarkerlightDescription" value="Павялічвае трапнасьць стральбы ў далёкім баі і абыход зьмяншэньня шкоды ў далёкім баі. Атакі адзінак не атрымліваюць або выдаткоўваюць выгаду ад пазначэньня цэлі."/>
+	<entry name="Tau/NetworkedMarkerlightDescription" value="Павялічвае трапнасьць стральбы ў далёкім баі і абыход зьмяншэньня шкоды ў далёкім баі. Атакі адзінак не атрымліваюць або выдаткоўваюць перавагу ад Пазначэньня Цэлі."/>
 	<entry name="Tau/NetworkedMarkerlightFlavor" value="These markerlights are networked directly into weapon systems, allowing them to deliver their payload with pinpoint accuracy."/>
 	<entry name="Tau/NovaBoost" value="<string name='Actions/Tau/NovaBoost'/>"/>
 	<entry name="Tau/NovaBoostDescription" value="Павялічвае рух."/>
@@ -1697,7 +1697,7 @@
 	<entry name="Tau/Ripyka" value="<string name='Actions/Tau/Ripyka'/>"/>
 	<entry name="Tau/RipykaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaFlavor" value="<string name='Actions/Tau/RipykaFlavor'/>"/>
-	<entry name="Tau/RipykaVa" value="Рыпайка'ва"/>
+	<entry name="Tau/RipykaVa" value="Рыпіка'ва"/>
 	<entry name="Tau/RipykaVaDescription" value="<string name='Actions/Tau/RipykaDescription'/>"/>
 	<entry name="Tau/RipykaVaFlavor" value="Commander Coldflame was famed for her subtlety, her ability to layer tactics on tactics but somehow inspire her troops to strive to match her strategic complexity. Some whispered, however, that she concerned herself too deeply with the Greater Good for a mere Fire Warrior…"/>
 	<entry name="Tau/SenseOfStone" value="<string name='Actions/Tau/SenseOfStone'/>"/>
@@ -1707,7 +1707,7 @@
 	<entry name="Tau/ShieldGeneratorDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Actions/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StabilisingAnchors" value="Якары Стабілізацыі"/>
-	<entry name="Tau/StabilisingAnchorsDescription" value="Павялічвае атакі далёкага бою, калі адзінка ня рухалася ў гэты крок."/>
+	<entry name="Tau/StabilisingAnchorsDescription" value="Павялічвае атакі далёкага бою, калі адзінка ня рухалася на гэтым кроку."/>
 	<entry name="Tau/StabilisingAnchorsFlavor" value="KV128 Stormsurge Ballistic Suits are too large to mount a jetpack like their Battle Suit counterparts. Instead, the Earth Case scientist Bork'an designed them to lock into place once deployed, allowing them to divert all their reactor power to their immense weaponry."/>
 	<entry name="Tau/StimulantInjector" value="Інжэктар Стымулятара"/>
 	<entry name="Tau/StimulantInjectorDescription" value="Павялічвае зьніжэньне шкоды."/>
@@ -1725,7 +1725,7 @@
 	<entry name="Tau/SupportingFireDescription" value="Павялічвае шкоду назіраньня супраць варожых адзінак, суседніх зь іншымі хаўруснымі адзінкамі."/>
 	<entry name="Tau/SupportingFireFlavor" value="Fire caste doctrine, as laid down in the Code of Fire, instructs every warrior to protect their comrades. Using overlapping fields of fire, teams provide each other this mutual support on the battlefield."/>
 	<entry name="Tau/TargetAcquired" value="Пазначэньне Цэлі"/>
-	<entry name="Tau/TargetAcquiredDescription" value="Павялічвае трапнасьць т'аў ў далёкім баі супраць адзінак. Зьмяншае зьніжэньне шкоды ад далёкага бою адзінкі супраць т'аў. Скончваецца пасьля таго, як адзінка атакавана т'аў."/>
+	<entry name="Tau/TargetAcquiredDescription" value="Павялічвае трапнасьць Т'аў ў далёкім баі супраць адзінак. Зьмяншае зьніжэньне шкоды ад далёкага бою адзінкі супраць Т'аў. Скончваецца пасьля таго, як адзінка атакавана Т'аў."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the T’au, and the Markerlight is an excellent example of this. It’s a handheld targeting laser that is networked into the T’au’s information system, allowing for pinpoint strikes by other T’au forces."/>
 	<entry name="Tau/TidewallShieldline" value="Лінія Шчытоў - Сьцяна з Хваль"/>
 	<entry name="Tau/TidewallShieldlineDescription" value="Вяртае шкоду ад далёкага бою ад зброі, якая ня з'яўляецца выбуховай, шаблоннай або вядзьмоўскім агнём, назад атакоўцу."/>
@@ -1739,7 +1739,7 @@
 	<entry name="Tau/Unity" value="<string name='Actions/Tau/Unity'/>"/>
 	<entry name="Tau/UnityDescription" value="<string name='Actions/Tau/UnityDescription'/>"/>
 	<entry name="Tau/UnityFlavor" value="<string name='Actions/Tau/UnityFlavor'/>"/>
-	<entry name="Tau/UtopiaBonus" value="У Разнастайнасьці, Адзінства"/>
+	<entry name="Tau/UtopiaBonus" value="У Разнастайнасьці Адзінства"/>
 	<entry name="Tau/UtopiaBonusDescription" value="Павялічвае бонус лаяльнасьці ад новых тыпаў будынкаў."/>
 	<entry name="Tau/UtopiaBonusFlavor" value="The ideal T’au city is an example to all others, displaying a perfect balance of the various castes of the T’au race with their client and auxiliary races, all living in harmony."/>
 	<entry name="Tau/VectoredRetroThrusters" value="Вектарныя Рэтрарухавікі"/>
@@ -1758,7 +1758,7 @@
 	<entry name="TelekineDomeDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
 	<entry name="TeleportHomer" value="Тэлепорт Гамера"/>
-	<entry name="TeleportHomerDescription" value="Прымушае Арбітальнае Разгортваньне не спажываць ачкі дзеяньня пры разгортваньні Тэрмінатараў поруч з гэтай адзінкай."/>
+	<entry name="TeleportHomerDescription" value="Прымушае Арбітальнае Разгортваньне не спажываць ачкі дзеяньня падчас разгортваньня Тэрмінатараў поруч з гэтай адзінкай."/>
 	<entry name="TeleportHomerFlavor" value="Teleport homers emit a powerful signal enabling orbiting Strike Cruisers to lock onto them with their teleportation equipment. By matching the exact coordinates of this signal, the risk of missing the intended mark is greatly reduced."/>
 	<entry name="Template" value="Шаблон"/>
 	<entry name="TemplateDescription" value="<string name='Traits/BeamDescription'/>"/>
@@ -1787,7 +1787,7 @@
 	<entry name="Tusked" value="Іклаты"/>
 	<entry name="TuskedDescription" value="Павялічвае атакі зброі блізкага бою."/>
 	<entry name="Tyranids/AcidBlood" value="Кіслотная Кроў"/>
-	<entry name="Tyranids/AcidBloodDescription" value="Ворагі атрымліваюць шкоду, калі наносяць шкоду ў блізкім баі."/>
+	<entry name="Tyranids/AcidBloodDescription" value="Ворагі атрымліваюць шкоду, калі яны атакуюць адзінку ў блізкім баі."/>
 	<entry name="Tyranids/AcidBloodFlavor" value="The alien blood spilt from certain Tyranids is so corrosive that it can eat through ceramite armour and dissolve flesh in mere moments."/>
 	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
 	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зьніжэньне шкоды."/>
@@ -1857,7 +1857,7 @@
 	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Інстынктыўныя Паводзіны (Хаваньне)"/>
 	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="Адзінка губляе мараль кожны крок, пакуль яна не знаходзіцца ў межах дасягальнасьці сінапсаў."/>
 	<entry name="Tyranids/InstinctiveBehaviourLurkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Пераазначэньне Інстынктыўных Паводзінаў"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Перавызначэньне Інстынктыўных Паводзінаў"/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="Інстынктыўныя паводзіны адзінкі ігнаруюцца."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
 	<entry name="Tyranids/InstinctiveFire" value="Інстынктыўны Агонь"/>
@@ -1885,7 +1885,7 @@
 	<entry name="Tyranids/PreyAdaptationDescription" value="Розум вульля атрымлівае дасьледаваньні, калі Малантрон атрымлівае досьвед за бітвы."/>
 	<entry name="Tyranids/PreyAdaptationFlavor" value="The Malanthrope doesn't just garner new genetic data from fallen corpses—it is also quite capable of observing the learned patterns communicated by creatures to one another, whether parent or teacher, and retaining that for encoding into the Hive Mind's creatures."/>
 	<entry name="Tyranids/ProductionBuildingUpkeep" value="Радавыя Каналы"/>
-	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Зьніжае ўтрыманьне уплыву."/>
+	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Зьніжае ўтрыманьне ўплыву."/>
 	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="A simple shift in the structure of the great organisms that make up the Tyranid hive, birthing canals are something like biological production lines, enabling many creatures to be produced in parallel without the direct oversight of the Hive Mind."/>
 	<entry name="Tyranids/RakingStrike" value="Грабучы Ўдар"/>
 	<entry name="Tyranids/RakingStrikeDescription" value="Павялічвае атакі блізкага бою Каргі Вульля. Дадаткова павялічвае атакі блізкага бою супраць авіяцыі."/>
@@ -1893,7 +1893,7 @@
 	<entry name="Tyranids/RapaciousHunger" value="<string name='Actions/Tyranids/RapaciousHunger'/>"/>
 	<entry name="Tyranids/RapaciousHungerDescription" value="Павялічвае атакі."/>
 	<entry name="Tyranids/RapaciousHungerFlavor" value="<string name='Actions/Tyranids/RapaciousHungerFlavor'/>"/>
-	<entry name="Tyranids/Reclamation2" value="Сінаптычныя Арчеворы"/>
+	<entry name="Tyranids/Reclamation2" value="Сінаптычныя Археворы"/>
 	<entry name="Tyranids/Reclamation2Description" value="Зьніжае кошт уплыву."/>
 	<entry name="Tyranids/Reclamation2Flavor" value="Reclamation pools may seem the simplest of Tyranid organisms—bubbling digestive pits to render down biomass—but given their core function to the Tyranid lifecycle, they have doubtless seen generations of design refinement. This particular adaptation places control synapses at each pool's edge to manage digestion with less Hive Mind oversight."/>
 	<entry name="Tyranids/Reclamation3" value="Паскаральнікі Асіміляцыі"/>
@@ -1918,7 +1918,7 @@
 	<entry name="Tyranids/SporeCloudDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
 	<entry name="Tyranids/SymbioticTargeting" value="Сімбіятычнае Нацэльваньне"/>
-	<entry name="Tyranids/SymbioticTargetingDescription" value="Павялічвае трапнасьць далёкага бою, калі адзінка застаецца нерухомым."/>
+	<entry name="Tyranids/SymbioticTargetingDescription" value="Павялічвае трапнасьць далёкага бою, калі адзінка застаецца нерухомай."/>
 	<entry name="Tyranids/SynapseLink" value="Злучалы Сінапс"/>
 	<entry name="Tyranids/SynapseLinkDescription" value="Адзінка ня можа быць узрушана і зламана. Валодае імунітэтам да страху і ня схільная да інстынктыўных паводзін."/>
 	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
@@ -1928,7 +1928,7 @@
 	<entry name="Tyranids/ToxinSacs" value="Мех з Таксінам"/>
 	<entry name="Tyranids/ToxinSacsDescription" value="Павялічвае шкоду зброі блізкага бою па пяхотных адзінках і жахлівых стварэньняў."/>
 	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
-	<entry name="Tyranids/Tunnel2" value="Эчурыянскія Муры"/>
+	<entry name="Tyranids/Tunnel2" value="Эчурыянскія Сьцены"/>
 	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
 	<entry name="Tyranids/VehiclesUpkeep" value="Інстынкты Мегонта"/>
@@ -1940,14 +1940,14 @@
 	<entry name="TwinLinked" value="Падвойная Сувязь"/>
 	<entry name="TwinLinkedDescription" value="Павялічвае трапнасьць."/>
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
-	<entry name="Uncommon" value="Незвычайны"/>
+	<entry name="Uncommon" value="Незвычайнасьць"/>
 	<entry name="UncommonDescription" value="Класіфікацыя."/>
 	<entry name="UnendingHorde" value="Бясконцая Арда"/>
 	<entry name="UnendingHordeDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="UnendingHordeFlavor" value="Like the zombies of ancient Terran fiction, Poxwalkers do not stop unless they are thoroughly destroyed. Their dead flesh is unfeeling, so that attacks that would put down a normal human are mere inconveniences as they giggle and groan onward…"/>
-	<entry name="Unique" value="Унікальны"/>
+	<entry name="Unique" value="Унікальнасьць"/>
 	<entry name="UniqueDescription" value="Абмяжоўвае колькасьць адзінак гэтага тыпу."/>
-	<entry name="Unwieldy" value="Грувасткі"/>
+	<entry name="Unwieldy" value="Грувасткасьць"/>
 	<entry name="UnwieldyDescription" value="Зьніжае трапнасьць."/>
 	<entry name="UnwieldyFlavor" value="This weapon is very large, and more than a little clumsy, making swift blows all but impossible to achieve."/>
 	<entry name="VectoredAfterburners" value="Вектарныя Фарсажныя Камеры"/>
@@ -1969,7 +1969,7 @@
 	<entry name="WaaaghFlavor" value="The Waaagh! is joie de vivre, crusade, immense psychic power, a tangible belief aura and perhaps the Ork gods themselves, all rolled into one teeth-rattling, gut-wrenching roar of delighted aggression pushing the Orks across the galaxy and into battle. It is the core of being an Ork."/>
 	<entry name="Walker" value="Хадун"/>
 	<entry name="WalkerDescription" value="<string name='Traits/DozerBladeDescription'/>"/>
-	<entry name="Weakened" value="Саслабелы"/>
+	<entry name="Weakened" value="Саслабеласьць"/>
 	<entry name="WeakenedDescription" value="Зьмяншае рух і шкоду."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
 	<entry name="WireWeedDescription" value="Наносіць шкоду кожны крок."/>
