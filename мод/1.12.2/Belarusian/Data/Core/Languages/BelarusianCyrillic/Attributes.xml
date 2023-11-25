@@ -285,9 +285,9 @@
 	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
 	<entry name="ResourcesFromFeatures" value="Рэсурсы ад Мясцовасьці"/>
 	<entry name="ResourcesFromFeaturesIcon" value="<icon height='20' texture='Icons/Features/Grassland'/>"/>
-	<entry name="Sight" value="Бачнасьць"/>
+	<entry name="Sight" value="Агляд"/>
 	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
-	<entry name="SightDescription" value="Вызначае далёкасьць бачнасьці адзінкі.<br/><br/>Бачнасьць абмежавана асаблівасьцямі мясцовасьці, напрыклад, лесам, дымам або скаламі."/>
+	<entry name="SightDescription" value="Вызначае далёкасьць агляду адзінкі.<br/><br/>Агляд абмежаваны асаблівасьцямі мясцовасьці, напрыклад, лесам, дымам або скаламі."/>
 	<entry name="SlotsRequired" value="Патрэбна Слотаў"/>
 	<entry name="SupportSystemSlots" value="Сістэма Падтрымкі Слотаў"/>
 	<entry name="SupportSystemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/SupportSystemSlots'/>"/>

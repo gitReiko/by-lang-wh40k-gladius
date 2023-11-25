@@ -355,7 +355,7 @@
 	<entry name="AversionToLightDescription" value="Павялічвае атрымліваемую шкоду ад агнявой і мельта зброі."/>
 	<entry name="AversionToLightFlavor" value="The horrors of the Umbra shard flourish at night, in the dark corners of Gladius. But bring a light to them and they shrink, the nightmares turning away. And bring a flamer to them…"/>
 	<entry name="Barrage" value="Загараджальны Агонь"/>
-	<entry name="BarrageDescription" value="Не патрабуе прамой бачнасьці, але ня можа назіраць."/>
+	<entry name="BarrageDescription" value="Не патрабуе прамога агляду, але ня можа назіраць."/>
 	<entry name="BarrageFlavor" value="<string name='Weapons/BarrageFlavor'/>"/>
 	<entry name="Beam" value="Прамень"/>
 	<entry name="BeamDescription" value="Б'е з павышанай трапнасьцю па некалькіх чальцах групы абранай адзінкі."/>
@@ -889,7 +889,7 @@
 	<entry name="HitAndRunDescription" value="Ігнаруе зону кантролю ворага."/>
 	<entry name="HitAndRunFlavor" value="Some troops employ a flexible battle stance, engaging the foe at close quarters one moment, before peeling off to strike with renewed vigour the next."/>
 	<entry name="Homing" value="Саманавядзеньне"/>
-	<entry name="HomingDescription" value="Не патрабуе прамой бачнасьці."/>
+	<entry name="HomingDescription" value="Не патрабуе прамога агляду."/>
 	<entry name="IgnoresCover" value="Ігнаруе Хованкі"/>
 	<entry name="IgnoresCoverDescription" value="Ігнаруе зьмяншэньне шкоды ад далёкага бою адзінкі-цэлі."/>
 	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
@@ -1311,7 +1311,7 @@
 	<entry name="SavantLock" value="Замок Навукоўца"/>
 	<entry name="SavantLockDescription" value="Павялічвае трапнасьць супраць авіяцыі, аэрацыклаў і луначоў."/>
 	<entry name="SeekerMissile" value="<string name='Weapons/SeekerMissile'/>"/>
-	<entry name="SeekerMissileDescription" value="Зьмяншае далёкасьць супраць цэлей не пазначаных маркерам. Не патрабуе прамой бачнасьці супраць цэлей не пазначаных маркерам."/>
+	<entry name="SeekerMissileDescription" value="Зьмяншае далёкасьць супраць цэлей не пазначаных маркерам. Не патрабуе прамога агляду супраць цэлей не пазначаных маркерам."/>
 	<entry name="SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Seeking" value="Пошук"/>
 	<entry name="SeekingDescription" value="Павялічвае трапнасьць у далёкім баі супраць авіяцыі."/>
@@ -1609,7 +1609,7 @@
 	<entry name="Tau/AutomatedRepairSystemDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Tau/AutomatedRepairSystemFlavor" value="Tiny maintenance drones swarm over damaged systems to repair them in the midst of battle."/>
 	<entry name="Tau/BlacksunFilter" value="Фільтар Чорнага Сонца"/>
-	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае бачнасьць."/>
+	<entry name="Tau/BlacksunFilterDescription" value="Павялічвае агляд."/>
 	<entry name="Tau/BlacksunFilterFlavor" value="This optical filtering suite allows vehicle sensors to target enemies at full efficiency and range, even during night fighting operations."/>
 	<entry name="Tau/BlastDamage" value="Выбуховае Фазаваньне"/>
 	<entry name="Tau/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
