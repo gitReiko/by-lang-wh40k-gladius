@@ -1771,7 +1771,7 @@
 	<entry name="TeslaDamage" value="Вірыдыянавы Разрад"/>
 	<entry name="TeslaDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="TeslaDamageFlavor" value="The luminous green lightning discharged by these exotic and ancient Necron weapons crackles with life, writhing and seemingly clawing at any target it hits, moving as if it had a mind of its own."/>
-	<entry name="TheFleshIsWeak" value="Цела Слабое"/>
+	<entry name="TheFleshIsWeak" value="Плоць Слаба"/>
 	<entry name="TheFleshIsWeakDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
 	<entry name="TrainedSentinelPilots" value="Навучаныя Пілоты-Вартаўнікі"/>
@@ -1784,7 +1784,7 @@
 	<entry name="TransportFlavor" value="Some can carry others across the battlefield, providing speed and protection. Of course, if the transport is destroyed, the passengers will be burnt alive in the explosion."/>
 	<entry name="TurboBoost" value="Турбафарсаж"/>
 	<entry name="TurboBoostDescription" value="Павялічвае рух."/>
-	<entry name="Tusked" value="Іклаты"/>
+	<entry name="Tusked" value="Ікласты"/>
 	<entry name="TuskedDescription" value="Павялічвае атакі зброі блізкага бою."/>
 	<entry name="Tyranids/AcidBlood" value="Кіслотная Кроў"/>
 	<entry name="Tyranids/AcidBloodDescription" value="Ворагі атрымліваюць шкоду, калі яны атакуюць адзінку ў блізкім баі."/>
@@ -1884,7 +1884,7 @@
 	<entry name="Tyranids/PreyAdaptation" value="Адаптацыя Паляваньня"/>
 	<entry name="Tyranids/PreyAdaptationDescription" value="Розум вульля атрымлівае дасьледаваньні, калі Малантрон атрымлівае досьвед за бітвы."/>
 	<entry name="Tyranids/PreyAdaptationFlavor" value="The Malanthrope doesn't just garner new genetic data from fallen corpses—it is also quite capable of observing the learned patterns communicated by creatures to one another, whether parent or teacher, and retaining that for encoding into the Hive Mind's creatures."/>
-	<entry name="Tyranids/ProductionBuildingUpkeep" value="Радавыя Каналы"/>
+	<entry name="Tyranids/ProductionBuildingUpkeep" value="Родавыя Каналы"/>
 	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Зьніжае ўтрыманьне ўплыву."/>
 	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="A simple shift in the structure of the great organisms that make up the Tyranid hive, birthing canals are something like biological production lines, enabling many creatures to be produced in parallel without the direct oversight of the Hive Mind."/>
 	<entry name="Tyranids/RakingStrike" value="Грабучы Ўдар"/>
@@ -1902,7 +1902,7 @@
 	<entry name="Tyranids/Regeneration" value="Рэгенерацыя"/>
 	<entry name="Tyranids/RegenerationDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Tyranids/RegenerationFlavor" value="Some Tyranids have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
-	<entry name="Tyranids/ResourceBuildingUpkeep" value="Адаптацыя Сьмецяра"/>
+	<entry name="Tyranids/ResourceBuildingUpkeep" value="Адаптацыя Здыхлятніка"/>
 	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Зьніжае ўтрыманьне уплыву."/>
 	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions—but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
 	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
@@ -1919,16 +1919,16 @@
 	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
 	<entry name="Tyranids/SymbioticTargeting" value="Сімбіятычнае Нацэльваньне"/>
 	<entry name="Tyranids/SymbioticTargetingDescription" value="Павялічвае трапнасьць далёкага бою, калі адзінка застаецца нерухомай."/>
-	<entry name="Tyranids/SynapseLink" value="Злучалы Сінапс"/>
+	<entry name="Tyranids/SynapseLink" value="Сінаптычная Сувязь"/>
 	<entry name="Tyranids/SynapseLinkDescription" value="Адзінка ня можа быць узрушана і зламана. Валодае імунітэтам да страху і ня схільная да інстынктыўных паводзін."/>
 	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
-	<entry name="Tyranids/SynapticBacklash" value="Сінаптычны Зазор"/>
+	<entry name="Tyranids/SynapticBacklash" value="Сінаптычная Вяртальная Пуга"/>
 	<entry name="Tyranids/SynapticBacklashDescription" value="Тэрмагаўнты ў гэтай вобласьці атрымліваюць шкоду, калі Тэрвігон памірае."/>
 	<entry name="Tyranids/SynapticBacklashFlavor" value="Though Tyranids have no affection one another—they will watch calmly as their nest-mates die or walk into the reclamation pool—the psychic trauma a Tervigon's brood suffers at the moment of its death is odd, particularly given the Hive Mind's seeming inability to eliminate it. Perhaps it is a legacy of whatever long-dead race the Tervigon's genetic data was based on—and a symbol that the Hive Mind rarely innovates, but mostly plagiarises."/>
-	<entry name="Tyranids/ToxinSacs" value="Мех з Таксінам"/>
+	<entry name="Tyranids/ToxinSacs" value="Таксічныя Мяхі"/>
 	<entry name="Tyranids/ToxinSacsDescription" value="Павялічвае шкоду зброі блізкага бою па пяхотных адзінках і жахлівых стварэньняў."/>
 	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
-	<entry name="Tyranids/Tunnel2" value="Эчурыянскія Сьцены"/>
+	<entry name="Tyranids/Tunnel2" value="Эхурыйскія Сьцены"/>
 	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
 	<entry name="Tyranids/VehiclesUpkeep" value="Інстынкты Мегонта"/>
@@ -1937,7 +1937,7 @@
 	<entry name="Tyranids/WarpField" value="Варп Поле"/>
 	<entry name="Tyranids/WarpFieldDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes are vital nodes for harnessing the Hive Mind's psychic might and are created with a powerful sense of self-preservation. Therefore, they instinctively project a potent Warp field to protect themselves in battle – a mental shield that is invisible but for a slight shimmer when small-arms and heavy-weapons fire alike patters harmlessly against it."/>
-	<entry name="TwinLinked" value="Падвойная Сувязь"/>
+	<entry name="TwinLinked" value="Двайная Сувязь"/>
 	<entry name="TwinLinkedDescription" value="Павялічвае трапнасьць."/>
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
 	<entry name="Uncommon" value="Незвычайнасьць"/>
@@ -1961,7 +1961,7 @@
 	<entry name="VoidShield" value="Пустэчны Шчыт"/>
 	<entry name="VoidShieldDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="VoidShieldFlavor" value="<string name='Actions/AstraMilitarum/ProjectedVoidShieldFlavor'/>"/>
-	<entry name="VoxCaster" value="Галасавы Перадатнік"/>
+	<entry name="VoxCaster" value="Вокс-Перадатнік"/>
 	<entry name="VoxCasterDescription" value="Зьніжае страты маралі."/>
 	<entry name="VoxCasterFlavor" value="A vox-caster is a reliable communications array connected to the tactical command net via tight-beam transmitters."/>
 	<entry name="Waaagh" value="Вааагх!"/>
