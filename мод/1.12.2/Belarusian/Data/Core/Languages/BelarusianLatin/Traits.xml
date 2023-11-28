@@ -654,16 +654,16 @@
 	<entry name="Eldar/AutarchsAssaultDescription" value="Pavialičvaje škodu."/>
 	<entry name="Eldar/AutarchsAssaultFlavor" value="<string name='Actions/Eldar/AutarchsAssaultFlavor'/>"/>
 	<entry name="Eldar/AutarchsAssaultPassive" value="<string name='Actions/Eldar/AutarchsAssault'/>"/>
-	<entry name="Eldar/BansheeMask" value="Maska Banšy"/>
+	<entry name="Eldar/BansheeMask" value="Maska Bańšy"/>
 	<entry name="Eldar/BansheeMaskDescription" value="<string name='Traits/InfiltrateDescription'/>"/>
 	<entry name="Eldar/BansheeMaskFlavor" value="These amplify the Aeldaris battle cry, inflicting psychic paralysis."/>
 	<entry name="Eldar/BattleFocus" value="Bajavy Fokus"/>
 	<entry name="Eldar/BattleFocusDescription" value="Dziejańni nie spažyvajuć ruchu."/>
 	<entry name="Eldar/BattleFocusFlavor" value="When the Asuryani don their war masks, they enter a battle trance so focused that they flow across the battlefield like quicksilver, killing their foes without breaking stride."/>
-	<entry name="Eldar/CityTier2" value="Ekzadytavaja Apora"/>
+	<entry name="Eldar/CityTier2" value="Ekzadyckaja Apora"/>
 	<entry name="Eldar/CityTier2Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="Eldar/CityTier2Flavor" value="Despite the millenia theyve spent drifting the stars, some Rangers of the Craftworld Aeldari have passed time on the Exodite worlds and Maiden worlds, and have learned how to establish life planetside, growing food and constructing their wraithbone buildings in the ancient ways."/>
-	<entry name="Eldar/CityTier3" value="Ekzadytavaja Infrastruktura"/>
+	<entry name="Eldar/CityTier3" value="Ekzadyckaja Infrastruktura"/>
 	<entry name="Eldar/CityTier3Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="Eldar/CityTier3Flavor" value="Experienced Exodite construction designs are being employed by the Craftworlds Bonesingers here. Only having worked on the ancient Craftworlds, the idea of building a city for the first time is something utterly new to their minds."/>
 	<entry name="Eldar/Command" value="<string name='Actions/Eldar/Command'/>"/>
@@ -744,7 +744,7 @@
 	<entry name="Eldar/RemnantsOfTheFall" value="Nastupstvy Zaniapadu"/>
 	<entry name="Eldar/RemnantsOfTheFallDescription" value="Źmianšaje chutkaść uzrostu."/>
 	<entry name="Eldar/RemnantsOfTheFallFlavor" value="Since the birth of Slaanesh, the remaining Aeldari have struggled to survive in a hostile galaxy. Their aeon-long lifespans mean that they always had a low fertility rate and slow gestation, so they struggle to replace those who fall in battle. On many Craftworlds, the dead far outnumber the living."/>
-	<entry name="Eldar/ResearchBuildingBonus" value="Čornyja Bibliaryi"/>
+	<entry name="Eldar/ResearchBuildingBonus" value="Čornyja Biblijatekary"/>
 	<entry name="Eldar/ResearchBuildingBonusDescription" value="Pavialičvaje vytvorčaść daśledavańniaŭ."/>
 	<entry name="Eldar/ResearchBuildingBonusFlavor" value="The Farseers of the Black Library dispatched us on this errand and now they offer their support. With access to their archives, we should be able to rediscover lost technologies and more rapidly improve our foothold on this planet."/>
 	<entry name="Eldar/ReturnOfTheAeldari" value="<string name='Actions/Eldar/ReturnOfTheAeldari'/>"/>
@@ -1005,7 +1005,7 @@
 	<entry name="Necrons/CityTier2" value="Papiarednija Raskopy"/>
 	<entry name="Necrons/CityTier2Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="Necrons/CityTier2Flavor" value="More of the ancient city has been uncovered by the digging slaves, who are now turned to restoring the long-buried buildings."/>
-	<entry name="Necrons/CityTier3" value="Padniaty Horad"/>
+	<entry name="Necrons/CityTier3" value="Uźniaty Horad"/>
 	<entry name="Necrons/CityTier3Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="Necrons/CityTier3Flavor" value="The entirety of the buried necropolis has now been revealed, resplendent in its mind-bending horror."/>
 	<entry name="Necrons/ConstructionBuildingBonus" value="Uzbahačeńnie za Košt Raboŭ"/>
