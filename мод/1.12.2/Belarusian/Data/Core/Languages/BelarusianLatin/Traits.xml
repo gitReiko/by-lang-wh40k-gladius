@@ -1547,7 +1547,7 @@
 	<entry name="SpaceMarines/CityTier4" value="Najvialikaja Krepaść"/>
 	<entry name="SpaceMarines/CityTier4Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
 	<entry name="SpaceMarines/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
-	<entry name="SpaceMarines/FortressOfRedemptionDamageReduction" value="Abarona Krepaści "/>
+	<entry name="SpaceMarines/FortressOfRedemptionDamageReduction" value="Ščytavańnie Krepaści"/>
 	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody."/>
 	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionFlavor" value="Gladius Prime is already proving far more hostile than the Adeptus Administratum's worst forecasts. With the Fortress' physical defenses under almost constant assault, the Techmarines approve installation of a void shield. Once constructed, this shimmering dome of power is sufficient to warp away the firepower of entire battalions (or even a rogue Imperial Knight) before collapsing."/>
 	<entry name="SpaceMarines/LasDamage" value="<string name='Traits/AstraMilitarum/LasDamage'/>"/>
@@ -1567,7 +1567,7 @@
 	<entry name="Stealth" value="Utojlivaść"/>
 	<entry name="StealthDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
-	<entry name="StrafingRun" value="Jazda sa Stralboj"/>
+	<entry name="StrafingRun" value="Atakoŭnaje Paskareńnie"/>
 	<entry name="StrafingRunDescription" value="Pavialičvaje trapnaść dalokaha boju pa naziemnych adzinkach."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
 	<entry name="Strikedown" value="Źbić z Noh"/>
@@ -1614,7 +1614,7 @@
 	<entry name="Tau/BlastDamage" value="Vybuchovaje Fazavańnie"/>
 	<entry name="Tau/BlastDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Tau/BlastDamageFlavor" value="Area-effect weaponry has always been better placed to attack large infantry formations than hard targets like vehicles—but the Earth Caste engineers have figured a way past that. By phase-shifting the energy components of explosive and incendiary weapons, they can ensure that at least some of their effect will ‘leak past any shielding."/>
-	<entry name="Tau/BoltDamage" value="Brachiuranskija Zborki"/>
+	<entry name="Tau/BoltDamage" value="Brachuranskija Zborki"/>
 	<entry name="Tau/BoltDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Tau/BoltDamageFlavor" value="Even the finest Earth Caste technician cant assemble the components of their rail weapons by hand. But by entrusting this work to the tiny Brachyuran race and supplying them with miniaturised tools, they can shrink the scale and lower the fundamental deviation of any delicate operations, allowing for even more finerly tuned weaponry."/>
 	<entry name="Tau/BreakComposure" value="<string name='Actions/Tau/BreakComposure'/>"/>
@@ -1629,7 +1629,7 @@
 	<entry name="Tau/ClusterFire" value="Kłastarny Ahoń"/>
 	<entry name="Tau/ClusterFireDescription" value="Pavialičvaje ataki i škodu suprać matacykłaŭ i aeracykłaŭ ci vielmi bujnych adzinak. Mocna pavialičvaje ataki i škodu suprać žachlivych stvareńniaŭ, mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="Tau/ClusterFireFlavor" value="The RVarnas unique Pulse Submunition Cannons work at extreme ranges, saturating their target area with micro-bursts of plasma. The larger the target, the more burst-waves of plasma strike near-simultaneously, ripping it into smaller pieces with ease."/>
-	<entry name="Tau/CounterfireDefenceSystem" value="Sistema Abarony Suprać Ahniu"/>
+	<entry name="Tau/CounterfireDefenceSystem" value="Supraćahniavaja Sistema Abarony"/>
 	<entry name="Tau/CounterfireDefenceSystemDescription" value="Pavialičvaje trapnaść atak nazirańnia."/>
 	<entry name="Tau/CounterfireDefenceSystemFlavor" value="<string name='Actions/Tau/CounterfireDefenceSystemFlavor'/>"/>
 	<entry name="Tau/DisruptionPod" value="Skažalnaja Kapsuła"/>
@@ -1727,7 +1727,7 @@
 	<entry name="Tau/TargetAcquired" value="Paznačeńnie Celi"/>
 	<entry name="Tau/TargetAcquiredDescription" value="Pavialičvaje trapnaść T'aŭ ŭ dalokim bai suprać adzinak. Źmianšaje źnižeńnie škody ad dalokaha boju adzinki suprać T'aŭ. Skončvajecca paśla taho, jak adzinka atakavana T'aŭ."/>
 	<entry name="Tau/TargetAcquiredFlavor" value="No other race is as committed to working together as the Tau, and the Markerlight is an excellent example of this. Its a handheld targeting laser that is networked into the Taus information system, allowing for pinpoint strikes by other Tau forces."/>
-	<entry name="Tau/TidewallShieldline" value="Linija Ščytoŭ - Ściana z Chval"/>
+	<entry name="Tau/TidewallShieldline" value="Linija Ščytoŭ - Chvalevaja Ściana"/>
 	<entry name="Tau/TidewallShieldlineDescription" value="Viartaje škodu ad dalokaha boju ad zbroi, jakaja nia z'jaŭlajecca vybuchovaj, šabłonnaj abo viadźmoŭskim ahniom, nazad atakoŭcu."/>
 	<entry name="Tau/TidewallShieldlineFlavor" value="The most commonly seen fortification utilised by the forces of the T'au Empire is the Tidewall Shieldline, a wall of energy behind which infantry can take cover. As the enemy's fusillades hiss and crack harmlessly from the Shieldline's refractive field, the Fire Warriors it protects unleash a blistering hail of pulse fire in return. Worse still for any aggressor attempting to drive the T'au from cover, this force-wall can redirect kinetic energy, sending las-blasts and armour-piercing shells ricocheting back into the enemy ranks."/>
 	<entry name="Tau/TidewallShieldlineCity" value="<string name='Traits/Tau/TidewallShieldline'/>"/>
