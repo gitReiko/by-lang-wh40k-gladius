@@ -745,7 +745,7 @@
 	<entry name="Tau/SunSharkBomberDescription" value="<string name='Units/Tau/SunSharkBomberDescription'/>"/>
 	<entry name="Tau/SunSharkBomberFlavor" value="<string name='Units/Tau/SunSharkBomberFlavor'/>"/>
 	<entry name="Tau/TidewallGunrig" value="<string name='Units/Tau/TidewallGunrig'/>"/>
-	<entry name="Tau/TidewallGunrigDescription" value="Дае Будаўнічым Дронам здольнасьць будаваць цяжка ўзброеныя фартыфікацыі, якія льга перасоўваць з дапамогай транспартных адзінак."/>
+	<entry name="Tau/TidewallGunrigDescription" value="Дае Дронам-Будаўнікам здольнасьць будаваць цяжка ўзброеныя фартыфікацыі, якія льга перасоўваць з дапамогай транспартных адзінак."/>
 	<entry name="Tau/TidewallGunrigFlavor" value="<string name='Units/Tau/TidewallGunrigFlavor'/>"/>
 	<entry name="Tau/TigerShark" value="<string name='Units/Tau/TigerShark'/>"/>
 	<entry name="Tau/TigerSharkDescription" value="<string name='Units/Tau/TigerSharkDescription'/>"/>
@@ -1523,10 +1523,10 @@
 	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
 	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсьвяцейшым Сэлесьцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Дасканалым Вайсковым Гарнітурам, Карніцам, Сьвятой Сэлесьціне, Сёстрам Пакаяньня, Зэфірымам здольнасьць кідаць супрацьпяхотныя гранаты."/>
+	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсьвяцейшым Сэлесьцінам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Дасканалым Вайсковым Рыштункам, Карніцам, Сьвятой Сэлесьціне, Сёстрам Пакаяньня, Зэфірымам здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrath" value="<string name='Traits/HammerOfWrath'/>"/>
-	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Дае Рыцарам-Капійнікам · Цэрастус, Умярцьвіцелям, Дасканалым Вайсковым Гарнітурам, Сьвятой Сэлесьціне і Зэфірыму здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
+	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Дае Рыцарам-Капійнікам · Цэрастус, Умярцьвіцелям, Дасканалым Вайсковым Рыштункам, Сьвятой Сэлесьціне і Зэфірыму здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="SistersOfBattle/HammerOfWrathFlavor" value="<string name='Traits/HammerOfWrathFlavor'/>"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonus" value="<string name='Traits/SistersOfBattle/HeavyWeaponBonus'/>"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць цяжкай зброі."/>

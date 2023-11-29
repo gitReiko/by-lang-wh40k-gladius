@@ -541,7 +541,7 @@
 	<entry name="SistersOfBattle/Mortifier" value="Umiarćviciel"/>
 	<entry name="SistersOfBattle/MortifierDescription" value="Ciažkaŭzbrojeny krokachod, jaki var'jacieje i biaźlitasna švendajecca pa polu bitvy."/>
 	<entry name="SistersOfBattle/MortifierFlavor" value="The pilot of a Mortifier is a Sister Repentia who has fled from battle. Bolted within the Mortifiers armoured shell, they cannot move, speak or hear. Suffering endless shame and agony, they are driven by madness and pain to carve a path of mutilation and destruction through the foe."/>
-	<entry name="SistersOfBattle/ParagonWarsuit" value="Daskanałyja Vajskovyja Harnitury"/>
+	<entry name="SistersOfBattle/ParagonWarsuit" value="Daskanałyja Vajskovyja Ryštunki"/>
 	<entry name="SistersOfBattle/ParagonWarsuitDescription" value="Ciažkaŭzbrojeny elitny krokachod, jaki vydatna adolvaje kožnaha voraha."/>
 	<entry name="SistersOfBattle/ParagonWarsuitFlavor" value="A pilot must have immense faith for a Paragon Warsuits spirit to trust them. They must also have incredible skill to handle its control system, which allows for highly complex and fluid movements. Mastering a Paragon Warsuit makes a Sister capable of engaging the most fearsome of enemies and emerging victorious."/>
 	<entry name="SistersOfBattle/Retributor" value="Karnicy"/>
@@ -634,7 +634,7 @@
 	<entry name="Tau/BroadsideBattlesuit" value="Bajavy Harnitur · XV88 Załp"/>
 	<entry name="Tau/BroadsideBattlesuitDescription" value="Ciažkabraniavanaja piachota z dalokabojnym uzbrajeńniem."/>
 	<entry name="Tau/BroadsideBattlesuitFlavor" value="With deliberate strides, XV88 Broadside Battlesuits advance into optimum firing positions. Inside each of the heavily armoured battlesuits, holotargeting data dances across the retinas of the grim-faced pilot as he swings the suit's mighty guns towards the foe. Each Broadside is a walking gun battery, carrying either a twin-linked heavy rail rifle that can smash through Imperial power armour as though it were glass, or high-yield missile pods capable of wiping out swathes of enemy infantry in lethal explosions."/>
-	<entry name="Tau/BuilderDrone" value="Budaŭničyja Drony"/>
+	<entry name="Tau/BuilderDrone" value="Drony-Budaŭniki"/>
 	<entry name="Tau/BuilderDroneDescription" value="Drony, jakija ramantujuć adzinki, ačyščajuć plitki i zasnoŭvajuć novyja harady."/>
 	<entry name="Tau/BuilderDroneFlavor" value="Tau Drones are small hovering AI machines that fulfil a large variety of support functions. Unlike the Imperiums AIs, which are very simple and heavily constrained following the Men of Iron rebellion, Tau AIs are intelligent and operate independently. Builder Drones are an Earth Caste flavour."/>
 	<entry name="Tau/CadreFireblade" value="Kadr · Ahniavy Klinok"/>
@@ -658,10 +658,10 @@
 	<entry name="Tau/GhostkeelBattlesuit" value="Bajavy Harnitur · XV95 Pryvidny Karabiel"/>
 	<entry name="Tau/GhostkeelBattlesuitDescription" value="Žachlivaja adzinka z aerarancam, jakaja dobra maskujecca i sasłablaje vorahaŭ."/>
 	<entry name="Tau/GhostkeelBattlesuitFlavor" value="Ghostkeel Battlesuits lunge from the shadows to rake their prey with lethal volleys of fire. Wreathed in stealth fields projected by their hovering drones, the half-seen battlesuits move with terrifying speed for their size. One moment the enemy is advancing across the battlefield, the next looming killers are bounding through their midst with guns blazing. Panicked return fire flies wide, the Ghostkeels' attackers unable to draw a bead on their sensor-baffled targets."/>
-	<entry name="Tau/GravInhibitorDrone" value="Dron · MV33 Hraŭ-Inhibitar"/>
+	<entry name="Tau/GravInhibitorDrone" value="MV33 · Drony Hraŭ-Inhibitary"/>
 	<entry name="Tau/GravInhibitorDroneDescription" value="Dron, jaki zapavolvaje supiernikaŭ."/>
 	<entry name="Tau/GravInhibitorDroneFlavor" value="This Drone hovers protectively at its operator's shoulder, driving back the enemy with thrumming gravity waves."/>
-	<entry name="Tau/GunDrone" value="MV1 - Dron-Harmata"/>
+	<entry name="Tau/GunDrone" value="MV1 - Harmatnyja Drony"/>
 	<entry name="Tau/GunDroneDescription" value="Asnoŭny bajavy dron."/>
 	<entry name="Tau/GunDroneFlavor" value="Mounting underslung twin linked pulse carbines, Gun Drones provide their controller with additional covering fire."/>
 	<entry name="Tau/HammerheadGunship" value="Karabiel · TX7 Mołatahałoŭ"/>
@@ -676,7 +676,7 @@
 	<entry name="Tau/KrootoxRider" value="Krutaks-Najeźnik"/>
 	<entry name="Tau/KrootoxRiderDescription" value="Utojlivaja piachotnaja adzinka z mahčymaściami blizkaha i dalokaha boju."/>
 	<entry name="Tau/KrootoxRiderFlavor" value="Surging from the undergrowth with their rifles blazing, the warriors of the Kroot Carnivore squads fall upon their victims with feral shrieks. In their midst lumber massive Krootoxes, gunners perched upon their backs as they direct sawing bursts of heavy fire into the foe."/>
-	<entry name="Tau/MarkerDrone" value="MV7 · Dron-Navodčyk"/>
+	<entry name="Tau/MarkerDrone" value="MV7 · Drony Naviadzieńnia"/>
 	<entry name="Tau/MarkerDroneDescription" value="Dron, jaki paznačaje vorahaŭ, kab pavialičyć škodu pa ich."/>
 	<entry name="Tau/MarkerDroneFlavor" value="Fitted with a markerlight and predictive tracking module, Marker Drones can paint targets and call in seeker missile strikes."/>
 	<entry name="Tau/Pathfinder" value="Śledapyty"/>
@@ -799,7 +799,7 @@
 	<entry name="Tyranids/Venomthrope" value="Jadatropy"/>
 	<entry name="Tyranids/VenomthropeDescription" value="Piachotnaja adzinka z atrutnymi atakami i achoŭnym vobłakam sporaŭ."/>
 	<entry name="Tyranids/VenomthropeFlavor" value="The Venomthrope serves as a living chemical weapon dispenser for the swarms of the Tyranid hive fleets. Its whip-like tentacles drip with a multitude of alien poisons. Indeed, so potent are these toxins that it is believed that a Venomthrope's very touch means certain death."/>
-	<entry name="Tyranids/Warrior" value="Vajary Tyranidaŭ"/>
+	<entry name="Tyranids/Warrior" value="Tyranidzkija Vajary"/>
 	<entry name="Tyranids/WarriorDescription" value="Univiersalnaja sinaptyčnaja piachota."/>
 	<entry name="Tyranids/WarriorFlavor" value="Tyranid Warriors are the most adaptable of all the Hive Mind's bioforms. They are creatures from the blackest of nightmares, unstoppable killing machines with pulsing ichor for blood, needle-sharp teeth and darkly gleaming eyes that reveal a terrible intelligence at work. A Tyranid Warrior stands twice the height of a man, its carapace protected by a thick chitin. One might expect such a creature to be slow in its actions, but a Tyranid Warrior is lithe, with reactions as swift as a whip."/>
 	<entry name="Tyranids/Zoanthrope" value="Zaantropy"/>
@@ -810,7 +810,7 @@
 	<entry name="Necrons/ChaosQuestCamp" value="Niačułyja Steły"/>
 	<entry name="Necrons/EliteTesseractVault" value="Mistyčny Infundzibułum"/>	
 	<entry name="Necrons/RebelLord" value="Nizarn Biaskoncy"/>
-	<entry name="Neutral/EliteKastelan" value="Ikasaedry 12-Ahłaks"/>
+	<entry name="Neutral/EliteKastelan" value="Ikasachedra 12-Ahłaks"/>
 	<entry name="Orks/ChaosQuestCamp" value="Raskopy Błudhuda"/>
 	<entry name="Orks/EliteWarboss" value="Ohrył · Zhuba Vulla"/>
 	<entry name="SpaceMarines/AdeptusMechanicusQuestCamp" value="Krepaść Padziełu"/>

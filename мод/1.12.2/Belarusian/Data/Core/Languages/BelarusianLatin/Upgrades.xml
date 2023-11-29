@@ -745,7 +745,7 @@
 	<entry name="Tau/SunSharkBomberDescription" value="<string name='Units/Tau/SunSharkBomberDescription'/>"/>
 	<entry name="Tau/SunSharkBomberFlavor" value="<string name='Units/Tau/SunSharkBomberFlavor'/>"/>
 	<entry name="Tau/TidewallGunrig" value="<string name='Units/Tau/TidewallGunrig'/>"/>
-	<entry name="Tau/TidewallGunrigDescription" value="Daje Budaŭničym Dronam zdolnaść budavać ciažka ŭzbrojenyja fartyfikacyi, jakija lha pierasoŭvać z dapamohaj transpartnych adzinak."/>
+	<entry name="Tau/TidewallGunrigDescription" value="Daje Dronam-Budaŭnikam zdolnaść budavać ciažka ŭzbrojenyja fartyfikacyi, jakija lha pierasoŭvać z dapamohaj transpartnych adzinak."/>
 	<entry name="Tau/TidewallGunrigFlavor" value="<string name='Units/Tau/TidewallGunrigFlavor'/>"/>
 	<entry name="Tau/TigerShark" value="<string name='Units/Tau/TigerShark'/>"/>
 	<entry name="Tau/TigerSharkDescription" value="<string name='Units/Tau/TigerSharkDescription'/>"/>
@@ -1523,10 +1523,10 @@
 	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynam."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
 	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SistersOfBattle/FragGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Najśviaciejšym Seleścinam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Daskanałym Vajskovym Harnituram, Karnicam, Śviatoj Seleścinie, Siostram Pakajańnia, Zefirymam zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="SistersOfBattle/FragGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Najśviaciejšym Seleścinam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Daskanałym Vajskovym Ryštunkam, Karnicam, Śviatoj Seleścinie, Siostram Pakajańnia, Zefirymam zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrath" value="<string name='Traits/HammerOfWrath'/>"/>
-	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Daje Rycaram-Kapijnikam · Cerastus, Umiarćvicielam, Daskanałym Vajskovym Harnituram, Śviatoj Seleścinie i Zefirymu zdolnaść ździajśniać bolš razburalnyja ataki."/>
+	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Daje Rycaram-Kapijnikam · Cerastus, Umiarćvicielam, Daskanałym Vajskovym Ryštunkam, Śviatoj Seleścinie i Zefirymu zdolnaść ździajśniać bolš razburalnyja ataki."/>
 	<entry name="SistersOfBattle/HammerOfWrathFlavor" value="<string name='Traits/HammerOfWrathFlavor'/>"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonus" value="<string name='Traits/SistersOfBattle/HeavyWeaponBonus'/>"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść ciažkaj zbroi."/>
