@@ -818,8 +818,8 @@
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscience'/>"/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceDescription'/>"/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceFlavor'/>"/>
-	<entry name="AdeptusMechanicus/BlessedConduits" value="Дабраславёныя Трубаводы"/>
-	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Зьмяншае час перазарадкі павышэньня магутнасьці."/>
+	<entry name="AdeptusMechanicus/BlessedConduits" value="Дабраславёныя Праваднікі"/>
+	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Зьмяншае час перазарадкі Павышэньня Магутнасьці."/>
 	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="“And when at last he came upon the vehicle, he perceived the distress of the engine therein and forthwith struck the rune and it was good. Thereupon the engine ignited and was filled with strength…“<br/>—Lord of the Engines, 16th Tome, Verse 2001"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTether'/>"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Дае Жалезным Крокаходам · Балістарыус, Скорпіўсам · Дзюнавы Наезьнік, Анаграм · Дзюнавы Паўзун і Скорпіўсам · Дэзынтэгратар здольнасьць зьмяншаць страты маралі суседнім адзінкам Адэптус Механікус."/>
@@ -1233,7 +1233,7 @@
 	<entry name="Eldar/WebwayGateBonus" value="Картаграфія Шляхоў Павуціньня"/>
 	<entry name="Eldar/WebwayGateBonusDescription" value="Зьніжае кошт актывацыі Шляхоў Павуціньня."/>
 	<entry name="Eldar/WebwayGateBonusFlavor" value="Only the Harlequins and the custodians of the Black Library truly know anything of the Webway’s transdimensional layout. But by gifting us a portion of that knowledge, pertaining only to this world, the Librarians have ensured we can re-open these ancient gates with ease."/>
-	<entry name="Eldar/WebwayGateBonus2" value="Будаваньне Шляхоў Павуціньня"/>
+	<entry name="Eldar/WebwayGateBonus2" value="Будаўніцтва Шляхоў Павуціньня"/>
 	<entry name="Eldar/WebwayGateBonus2Description" value="Прыбірае кошт актывацыі Шляхоў Павуціньня."/>
 	<entry name="Eldar/WebwayGateBonus2Flavor" value="Having received guidance from the Black Library on Gladius’ unique Webway layout, the spiritseers have planned out the shortest paths between any two gates, making the path between them as frictionless as any other step we might take."/>
 	<entry name="Eldar/WebwayRedoubt" value="Рэдут Шляха Павуціньня"/>
@@ -1549,7 +1549,7 @@
 	<entry name="SistersOfBattle/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
 	<entry name="SistersOfBattle/MeltaBombDescription" value="Дае Сёстрам Бітвы, Кананэсам, Дыялогусам, Дамініянкам, Карніцам, Сёстрам Пакаяньня і Зэфірымам здольнасьць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацый."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
-	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорум"/>
+	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорума"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам · Цэрастус."/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
@@ -1654,7 +1654,7 @@
 	<entry name="SpaceMarines/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
-	<entry name="SpaceMarines/HurricaneBolter" value="Болтар Ураган"/>
+	<entry name="SpaceMarines/HurricaneBolter" value="Болтар-Ураган"/>
 	<entry name="SpaceMarines/HurricaneBolterDescription" value="Дае Караблям · Штармавы Крумкач болтар ураган."/>
 	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
@@ -1763,7 +1763,7 @@
 	<entry name="Tau/FlechetteDischarger" value="<string name='Traits/Tau/FlechetteDischarger'/>"/>
 	<entry name="Tau/FlechetteDischargerDescription" value="Дае тэхніцы здольнасьць наносіць шкоду атакоўцам блізкага бою."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
-	<entry name="Tau/ForTheGreaterGoodBonus" value="Амбасаспоры Чарпактін"/>
+	<entry name="Tau/ForTheGreaterGoodBonus" value="Амбасаспоры Чарпакцін"/>
 	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Зьмяншае кошт уплыву на Ў Імя Найвышэйшага Дабрабыту."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
@@ -1808,7 +1808,7 @@
 	<entry name="Tau/StimulantInjector" value="<string name='Traits/Tau/StimulantInjector'/>"/>
 	<entry name="Tau/StimulantInjectorDescription" value="Сістэма падтрымкі баявога гарнітура, якая паляпшае пачуцьцё бязбольнага зьмяншэньня шкоды."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
-	<entry name="Tau/SubversionBonus" value="Дасьледаваньне Паўстаньняў"/>
+	<entry name="Tau/SubversionBonus" value="Дасьледаваньне Падбухторваньняў"/>
 	<entry name="Tau/SubversionBonusDescription" value="Павялічвае штраф лаяльнасьці за Зьвяржэньні ў Гарадах."/>
 	<entry name="Tau/SubversionBonusFlavor" value="Whilst conducting oppositional research, the T’au found the phrase “think like your foe” in a human military textbook. The Water Caste have taken it to heart and thoroughly investigate the unfulfilled needs and desires of a given settlement—whether shivering Necron slaves or squig-hungry Ork boys—before fomenting rebellion."/>
 	<entry name="Tau/TacticalSupportTurret" value="<string name='Weapons/TacticalSupportTurret'/>"/>
@@ -1895,7 +1895,7 @@
 	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
 	<entry name="Tyranids/ParoxysmDescription" value="Дае Заантропам здольнасьць праклінаць варожыя адзінкі, зьніжаць іх трапнасьць."/>
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
-	<entry name="Tyranids/PreyAdaptation2" value="Малантропныя Густарфлагелі"/>
+	<entry name="Tyranids/PreyAdaptation2" value="Малантропныя Густарфлагельлі"/>
 	<entry name="Tyranids/PreyAdaptation2Description" value="Павялічвае прыбытак дасьледваньняў ад сьмерці ворагаў у радыусе дзеяньня Малантропа."/>
 	<entry name="Tyranids/PreyAdaptation2Flavor" value="An unusual adaptation of the Malanthropic form, gustarflagelli are filament thin tendrils that surround a malanthrope like a fleshy, wriggling cloud. It's presumed that they enable the Malanthrope to gather and retain more genetic data from recently-deceased enemies."/>
 	<entry name="Tyranids/ProductionBuildingUpkeep" value="<string name='Traits/Tyranids/ProductionBuildingUpkeep'/>"/>

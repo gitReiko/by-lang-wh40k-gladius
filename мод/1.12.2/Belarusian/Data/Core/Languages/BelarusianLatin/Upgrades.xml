@@ -818,8 +818,8 @@
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscience'/>"/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceDescription'/>"/>
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceFlavor'/>"/>
-	<entry name="AdeptusMechanicus/BlessedConduits" value="Dabrasłavionyja Trubavody"/>
-	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Źmianšaje čas pierazaradki pavyšeńnia mahutnaści."/>
+	<entry name="AdeptusMechanicus/BlessedConduits" value="Dabrasłavionyja Pravadniki"/>
+	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Źmianšaje čas pierazaradki Pavyšeńnia Mahutnaści."/>
 	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="“And when at last he came upon the vehicle, he perceived the distress of the engine therein and forthwith struck the rune and it was good. Thereupon the engine ignited and was filled with strength…“<br/>—Lord of the Engines, 16th Tome, Verse 2001"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTether'/>"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Daje Žaleznym Krokachodam · Balistaryus, Skorpiŭsam · Dziunavy Najeźnik, Anahram · Dziunavy Paŭzun i Skorpiŭsam · Dezyntehratar zdolnaść źmianšać straty marali susiednim adzinkam Adeptus Miechanikus."/>
@@ -1233,7 +1233,7 @@
 	<entry name="Eldar/WebwayGateBonus" value="Kartahrafija Šlachoŭ Pavucińnia"/>
 	<entry name="Eldar/WebwayGateBonusDescription" value="Źnižaje košt aktyvacyi Šlachoŭ Pavucińnia."/>
 	<entry name="Eldar/WebwayGateBonusFlavor" value="Only the Harlequins and the custodians of the Black Library truly know anything of the Webways transdimensional layout. But by gifting us a portion of that knowledge, pertaining only to this world, the Librarians have ensured we can re-open these ancient gates with ease."/>
-	<entry name="Eldar/WebwayGateBonus2" value="Budavańnie Šlachoŭ Pavucińnia"/>
+	<entry name="Eldar/WebwayGateBonus2" value="Budaŭnictva Šlachoŭ Pavucińnia"/>
 	<entry name="Eldar/WebwayGateBonus2Description" value="Prybiraje košt aktyvacyi Šlachoŭ Pavucińnia."/>
 	<entry name="Eldar/WebwayGateBonus2Flavor" value="Having received guidance from the Black Library on Gladius unique Webway layout, the spiritseers have planned out the shortest paths between any two gates, making the path between them as frictionless as any other step we might take."/>
 	<entry name="Eldar/WebwayRedoubt" value="Redut Šlacha Pavucińnia"/>
@@ -1549,7 +1549,7 @@
 	<entry name="SistersOfBattle/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
 	<entry name="SistersOfBattle/MeltaBombDescription" value="Daje Siostram Bitvy, Kananesam, Dyjałohusam, Daminijankam, Karnicam, Siostram Pakajańnia i Zefirymam zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyj."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
-	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Indaktrynacyja Ministorum"/>
+	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Indaktrynacyja Ministoruma"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Daje Duch Pakutnicy Małankavym Źniščalnikam, Udarnym Źniščalnikam · Pomśnik i Rycaram-Kapijnikam · Cerastus."/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
@@ -1654,7 +1654,7 @@
 	<entry name="SpaceMarines/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
-	<entry name="SpaceMarines/HurricaneBolter" value="Bołtar Urahan"/>
+	<entry name="SpaceMarines/HurricaneBolter" value="Bołtar-Urahan"/>
 	<entry name="SpaceMarines/HurricaneBolterDescription" value="Daje Karablam · Štarmavy Krumkač bołtar urahan."/>
 	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
@@ -1763,7 +1763,7 @@
 	<entry name="Tau/FlechetteDischarger" value="<string name='Traits/Tau/FlechetteDischarger'/>"/>
 	<entry name="Tau/FlechetteDischargerDescription" value="Daje technicy zdolnaść nanosić škodu atakoŭcam blizkaha boju."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
-	<entry name="Tau/ForTheGreaterGoodBonus" value="Ambasaspory Čarpaktin"/>
+	<entry name="Tau/ForTheGreaterGoodBonus" value="Ambasaspory Čarpakcin"/>
 	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Źmianšaje košt upłyvu na Ŭ Imia Najvyšejšaha Dabrabytu."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
@@ -1808,7 +1808,7 @@
 	<entry name="Tau/StimulantInjector" value="<string name='Traits/Tau/StimulantInjector'/>"/>
 	<entry name="Tau/StimulantInjectorDescription" value="Sistema padtrymki bajavoha harnitura, jakaja palapšaje pačućcio biazbolnaha źmianšeńnia škody."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
-	<entry name="Tau/SubversionBonus" value="Daśledavańnie Paŭstańniaŭ"/>
+	<entry name="Tau/SubversionBonus" value="Daśledavańnie Padbuchtorvańniaŭ"/>
 	<entry name="Tau/SubversionBonusDescription" value="Pavialičvaje štraf łajalnaści za Źviaržeńni ŭ Haradach."/>
 	<entry name="Tau/SubversionBonusFlavor" value="Whilst conducting oppositional research, the Tau found the phrase “think like your foe” in a human military textbook. The Water Caste have taken it to heart and thoroughly investigate the unfulfilled needs and desires of a given settlement—whether shivering Necron slaves or squig-hungry Ork boys—before fomenting rebellion."/>
 	<entry name="Tau/TacticalSupportTurret" value="<string name='Weapons/TacticalSupportTurret'/>"/>
@@ -1895,7 +1895,7 @@
 	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
 	<entry name="Tyranids/ParoxysmDescription" value="Daje Zaantropam zdolnaść praklinać varožyja adzinki, źnižać ich trapnaść."/>
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
-	<entry name="Tyranids/PreyAdaptation2" value="Małantropnyja Hustarfłahieli"/>
+	<entry name="Tyranids/PreyAdaptation2" value="Małantropnyja Hustarfłahielli"/>
 	<entry name="Tyranids/PreyAdaptation2Description" value="Pavialičvaje prybytak daśledvańniaŭ ad śmierci vorahaŭ u radyusie dziejańnia Małantropa."/>
 	<entry name="Tyranids/PreyAdaptation2Flavor" value="An unusual adaptation of the Malanthropic form, gustarflagelli are filament thin tendrils that surround a malanthrope like a fleshy, wriggling cloud. It's presumed that they enable the Malanthrope to gather and retain more genetic data from recently-deceased enemies."/>
 	<entry name="Tyranids/ProductionBuildingUpkeep" value="<string name='Traits/Tyranids/ProductionBuildingUpkeep'/>"/>
