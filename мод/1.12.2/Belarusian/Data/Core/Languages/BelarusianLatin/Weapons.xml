@@ -91,9 +91,9 @@
 	<entry name="BoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	<entry name="BoneMace" value="Kaścianaja Bułava"/>
 	<entry name="BoneMaceFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
-	<entry name="BreathOfChaos" value="Dychańnie Chaosu"/>
+	<entry name="BreathOfChaos" value="Podych Chaosu"/>
 	<entry name="BreathOfChaosFlavor" value="The psyker takes a deep breath, sucking in the negative energies of the battlefield and then exhaling them in a great mutagenic cloud that leaves its victims' bodies running like wax."/>
-	<entry name="BrightLance" value="Jarkaja Dzida"/>
+	<entry name="BrightLance" value="Zichatlivaja Dzida"/>
 	<entry name="BrightLanceFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
 	<entry name="BurnaBomb" value="Padpałabomba"/>
 	<entry name="BurnaBombFlavor" value="A burna bomb is a large metal canister with an internal fuse. They are filled to the gunwales with sloshing promethium and squig-oil, and detonate on impact to spread flaming death across a wide area."/>
@@ -132,7 +132,7 @@
 	<entry name="CognisHeavyStubber" value="Ciažki Kohnis-Stabbier"/>
 	<entry name="CognisHeavyStubberFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
 	<entry name="CompendiumFlavor" value="To win this endless war, every faction has demonstrated endless innovation in the art of killing. From the Ork's crudest Choppa to the elegant shuriken catapults of the Aeldari, the weapons of the 41st millenium are deadly in a thousand different ways. Often, they are as deadly to their wielder as the foe—such as the mighty Macro Batteries of the Imperial Fleets, which fire shells the size of hab-blocks and kill hundreds of servitors with every shot."/>
-	<entry name="CombiBolter" value="Kombibołtar"/>
+	<entry name="CombiBolter" value="Kombi-Bołtar"/>
 	<entry name="CombiBolterFlavor" value="Essentially a twin-linked boltgun, the combi-bolter emerged from the Horus Heresy as the most tactically flexible weapon available to Space Marine Terminators. Whilst the Space Marines loyal to the Emperor developed the weapon into the storm bolter, the older combi-bolters are still abundant in the armies of the Traitor Legions."/>
 	<entry name="CondemnorBoltgunSilverStake" value="Bołtarnaja Puška Asudziciel - Srebny Koł"/>
 	<entry name="CondemnorBoltgunSilverStakeFlavor" value="The condemnor boltgun is a highly specialised combi-weapon used almost exclusively by the operatives of the Ordo Hereticus and Adepta Sororitas. Combining a boltgun with a single-shot crossbow armature, these archaic-seeming weapons fire a silver stake engraved with sigils of disruption that destabilise a psykers connection with the Warp."/>
@@ -174,20 +174,20 @@
 	<entry name="DevourerFlavor" value="These weapons fling worm-like parasites that burrow into their victim's flesh and eat their way through its nervous system to the brain. The devourers wielded by larger Tyranids teem with hives of brainleech worms, a more aggressive and voracious devourer worm."/>
 	<entry name="DialogusStaff" value="Posach Dyjałohusa"/>
 	<entry name="DialogusStaffFlavor" value="The Dialogus Staff is the symbol of office of the Orders Dialogus which in combat can also double as a combat weapon."/>
-	<entry name="DoomsdayCannonHighPower" value="Harmata Sudnaha Dnia (Vysokaja mahutnaść)"/>
+	<entry name="DoomsdayCannonHighPower" value="Harmata Sudnaha Dnia (Vysokaja Mahutnaść)"/>
 	<entry name="DoomsdayCannonHighPowerFlavor" value="Even fired at low power, the doomsday cannon is a fearsome weapon; when firing at full effect, nothing less than a Titan's void shields can offer hope of protection."/>
-	<entry name="DoomsdayCannonLowPower" value="Harmata Sudnaha Dnia (Nizkaja mahutnaść)"/>
+	<entry name="DoomsdayCannonLowPower" value="Harmata Sudnaha Dnia (Nizkaja Mahutnaść)"/>
 	<entry name="DoomsdayCannonLowPowerFlavor" value="<string name='Weapons/DoomsdayCannonHighPowerFlavor'/>"/>
-	<entry name="DesiccatorLarvae" value="Ličynki Desikatara"/>
+	<entry name="DesiccatorLarvae" value="Ličynki Desikkatara"/>
 	<entry name="DesiccatorLarvaeFlavor" value="<string name='Weapons/ThoraxBiomorphFlavor'/>"/>
 	<entry name="DisruptorMissileLauncher" value="Rakietnaja Ŭstaloŭka Razburalnik"/>
-	<entry name="DroolCannon" value="Harmata Śliny"/>
+	<entry name="DroolCannon" value="Slimakavaja Harmata"/>
 	<entry name="DroolCannonFlavor" value="Drool cannons fire gobbets of caustic digestive juice over their victims."/>
 	<entry name="EMPGrenade" value="EMI Hranata"/>
 	<entry name="EMPGrenadeFlavor" value="EMP grenades release electromagnetic pulses that damage vehicles."/>
-	<entry name="EarthshakerCannon" value="Harmata Ziemlatrusu"/>
+	<entry name="EarthshakerCannon" value="Harmata Ziemlatrus"/>
 	<entry name="EarthshakerCannonFlavor" value="The distinctive, looming barrel of the earthshaker cannon is a sight capable of striking fear into the Imperium's many foes. These long-necked artillery guns have an impressive range and can maintain a fearsome rate of fire, lobbing shell after shell into foes and reducing them to blasted ruin."/>
-	<entry name="EldritchStorm" value="Žudasnaja Bura"/>
+	<entry name="EldritchStorm" value="Žudasny Šmorm"/>
 	<entry name="EldritchStormFlavor" value="The Farseer summons a swirling corona of energy that assails the foe with bolts of lightning and psychic shock waves. Entire platoons are devastated beneath the onslaught of the roiling tempest as the Farseer channels more and more power into his storm of destruction."/>
 	<entry name="ElectroleechStave" value="Posach Elektrap'jaŭka"/>
 	<entry name="ElectroleechStaveFlavor" value="The powerful capacitors built into the length of each electroleech stave allow them to drink every iota of electric force from those they strike – be they living foeman or blasphemous machine."/>
@@ -199,7 +199,7 @@
 	<entry name="ExcruciatorCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="ExorcistMissileLauncher" value="Rakietnaja Ŭstaloŭka Ekzarcyst"/>
 	<entry name="ExorcistMissileLauncherFlavor" value="The Exorcist missiles fired by these revered vehicles are capable of splitting open enemy battle tanks or destroying entire squads of heavy infantry in one punishing salvo, provided, of course, that the Exorcists temperamental machine spirit does not malfunction."/>
-	<entry name="FerrumiteCannon" value="Fieramitavaja Harmata"/>
+	<entry name="FerrumiteCannon" value="Fierrumitavaja Harmata"/>
 	<entry name="Flamer" value="Ahniamiot"/>
 	<entry name="FlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="FlechetteBlaster" value="Iholčaty Błastar"/>
