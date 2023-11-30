@@ -301,7 +301,7 @@
 	<entry name="Necrons/FlayedOne" value="Разьбіральнікі"/>
 	<entry name="Necrons/FlayedOneDescription" value="Пяхота блізкага бою, якая ігнаруе варожае Назіраньне."/>
 	<entry name="Necrons/FlayedOneFlavor" value="Flayed Ones can materialise at any time, lured from their bleak dimension by the scent of blood and carnage, and will commonly stalk their prey before attacking with little regard for strategy. When the moment to strike comes, Flayed Ones scramble madly into battle, slashing at their prey with twisted talons and draping themselves in the mangled body parts of their quarry."/>
-	<entry name="Necrons/GaussPylon" value="Пілон Гаўса"/>
+	<entry name="Necrons/GaussPylon" value="Гаўс-Пілон"/>
 	<entry name="Necrons/GaussPylonDescription" value="Магутная абарончая турэль, якая ахоўвае хаўрусныя адзінкі Некронаў."/>
 	<entry name="Necrons/GaussPylonFlavor" value="The mysterious Necron defence turrets, designated as 'Pylons' by those who originally encountered them, were first recorded on the uncharted world of WDY-272. Rising suddenly from the desert sands, the Gauss Pylons opened fire without warning and with devastating effect, tanks and armoured carriers burning as the crescent-shaped weapons tore through the unsuspecting Imperial Guard column whilst resisting all return fire."/>
 	<entry name="Necrons/GhostArk" value="Прывідны Каўчэг"/>
@@ -494,7 +494,7 @@
 	<entry name="Orks/WeirdboyDescription" value="Герой з універсальнымі псіхічнымі здольнасьцямі."/>
 	<entry name="Orks/WeirdboyFlavor" value="Weirdboyz are the most psychically attuned of all Orks. They are capable of vomiting blasts of Warp energy that can reduce foes to molten goop in seconds. Weirdboyz unconsciously channel the background mental emissions of nearby greenskins. Even a close-run squig-eating contest between two rowdy Boyz will cause waves of energy to pulse through any Weirdboy that strays near. Unless the Weirdboy finds some way to release this pent-up energy his head will explode, detonating the heads of nearby Orks into the bargain. This can prove highly inconvenient."/>
 	<entry name="SistersOfBattle/AvengerStrikeFighter" value="Ударны Зьнішчальнік · Помсьнік"/>
-	<entry name="SistersOfBattle/AvengerStrikeFighterDescription" value="Супрацьназемная авіяцыя з усталяванай магутнай гарматай Гатлінга."/>
+	<entry name="SistersOfBattle/AvengerStrikeFighterDescription" value="Супрацьназемная авіяцыя з усталяванай магутнай гатлінг-гарматай."/>
 	<entry name="SistersOfBattle/AvengerStrikeFighterFlavor" value="The Avenger is a dedicated strike fighter, intended to conduct high-speed, low-level attacks on ground targets, with armoured vehicle formations and high-value strategic assets such as munitions dumps forming its principal prey. Its firepower exceeds most other Imperial aircraft of its size, and in particular the Avenger bolt cannon around which its hull is formed is responsible for the fighter's enviable reputation as a tank-killer."/>
 	<entry name="SistersOfBattle/BattleSister" value="Сёстры Бітвы"/>
 	<entry name="SistersOfBattle/BattleSisterDescription" value="Універсальная пяхота."/>
@@ -533,7 +533,7 @@
 	<entry name="SistersOfBattle/ImagifierDescription" value="Пяхота падтрымкі, што ўзмацняе блізкія пяхотныя адзінкі Адэпта Сарорытас."/>
 	<entry name="SistersOfBattle/ImagifierFlavor" value="It is the most sacred role of the Imagifier to extol the virtues of fallen Sisters and preach tales of their saintly deeds. Imagifiers bear aloft great stanchions in the image of a martyr inscribed with holy texts, and go wherever the fighting is thickest to recite litanies and inspire their fellow Sisters."/>
 	<entry name="SistersOfBattle/Immolator" value="Ахвярнік"/>
-	<entry name="SistersOfBattle/ImmolatorDescription" value="Супрацьпяхотная транспортная адзінка, экіпіяваная здвоеным цяжкім агнямётам."/>
+	<entry name="SistersOfBattle/ImmolatorDescription" value="Супрацьпяхотная транспортная адзінка, экіпіяваная здвоеным цяжкім агнякідам."/>
 	<entry name="SistersOfBattle/ImmolatorFlavor" value="The Immolator battle tank is a design exclusive to the Adeptus Ministorum, based upon the ubiquitous Rhino chassis. Immolators carry deadly, but short ranged, twin heavy flamers that cleanse the battlefield of all but the toughest of foes. The sight of such a tank rumbling into sight has disrupted more than one enemy battle line as warriors try in vain to evade an Immolator’s fearsome inferno."/>
 	<entry name="SistersOfBattle/LightningFighter" value="Маланкавы Зьнішчальнік"/>
 	<entry name="SistersOfBattle/LightningFighterDescription" value="Звышхуткі зьнішчальнік заваёвы паветранай перавагі."/>
@@ -743,7 +743,7 @@
 	<entry name="Tyranids/GargoyleDescription" value="Пяхота, якая можа скакаць."/>
 	<entry name="Tyranids/GargoyleFlavor" value="A Tyranid attack is preceded by the beating of thousands of membranous wings as Gargoyle broods descend upon the foe, blotting out the sun and spitting death from their fleshborers. Their winged manoeuvrability gives Gargoyles a distinct hunting advantage. Wherever Tyranids attack a planet, the defenders look fearfully to the skies, for they know that every sky-borne shadow could be a flock of Gargoyles about to attack."/>
 	<entry name="Tyranids/Haruspex" value="Гаруспэкс"/>
-	<entry name="Tyranids/HaruspexDescription" value="Жахлівая істота з учэпістым языком."/>
+	<entry name="Tyranids/HaruspexDescription" value="Жахлівая істота з чэпкім языком."/>
 	<entry name="Tyranids/HaruspexFlavor" value="The Tyranid Haruspex is a ferocious beast created to consume biomass at a sickening pace. It is possessed of a rapacious appetite, driven by the need to sate an infinite hunger. Few foes are foolish enough to stand before a feeding Haruspex, for it can devour an entire platoon of soldiers in a matter of moments, shovelling victim after victim into its craw without ever slowing down. Any morsel that proves too large to be swallowed in one gulp is seized with the Haruspex's gargantuan claws and ripped, crushed or battered apart with negligent ease."/>
 	<entry name="Tyranids/Headquarters" value="<string name='Buildings/Tyranids/Headquarters'/>"/>
 	<entry name="Tyranids/HeadquartersDescription" value="Штабкватэра, якая ўяўляе сабой абарону горада."/>
