@@ -232,7 +232,7 @@
 	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
 	<entry name="GaussFlayer" value="Haŭs-Skurałup"/>
 	<entry name="GaussFlayerFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
-	<entry name="GaussFlayerArray" value="Masiŭ Haŭs-Skurałupaŭ"/>
+	<entry name="GaussFlayerArray" value="Batareja Haŭs-Skurałupaŭ"/>
 	<entry name="GaussFlayerArrayFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
 	<entry name="GaussFluxArc" value="Arkavy Haŭs-Strumień"/>
 	<entry name="GaussFluxArcFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
@@ -359,10 +359,10 @@
 	<entry name="MandiblastersFlavor" value="Mandiblasters spit needle shards that channel a deadly laser blast."/>
 	<entry name="MagnarailLance" value="Dzida-Mahnarejka"/>
 	<entry name="ManipulusMechadendrites" value="Manipulus Mechadendrites"/>
-	<entry name="MeltaBomb" value="Mielta Bomba"/>
+	<entry name="MeltaBomb" value="Mieltabomba"/>
 	<entry name="MeltaBombDescription" value="Vykarystoŭvajecca suprać mašynaŭ, žachlivych stvareńniaŭ abo fartyfikacyjaŭ. "/>
 	<entry name="MeltaBombFlavor" value="Melta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
-	<entry name="MeltaCannon" value="Miełtaharmata"/>
+	<entry name="MeltaCannon" value="Mieltaharmata"/>
 	<entry name="MeltaCannonFlavor" value="This weapon swiftly reduces armoured targets to molten slag."/>
 	<entry name="Meltagun" value="Mieltapuška"/>
 	<entry name="MeltagunFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
@@ -406,7 +406,7 @@
 	<entry name="PhosphorSerpentaFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
 	<entry name="PhosphorTorch" value="Fosfarnaja Pachodnia"/>
 	<entry name="PhosphorTorchFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
-	<entry name="PhotonGrenade" value="Fatonnaja Hranata "/>
+	<entry name="PhotonGrenade" value="Fatonnaja Hranata"/>
 	<entry name="PhotonGrenadeFlavor" value="Defensive grenades, such as the photon grenades of the T'au, which emit multi-spectrum light and a sonic burst, have dual uses. When being charged, these are thrown to disorient the enemy attack; against shooting, theyre hurled to throw up clouds of concealing gas or smoke."/>
 	<entry name="PlasmaCutter" value="Płazmavy Razak"/>
 	<entry name="PlasmaCutterFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
@@ -438,7 +438,7 @@
 	<entry name="PulseLaserFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
 	<entry name="PulseRifle" value="Impulsnaja Strelba"/>
 	<entry name="PulseRifleFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
-	<entry name="PulseSubmunitionsCannon" value="Impulsnaja Subbojeprypasnaja Harmata"/>
+	<entry name="PulseSubmunitionsCannon" value="Impulsnaja Subpatronnaja Harmata"/>
 	<entry name="PulseSubmunitionsCannonFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
 	<entry name="PrehensilePincer" value="Učepistaja Klušnia"/>
 	<entry name="PrehensilePincerFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
@@ -452,7 +452,7 @@
 	<entry name="PsychicMaelstromFlavor" value="The telekine focuses his entire mental might into creating a vast maelstrom of destructive power, unleashing a storm of psychic energies that utterly consume his foes."/>
 	<entry name="PsychicScream" value="Psichičny Kryk"/>
 	<entry name="PsychicScreamFlavor" value="Through its vassal, the Hive Mind unleashes a piercing shriek of undiluted psychic energy that shreds the minds of those caught in the wake."/>
-	<entry name="PteraxiiTalons" value="Kipciury Pteraksii"/>
+	<entry name="PteraxiiTalons" value="Kipciury Pteraksija"/>
 	<entry name="PteraxiiTalonsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="QuadIonTurretOvercharged" value="Čaćviarnaja Ijonnaja Turel (Pierazaradžanaja)"/>
 	<entry name="QuadIonTurretOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
@@ -466,7 +466,7 @@
 	<entry name="RadiumSerpentaFlavor" value="<string name='Weapons/RadiumFlavor'/>"/>
 	<entry name="RailgunWithSolidShot" value="Rejkavaja Puška z Ćviordym Strełam"/>
 	<entry name="RailgunWithSolidShotFlavor" value="<string name='Weapons/RailFlavor'/>"/>
-	<entry name="RangerLongRifle" value="Doŭhaja Strelba Rejndžara "/>
+	<entry name="RangerLongRifle" value="Doŭhaja Strelba Rejndžara"/>
 	<entry name="RangerLongRifleFlavor" value="Ranger long rifles are precision implements, accurate enough to pick out weak points in a targets armour even at extreme distances."/>
 	<entry name="RapidFireBattleCannon" value="Bajavaja Harmata Chutkaha Ahniu"/>
 	<entry name="RapidFireBattleCannonFlavor" value="This long range cannon is the equivalent of a large calibre artillery piece affixed to the arm of an Imperial Knight. Its rapid self-loading allows for accurate fire to be poured out at a tremendous rate and the blast of its explosive shot can rack up horrific casualties. It is often employed against infantry hordes, medium tanks and squadrons of light vehicles."/>
@@ -497,14 +497,14 @@
 	<entry name="SeekerMissileFlavor" value="Seeker missiles are one-shot weapons usually guided to their targets by markerlights, though they can be fired independently as well."/>
 	<entry name="SeismicAssaultCoalescent" value="Siejśmičnaja Ataka (Kaalescentnaja)"/>
 	<entry name="SeismicAssaultCoalescentFlavor" value="Stone fractures and ores flash burn into silvered steam as the C'tan Shard drags up tides of magma from deep below."/>
-	<entry name="SeismicAssaultTranscendent" value="Siejśmičnaja Ataka (Transcendientaja)"/>
+	<entry name="SeismicAssaultTranscendent" value="Siejśmičnaja Ataka (Transcendentalnaja)"/>
 	<entry name="SeismicAssaultTranscendentFlavor" value="<string name='Weapons/SeismicAssaultCoalescentFlavor'/>"/>
-	<entry name="SensoryOverload" value="Sensornaja Pierahruzka"/>
+	<entry name="SensoryOverload" value="Sensarnaja Pierahruzka"/>
 	<entry name="SensoryOverloadDescription" value="Nanosić škodu i asłablaje varožuju cel."/>
 	<entry name="SensoryOverloadFlavor" value="Reaching out to overload the nerve centres of his foes, the psyker makes sure they are in a fit state to accept his deadly caress."/>
 	<entry name="SerpentShield" value="Źmiainy Ščyt"/>
 	<entry name="SerpentShieldFlavor" value="When the Aeldari Wave Serpents advance, they do so behind powerful shields. These can be discharged to unleash a bow wave of raw force that blasts the enemy from their feet."/>
-	<entry name="ServoArm" value="Siervaruka"/>
+	<entry name="ServoArm" value="Servaruka"/>
 	<entry name="ServoArmFlavor" value="Tech-Priest Enginseers and their Servitor minions often sport powerful servo-arms. These mechanised limbs can be turned with equal ease to complex battlefield repairs, or crushing the life from the foe. Though these weapons are slow to strike, once the blessed hydraulics of the servo-arm's claw have locked in and begun to squeeze, foes face a hideous and inexorable death."/>
 	<entry name="ShadowWeaver" value="Tkač Cieniaŭ"/>
 	<entry name="ShadowWeaverFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
@@ -529,7 +529,7 @@
 	<entry name="SkorchaMissileFlavor" value="Skorcha missiles are 'fire and ferget' weapons used by Burna-bommer pilots to flush enemy infantry out of cover. Their warheads explode in sprays of chemical flame that burns white hot and makes a mockery of the mightiest fortifications."/>
 	<entry name="SkyOfFallingStarsCoalescent" value="Nieba Padajučych Źničak (Kaalescentnaje)"/>
 	<entry name="SkyOfFallingStarsCoalescentFlavor" value="Savagely beautiful orbs of coruscating light plummet from the cold depths of space, growing to roaring bale-stars as they approach."/>
-	<entry name="SkyOfFallingStarsTranscendent" value="Nieba Padajučych Źničak (Transcendientaje)"/>
+	<entry name="SkyOfFallingStarsTranscendent" value="Nieba Padajučych Źničak (Transcendentalnaje)"/>
 	<entry name="SkyOfFallingStarsTranscendentFlavor" value="<string name='Weapons/SkyOfFallingStarsCoalescentFlavor'/>"/>
 	<entry name="SkyhammerMissileLauncher" value="Rakietnaja Ŭstaloŭka - Niabiesny Mołat"/>
 	<entry name="SkyhammerMissileFlavor" value="These weapons fire volleys of missiles that smash into their targets with devastating force—perfect for turning armoured vehicles into scrap metal."/>
@@ -613,7 +613,7 @@
 	<entry name="TraktorKannonFlavor" value="The traktor kannon fires a thrumming beam of force high into the air. The grot crew swing this beam about wildly until they manage to latch the humming column onto an airborne target. Once snagged, their hapless victim is wrenched out of the air and smashed to bits on the ground below."/>
 	<entry name="TransdimensionalThunderboltCoalescent" value="Transprastoravy Ŭdar Małanki (Kaalescentny)"/>
 	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="The C'tan Shard projects a crackling bolt of energy from its outstretched palm, blasting its foe into oblivion."/>
-	<entry name="TransdimensionalThunderboltTranscendent" value="Transprastoravy Ŭdar Małanki (Transcendientny)"/>
+	<entry name="TransdimensionalThunderboltTranscendent" value="Transprastoravy Ŭdar Małanki (Transcendentalny)"/>
 	<entry name="TransdimensionalThunderboltTranscendentFlavor" value="<string name='Weapons/TransdimensionalThunderboltCoalescentFlavor'/>"/>
 	<entry name="TransuranicArquebus" value="Transuranavaja Arkiebuza"/>
 	<entry name="TransuranicArquebusFlavor" value="The precision and inhuman efficiency that typify the Skitarii Legions are epitomised by these long-barrelled heavy weapons. Firing a shell of depleted transuranium, the arquebus can puncture a tank from one side to the other, the resultant pressure wave also pulping any biological creatures that may be sheltering inside."/>
