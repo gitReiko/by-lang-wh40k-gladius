@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Generic -->
+	<entry name="Accuracy" value="Trapnaść"/>
+	<entry name="AccuracyDescription" value="Kožnaje ačko trapnaści pavialičvaje šaniec trapleńnia prykładna na 8.3%."/>
+	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="ActionPoints" value="Ački Dziejańniaŭ"/>
+	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionPointsMax" value="Maksimum ačkoŭ dziejańnia"/>
+	<entry name="ActionPointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="Actions" value="Dziejańni"/>
+	<entry name="ActionsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionsDescription" value="Kolkaść dziejańniaŭ, jakuju moža vykanać adzinka. Vykarystańnie dziejańnia moža vydatkavać uvieś ruch."/>
+	<entry name="AdditionalMembersHit" value="Udary Dadatkovych Udzielnikaŭ"/>
+	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Armor" value="Brania"/>
+	<entry name="ArmorDescription" value="Źmianšaje kolkaść <icon height='20' texture='Icons/Attributes/Damage'/> škody ad zbroi i zdolnaściaŭ. Kožnaja adzinka brani źnižaje atrymanuju škodu prykładna na 8.3% ( da 83%), ale zbroja i zdolnaści ihnarujuć kolkaść ačkoŭ broni až da značeńnia prabivańnia brani."/>
+	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorDamageReduction" value="Źnižeńnie Škody ad Brani"/>
+	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorPenetration" value="Prabivańnie Brani"/>
+	<entry name="ArmorPenetrationDescription" value=""/>
+	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="Attacks" value="Ataki"/>
+	<entry name="AttacksDescription" value=""/>
+	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="AttacksPerCharge" value="Ataki za Zarad"/>
+	<entry name="AttacksTaken" value="Pryniatyja Ataki"/>
+	<entry name="AttacksTakenIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="Biomass" value="Bijamasa"/>
+	<entry name="BiomassIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassCost" value="Košt Bijamasy"/>
+	<entry name="BiomassCostIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassOnConsume" value="Bijamasa"/>
+	<entry name="BiomassOnConsumeIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassUpkeep" value="Ŭtrymańnie Bijamasy"/>
+	<entry name="BiomassUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BoonOfChaosChance" value="Šaniec Darunka Chaosu"/>
+	<entry name="BoonOfChaosChanceIcon" value="<icon height='20' texture='Icons/Traits/ChaosSpaceMarines/ChampionOfChaos'/>"/>
+	<entry name="BuildingSlots" value="Placoŭki dla Budynkaŭ"/>
+	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="CargoSlots" value="Transpartnaje Miesca"/>
+	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CargoSlotsRequired" value="Patrabujecca Transpartnaha Miesca"/>
+	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CircumstanceMeleeDamage" value="Prahnoz Blizkaha Boju"/>
+	<entry name="CircumstanceMeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="CityDamageReduction" value="Haradzkoje Źnižeńnie Škody"/>
+	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="CityRadius" value="Radyus Horada"/>
+	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="ConstructionCost" value="Košt Budavańnia"/>
+	<entry name="ConstructionCostIcon" value="<icon height='20' texture='Icons/Attributes/ConstructionCost'/>"/>
+	<entry name="ConsumedActionPoints" value="Spažyvanyja Ački Dziejańniaŭ"/>
+	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ConsumedMovement" value="Spažyvany Ruch"/>
+	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Cooldown" value="Pierazaradka"/>
+	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Cooldown'/>"/>
+	<entry name="Damage" value="Škoda"/>
+	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageFromHitpoints" value="Škoda ad Zdaroŭja Celi"/>
+	<entry name="DamageFromHitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageReduction" value="Źnižeńnie Škody"/>
+	<entry name="DamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="DamageReturnFactor" value="Škody Viarnuta"/>
+	<entry name="DamageReturnFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageSelfFactor" value="Ułasnaja Škoda"/>
+	<entry name="DamageSelfFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageSelfFromHitpointsFactor" value="Ułasnaja Škoda ad Zdaroŭja"/>
+	<entry name="DamageSelfFromHitpointsFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTaken" value="Atrymanaja Škoda"/>
+	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTakenByGroupSizeFactor" value="Atrymanaja Škoda ad Pamieru Hrupy"/>
+	<entry name="DamageTakenByGroupSizeFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Dośvied Śmierci"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="DeathMorale" value="Maral Śmierci"/>
+	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="DuplicateTypeCost" value="Košt Paŭtoru"/>
+	<entry name="Energy" value="Enierhija"/>
+	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyCost" value="Košt Enierhii"/>
+	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyFromAdjacentBuildings" value="Enierhii za Kožny Susiedni Budynak"/>
+	<entry name="EnergyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyFromExperienceValueFactor" value="Enierhii ad Vieličyni Dośviedu"/>
+	<entry name="EnergyFromExperienceValueFactorIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyUpkeep" value="Ŭtrymańnie Enierhii"/>
+	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="ExperienceGainRate" value="Chutkaść Atrymańnia Dośviedu"/>
+	<entry name="ExperienceGainRateIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="FeelNoPainDamageReduction" value="Źnižeńnie Škody ad Adsutnaści Bolu"/>
+	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="FlankingDamageFactor" value="Fłanhavaja Škoda"/>
+	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="FlatResourcesFromFeatures" value="Pramyja Resursy ad Miascovaści"/>
+	<entry name="FlatResourcesFromFeaturesIcon" value="<icon height='20' texture='Icons/Features/Grassland'/>"/>
+	<entry name="Food" value="Ježa"/>
+	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodCost" value="Košt Ježy"/>
+	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodFromAdjacentBuildings" value="Ježy za Kožny Susiedni Budynak"/>
+	<entry name="FoodFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodUpkeep" value="Ŭtrymańnie Ježy"/>
+	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="GroupSize" value="Pamier Hrupy"/>
+	<entry name="GroupSizeIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="GroupSizeMax" value="Maks. Pamier Hrupy"/>
+	<entry name="GroupSizeMaxIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="Growth" value="Uzrost"/>
+	<entry name="GrowthHint" value="<style name='Title'/>Growth<br/><style name='Default'/>Pakazvaje, nakolki chutka raście horad. Jak tolki nazapasicca dastatkovy pryrost, papulacyja pavialičvajecca na adzinku. Chutkaść uzrostu źnižajecca pa miery nabližeńnia kolkaści nasielnictva da miažy kolkaści."/>
+	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="GrowthFactor" value="Uzrost"/>
+	<entry name="GrowthFactorIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="HeroDamageReduction" value="Źnižeńnie Škody Hieroja"/>
+	<entry name="HeroDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="HealingRate" value="Chutkaść Lačeńnia"/>
+	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="Hitpoints" value="Zdaroŭje"/>
+	<entry name="HitpointsDescription" value="Kolkaść <icon height='20' texture='Icons/Attributes/Damage'/> škody, jakuju moža atrymać adzinka pierad śmierciu. Adzinki aŭtamatyčna vylečvajucca, kali jany nie atrymvajuć škodu i ŭ ich zastalisia ŭsie ački ruchu i dziejańnia."/>
+	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFactorFromMax" value="Zdaroŭje"/>
+	<entry name="HitpointsFactorFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFactorFromMoraleDifference" value="Zdaroŭje ad Roźnicy Marali"/>
+	<entry name="HitpointsFactorFromMoraleDifferenceIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsMax" value="Maks. Zdaroŭje"/>
+	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsPerMoraleLoss" value="Zdaroŭja za Kožnuju Stračanuju Maral"/>
+	<entry name="HitpointsPerMoraleLossIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="Influence" value="Upłyŭ"/>
+	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCost" value="Košt Upłyvu"/>
+	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceFromAdjacentBuildings" value="Upłyvu za Kožny Susiedni Budynak"/>
+	<entry name="InfluenceFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombat" value="Upłyvu za Kožnuju Bitvu"/>
+	<entry name="InfluencePerCombatIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombatFromUpkeepFactor" value="Upłyvu za Kožnuju Bitvu ad Faktaru Ŭtrymańnia"/>
+	<entry name="InfluencePerCombatFromUpkeepFactorIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerDamage" value="Upłyvu za Škodu"/>
+	<entry name="InfluencePerDamageIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerExperience" value="Upłyvu za Dośvied"/>
+	<entry name="InfluencePerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceUpkeep" value="Ŭtrymańnie Upłyvu"/>
+	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InvulnerableDamageReduction" value="Źnižeńnie Škody ad Nieparažalnaści"/>
+	<entry name="InvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ItemSlots" value="Kolkaść Pradmietaŭ"/>
+	<entry name="ItemSlotsHint" value="<style name='Title'/>Kolkaść pradmietaŭ<br/><style name='Default'/>"/>
+	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
+	<entry name="Level" value="Uzrovień"/>
+	<entry name="LevelDescription" value="Uzrovień dośviedu adzinki. Kožny ŭzrovień vyšej za pieršy pavialičvaje <icon height='20' texture='Icons/Attributes/Hitpoints'/> zdaroŭje i <icon height='20' texture='Icons/Attributes/Damage'/> škodu na 5%, a taksama maral <icon height='20' texture='Icons/Attributes/Morale'/> na 10%."/>
+	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LevelMax" value="Maks. Uzrovień"/>
+	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LifeSteal" value="Kradziož Žyćcia"/>
+	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealFactor" value="Kradziož Žyćcia"/>
+	<entry name="LifeStealFactorIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealRadius" value="Radyus Kradzieža Žyćcia"/>
+	<entry name="LifeStealRadiusIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="Loyalty" value="Łajalnaść"/>
+	<entry name="LoyaltyHint" value="<style name='Title'/>Łajalnaść<br/><style name='Default'/>Adlustroŭvaje addanaje vam nasielnictva. Kožnaje dadatkovaje stanoŭčaje ačko łajalnaści pavialičvaje vytvorčaść resursaŭ na 1%. U toj ža čas kožnaje  admoŭnaje ačko łajalnaści źmienšvaje vytvorčaść na 2% (da -50%). Kožny horad, aproč pieršaha, źmienšvaje łajalnaść na 6 uva ŭsich inšych vašych haradach."/>
+	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromAdjacentBuildings" value="Łajalnaści za Kožny Susiedni Budynak"/>
+	<entry name="LoyaltyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromUtopia" value="Łajalnaść ad Utopii"/>
+	<entry name="LoyaltyFromUtopiaIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromUtopiaType" value="Łajalnaść ad Typu Ŭtopii"/>
+	<entry name="LoyaltyFromUtopiaTypeIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyPerCity" value="Łajalnaść za Horad"/>
+	<entry name="LoyaltyPerCityIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyUpkeep" value="Ŭtrymańnie Łajalnaści"/>
+	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="MeleeAccuracy" value="Trapnaść Blizkaha Boju"/>
+	<entry name="MeleeAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="MeleeArmorPenetration" value="Prabivańnie Brani Blizkaha Boju"/>
+	<entry name="MeleeArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="MeleeAttacks" value="Ataka Blizkaha Boju"/>
+	<entry name="MeleeAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="MeleeDamage" value="Škoda Blizkaha Boju"/>
+	<entry name="MeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MeleeDamageReduction" value="Źnižeńnie Škody Blizkaha Boju"/>
+	<entry name="MeleeDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="MeleeDamageTaken" value="Atrymanaja Škoda Blizkaha Boju"/>
+	<entry name="MeleeDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MinDamageFromHitpointsFraction" value="Minimalnaja Škoda ad Zdaroŭja Celi"/>
+	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MonolithicBuildingsBonus" value="Bonus Manalitnych Budynkaŭ"/>
+	<entry name="MonolithicBuildingsPenalty" value="Štraf Manalitnych Budynkaŭ"/>
+	<entry name="Morale" value="Maral"/>
+	<entry name="MoraleDescription" value="Psichałahičny stan adzinki. Maral adnaŭlajecca, kali adzinka nie atrymała škodu ŭ hetym kroku. Adzinki z marallu nižejšaj za 66% robiacca <icon height='20' texture='Icons/Traits/Shaken'/> uzrušanymi. Heta źnižaje trapnaści i pavialičvaje atrymanuju škodu na 17%. Adzinki z marallu nižejšaj za 33% robiacca <icon height='20' texture='Icons/Traits/Broken'/> złamanymi. Heta źnižaje ich trapnaść i pavialičvaje atrymanuju škodu na 33%."/>
+	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleRegeneration" value="Adnaŭleńnie Marali"/>
+	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLossFactor" value="Strata Marali"/>
+	<entry name="MoraleLossFactorIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLossFactorPerAllyInArea" value="Strata Marali za Kožnaha Chaŭruśnika ŭ Zonie"/>
+	<entry name="MoraleLossFactorPerAllyInAreaIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleMax" value="Maks. Maral"/>
+	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="Movement" value="Ruch"/>
+	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementDescription" value="Kolkaść plitak, jakuju adzinka moža pierasiekčy za adzin krok. Pierasiečanaja miascovaść patrabuje bolej adnoha ačka rucha. Pierasoŭvańnie na plitku, susiedniuju da voraha skončvaje ruch."/>
+	<entry name="MovementCost" value="Košt Ruchu"/>
+	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementMax" value="Maks. Ruch"/>
+	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="OpponentRangedAccuracy" value="Trapnaść Supiernika Dalokaha Boju"/>
+	<entry name="OpponentRangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="Ore" value="Ruda"/>
+	<entry name="OreIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCost" value="Košt Rudy"/>
+	<entry name="OreCostIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCostHint" value="<style name='Title'/>Košt Rudy<br/><style name='Default'/>"/>
+	<entry name="OreFromAdjacentBuildings" value="Rudy za Kožny Susiedni Budynak"/>
+	<entry name="OreFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OrePerKillValue" value="Kolkaść Rudy za Zabojstva"/>
+	<entry name="OrePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreUpkeep" value="Ŭtrymańnie Rudy"/>
+	<entry name="OreUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="Population" value="Nasielnictva"/>
+	<entry name="PopulationCost" value="Košt Nasielnictva"/>
+	<entry name="PopulationCostIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationHint" value="<style name='Title'/>Nasielnictva<br/><style name='Default'/>Adkazvaje za pracu budynkaŭ u horadzie. Dla pracy kožnaha aktyvavanaha budynka patrabujecca adno nasielnictva. Kali patrabavanaja kolkaść nasielnictva pieravyšaje ciapierašniuju, vytvorčaść budynkaŭ źnižajecca."/>
+	<entry name="PopulationLimit" value="Limit Nasielnictva"/>
+	<entry name="PopulationLimitIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationLimitHint" value="<style name='Title'/>Population Limit<br/><style name='Default'/>Pakazvaje maksimalnuju kolkaść žycharoŭ, jakuju moža źmiaścić horad."/>
+	<entry name="Production" value="Vytvorčaść"/>
+	<entry name="ProductionIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="ProductionHint" value="<style name='Title'/>Production<br/><style name='Default'/>Pakazvaje chutkaść vytvorčaści budynka."/>
+	<entry name="ProductionCost" value="Košt Vytvorčaści"/>
+	<entry name="ProductionCostIcon" value="<icon height='20' texture='Icons/Attributes/ProductionCost'/>"/>
+	<entry name="ProductionFromAdjacentBuildings" value="Vytvorčaść za Kožny Susiedni Budynak"/>
+	<entry name="ProductionFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="Radius" value="Radyus"/>
+	<entry name="RadiusDescription" value=""/>
+	<entry name="RadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="Range" value="Dalokaść"/>
+	<entry name="RangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeDescription" value=""/>
+	<entry name="RangeMax" value="Maksimalnaja Dalokaść"/>
+	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeMin" value="Minimalnaja Dalokaść"/>
+	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangedAccuracy" value="Trapnaść Dalokaha Boju"/>
+	<entry name="RangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="RangedArmorPenetration" value="Prabivańnie Brani Dalokaha Boju"/>
+	<entry name="RangedArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="RangedAttacks" value="Ataki Dalokaha Boju"/>
+	<entry name="RangedAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="RangedDamage" value="Škoda Dalokaha Boju"/>
+	<entry name="RangedDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RangedDamageReduction" value="Źnižeńnie Škody Dalokaha Boju"/>
+	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RangedDamageReductionBypass" value="Abchod Źnižeńnie Škody Dalokaha Boju"/>
+	<entry name="RangedDamageTaken" value="Škoda Atrymanaja ŭ Dalokim Boi"/>
+	<entry name="RangedDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RangedInvulnerableDamageReduction" value="Źnižeńnie Niaŭraźlivaj Škody Dalokaha Boju"/>
+	<entry name="RangedInvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RequiredActionPoints" value="Patrebnyja Dziejańni"/>
+	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="RequiredMovement" value="Patrebny Ruch"/>
+	<entry name="RequiredMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Requisitions" value="Rekvizicyi"/>
+	<entry name="RequisitionsIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="RequisitionsCost" value="Košt Rekvizicyj"/>
+	<entry name="RequisitionsCostIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="RequisitionsUpkeep" value="Ŭtrymańnie Rekvizicyj"/>
+	<entry name="RequisitionsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="Research" value="Daśledavańnie"/>
+	<entry name="ResearchHint" value="<style name='Title'/>Daśledavańnie<br/><style name='Default'/>Vykarystoŭvajecca dla adkryćcia novych technałohij."/>
+	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchCost" value="Košt Daśledvańniaŭ"/>
+	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchFromAdjacentBuildings" value="Daśledavańniaŭ za Kožny Susiedni Budynak"/>
+	<entry name="ResearchFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerExperience" value="Daśledavańni za Dośvied"/>
+	<entry name="ResearchPerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerKillValue" value="Daśledavańni za Zabojstvy"/>
+	<entry name="ResearchPerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchUpkeep" value="Ŭtrymańnie Daśledvańniaŭ"/>
+	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResourcesFromFeatures" value="Resursy ad Miascovaści"/>
+	<entry name="ResourcesFromFeaturesIcon" value="<icon height='20' texture='Icons/Features/Grassland'/>"/>
+	<entry name="Sight" value="Ahlad"/>
+	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
+	<entry name="SightDescription" value="Vyznačaje dalokaść ahladu adzinki.<br/><br/>Ahlad abmiežavany asablivaściami miascovaści, naprykład, lesam, dymam abo skałami."/>
+	<entry name="SlotsRequired" value="Patrebna Słotaŭ"/>
+	<entry name="SupportSystemSlots" value="Sistema Padtrymki Słotaŭ"/>
+	<entry name="SupportSystemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/SupportSystemSlots'/>"/>
+	<entry name="TargetArmor" value="Brania Celi"/>
+	<entry name="TargetArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="Turns" value="Krokaŭ"/>
+	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="TypeLimit" value="Typ Abmiežavańnia"/>
+	<entry name="WitchfireDamageReduction" value="Źnižeńnie Škody ad Viadźmarskaha Ahniu"/>
+	<entry name="WitchfireDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	
+	<!-- Faction-specific -->
+	<entry name="BiomassHint" value="<style name='Title'/>Bijamasa<br/><style name='Default'/>Vykarystoŭvajecca dla padtrymańnia nasielnictva ŭ haradach, budavańnia budynkaŭ, a taksama vytvorčaści i ŭtrymańnia adzinak."/>
+	<entry name="EnergyHint" value="<style name='Title'/>Enierhija<br/><style name='Default'/>Vykarystoŭvajecca dla absłuhoŭvańnia budynkaŭ, a taksama dla vytvorčaści i absłuhoŭvańnia admysłovych adzinak."/>
+	<entry name="FoodHint" value="<style name='Title'/>Ježa<br/><style name='Default'/>Vykarystoŭvajecca dla padtrymańnia nasielnictva ŭ haradach, a taksama dla vytvorčaści i padtrymańnia bijałahičnych adzinak."/>
+	<entry name="OreHint" value="<style name='Title'/>Ruda<br/><style name='Default'/>Vykarystoŭvajecca dla budavańnia budynkaŭ, a taksama dla vytvorčaści i absłuhoŭvańnia miechaničnych adzinak."/>
+	<entry name="AdeptusMechanicus/InfluenceHint" value="<string name='Attributes/Tau/InfluenceHint'/>"/>
+	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, vydańnia edyktaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, zakliku Paznak Chaosu, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, užyvańnia admysłovych zdolnaściaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="Necrons/EnergyHint" value="<style name='Title'/>Enierhija<br/><style name='Default'/>Vykarystoŭvajecca dla budavańnia budynkaŭ i vytvorčaści adzinak."/>
+	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, užyvańniu admysłovych zdolnaściaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="Necrons/OreHint" value="<style name='Title'/>Ruda<br/><style name='Default'/>Vykarystoŭvajecca dla padtrymańnia nasielnictva ŭ haradach, a taksama dla absłuhoŭvańnia budynkaŭ i adzinak."/>
+	<entry name="Orks/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, padtrymki Vaaahch!, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i absłuhoŭvańnia haradzkich plitak, praviadzieńnia śviaščennych abradaŭ, a taksama rekrutavańnia mahutnych adzinak-hierojaŭ i kupli ich pradmietaŭ."/>
+	<entry name="SistersOfBattle/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Vykarystoŭvajucca dla padtrymańnia nasielnictva ŭ horadzie, budavańni budynkaŭ, a taksama vytvorčaści i absłuhoŭvańnia adzinak."/>
+	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, vykarystańnia taktyk i apieracyj, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>Rekvizicyi<br/><style name='Default'/>Vykarystoŭvajucca dla padtrymańnia nasielnictva ŭ horadzie, budavańni budynkaŭ, a taksama vytvorčaści i absłuhoŭvańni adzinak."/>
+	<entry name="Tau/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, užyvańnia admysłovych zdolnaściaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="Tyranids/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, padtrymańnia budynkaŭ, užyvańnia admysłovych zdolnaściaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+</language>

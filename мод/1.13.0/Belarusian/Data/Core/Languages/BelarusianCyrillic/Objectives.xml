@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulateBiomassDescription" value="Назапасіць біямасу (%1%/%2%)."/>
+	<entry name="AccumulateInfluenceDescription" value="Назапасіць уплыў (%1%/%2%)."/>
+	<entry name="AccumulateKillExperienceDescription" value="Назапасіць досьвед ад забойстваў (%1%/%2%)."/>
+	<entry name="AccumulatePopulationDescription" value="Назапасіць насельніцтва (%1%/%2%)."/>
+	<entry name="AccumulateResearchDescription" value="Назапасіць дасьледаваньні (%1%/%2%)."/>
+	<entry name="ActivateCanticleDescription" value="Актывуйце сьпеў (%1%/1)."/>
+	<entry name="ActivateDoctrinaDescription" value="Актывуйце дактрыну (%1%/1)."/>
+	<entry name="ActivateUnitDescription" value="Актываваць %1% (%2%/1)."/>
+	<entry name="ActivateSacredRiteDescription" value="Актываваць сьвяшчэнны абрад (%1%/%2%)."/>
+	<entry name="ActivateTacticDescription" value="Актываваць тактыку падзелу (%1%/1)."/>
+	<entry name="CaptureUnitDescription" value="Захапіць %1% (%2%/1)."/>
+	<entry name="ClaimWebwayGateWithCelestineDescription" value="Перасунуць <string name='Units/SistersOfBattle/SaintCelestine'/> на плітку, суседнюю да <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="ClearHolySiteDescription" value="Дасьледаваць <string name='Features/HolySite'/> Шпітальеркамі (%1%/%2%)."/>
+	<entry name="ClearInfestationDescription" value="Зьнішчыць %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingDescription" value="Пабудаваць %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingOnSameTileDescription" value="Пабудуйце %1% на той жа плітцы (%2%/%3%)."/>
+	<entry name="ConstructFeatureDescription" value="Пабудаваць %1% (%2%/%3%)."/>
+	<entry name="ConsumeTileDescription" value="Спажыць плітку малантропам (%2%/%3%)."/>
+	<entry name="ControlCityDescription" value="Кантраляваць гарады (%1%/%2%)."/>
+	<entry name="ControlOutpostDescription" value="Кантраляваць аванпосты (%1%/%2%)."/>
+	<entry name="ControlUnitDescription" value="Трымаць пад кантролем %1% (%2%/1)."/>
+	<entry name="DefendTileDescription" value="Бараніць адзначаную плітку."/>
+	<entry name="DefendTileWithTurnLimitDescription" value="Бараніць адзначаную плітку (%1% крокаў)."/>
+	<entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Бараніць нядаўна знойдзены ўваход %1% крокаў (%2%/1)."/>
+	<entry name="DeployFortressDescription" value="Разгарнуць %1% побач з адмысловым рэсурсам і ахоўваць перыметр (%2%/1)."/>
+	<entry name="DeployGunDroneDescription" value="Разгарнуць <string name='Units/Tau/GunDrone'/> (%2%/%3%)."/>
+	<entry name="DestroySpawnedCityDescription" value="Зьнішчыць горад Астра Мілітарум (%1%/1)."/>
+	<entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
+	<entry name="ExploreDepthsDescription" value="Адправіць адзінкі ў глыбіні планеты:"/>
+	<entry name="FoundCityDescription" value="Пабудаваць новы горад (%1%/1)."/>
+	<entry name="FoundCityNearEntranceDescription" value="Пабудаваць новы горад у радыусе 3 плітак ад нядаўна выяўленага ўваходу (%1%/1)."/>
+	<entry name="FoundCityOnNecronTombDescription" value="Пабудаваць новы горад на адзначанай плітцы (%1%/1)."/>
+	<entry name="GenerateResearchFromExperienceDescription" value="Забіць варожую адзінку ў радыусе 3 клетак ад Малантропа (%1%/%2%)"/>
+	<entry name="InfiltrateCampWithUnitTypeDescription" value="Перасуньце %1% на плітку суседнюю да варожай крэпасьці (%2%/%3%)."/>
+	<entry name="InvokeCultistSacrificeDescription" value="Выкарыстаць %1% з культыстамі хаосу (%2%/%3%)."/>
+	<entry name="InvokeRapidRiseOnWarriorDescription" value="Выкарыстаць хуткі ўздым пры вытворчасьці Ваяроў-Некронаў (%1%/1)."/>
+	<entry name="InvokeRiteDescription" value="Выкарыстаць %1% у горадзе (%2%/%3%)."/>
+	<entry name="KeepUnitAliveDescription" value="Захоўваць %1% жывым (%2%/1)."/>
+	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
+	<entry name="KillCampDescription" value="Зьнішчыць варожы стан (%1%/1)."/>
+	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Зьнішчыце Дэмана-Прынца, які выконвае рытуал за %2% крокаў (%1%/1)."/>
+	<entry name="KillCampWithDeceiverDescription" value="Знайдзіце і зьнішчыце Ашуканца (%1%/1)."/>
+	<entry name="KillCampWithFortressOfRedemptionDescription" value="Зьнішчыце мяцежную Крэпасьць Адкупленьня (%1%/1)."/>
+	<entry name="KillCampWithOrksDescription" value="Зьнішчыце лагер Оркаў (%1%/1)."/>
+	<entry name="KillCampWithKastelansDescription" value="Зьнішчыце або захапіце лагер Каштэлянаў (%1%/1)."/>
+	<entry name="KillCampWithRebelNecronArmyDescription" value="Зьнішчыце мяцежнае войска Некронаў (%1%/1)."/>
+	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Зьнішчыце мяцежнага Тэхнажраца і яго кантынгент элітных робатаў за %2% крокаў (%1%/1)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Зьнішчыць варожы стан за %2% крокаў (%1%/1)."/>
+	<entry name="KillCampWithTyranidsDescription" value="Зьнішчыце вулей Тыранідаў (%1%/1)."/>
+	<entry name="KillCampWithWebwayGateDescription" value="Перамажыце сілы Аэльдары, што бароняць <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="KillLordOfSkullsActiveDescription" value="Зьнішчыць %1% за %4% крокаў (%2%/%3%)."/>
+	<entry name="KillLordOfSkullsInactiveDescription" value="Пачакайце пакуль %1% вернецца ў гэты сьвет (0/1)."/>
+	<entry name="KillSpawnedUnitsDescription" value="Зьнішчыце разрозьненыя адзінкі (%1%/%2%)."/>
+	<entry name="KillUmbraDescription" value="Зьнішчыце Умбру (%1%/1)."/>
+	<entry name="KillUnitDescription" value="Зьнішчыце %1% (%2%/%3%)."/>
+	<entry name="KillUnitNativeDescription" value="Зьнішчыце мясцовых Ксенасаў (%1%/%2%)."/>
+	<entry name="KillUnitWithTokenDescription" value="Зьнішчыце %1% (%2%/1)."/>
+	<entry name="MoveUnitIntoCityDescription" value="Перасуньце %1% у гарадзкую штабкватэру (%2%/1)."/>
+	<entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Генеруйце %1% лаяльнасьць ад Утопіі за крок (у гэты момант %2%) (%3%/1)."/>
+	<entry name="ProduceUnitDescription" value="Стварыце адзінку (%2%/%3%)."/>
+	<entry name="ProduceUnitOfTypeDescription" value="Стварыце %1% (%2%/%3%)."/>
+	<entry name="ProduceUnitWithTraitDescription" value="Стварыце адзінку з %1% асаблівасьцю (%2%/%3%)."/>
+	<entry name="ProduceRequisitionsPerTurnDescription" value="Генеруйце %1% рэквізіцый за крок (у гэты момант %2%) (%3%/1)."/>
+	<entry name="RaiseLoyaltyDescription" value="Узьніміце лаяльнасьць у сваім горадзе-сталіцы прынамсі да %1% на 1 крок (%2%/1)."/>
+	<entry name="ReachLevelDescription" value="Дасягніце ўзровень %2% з %1% (%3%/1)."/>
+	<entry name="ReclaimUnitDescription" value="Выкарыстайце любы вытворчы будынак, каб аднавіць адзінку (%2%/%3%)."/>
+	<entry name="RecoverArcheotechDescription" value="Купіце артэфакты (%1%/%2%)."/>
+	<entry name="RecoverUnitDescription" value="Перагрупуйце разрозьненыя адзінкі (%1%/%2%)."/>
+	<entry name="ResearchUpgradeDescription" value="Дасьледуйце %1% (%2%/%3%)."/>
+	<entry name="ResearchUpgradeTierDescription" value="Адкрыйце паляпшэньне %1% любага узроўню (%2%/1)."/>
+	<entry name="ScanTilesDescription" value="Выкарыстайце %1% на адзначаных плітках (%2%/%3%)."/>
+	<entry name="StartEdictDescription" value="Пачніце гарадзкі эдыкт (%1%/1)."/>
+	<entry name="SurviveInvasionDescription" value="Перажывіце напад і забіце ўсіх захопнікаў (%1%/1)."/>
+	<entry name="SurviveInvasionWithTurnLimitDescription" value="Перажывіце напад %1% крокаў (%2%/1)."/>
+	<entry name="UseCityAbilityDescription" value="Выкарыстайце %1% у вашым горадзе (%2%/%3%)."/>
+	<entry name="UseConvertWildlifeDescription" value="Выкарыстайце %1% на вандроўным аўксіліарыі (%2%/%3%)."/>
+	<entry name="UseMarkDescription" value="Выкарыстайце %1% на адзінцы (%2%/%3%)."/>
+	<entry name="UseMarkerlightDescription" value="Выкарыстайце %1% на варожай адзінцы (%2%/%3%)."/>
+	<entry name="UsePurchaseFoodDescription" value="Выкарыстайце %1%, каб набыць ежу (%2%/%3%)."/>
+	<entry name="UsePurchaseOreDescription" value="Выкарыстайце %1%, каб набыць руду (%2%/%3%)."/>
+	<entry name="UsePurchaseEnergyDescription" value="Выкарыстайце %1%, каб набыць энергію (%2%/%3%)."/>
+	<entry name="UsePurchasePopulationDescription" value="Выкарыстайце %1% у вашым горадзе (%2%/%3%)."/>
+	<entry name="VisitTileAndClearEnemiesDescription" value="Наведайце адзначаную плітку і засьцеражыце перыметр (%4%/%2%)."/>
+	<entry name="VisitTileChaosCultistWithUnitTypeAndTurnLimitDescription" value="Ахвяруйце %3% на адзначанай плітцы за %5% крокаў (%1%/%2%)."/>
+	<entry name="VisitTileDaemonPrinceWithUnitTypeDescription" value="Наведайце адзначаную плітку %3% (%1%/%2%)."/>
+	<entry name="VisitTileDescription" value="Наведайце адзначаную плітку (%1%/%2%)."/>
+	<entry name="VisitTileExoditeWithUnitTypeDescription" value="Наведайце адзначаную плітку %3% (%1%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeAndClearEnemiesDescription" value="Наведайце адзначаную плітку %3% і засьцеражыце перыметр (%4%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeAndTurnLimitDescription" value="Наведайце адзначаную плітку %3% за %5% крокаў (%1%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeDescription" value="Наведайце адзначаную плітку %3% (%1%/%2%)."/>
+</language>

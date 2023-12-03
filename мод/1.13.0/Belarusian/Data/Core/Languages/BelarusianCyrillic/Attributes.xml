@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Generic -->
+	<entry name="Accuracy" value="Трапнасьць"/>
+	<entry name="AccuracyDescription" value="Кожнае ачко трапнасьці павялічвае шанец трапленьня прыкладна на 8.3%."/>
+	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="ActionPoints" value="Ачкі Дзеяньняў"/>
+	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionPointsMax" value="Максімум ачкоў дзеяньня"/>
+	<entry name="ActionPointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="Actions" value="Дзеяньні"/>
+	<entry name="ActionsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionsDescription" value="Колькасьць дзеяньняў, якую можа выканаць адзінка. Выкарыстаньне дзеяньня можа выдаткаваць увесь рух."/>
+	<entry name="AdditionalMembersHit" value="Удары Дадатковых Удзельнікаў"/>
+	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Armor" value="Браня"/>
+	<entry name="ArmorDescription" value="Зьмяншае колькасьць <icon height='20' texture='Icons/Attributes/Damage'/> шкоды ад зброі і здольнасьцяў. Кожная адзінка брані зьніжае атрыманую шкоду прыкладна на 8.3% ( да 83%), але зброя і здольнасьці ігнаруюць колькасьць ачкоў броні аж да значэньня прабіваньня брані."/>
+	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorDamageReduction" value="Зьніжэньне Шкоды ад Брані"/>
+	<entry name="ArmorDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorPenetration" value="Прабіваньне Брані"/>
+	<entry name="ArmorPenetrationDescription" value=""/>
+	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="Attacks" value="Атакі"/>
+	<entry name="AttacksDescription" value=""/>
+	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="AttacksPerCharge" value="Атакі за Зарад"/>
+	<entry name="AttacksTaken" value="Прынятыя Атакі"/>
+	<entry name="AttacksTakenIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="Biomass" value="Біямаса"/>
+	<entry name="BiomassIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassCost" value="Кошт Біямасы"/>
+	<entry name="BiomassCostIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassOnConsume" value="Біямаса"/>
+	<entry name="BiomassOnConsumeIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassUpkeep" value="Ўтрыманьне Біямасы"/>
+	<entry name="BiomassUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BoonOfChaosChance" value="Шанец Дарунка Хаосу"/>
+	<entry name="BoonOfChaosChanceIcon" value="<icon height='20' texture='Icons/Traits/ChaosSpaceMarines/ChampionOfChaos'/>"/>
+	<entry name="BuildingSlots" value="Пляцоўкі для Будынкаў"/>
+	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="CargoSlots" value="Транспартнае Месца"/>
+	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CargoSlotsRequired" value="Патрабуецца Транспартнага Месца"/>
+	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CircumstanceMeleeDamage" value="Прагноз Блізкага Бою"/>
+	<entry name="CircumstanceMeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="CityDamageReduction" value="Гарадзкое Зьніжэньне Шкоды"/>
+	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="CityRadius" value="Радыус Горада"/>
+	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="ConstructionCost" value="Кошт Будаваньня"/>
+	<entry name="ConstructionCostIcon" value="<icon height='20' texture='Icons/Attributes/ConstructionCost'/>"/>
+	<entry name="ConsumedActionPoints" value="Спажываныя Ачкі Дзеяньняў"/>
+	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ConsumedMovement" value="Спажываны Рух"/>
+	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Cooldown" value="Перазарадка"/>
+	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Cooldown'/>"/>
+	<entry name="Damage" value="Шкода"/>
+	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageFromHitpoints" value="Шкода ад Здароўя Цэлі"/>
+	<entry name="DamageFromHitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageReduction" value="Зьніжэньне Шкоды"/>
+	<entry name="DamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="DamageReturnFactor" value="Шкоды Вярнута"/>
+	<entry name="DamageReturnFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageSelfFactor" value="Уласная Шкода"/>
+	<entry name="DamageSelfFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageSelfFromHitpointsFactor" value="Уласная Шкода ад Здароўя"/>
+	<entry name="DamageSelfFromHitpointsFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTaken" value="Атрыманая Шкода"/>
+	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTakenByGroupSizeFactor" value="Атрыманая Шкода ад Памеру Групы"/>
+	<entry name="DamageTakenByGroupSizeFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Досьвед Сьмерці"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="DeathMorale" value="Мараль Сьмерці"/>
+	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="DuplicateTypeCost" value="Кошт Паўтору"/>
+	<entry name="Energy" value="Энергія"/>
+	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyCost" value="Кошт Энергіі"/>
+	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyFromAdjacentBuildings" value="Энергіі за Кожны Суседні Будынак"/>
+	<entry name="EnergyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyFromExperienceValueFactor" value="Энергіі ад Велічыні Досьведу"/>
+	<entry name="EnergyFromExperienceValueFactorIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyUpkeep" value="Ўтрыманьне Энергіі"/>
+	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="ExperienceGainRate" value="Хуткасьць Атрыманьня Досьведу"/>
+	<entry name="ExperienceGainRateIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="FeelNoPainDamageReduction" value="Зьніжэньне Шкоды ад Адсутнасьці Болю"/>
+	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="FlankingDamageFactor" value="Флангавая Шкода"/>
+	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="FlatResourcesFromFeatures" value="Прамыя Рэсурсы ад Мясцовасьці"/>
+	<entry name="FlatResourcesFromFeaturesIcon" value="<icon height='20' texture='Icons/Features/Grassland'/>"/>
+	<entry name="Food" value="Ежа"/>
+	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodCost" value="Кошт Ежы"/>
+	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodFromAdjacentBuildings" value="Ежы за Кожны Суседні Будынак"/>
+	<entry name="FoodFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodUpkeep" value="Ўтрыманьне Ежы"/>
+	<entry name="FoodUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="GroupSize" value="Памер Групы"/>
+	<entry name="GroupSizeIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="GroupSizeMax" value="Макс. Памер Групы"/>
+	<entry name="GroupSizeMaxIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="Growth" value="Узрост"/>
+	<entry name="GrowthHint" value="<style name='Title'/>Growth<br/><style name='Default'/>Паказвае, наколькі хутка расьце горад. Як толькі назапасіцца дастатковы прырост, папуляцыя павялічваецца на адзінку. Хуткасьць узросту зьніжаецца па меры набліжэньня колькасьці насельніцтва да мяжы колькасьці."/>
+	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="GrowthFactor" value="Узрост"/>
+	<entry name="GrowthFactorIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="HeroDamageReduction" value="Зьніжэньне Шкоды Героя"/>
+	<entry name="HeroDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="HealingRate" value="Хуткасьць Лячэньня"/>
+	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="Hitpoints" value="Здароўе"/>
+	<entry name="HitpointsDescription" value="Колькасьць <icon height='20' texture='Icons/Attributes/Damage'/> шкоды, якую можа атрымаць адзінка перад сьмерцю. Адзінкі аўтаматычна вылечваюцца, калі яны не атрымваюць шкоду і ў іх засталіся ўсе ачкі руху і дзеяньня."/>
+	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFactorFromMax" value="Здароўе"/>
+	<entry name="HitpointsFactorFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFactorFromMoraleDifference" value="Здароўе ад Розьніцы Маралі"/>
+	<entry name="HitpointsFactorFromMoraleDifferenceIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsMax" value="Макс. Здароўе"/>
+	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsPerMoraleLoss" value="Здароўя за Кожную Страчаную Мараль"/>
+	<entry name="HitpointsPerMoraleLossIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="Influence" value="Уплыў"/>
+	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCost" value="Кошт Уплыву"/>
+	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceFromAdjacentBuildings" value="Уплыву за Кожны Суседні Будынак"/>
+	<entry name="InfluenceFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombat" value="Уплыву за Кожную Бітву"/>
+	<entry name="InfluencePerCombatIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombatFromUpkeepFactor" value="Уплыву за Кожную Бітву ад Фактару Ўтрыманьня"/>
+	<entry name="InfluencePerCombatFromUpkeepFactorIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerDamage" value="Уплыву за Шкоду"/>
+	<entry name="InfluencePerDamageIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerExperience" value="Уплыву за Досьвед"/>
+	<entry name="InfluencePerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceUpkeep" value="Ўтрыманьне Уплыву"/>
+	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InvulnerableDamageReduction" value="Зьніжэньне Шкоды ад Непаражальнасьці"/>
+	<entry name="InvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ItemSlots" value="Колькасьць Прадметаў"/>
+	<entry name="ItemSlotsHint" value="<style name='Title'/>Колькасьць прадметаў<br/><style name='Default'/>"/>
+	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
+	<entry name="Level" value="Узровень"/>
+	<entry name="LevelDescription" value="Узровень досьведу адзінкі. Кожны ўзровень вышэй за першы павялічвае <icon height='20' texture='Icons/Attributes/Hitpoints'/> здароўе і <icon height='20' texture='Icons/Attributes/Damage'/> шкоду на 5%, а таксама мараль <icon height='20' texture='Icons/Attributes/Morale'/> на 10%."/>
+	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LevelMax" value="Макс. Узровень"/>
+	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LifeSteal" value="Крадзёж Жыцьця"/>
+	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealFactor" value="Крадзёж Жыцьця"/>
+	<entry name="LifeStealFactorIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealRadius" value="Радыус Крадзежа Жыцьця"/>
+	<entry name="LifeStealRadiusIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="Loyalty" value="Лаяльнасьць"/>
+	<entry name="LoyaltyHint" value="<style name='Title'/>Лаяльнасьць<br/><style name='Default'/>Адлюстроўвае адданае вам насельніцтва. Кожнае дадатковае станоўчае ачко лаяльнасьці павялічвае вытворчасьць рэсурсаў на 1%. У той жа час кожнае  адмоўнае ачко лаяльнасьці зьменшвае вытворчасьць на 2% (да -50%). Кожны горад, апроч першага, зьменшвае лаяльнасьць на 6 ува ўсіх іншых вашых гарадах."/>
+	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromAdjacentBuildings" value="Лаяльнасьці за Кожны Суседні Будынак"/>
+	<entry name="LoyaltyFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromUtopia" value="Лаяльнасьць ад Утопіі"/>
+	<entry name="LoyaltyFromUtopiaIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyFromUtopiaType" value="Лаяльнасьць ад Тыпу Ўтопіі"/>
+	<entry name="LoyaltyFromUtopiaTypeIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyPerCity" value="Лаяльнасьць за Горад"/>
+	<entry name="LoyaltyPerCityIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyUpkeep" value="Ўтрыманьне Лаяльнасьці"/>
+	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="MeleeAccuracy" value="Трапнасьць Блізкага Бою"/>
+	<entry name="MeleeAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="MeleeArmorPenetration" value="Прабіваньне Брані Блізкага Бою"/>
+	<entry name="MeleeArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="MeleeAttacks" value="Атака Блізкага Бою"/>
+	<entry name="MeleeAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="MeleeDamage" value="Шкода Блізкага Бою"/>
+	<entry name="MeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MeleeDamageReduction" value="Зьніжэньне Шкоды Блізкага Бою"/>
+	<entry name="MeleeDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="MeleeDamageTaken" value="Атрыманая Шкода Блізкага Бою"/>
+	<entry name="MeleeDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MinDamageFromHitpointsFraction" value="Мінімальная Шкода ад Здароўя Цэлі"/>
+	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MonolithicBuildingsBonus" value="Бонус Маналітных Будынкаў"/>
+	<entry name="MonolithicBuildingsPenalty" value="Штраф Маналітных Будынкаў"/>
+	<entry name="Morale" value="Мараль"/>
+	<entry name="MoraleDescription" value="Псіхалагічны стан адзінкі. Мараль аднаўляецца, калі адзінка не атрымала шкоду ў гэтым кроку. Адзінкі з маральлю ніжэйшай за 66% робяцца <icon height='20' texture='Icons/Traits/Shaken'/> узрушанымі. Гэта зьніжае трапнасьці і павялічвае атрыманую шкоду на 17%. Адзінкі з маральлю ніжэйшай за 33% робяцца <icon height='20' texture='Icons/Traits/Broken'/> зламанымі. Гэта зьніжае іх трапнасьць і павялічвае атрыманую шкоду на 33%."/>
+	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleRegeneration" value="Аднаўленьне Маралі"/>
+	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLossFactor" value="Страта Маралі"/>
+	<entry name="MoraleLossFactorIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLossFactorPerAllyInArea" value="Страта Маралі за Кожнага Хаўрусьніка ў Зоне"/>
+	<entry name="MoraleLossFactorPerAllyInAreaIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleMax" value="Макс. Мараль"/>
+	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="Movement" value="Рух"/>
+	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementDescription" value="Колькасьць плітак, якую адзінка можа перасекчы за адзін крок. Перасечаная мясцовасьць патрабуе болей аднога ачка руха. Перасоўваньне на плітку, суседнюю да ворага скончвае рух."/>
+	<entry name="MovementCost" value="Кошт Руху"/>
+	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementMax" value="Макс. Рух"/>
+	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="OpponentRangedAccuracy" value="Трапнасьць Суперніка Далёкага Бою"/>
+	<entry name="OpponentRangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="Ore" value="Руда"/>
+	<entry name="OreIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCost" value="Кошт Руды"/>
+	<entry name="OreCostIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCostHint" value="<style name='Title'/>Кошт Руды<br/><style name='Default'/>"/>
+	<entry name="OreFromAdjacentBuildings" value="Руды за Кожны Суседні Будынак"/>
+	<entry name="OreFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OrePerKillValue" value="Колькасьць Руды за Забойства"/>
+	<entry name="OrePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreUpkeep" value="Ўтрыманьне Руды"/>
+	<entry name="OreUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="Population" value="Насельніцтва"/>
+	<entry name="PopulationCost" value="Кошт Насельніцтва"/>
+	<entry name="PopulationCostIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationHint" value="<style name='Title'/>Насельніцтва<br/><style name='Default'/>Адказвае за працу будынкаў у горадзе. Для працы кожнага актываванага будынка патрабуецца адно насельніцтва. Калі патрабаваная колькасьць насельніцтва перавышае цяперашнюю, вытворчасьць будынкаў зьніжаецца."/>
+	<entry name="PopulationLimit" value="Ліміт Насельніцтва"/>
+	<entry name="PopulationLimitIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationLimitHint" value="<style name='Title'/>Population Limit<br/><style name='Default'/>Паказвае максімальную колькасьць жыхароў, якую можа зьмясьціць горад."/>
+	<entry name="Production" value="Вытворчасьць"/>
+	<entry name="ProductionIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="ProductionHint" value="<style name='Title'/>Production<br/><style name='Default'/>Паказвае хуткасьць вытворчасьці будынка."/>
+	<entry name="ProductionCost" value="Кошт Вытворчасьці"/>
+	<entry name="ProductionCostIcon" value="<icon height='20' texture='Icons/Attributes/ProductionCost'/>"/>
+	<entry name="ProductionFromAdjacentBuildings" value="Вытворчасьць за Кожны Суседні Будынак"/>
+	<entry name="ProductionFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="Radius" value="Радыус"/>
+	<entry name="RadiusDescription" value=""/>
+	<entry name="RadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="Range" value="Далёкасьць"/>
+	<entry name="RangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeDescription" value=""/>
+	<entry name="RangeMax" value="Максімальная Далёкасьць"/>
+	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeMin" value="Мінімальная Далёкасьць"/>
+	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangedAccuracy" value="Трапнасьць Далёкага Бою"/>
+	<entry name="RangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="RangedArmorPenetration" value="Прабіваньне Брані Далёкага Бою"/>
+	<entry name="RangedArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="RangedAttacks" value="Атакі Далёкага Бою"/>
+	<entry name="RangedAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="RangedDamage" value="Шкода Далёкага Бою"/>
+	<entry name="RangedDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RangedDamageReduction" value="Зьніжэньне Шкоды Далёкага Бою"/>
+	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RangedDamageReductionBypass" value="Абход Зьніжэньне Шкоды Далёкага Бою"/>
+	<entry name="RangedDamageTaken" value="Шкода Атрыманая ў Далёкім Боі"/>
+	<entry name="RangedDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RangedInvulnerableDamageReduction" value="Зьніжэньне Няўразьлівай Шкоды Далёкага Бою"/>
+	<entry name="RangedInvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RequiredActionPoints" value="Патрэбныя Дзеяньні"/>
+	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="RequiredMovement" value="Патрэбны Рух"/>
+	<entry name="RequiredMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Requisitions" value="Рэквізіцыі"/>
+	<entry name="RequisitionsIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="RequisitionsCost" value="Кошт Рэквізіцый"/>
+	<entry name="RequisitionsCostIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="RequisitionsUpkeep" value="Ўтрыманьне Рэквізіцый"/>
+	<entry name="RequisitionsUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="Research" value="Дасьледаваньне"/>
+	<entry name="ResearchHint" value="<style name='Title'/>Дасьледаваньне<br/><style name='Default'/>Выкарыстоўваецца для адкрыцьця новых тэхналогій."/>
+	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchCost" value="Кошт Дасьледваньняў"/>
+	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchFromAdjacentBuildings" value="Дасьледаваньняў за Кожны Суседні Будынак"/>
+	<entry name="ResearchFromAdjacentBuildingsIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerExperience" value="Дасьледаваньні за Досьвед"/>
+	<entry name="ResearchPerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerKillValue" value="Дасьледаваньні за Забойствы"/>
+	<entry name="ResearchPerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchUpkeep" value="Ўтрыманьне Дасьледваньняў"/>
+	<entry name="ResearchUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResourcesFromFeatures" value="Рэсурсы ад Мясцовасьці"/>
+	<entry name="ResourcesFromFeaturesIcon" value="<icon height='20' texture='Icons/Features/Grassland'/>"/>
+	<entry name="Sight" value="Агляд"/>
+	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
+	<entry name="SightDescription" value="Вызначае далёкасьць агляду адзінкі.<br/><br/>Агляд абмежаваны асаблівасьцямі мясцовасьці, напрыклад, лесам, дымам або скаламі."/>
+	<entry name="SlotsRequired" value="Патрэбна Слотаў"/>
+	<entry name="SupportSystemSlots" value="Сістэма Падтрымкі Слотаў"/>
+	<entry name="SupportSystemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/SupportSystemSlots'/>"/>
+	<entry name="TargetArmor" value="Браня Цэлі"/>
+	<entry name="TargetArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="Turns" value="Крокаў"/>
+	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="TypeLimit" value="Тып Абмежаваньня"/>
+	<entry name="WitchfireDamageReduction" value="Зьніжэньне Шкоды ад Вядзьмарскага Агню"/>
+	<entry name="WitchfireDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	
+	<!-- Faction-specific -->
+	<entry name="BiomassHint" value="<style name='Title'/>Біямаса<br/><style name='Default'/>Выкарыстоўваецца для падтрыманьня насельніцтва ў гарадах, будаваньня будынкаў, а таксама вытворчасьці і ўтрыманьня адзінак."/>
+	<entry name="EnergyHint" value="<style name='Title'/>Энергія<br/><style name='Default'/>Выкарыстоўваецца для абслугоўваньня будынкаў, а таксама для вытворчасьці і абслугоўваньня адмысловых адзінак."/>
+	<entry name="FoodHint" value="<style name='Title'/>Ежа<br/><style name='Default'/>Выкарыстоўваецца для падтрыманьня насельніцтва ў гарадах, а таксама для вытворчасьці і падтрыманьня біялагічных адзінак."/>
+	<entry name="OreHint" value="<style name='Title'/>Руда<br/><style name='Default'/>Выкарыстоўваецца для будаваньня будынкаў, а таксама для вытворчасьці і абслугоўваньня механічных адзінак."/>
+	<entry name="AdeptusMechanicus/InfluenceHint" value="<string name='Attributes/Tau/InfluenceHint'/>"/>
+	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, выданьня эдыктаў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, закліку Пазнак Хаосу, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, ужываньня адмысловых здольнасьцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="Necrons/EnergyHint" value="<style name='Title'/>Энергія<br/><style name='Default'/>Выкарыстоўваецца для будаваньня будынкаў і вытворчасьці адзінак."/>
+	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, ужываньню адмысловых здольнасьцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="Necrons/OreHint" value="<style name='Title'/>Руда<br/><style name='Default'/>Выкарыстоўваецца для падтрыманьня насельніцтва ў гарадах, а таксама для абслугоўваньня будынкаў і адзінак."/>
+	<entry name="Orks/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, падтрымкі Вааагх!, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="SistersOfBattle/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і абслугоўваньня гарадзкіх плітак, правядзеньня сьвяшчэнных абрадаў, а таксама рэкрутаваньня магутных адзінак-герояў і куплі іх прадметаў."/>
+	<entry name="SistersOfBattle/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Выкарыстоўваюцца для падтрыманьня насельніцтва ў горадзе, будаваньні будынкаў, а таксама вытворчасьці і абслугоўваньня адзінак."/>
+	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, выкарыстаньня тактык і аперацый, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>Рэквізіцыі<br/><style name='Default'/>Выкарыстоўваюцца для падтрыманьня насельніцтва ў горадзе, будаваньні будынкаў, а таксама вытворчасьці і абслугоўваньні адзінак."/>
+	<entry name="Tau/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, ужываньня адмысловых здольнасьцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="Tyranids/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, падтрыманьня будынкаў, ужываньня адмысловых здольнасьцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+</language>

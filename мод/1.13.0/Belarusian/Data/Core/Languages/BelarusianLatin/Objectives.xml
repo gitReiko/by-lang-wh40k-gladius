@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulateBiomassDescription" value="Nazapasić bijamasu (%1%/%2%)."/>
+	<entry name="AccumulateInfluenceDescription" value="Nazapasić upłyŭ (%1%/%2%)."/>
+	<entry name="AccumulateKillExperienceDescription" value="Nazapasić dośvied ad zabojstvaŭ (%1%/%2%)."/>
+	<entry name="AccumulatePopulationDescription" value="Nazapasić nasielnictva (%1%/%2%)."/>
+	<entry name="AccumulateResearchDescription" value="Nazapasić daśledavańni (%1%/%2%)."/>
+	<entry name="ActivateCanticleDescription" value="Aktyvujcie śpieŭ (%1%/1)."/>
+	<entry name="ActivateDoctrinaDescription" value="Aktyvujcie daktrynu (%1%/1)."/>
+	<entry name="ActivateUnitDescription" value="Aktyvavać %1% (%2%/1)."/>
+	<entry name="ActivateSacredRiteDescription" value="Aktyvavać śviaščenny abrad (%1%/%2%)."/>
+	<entry name="ActivateTacticDescription" value="Aktyvavać taktyku padziełu (%1%/1)."/>
+	<entry name="CaptureUnitDescription" value="Zachapić %1% (%2%/1)."/>
+	<entry name="ClaimWebwayGateWithCelestineDescription" value="Pierasunuć <string name='Units/SistersOfBattle/SaintCelestine'/> na plitku, susiedniuju da <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="ClearHolySiteDescription" value="Daśledavać <string name='Features/HolySite'/> Špitaljerkami (%1%/%2%)."/>
+	<entry name="ClearInfestationDescription" value="Źniščyć %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingDescription" value="Pabudavać %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingOnSameTileDescription" value="Pabudujcie %1% na toj ža plitcy (%2%/%3%)."/>
+	<entry name="ConstructFeatureDescription" value="Pabudavać %1% (%2%/%3%)."/>
+	<entry name="ConsumeTileDescription" value="Spažyć plitku małantropam (%2%/%3%)."/>
+	<entry name="ControlCityDescription" value="Kantralavać harady (%1%/%2%)."/>
+	<entry name="ControlOutpostDescription" value="Kantralavać avanposty (%1%/%2%)."/>
+	<entry name="ControlUnitDescription" value="Trymać pad kantrolem %1% (%2%/1)."/>
+	<entry name="DefendTileDescription" value="Baranić adznačanuju plitku."/>
+	<entry name="DefendTileWithTurnLimitDescription" value="Baranić adznačanuju plitku (%1% krokaŭ)."/>
+	<entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Baranić niadaŭna znojdzieny ŭvachod %1% krokaŭ (%2%/1)."/>
+	<entry name="DeployFortressDescription" value="Razharnuć %1% pobač z admysłovym resursam i achoŭvać pierymietr (%2%/1)."/>
+	<entry name="DeployGunDroneDescription" value="Razharnuć <string name='Units/Tau/GunDrone'/> (%2%/%3%)."/>
+	<entry name="DestroySpawnedCityDescription" value="Źniščyć horad Astra Militarum (%1%/1)."/>
+	<entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
+	<entry name="ExploreDepthsDescription" value="Adpravić adzinki ŭ hłybini płaniety:"/>
+	<entry name="FoundCityDescription" value="Pabudavać novy horad (%1%/1)."/>
+	<entry name="FoundCityNearEntranceDescription" value="Pabudavać novy horad u radyusie 3 plitak ad niadaŭna vyjaŭlenaha ŭvachodu (%1%/1)."/>
+	<entry name="FoundCityOnNecronTombDescription" value="Pabudavać novy horad na adznačanaj plitcy (%1%/1)."/>
+	<entry name="GenerateResearchFromExperienceDescription" value="Zabić varožuju adzinku ŭ radyusie 3 kletak ad Małantropa (%1%/%2%)"/>
+	<entry name="InfiltrateCampWithUnitTypeDescription" value="Pierasuńcie %1% na plitku susiedniuju da varožaj krepaści (%2%/%3%)."/>
+	<entry name="InvokeCultistSacrificeDescription" value="Vykarystać %1% z kultystami chaosu (%2%/%3%)."/>
+	<entry name="InvokeRapidRiseOnWarriorDescription" value="Vykarystać chutki ŭzdym pry vytvorčaści Vajaroŭ-Niekronaŭ (%1%/1)."/>
+	<entry name="InvokeRiteDescription" value="Vykarystać %1% u horadzie (%2%/%3%)."/>
+	<entry name="KeepUnitAliveDescription" value="Zachoŭvać %1% žyvym (%2%/1)."/>
+	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
+	<entry name="KillCampDescription" value="Źniščyć varožy stan (%1%/1)."/>
+	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Źniščycie Demana-Prynca, jaki vykonvaje rytuał za %2% krokaŭ (%1%/1)."/>
+	<entry name="KillCampWithDeceiverDescription" value="Znajdzicie i źniščycie Ašukanca (%1%/1)."/>
+	<entry name="KillCampWithFortressOfRedemptionDescription" value="Źniščycie miaciežnuju Krepaść Adkupleńnia (%1%/1)."/>
+	<entry name="KillCampWithOrksDescription" value="Źniščycie łahier Orkaŭ (%1%/1)."/>
+	<entry name="KillCampWithKastelansDescription" value="Źniščycie abo zachapicie łahier Kaštelanaŭ (%1%/1)."/>
+	<entry name="KillCampWithRebelNecronArmyDescription" value="Źniščycie miaciežnaje vojska Niekronaŭ (%1%/1)."/>
+	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Źniščycie miaciežnaha Technažraca i jaho kantynhient elitnych robataŭ za %2% krokaŭ (%1%/1)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Źniščyć varožy stan za %2% krokaŭ (%1%/1)."/>
+	<entry name="KillCampWithTyranidsDescription" value="Źniščycie vulej Tyranidaŭ (%1%/1)."/>
+	<entry name="KillCampWithWebwayGateDescription" value="Pieramažycie siły Aeldary, što baroniać <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="KillLordOfSkullsActiveDescription" value="Źniščyć %1% za %4% krokaŭ (%2%/%3%)."/>
+	<entry name="KillLordOfSkullsInactiveDescription" value="Pačakajcie pakul %1% vierniecca ŭ hety śviet (0/1)."/>
+	<entry name="KillSpawnedUnitsDescription" value="Źniščycie razroźnienyja adzinki (%1%/%2%)."/>
+	<entry name="KillUmbraDescription" value="Źniščycie Umbru (%1%/1)."/>
+	<entry name="KillUnitDescription" value="Źniščycie %1% (%2%/%3%)."/>
+	<entry name="KillUnitNativeDescription" value="Źniščycie miascovych Ksienasaŭ (%1%/%2%)."/>
+	<entry name="KillUnitWithTokenDescription" value="Źniščycie %1% (%2%/1)."/>
+	<entry name="MoveUnitIntoCityDescription" value="Pierasuńcie %1% u haradzkuju štabkvateru (%2%/1)."/>
+	<entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Hienierujcie %1% łajalnaść ad Utopii za krok (u hety momant %2%) (%3%/1)."/>
+	<entry name="ProduceUnitDescription" value="Stvarycie adzinku (%2%/%3%)."/>
+	<entry name="ProduceUnitOfTypeDescription" value="Stvarycie %1% (%2%/%3%)."/>
+	<entry name="ProduceUnitWithTraitDescription" value="Stvarycie adzinku z %1% asablivaściu (%2%/%3%)."/>
+	<entry name="ProduceRequisitionsPerTurnDescription" value="Hienierujcie %1% rekvizicyj za krok (u hety momant %2%) (%3%/1)."/>
+	<entry name="RaiseLoyaltyDescription" value="Uźnimicie łajalnaść u svaim horadzie-stalicy prynamsi da %1% na 1 krok (%2%/1)."/>
+	<entry name="ReachLevelDescription" value="Dasiahnicie ŭzrovień %2% z %1% (%3%/1)."/>
+	<entry name="ReclaimUnitDescription" value="Vykarystajcie luby vytvorčy budynak, kab adnavić adzinku (%2%/%3%)."/>
+	<entry name="RecoverArcheotechDescription" value="Kupicie artefakty (%1%/%2%)."/>
+	<entry name="RecoverUnitDescription" value="Pierahrupujcie razroźnienyja adzinki (%1%/%2%)."/>
+	<entry name="ResearchUpgradeDescription" value="Daśledujcie %1% (%2%/%3%)."/>
+	<entry name="ResearchUpgradeTierDescription" value="Adkryjcie palapšeńnie %1% lubaha uzroŭniu (%2%/1)."/>
+	<entry name="ScanTilesDescription" value="Vykarystajcie %1% na adznačanych plitkach (%2%/%3%)."/>
+	<entry name="StartEdictDescription" value="Pačnicie haradzki edykt (%1%/1)."/>
+	<entry name="SurviveInvasionDescription" value="Pieražyvicie napad i zabicie ŭsich zachopnikaŭ (%1%/1)."/>
+	<entry name="SurviveInvasionWithTurnLimitDescription" value="Pieražyvicie napad %1% krokaŭ (%2%/1)."/>
+	<entry name="UseCityAbilityDescription" value="Vykarystajcie %1% u vašym horadzie (%2%/%3%)."/>
+	<entry name="UseConvertWildlifeDescription" value="Vykarystajcie %1% na vandroŭnym aŭksiliaryi (%2%/%3%)."/>
+	<entry name="UseMarkDescription" value="Vykarystajcie %1% na adzincy (%2%/%3%)."/>
+	<entry name="UseMarkerlightDescription" value="Vykarystajcie %1% na varožaj adzincy (%2%/%3%)."/>
+	<entry name="UsePurchaseFoodDescription" value="Vykarystajcie %1%, kab nabyć ježu (%2%/%3%)."/>
+	<entry name="UsePurchaseOreDescription" value="Vykarystajcie %1%, kab nabyć rudu (%2%/%3%)."/>
+	<entry name="UsePurchaseEnergyDescription" value="Vykarystajcie %1%, kab nabyć enierhiju (%2%/%3%)."/>
+	<entry name="UsePurchasePopulationDescription" value="Vykarystajcie %1% u vašym horadzie (%2%/%3%)."/>
+	<entry name="VisitTileAndClearEnemiesDescription" value="Naviedajcie adznačanuju plitku i zaścieražycie pierymietr (%4%/%2%)."/>
+	<entry name="VisitTileChaosCultistWithUnitTypeAndTurnLimitDescription" value="Achviarujcie %3% na adznačanaj plitcy za %5% krokaŭ (%1%/%2%)."/>
+	<entry name="VisitTileDaemonPrinceWithUnitTypeDescription" value="Naviedajcie adznačanuju plitku %3% (%1%/%2%)."/>
+	<entry name="VisitTileDescription" value="Naviedajcie adznačanuju plitku (%1%/%2%)."/>
+	<entry name="VisitTileExoditeWithUnitTypeDescription" value="Naviedajcie adznačanuju plitku %3% (%1%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeAndClearEnemiesDescription" value="Naviedajcie adznačanuju plitku %3% i zaścieražycie pierymietr (%4%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeAndTurnLimitDescription" value="Naviedajcie adznačanuju plitku %3% za %5% krokaŭ (%1%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeDescription" value="Naviedajcie adznačanuju plitku %3% (%1%/%2%)."/>
+</language>
