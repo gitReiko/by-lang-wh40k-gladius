@@ -142,6 +142,8 @@
 	<entry name="InfluencePerDamageIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluencePerExperience" value="Upłyvu za Dośvied"/>
 	<entry name="InfluencePerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerKillValue" value="Upłyvu za Kožnaje Zabojstva"/>
+	<entry name="InfluencePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceUpkeep" value="Ŭtrymańnie Upłyvu"/>
 	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InvulnerableDamageReduction" value="Źnižeńnie Škody ad Nieparažalnaści"/>
@@ -307,6 +309,7 @@
 	<entry name="AdeptusMechanicus/InfluenceHint" value="<string name='Attributes/Tau/InfluenceHint'/>"/>
 	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, vydańnia edyktaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
 	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, zakliku Paznak Chaosu, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
+	<entry name="Drukhari/InfluenceHint" value="<string name='Attributes/Eldar/InfluenceHint'/>"/>
 	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, užyvańnia admysłovych zdolnaściaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>
 	<entry name="Necrons/EnergyHint" value="<style name='Title'/>Enierhija<br/><style name='Default'/>Vykarystoŭvajecca dla budavańnia budynkaŭ i vytvorčaści adzinak."/>
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Upłyŭ<br/><style name='Default'/>Vykarystoŭvajecca dla nabyćcia i zachavańnia plitak haradoŭ, užyvańniu admysłovych zdolnaściaŭ, a taksama dla naboru dužych hierojaŭ i kupli dla ich pradmietaŭ."/>

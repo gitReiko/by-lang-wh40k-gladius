@@ -127,6 +127,45 @@
 	<entry name="ChaosSpaceMarines/VehiclesDescription" value="Будынак, які вырабляе наземные машыны, а таксама руду і ўплыў."/>
 	<entry name="ChaosSpaceMarines/VehiclesFlavor" value="Normally confined to the Soul Forges of the Warp, these incomprehensible mechanoid structures are responsible for the creation of all Daemon vehicles. Here, Mechatendril-wreathed Warpsmiths oversee the breaking and corruption of Machine Spirits of captured Imperial vehicles, as well as the forcible incorporation of Lesser Daemons, machinery and tortured flesh into Daemon Engines."/>
 	<entry name="CompendiumFlavor" value="From the shanty town huts of the Orks, to the billion-person hives of the Imperium, to the space-faring Craftworlds of the Aeldari, to the ancient mastaba of the Necrons, almost every race produces structures to satisfy their needs—whether that's construction, shelter, or merely pride. Perhaps only the Tyranids, in their insatiable search for new biological materials, lack permanent structures, instead relying on a range of semi-mobile birthing organisms…"/>
+	<entry name="Drukhari/Aircraft" value="Драпежнае Гняздо"/>
+	<entry name="Drukhari/AircraftDescription" value="Будынак, які вырабляе авіяцыю, а таксама генеруе энергію, дасьледаваньні і руду."/>
+	<entry name="Drukhari/AircraftFlavor" value="The ancient spires of Commorragh are host inside and out to horrors. Atop them are the homes of Scourges and Hellions, Drukhari who ride the air currents wafting up from the impossible city’s impossible depths, from the machinery and torment and death. Even here, on the doomed world of Gladius Prime, these aethereal monsters have their place."/>
+	<entry name="Drukhari/Construction" value="Маёнтак Майстра Задач"/>
+	<entry name="Drukhari/ConstructionDescription" value="Будынак, які будуе новыя будынкі, здабывае руду, генеруе дасьледаваньні і павялічвае ўзрост."/>
+	<entry name="Drukhari/ConstructionFlavor" value="“So great was the fear, so horrible the punishments, that the threat of pain was a much greater motivation than the pain itself, so we seldom had to use it. But use it we did, an unpredictable torture driven by our insidious depravity and our labourers responded with alacrity…” — Ilthea the Faded, former Archon of the Withered Heart Kabal, prisoner of Inquisitor Jey Carnaa."/>
+	<entry name="Drukhari/Energy" value="Ільмая"/>
+	<entry name="Drukhari/EnergyDescription" value="Будынак, які генеруе энергію."/>
+	<entry name="Drukhari/EnergyFlavor" value="How the ancient Aeldari captured the hearts of dying stars and transported them to their webway trading ports is impossible to explain outside of abstruse equations. Still, these dark stars now provide power to all of Commorragh. In realspace raids, for energy, the Drukhari employ a generative device that reflects the glory of these tortured stars."/>
+	<entry name="Drukhari/Food" value="Логава Сілкаваньня"/>
+	<entry name="Drukhari/FoodDescription" value="Будынак, які вырабляе ежу."/>
+	<entry name="Drukhari/FoodFlavor" value="The Drukhari themselves eat little, subsisting mainly on the suffering of their victims and indentured workers. What they do consume are unusual luxuries, replete with anguish, produced at improbable expense. But the massed numbers of their workers require food to do the terrible tasks demanded of them, and they produce it here, efficiently, wasting nothing."/>
+	<entry name="Drukhari/Headquarters" value="Крэпасьць Рэйдараў"/>
+	<entry name="Drukhari/HeadquartersDescription" value="Будынак штабкватэры, які генеруе рэсурсы."/>
+	<entry name="Drukhari/HeadquartersFlavor" value="“Oh, dark Commorragh, how I miss thee. Your streets of pain and ichor, the delights of your dark gardens, the roar of the arena crowd, the hellion-swarmed towers of the Archons… in my cell, memories are all I have.” — Ilthea the Faded, former Archon of the Withered Heart Kabal, prisoner of Inquisitor Jey Carnaa."/>
+	<entry name="Drukhari/Heroes" value="Зоркачос"/>
+	<entry name="Drukhari/HeroesDescription" value="Будынак, які падрыхтоўвае герояў, а таксама генеруе ўплыў і павялічвае лаяльнасьць."/>
+	<entry name="Drukhari/HeroesFlavor" value="The spires of Commorragh start in the ancient trading districts of the Aeldari Empire, but reach up across the Labyrinth Dimension, linked across its non-Euclidean physics by willowy bridges. Here live the Archons, Dracons and leaders of the Kabals, in relative luxury and security."/>
+	<entry name="Drukhari/Housing" value="Логава Клетак"/>
+	<entry name="Drukhari/HousingDescription" value="Будынак, які павялічвае ліміт насельніцтва."/>
+	<entry name="Drukhari/HousingFlavor" value="The Kabalites and Wyches do not live here, of course—mostly they return to Commorragh between raids. But the former citizens of Gladius Prime’s major hive cities are now, ah, indentured workers for the Drukhari. The accommodation—razormesh cages open to the elements, patrolled by sadistic guards—is only marginally worse than the humans were used to."/>
+	<entry name="Drukhari/Infantry" value="Kabalite Stronghold"/>
+	<entry name="Drukhari/InfantryDescription" value="Building that produces infantry as well as generates influence and food and increases population limit."/>
+	<entry name="Drukhari/InfantryFlavor" value="The Kabals of the Dark Eldar are a mix of criminal cartel, pirate fraternity and noble household, like the ancient Earth Mafia or Triads. A Kabal takes only the best (or worst) of Drukhari society—sadists, thieves, murderers—in other words, the pillars of the Drukhari community. They also supply the military strength of Commorragh, deployed in its defense or on real-space raids."/>
+	<entry name="Drukhari/Influence" value="Bone Middens"/>
+	<entry name="Drukhari/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="Drukhari/InfluenceFlavor" value="This massive ossuary is comprised of millions of skeletons, representative of each self-aware species in existence, ranging in size from insects to massive colossi, positioned in grim tableaus and mock battles. It is a reflection of the wider torture and death occurring throughout the Drukhari claim."/>
+	<entry name="Drukhari/Loyalty" value="Cult Arena"/>
+	<entry name="Drukhari/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="Drukhari/LoyaltyFlavor" value="The ageless Wyches and Succubi of the Drukhari Arenas treat its murderous combat as the height of elegance, turning up elegantly atired in the latest flayfashions to decapitate and torment groups of combatants at a time, in styles that will define murder for many, many hours. The audience gets to share in the suffering and the entertainment, emerging refreshed and invigorated by the mass slaughter."/>
+	<entry name="Drukhari/Ore" value="Barter-Port"/>
+	<entry name="Drukhari/OreDescription" value="Building that harvests ore."/>
+	<entry name="Drukhari/OreFlavor" value="In the cosmopolitan barter-ports of the Drukhari empire, every race can be found, as mercenaries, as traders and even as trade goods. Everything that can be dreamt of can be found there, stolen or bartered. This thin reflection of their glory trades the wealth of Gladius Prime for metals."/>
+	<entry name="Drukhari/Research" value="Haemonculi Laboratory"/>
+	<entry name="Drukhari/ResearchDescription" value="Building that generates research."/>
+	<entry name="Drukhari/ResearchFlavor" value="The cruel and ancient Drukhari known as the Haemonculi live in the dark underbelly of the Dark City. Here they perform physical experiments on the weak, desperate or indentured, turning them into Wracks, Grotesques, Cronos and more. The lost knowledge in these immortal’s twisted skulls can be recovered, but the sacrifice is to attempt communication…"/>
+	<entry name="Drukhari/Vehicles" value="Dark Foundry"/>
+	<entry name="Drukhari/VehiclesDescription" value="Building that produces ground vehicles and monstrous creatures as well as harvests ore and generates research."/>
+	<entry name="Drukhari/VehiclesFlavor" value="The material foundries of Commorragh exist deep beneath the city, where countless Drukhari and xenos workers live and die without ever seeing the light of its black suns, kept in constant pain, torment and misery, driven on by a fear of death. The Kabal requisitioners do their best to replicate this ideal wherever they travel."/>
 	<entry name="Eldar/Aircraft" value="Партал-Шпіль"/>
 	<entry name="Eldar/AircraftDescription" value="Будынак, які вырабляе авіяцыю, а таксама генеруе энергію, дасьледаваньні і ўплыў."/>
 	<entry name="Eldar/AircraftFlavor" value="Raised high above the ground, this coiled Webway opening enables Aeldari aircraft to travel straight from the immaterium to Gladius Prime whilst having a slower transition of air pressure, composition and local gravity compared to the unearthly forms present in the twisted  space between the stars."/>

@@ -142,6 +142,8 @@
 	<entry name="InfluencePerDamageIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluencePerExperience" value="Уплыву за Досьвед"/>
 	<entry name="InfluencePerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerKillValue" value="Уплыву за Кожнае Забойства"/>
+	<entry name="InfluencePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceUpkeep" value="Ўтрыманьне Уплыву"/>
 	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InvulnerableDamageReduction" value="Зьніжэньне Шкоды ад Непаражальнасьці"/>
@@ -307,6 +309,7 @@
 	<entry name="AdeptusMechanicus/InfluenceHint" value="<string name='Attributes/Tau/InfluenceHint'/>"/>
 	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, выданьня эдыктаў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, закліку Пазнак Хаосу, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
+	<entry name="Drukhari/InfluenceHint" value="<string name='Attributes/Eldar/InfluenceHint'/>"/>
 	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, ужываньня адмысловых здольнасьцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
 	<entry name="Necrons/EnergyHint" value="<style name='Title'/>Энергія<br/><style name='Default'/>Выкарыстоўваецца для будаваньня будынкаў і вытворчасьці адзінак."/>
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Уплыў<br/><style name='Default'/>Выкарыстоўваецца для набыцьця і захаваньня плітак гарадоў, ужываньню адмысловых здольнасьцяў, а таксама для набору дужых герояў і куплі для іх прадметаў."/>
