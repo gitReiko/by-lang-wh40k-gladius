@@ -630,136 +630,136 @@
 	<entry name="DozerBladeDescription" value="Зьніжае штраф руху па лясах і імперскіх руінах."/>
 	<entry name="DozerBladeFlavor" value="Dozer blades are heavy ploughs, blades, rams, or scoops, used to clear obstacles from the vehicle's path."/>
 	<entry name="Drukhari/AncientEvil" value="<string name='Actions/Drukhari/AncientEvil'/>"/>
-	<entry name="Drukhari/AncientEvilDescription" value="Attacked units lose morale."/>
+	<entry name="Drukhari/AncientEvilDescription" value="Атакаваныя адзінкі страчваюць мараль."/>
 	<entry name="Drukhari/AncientEvilFlavor" value="<string name='Actions/Drukhari/AncientEvilFlavor'/>"/>
-	<entry name="Drukhari/AssaultWeaponBonus" value="Assault Weapon Bonus"/>
-	<entry name="Drukhari/AssaultWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Drukhari/AssaultWeaponBonus" value="Бонус Штурмавой Зброі"/>
+	<entry name="Drukhari/AssaultWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Drukhari/AssaultWeaponBonusFlavor" value="The weaponmasters of the Kabalite foundries possess access to weapon variants normally considered impossible or totally unethical. Which, of course, is simply a question about how much a particular Archon is willing to pay to get them."/>
-	<entry name="Drukhari/BetrayalCulture" value="Betrayal Culture"/>
-	<entry name="Drukhari/BetrayalCultureDescription" value="Drukhari cities have lower loyalty by default. They get additional loyalty as they gather Influence."/>
+	<entry name="Drukhari/BetrayalCulture" value="Здрадніцкая Культура"/>
+	<entry name="Drukhari/BetrayalCultureDescription" value="Друкхарскія гарады адпачатку маюць зьніжаную лаяльнасьць. Яны атрымліваюць дадатковую лаяльнасьць па меры назапашваньня Ўплыву."/>
 	<entry name="Drukhari/BetrayalCultureFlavor" value="To the depraved Drukhari, it seems normal for a child betraying their parents into an eternity of torture just for the merest inkling of advantage. There is no trust in a Drukhari city, only power. The more powerful you are, the more will flock to your side."/>
 	<entry name="Drukhari/BetrayalCultureUpgrade" value="<string name='Upgrades/Drukhari/BetrayalCultureUpgrade'/>"/>
 	<entry name="Drukhari/BetrayalCultureUpgradeDescription" value="<string name='Upgrades/Drukhari/BetrayalCultureUpgradeDescription'/>"/>
 	<entry name="Drukhari/BetrayalCultureUpgradeFlavor" value="<string name='Upgrades/Drukhari/BetrayalCultureUpgradeDescription'/>"/>
-	<entry name="Drukhari/BladeArtists" value="Blade Artists"/>
-	<entry name="Drukhari/BladeArtistsDescription" value="Increases the armour penetration in melee."/>
+	<entry name="Drukhari/BladeArtists" value="Мастакі Ляза"/>
+	<entry name="Drukhari/BladeArtistsDescription" value="Павялічвае бронепрабівальнасьць блізкага бою."/>
 	<entry name="Drukhari/BladeArtistsFlavor" value="Every denizen of Commorragh learns from a young age the value of blades, and all are adept in their usage, whether those wielded by their cruel hands or as part of their razor-edged armour."/>
-	<entry name="Drukhari/BladeWhip" value="Blade Whip"/> 
-	<entry name="Drukhari/BladeWhipDescription" value="Increases accuracy."/>
+	<entry name="Drukhari/BladeWhip" value="Пуга с Лёзамі"/> 
+	<entry name="Drukhari/BladeWhipDescription" value="Павялічвае трапнасьць."/>
 	<entry name="Drukhari/BladeWhipFlavor" value="Only the Lacerai about the Wych cults regularly utilise the segmented blade known as a Razorflail, but their ability with it is legendary. Attacks that seem certain to miss curve to connect, shifting between whips and blades at will."/>
 	<entry name="Drukhari/BloodDancer" value="<string name='Actions/Drukhari/BloodDancer'/>"/>
 	<entry name="Drukhari/BloodDancerDescription" value="<string name='Actions/Drukhari/BloodDancerDescription'/>"/>
 	<entry name="Drukhari/BloodDancerFlavor" value="<string name='Actions/Drukhari/BloodDancerFlavor'/>"/>
 	<entry name="Drukhari/BonusResources" value="<string name='Actions/Drukhari/BonusResources'/>"/>
-	<entry name="Drukhari/BonusResourcesDescription" value="Increases the output of buildings."/>
+	<entry name="Drukhari/BonusResourcesDescription" value="Павялічвае вытворчасьць будынкаў."/>
 	<entry name="Drukhari/BonusResourcesFlavor" value="<string name='Actions/Drukhari/BonusResourcesFlavor'/>"/>
 	<entry name="Drukhari/BridesOfDeath" value="<string name='Actions/Drukhari/BridesOfDeath'/>"/>
-	<entry name="Drukhari/BridesOfDeathDescription" value="Increases the melee damage."/>
+	<entry name="Drukhari/BridesOfDeathDescription" value="Павялічвае шкоду блізкага бою."/>
 	<entry name="Drukhari/BridesOfDeathFlavor" value="<string name='Actions/Drukhari/BridesOfDeathFlavor'/>"/>
-	<entry name="Drukhari/CityTier2" value="Swollen With Sin"/>
-	<entry name="Drukhari/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="Drukhari/CityTier2" value="Грахоўная Распухласьць"/>
+	<entry name="Drukhari/CityTier2Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Drukhari/CityTier2Flavor" value="As the Drukhari raiders become accustomed to a planet, their raiding base spreads out more widely, attracting more of the vilest residents of the galaxy, and able to support a larger population of the vile inheritors to the Aeldari. The slums and torture gardens of the city spread further outwards and downwards…"/>
-	<entry name="Drukhari/CityTier3" value="Domain Of Despair"/>
-	<entry name="Drukhari/CityTier3Description" value="Increases the tile acquisition radius."/>
+	<entry name="Drukhari/CityTier3" value="Дамен Роспачы"/>
+	<entry name="Drukhari/CityTier3Description" value="Павялічвае радыус забудовы гарадоў."/>
 	<entry name="Drukhari/CityTier3Flavor" value="So wealthy have the Archons and Dracons of this pirate realm become that they have established palaces for themselves here, knowing full well that they cannot stay, lest She Who Thirsts consume their souls completely. Of course, whilst they are here, they need a constant supply of captives to slake their inhuman lusts and stave off the rotting of their souls."/>
-	<entry name="Drukhari/CombatDrugs" value="Combat Drugs"/>
-	<entry name="Drukhari/CombatDrugsDescription" value="Increases various combat abilities."/>
+	<entry name="Drukhari/CombatDrugs" value="Баявыя Наркотыкі"/>
+	<entry name="Drukhari/CombatDrugsDescription" value="Павялічваюць шматлікія баявыя здольнасьці."/>
 	<entry name="Drukhari/CombatDrugsFlavor" value="Though they drastically shorten the life expectancy of the user, chemical stimulants are widely used to heighten combat performance."/>
-	<entry name="Drukhari/CorsairOutposts" value="Corsair Outposts"/>
-	<entry name="Drukhari/CorsairOutpostsDescription" value="Drukhari cities have lower growth by default. Controlled outposts grant additional growth."/>
+	<entry name="Drukhari/CorsairOutposts" value="Карсарскія Аванпосты"/>
+	<entry name="Drukhari/CorsairOutpostsDescription" value="Друкхарскія гарады адпачатку растуць павольней. Кантроль аванпостаў дае дадатковы ўзрост."/>
 	<entry name="Drukhari/CorsairOutpostsFlavor" value="Though these townships appear like cities to the herd races, the Drukhari will not remain in them long unless they know there is wealth to be found nearby. But more successful raiding bases will attract more Drukhari, keen to get their share of the murder and pain."/>
 	<entry name="Drukhari/CorsairOutpostsUpgrade" value="<string name='Upgrades/Drukhari/CorsairOutpostsUpgrade'/>"/>
 	<entry name="Drukhari/CorsairOutpostsUpgradeDescription" value="<string name='Upgrades/Drukhari/CorsairOutpostsUpgradeDescription'/>"/>
 	<entry name="Drukhari/CorsairOutpostsUpgradeFlavor" value="<string name='Upgrades/Drukhari/CorsairOutpostsUpgradeDescription'/>"/>
-	<entry name="Drukhari/Dodge" value="Dodge"/>
-	<entry name="Drukhari/DodgeDescription" value="Increases the melee damage reduction."/>
+	<entry name="Drukhari/Dodge" value="Ухіленьне"/>
+	<entry name="Drukhari/DodgeDescription" value="Павялічвае зьніжэньне шкоды ад блізкага бою."/>
 	<entry name="Drukhari/DodgeFlavor" value="The diverse warriors – known as Hekatarii – within the Wych Cults wield a wildly divergent array of exotic tools to maim, entrap, slash and skewer. They wear little in the way of armour; their defence is their speed and agility, displaying their arrogance as they dodge the clumsy blows of the foe."/>
-	<entry name="Drukhari/EnergyBuildingBonus" value="Relaxed Ilmaea Manifolds"/>
-	<entry name="Drukhari/EnergyBuildingBonusDescription" value="Increases the energy output."/>
+	<entry name="Drukhari/EnergyBuildingBonus" value="Рэлаксоўныя Калектары Ілмеі"/>
+	<entry name="Drukhari/EnergyBuildingBonusDescription" value="Павялічвае вытворчасьць энергіі."/>
 	<entry name="Drukhari/EnergyBuildingBonusFlavor" value="This power station is only accessing the tiniest fraction of the power of one of the Drukhari’s Ilmaea—the captured Black Suns that ring Commorragh. Relaxing the safety manifolds just a touch boosts the power commensurately—as well as massively increasing the chance the Ilmaea errs and consumes Gladius Prime in a gulp. That’s a risk the near-immortal Drukhari are happy to take."/>
 	<entry name="Drukhari/EnhancedAethersails" value="<string name='Actions/Drukhari/EnhancedAethersails'/>"/>
 	<entry name="Drukhari/EnhancedAethersailsDescription" value="<string name='Actions/Drukhari/EnhancedAethersailsDescription'/>"/>
 	<entry name="Drukhari/EnhancedAethersailsFlavor" value="<string name='Actions/Drukhari/EnhancedAethersailsFlavor'/>"/>
-	<entry name="Drukhari/Flickerfield" value="Flickerfield"/>
-	<entry name="Drukhari/FlickerfieldDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Drukhari/Flickerfield" value="Мігатлівае Поле"/>
+	<entry name="Drukhari/FlickerfieldDescription" value="Павялічвае непаражальнае зьніжэньне шкоды."/>
 	<entry name="Drukhari/FlickerfieldFlavor" value="Flickerfields are highly advanced optical force shields that make the vehicle they are fitted to appear to flicker in and out of reality."/>
-	<entry name="Drukhari/GhostplateArmour" value="Ghostplate Armour"/>
-	<entry name="Drukhari/GhostplateArmourDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Drukhari/GhostplateArmour" value="Браня Прывідных Пласьцін"/>
+	<entry name="Drukhari/GhostplateArmourDescription" value="Павялічвае непаражальнае зьніжэньне шкоды."/>
 	<entry name="Drukhari/GhostplateArmourFlavor" value="Those Dark Eldar who desire a substantial amount of protection whilst retaining a high degree of mobility wear armour made from hardened resins and shot through with pockets of lighter-than-air gas. Ghostplate armour also incorporates minor forcefield technology the better to protect its wearer."/>
 	<entry name="Drukhari/GrislyTrophies" value="<string name='Actions/Drukhari/GrislyTrophies'/>"/>
-	<entry name="Drukhari/GrislyTrophiesDescription" value="Reduces the morale loss."/>
+	<entry name="Drukhari/GrislyTrophiesDescription" value="Зьніжае страты маралі."/>
 	<entry name="Drukhari/GrislyTrophiesFlavor" value="<string name='Actions/Drukhari/GrislyTrophiesFlavor'/>"/>
-	<entry name="Drukhari/HeavyWeaponBonus" value="Heavy Weapon Bonus"/>
-	<entry name="Drukhari/HeavyWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Drukhari/HeavyWeaponBonus" value="Бонус Цяжкай Зброі"/>
+	<entry name="Drukhari/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Drukhari/HeavyWeaponBonusFlavor" value="“Pain is the only universal constant. Pain is all. It is the key to creation and destruction both. Thus does he who masters pain become a god.” – Urien Rakarth, Master of the Haemonculi"/>
 	<entry name="Drukhari/MasterOfPain" value="<string name='Actions/Drukhari/MasterOfPain'/>"/>
-	<entry name="Drukhari/MasterOfPainDescription" value="Grants additional feel no pain damage reduction."/>
+	<entry name="Drukhari/MasterOfPainDescription" value="Дае дадатковае зьніжэньне шкоды ад Адсутнасьці Пачуцьця Болю."/>
 	<entry name="Drukhari/MasterOfPainFlavor" value="<string name='Actions/Drukhari/MasterOfPainFlavor'/>"/>
-	<entry name="Drukhari/MeleeWeaponBonus" value="Melee Weapon Bonus"/>
-	<entry name="Drukhari/MeleeWeaponBonusDescription" value="Increases the armour penetration."/>
+	<entry name="Drukhari/MeleeWeaponBonus" value="Бонус Зброі Блізкага Бою"/>
+	<entry name="Drukhari/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Drukhari/MeleeWeaponBonusFlavor" value="“Do not hope for a new day, little mortals. The Drukhari have you now and our grip is unshakeable. I assure you, all you will know now is eternal night—and eternal torment.” – Gyrthineus Roche, Archon of The Last Blade"/>
-	<entry name="Drukhari/NightShields" value="Night Shields"/>
-	<entry name="Drukhari/NightShieldsDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Drukhari/NightShields" value="Начныя Шчыты"/>
+	<entry name="Drukhari/NightShieldsDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Drukhari/NightShieldsFlavor" value="The vehicle is covered by a broad-spectrum displacement field, enveloping it in cold and inky darkness. Foes find the vehicle hard to target, hidden as it is within a cloak of roiling shadow."/>
 	<entry name="Drukhari/NoEscape" value="<string name='Actions/Drukhari/NoEscape'/>"/>
-	<entry name="Drukhari/NoEscapeDescription" value="Reduces the movement."/>
+	<entry name="Drukhari/NoEscapeDescription" value="Зьніжае рух."/>
 	<entry name="Drukhari/NoEscapeFlavor" value="<string name='Actions/Drukhari/NoEscapeFlavor'/>"/>
 	<entry name="Drukhari/Overlord" value="<string name='Actions/Drukhari/Overlord'/>"/>
 	<entry name="Drukhari/OverlordDescription" value="Increases the accuracy."/>
 	<entry name="Drukhari/OverlordFlavor" value="<string name='Actions/Drukhari/OverlordFlavor'/>"/>
-	<entry name="Drukhari/PowerFromPain" value="Power from Pain"/>
-	<entry name="Drukhari/PowerFromPainDescription" value="Grants combat bonuses as the unit levels up. Increases damage reduction above level 2, increases melee damage above level 5 and reduces the morale loss above level 9."/>
+	<entry name="Drukhari/PowerFromPain" value="Моц ад Болю"/>
+	<entry name="Drukhari/PowerFromPainDescription" value="Дае баявыя бонусы па меры павышэньня роўня адзінкі. Павялічвае зьніжэньне шкоды пасьля 2 роўня; павялічвае шкоду блізкага бою пасьля 5 роўня; зьніжае страты маралі пасьля 9 роўня."/>
 	<entry name="Drukhari/PowerFromPainFlavor" value="As Dark Eldar feed on the souls of their foes, they become imbued with supernatural might, eventually turning into killing machines."/>
-	<entry name="Drukhari/RaidersTactics" value="Raiders Tactics"/>
-	<entry name="Drukhari/RaidersTacticsDescription" value="Grants bonus traits when this unit disembarks from a transport."/>
+	<entry name="Drukhari/RaidersTactics" value="Рэйдарская Тактыка"/>
+	<entry name="Drukhari/RaidersTacticsDescription" value="Дае бонусныя асаблівасьці пасьля выгрузкі гэтай адзінкі з транспарту."/>
 	<entry name="Drukhari/RaidersTacticsFlavor" value="“Why do we ride atop these elegant craft? The better to hear the screams of our prey as we ride them down, to savour the fear etched on their faces, to taste the tantalising tang of their blood in the air as an appetiser before the feast. But most of all we ride them so that the slaughter may begin as soon as possible.” – Dariaq Bladetongue of the Pierced Eye"/>
-	<entry name="Drukhari/RaidersTacticsDamage" value="Raider Assault"/>
-	<entry name="Drukhari/RaidersTacticsDamageDescription" value="Increases the damage."/>
+	<entry name="Drukhari/RaidersTacticsDamage" value="Рэйдарскі Штурм"/>
+	<entry name="Drukhari/RaidersTacticsDamageDescription" value="Павялічвае шкоду."/>
 	<entry name="Drukhari/RaidersTacticsDamageFlavor" value="Millenia of depredations on the mortal plane mean the Drukhari are inhuman opportunity predators unparalleled in history. This is partly from centuries of experience, partly from evolution and partly from the adaptations of the Haemonculi. When they emerge from their skycraft, they fall upon their enemy like descending eagles."/>
-	<entry name="Drukhari/RaidersTacticsDamageReduction" value="Raider Evasion"/>
-	<entry name="Drukhari/RaidersTacticsDamageReductionDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Drukhari/RaidersTacticsDamageReduction" value="Рэйдарскае Ўнікненьне"/>
+	<entry name="Drukhari/RaidersTacticsDamageReductionDescription" value="Павялічвае непаражальнае зьніжэньне шкоды."/>
 	<entry name="Drukhari/RaidersTacticsDamageReductionFlavor" value="The Drukhari live to inflict pain—and there are crucial moments in their existence that exemplify this. When an incubi’s glaive falls; when a Wych torments her victim in the arena; and the split-second of deadly surprise as the Drukhari raiders leap from their skycraft…"/>
-	<entry name="Drukhari/RaidersTacticsHealingRate" value="Raider Readiness"/>
-	<entry name="Drukhari/RaidersTacticsHealingRateDescription" value="Increases the healing rate when this unit is embarked in a vehicle."/>
+	<entry name="Drukhari/RaidersTacticsHealingRate" value="Рэйдарская Гатовасьць"/>
+	<entry name="Drukhari/RaidersTacticsHealingRateDescription" value="Павялічвае лячэньне здароўя, калі гэтая адзінка загружана ў транспарт."/>
 	<entry name="Drukhari/RaidersTacticsHealingRateFlavor" value="“Friends—I call you that, though I know you’d knife me in the back at a glance from Vect—friends, hold yourselves ready. The moment is almost here, the herd do not even know we’re coming. In but minutes, we will descend, flay, rend, torment, murder and drink their souls… with style, of course. We’re not savages.” – Gyrthineus Roche, Archon of The Last Blade"/>
 	<entry name="Drukhari/Shadowfield" value="<string name='Actions/Drukhari/Shadowfield'/>"/>
-	<entry name="Drukhari/ShadowfieldDescription" value="Increases the invulnerable damage reduction."/>
+	<entry name="Drukhari/ShadowfieldDescription" value="Павялічвае непаражальнае зьніжэньне шкоды."/>
 	<entry name="Drukhari/ShadowfieldFlavor" value="<string name='Actions/Drukhari/ShadowfieldFlavor'/>"/>
-	<entry name="Drukhari/SacrificeToKhaine" value="Sacrifice to Khaine"/>
-	<entry name="Drukhari/SacrificeToKhaineDescription" value="Increases the damage."/>
+	<entry name="Drukhari/SacrificeToKhaine" value="Ахвяра Кхайну"/>
+	<entry name="Drukhari/SacrificeToKhaineDescription" value="Павялічвае шкоду."/>
 	<entry name="Drukhari/SacrificeToKhaineFlavor" value="The Drukhari do not worship the old Aeldari gods or the OId Ones, save for one—Kaela Mensha Khaine, god of murder and war. Only a handful of Drukhari pay fealty to Khaine and most of those are Incubi, the dark mirrors of the Aeldari aspect warriors. Every time they kill with their ritual glaives, it is in praise of Khaine."/>
-	<entry name="Drukhari/ShroudGate" value="Shroud Gate"/>
-	<entry name="Drukhari/ShroudGateDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Drukhari/ShroudGate" value="Заслонная Брама"/>
+	<entry name="Drukhari/ShroudGateDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Drukhari/ShroudGateFlavor" value="“It was a wise to lay the ambush at the webway gate, brave little human. Hush, now. But you did not know when and where we would emerge, and that was your mistake. To we Drukhari, the gates are an unnecessary convenience… but your suffering, that I am afraid, is a necessity.” – Gyrthineus Roche, Archon of The Last Blade"/>
-	<entry name="Drukhari/SoulHunger" value="Soul Hunger"/>
-	<entry name="Drukhari/SoulHungerDescription" value="Grants influence when killing an enemy."/>
+	<entry name="Drukhari/SoulHunger" value="Душэўны Голад"/>
+	<entry name="Drukhari/SoulHungerDescription" value="Дае ўплыў за забойства ворага."/>
 	<entry name="Drukhari/SoulHungerFlavor" value="The only form of sustenance that refreshes a Drukhari—the only thing that makes their immortal lives at all palatable and endurable, as Slaanesh saps their souls—is the suffering of others. And those Archons who can ensure a regular supply of victims and of pain receive loyalty—or rather, the nearest to it that a Drukhari can manage…"/>
-	<entry name="Drukhari/SoulHungerLoyalty" value="Soulbread and Circuses"/>
-	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="Increases the loyalty output."/>
+	<entry name="Drukhari/SoulHungerLoyalty" value="Душэўны Хлеб і Відовішча"/>
+	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="Павялічвае генерацыю лаяльнасьці."/>
 	<entry name="Drukhari/SoulHungerLoyaltyFlavor" value="In a world so devoid of loyalty, it pays to keep the masses on side—who knows when you will need to drive a lynch mob after your rival, for example? When an Archon pays for a Wych cult to perform in the arena or dispenses food, weapons or victims to the desperate of Commorragh’s undercity, every Drukhari understands that he does it not from compassion, but out of calculation."/>
-	<entry name="Drukhari/SoulHungerOutposts" value="Soul Tithe"/>
-	<entry name="Drukhari/SoulHungerOutpostsDescription" value="Increases the resource output."/>
+	<entry name="Drukhari/SoulHungerOutposts" value="Душэўная Дзесяціна"/>
+	<entry name="Drukhari/SoulHungerOutpostsDescription" value="Павялічвае прыбытак рэсурсаў."/>
 	<entry name="Drukhari/SoulHungerOutpostsFlavor" value="Of course, all Drukhari Kabalites are thoroughly beholden to their Archon and would do nothing to lose their favour… yet, somehow, still, there manages to be a thriving black market in stolen resources, especially further away from the seat of power. So when the order comes in to send their tithes, it’s surprisingly easy to gather enough."/>
 	<entry name="Drukhari/SoulHarvest" value="<string name='Actions/Drukhari/SoulHarvest'/>"/>
-	<entry name="Drukhari/SoulHarvestDescription" value="Increases the damage and grants influence when killing an enemy."/>
+	<entry name="Drukhari/SoulHarvestDescription" value="Павялічвае шкоду і дае ўплыў за забойства ворага."/>
 	<entry name="Drukhari/SoulHarvestFlavor" value="<string name='Actions/Drukhari/SoulHarvestFlavor'/>"/>
-	<entry name="Drukhari/FeastOfTorment" value="Feast of Torment"/>
-	<entry name="Drukhari/FeastOfTormentDescription" value="Restores hitpoints each turn."/>
+	<entry name="Drukhari/FeastOfTorment" value="Фэст Катаваньня"/>
+	<entry name="Drukhari/FeastOfTormentDescription" value="Аднаўляе здароўе кожны крок."/>
 	<entry name="Drukhari/FeastOfTormentFlavor" value="Encouraging the Drukhari to acts of sadism is unnecessary, it comes so naturally to them. However, they still fear their Archon’s wrath, so giving them explicit permission to torture the innocents of Gladius Prime rather than ship them back to Commorragh is sometimes necessary. As a side note, innocent blood has a wonderfully rejuvenating effect."/>
 	<entry name="Drukhari/SpiritProbe" value="<string name='Actions/Drukhari/SpiritProbe'/>"/>
-	<entry name="Drukhari/SpiritProbeDescription" value="Increases the damage reduction."/>
+	<entry name="Drukhari/SpiritProbeDescription" value="Павялічвае зьніжэньне шкоды."/>
 	<entry name="Drukhari/SpiritProbeFlavor" value="<string name='Actions/Drukhari/SpiritProbeFlavor'/>"/>
 	<entry name="Drukhari/ToweringArrogance" value="<string name='Actions/Drukhari/ToweringArrogance'/>"/>
-	<entry name="Drukhari/ToweringArroganceDescription" value="Decreases the morale loss."/>
+	<entry name="Drukhari/ToweringArroganceDescription" value="Зьмяншае страты маралі."/>
 	<entry name="Drukhari/ToweringArroganceFlavor" value="<string name='Actions/Drukhari/ToweringArroganceFlavor'/>"/>
-	<entry name="Drukhari/WealthPlunder" value="Studies in Agony"/>
-	<entry name="Drukhari/WealthPlunderDescription" value="Grants research when killing an enemy."/>
+	<entry name="Drukhari/WealthPlunder" value="Навучаньні ў Агоніі"/>
+	<entry name="Drukhari/WealthPlunderDescription" value="Дае дасьледаваньні за забойства ворага."/>
 	<entry name="Drukhari/WealthPlunderFlavor" value="“Near to death, I hold them. The secrets they whisper. The pleas. Tactics, inventions, knowledge of the other side, revelations… everything spilled. To stop the pain. Why should it stop, though. When it is so… productive.” – Arkanic, Haemonculus to Kabal of The Last Blade"/>
-	<entry name="Drukhari/WeaponRacks" value="Weapon Racks"/>
-	<entry name="Drukhari/WeaponRacksDescription" value="Grants twin-linked for one turn to units that disembark from this vehicle."/>
+	<entry name="Drukhari/WeaponRacks" value="Збройныя Паліцы"/>
+	<entry name="Drukhari/WeaponRacksDescription" value="Дае адзінкам Двайную Сувязь на адзін крок пасьля выгрузкі з транспарта."/>
 	<entry name="Drukhari/WeaponRacksFlavor" value="Some Dark Eldar vehicles carry additional racks of anti-personnel weaponry on their decks. This allows passengers to literally empty their weapons’ magazines in great raking fusillades, before discarding their spent guns in favour of fully-loaded replacements as they disembark."/>
 	<entry name="Drukhari/WhirlingDeath" value="<string name='Actions/Drukhari/WhirlingDeath'/>"/>
-	<entry name="Drukhari/WhirlingDeathDescription" value="Hits all group members of the target unit."/>
+	<entry name="Drukhari/WhirlingDeathDescription" value="Наносіць шкоду ўсім чальцам абранай адзінкі."/>
 	<entry name="Drukhari/WhirlingDeathFlavor" value="<string name='Actions/Drukhari/WhirlingDeathFlavor'/>"/>
 	<entry name="EavyArmour" value="Цяжкая Браня"/>
 	<entry name="EavyArmourDescription" value="Павялічвае браню."/>
