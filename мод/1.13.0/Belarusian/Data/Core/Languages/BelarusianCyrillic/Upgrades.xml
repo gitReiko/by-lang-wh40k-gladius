@@ -1044,10 +1044,10 @@
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="ChaosSpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апусташальнікам, Берсеркам Кхорна, Майстарам Апантанасьці ды Кавалям Варпу здольнасьць кідаць супрацьпяхотныя гранаты."/>
+	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апустэчвальнікам, Берсеркам Кхорна, Майстарам Апантанасьці ды Кавалям Варпу здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="ChaosSpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutation" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutation'/>"/>
-	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Касьмічным Марынам Хаосу, Апусташальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
+	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Дае Касьмічным Марынам Хаосу, Апустэчвальнікам і Берсеркам Кхорна адзін выпадковы адблакаваны Дарунак Хаосу."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Дае Дэманічным Прынцам, Апаганьнікам, Дэманам Кузьні, Вялікім Латуневым Скарпіёнам, Хэльбрутам, Дэманічным Катам, Атрутным Паўзунам і Кіпцюрам Варпу здольнасьць выконваць больш разбуральныя атакі."/>
@@ -1071,7 +1071,7 @@
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathDescription'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апусташальнікам, Берсеркам Кхорна, Майстарам Апантанасьці і Кавалям Варпу здольнасьць кідаць супрацьбранявыя гранаты."/>
+	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апустэчвальнікам, Берсеркам Кхорна, Майстарам Апантанасьці і Кавалям Варпу здольнасьць кідаць супрацьбранявыя гранаты."/>
 	<entry name="ChaosSpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamage" value="<string name='Traits/ChaosSpaceMarines/LasDamage'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Павялічвае бронепрабівальнасьць лазернай і плазмавай зброі."/>
@@ -1095,7 +1095,7 @@
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апусташальнікам і Берсеркам Кхорна здольнасьць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацыяў."/>
+	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апустэчвальнікам і Берсеркам Кхорна здольнасьць ужываць мельтабомбу, якая вельмі эфектыўная супраць цяжкіх машынаў і фартыфікацыяў."/>
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Нашыя Жыцьці дзеля Багоў"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Павялічвае хуткасьць узросту горада пасьля Ахвяраваньня Культыстаў."/>

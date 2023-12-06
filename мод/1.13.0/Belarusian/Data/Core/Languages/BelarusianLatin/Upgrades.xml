@@ -1044,10 +1044,10 @@
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynam."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="ChaosSpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustašalnikam, Biersierkam Kchorna, Majstaram Apantanaści dy Kavalam Varpu zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam, Biersierkam Kchorna, Majstaram Apantanaści dy Kavalam Varpu zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="ChaosSpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutation" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutation'/>"/>
-	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Daje Kaśmičnym Marynam Chaosu, Apustašalnikam i Biersierkam Kchorna adzin vypadkovy adbłakavany Darunak Chaosu."/>
+	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Daje Kaśmičnym Marynam Chaosu, Apustečvalnikam i Biersierkam Kchorna adzin vypadkovy adbłakavany Darunak Chaosu."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Daje Demaničnym Pryncam, Apahańnikam, Demanam Kuźni, Vialikim Łatunievym Skarpijonam, Chelbrutam, Demaničnym Katam, Atrutnym Paŭzunam i Kipciuram Varpu zdolnaść vykonvać bolš razburalnyja ataki."/>
@@ -1071,7 +1071,7 @@
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathDescription'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustašalnikam, Biersierkam Kchorna, Majstaram Apantanaści i Kavalam Varpu zdolnaść kidać supraćbraniavyja hranaty."/>
+	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam, Biersierkam Kchorna, Majstaram Apantanaści i Kavalam Varpu zdolnaść kidać supraćbraniavyja hranaty."/>
 	<entry name="ChaosSpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamage" value="<string name='Traits/ChaosSpaceMarines/LasDamage'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść łaziernaj i płazmavaj zbroi."/>
@@ -1095,7 +1095,7 @@
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustašalnikam i Biersierkam Kchorna zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyjaŭ."/>
+	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam i Biersierkam Kchorna zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Našyja Žyćci dziela Bahoŭ"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Pavialičvaje chutkaść uzrostu horada paśla Achviaravańnia Kultystaŭ."/>
