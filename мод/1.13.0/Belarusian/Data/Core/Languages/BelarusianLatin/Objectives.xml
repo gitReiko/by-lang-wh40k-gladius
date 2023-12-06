@@ -40,8 +40,10 @@
 	<entry name="KeepUnitAliveDescription" value="Zachoŭvać %1% žyvym (%2%/1)."/>
 	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
 	<entry name="KillCampDescription" value="Źniščyć varožy stan (%1%/1)."/>
+	<entry name="KillCampWithAdeptusMechanicusDescription" value="Źniščyć varožy stan Adeptus Miechanikus (%1%/1)."/>
 	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Źniščycie Demana-Prynca, jaki vykonvaje rytuał za %2% krokaŭ (%1%/1)."/>
 	<entry name="KillCampWithDeceiverDescription" value="Znajdzicie i źniščycie Ašukanca (%1%/1)."/>
+	<entry name="KillCampWithEtherealDescription" value="Zabicie Eternaha (%1%/1)."/>
 	<entry name="KillCampWithFortressOfRedemptionDescription" value="Źniščycie miaciežnuju Krepaść Adkupleńnia (%1%/1)."/>
 	<entry name="KillCampWithOrksDescription" value="Źniščycie łahier Orkaŭ (%1%/1)."/>
 	<entry name="KillCampWithKastelansDescription" value="Źniščycie abo zachapicie łahier Kaštelanaŭ (%1%/1)."/>
@@ -50,8 +52,10 @@
 	<entry name="KillCampWithTurnLimitDescription" value="Źniščyć varožy stan za %2% krokaŭ (%1%/1)."/>
 	<entry name="KillCampWithTyranidsDescription" value="Źniščycie vulej Tyranidaŭ (%1%/1)."/>
 	<entry name="KillCampWithWebwayGateDescription" value="Pieramažycie siły Aeldary, što baroniać <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="KillImperialStrongpointDescription" value="Źniščycie Impierski Aporny Punkt (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Źniščyć %1% za %4% krokaŭ (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Pačakajcie pakul %1% vierniecca ŭ hety śviet (0/1)."/>
+	<entry name="KillNoctilithCrownDescription" value="Źniščycie Noktylitavuju Karonu, kab vyhnać Demana-Prynca (%1%/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Źniščycie razroźnienyja adzinki (%1%/%2%)."/>
 	<entry name="KillUmbraDescription" value="Źniščycie Umbru (%1%/1)."/>
 	<entry name="KillUnitDescription" value="Źniščycie %1% (%2%/%3%)."/>
@@ -75,6 +79,7 @@
 	<entry name="SurviveInvasionDescription" value="Pieražyvicie napad i zabicie ŭsich zachopnikaŭ (%1%/1)."/>
 	<entry name="SurviveInvasionWithTurnLimitDescription" value="Pieražyvicie napad %1% krokaŭ (%2%/1)."/>
 	<entry name="UseCityAbilityDescription" value="Vykarystajcie %1% u vašym horadzie (%2%/%3%)."/>
+	<entry name="UseCombatDrugsDescription" value="Vykarystajcie %1% na adnoj sa svaich adzinak (%2%/%3%)."/>
 	<entry name="UseConvertWildlifeDescription" value="Vykarystajcie %1% na vandroŭnym aŭksiliaryi (%2%/%3%)."/>
 	<entry name="UseMarkDescription" value="Vykarystajcie %1% na adzincy (%2%/%3%)."/>
 	<entry name="UseMarkerlightDescription" value="Vykarystajcie %1% na varožaj adzincy (%2%/%3%)."/>

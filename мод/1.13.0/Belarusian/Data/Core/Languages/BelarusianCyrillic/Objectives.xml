@@ -40,8 +40,10 @@
 	<entry name="KeepUnitAliveDescription" value="Захоўваць %1% жывым (%2%/1)."/>
 	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
 	<entry name="KillCampDescription" value="Зьнішчыць варожы стан (%1%/1)."/>
+	<entry name="KillCampWithAdeptusMechanicusDescription" value="Зьнішчыць варожы стан Адэптус Механікус (%1%/1)."/>
 	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Зьнішчыце Дэмана-Прынца, які выконвае рытуал за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithDeceiverDescription" value="Знайдзіце і зьнішчыце Ашуканца (%1%/1)."/>
+	<entry name="KillCampWithEtherealDescription" value="Забіце Этэрнага (%1%/1)."/>
 	<entry name="KillCampWithFortressOfRedemptionDescription" value="Зьнішчыце мяцежную Крэпасьць Адкупленьня (%1%/1)."/>
 	<entry name="KillCampWithOrksDescription" value="Зьнішчыце лагер Оркаў (%1%/1)."/>
 	<entry name="KillCampWithKastelansDescription" value="Зьнішчыце або захапіце лагер Каштэлянаў (%1%/1)."/>
@@ -50,8 +52,10 @@
 	<entry name="KillCampWithTurnLimitDescription" value="Зьнішчыць варожы стан за %2% крокаў (%1%/1)."/>
 	<entry name="KillCampWithTyranidsDescription" value="Зьнішчыце вулей Тыранідаў (%1%/1)."/>
 	<entry name="KillCampWithWebwayGateDescription" value="Перамажыце сілы Аэльдары, што бароняць <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="KillImperialStrongpointDescription" value="Зьнішчыце Імперскі Апорны Пункт (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Зьнішчыць %1% за %4% крокаў (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Пачакайце пакуль %1% вернецца ў гэты сьвет (0/1)."/>
+	<entry name="KillNoctilithCrownDescription" value="Зьнішчыце Ноктылітавую Карону, каб выгнаць Дэмана-Прынца (%1%/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Зьнішчыце разрозьненыя адзінкі (%1%/%2%)."/>
 	<entry name="KillUmbraDescription" value="Зьнішчыце Умбру (%1%/1)."/>
 	<entry name="KillUnitDescription" value="Зьнішчыце %1% (%2%/%3%)."/>
@@ -75,6 +79,7 @@
 	<entry name="SurviveInvasionDescription" value="Перажывіце напад і забіце ўсіх захопнікаў (%1%/1)."/>
 	<entry name="SurviveInvasionWithTurnLimitDescription" value="Перажывіце напад %1% крокаў (%2%/1)."/>
 	<entry name="UseCityAbilityDescription" value="Выкарыстайце %1% у вашым горадзе (%2%/%3%)."/>
+	<entry name="UseCombatDrugsDescription" value="Выкарыстайце %1% на адной са сваіх адзінак (%2%/%3%)."/>
 	<entry name="UseConvertWildlifeDescription" value="Выкарыстайце %1% на вандроўным аўксіліарыі (%2%/%3%)."/>
 	<entry name="UseMarkDescription" value="Выкарыстайце %1% на адзінцы (%2%/%3%)."/>
 	<entry name="UseMarkerlightDescription" value="Выкарыстайце %1% на варожай адзінцы (%2%/%3%)."/>
