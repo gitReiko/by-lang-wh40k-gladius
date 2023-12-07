@@ -390,7 +390,7 @@
 	<entry name="Drukhari/BloodDancerDescription" value="Павялічвае трапнасьць блізкага бою."/>
 	<entry name="Drukhari/BloodDancerFlavor" value="A star of the Commorrite arenas, the Succubi excel at close quarters combat. The skills they display before the baying crowds on the blood-soaked sands of the arena floor come in equally useful on the battlefield."/>
 	<entry name="Drukhari/BonusResources" value="Інсьпекцыя Архона"/>
-	<entry name="Drukhari/BonusResourcesDescription" value="Здольнасьць Душэўны Голад павялічвае вытворчасьць будынкаў не штабкватэр на абранай плітцы."/>
+	<entry name="Drukhari/BonusResourcesDescription" value="Здольнасьць Голад па Душах павялічвае вытворчасьць будынкаў не штабкватэр на абранай плітцы."/>
 	<entry name="Drukhari/BonusResourcesFlavor" value="It is not as if the Drukhari’s indentured servants ever slacken in their labours. Yet when an Archon turns his gaze upon them, they labour harder, inhumanly so, knowing that a moment’s displeasure will lead to many lifetimes of impossible torment."/>
 	<entry name="Drukhari/BridesOfDeath" value="Нявесты Сьмерці"/>
 	<entry name="Drukhari/BridesOfDeathDescription" value="Павялічвае шкоду блізкага бою суседніх адзінак Друкхары."/>
@@ -432,7 +432,7 @@
 	<entry name="Drukhari/ReservoirOfPainDescription" value="Аднаўляе здароўе хаўрусных пяхотных адзінак Друкхары, калі гэтая адзінка атакуе на гэты крок."/>
 	<entry name="Drukhari/ReservoirOfPainFlavor" value="The Cronos parasite engines are an arcane blend of alchemy and science that leeches both the body and spirit of any victim. Inside its urchin-spined form, the stolen essence is magnified before being redistributed to any nearby Drukhari, refreshing and invigorating them…"/>
 	<entry name="Drukhari/SacrificeToKhaine" value="<string name='Traits/Drukhari/SacrificeToKhaine'/>"/>
-	<entry name="Drukhari/SacrificeToKhaineDescription" value="Здольнасьць Душэўны Голад павялічвае шкоду ўсіх адзінак Друкхары."/>
+	<entry name="Drukhari/SacrificeToKhaineDescription" value="Здольнасьць Голад па Душах павялічвае шкоду ўсіх адзінак Друкхары."/>
 	<entry name="Drukhari/SacrificeToKhaineFlavor" value="<string name='Traits/Drukhari/SacrificeToKhaineFlavor'/>"/>
 	<entry name="Drukhari/Shadowfield" value="Ценевае Поле"/>
 	<entry name="Drukhari/ShadowfieldDescription" value="Павялічвае непаражальнае зьніжэньне шкоды. Перазараджаецца напачатку наступнага кроку, калі была атрымана шкода."/>
@@ -441,16 +441,16 @@
 	<entry name="Drukhari/SoulHarvestDescription" value="Павялічвае шкоду абранай хаўруснай адзінкі Друкхары і дае ўплыў, калі гэтая адзінка забівае ворага."/>
 	<entry name="Drukhari/SoulHarvestFlavor" value="Few Drukhari leaders trust their underlings enough to allow them to gain power, knowing full well that the only rational use of power is to overthrow their oppressor. Despite this, occasionally a minion might be allowed off the leash, as long as its victories reflect entirely upon the Archon."/>
 	<entry name="Drukhari/SoulHungerLoyalty" value="<string name='Traits/Drukhari/SoulHungerLoyalty'/>"/>
-	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="Здольнасьць Душэўны Голад павялічвае вытворчасьць лаяльнасьці Крэпасьцяў Рэйдараў."/>
+	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="Здольнасьць Голад па Душах павялічвае вытворчасьць лаяльнасьці Крэпасьцяў Рэйдараў."/>
 	<entry name="Drukhari/SoulHungerLoyaltyFlavor" value="<string name='Traits/Drukhari/SoulHungerLoyaltyFlavor'/>"/>
 	<entry name="Drukhari/SoulHungerOutposts" value="<string name='Traits/Drukhari/SoulHungerOutposts'/>"/>
-	<entry name="Drukhari/SoulHungerOutpostsDescription" value="Здольнасьць Душэўны Голад павялічвае вытворчасьць рэсурсаў на кантраляваных аванпостах."/>
+	<entry name="Drukhari/SoulHungerOutpostsDescription" value="Здольнасьць Голад па Душах павялічвае вытворчасьць рэсурсаў на кантраляваных аванпостах."/>
 	<entry name="Drukhari/SoulHungerOutpostsFlavor" value="<string name='Traits/Drukhari/SoulHungerOutpostsFlavor'/>"/>
 	<entry name="Drukhari/FeastOfTorment" value="<string name='Traits/Drukhari/FeastOfTorment'/>"/>
-	<entry name="Drukhari/FeastOfTormentDescription" value="Здольнасьць Душэўны Голад дае ўсім адзінкам Друкхары здольнасьць аднаўляць здароўе кожны крок."/>
+	<entry name="Drukhari/FeastOfTormentDescription" value="Здольнасьць Голад па Душах дае ўсім адзінкам Друкхары здольнасьць аднаўляць здароўе кожны крок."/>
 	<entry name="Drukhari/FeastOfTormentFlavor" value="<string name='Traits/Drukhari/FeastOfTormentFlavor'/>"/>
 	<entry name="Drukhari/SoulShelling" value="Артылерыя Шляху Павуціньня"/>
-	<entry name="Drukhari/SoulShellingDescription" value="Здольнасьць Душэўны Голад наносіць шкоду абранай варожай адзінцы."/>
+	<entry name="Drukhari/SoulShellingDescription" value="Здольнасьць Голад па Душах наносіць шкоду абранай варожай адзінцы."/>
 	<entry name="Drukhari/SoulShellingFlavor" value="The most powerful Drukhari weapons aren’t light enough to take on a Raid, instead reserved for the defense of the Kabal’s base in Comorroragh or on Battleships for realspace incursions—Phantom Lances and Scythe Missile Launchers and so on. But a wily Archon might allow his minions to fire one of these weapons through a temporary portal, knowing all the while the weapon might be turned on them…"/>
 	<entry name="Drukhari/SpiritProbe" value="Духоўны Зонд"/>
 	<entry name="Drukhari/SpiritProbeDescription" value="Дае дадатковае зьніжэньне шкоды ад Адсутнасьці Пачуцьця Болю гэтай адзінцы і суседняй пяхоце Друкхары вышэйшай за 2 ровень."/>
@@ -465,7 +465,7 @@
 	<entry name="Drukhari/TwistedAnimatorDescription" value="Аднаўляе здароўе суседніх адзінак-Развалін."/>
 	<entry name="Drukhari/TwistedAnimatorFlavor" value="This deranged creature is an artist when it comes to the reshaping of flesh. A few deft slices—and a liberal application of horrifying unguents—allow ruptured skin to flow like wax and reform anew, the subject lurching back to life."/>
 	<entry name="Drukhari/WealthPlunder" value="<string name='Traits/Drukhari/WealthPlunder'/>"/>
-	<entry name="Drukhari/WealthPlunderDescription" value="Здольнасьць Душэўны Голад дае ўсіх адзінкам Друкхары дасьледаваньні за забойствы ворагаў."/>
+	<entry name="Drukhari/WealthPlunderDescription" value="Здольнасьць Голад па Душах дае ўсіх адзінкам Друкхары дасьледаваньні за забойствы ворагаў."/>
 	<entry name="Drukhari/WealthPlunderFlavor" value="<string name='Traits/Drukhari/WealthPlunderFlavor'/>"/>
 	<entry name="Drukhari/WebwayTravel" value="<string name='Actions/Eldar/WebwayTravel'/>"/>
 	<entry name="Drukhari/WebwayTravelDescription" value="Вандруе ад адной хаўруснай Брамы Шляха Павуціньня, Крэпасьці Рэйдараў ці Партала Шляху Павуціньня да іншай."/>

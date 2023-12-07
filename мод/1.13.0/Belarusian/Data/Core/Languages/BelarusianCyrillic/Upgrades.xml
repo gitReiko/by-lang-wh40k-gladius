@@ -1206,7 +1206,7 @@
 	<entry name="Drukhari/CombatDrugsUpgrade" value="Гандляр Холадам Культу"/>
 	<entry name="Drukhari/CombatDrugsUpgradeDescription" value="Дае ўсей пяхоце Друкхары здольнасьць выкарыстоўваць баявыя наркотыкі."/>
 	<entry name="Drukhari/CombatDrugsUpgradeFlavor" value="Though combat drugs are in widespread use throughout Drukhari society, it is the Wych Cults that are happiest using them, despite their deleterious effect on their physiology and lifespan. Having a Wych cult liaison with access to their huge store of horrifying compounds is a serious boon to an Kabal making realspace raids."/>
-	<entry name="Drukhari/CorsairOutpostsUpgrade" value="Душэўны Імпэт"/>
+	<entry name="Drukhari/CorsairOutpostsUpgrade" value="Імпэт Душ"/>
 	<entry name="Drukhari/CorsairOutpostsUpgradeDescription" value="Павялічвае стандартны ўзрост гарадоў Друкхары."/>
 	<entry name="Drukhari/CorsairOutpostsUpgradeFlavor" value="Rumours are spreading like the plague in Commorragh: of the wealth of Gladius Prime; of its billion suffering humans trapped beneath the Warp Storm; and of the strange wraithbone core to the planet, filled with lost Aeldari souls… true or not, the Drukhari come. But who could have started those rumours..?"/>
 	<entry name="Drukhari/EnergyBuildingBonus" value="<string name='Traits/Drukhari/EnergyBuildingBonus'/>"/>
@@ -1255,25 +1255,25 @@
 	<entry name="Drukhari/PlasmaGrenadeDescription" value="Дае Архонам, Кабаліцкім Ваярам, Бедствам і Сукубусам здольнасьць кідаць універсальныя гранаты."/>
 	<entry name="Drukhari/PlasmaGrenadeFlavor" value="<string name='Weapons/PlasmaGrenadeFlavor'/>"/>
 	<entry name="Drukhari/RaiderFortress" value="<string name='Actions/Drukhari/RaiderFortress'/>"/>
-	<entry name="Drukhari/RaiderFortressDescription" value="Grants the ability to found new cities on claimed Webway Gates."/>
+	<entry name="Drukhari/RaiderFortressDescription" value="Дае здольнасьць заснаваньня новых гарадоў і захопу Брамаў Шляху Павуціньня."/>
 	<entry name="Drukhari/RaiderFortressFlavor" value="<string name='Actions/Drukhari/RaiderFortressFlavor'/>"/>
 	<entry name="Drukhari/RaidersTacticsDamage" value="<string name='Traits/Drukhari/RaidersTacticsDamage'/>"/>
-	<entry name="Drukhari/RaidersTacticsDamageDescription" value="Increases the damage of infantry Drukhari units when they disembark from transport."/>
+	<entry name="Drukhari/RaidersTacticsDamageDescription" value="Павялічвае шкоду пяхоты Друкхары пасьля высадкі з транспарту."/>
 	<entry name="Drukhari/RaidersTacticsDamageFlavor" value="<string name='Traits/Drukhari/RaidersTacticsDamageFlavor'/>"/>
 	<entry name="Drukhari/RaidersTacticsDamageReduction" value="<string name='Traits/Drukhari/RaidersTacticsDamageReduction'/>"/>
-	<entry name="Drukhari/RaidersTacticsDamageReductionDescription" value="Increases the invulnerable damage reduction of infantry Drukhari units when they disembark from transport."/>
+	<entry name="Drukhari/RaidersTacticsDamageReductionDescription" value="Павялічвае непаражальнае зьніжэньне шкоды пяхоты Друкхары пасьля высадкі з транспарту."/>
 	<entry name="Drukhari/RaidersTacticsDamageReductionFlavor" value="<string name='Traits/Drukhari/RaidersTacticsDamageReductionFlavor'/>"/>
 	<entry name="Drukhari/RaidersTacticsHealingRate" value="<string name='Traits/Drukhari/RaidersTacticsHealingRate'/>"/>
-	<entry name="Drukhari/RaidersTacticsHealingRateDescription" value="Increases the healing rate of infantry units embarked in transport."/>
+	<entry name="Drukhari/RaidersTacticsHealingRateDescription" value="Павялічвае хуткасьць лячэньня пяхоты пагружанай на транспарт."/>
 	<entry name="Drukhari/RaidersTacticsHealingRateFlavor" value="<string name='Traits/Drukhari/RaidersTacticsHealingRateFlavor'/>"/>
 	<entry name="Drukhari/SacrificeToKhaine" value="<string name='Traits/Drukhari/SacrificeToKhaine'/>"/>
 	<entry name="Drukhari/SacrificeToKhaineDescription" value="<string name='Actions/Drukhari/SacrificeToKhaineDescription'/>"/>
 	<entry name="Drukhari/SacrificeToKhaineFlavor" value="<string name='Traits/Drukhari/SacrificeToKhaineFlavor'/>"/>
 	<entry name="Drukhari/ShroudGate" value="<string name='Traits/Drukhari/ShroudGate'/>"/>
-	<entry name="Drukhari/ShroudGateDescription" value="Increases the ranged damage reduction of units passing through a webway gate or a webway portal."/>
+	<entry name="Drukhari/ShroudGateDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою адзінкам, што праходзяць праз браму ці партал шляха павуціньня."/>
 	<entry name="Drukhari/ShroudGateFlavor" value="<string name='Traits/Drukhari/ShroudGateFlavor'/>"/>
-	<entry name="Drukhari/SoulHungerCost" value="Soul Locus"/>
-	<entry name="Drukhari/SoulHungerCostDescription" value="Reduces the cost of Soul Hunger abilities."/>
+	<entry name="Drukhari/SoulHungerCost" value="Локус Душ"/>
+	<entry name="Drukhari/SoulHungerCostDescription" value="Зьніжае кошт здольнасьцяў Голаду па Душах."/>
 	<entry name="Drukhari/SoulHungerCostFlavor" value="As the Drukhari’s raid into Realspace becomes more entrenched, so the connections between this world and Commorragh become more and more numerous. Even when sealed physically, it’s still plausible for the Kabal to draw power from these connections and to feed stolen life back through them."/>
 	<entry name="Drukhari/SoulHungerLoyalty" value="<string name='Traits/Drukhari/SoulHungerLoyalty'/>"/>
 	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="<string name='Actions/Drukhari/SoulHungerLoyaltyDescription'/>"/>
@@ -1281,8 +1281,8 @@
 	<entry name="Drukhari/SoulHungerOutposts" value="<string name='Traits/Drukhari/SoulHungerOutposts'/>"/>
 	<entry name="Drukhari/SoulHungerOutpostsDescription" value="<string name='Actions/Drukhari/SoulHungerOutpostsDescription'/>"/>
 	<entry name="Drukhari/SoulHungerOutpostsFlavor" value="<string name='Traits/Drukhari/SoulHungerOutpostsFlavor'/>"/>
-	<entry name="Drukhari/SoulHungerUpgrade" value="Soul Sadists"/>
-	<entry name="Drukhari/SoulHungerUpgradeDescription" value="Increases the influence granted by Drukhari units when they kill an enemy."/>
+	<entry name="Drukhari/SoulHungerUpgrade" value="Садысты Душ"/>
+	<entry name="Drukhari/SoulHungerUpgradeDescription" value="Павялічвае ўплыў, што даецца адзінкам Друкхары за забойствы ворагаў."/>
 	<entry name="Drukhari/SoulHungerUpgradeFlavor" value="“You must drug them. Kill the guards. Open the gate. Wake them carefully. Lead them out to freedom. Give them hope of escape. Start the pursuit in earnest. Fake your death. Show them an exit. Then reveal the charade. And return them to the torture chamber, grinning wickedly. Without touching them, you have imbued them with a rich, spiritual pain that will never leave.” – Gyrthineus Roche, Archon of The Last Blade"/>
 	<entry name="Drukhari/FeastOfTorment" value="<string name='Traits/Drukhari/FeastOfTorment'/>"/>
 	<entry name="Drukhari/FeastOfTormentDescription" value="<string name='Actions/Drukhari/FeastOfTormentDescription'/>"/>
@@ -1290,20 +1290,20 @@
 	<entry name="Drukhari/SoulShelling" value="<string name='Actions/Drukhari/SoulShelling'/>"/>
 	<entry name="Drukhari/SoulShellingDescription" value="<string name='Actions/Drukhari/SoulShellingDescription'/>"/>
 	<entry name="Drukhari/SoulShellingFlavor" value="<string name='Actions/Drukhari/SoulShellingFlavor'/>"/>
-	<entry name="Drukhari/Splintermind" value="Splintermind"/>
-	<entry name="Drukhari/SplintermindDescription" value="Combat drugs grant morale loss reduction."/>
+	<entry name="Drukhari/Splintermind" value="Падзелены Розум"/>
+	<entry name="Drukhari/SplintermindDescription" value="Баявыя наркотыкі, што зьніжаюць страты маралі."/>
 	<entry name="Drukhari/SplintermindFlavor" value="Splintermind is made from the ground crystal remains of a dead Eldar Farseer. Though it does not ensure prescience, this dust-like substance allows those who take it to think in several directions at once – an invaluable asset, for the confusion of battle takes its toll on even the most rigorous battle plan."/>
 	<entry name="Drukhari/TormentGrenadeLaunchers" value="<string name='Weapons/TormentGrenadeLaunchers'/>"/>
-	<entry name="Drukhari/TormentGrenadeLaunchersDescription" value="Grants Raiders, Ravagers and Tantalus Torment Grenade Launchers."/>
+	<entry name="Drukhari/TormentGrenadeLaunchersDescription" value="Дае Рэйдарам, Апусташальнікам і Танталусам Катавальны Гранатакід."/>
 	<entry name="Drukhari/TormentGrenadeLaunchersFlavor" value="<string name='Weapons/TormentGrenadeLaunchersFlavor'/>"/>
 	<entry name="Drukhari/WealthPlunder" value="<string name='Actions/Drukhari/WealthPlunder'/>"/>
 	<entry name="Drukhari/WealthPlunderDescription" value="<string name='Actions/Drukhari/WealthPlunderDescription'/>"/>
 	<entry name="Drukhari/WealthPlunderFlavor" value="<string name='Actions/Drukhari/WealthPlunderFlavor'/>"/>
 	<entry name="Drukhari/WeaponRacks" value="<string name='Traits/Drukhari/WeaponRacks'/>"/>
-	<entry name="Drukhari/WeaponRacksDescription" value="Grants twin-linked to the ranged weapons of units disembarking from a Raider or a Tantalus."/>
+	<entry name="Drukhari/WeaponRacksDescription" value="Дае двайную сувязь адзінкам далёкага бою, што высаджваюцца з Рэйдара ці Танталуса."/>
 	<entry name="Drukhari/WeaponRacksFlavor" value="<string name='Traits/Drukhari/WeaponRacksFlavor'/>"/>
-	<entry name="Drukhari/WebwayTravelAction" value="Realspace Irruption"/>
-	<entry name="Drukhari/WebwayTravelActionDescription" value="Removes the action cost from Webway Travel."/>
+	<entry name="Drukhari/WebwayTravelAction" value="Рэальнапрасторавае Уварваньне"/>
+	<entry name="Drukhari/WebwayTravelActionDescription" value="Прыбірае кошт дзеяньню Вандраваць праз Шлях Павуціньня."/>
 	<entry name="Drukhari/WebwayTravelActionFlavor" value="Though passing through a webway gate is simplicity itself, co-ordinating the movements of a large army or formation can make them vulnerable. For the Drukhari, this is solved by the creation of temporary gates around any permanent portals, allowing the entire group to move rapidly through at once."/>
 	<entry name="Eldar/AircraftBuildingBonus" value="<string name='Traits/Eldar/AircraftBuildingBonus'/>"/>
 	<entry name="Eldar/AircraftBuildingBonusDescription" value="Павялічвае хуткасьць будаваньня Парталаў Шпілей."/>
