@@ -60,6 +60,23 @@
 	<entry name="ChaosSpaceMarines16" value="Solstript Waste"/>
 	<entry name="ChaosSpaceMarines17" value="Ashes of the Imperium"/>
 	<entry name="ChaosSpaceMarinesCount" value="18"/>
+	<entry name="Drukhari" value="<string name='Factions/Drukhari'/>"/>
+	<entry name="Drukhari0" value="Port Sanguine"/>
+	<entry name="Drukhari1" value="Nightsound Lueven"/>
+	<entry name="Drukhari2" value="Camp of Taken Souls"/>
+	<entry name="Drukhari3" value="The First Death"/>
+	<entry name="Drukhari4" value="Sec Khaine"/>
+	<entry name="Drukhari5" value="Null Cline"/>
+	<entry name="Drukhari6" value="Aelinnagh"/>
+	<entry name="Drukhari7" value="Second Darkness"/>
+	<entry name="Drukhari8" value="Lost Hope"/>
+	<entry name="Drukhari9" value="Middle Drach"/>
+	<entry name="Drukhari10" value="Dead Dreams"/>
+	<entry name="Drukhari11" value="City of Torment"/>
+	<entry name="Drukhari12" value="Calcien Falls"/>
+	<entry name="Drukhari13" value="Beholden Fane"/>
+	<entry name="Drukhari14" value="Imp’s Grove"/>
+	<entry name="DrukhariCount" value="15"/>
 	<entry name="Eldar" value="<string name='Factions/Eldar'/>"/>
 	<entry name="Eldar0" value="Athesdan"/>
 	<entry name="Eldar1" value="Badbaltrilas"/>

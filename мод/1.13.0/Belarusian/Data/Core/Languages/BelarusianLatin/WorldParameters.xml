@@ -29,6 +29,7 @@
 	<entry name="Difficulty0AdeptusMechanicus" value="Adsikularys"/>
 	<entry name="Difficulty0AstraMilitarum" value="Pryzyŭnik"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Kultyst"/>
+	<entry name="Difficulty0Drukhari" value="Vysušany"/>
 	<entry name="Difficulty0Eldar" value="Vartavy"/>
 	<entry name="Difficulty0Necrons" value="Raździralnik"/>
 	<entry name="Difficulty0Orks" value="Skvih"/>
@@ -42,6 +43,7 @@
 	<entry name="Difficulty1AdeptusMechanicus" value="Siervitor"/>
 	<entry name="Difficulty1AstraMilitarum" value="Hvardziejec"/>
 	<entry name="Difficulty1ChaosSpaceMarines" value="Vyradak"/>
+	<entry name="Difficulty1Drukhari" value="Razvalina"/>
 	<entry name="Difficulty1Eldar" value="Vajar Aśpiektu"/>
 	<entry name="Difficulty1Necrons" value="Vajar"/>
 	<entry name="Difficulty1Orks" value="Hrot"/>
@@ -55,6 +57,7 @@
 	<entry name="Difficulty2AdeptusMechanicus" value="Mašynabačac"/>
 	<entry name="Difficulty2AstraMilitarum" value="Siaržant"/>
 	<entry name="Difficulty2ChaosSpaceMarines" value="Paŭšy Brat"/>
+	<entry name="Difficulty2Drukhari" value="Kabalit"/>
 	<entry name="Difficulty2Eldar" value="Rejndžar"/>
 	<entry name="Difficulty2Necrons" value="Nieśmiarotny"/>
 	<entry name="Difficulty2Orks" value="Chłopiec"/>
@@ -68,6 +71,7 @@
 	<entry name="Difficulty3AdeptusMechanicus" value="Mahas"/>
 	<entry name="Difficulty3AstraMilitarum" value="Kamisar"/>
 	<entry name="Difficulty3ChaosSpaceMarines" value="Čempijon Chaosu"/>
+	<entry name="Difficulty3Drukhari" value="Ŭajč"/>
 	<entry name="Difficulty3Eldar" value="Ekzarch"/>
 	<entry name="Difficulty3Necrons" value="Pretaryjaniec Tryjarchaŭ"/>
 	<entry name="Difficulty3Orks" value="Nob"/>
@@ -81,6 +85,7 @@
 	<entry name="Difficulty4AdeptusMechanicus" value="Fabrykatar Łokum"/>
 	<entry name="Difficulty4AstraMilitarum" value="Hienierał"/>
 	<entry name="Difficulty4ChaosSpaceMarines" value="Łord Chaosu"/>
+	<entry name="Difficulty4Drukhari" value="Hamunkułus"/>
 	<entry name="Difficulty4Eldar" value="Avtarch"/>
 	<entry name="Difficulty4Necrons" value="Kriptek"/>
 	<entry name="Difficulty4Orks" value="Bos"/>
@@ -94,6 +99,7 @@
 	<entry name="Difficulty5AdeptusMechanicus" value="Fabrykatar Hienierał"/>
 	<entry name="Difficulty5AstraMilitarum" value="Łord-Kamandor"/>
 	<entry name="Difficulty5ChaosSpaceMarines" value="Kniaź-Deman"/>
+	<entry name="Difficulty5Drukhari" value="Archon"/>
 	<entry name="Difficulty5Eldar" value="Viaščun"/>
 	<entry name="Difficulty5Necrons" value="Vaładar"/>
 	<entry name="Difficulty5Orks" value="Vajnabos"/>
@@ -107,6 +113,7 @@
 	<entry name="Difficulty6AdeptusMechanicus" value="Amnisija"/>
 	<entry name="Difficulty6AstraMilitarum" value="Majstar Vajny"/>
 	<entry name="Difficulty6ChaosSpaceMarines" value="Ciomny Boh"/>
+	<entry name="Difficulty6Drukhari" value="Ciomnaja Muza"/>
 	<entry name="Difficulty6Eldar" value="Avatar"/>
 	<entry name="Difficulty6Necrons" value="Biazmoŭny Haspadar"/>
 	<entry name="Difficulty6Orks" value="Prarok Horka i Morka"/>
@@ -132,6 +139,12 @@
 	<entry name="GameVisibility1Hint" value="Hulnia nie dastupnaja ŭ publičnym śpisie. Dostup mahčymy tolki praz zaprašeńni ci niepasrednyja złučeńni."/>
 	<entry name="GameVisibility2" value="Publičnaja"/>
 	<entry name="GameVisibility2Hint" value="Heta publičnaja hulnia. Kožny moža dałučycca."/>
+	<entry name="Growth" value="Uzrost Haradoŭ"/>
+	<entry name="Growth0" value="Vielmi Nizki"/>
+	<entry name="Growth1" value="Nizki"/>
+	<entry name="Growth2" value="Siaredni"/>
+	<entry name="Growth3" value="Vysoki"/>
+	<entry name="Growth4" value="Vielmi Vysoki"/>	
 	<entry name="HolySiteDensity" value="Ščylnaść Śviatych Miescaŭ"/>
 	<entry name="HolySiteDensity0" value="Vielmi Nizkaja"/>
 	<entry name="HolySiteDensity1" value="Nizkaja"/>
@@ -158,6 +171,18 @@
 	<entry name="LandMass4" value="Vielmi Vysokaja"/>
 	<entry name="LordOfSkulls" value="DLC Łord Čarapoŭ"/>
 	<entry name="MapEditor" value="Panel adładki"/>
+	<entry name="MaximumTechnologyTier" value="Maksimalny Rovień Technałohijaŭ"/>
+	<entry name="MaximumTechnologyTier0" value="0"/>
+	<entry name="MaximumTechnologyTier1" value="1"/>
+	<entry name="MaximumTechnologyTier2" value="2"/>
+	<entry name="MaximumTechnologyTier3" value="3"/>
+	<entry name="MaximumTechnologyTier4" value="4"/>
+	<entry name="MaximumTechnologyTier5" value="5"/>
+	<entry name="MaximumTechnologyTier6" value="6"/>
+	<entry name="MaximumTechnologyTier7" value="7"/>
+	<entry name="MaximumTechnologyTier8" value="8"/>
+	<entry name="MaximumTechnologyTier9" value="9"/>
+	<entry name="MaximumTechnologyTier10" value="10"/>
 	<entry name="NecronTombDensity" value="Ščylnaść Hrabnic Niekronaŭ"/>
 	<entry name="NecronTombDensity0" value="Vielmi Nizkaja"/>
 	<entry name="NecronTombDensity1" value="Nizkaja"/>
@@ -189,12 +214,33 @@
 	<entry name="RegionSize2" value="Siaredni"/>
 	<entry name="RegionSize3" value="Vialiki"/>
 	<entry name="RegionSize4" value="Vielmi Vialiki"/>
+	<entry name="RequiredTechnologiesPerTier" value="Treba Technałohijaŭ da Nastupnaha Roŭniu"/>
+	<entry name="RequiredTechnologiesPerTier0" value="0"/>
+	<entry name="RequiredTechnologiesPerTier1" value="1"/>
+	<entry name="RequiredTechnologiesPerTier2" value="2"/>
+	<entry name="RequiredTechnologiesPerTier3" value="3"/>
+	<entry name="RequiredTechnologiesPerTier4" value="4"/>
+	<entry name="RequiredTechnologiesPerTier5" value="5"/>
+	<entry name="RequiredTechnologiesPerTier6" value="6"/>
+	<entry name="RequiredTechnologiesPerTier7" value="7"/>
 	<entry name="ResearchCost" value="Košt Daśledavańniaŭ"/>
 	<entry name="ResearchCost0" value="Vielmi Nizki"/>
 	<entry name="ResearchCost1" value="Nizki"/>
 	<entry name="ResearchCost2" value="Siaredni"/>
 	<entry name="ResearchCost3" value="Vysoki"/>
 	<entry name="ResearchCost4" value="Vielmi Vysoki"/>
+	<entry name="ResearchedTechnologyTier" value="Rovień Daśledavanych Technałohijaŭ"/>
+	<entry name="ResearchedTechnologyTier0" value="0"/>
+	<entry name="ResearchedTechnologyTier1" value="1"/>
+	<entry name="ResearchedTechnologyTier2" value="2"/>
+	<entry name="ResearchedTechnologyTier3" value="3"/>
+	<entry name="ResearchedTechnologyTier4" value="4"/>
+	<entry name="ResearchedTechnologyTier5" value="5"/>
+	<entry name="ResearchedTechnologyTier6" value="6"/>
+	<entry name="ResearchedTechnologyTier7" value="7"/>
+	<entry name="ResearchedTechnologyTier8" value="8"/>
+	<entry name="ResearchedTechnologyTier9" value="9"/>
+	<entry name="ResearchedTechnologyTier10" value="10"/>
 	<entry name="ResourceCost" value="Košt Resursaŭ"/>
 	<entry name="ResourceCost0" value="Vielmi Nizki"/>
 	<entry name="ResourceCost1" value="Nizki"/>
@@ -257,6 +303,7 @@
 	<entry name="Supplement10" value="DLC Nabor Eskałacyja"/>
 	<entry name="Supplement11" value="DLC Adepta Sarorytas"/>
 	<entry name="Supplement12" value="DLC Nabor Ahniavaja Moc"/>
+	<entry name="Supplement13" value="DLC Drukchary"/>
 	<entry name="TropicalRegionDensity" value="Ščylnaść Trapičnaj Miascovaści"/>
 	<entry name="TropicalRegionDensity0" value="Adsutničaje"/>
 	<entry name="TropicalRegionDensity1" value="Vielmi Nizkaja"/>

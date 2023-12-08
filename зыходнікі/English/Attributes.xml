@@ -142,6 +142,8 @@
 	<entry name="InfluencePerDamageIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluencePerExperience" value="Influence Per Experience"/>
 	<entry name="InfluencePerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerKillValue" value="Influence Per Kill Value"/>
+	<entry name="InfluencePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InfluenceUpkeep" value="Influence Upkeep"/>
 	<entry name="InfluenceUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
 	<entry name="InvulnerableDamageReduction" value="Invulnerable Damage Reduction"/>
@@ -307,6 +309,7 @@
 	<entry name="AdeptusMechanicus/InfluenceHint" value="<string name='Attributes/Tau/InfluenceHint'/>"/>
 	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke edicts as well as recruit powerful hero units and purchase their items."/>
 	<entry name="ChaosSpaceMarines/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke Marks of Chaos as well as recruit powerful hero units and purchase their items."/>
+	<entry name="Drukhari/InfluenceHint" value="<string name='Attributes/Eldar/InfluenceHint'/>"/>
 	<entry name="Eldar/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke special abilities as well as recruit powerful hero units and purchase their items."/>
 	<entry name="Necrons/EnergyHint" value="<style name='Title'/>Energy<br/><style name='Default'/>Used to construct buildings and produce units."/>
 	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke special abilities as well as recruit powerful hero units and purchase their items."/>

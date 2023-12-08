@@ -40,8 +40,10 @@
 	<entry name="KeepUnitAliveDescription" value="Keep %1% alive (%2%/1)."/>
 	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
 	<entry name="KillCampDescription" value="Defeat the enemy camp (%1%/1)."/>
+	<entry name="KillCampWithAdeptusMechanicusDescription" value="Destroy the Adeptus Mechanicus camp (%1%/1)."/>
 	<entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Defeat the Daemon Prince performing the ritual within %2% turns (%1%/1)."/>
 	<entry name="KillCampWithDeceiverDescription" value="Find and destroy the Deceiver (%1%/1)."/>
+	<entry name="KillCampWithEtherealDescription" value="Kill the Ethereal (%1%/1)."/>
 	<entry name="KillCampWithFortressOfRedemptionDescription" value="Destroy the rebel Fortress of Redemption (%1%/1)."/>
 	<entry name="KillCampWithOrksDescription" value="Destroy the Ork camp (%1%/1)."/>
 	<entry name="KillCampWithKastelansDescription" value="Destroy or capture the Kastelan camp (%1%/1)."/>
@@ -50,8 +52,10 @@
 	<entry name="KillCampWithTurnLimitDescription" value="Defeat the enemy camp within %2% turns (%1%/1)."/>
 	<entry name="KillCampWithTyranidsDescription" value="Destroy the Tyranid hive (%1%/1)."/>
 	<entry name="KillCampWithWebwayGateDescription" value="Defeat the Aeldari force guarding the <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+	<entry name="KillImperialStrongpointDescription" value="Destroy the Imperial Strongpoint (%1%/1)."/>
 	<entry name="KillLordOfSkullsActiveDescription" value="Kill the %1% within %4% turns (%2%/%3%)."/>
 	<entry name="KillLordOfSkullsInactiveDescription" value="Wait for the %1% to return to this world (0/1)."/>
+	<entry name="KillNoctilithCrownDescription" value="Destroy the Noctilith Crown to banish the Daemon Prince (%1%/1)."/>
 	<entry name="KillSpawnedUnitsDescription" value="Kill scattered units (%1%/%2%)."/>
 	<entry name="KillUmbraDescription" value="Kill the Umbra (%1%/1)."/>
 	<entry name="KillUnitDescription" value="Kill %1% (%2%/%3%)."/>
@@ -75,6 +79,7 @@
 	<entry name="SurviveInvasionDescription" value="Survive invasion and kill all invaders (%1%/1)."/>
 	<entry name="SurviveInvasionWithTurnLimitDescription" value="Survive invasion for %1% turns (%2%/1)."/>
 	<entry name="UseCityAbilityDescription" value="Use %1% in your city (%2%/%3%)."/>
+	<entry name="UseCombatDrugsDescription" value="Use %1% on one of your units (%2%/%3%)."/>
 	<entry name="UseConvertWildlifeDescription" value="Use %1% on errant auxiliary (%2%/%3%)."/>
 	<entry name="UseMarkDescription" value="Use %1% on a unit (%2%/%3%)."/>
 	<entry name="UseMarkerlightDescription" value="Use %1% on an enemy unit (%2%/%3%)."/>

@@ -29,6 +29,7 @@
 	<entry name="Difficulty0AdeptusMechanicus" value="Adsecularis"/>
 	<entry name="Difficulty0AstraMilitarum" value="Conscript"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Cultist"/>
+	<entry name="Difficulty0Drukhari" value="Parched"/>
 	<entry name="Difficulty0Eldar" value="Guardian"/>
 	<entry name="Difficulty0Necrons" value="Flayed One"/>
 	<entry name="Difficulty0Orks" value="Squig"/>
@@ -42,6 +43,7 @@
 	<entry name="Difficulty1AdeptusMechanicus" value="Servitor"/>
 	<entry name="Difficulty1AstraMilitarum" value="Guardsman"/>
 	<entry name="Difficulty1ChaosSpaceMarines" value="Spawn"/>
+	<entry name="Difficulty1Drukhari" value="Wrack"/>
 	<entry name="Difficulty1Eldar" value="Aspect Warrior"/>
 	<entry name="Difficulty1Necrons" value="Warrior"/>
 	<entry name="Difficulty1Orks" value="Grot"/>
@@ -55,6 +57,7 @@
 	<entry name="Difficulty2AdeptusMechanicus" value="Enginseer"/>
 	<entry name="Difficulty2AstraMilitarum" value="Sergeant"/>
 	<entry name="Difficulty2ChaosSpaceMarines" value="Fallen Brother"/>
+	<entry name="Difficulty2Drukhari" value="Kabalite"/>
 	<entry name="Difficulty2Eldar" value="Ranger"/>
 	<entry name="Difficulty2Necrons" value="Immortal"/>
 	<entry name="Difficulty2Orks" value="Boy"/>
@@ -68,6 +71,7 @@
 	<entry name="Difficulty3AdeptusMechanicus" value="Magos"/>
 	<entry name="Difficulty3AstraMilitarum" value="Commissar"/>
 	<entry name="Difficulty3ChaosSpaceMarines" value="Champion of Chaos"/>
+	<entry name="Difficulty3Drukhari" value="Wych"/>
 	<entry name="Difficulty3Eldar" value="Exarch"/>
 	<entry name="Difficulty3Necrons" value="Triarch Praetorian"/>
 	<entry name="Difficulty3Orks" value="Nob"/>
@@ -81,6 +85,7 @@
 	<entry name="Difficulty4AdeptusMechanicus" value="Fabricator Locum"/>
 	<entry name="Difficulty4AstraMilitarum" value="General"/>
 	<entry name="Difficulty4ChaosSpaceMarines" value="Chaos Lord"/>
+	<entry name="Difficulty4Drukhari" value="Haemonculus"/>
 	<entry name="Difficulty4Eldar" value="Autarch"/>
 	<entry name="Difficulty4Necrons" value="Cryptek"/>
 	<entry name="Difficulty4Orks" value="Boss"/>
@@ -94,6 +99,7 @@
 	<entry name="Difficulty5AdeptusMechanicus" value="Fabricator General"/>
 	<entry name="Difficulty5AstraMilitarum" value="Lord Commander"/>
 	<entry name="Difficulty5ChaosSpaceMarines" value="Daemon Prince"/>
+	<entry name="Difficulty5Drukhari" value="Archon"/>
 	<entry name="Difficulty5Eldar" value="Farseer"/>
 	<entry name="Difficulty5Necrons" value="Overlord"/>
 	<entry name="Difficulty5Orks" value="Warboss"/>
@@ -107,6 +113,7 @@
 	<entry name="Difficulty6AdeptusMechanicus" value="Omnissiah"/>
 	<entry name="Difficulty6AstraMilitarum" value="Warmaster"/>
 	<entry name="Difficulty6ChaosSpaceMarines" value="Dark God"/>
+	<entry name="Difficulty6Drukhari" value="Dark Muse"/>
 	<entry name="Difficulty6Eldar" value="Avatar"/>
 	<entry name="Difficulty6Necrons" value="Silent King"/>
 	<entry name="Difficulty6Orks" value="Prophet of Gork and Mork"/>
@@ -132,6 +139,12 @@
 	<entry name="GameVisibility1Hint" value="Game is not publicly listed and only joinable through invites or direct connect."/>
 	<entry name="GameVisibility2" value="Public"/>
 	<entry name="GameVisibility2Hint" value="Game is publicly listed and is joinable by anyone."/>
+	<entry name="Growth" value="Growth"/>
+	<entry name="Growth0" value="Very Low"/>
+	<entry name="Growth1" value="Low"/>
+	<entry name="Growth2" value="Medium"/>
+	<entry name="Growth3" value="High"/>
+	<entry name="Growth4" value="Very High"/>	
 	<entry name="HolySiteDensity" value="Holy Site Density"/>
 	<entry name="HolySiteDensity0" value="Very Low"/>
 	<entry name="HolySiteDensity1" value="Low"/>
@@ -158,6 +171,18 @@
 	<entry name="LandMass4" value="Very High"/>
 	<entry name="LordOfSkulls" value="Lord of Skulls DLC"/>
 	<entry name="MapEditor" value="Debug Panel"/>
+	<entry name="MaximumTechnologyTier" value="Maximum Technology Tier"/>
+	<entry name="MaximumTechnologyTier0" value="0"/>
+	<entry name="MaximumTechnologyTier1" value="1"/>
+	<entry name="MaximumTechnologyTier2" value="2"/>
+	<entry name="MaximumTechnologyTier3" value="3"/>
+	<entry name="MaximumTechnologyTier4" value="4"/>
+	<entry name="MaximumTechnologyTier5" value="5"/>
+	<entry name="MaximumTechnologyTier6" value="6"/>
+	<entry name="MaximumTechnologyTier7" value="7"/>
+	<entry name="MaximumTechnologyTier8" value="8"/>
+	<entry name="MaximumTechnologyTier9" value="9"/>
+	<entry name="MaximumTechnologyTier10" value="10"/>
 	<entry name="NecronTombDensity" value="Necron Tomb Density"/>
 	<entry name="NecronTombDensity0" value="Very Low"/>
 	<entry name="NecronTombDensity1" value="Low"/>
@@ -182,19 +207,40 @@
 	<entry name="RegionDensity1" value="Low"/>
 	<entry name="RegionDensity2" value="Medium"/>
 	<entry name="RegionDensity3" value="High"/>
-	<entry name="RegionDensity4" value="Very High"/>	
+	<entry name="RegionDensity4" value="Very High"/>
 	<entry name="RegionSize" value="Region Size"/>
 	<entry name="RegionSize0" value="Very Small"/>
 	<entry name="RegionSize1" value="Small"/>
 	<entry name="RegionSize2" value="Medium"/>
 	<entry name="RegionSize3" value="Large"/>
 	<entry name="RegionSize4" value="Very Large"/>
+	<entry name="RequiredTechnologiesPerTier" value="Required Technologies Per Tier"/>
+	<entry name="RequiredTechnologiesPerTier0" value="0"/>
+	<entry name="RequiredTechnologiesPerTier1" value="1"/>
+	<entry name="RequiredTechnologiesPerTier2" value="2"/>
+	<entry name="RequiredTechnologiesPerTier3" value="3"/>
+	<entry name="RequiredTechnologiesPerTier4" value="4"/>
+	<entry name="RequiredTechnologiesPerTier5" value="5"/>
+	<entry name="RequiredTechnologiesPerTier6" value="6"/>
+	<entry name="RequiredTechnologiesPerTier7" value="7"/>
 	<entry name="ResearchCost" value="Research Costs"/>
 	<entry name="ResearchCost0" value="Very Low"/>
 	<entry name="ResearchCost1" value="Low"/>
 	<entry name="ResearchCost2" value="Medium"/>
 	<entry name="ResearchCost3" value="High"/>
 	<entry name="ResearchCost4" value="Very High"/>
+	<entry name="ResearchedTechnologyTier" value="Researched Technology Tier"/>
+	<entry name="ResearchedTechnologyTier0" value="0"/>
+	<entry name="ResearchedTechnologyTier1" value="1"/>
+	<entry name="ResearchedTechnologyTier2" value="2"/>
+	<entry name="ResearchedTechnologyTier3" value="3"/>
+	<entry name="ResearchedTechnologyTier4" value="4"/>
+	<entry name="ResearchedTechnologyTier5" value="5"/>
+	<entry name="ResearchedTechnologyTier6" value="6"/>
+	<entry name="ResearchedTechnologyTier7" value="7"/>
+	<entry name="ResearchedTechnologyTier8" value="8"/>
+	<entry name="ResearchedTechnologyTier9" value="9"/>
+	<entry name="ResearchedTechnologyTier10" value="10"/>
 	<entry name="ResourceCost" value="Resource Costs"/>
 	<entry name="ResourceCost0" value="Very Low"/>
 	<entry name="ResourceCost1" value="Low"/>
@@ -257,6 +303,7 @@
 	<entry name="Supplement10" value="Escalation Pack DLC"/>
 	<entry name="Supplement11" value="Adepta Sororitas DLC"/>
 	<entry name="Supplement12" value="Firepower Pack DLC"/>
+	<entry name="Supplement13" value="Drukhari DLC"/>
 	<entry name="TropicalRegionDensity" value="Tropical Region Density"/>
 	<entry name="TropicalRegionDensity0" value="None"/>
 	<entry name="TropicalRegionDensity1" value="Very Low"/>

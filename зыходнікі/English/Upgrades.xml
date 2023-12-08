@@ -65,6 +65,24 @@
 	<entry name="ChaosSpaceMarines/Vehicles" value="<string name='Buildings/ChaosSpaceMarines/Vehicles'/>"/>
 	<entry name="ChaosSpaceMarines/VehiclesDescription" value="<string name='Buildings/ChaosSpaceMarines/VehiclesDescription'/>"/>
 	<entry name="ChaosSpaceMarines/VehiclesFlavor" value="<string name='Buildings/ChaosSpaceMarines/VehiclesFlavor'/>"/>
+	<entry name="Drukhari/Aircraft" value="<string name='Buildings/Drukhari/Aircraft'/>"/>
+	<entry name="Drukhari/AircraftDescription" value="<string name='Buildings/Drukhari/AircraftDescription'/>"/>
+	<entry name="Drukhari/AircraftFlavor" value="<string name='Buildings/Drukhari/AircraftFlavor'/>"/>
+	<entry name="Drukhari/Construction" value="<string name='Buildings/Drukhari/Construction'/>"/>
+	<entry name="Drukhari/ConstructionDescription" value="<string name='Buildings/Drukhari/ConstructionDescription'/>"/>
+	<entry name="Drukhari/ConstructionFlavor" value="<string name='Buildings/Drukhari/ConstructionFlavor'/>"/>
+	<entry name="Drukhari/Heroes" value="<string name='Buildings/Drukhari/Heroes'/>"/>
+	<entry name="Drukhari/HeroesDescription" value="<string name='Buildings/Drukhari/HeroesDescription'/>"/>
+	<entry name="Drukhari/HeroesFlavor" value="<string name='Buildings/Drukhari/HeroesFlavor'/>"/>
+	<entry name="Drukhari/Housing" value="<string name='Buildings/Drukhari/Housing'/>"/>
+	<entry name="Drukhari/HousingDescription" value="<string name='Buildings/Drukhari/HousingDescription'/>"/>
+	<entry name="Drukhari/HousingFlavor" value="<string name='Buildings/Drukhari/HousingFlavor'/>"/>
+	<entry name="Drukhari/Loyalty" value="<string name='Buildings/Drukhari/Loyalty'/>"/>
+	<entry name="Drukhari/LoyaltyDescription" value="<string name='Buildings/Drukhari/LoyaltyDescription'/>"/>
+	<entry name="Drukhari/LoyaltyFlavor" value="<string name='Buildings/Drukhari/LoyaltyFlavor'/>"/>
+	<entry name="Drukhari/Vehicles" value="<string name='Buildings/Drukhari/Vehicles'/>"/>
+	<entry name="Drukhari/VehiclesDescription" value="<string name='Buildings/Drukhari/VehiclesDescription'/>"/>
+	<entry name="Drukhari/VehiclesFlavor" value="<string name='Buildings/Drukhari/VehiclesFlavor'/>"/>
 	<entry name="Eldar/Aircraft" value="<string name='Buildings/Eldar/Aircraft'/>"/>
 	<entry name="Eldar/AircraftDescription" value="<string name='Buildings/Eldar/AircraftDescription'/>"/>
 	<entry name="Eldar/AircraftFlavor" value="<string name='Buildings/Eldar/AircraftFlavor'/>"/>
@@ -402,6 +420,48 @@
 	<entry name="ChaosSpaceMarines/WarpTalon" value="<string name='Units/ChaosSpaceMarines/WarpTalon'/>"/>
 	<entry name="ChaosSpaceMarines/WarpTalonDescription" value="<string name='Units/ChaosSpaceMarines/WarpTalonDescription'/>"/>
 	<entry name="ChaosSpaceMarines/WarpTalonFlavor" value="<string name='Units/ChaosSpaceMarines/WarpTalonFlavor'/>"/>
+	<entry name="Drukhari/Cronos" value="<string name='Units/Drukhari/Cronos'/>"/>
+	<entry name="Drukhari/CronosDescription" value="<string name='Units/Drukhari/CronosDescription'/>"/>
+	<entry name="Drukhari/CronosFlavor" value="<string name='Units/Drukhari/CronosFlavor'/>"/>
+	<entry name="Drukhari/Haemonculus" value="<string name='Units/Drukhari/Haemonculus'/>"/>
+	<entry name="Drukhari/HaemonculusDescription" value="<string name='Units/Drukhari/HaemonculusDescription'/>"/>
+	<entry name="Drukhari/HaemonculusFlavor" value="<string name='Units/Drukhari/HaemonculusFlavor'/>"/>
+	<entry name="Drukhari/Hellion" value="<string name='Units/Drukhari/Hellion'/>"/>
+	<entry name="Drukhari/HellionDescription" value="<string name='Units/Drukhari/HellionDescription'/>"/>
+	<entry name="Drukhari/HellionFlavor" value="<string name='Units/Drukhari/HellionFlavor'/>"/>
+	<entry name="Drukhari/Incubi" value="<string name='Units/Drukhari/Incubi'/>"/>
+	<entry name="Drukhari/IncubiDescription" value="<string name='Units/Drukhari/IncubiDescription'/>"/>
+	<entry name="Drukhari/IncubiFlavor" value="<string name='Units/Drukhari/IncubiFlavor'/>"/>
+	<entry name="Drukhari/KabaliteTrueborn" value="<string name='Units/Drukhari/KabaliteTrueborn'/>"/>
+	<entry name="Drukhari/KabaliteTruebornDescription" value="<string name='Units/Drukhari/KabaliteTruebornDescription'/>"/>
+	<entry name="Drukhari/KabaliteTruebornFlavor" value="<string name='Units/Drukhari/KabaliteTruebornFlavor'/>"/>
+	<entry name="Drukhari/Raider" value="<string name='Units/Drukhari/Raider'/>"/>
+	<entry name="Drukhari/RaiderDescription" value="<string name='Units/Drukhari/RaiderDescription'/>"/>
+	<entry name="Drukhari/RaiderFlavor" value="<string name='Units/Drukhari/RaiderFlavor'/>"/>
+	<entry name="Drukhari/Ravager" value="<string name='Units/Drukhari/Ravager'/>"/>
+	<entry name="Drukhari/RavagerDescription" value="<string name='Units/Drukhari/RavagerDescription'/>"/>
+	<entry name="Drukhari/RavagerFlavor" value="<string name='Units/Drukhari/RavagerFlavor'/>"/>
+	<entry name="Drukhari/Reaver" value="<string name='Units/Drukhari/Reaver'/>"/>
+	<entry name="Drukhari/ReaverDescription" value="<string name='Units/Drukhari/ReaverDescription'/>"/>
+	<entry name="Drukhari/ReaverFlavor" value="<string name='Units/Drukhari/ReaverFlavor'/>"/>
+	<entry name="Drukhari/Scourge" value="<string name='Units/Drukhari/Scourge'/>"/>
+	<entry name="Drukhari/ScourgeDescription" value="<string name='Units/Drukhari/ScourgeDescription'/>"/>
+	<entry name="Drukhari/ScourgeFlavor" value="<string name='Units/Drukhari/ScourgeFlavor'/>"/>
+	<entry name="Drukhari/Succubus" value="<string name='Units/Drukhari/Succubus'/>"/>
+	<entry name="Drukhari/SuccubusDescription" value="<string name='Units/Drukhari/SuccubusDescription'/>"/>
+	<entry name="Drukhari/SuccubusFlavor" value="<string name='Units/Drukhari/SuccubusFlavor'/>"/>
+	<entry name="Drukhari/Tantalus" value="<string name='Units/Drukhari/Tantalus'/>"/>
+	<entry name="Drukhari/TantalusDescription" value="<string name='Units/Drukhari/TantalusDescription'/>"/>
+	<entry name="Drukhari/TantalusFlavor" value="<string name='Units/Drukhari/TantalusFlavor'/>"/>
+	<entry name="Drukhari/VoidravenBomber" value="<string name='Units/Drukhari/VoidravenBomber'/>"/>
+	<entry name="Drukhari/VoidravenBomberDescription" value="<string name='Units/Drukhari/VoidravenBomberDescription'/>"/>
+	<entry name="Drukhari/VoidravenBomberFlavor" value="<string name='Units/Drukhari/VoidravenBomberFlavor'/>"/>
+	<entry name="Drukhari/Wrack" value="<string name='Units/Drukhari/Wrack'/>"/>
+	<entry name="Drukhari/WrackDescription" value="<string name='Units/Drukhari/WrackDescription'/>"/>
+	<entry name="Drukhari/WrackFlavor" value="<string name='Units/Drukhari/WrackFlavor'/>"/>
+	<entry name="Drukhari/Wyche" value="<string name='Units/Drukhari/Wyche'/>"/>
+	<entry name="Drukhari/WycheDescription" value="<string name='Units/Drukhari/WycheDescription'/>"/>
+	<entry name="Drukhari/WycheFlavor" value="<string name='Units/Drukhari/WycheFlavor'/>"/>
 	<entry name="Eldar/AvatarOfKhaine" value="<string name='Units/Eldar/AvatarOfKhaine'/>"/>
 	<entry name="Eldar/AvatarOfKhaineDescription" value="<string name='Units/Eldar/AvatarOfKhaineDescription'/>"/>
 	<entry name="Eldar/AvatarOfKhaineFlavor" value="<string name='Units/Eldar/AvatarOfKhaineFlavor'/>"/>
@@ -1128,6 +1188,123 @@
 	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Grants Champions of Chaos the chance to gain permanently increased attacks when killing an enemy (Boon of Chaos)."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyFlavor" value="<string name='Traits/ChaosSpaceMarines/WarpFrenzyFlavor'/>"/>
 	<entry name="CompendiumFlavor" value="Each faction expands its cities in a different way. Sometimes, it's an Ork Warboss joining his Boyz to literally lift and move his shielding walls further out, or perhaps a Necron Lord ordering his slaves to dig more of his ancient tomb from the planet's surface. However, they do it, it's necessary in order to make room for ingenious new buildings that expand their faction's capabilities."/>
+	<entry name="Drukhari/AssaultWeaponBonus" value="<string name='Traits/Drukhari/AssaultWeaponBonus'/>"/>
+	<entry name="Drukhari/AssaultWeaponBonusDescription" value="<string name='Traits/Drukhari/AssaultWeaponBonusDescription'/>"/>
+	<entry name="Drukhari/AssaultWeaponBonusFlavor" value="<string name='Traits/Drukhari/AssaultWeaponBonusFlavor'/>"/>
+	<entry name="Drukhari/BetrayalCultureUpgrade" value="Targetted Assassinations"/>
+	<entry name="Drukhari/BetrayalCultureUpgradeDescription" value="Increases the loyalty of Drukhari cities."/>
+	<entry name="Drukhari/BetrayalCultureUpgradeFlavor" value="Death is a matter of course in the streets of a Drukhari city, where corpses lie slumped on every corner, waiting for the Ur-Ghuls to drag them away… but the deaths of Dracons and Kabal nobles are more rare. Or they were until the Archon’s incubi discovered yet another plot. Now even the slightest hint of disloyalty will result in another noble body on a spike above the Archon’s sleeping quarters…"/>
+	<entry name="Drukhari/BonusResources" value="<string name='Actions/Drukhari/BonusResources'/>"/>
+	<entry name="Drukhari/BonusResourcesDescription" value="<string name='Actions/Drukhari/BonusResourcesDescription'/>"/>
+	<entry name="Drukhari/BonusResourcesFlavor" value="<string name='Actions/Drukhari/BonusResourcesFlavor'/>"/>
+	<entry name="Drukhari/CityTier2" value="<string name='Traits/Drukhari/CityTier2'/>"/>
+	<entry name="Drukhari/CityTier2Description" value="<string name='Traits/Drukhari/CityTier2Description'/>"/>
+	<entry name="Drukhari/CityTier2Flavor" value="<string name='Traits/Drukhari/CityTier2Flavor'/>"/>
+	<entry name="Drukhari/CityTier3" value="<string name='Traits/Drukhari/CityTier3'/>"/>
+	<entry name="Drukhari/CityTier3Description" value="<string name='Traits/Drukhari/CityTier3Description'/>"/>
+	<entry name="Drukhari/CityTier3Flavor" value="<string name='Traits/Drukhari/CityTier3Flavor'/>"/>
+	<entry name="Drukhari/CombatDrugsUpgrade" value="Cult Cold Trader"/>
+	<entry name="Drukhari/CombatDrugsUpgradeDescription" value="Grants all Drukhari infantry the abiltiy to use combat drugs."/>
+	<entry name="Drukhari/CombatDrugsUpgradeFlavor" value="Though combat drugs are in widespread use throughout Drukhari society, it is the Wych Cults that are happiest using them, despite their deleterious effect on their physiology and lifespan. Having a Wych cult liaison with access to their huge store of horrifying compounds is a serious boon to an Kabal making realspace raids."/>
+	<entry name="Drukhari/CorsairOutpostsUpgrade" value="A Soul Rush"/>
+	<entry name="Drukhari/CorsairOutpostsUpgradeDescription" value="Increases the growth by default of Drukhari cities."/>
+	<entry name="Drukhari/CorsairOutpostsUpgradeFlavor" value="Rumours are spreading like the plague in Commorragh: of the wealth of Gladius Prime; of its billion suffering humans trapped beneath the Warp Storm; and of the strange wraithbone core to the planet, filled with lost Aeldari souls… true or not, the Drukhari come. But who could have started those rumours..?"/>
+	<entry name="Drukhari/EnergyBuildingBonus" value="<string name='Traits/Drukhari/EnergyBuildingBonus'/>"/>
+	<entry name="Drukhari/EnergyBuildingBonusDescription" value="Increases the energy ouput of energy production buildings."/>
+	<entry name="Drukhari/EnergyBuildingBonusFlavor" value="<string name='Traits/Drukhari/EnergyBuildingBonusFlavor'/>"/>
+	<entry name="Drukhari/EnhancedAethersails" value="<string name='Actions/Drukhari/EnhancedAethersails'/>"/>
+	<entry name="Drukhari/EnhancedAethersailsDescription" value="Grants Raider, Ravager and Tantalus the ability to increase their movement."/>
+	<entry name="Drukhari/EnhancedAethersailsFlavor" value="<string name='Actions/Drukhari/EnhancedAethersailsFlavor'/>"/>
+	<entry name="Drukhari/ExtraInfantryArmour" value="Ghostplate Armour"/>
+	<entry name="Drukhari/ExtraInfantryArmourDescription" value="Increases the armour of Scourges."/>
+	<entry name="Drukhari/ExtraInfantryArmourFlavor" value="Equipping an entire army with Ghostplate would be ruinously expensive. But for the favoured few, the Archon has splashed out. Constructed of strange resinous materials and shot through with pockets of lighter-than-air gas, Ghostplate provides considerable protection whilst weighing almost nothing."/>
+	<entry name="Drukhari/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
+	<entry name="Drukhari/ExtraVehicleArmourDescription" value="<string name='Traits/ExtraVehicleArmourDescription'/>"/>
+	<entry name="Drukhari/ExtraVehicleArmourFlavor" value="Whether equipped with Flickerfields or Night Shields, the vehicles of the Drukhari are hard to spot and harder to target. Integrating Ghostplate into the more prized machines is expensive, but reduces their weight and increases their speed, further reducing the likelihood that they can be hit."/>
+	<entry name="Drukhari/FieldRepairs" value="<string name='Actions/Drukhari/FieldRepairs'/>"/>
+	<entry name="Drukhari/FieldRepairsDescription" value="Grants all Drukhari vehicles the ability to restore hitpoints."/>
+	<entry name="Drukhari/FieldRepairsFlavor" value="<string name='Actions/Drukhari/FieldRepairsFlavor'/>"/>
+	<entry name="Drukhari/GraveLotus" value="Grave Lotus"/>
+	<entry name="Drukhari/GraveLotusDescription" value="Combat drugs grant additional melee damage."/>
+	<entry name="Drukhari/GraveLotusFlavor" value="In Devil's Orchard, noisome hanging gardens of Grave Lotus sprout from a mosaic of the dead. A vivid purple fungus, the lotus steals the fading strength of the recently dead to further its own growth. The Wych Cults steal in their turn, imbibing the lotus in liquid form to boost their own physical powers."/>
+	<entry name="Drukhari/GrislyTrophies" value="<string name='Actions/Drukhari/GrislyTrophies'/>"/>
+	<entry name="Drukhari/GrislyTrophiesDescription" value="Grants Venom, Raider, Ravager and Tantalus an aura that reduces the morale loss of adjacent allied Drukhari units."/>
+	<entry name="Drukhari/GrislyTrophiesFlavor" value="<string name='Actions/Drukhari/GrislyTrophiesFlavor'/>"/>
+	<entry name="Drukhari/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="Drukhari/HammerOfWrathDescription" value="Grants Cronos, Hellions, Reavers and Scourges the ability to perform more devastating attacks."/>
+	<entry name="Drukhari/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="Drukhari/HaywireGrenade" value="<string name='Weapons/HaywireGrenade'/>"/>
+	<entry name="Drukhari/HaywireGrenadeDescription" value="Grants Kabalite Warriors, Succubus and Wyches the ability to throw anti-vehicle grenades."/>
+	<entry name="Drukhari/HaywireGrenadeFlavor" value="<string name='Weapons/HaywireGrenadeFlavor'/>"/>
+	<entry name="Drukhari/HeavyWeaponBonus" value="<string name='Traits/Drukhari/HeavyWeaponBonus'/>"/>
+	<entry name="Drukhari/HeavyWeaponBonusDescription" value="Increases the armour penetration of heavy weapons."/>
+	<entry name="Drukhari/HeavyWeaponBonusFlavor" value="<string name='Traits/Drukhari/HeavyWeaponBonusFlavor'/>"/>
+	<entry name="Drukhari/Hypex" value="Hypex"/>
+	<entry name="Drukhari/HypexDescription" value="Combat drugs grant move through cover."/>
+	<entry name="Drukhari/HypexFlavor" value="Capturing a Psychneuein is a perilous quest, but one who does so can sell it to the Wych Cults for a high price indeed. The drug Hypex, when distilled from the insectoid creature's cerebral fluids, boosts the already-sharp reaction speed of the Drukhari to truly astonishing levels."/>
+	<entry name="Drukhari/MeleeWeaponBonus" value="<string name='Traits/Drukhari/MeleeWeaponBonus'/>"/>
+	<entry name="Drukhari/MeleeWeaponBonusDescription" value="Increases the armour penetration of melee weapons."/>
+	<entry name="Drukhari/MeleeWeaponBonusFlavor" value="<string name='Traits/Drukhari/MeleeWeaponBonusFlavor'/>"/>
+	<entry name="Drukhari/NightShields" value="<string name='Traits/Drukhari/NightShields'/>"/>
+	<entry name="Drukhari/NightShieldsDescription" value="Increases the ranged damage reduction of Raiders, Ravagers, Razorwing Jetfighters, Tantalus and Voidraven Bombers."/>
+	<entry name="Drukhari/NightShieldsFlavor" value="<string name='Traits/Drukhari/NightShieldsFlavor'/>"/>
+	<entry name="Drukhari/Painbringer" value="Painbringer"/>
+	<entry name="Drukhari/PainbringerDescription" value="Combat drugs grant feel no pain damage reduction."/>
+	<entry name="Drukhari/PainbringerFlavor" value="Only the exiled Duke Sliscus can claim a steady supply of Painbringer. Amongst the rarest of all augmentative elixirs, it hardens the imbiber's skin into a flexible sheath as resilient as cured leather. This process is agonising in the extreme, though its advocate consider the pain a trivial price to pay."/>
+	<entry name="Drukhari/PlasmaGrenade" value="<string name='Weapons/PlasmaGrenade'/>"/>
+	<entry name="Drukhari/PlasmaGrenadeDescription" value="Grants Archon, Kabalite Warriors, Scourges and Succubus the ability to throw versatile grenades."/>
+	<entry name="Drukhari/PlasmaGrenadeFlavor" value="<string name='Weapons/PlasmaGrenadeFlavor'/>"/>
+	<entry name="Drukhari/RaiderFortress" value="<string name='Actions/Drukhari/RaiderFortress'/>"/>
+	<entry name="Drukhari/RaiderFortressDescription" value="Grants the ability to found new cities on claimed Webway Gates."/>
+	<entry name="Drukhari/RaiderFortressFlavor" value="<string name='Actions/Drukhari/RaiderFortressFlavor'/>"/>
+	<entry name="Drukhari/RaidersTacticsDamage" value="<string name='Traits/Drukhari/RaidersTacticsDamage'/>"/>
+	<entry name="Drukhari/RaidersTacticsDamageDescription" value="Increases the damage of infantry Drukhari units when they disembark from transport."/>
+	<entry name="Drukhari/RaidersTacticsDamageFlavor" value="<string name='Traits/Drukhari/RaidersTacticsDamageFlavor'/>"/>
+	<entry name="Drukhari/RaidersTacticsDamageReduction" value="<string name='Traits/Drukhari/RaidersTacticsDamageReduction'/>"/>
+	<entry name="Drukhari/RaidersTacticsDamageReductionDescription" value="Increases the invulnerable damage reduction of infantry Drukhari units when they disembark from transport."/>
+	<entry name="Drukhari/RaidersTacticsDamageReductionFlavor" value="<string name='Traits/Drukhari/RaidersTacticsDamageReductionFlavor'/>"/>
+	<entry name="Drukhari/RaidersTacticsHealingRate" value="<string name='Traits/Drukhari/RaidersTacticsHealingRate'/>"/>
+	<entry name="Drukhari/RaidersTacticsHealingRateDescription" value="Increases the healing rate of infantry units embarked in transport."/>
+	<entry name="Drukhari/RaidersTacticsHealingRateFlavor" value="<string name='Traits/Drukhari/RaidersTacticsHealingRateFlavor'/>"/>
+	<entry name="Drukhari/SacrificeToKhaine" value="<string name='Traits/Drukhari/SacrificeToKhaine'/>"/>
+	<entry name="Drukhari/SacrificeToKhaineDescription" value="<string name='Actions/Drukhari/SacrificeToKhaineDescription'/>"/>
+	<entry name="Drukhari/SacrificeToKhaineFlavor" value="<string name='Traits/Drukhari/SacrificeToKhaineFlavor'/>"/>
+	<entry name="Drukhari/ShroudGate" value="<string name='Traits/Drukhari/ShroudGate'/>"/>
+	<entry name="Drukhari/ShroudGateDescription" value="Increases the ranged damage reduction of units passing through a webway gate or a webway portal."/>
+	<entry name="Drukhari/ShroudGateFlavor" value="<string name='Traits/Drukhari/ShroudGateFlavor'/>"/>
+	<entry name="Drukhari/SoulHungerCost" value="Soul Locus"/>
+	<entry name="Drukhari/SoulHungerCostDescription" value="Reduces the cost of Soul Hunger abilities."/>
+	<entry name="Drukhari/SoulHungerCostFlavor" value="As the Drukhari’s raid into Realspace becomes more entrenched, so the connections between this world and Commorragh become more and more numerous. Even when sealed physically, it’s still plausible for the Kabal to draw power from these connections and to feed stolen life back through them."/>
+	<entry name="Drukhari/SoulHungerLoyalty" value="<string name='Traits/Drukhari/SoulHungerLoyalty'/>"/>
+	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="<string name='Actions/Drukhari/SoulHungerLoyaltyDescription'/>"/>
+	<entry name="Drukhari/SoulHungerLoyaltyFlavor" value="<string name='Traits/Drukhari/SoulHungerLoyalty'/>"/>
+	<entry name="Drukhari/SoulHungerOutposts" value="<string name='Traits/Drukhari/SoulHungerOutposts'/>"/>
+	<entry name="Drukhari/SoulHungerOutpostsDescription" value="<string name='Actions/Drukhari/SoulHungerOutpostsDescription'/>"/>
+	<entry name="Drukhari/SoulHungerOutpostsFlavor" value="<string name='Traits/Drukhari/SoulHungerOutpostsFlavor'/>"/>
+	<entry name="Drukhari/SoulHungerUpgrade" value="Soul Sadists"/>
+	<entry name="Drukhari/SoulHungerUpgradeDescription" value="Increases the influence granted by Drukhari units when they kill an enemy."/>
+	<entry name="Drukhari/SoulHungerUpgradeFlavor" value="“You must drug them. Kill the guards. Open the gate. Wake them carefully. Lead them out to freedom. Give them hope of escape. Start the pursuit in earnest. Fake your death. Show them an exit. Then reveal the charade. And return them to the torture chamber, grinning wickedly. Without touching them, you have imbued them with a rich, spiritual pain that will never leave.” – Gyrthineus Roche, Archon of The Last Blade"/>
+	<entry name="Drukhari/FeastOfTorment" value="<string name='Traits/Drukhari/FeastOfTorment'/>"/>
+	<entry name="Drukhari/FeastOfTormentDescription" value="<string name='Actions/Drukhari/FeastOfTormentDescription'/>"/>
+	<entry name="Drukhari/FeastOfTormentFlavor" value="<string name='Traits/Drukhari/FeastOfTormentFlavor'/>"/>
+	<entry name="Drukhari/SoulShelling" value="<string name='Actions/Drukhari/SoulShelling'/>"/>
+	<entry name="Drukhari/SoulShellingDescription" value="<string name='Actions/Drukhari/SoulShellingDescription'/>"/>
+	<entry name="Drukhari/SoulShellingFlavor" value="<string name='Actions/Drukhari/SoulShellingFlavor'/>"/>
+	<entry name="Drukhari/Splintermind" value="Splintermind"/>
+	<entry name="Drukhari/SplintermindDescription" value="Combat drugs grant morale loss reduction."/>
+	<entry name="Drukhari/SplintermindFlavor" value="Splintermind is made from the ground crystal remains of a dead Eldar Farseer. Though it does not ensure prescience, this dust-like substance allows those who take it to think in several directions at once – an invaluable asset, for the confusion of battle takes its toll on even the most rigorous battle plan."/>
+	<entry name="Drukhari/TormentGrenadeLaunchers" value="<string name='Weapons/TormentGrenadeLaunchers'/>"/>
+	<entry name="Drukhari/TormentGrenadeLaunchersDescription" value="Grants Raiders, Ravagers and Tantalus Torment Grenade Launchers."/>
+	<entry name="Drukhari/TormentGrenadeLaunchersFlavor" value="<string name='Weapons/TormentGrenadeLaunchersFlavor'/>"/>
+	<entry name="Drukhari/WealthPlunder" value="<string name='Actions/Drukhari/WealthPlunder'/>"/>
+	<entry name="Drukhari/WealthPlunderDescription" value="<string name='Actions/Drukhari/WealthPlunderDescription'/>"/>
+	<entry name="Drukhari/WealthPlunderFlavor" value="<string name='Actions/Drukhari/WealthPlunderFlavor'/>"/>
+	<entry name="Drukhari/WeaponRacks" value="<string name='Traits/Drukhari/WeaponRacks'/>"/>
+	<entry name="Drukhari/WeaponRacksDescription" value="Grants twin-linked to the ranged weapons of units disembarking from a Raider or a Tantalus."/>
+	<entry name="Drukhari/WeaponRacksFlavor" value="<string name='Traits/Drukhari/WeaponRacksFlavor'/>"/>
+	<entry name="Drukhari/WebwayTravelAction" value="Realspace Irruption"/>
+	<entry name="Drukhari/WebwayTravelActionDescription" value="Removes the action cost from Webway Travel."/>
+	<entry name="Drukhari/WebwayTravelActionFlavor" value="Though passing through a webway gate is simplicity itself, co-ordinating the movements of a large army or formation can make them vulnerable. For the Drukhari, this is solved by the creation of temporary gates around any permanent portals, allowing the entire group to move rapidly through at once."/>
 	<entry name="Eldar/AircraftBuildingBonus" value="<string name='Traits/Eldar/AircraftBuildingBonus'/>"/>
 	<entry name="Eldar/AircraftBuildingBonusDescription" value="Increases the production output of Portal Spires."/>
 	<entry name="Eldar/AircraftBuildingBonusFlavor" value="<string name='Traits/Eldar/AircraftBuildingBonusFlavor'/>"/>
@@ -1767,7 +1944,7 @@
 	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Reduces the influence cost of For The Greater Good."/>
 	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tau/HammerOfWrathDescription" value="Grants XV95 Ghostkeel Battlesuits, XV104 Riptide Battlesuits and KV128 Stormsurges the ability to perform more devastating attacks."/>
+	<entry name="Tau/HammerOfWrathDescription" value="Grants XV95 Ghostkeel Battlesuits, XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits and KV128 Stormsurges the ability to perform more devastating attacks."/>
 	<entry name="Tau/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tau/LasDamage" value="<string name='Traits/Tau/LasDamage'/>"/>
 	<entry name="Tau/LasDamageDescription" value="Increases the armour penetration of fusion, ion, plasma and pulse weapons."/>

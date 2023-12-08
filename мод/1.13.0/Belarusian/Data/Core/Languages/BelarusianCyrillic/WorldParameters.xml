@@ -29,6 +29,7 @@
 	<entry name="Difficulty0AdeptusMechanicus" value="Адсікулярыс"/>
 	<entry name="Difficulty0AstraMilitarum" value="Прызыўнік"/>
 	<entry name="Difficulty0ChaosSpaceMarines" value="Культыст"/>
+	<entry name="Difficulty0Drukhari" value="Высушаны"/>
 	<entry name="Difficulty0Eldar" value="Вартавы"/>
 	<entry name="Difficulty0Necrons" value="Разьдзіральнік"/>
 	<entry name="Difficulty0Orks" value="Сквіг"/>
@@ -42,6 +43,7 @@
 	<entry name="Difficulty1AdeptusMechanicus" value="Сервітор"/>
 	<entry name="Difficulty1AstraMilitarum" value="Гвардзеец"/>
 	<entry name="Difficulty1ChaosSpaceMarines" value="Вырадак"/>
+	<entry name="Difficulty1Drukhari" value="Разваліна"/>
 	<entry name="Difficulty1Eldar" value="Ваяр Асьпекту"/>
 	<entry name="Difficulty1Necrons" value="Ваяр"/>
 	<entry name="Difficulty1Orks" value="Грот"/>
@@ -55,6 +57,7 @@
 	<entry name="Difficulty2AdeptusMechanicus" value="Машынабачац"/>
 	<entry name="Difficulty2AstraMilitarum" value="Сяржант"/>
 	<entry name="Difficulty2ChaosSpaceMarines" value="Паўшы Брат"/>
+	<entry name="Difficulty2Drukhari" value="Кабаліт"/>
 	<entry name="Difficulty2Eldar" value="Рэйнджар"/>
 	<entry name="Difficulty2Necrons" value="Несьмяротны"/>
 	<entry name="Difficulty2Orks" value="Хлопец"/>
@@ -68,6 +71,7 @@
 	<entry name="Difficulty3AdeptusMechanicus" value="Магас"/>
 	<entry name="Difficulty3AstraMilitarum" value="Камісар"/>
 	<entry name="Difficulty3ChaosSpaceMarines" value="Чэмпіён Хаосу"/>
+	<entry name="Difficulty3Drukhari" value="Ўайч"/>
 	<entry name="Difficulty3Eldar" value="Экзарх"/>
 	<entry name="Difficulty3Necrons" value="Прэтарыянец Трыярхаў"/>
 	<entry name="Difficulty3Orks" value="Ноб"/>
@@ -81,6 +85,7 @@
 	<entry name="Difficulty4AdeptusMechanicus" value="Фабрыкатар Локум"/>
 	<entry name="Difficulty4AstraMilitarum" value="Генерал"/>
 	<entry name="Difficulty4ChaosSpaceMarines" value="Лорд Хаосу"/>
+	<entry name="Difficulty4Drukhari" value="Гамункулус"/>
 	<entry name="Difficulty4Eldar" value="Автарх"/>
 	<entry name="Difficulty4Necrons" value="Кріптэк"/>
 	<entry name="Difficulty4Orks" value="Бос"/>
@@ -94,6 +99,7 @@
 	<entry name="Difficulty5AdeptusMechanicus" value="Фабрыкатар Генерал"/>
 	<entry name="Difficulty5AstraMilitarum" value="Лорд-Камандор"/>
 	<entry name="Difficulty5ChaosSpaceMarines" value="Князь-Дэман"/>
+	<entry name="Difficulty5Drukhari" value="Архон"/>
 	<entry name="Difficulty5Eldar" value="Вяшчун"/>
 	<entry name="Difficulty5Necrons" value="Валадар"/>
 	<entry name="Difficulty5Orks" value="Вайнабос"/>
@@ -107,6 +113,7 @@
 	<entry name="Difficulty6AdeptusMechanicus" value="Амнісія"/>
 	<entry name="Difficulty6AstraMilitarum" value="Майстар Вайны"/>
 	<entry name="Difficulty6ChaosSpaceMarines" value="Цёмны Бог"/>
+	<entry name="Difficulty6Drukhari" value="Цёмная Муза"/>
 	<entry name="Difficulty6Eldar" value="Аватар"/>
 	<entry name="Difficulty6Necrons" value="Бязмоўны Гаспадар"/>
 	<entry name="Difficulty6Orks" value="Прарок Горка і Морка"/>
@@ -132,6 +139,12 @@
 	<entry name="GameVisibility1Hint" value="Гульня не даступная ў публічным сьпісе. Доступ магчымы толькі праз запрашэньні ці непасрэдныя злучэньні."/>
 	<entry name="GameVisibility2" value="Публічная"/>
 	<entry name="GameVisibility2Hint" value="Гэта публічная гульня. Кожны можа далучыцца."/>
+	<entry name="Growth" value="Узрост Гарадоў"/>
+	<entry name="Growth0" value="Вельмі Нізкі"/>
+	<entry name="Growth1" value="Нізкі"/>
+	<entry name="Growth2" value="Сярэдні"/>
+	<entry name="Growth3" value="Высокі"/>
+	<entry name="Growth4" value="Вельмі Высокі"/>	
 	<entry name="HolySiteDensity" value="Шчыльнасьць Сьвятых Месцаў"/>
 	<entry name="HolySiteDensity0" value="Вельмі Нізкая"/>
 	<entry name="HolySiteDensity1" value="Нізкая"/>
@@ -158,6 +171,18 @@
 	<entry name="LandMass4" value="Вельмі Высокая"/>
 	<entry name="LordOfSkulls" value="DLC Лорд Чарапоў"/>
 	<entry name="MapEditor" value="Панэль адладкі"/>
+	<entry name="MaximumTechnologyTier" value="Максімальны Ровень Тэхналогіяў"/>
+	<entry name="MaximumTechnologyTier0" value="0"/>
+	<entry name="MaximumTechnologyTier1" value="1"/>
+	<entry name="MaximumTechnologyTier2" value="2"/>
+	<entry name="MaximumTechnologyTier3" value="3"/>
+	<entry name="MaximumTechnologyTier4" value="4"/>
+	<entry name="MaximumTechnologyTier5" value="5"/>
+	<entry name="MaximumTechnologyTier6" value="6"/>
+	<entry name="MaximumTechnologyTier7" value="7"/>
+	<entry name="MaximumTechnologyTier8" value="8"/>
+	<entry name="MaximumTechnologyTier9" value="9"/>
+	<entry name="MaximumTechnologyTier10" value="10"/>
 	<entry name="NecronTombDensity" value="Шчыльнасьць Грабніц Некронаў"/>
 	<entry name="NecronTombDensity0" value="Вельмі Нізкая"/>
 	<entry name="NecronTombDensity1" value="Нізкая"/>
@@ -189,12 +214,33 @@
 	<entry name="RegionSize2" value="Сярэдні"/>
 	<entry name="RegionSize3" value="Вялікі"/>
 	<entry name="RegionSize4" value="Вельмі Вялікі"/>
+	<entry name="RequiredTechnologiesPerTier" value="Трэба Тэхналогіяў да Наступнага Роўню"/>
+	<entry name="RequiredTechnologiesPerTier0" value="0"/>
+	<entry name="RequiredTechnologiesPerTier1" value="1"/>
+	<entry name="RequiredTechnologiesPerTier2" value="2"/>
+	<entry name="RequiredTechnologiesPerTier3" value="3"/>
+	<entry name="RequiredTechnologiesPerTier4" value="4"/>
+	<entry name="RequiredTechnologiesPerTier5" value="5"/>
+	<entry name="RequiredTechnologiesPerTier6" value="6"/>
+	<entry name="RequiredTechnologiesPerTier7" value="7"/>
 	<entry name="ResearchCost" value="Кошт Дасьледаваньняў"/>
 	<entry name="ResearchCost0" value="Вельмі Нізкі"/>
 	<entry name="ResearchCost1" value="Нізкі"/>
 	<entry name="ResearchCost2" value="Сярэдні"/>
 	<entry name="ResearchCost3" value="Высокі"/>
 	<entry name="ResearchCost4" value="Вельмі Высокі"/>
+	<entry name="ResearchedTechnologyTier" value="Ровень Дасьледаваных Тэхналогіяў"/>
+	<entry name="ResearchedTechnologyTier0" value="0"/>
+	<entry name="ResearchedTechnologyTier1" value="1"/>
+	<entry name="ResearchedTechnologyTier2" value="2"/>
+	<entry name="ResearchedTechnologyTier3" value="3"/>
+	<entry name="ResearchedTechnologyTier4" value="4"/>
+	<entry name="ResearchedTechnologyTier5" value="5"/>
+	<entry name="ResearchedTechnologyTier6" value="6"/>
+	<entry name="ResearchedTechnologyTier7" value="7"/>
+	<entry name="ResearchedTechnologyTier8" value="8"/>
+	<entry name="ResearchedTechnologyTier9" value="9"/>
+	<entry name="ResearchedTechnologyTier10" value="10"/>
 	<entry name="ResourceCost" value="Кошт Рэсурсаў"/>
 	<entry name="ResourceCost0" value="Вельмі Нізкі"/>
 	<entry name="ResourceCost1" value="Нізкі"/>
@@ -257,6 +303,7 @@
 	<entry name="Supplement10" value="DLC Набор Эскалацыя"/>
 	<entry name="Supplement11" value="DLC Адэпта Сарорытас"/>
 	<entry name="Supplement12" value="DLC Набор Агнявая Моц"/>
+	<entry name="Supplement13" value="DLC Друкхары"/>
 	<entry name="TropicalRegionDensity" value="Шчыльнасьць Трапічнай Мясцовасьці"/>
 	<entry name="TropicalRegionDensity0" value="Адсутнічае"/>
 	<entry name="TropicalRegionDensity1" value="Вельмі Нізкая"/>
