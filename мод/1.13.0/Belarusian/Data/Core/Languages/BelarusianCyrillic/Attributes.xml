@@ -90,7 +90,7 @@
 	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="ExperienceGainRate" value="Хуткасьць Атрыманьня Досьведу"/>
 	<entry name="ExperienceGainRateIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
-	<entry name="FeelNoPainDamageReduction" value="Зьніжэньне Шкоды ад Адсутнасьці Болю"/>
+	<entry name="FeelNoPainDamageReduction" value="Зьніжэньне Шкоды ад Адсутнасьці Пачуцьця Болю"/>
 	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="FlankingDamageFactor" value="Флангавая Шкода"/>
 	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
@@ -260,7 +260,7 @@
 	<entry name="RangedDamageReductionBypass" value="Абход Зьніжэньне Шкоды Далёкага Бою"/>
 	<entry name="RangedDamageTaken" value="Шкода Атрыманая ў Далёкім Боі"/>
 	<entry name="RangedDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="RangedInvulnerableDamageReduction" value="Зьніжэньне Няўразьлівай Шкоды Далёкага Бою"/>
+	<entry name="RangedInvulnerableDamageReduction" value="Непаражальнае Зьніжэньне Шкоды Далёкага Бою"/>
 	<entry name="RangedInvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="RequiredActionPoints" value="Патрэбныя Дзеяньні"/>
 	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>

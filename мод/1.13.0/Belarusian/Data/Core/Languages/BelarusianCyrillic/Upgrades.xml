@@ -1249,7 +1249,7 @@
 	<entry name="Drukhari/NightShieldsDescription" value="Павялічвае зьнідэньне шкоды ад далёкага бою Рэйдарам, Апусташальнікам, Зьнішчальнікам Лёзакрыл, Танталусам і Бамбавікам · Пустэчны Крумкач."/>
 	<entry name="Drukhari/NightShieldsFlavor" value="<string name='Traits/Drukhari/NightShieldsFlavor'/>"/>
 	<entry name="Drukhari/Painbringer" value="Болянос"/>
-	<entry name="Drukhari/PainbringerDescription" value="Баявыя наркотыкі, што даюць зьніжэньне шкоды без пачуцьця болю."/>
+	<entry name="Drukhari/PainbringerDescription" value="Баявыя наркотыкі, што даюць зьніжэньне шкоды ад адсутнасьці пачуцьця болю."/>
 	<entry name="Drukhari/PainbringerFlavor" value="Only the exiled Duke Sliscus can claim a steady supply of Painbringer. Amongst the rarest of all augmentative elixirs, it hardens the imbiber's skin into a flexible sheath as resilient as cured leather. This process is agonising in the extreme, though its advocate consider the pain a trivial price to pay."/>
 	<entry name="Drukhari/PlasmaGrenade" value="<string name='Weapons/PlasmaGrenade'/>"/>
 	<entry name="Drukhari/PlasmaGrenadeDescription" value="Дае Архонам, Кабаліцкім Ваярам, Бедствам і Сукубусам здольнасьць кідаць універсальныя гранаты."/>
@@ -1360,7 +1360,7 @@
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць цяжкай зброі."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="<string name='Traits/Eldar/HeavyWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/HoloFields" value="<string name='Traits/Eldar/HoloFields'/>"/>
-	<entry name="Eldar/HoloFieldsDescription" value="Дае зьніжэньне шкоды ад непаражальнасьці Агнявым Прызмам, Шэршням, Хвалевым Зьмеям пасьля руху."/>
+	<entry name="Eldar/HoloFieldsDescription" value="Дае непаражальнае зьніжэньне шкоды Агнявым Прызмам, Шэршням, Хвалевым Зьмеям пасьля руху."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="<string name='Traits/Eldar/HoloFieldsFlavor'/>"/>
 	<entry name="Eldar/InfantryBuildingBonus" value="<string name='Traits/Eldar/InfantryBuildingBonus'/>"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Павялічвае вытворчасьць Тыглей Асур'яна."/>
@@ -1718,7 +1718,7 @@
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Дае Лупцоўнікам, Экзарцыстам і Ахвярнікам аўру, якая дазваляе ўзрушаным адзінкам зьдяйсьняць Акты Веры."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Traits/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Traits/SistersOfBattle/MedicusMinistorum'/>"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае зьніжэньне шкоды без пачуцьця болі хаўруснай пяхоце, суседняй да Шпітальерак."/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае зьніжэньне шкоды ад адсутнасьці пачуцьця болю хаўруснай пяхоце, суседняй да Шпітальерак."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="<string name='Traits/SistersOfBattle/MedicusMinistorumFlavor'/>"/>
 	<entry name="SistersOfBattle/MeleeWeaponBonus" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonus'/>"/>
 	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
@@ -1980,10 +1980,10 @@
 	<entry name="Tau/SensorSpinesDescription" value="Дае тэхніцы магчымасьць руху праз хованкі."/>
 	<entry name="Tau/SensorSpinesFlavor" value="Sensor spines are used to feed data to an advanced ground-following flight control system, plotting safe courses through treacherous terrain that avoid traps and mines that might lie hidden from sight."/>
 	<entry name="Tau/ShieldGenerator" value="<string name='Traits/Tau/ShieldGenerator'/>"/>
-	<entry name="Tau/ShieldGeneratorDescription" value="Сістэма падтрымкі баявога гарнітура, якая зьніжае шкоду ад непаражальнасьці."/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Сістэма падтрымкі баявога гарнітура дае непаражальнае зьніжэньне шкоды."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StimulantInjector" value="<string name='Traits/Tau/StimulantInjector'/>"/>
-	<entry name="Tau/StimulantInjectorDescription" value="Сістэма падтрымкі баявога гарнітура, якая паляпшае пачуцьцё бязбольнага зьмяншэньня шкоды."/>
+	<entry name="Tau/StimulantInjectorDescription" value="Сістэма падтрымкі баявога гарнітура, якая паляпшае зьніжэньне шкоды ад адсутнасьці пачуцьця болю."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/SubversionBonus" value="Дасьледаваньне Падбухторваньняў"/>
 	<entry name="Tau/SubversionBonusDescription" value="Павялічвае штраф лаяльнасьці за Зьвяржэньні ў Гарадах."/>

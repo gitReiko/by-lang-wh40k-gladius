@@ -414,7 +414,7 @@
 	<entry name="Drukhari/GrislyTrophiesDescription" value="Źnižaje straty marali hetaj adzinki i susiednich adzinak Drukchary."/>
 	<entry name="Drukhari/GrislyTrophiesFlavor" value="Some Dark Eldar vehicles are adorned with the disembodied heads of slain foes and daubed with copious amounts of enemy blood. The sight of the festering remains of onceproud foes instils the Dark Eldar with arrogant pride."/>
 	<entry name="Drukhari/MasterOfPain" value="Majstar Bolu"/>
-	<entry name="Drukhari/MasterOfPainDescription" value="Daje dadatkovaje źnižeńnie škody ad Adsutnaści Pačućcia Bolu susiednim piachtonym adzinkam Drukchary."/>
+	<entry name="Drukhari/MasterOfPainDescription" value="Daje dadatkovaje źnižeńnie škody ad adsutnaści pačućcia bolu susiednim piachtonym adzinkam Drukchary."/>
 	<entry name="Drukhari/MasterOfPainFlavor" value="Such exquisite agonies are inflicted by a Haemonculus on its followers that they barely feel their own suffering any more, as oblivious as a follower of Nurgle to the wounds inflicted on their bodies."/>
 	<entry name="Drukhari/NoEscape" value="Niama Vyratavańnia"/>
 	<entry name="Drukhari/NoEscapeDescription" value="Źnižaje ruch varožaj naziemnaj adzinki."/>
@@ -453,7 +453,7 @@
 	<entry name="Drukhari/SoulShellingDescription" value="Zdolnaść Hoład pa Dušach nanosić škodu abranaj varožaj adzincy."/>
 	<entry name="Drukhari/SoulShellingFlavor" value="The most powerful Drukhari weapons arent light enough to take on a Raid, instead reserved for the defense of the Kabals base in Comorroragh or on Battleships for realspace incursions—Phantom Lances and Scythe Missile Launchers and so on. But a wily Archon might allow his minions to fire one of these weapons through a temporary portal, knowing all the while the weapon might be turned on them…"/>
 	<entry name="Drukhari/SpiritProbe" value="Duchoŭny Zond"/>
-	<entry name="Drukhari/SpiritProbeDescription" value="Daje dadatkovaje źnižeńnie škody ad Adsutnaści Pačućcia Bolu hetaj adzincy i susiedniaj piachocie Drukchary vyšejšaj za 2 rovień."/>
+	<entry name="Drukhari/SpiritProbeDescription" value="Daje dadatkovaje źnižeńnie škody ad adsutnaści pačućcia bolu hetaj adzincy i susiedniaj piachocie Drukchary vyšejšaj za 2 rovień."/>
 	<entry name="Drukhari/SpiritProbeFlavor" value="A spirit probe is a conductor for agony; a device that ensures no scrap of pain or misery escapes the Cronos contra-empathic net. Running hot on tides of excruciation, it boosts the resilience of nearby Dark Eldar, allowing them to stride laughing amid volleys of fire and rains of blows that would otherwise tear them apart."/>
 	<entry name="Drukhari/SplinteredGenius" value="Padzieleny Hienij"/>
 	<entry name="Drukhari/SplinteredGeniusDescription" value="Daje dadatkovyja ački dziejańnia hetaj adzincy."/>
@@ -837,7 +837,7 @@
 	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="Pavialičvaje trapnaść.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="Sisters of the Adepta Sororitas are filled with the knowledge that the only thing they need fear is failing the Emperor of Mankind. Armed with such faith, they are driven to unprecedented feats of prowess."/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="Miedykus Ministrorum"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Daje adsutnaść pačućcia bolu susiedniaj chaŭrusnaj piachocie."/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Daje źnižeńnie škody ad adsutnaści pačućcia bolu susiedniaj chaŭrusnaj piachocie."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum and by the Hospitallers of the Adepta Sororitas. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments."/>
 	<entry name="SistersOfBattle/MiraculousIntervention" value="Cudoŭnaje Ŭmiašalnictva"/>
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="Paśla śmierci Śviataja Seleścina nieadkładna viartajecca da žyćcia.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
@@ -1048,7 +1048,7 @@
 	<entry name="Tyranids/AcquireTile" value="Nabyć plitku (Tyranidy)"/>
 	<entry name="Tyranids/AcquireTileDescription" value="Nabyvaje novuju plitku dla horada, spažyvajučy jaje bijamasu, z'jadajučy lasy i pieratvarajučy ziamlu ŭ karennuju parodu. Budynki lha ŭzvodzić tolki na nabytych plitkach. Kožnaja plitka patrabuje ŭpłyŭ na ŭtrymańnie."/>
 	<entry name="Tyranids/AdaptiveBiology" value="Adaptyŭnaja Bijałohija"/>
-	<entry name="Tyranids/AdaptiveBiologyDescription" value="Pavialičvaje biazbolnaje źnižeńnie škody na krok paśla atrymańnia škody."/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Pavialičvaje źnižeńnie škody ad adsutnaści pačućcia bolu na krok paśla atrymańnia škody."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="This hero has been created to adapt against the weaponry used by the current prey world's defenders."/>
 	<entry name="Tyranids/AlphaWarrior" value="Alfa-Vajar"/>
 	<entry name="Tyranids/AlphaWarriorDescription" value="Pavialičvaje trapnaść chaŭrusnych Vajaroŭ-Tyranidaŭ u radyusie dziejańnia."/>

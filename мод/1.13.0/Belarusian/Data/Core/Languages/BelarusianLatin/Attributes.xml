@@ -90,7 +90,7 @@
 	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="ExperienceGainRate" value="Chutkaść Atrymańnia Dośviedu"/>
 	<entry name="ExperienceGainRateIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
-	<entry name="FeelNoPainDamageReduction" value="Źnižeńnie Škody ad Adsutnaści Bolu"/>
+	<entry name="FeelNoPainDamageReduction" value="Źnižeńnie Škody ad Adsutnaści Pačućcia Bolu"/>
 	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="FlankingDamageFactor" value="Fłanhavaja Škoda"/>
 	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
@@ -260,7 +260,7 @@
 	<entry name="RangedDamageReductionBypass" value="Abchod Źnižeńnie Škody Dalokaha Boju"/>
 	<entry name="RangedDamageTaken" value="Škoda Atrymanaja ŭ Dalokim Boi"/>
 	<entry name="RangedDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
-	<entry name="RangedInvulnerableDamageReduction" value="Źnižeńnie Niaŭraźlivaj Škody Dalokaha Boju"/>
+	<entry name="RangedInvulnerableDamageReduction" value="Nieparažalnaje Źnižeńnie Škody Dalokaha Boju"/>
 	<entry name="RangedInvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="RequiredActionPoints" value="Patrebnyja Dziejańni"/>
 	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>

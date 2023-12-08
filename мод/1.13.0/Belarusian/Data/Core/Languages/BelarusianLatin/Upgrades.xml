@@ -1249,7 +1249,7 @@
 	<entry name="Drukhari/NightShieldsDescription" value="Pavialičvaje źnideńnie škody ad dalokaha boju Rejdaram, Apustašalnikam, Źniščalnikam Lozakrył, Tantałusam i Bambavikam · Pustečny Krumkač."/>
 	<entry name="Drukhari/NightShieldsFlavor" value="<string name='Traits/Drukhari/NightShieldsFlavor'/>"/>
 	<entry name="Drukhari/Painbringer" value="Bolanos"/>
-	<entry name="Drukhari/PainbringerDescription" value="Bajavyja narkotyki, što dajuć źnižeńnie škody biez pačućcia bolu."/>
+	<entry name="Drukhari/PainbringerDescription" value="Bajavyja narkotyki, što dajuć źnižeńnie škody ad adsutnaści pačućcia bolu."/>
 	<entry name="Drukhari/PainbringerFlavor" value="Only the exiled Duke Sliscus can claim a steady supply of Painbringer. Amongst the rarest of all augmentative elixirs, it hardens the imbiber's skin into a flexible sheath as resilient as cured leather. This process is agonising in the extreme, though its advocate consider the pain a trivial price to pay."/>
 	<entry name="Drukhari/PlasmaGrenade" value="<string name='Weapons/PlasmaGrenade'/>"/>
 	<entry name="Drukhari/PlasmaGrenadeDescription" value="Daje Archonam, Kabalickim Vajaram, Biedstvam i Sukubusam zdolnaść kidać univiersalnyja hranaty."/>
@@ -1360,7 +1360,7 @@
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść ciažkaj zbroi."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="<string name='Traits/Eldar/HeavyWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/HoloFields" value="<string name='Traits/Eldar/HoloFields'/>"/>
-	<entry name="Eldar/HoloFieldsDescription" value="Daje źnižeńnie škody ad nieparažalnaści Ahniavym Pryzmam, Šeršniam, Chvalevym Źmiejam paśla ruchu."/>
+	<entry name="Eldar/HoloFieldsDescription" value="Daje nieparažalnaje źnižeńnie škody Ahniavym Pryzmam, Šeršniam, Chvalevym Źmiejam paśla ruchu."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="<string name='Traits/Eldar/HoloFieldsFlavor'/>"/>
 	<entry name="Eldar/InfantryBuildingBonus" value="<string name='Traits/Eldar/InfantryBuildingBonus'/>"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Pavialičvaje vytvorčaść Tyhlej Asur'jana."/>
@@ -1718,7 +1718,7 @@
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Daje Łupcoŭnikam, Ekzarcystam i Achviarnikam aŭru, jakaja dazvalaje ŭzrušanym adzinkam źdiajśniać Akty Viery."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Traits/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="<string name='Traits/SistersOfBattle/MedicusMinistorum'/>"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Daje źnižeńnie škody biez pačućcia boli chaŭrusnaj piachocie, susiedniaj da Špitaljerak."/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Daje źnižeńnie škody ad adsutnaści pačućcia bolu chaŭrusnaj piachocie, susiedniaj da Špitaljerak."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="<string name='Traits/SistersOfBattle/MedicusMinistorumFlavor'/>"/>
 	<entry name="SistersOfBattle/MeleeWeaponBonus" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonus'/>"/>
 	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
@@ -1980,10 +1980,10 @@
 	<entry name="Tau/SensorSpinesDescription" value="Daje technicy mahčymaść ruchu praz chovanki."/>
 	<entry name="Tau/SensorSpinesFlavor" value="Sensor spines are used to feed data to an advanced ground-following flight control system, plotting safe courses through treacherous terrain that avoid traps and mines that might lie hidden from sight."/>
 	<entry name="Tau/ShieldGenerator" value="<string name='Traits/Tau/ShieldGenerator'/>"/>
-	<entry name="Tau/ShieldGeneratorDescription" value="Sistema padtrymki bajavoha harnitura, jakaja źnižaje škodu ad nieparažalnaści."/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Sistema padtrymki bajavoha harnitura daje nieparažalnaje źnižeńnie škody."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
 	<entry name="Tau/StimulantInjector" value="<string name='Traits/Tau/StimulantInjector'/>"/>
-	<entry name="Tau/StimulantInjectorDescription" value="Sistema padtrymki bajavoha harnitura, jakaja palapšaje pačućcio biazbolnaha źmianšeńnia škody."/>
+	<entry name="Tau/StimulantInjectorDescription" value="Sistema padtrymki bajavoha harnitura, jakaja palapšaje źnižeńnie škody ad adsutnaści pačućcia bolu."/>
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/SubversionBonus" value="Daśledavańnie Padbuchtorvańniaŭ"/>
 	<entry name="Tau/SubversionBonusDescription" value="Pavialičvaje štraf łajalnaści za Źviaržeńni ŭ Haradach."/>

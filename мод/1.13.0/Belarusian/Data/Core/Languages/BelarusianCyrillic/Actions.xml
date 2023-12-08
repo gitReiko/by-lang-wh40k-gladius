@@ -414,7 +414,7 @@
 	<entry name="Drukhari/GrislyTrophiesDescription" value="Зьніжае страты маралі гэтай адзінкі і суседніх адзінак Друкхары."/>
 	<entry name="Drukhari/GrislyTrophiesFlavor" value="Some Dark Eldar vehicles are adorned with the disembodied heads of slain foes and daubed with copious amounts of enemy blood. The sight of the festering remains of onceproud foes instils the Dark Eldar with arrogant pride."/>
 	<entry name="Drukhari/MasterOfPain" value="Майстар Болю"/>
-	<entry name="Drukhari/MasterOfPainDescription" value="Дае дадатковае зьніжэньне шкоды ад Адсутнасьці Пачуцьця Болю суседнім пяхтоным адзінкам Друкхары."/>
+	<entry name="Drukhari/MasterOfPainDescription" value="Дае дадатковае зьніжэньне шкоды ад адсутнасьці пачуцьця болю суседнім пяхтоным адзінкам Друкхары."/>
 	<entry name="Drukhari/MasterOfPainFlavor" value="Such exquisite agonies are inflicted by a Haemonculus on its followers that they barely feel their own suffering any more, as oblivious as a follower of Nurgle to the wounds inflicted on their bodies."/>
 	<entry name="Drukhari/NoEscape" value="Няма Выратаваньня"/>
 	<entry name="Drukhari/NoEscapeDescription" value="Зьніжае рух варожай наземнай адзінкі."/>
@@ -453,7 +453,7 @@
 	<entry name="Drukhari/SoulShellingDescription" value="Здольнасьць Голад па Душах наносіць шкоду абранай варожай адзінцы."/>
 	<entry name="Drukhari/SoulShellingFlavor" value="The most powerful Drukhari weapons aren’t light enough to take on a Raid, instead reserved for the defense of the Kabal’s base in Comorroragh or on Battleships for realspace incursions—Phantom Lances and Scythe Missile Launchers and so on. But a wily Archon might allow his minions to fire one of these weapons through a temporary portal, knowing all the while the weapon might be turned on them…"/>
 	<entry name="Drukhari/SpiritProbe" value="Духоўны Зонд"/>
-	<entry name="Drukhari/SpiritProbeDescription" value="Дае дадатковае зьніжэньне шкоды ад Адсутнасьці Пачуцьця Болю гэтай адзінцы і суседняй пяхоце Друкхары вышэйшай за 2 ровень."/>
+	<entry name="Drukhari/SpiritProbeDescription" value="Дае дадатковае зьніжэньне шкоды ад адсутнасьці пачуцьця болю гэтай адзінцы і суседняй пяхоце Друкхары вышэйшай за 2 ровень."/>
 	<entry name="Drukhari/SpiritProbeFlavor" value="A spirit probe is a conductor for agony; a device that ensures no scrap of pain or misery escapes the Cronos’ contra-empathic net. Running hot on tides of excruciation, it boosts the resilience of nearby Dark Eldar, allowing them to stride laughing amid volleys of fire and rains of blows that would otherwise tear them apart."/>
 	<entry name="Drukhari/SplinteredGenius" value="Падзелены Геній"/>
 	<entry name="Drukhari/SplinteredGeniusDescription" value="Дае дадатковыя ачкі дзеяньня гэтай адзінцы."/>
@@ -837,7 +837,7 @@
 	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="Павялічвае трапнасьць.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="Sisters of the Adepta Sororitas are filled with the knowledge that the only thing they need fear is failing the Emperor of Mankind. Armed with such faith, they are driven to unprecedented feats of prowess."/>
 	<entry name="SistersOfBattle/MedicusMinistorum" value="Медыкус Міністрорум"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае адсутнасьць пачуцьця болю суседняй хаўруснай пяхоце."/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае зьніжэньне шкоды ад адсутнасьці пачуцьця болю суседняй хаўруснай пяхоце."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum and by the Hospitallers of the Adepta Sororitas. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments."/>
 	<entry name="SistersOfBattle/MiraculousIntervention" value="Цудоўнае Ўмяшальніцтва"/>
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="Пасьля сьмерці Сьвятая Сэлесьціна неадкладна вяртаецца да жыцьця.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
@@ -1048,7 +1048,7 @@
 	<entry name="Tyranids/AcquireTile" value="Набыць плітку (Тыраніды)"/>
 	<entry name="Tyranids/AcquireTileDescription" value="Набывае новую плітку для горада, спажываючы яе біямасу, з'ядаючы лясы і ператвараючы зямлю ў карэнную пароду. Будынкі льга ўзводзіць толькі на набытых плітках. Кожная плітка патрабуе ўплыў на ўтрыманьне."/>
 	<entry name="Tyranids/AdaptiveBiology" value="Адаптыўная Біялогія"/>
-	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае бязбольнае зьніжэньне шкоды на крок пасьля атрыманьня шкоды."/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зьніжэньне шкоды ад адсутнасьці пачуцьця болю на крок пасьля атрыманьня шкоды."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="This hero has been created to adapt against the weaponry used by the current prey world's defenders."/>
 	<entry name="Tyranids/AlphaWarrior" value="Альфа-Ваяр"/>
 	<entry name="Tyranids/AlphaWarriorDescription" value="Павялічвае трапнасьць хаўрусных Ваяроў-Тыранідаў у радыусе дзеяньня."/>

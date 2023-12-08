@@ -9,6 +9,7 @@
 	<entry name="BurstFlavor" value="Burst weaponry finds use across the T'au military, primarily mounted on battlesuits and vehicles. Utilising a similar plasma induction technology found in T'au pulse technology, burst cannons are multibarrelled weapons able to sustain high rates of fire."/>
 	<entry name="CognisFlavor" value="Cognis weaponry, though superficially similar to that used by the rest of the Imperium, has one vital difference – a cognis weapon’s machine spirit has been permanently awakened by the rites of the Machine God. When the wielder is unable to give his full concentration, the warlike spirit of the gun will take over."/>
 	<entry name="DestroyerFlavor" value="Also known as Titan-killers, destroyer weapons deliver horrifying amounts of damage."/>
+	<entry name="DarklightFlavor" value="Darklight works by reacting catastrophically with its target, producing a blast that can bore a massive hole in a vehicle regardless of armour, or vaporise a foot soldier in an instant. Even to perceive a beam of darklight without the correct protection leaves permanent slash-scars upon the retina."/>
 	<entry name="DistortionFlavor" value="The most dangerous of all Aeldari weapons enable their user to open a portal to the Warp. Often called D-weapons, these technological terrors collapse an area of the material universe. Whether the rift is localised or dispersed, the result is invariably fatal for those nearby."/>
 	<entry name="FlamerFlavor" value="Flamers are short-ranged weapons that spew out highly volatile clouds of liquid chemicals that ignite on contact with air. They are primarily used to scour the enemy from defended positions, as walls are of no defence against blasts of superheated vapour."/>
 	<entry name="ForceFlavor" value="Force weapons are potent psychic weapons used exclusively by trained psykers. By instilling a portion of his mental might into the weapon, a psyker can strike his foe with an incredible storm of power that ravages and overloads his enemy's nervous system, leaving him a mindless shell."/>
@@ -31,6 +32,7 @@
 	<entry name="RailFlavor" value="T'au rail weapons use linear accelerator technology to fire a solid projectile at hyper-velocity. They are capable of punching through the thickest of armour and of taking down the largest of enemies."/>
 	<entry name="ShootaFlavor" value="Shootas are noisy, large-calibre machine guns. They vary wildly in size and design, from those carried by foot-slogging Boyz to long barrelled supa-shootas that are mounted on aircraft. Regardless of their particular design, all shootas are both deafening and deadly."/>
 	<entry name="ShurikenFlavor" value="Shuriken weapons fire monomolecular bladed discs at an astonishing rate, each near invisible to the naked eye but hard enough to scythe through the foe with ease. These instruments of war are capable of firing up to a hundred shuriken in just a few seconds, a series of high-energy impulses originating at the rear of the weapon to propel the small but deadly projectiles through the barrel at terrific speed."/>
+	<entry name="SplinterFlavor" value="Splinter weapons fire shards of splintered crystal covered in incredibly potent toxins using a powerful magno-electric pulse."/>
 	<entry name="StubFlavor" value="These are low-tech solutions to ranged warfare on high-tech battlefields. Encompassing such weapons as shotguns, stub guns and heavy stubbers (sometimes called sluggers), the common bond between all of these weapons is that they are, without exception, cumbersome, noisy and fairly primitive firearms. Often employed by gangers, law enforcement officers and even civilians across the Imperium, these weapons make a formidable din when fired, and are easy to maintain."/>
 	<entry name="TailBiomorphFlavor" value="The tails of some Tyranids are deadly weapons, from bony protrusions dense enough to cave in the side of a tank to stingers containing enough poison to kill whole regiments."/>
 	<entry name="TaserFlavor" value="Powered by hyperdynamo capacitors, taser weapons store an incredible amount of potential energy. A solid impact will cause this energy to be discharged in a scorching blast, only to be harnessed once more by the electrothief prongs at the weapon’s tip."/>
@@ -38,6 +40,8 @@
 	<entry name="ThoraxBiomorphFlavor" value="Certain Tyranids have thoracic cavities that play host to swarms of parasites—some of these minute creatures drain their victims' vital fluids, others emit an electrical charge which plays havoc with enemy vehicles, and others still nestle amongst the foe's armour before exploding in a horrific fashion."/>
 	
 	<!-- Specific -->
+	<entry name="Agoniser" value="Агонізатар"/>
+	<entry name="AgoniserFlavor" value="An agoniser is an extremely sophisticated weapon that drives a victim’s sensorium haywire, causing excruciatingly severe pain as nerves burn out from overload. Though agonisers come in a variety of forms, the most common are toxin-soaked whips."/>
 	<entry name="AnointedHalberd" value="Памазаная Алебарда"/>
 	<entry name="AnointedHalberdFlavor" value="Anointed Halberds are heavy Power Halberds that are wielded by the Adepta Sororitas' Celestian Sacresants. When properly wielded from behind the Ceslestians’ impenetrable Sacresant Shields, they are deadly in battle."/>
 	<entry name="AnguishOfTheUnredeemed" value="Пакуты Збавіцеля"/>
@@ -46,6 +50,8 @@
 	<entry name="AquilaMacroCannonFlavor" value="The munitions silo allows the Aquila macro-cannon to fire special quake shells, each of which measures several feet in length and has a powerful charge that causes it to reach hyper-sonic velocity when it is fired."/>
 	<entry name="ArcClaw" value="Дугавы Кіпцюр"/>
 	<entry name="ArcClawFlavor" value="The coruscating power of a Breacher’s arc weaponry is undeniable in combat, where scintillating parabolas of electricity burn through foes. Yet it was designed for destroying vehicles and only against them is its true power revealed, banishing their machine spirits in an instant."/>
+	<entry name="ArchiteGlaive" value="Архіцкая Глефа"/>
+	<entry name="ArchiteGlaiveFlavor" value="These power glaives are exquisitely crafted pole-arms employed to lethal effect by Succubi in both the gladiatorial arenas of Commorragh and the battlefields of realspace. They can be wielded with both hands, to bisect a foe with ease, or used in combination with another weapon to cut through a host of victims."/>
 	<entry name="AssaultCannon" value="Штурмавая Гармата"/>
 	<entry name="AssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="Autogun" value="Аўтапушка"/>
@@ -80,6 +86,10 @@
 	<entry name="BioPlasmaFlavor" value="Some Carnifexes can generate a roaring ball of bio-plasma within their bodies and vomit forth the resultant energy as an incandescent gobbet of fire."/>
 	<entry name="BioPlasmicCannon" value="Біяплазмавая Гармата"/>
 	<entry name="BioPlasmicCannonFlavor" value="This giant weapon can channel bio-plasma through a series of different ventricles to ensure the destruction of its prey, unleashing a vast ball of roaring energy through its central chamber, or firing several focussed streams of death through its surrounding barrels."/>
+	<entry name="Blaster" value="Бластар"/>
+	<entry name="BlasterFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
+	<entry name="BlastPistol" value="Бластарны Пісталет"/>
+	<entry name="BlastPistolFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
 	<entry name="Blighted" value="Асьляпленьне"/>
 	<entry name="BlindingVenom" value="Асьляпляльны Яд"/>
 	<entry name="BlindingVenomFlavor" value="Some Tyranids spit caustic venom at their prey's eyes."/>
@@ -117,6 +127,8 @@
 	<entry name="ChainswordFlavor" value="A chainsword is a high-powered chainsaw fitted with hilt, pommel and guard to make it less unwieldy. It is a common weapon across the Imperium, with a quite horrifying reputation for the damage it can inflict on unarmoured flesh."/>
 	<entry name="Choppa" value="Чоппа"/>
 	<entry name="ChoppaFlavor" value="Orks use a variety of bladed weapons and chain-blades. The largest hand-held choppas can bisect most foes in a single swing, whilst those mounted on Stompas can slice a Titan in two."/>
+	<entry name="CrucibleOfMalediction" value="<string name='Actions/Drukhari/CrucibleOfMalediction'/>"/>
+	<entry name="CrucibleOfMaledictionFlavor" value="<string name='Actions/Drukhari/CrucibleOfMaledictionFlavor'/>"/>
 	<entry name="CrushingClaws" value="Зьнішчальныя Кіпцюры"/>
 	<entry name="CrushingClawsFlavor" value="The obscene strength of these claws allows them to smash any foe."/>
 	<entry name="ClawedLimbs" value="Кіпцюрастыя Канечнасьці"/>
@@ -149,6 +161,10 @@
 	<entry name="DCannonFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
 	<entry name="DaedalusMissileLauncher" value="Ракетная Ўсталёўка Даэдалус"/>
 	<entry name="DaedalusMissileLauncherFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
+	<entry name="DarkLance" value="Цёмнае Кап'ё"/>
+	<entry name="DarkLanceFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
+	<entry name="DarkScythe" value="Цёмная Каса"/>
+	<entry name="DarkScytheFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
 	<entry name="Dataspike" value="Шып Дадзеных"/>
 	<entry name="DataspikeFlavor" value="The dataspikes favoured by the agents of the Adeptus Mechanicus can stab into the cortex of enemy machines and steal their secrets within a couple of heartbeats."/>
 	<entry name="DeathRay" value="Прамень Сьмерці"/>
@@ -174,6 +190,8 @@
 	<entry name="DevourerFlavor" value="These weapons fling worm-like parasites that burrow into their victim's flesh and eat their way through its nervous system to the brain. The devourers wielded by larger Tyranids teem with hives of brainleech worms, a more aggressive and voracious devourer worm."/>
 	<entry name="DialogusStaff" value="Посах Дыялогуса"/>
 	<entry name="DialogusStaffFlavor" value="The Dialogus Staff is the symbol of office of the Orders Dialogus which in combat can also double as a combat weapon."/>
+	<entry name="DisintegratorCannon" value="Дэзынтэгратарная Гармата"/>
+	<entry name="DisintegratorCannonFlavor" value="The disintegrator cannon fires particles of unstable matter harnessed from a stolen sun, each shot capable of atomising the most heavily armoured warrior. Far more sophisticated than conventional plasma-based firearms, it maintains a high rate of fire and always remains cool to the touch despite the ravening energies housed within."/>
 	<entry name="DoomsdayCannonHighPower" value="Гармата Суднага Дня (Высокая Магутнасьць)"/>
 	<entry name="DoomsdayCannonHighPowerFlavor" value="Even fired at low power, the doomsday cannon is a fearsome weapon; when firing at full effect, nothing less than a Titan's void shields can offer hope of protection."/>
 	<entry name="DoomsdayCannonLowPower" value="Гармата Суднага Дня (Нізкая Магутнасьць)"/>
