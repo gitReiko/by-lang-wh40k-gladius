@@ -161,7 +161,7 @@
 	<entry name="DCannonFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
 	<entry name="DaedalusMissileLauncher" value="Rakietnaja Ŭstaloŭka Daedałus"/>
 	<entry name="DaedalusMissileLauncherFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
-	<entry name="DarkLance" value="Ciomnaje Kap'jo"/>
+	<entry name="DarkLance" value="Ciomnaja Dzida"/>
 	<entry name="DarkLanceFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
 	<entry name="DarkScythe" value="Ciomnaja Kasa"/>
 	<entry name="DarkScytheFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
@@ -199,6 +199,7 @@
 	<entry name="DesiccatorLarvae" value="Ličynki Desikkatara"/>
 	<entry name="DesiccatorLarvaeFlavor" value="<string name='Weapons/ThoraxBiomorphFlavor'/>"/>
 	<entry name="DisruptorMissileLauncher" value="Rakietnaja Ŭstaloŭka Razburalnik"/>
+	<entry name="DisruptorMissileLauncherFlavor" value="Like its Ferrumite Cannon main armament, the Skorpius Disintegrators prow-mounted Disruptor Missiles are most effective against tougher targets with medium armour."/>
 	<entry name="DroolCannon" value="Slimakavaja Harmata"/>
 	<entry name="DroolCannonFlavor" value="Drool cannons fire gobbets of caustic digestive juice over their victims."/>
 	<entry name="EMPGrenade" value="EMI Hranata"/>
@@ -218,6 +219,7 @@
 	<entry name="ExorcistMissileLauncher" value="Rakietnaja Ŭstaloŭka Ekzarcyst"/>
 	<entry name="ExorcistMissileLauncherFlavor" value="The Exorcist missiles fired by these revered vehicles are capable of splitting open enemy battle tanks or destroying entire squads of heavy infantry in one punishing salvo, provided, of course, that the Exorcists temperamental machine spirit does not malfunction."/>
 	<entry name="FerrumiteCannon" value="Fierrumitavaja Harmata"/>
+	<entry name="FerrumiteCannonFlavor" value="A primitive and ancient weapon system, the Ferumite Cannons Servitor gunner has been hard-wired into the weapon for optimal performance against large targets. When its cannon fires, the solid-core shells arc across the battlefield, turning into molten spears on contact and flash-heating whatever they impale."/>
 	<entry name="Flamer" value="Ahniakid"/>
 	<entry name="FlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="FlechetteBlaster" value="Iholčaty Błastar"/>
@@ -272,8 +274,12 @@
 	<entry name="HadesGatlingCannonFlavor" value="If the Hades autocannon generates a rain of fire, the vastly enlarged Hades gatling cannon summons forth a hurricane. Firing several hundred rune-graven rounds per second, this weapon churns everything in its sights to unrecognisable pulp."/>
 	<entry name="HavocLauncher" value="Puskavaja Ŭstaloŭka Apustašeńnia"/>
 	<entry name="HavocLauncherFlavor" value="These launchers fire clusters of highly explosive missiles."/>
+	<entry name="HaywireBlaster" value="Błastar Pak Drotu"/>
+	<entry name="HaywireBlasterFlavor" value="Haywire blasters are long-barrelled weapons that siphon the electromagnetic energy crackling around Commorraghs highest aeries, to later release it in a terrifyingly powerful burst. A well-aimed haywire blaster can cripple an enemy vehicles control systems in a single shot."/>
 	<entry name="HaywireGrenade" value="Hranata Pak Drotu"/>
 	<entry name="HaywireGrenadeFlavor" value="Haywire grenades release electromagnetic pulses that damage vehicles."/>
+	<entry name="HeatLance" value="Ciepłavaja Dzida"/>
+	<entry name="HeatLanceFlavor" value="The heat lance combines melta and high-yield las technology into a weapon that has both surprising reach and extreme destructive potential."/>
 	<entry name="HeatRayDispersed" value="Raśsiejany Ciepłavy Pramień"/>
 	<entry name="HeatRayDispersedFlavor" value="The heat ray is a multipurpose fusion weapon whose focussed blasts can slice an enemy tank in half from end to end. Should the heat ray be turned upon enemy infantry, the operator can instead fire a dispersed beam, bathing his target in clouds of scorching plasma."/>
 	<entry name="HeatRayFocused" value="Sfakusavany Ciepłavy Pramień"/>
@@ -297,6 +303,8 @@
 	<entry name="HeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="HeavyVenomCannon" value="Ciažkaja Atrutnaja Harmata"/>
 	<entry name="HeavyVenomCannonFlavor" value="These powerful bio-weapons fire salvoes of corrosive crystals at tremendous velocities which shatter on impact to shred the foe."/>
+	<entry name="Hellglaive" value="Piakielnaja Hlefa"/>
+	<entry name="HellglaiveFlavor" value="A hellglaive is a lightweight, twin-bladed halberd. Though it requires some effort to master, this weapon can spin and block like a stave, cut like a scythe, or impale like a barbed spear. From the back of a Hellion skyboard such a weapon can prove especially lethal, lopping off heads and severing limbs with every blow."/>
 	<entry name="HellmawCannon" value="Harmata Piakielnaja Ziapa"/>
 	<entry name="HellmawCannonFlavor" value="The paired Hellmaw cannons slung under the Brass Scorpions abdomen gout flames direct from the Warp itself. Once the daemon-riddled Brass Scorpion has cracked open a fortification with its Hellcrusher claws, it likes to use the Hellmaws to flush out the garrison, so it can torment them at leisure."/>
 	<entry name="HellstrikeMissile" value="Rakieta Piakielny Ŭdar"/>
@@ -309,6 +317,8 @@
 	<entry name="HotShotLasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="HunterKillerMissile" value="Rakieta Palaŭničy-Zabojca"/>
 	<entry name="HunterKillerMissileFlavor" value="Hunter-killer missiles are commonly fitted to Imperial vehicles. These single-use weapon systems allow vehicles such as Rhinos to engage armoured enemy vehicles that would otherwise far outmatch them."/>
+	<entry name="Huskblade" value="Ašałuplalnaje Lazo"/>
+	<entry name="HuskbladeFlavor" value="Leaving smoking trails as it carves through the air, a huskblade instantly evaporates the moisture in anything it touches, reducing targets to shrivelled and gruesome corpses that fall away to dust on the breeze."/>
 	<entry name="ImpalerCannon" value="Harmata-Praciaciel"/>
 	<entry name="ImpalerCannonFlavor" value="Impaler cannons propel osseous spines at such high velocities that they can punch through reinforced plasteel. At the base of each spine is a small creature known as a shard-beast that uses thin membranous fins to steer the spine towards its target."/>
 	<entry name="FlameBreath" value="Pałymianaje Dychańnie"/>
@@ -320,6 +330,8 @@
 	<entry name="Frazzle" value="Vymataciel"/>
 	<entry name="FrazzleFlavor" value="The Weirdboy sends out arcs of crackling psychic energy that ground themselves upon the enemy, reducing them to shrivelled husks before the eyes of their terrified comrades."/>
 	<entry name="IcarusArrayFlavor" value="The Icarus arrays used by the Adeptus Mechanicus fill the sky with inescapable death. Comprising a twin Icarus autocannon with skyscryer lenses, a gatling rocket launcher that fires whole salvoes of flak and an armour-piercing missile launcher, its combined firepower can shred an entire squadron of enemy fighters."/>
+	<entry name="ImplosionMissile" value="Impłazijnaja Rakieta"/>
+	<entry name="ImplosionMissileFlavor" value="Upon detonation, these missiles emit a molecular dissonance field that causes those caught in their path to implode, instantly collapsing in upon themselves and leaving nothing more than a scorched silhouette to mark their passage."/>
 	<entry name="IncendineCombustor" value="Stymulatar Kamiery Zharańnia"/>
 	<entry name="IncendineCombustorFlavor" value="Typically mounted atop the Kastelan Battle Robot, the incendine combustor hurls out great gouts of burning, thrice-blessed promethium. Laced with Magos-blessed unguents and ignited by a flame lit from the Perpetual Forge, each holy fire-thrower can turn a technoheretic into foul tallow in a matter of seconds."/>
 	<entry name="IonAcceleratorOvercharged" value="Ijonny Paskaralnik (Pierahružany)"/>
@@ -335,6 +347,8 @@
 	<entry name="JokaeroDigitalWeaponFlavor" value="<string name='Items/JokaeroDigitalWeaponFlavor'/>"/>
 	<entry name="KanKlaw" value="Kłušnia Blašanki"/>
 	<entry name="KanKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="Klaive" value="Klefa"/>
+	<entry name="KlaiveFlavor" value="Klaives are massive ritual powerblades of brutal aspect. Shimmering with dark energy, these weapons are impossibly light for their size and can slice through the thickest armour and toughest flesh with insulting ease."/>
 	<entry name="KlawOfGork" value="Kłušnia Horka"/>
 	<entry name="KlawOfGorkFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
 	<entry name="KrakGrenade" value="Krak-Hranata "/>
@@ -450,6 +464,8 @@
 	<entry name="PowerSwordFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
 	<entry name="PulseBomb" value="Impulsnaja Bomba"/>
 	<entry name="PulseBombFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
+	<entry name="PulseDisintegrator" value="Impulsny Dezyntehratar"/>
+	<entry name="PulseDisintegratorFlavor" value="The Tantalus unique heavy armament employs an unstable form of ‘Darklight dark matter, harnessed from the ‘Ilmaea—black suns stolen from Realspace. A single shot from a Disintegrator can atomise the most heavily armoured opponent—and the Pulse Disintegrator fires a lethal salvo of these, whilst remaining pleasantly cool to the touch."/>
 	<entry name="PulseDriverCannon" value="Impulsnaja Drajvier-Harmata"/>
 	<entry name="PulseDriverCannonFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
 	<entry name="PulseLaser" value="Impulsny Łazier"/>
@@ -488,12 +504,14 @@
 	<entry name="RangerLongRifleFlavor" value="Ranger long rifles are precision implements, accurate enough to pick out weak points in a targets armour even at extreme distances."/>
 	<entry name="RapidFireBattleCannon" value="Bajavaja Harmata Chutkaha Ahniu"/>
 	<entry name="RapidFireBattleCannonFlavor" value="This long range cannon is the equivalent of a large calibre artillery piece affixed to the arm of an Imperial Knight. Its rapid self-loading allows for accurate fire to be poured out at a tremendous rate and the blast of its explosive shot can rack up horrific casualties. It is often employed against infantry hordes, medium tanks and squadrons of light vehicles."/>
+	<entry name="Razorflail" value="Brytvapuha"/>
+	<entry name="RazorflailFlavor" value="Razorflails are wielded as a twinned pair of blades that at first glance resemble long, flimsy and unwieldy swords. Yet with a single flick of the wrist each can split apart and lash out like a whip, their whistling blades almost impossible to block or parry."/>
 	<entry name="ReaperAutocannon" value="Aŭtaharmata Žniaca"/>
 	<entry name="ReaperAutocannonFlavor" value="There is a particular type of double-barrelled autocannon called the Reaper, which is no longer employed by the forces of the Emperor. It is mostly used by Chaos Terminators, allowing them to lay down a withering hail of shots, which gives them a much greater chance of hitting those unfortunate enough to be in their crosshairs."/>
 	<entry name="ReaperLauncherStarshotMissile" value="Rakietnaja Ŭstaloŭka Žniejara (Rakieta Zornystreł)"/>
 	<entry name="ReaperLauncherStarshotMissileFlavor" value="Used to deadly effect by Dark Reaper Aspect Warriors, reaper launchers fire a fusillade of armour-piercing starswarm missiles. Some Dark Reapers also make use of the more powerful starshot missiles, which have a lower rate of fire, but allow them to engage enemy tanks and fortifications with impunity."/>
 	<entry name="ReaperLauncherStarswarmMissile" value="Rakietnaja Ŭstaloŭka Žniejara (Rakieta Zornyroj)"/>
-	<entry name="ReaperLauncherStarswarmMissileFlavor" value="Used to deadly effect by Dark Reaper Aspect Warriors, reaper launchers fire a fusillade of armour-piercing starswarm missiles. Some Dark Reapers also make use of the more powerful starshot missiles, which have a lower rate of fire, but allow them to engage enemy tanks and fortifications with impunity."/>
+	<entry name="ReaperLauncherStarswarmMissileFlavor" value="<string name='Weapons/ReaperLauncherStarshotMissileFlavor'/>"/>
 	<entry name="RendingClaws" value="Raździralnyja Kipciury"/>
 	<entry name="RendingClawsFlavor" value="The diamond-hard tips of these claws can tear through armour."/>
 	<entry name="RodOfCovenantMelee" value="Žazło Zapavietu (Blizki Boj)"/>
@@ -507,6 +525,8 @@
 	<entry name="RollOverThem" value="“Raściśnicie Ich!”"/>
 	<entry name="RuptureCannon" value="Razryŭnaja Harmata"/>
 	<entry name="RuptureCannonFlavor" value="This weapon fires two different projectiles, launched in quick succession. The first is a bloated tick that bursts upon impact, showering the target in a thick oily substance. The second, a seedpod, reacts as it contacts the viscous remains of the tick, creating an implosion which can even wrench armoured vehicles inside out."/>
+	<entry name="Scissorhand" value="Ruka-Nažnicy"/>
+	<entry name="ScissorhandFlavor" value="The scissorhand looks a little like a pair of surgical shears, and harbours expensive toxins so that its wielder might better incapacitate those whose limbs it amputates."/>
 	<entry name="ScorpionCannon" value="Harmata Skarpijona"/>
 	<entry name="ScorpionCannonFlavor" value="This multi-barreled anti-infantry weapon is only ever mounted in one place—on the great arching tail of the Brass Scorpion daemon engine. From on high, it can mow down massed enemy troops with ease, to the honour of Khorne."/>
 	<entry name="ScythingTalons" value="Kipciury-Kosy"/>
@@ -532,6 +552,8 @@
 	<entry name="SingingSpearMeleeFlavor" value="When hurled by an Aeldari psyker, a singing spear can sunder both armour and flesh, and will always return to its wielder."/>
 	<entry name="SingingSpearRanged" value="Piavučaja Dzida (Daloki Boj)"/>
 	<entry name="SingingSpearRangedFlavor" value="<string name='Weapons/SingingSpearMeleeFlavor'/>"/>
+	<entry name="ShatterfieldMissile" value="Rakieta · Askiepkavaje Pole"/>
+	<entry name="ShatterfieldMissileFlavor" value="A shatterfield missile actually houses two separate detonator cores. On impact, the first of the cores sucks away all warmth, turning those caught within its blast into brittle statues. An instant later, the second core sends out a blast of percussive force that shatters its frozen victims into a thousand pieces."/>
 	<entry name="Shockwave" value="Udarnaja Chvala"/>
 	<entry name="ShockwaveFlavor" value="The psyker slams his palms together and the noise is magnified a hundredfold, releasing a shockwave that snaps bones and knocks foes from their feet."/>
 	<entry name="Shoota" value="Štralała"/>
@@ -567,15 +589,27 @@
 	<entry name="SoulburnerCannonFlavor" value="An infernal cannon that draws its ammunition direct from the warp—from the boiling blood that pools beneath Khornes brass throne deep in the Realms of Chaos, so tormented that it thirsts for the souls of the living."/>
 	<entry name="SoulflayerTendrils" value="Ščupalcy Pahłynalnika Duš"/>
 	<entry name="SoulflayerTendrilsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="SoulShelling" value="<string name='Actions/Drukhari/SoulShelling'/>"/>
+	<entry name="SoulShellingFlavor" value="<string name='Actions/Drukhari/SoulShellingFlavor'/>"/>
 	<entry name="SpaceMarineShotgun" value="Drabavik Kaśmičnaha Maryna"/>
 	<entry name="SpaceMarineShotgunFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="SpineBanks" value="Miachi Śpinnych Šypoŭ"/>
 	<entry name="SpineBanksFlavor" value="The explosive spine banks imbedded in the carapaces of some Carnifexes can also be fired at the foe as the Tyranid charges."/>
+	<entry name="SpiritSyphon" value="Sifon Duš"/>
+	<entry name="SpiritSyphonFlavor" value="The Cronos Parasite Engine can cast out a field of baleful energy that allows it to feed upon those nearby."/>
+	<entry name="SplinterCannon" value="Askiepkavaja Harmata"/>
+	<entry name="SplinterCannonFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
+	<entry name="SplinterPods" value="Askiepkavyja Kapsuli"/>
+	<entry name="SplinterPodsFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
+	<entry name="SplinterRifle" value="Askiepkavaja Strelba"/>
+	<entry name="SplinterRifleFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
 	<entry name="SporeMineLauncher" value="Puskavaja Ŭstaloŭka Sporavych Min"/>
 	<entry name="StaffOfLight" value="Posach Śviatła"/>
 	<entry name="StaffOfLightFlavor" value="The staff of light is both a weapon and a symbol of authority. Its haft is actually a disguised power generator rod, and the crest a finely tuned focussing device, allowing the wielder to unleash crackling bolts of energy at his foes."/>
 	<entry name="Starcannon" value="Zornaja Harmata"/>
 	<entry name="StarcannonFlavor" value="It is a testament to the idiocy of Man that he creates plasma weapons that frequently maim or kill the wielder. Starcannons and suncannons have no such flaw, their plasma cores producing the heat of a star while the guns remain cool to the touch."/>
+	<entry name="StingerPistol" value="Džałavy Pistalet"/>
+	<entry name="StingerPistolFlavor" value="A stinger pistol is a lightweight sidearm characterised by a long syringe-like barrel and a venom magazine that holds searingly effective toxins. When fired, it ejects a long sliver of hollow glass that can pierce a foes skin and introduce the toxins straight into his bloodstream, with invariably horrific results."/>
 	<entry name="StingerSalvo" value="Džałastreł"/>
 	<entry name="StingerSalvoFlavor" value="Stinger salvoes are simple but effective weapons that fire rows of metre-long, razor-sharp spikes."/>
 	<entry name="Stikkbomb" value="Lipkaja Vybuchała"/>
@@ -623,6 +657,8 @@
 	<entry name="ThunderHammerFlavor" value="Thunder hammers release a tremendous blast of energy when they strike, slamming the foe to the ground and leaving him stunned (if he survives at all). This, combined with the crushing weight of the hammer itself, makes for an incredibly deadly weapon."/>
 	<entry name="ThunderfireCannon" value="Harmata Hrymotnaha Ahniu"/>
 	<entry name="ThunderfireCannonFlavor" value="The thunderfire cannon is a colossal multibarrelled artillery weapon. It is far too large to be carried by an individual and so is conveyed into battle on a set of tracks and accompanied by a Techmarine gunner."/>
+	<entry name="TormentGrenadeLaunchers" value="Katavalny Hranatakid"/>
+	<entry name="TormentGrenadeLaunchersFlavor" value="Some Dark Eldar skimmers incorporate hull-mounted launchers that send barbed grenades spinning into the ranks of the foe. Each grenade spews out an ochre cloud of phantasm gas that causes abject terror in the minds of those nearby."/>
 	<entry name="ToxicMiasma" value="Taksičnyja Mijazmy"/>
 	<entry name="ToxicMiasmaFlavor" value="Some creatures emit toxins to poison a prey world's atmosphere."/>
 	<entry name="Toxinspike" value="Taksičny Šyp"/>
@@ -701,6 +737,8 @@
 	<entry name="TwinLinkedShurikenCatapultFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
 	<entry name="TwinLinkedSmartMissileSystem" value="Zdvojenaja Razumnaja Rakietnaja Sistema"/>
 	<entry name="TwinLinkedSmartMissileSystemFlavor" value="A smart missile system fires self-guiding missiles with drone intelligence, which can find targets even hiding behind terrain."/>
+	<entry name="TwinLinkedSplinterRifle" value="Zdvojenaja Askiepkavaja Strelba"/>
+	<entry name="TwinLinkedSplinterRifleFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
 	<entry name="TwinLinkedSupaShoota" value="Zdvojenaja Šupier Štralała"/>
 	<entry name="TwinLinkedSupaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="TwinLinkedTeslaDestructor" value="Zdvojeny Tesła Razburalnik"/>
@@ -711,6 +749,10 @@
 	<entry name="UrtySyringeFlavor" value="The congealed sludge that Painboyz inject as a clotting agent has fatal effects upon non-orkoid physiology. Arteries clog with fungal growth, lungs become spore-bloated puffballs, and the victim quickly collapses with porridgey froth bubbling from every orifice."/>
 	<entry name="Voidblade" value="Pustečny Klinok"/>
 	<entry name="VoidbladeFlavor" value="The gleaming black edge of a voidblade flickers in and out of existence, causing the molecular bonds of any material it comes into contact with to instantaneously disintegrate."/>
+	<entry name="VoidLance" value="Pustečnaja Dzida"/>
+	<entry name="VoidLanceFlavor" value="The void lance fires pulses of highly destructive eldritch energy harvested from beyond the shattered spars of the webway."/>
+	<entry name="VoidMine" value="Pustečnaja Mina"/>
+	<entry name="VoidMineFlavor" value="This bizarre bomb detonates two warheads, one a split second before the other. The first merely establishes a sphere of force that protects everything outside and condemns everything within. The second contains a particle of purest darklight, released from its containment field by the primary detonation. The effects of introducing even a tiny amount of darklight into realspace are catastrophic. As it is, anything trapped inside the crackling sphere is annihilated utterly, and in total silence."/>
 	<entry name="VolkiteBlaster" value="Vałkitavy Błastar"/>
 	<entry name="VolkiteBlasterFlavor" value="Favoured during the Great Crusade before the Terran boltgun drove them into decline, volkite weapons impart so much thermodynamic energy to the target that those under their shimmering rays simply combust. Such unfortunates burn to cinders in explosions of jetting flame, frequently taking nearby comrades to the grave with them."/>
 	<entry name="WailingDoomMelee" value="Zhuba Płaču (Blizki Boj)"/>
@@ -725,6 +767,8 @@
 	<entry name="WeirdboyStaffFlavor" value="The shiny charms and jangling bells that bedeck a Weirdboy staff belie the horrific damage they can wreak in battle. The copper pole at their core allows their wielder to earth the rampant Waaagh! energy that riddles them, and these weapons discharge crackling green blasts with every blow the Weirdboy lands."/>
 	<entry name="WhipCoils" value="Puha sa Špulaj"/>
 	<entry name="WhipCoilsFlavor" value="Some Canoptek Wraiths are equipped with writhing mechanical tendrils that whip around at high speeds, splitting flesh and flensing their prey in an eye-blink."/>
+	<entry name="WhirlingDeath" value="<string name='Actions/Drukhari/WhirlingDeath'/>"/>
+	<entry name="WhirlingDeathFlavor" value="<string name='Actions/Drukhari/WhirlingDeathFlavor'/>"/>
 	<entry name="WhirlwindMultipleMissileLauncherIncendiaryCastellan" value="Množnaja Rakietnaja Ŭstaloŭka Vichury (Rakieta Zapalny Kastelan)"/>
 	<entry name="WhirlwindMultipleMissileLauncherIncendiaryCastellanFlavor" value="Of the two extant types of Whirlwind missile approved by Techpriest and Codex Astartes alike, the incendiary warheads of the Castellan are best-suited to destroying unarmoured troop formations."/>
 	<entry name="WhirlwindMultipleMissileLauncherVengeance" value="Množnaja Rakietnaja Ŭstaloŭka Vichury (Rakieta Pomsta)"/>
@@ -737,6 +781,8 @@
 	<entry name="WitchStaffFlavor" value="Those struck by a psychically-charged witch staff risk having their very soul set aflame, even if their bodies are not broken."/>
 	<entry name="Witchblade" value="Klinok Viedźmy"/>
 	<entry name="WitchbladeFlavor" value="Witchblades are arcane Aeldari weapons that augment the wielders physical might with that of his mind. They are the favoured weapons of Farseers and Warlocks alike."/>
+	<entry name="WrackTools" value="Pryłady Razvalin"/>
+	<entry name="WrackToolsFlavor" value="Wracks wield a sickening variety of sickle-blades, saws, knives and mauls into battle, all of which are coated in searing venom."/>
 	<entry name="ZzapGun" value="Zzap Puška"/>
 	<entry name="ZzapGunFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
 </language>
