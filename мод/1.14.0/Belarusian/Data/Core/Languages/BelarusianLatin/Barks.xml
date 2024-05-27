@@ -3350,4 +3350,392 @@
 	<entry name="Tau/RVarnaBattlesuit:Victory#0" value="Nothing moving over there."/>
 	<entry name="Tau/RVarnaBattlesuit:VictoryCount" value="1"/>
 	<entry name="Tyranids/Tyrannocyte" value="Tyranids/Carnifex"/>
+	<entry name="Drukhari/Archon:Attack#0" value="Suffering is your lot!"/>
+	<entry name="Drukhari/Archon:Attack#1" value="Fools, to stand against me."/>
+	<entry name="Drukhari/Archon:Attack#2" value="You are barely worth the killing."/>
+	<entry name="Drukhari/Archon:Attack#3" value="Oh, sweet fear and agony."/>
+	<entry name="Drukhari/Archon:AttackCount" value="4"/>
+	<entry name="Drukhari/Archon:Broken#0" value="Back, back to the city of shadows!"/>
+	<entry name="Drukhari/Archon:BrokenCount" value="1"/>
+	<entry name="Drukhari/Archon:Hurt#0" value="A lucky blow."/>
+	<entry name="Drukhari/Archon:HurtCount" value="1"/>
+	<entry name="Drukhari/Archon:Idle#0" value="Simple torments, simple pleasures."/>
+	<entry name="Drukhari/Archon:Idle#1" value="Have we killed them all already? Pity."/>
+	<entry name="Drukhari/Archon:Idle#2" value="The riches of this world are merely the suffering of its people."/>
+	<entry name="Drukhari/Archon:Idle#3" value="How to fill the idle aeons, ahhh…"/>
+	<entry name="Drukhari/Archon:IdleCount" value="4"/>
+	<entry name="Drukhari/Archon:Shaken#0" value="If this continues, it will take a Haemonculus to wake me…"/>
+	<entry name="Drukhari/Archon:ShakenCount" value="1"/>
+	<entry name="Drukhari/Archon:Victory#0" value="What did you expect? Pitiful."/>
+	<entry name="Drukhari/Archon:VictoryCount" value="1"/>
+	<entry name="Drukhari/Cronos:Attack#0" value="Hrrrr."/>
+	<entry name="Drukhari/Cronos:Attack#1" value="…memory…"/>
+	<entry name="Drukhari/Cronos:Attack#2" value="Cthhh…"/>
+	<entry name="Drukhari/Cronos:Attack#3" value="Rrrr…"/>
+	<entry name="Drukhari/Cronos:AttackCount" value="4"/>
+	<entry name="Drukhari/Cronos:Broken#0" value="…"/>
+	<entry name="Drukhari/Cronos:BrokenCount" value="1"/>
+	<entry name="Drukhari/Cronos:Hurt#0" value="Hrrr."/>
+	<entry name="Drukhari/Cronos:HurtCount" value="1"/>
+	<entry name="Drukhari/Cronos:Idle#0" value="Pssssst…"/>
+	<entry name="Drukhari/Cronos:Idle#1" value="Thrrrt."/>
+	<entry name="Drukhari/Cronos:Idle#2" value="Thffffttt."/>
+	<entry name="Drukhari/Cronos:Idle#3" value="Tcht."/>
+	<entry name="Drukhari/Cronos:IdleCount" value="4"/>
+	<entry name="Drukhari/Cronos:Shaken#0" value="Eeeee!"/>
+	<entry name="Drukhari/Cronos:ShakenCount" value="1"/>
+	<entry name="Drukhari/Cronos:Victory#0" value="Psst."/>
+	<entry name="Drukhari/Cronos:VictoryCount" value="1"/>
+	<entry name="Drukhari/Haemonculus:Attack#0" value="The art of agony!"/>
+	<entry name="Drukhari/Haemonculus:Attack#1" value="Suffer, suffer, suffer!"/>
+	<entry name="Drukhari/Haemonculus:Attack#2" value="With pain, I renew."/>
+	<entry name="Drukhari/Haemonculus:Attack#3" value="Let me play on their nerves."/>
+	<entry name="Drukhari/Haemonculus:AttackCount" value="4"/>
+	<entry name="Drukhari/Haemonculus:Broken#0" value="Perhaps another time?"/>
+	<entry name="Drukhari/Haemonculus:BrokenCount" value="1"/>
+	<entry name="Drukhari/Haemonculus:Hurt#0" value="My own pain will suffice."/>
+	<entry name="Drukhari/Haemonculus:HurtCount" value="1"/>
+	<entry name="Drukhari/Haemonculus:Idle#0" value="What sweet suffering to gather next?"/>
+	<entry name="Drukhari/Haemonculus:Idle#1" value="Do I remember the fall? Do I?"/>
+	<entry name="Drukhari/Haemonculus:Idle#2" value="My experiments bear fruit."/>
+	<entry name="Drukhari/Haemonculus:Idle#3" value="Where are my wracks? I require attention!"/>
+	<entry name="Drukhari/Haemonculus:IdleCount" value="4"/>
+	<entry name="Drukhari/Haemonculus:Shaken#0" value="Oh, they are puissant! I must have them."/>
+	<entry name="Drukhari/Haemonculus:ShakenCount" value="1"/>
+	<entry name="Drukhari/Haemonculus:Victory#0" value="Now. What did we learn?"/>
+	<entry name="Drukhari/Haemonculus:VictoryCount" value="1"/>
+	<entry name="Drukhari/Headquarters:Attack#0" value="They dare attack our seat of power?"/>
+	<entry name="Drukhari/Headquarters:Attack#1" value="Fools!"/>
+	<entry name="Drukhari/Headquarters:Attack#2" value="What madness to assail our walls."/>
+	<entry name="Drukhari/Headquarters:Attack#3" value="Break yourselves on our crenellations."/>
+	<entry name="Drukhari/Headquarters:AttackCount" value="4"/>
+	<entry name="Drukhari/Headquarters:Broken#0" value="Archon, save your loy- your subjects!"/>
+	<entry name="Drukhari/Headquarters:BrokenCount" value="1"/>
+	<entry name="Drukhari/Headquarters:Hurt#0" value="Breached. But only weaklings died."/>
+	<entry name="Drukhari/Headquarters:HurtCount" value="1"/>
+	<entry name="Drukhari/Headquarters:Idle#0" value="In peacetime, plots."/>
+	<entry name="Drukhari/Headquarters:Idle#1" value="The torture gardens are busy tonight."/>
+	<entry name="Drukhari/Headquarters:Idle#2" value="An aeon of idleness…"/>
+	<entry name="Drukhari/Headquarters:Idle#3" value="The paltry luxuries of this temporary home."/>
+	<entry name="Drukhari/Headquarters:IdleCount" value="4"/>
+	<entry name="Drukhari/Headquarters:Shaken#0" value="Oh, to return to dark Commorragh!"/>
+	<entry name="Drukhari/Headquarters:ShakenCount" value="1"/>
+	<entry name="Drukhari/Headquarters:Victory#0" value="Secure once more."/>
+	<entry name="Drukhari/Headquarters:VictoryCount" value="1"/>
+	<entry name="Drukhari/Hellion:Attack#0" value="The thrill of the kill!"/>
+	<entry name="Drukhari/Hellion:Attack#1" value="Death from above!"/>
+	<entry name="Drukhari/Hellion:Attack#2" value="We swoop, we strike!"/>
+	<entry name="Drukhari/Hellion:Attack#3" value="Overwhelming sensation!"/>
+	<entry name="Drukhari/Hellion:AttackCount" value="4"/>
+	<entry name="Drukhari/Hellion:Broken#0" value="Away, afore they snare us!"/>
+	<entry name="Drukhari/Hellion:BrokenCount" value="1"/>
+	<entry name="Drukhari/Hellion:Hurt#0" value="The slow have fallen."/>
+	<entry name="Drukhari/Hellion:HurtCount" value="1"/>
+	<entry name="Drukhari/Hellion:Idle#0" value="We will not wait!"/>
+	<entry name="Drukhari/Hellion:Idle#1" value="The skies call! The lightning beckons!"/>
+	<entry name="Drukhari/Hellion:Idle#2" value="Stillness is torment!"/>
+	<entry name="Drukhari/Hellion:Idle#3" value="Unleash us, Archon!"/>
+	<entry name="Drukhari/Hellion:IdleCount" value="4"/>
+	<entry name="Drukhari/Hellion:Shaken#0" value="Grounded, we die."/>
+	<entry name="Drukhari/Hellion:ShakenCount" value="1"/>
+	<entry name="Drukhari/Hellion:Victory#0" value="Faster, faster they fall!"/>
+	<entry name="Drukhari/Hellion:VictoryCount" value="1"/>
+	<entry name="Drukhari/Incubi:Attack#0" value="We are one with the klaive."/>
+	<entry name="Drukhari/Incubi:Attack#1" value="The killing strike… just so."/>
+	<entry name="Drukhari/Incubi:Attack#2" value="We offer the weak to Khaine."/>
+	<entry name="Drukhari/Incubi:Attack#3" value="Paid to kill."/>
+	<entry name="Drukhari/Incubi:AttackCount" value="4"/>
+	<entry name="Drukhari/Incubi:Broken#0" value="Khaine does not forgive cowards."/>
+	<entry name="Drukhari/Incubi:BrokenCount" value="1"/>
+	<entry name="Drukhari/Incubi:Hurt#0" value="A true opponent."/>
+	<entry name="Drukhari/Incubi:HurtCount" value="1"/>
+	<entry name="Drukhari/Incubi:Idle#0" value="No betrayal 'til the covenant's done."/>
+	<entry name="Drukhari/Incubi:Idle#1" value="Our time is bought… it would be a waste not to use us."/>
+	<entry name="Drukhari/Incubi:Idle#2" value="There is a purity in hate."/>
+	<entry name="Drukhari/Incubi:Idle#3" value="Follow Arha and the Path of Damnation."/>
+	<entry name="Drukhari/Incubi:IdleCount" value="4"/>
+	<entry name="Drukhari/Incubi:Shaken#0" value="No-one shall walk the Path of Grief for such as we."/>
+	<entry name="Drukhari/Incubi:ShakenCount" value="1"/>
+	<entry name="Drukhari/Incubi:Victory#0" value="Tribute for Khaine."/>
+	<entry name="Drukhari/Incubi:VictoryCount" value="1"/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#0" value="Chattel!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#1" value="Arrogant fools!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#2" value="Stand against the Trueborn? Hahaha…"/>
+	<entry name="Drukhari/KabaliteTrueborn:Attack#3" value="The Archon commands…"/>
+	<entry name="Drukhari/KabaliteTrueborn:AttackCount" value="4"/>
+	<entry name="Drukhari/KabaliteTrueborn:Broken#0" value="Back, preserve our precious flesh!"/>
+	<entry name="Drukhari/KabaliteTrueborn:BrokenCount" value="1"/>
+	<entry name="Drukhari/KabaliteTrueborn:Hurt#0" value="Only true Trueborn still stand."/>
+	<entry name="Drukhari/KabaliteTrueborn:HurtCount" value="1"/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#0" value="Bring us wines! Victims!"/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#1" value="Wise, to not squander our precious lives."/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#2" value="We shall spend the millenia in such lassitude…"/>
+	<entry name="Drukhari/KabaliteTrueborn:Idle#3" value="Oh, happy indolent days!"/>
+	<entry name="Drukhari/KabaliteTrueborn:IdleCount" value="4"/>
+	<entry name="Drukhari/KabaliteTrueborn:Shaken#0" value="We are not disposable vatborn!"/>
+	<entry name="Drukhari/KabaliteTrueborn:ShakenCount" value="1"/>
+	<entry name="Drukhari/KabaliteTrueborn:Victory#0" value="What did they expect? We are Trueborn."/>
+	<entry name="Drukhari/KabaliteTrueborn:VictoryCount" value="1"/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#0" value="Mischief calls."/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#1" value="Cower, mortals."/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#2" value="Commorrah demands tribute!"/>
+	<entry name="Drukhari/KabaliteWarrior:Attack#3" value="For the Kabal!"/>
+	<entry name="Drukhari/KabaliteWarrior:AttackCount" value="4"/>
+	<entry name="Drukhari/KabaliteWarrior:Broken#0" value="If we flee, the Archon… worse than death."/>
+	<entry name="Drukhari/KabaliteWarrior:BrokenCount" value="1"/>
+	<entry name="Drukhari/KabaliteWarrior:Hurt#0" value="They shall rue this…"/>
+	<entry name="Drukhari/KabaliteWarrior:HurtCount" value="1"/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#0" value="Vatborn we may be, but we are true Drukhari."/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#1" value="Bring prisoners, we must practise our aim."/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#2" value="Preserve the kabalites, spend the mercenaries."/>
+	<entry name="Drukhari/KabaliteWarrior:Idle#3" value="Commorragh, our many-angled home…"/>
+	<entry name="Drukhari/KabaliteWarrior:IdleCount" value="4"/>
+	<entry name="Drukhari/KabaliteWarrior:Shaken#0" value="We fear? They should fear!"/>
+	<entry name="Drukhari/KabaliteWarrior:ShakenCount" value="1"/>
+	<entry name="Drukhari/KabaliteWarrior:Victory#0" value="Fools! The Kabal does not send weaklings."/>
+	<entry name="Drukhari/KabaliteWarrior:VictoryCount" value="1"/>
+	<entry name="Drukhari/Raider:Attack#0" value="Skim low, sweet keelblade."/>
+	<entry name="Drukhari/Raider:Attack#1" value="Passing pain…"/>
+	<entry name="Drukhari/Raider:Attack#2" value="Drive us closer…"/>
+	<entry name="Drukhari/Raider:Attack#3" value="The buzz of the charge!"/>
+	<entry name="Drukhari/Raider:AttackCount" value="4"/>
+	<entry name="Drukhari/Raider:Broken#0" value="Retreat, before they can close with us!"/>
+	<entry name="Drukhari/Raider:BrokenCount" value="1"/>
+	<entry name="Drukhari/Raider:Hurt#0" value="Speed should be our armour!"/>
+	<entry name="Drukhari/Raider:HurtCount" value="1"/>
+	<entry name="Drukhari/Raider:Idle#0" value="Our trophy hooks are bare!"/>
+	<entry name="Drukhari/Raider:Idle#1" value="Pile the bodies at the rear. Only the weak die."/>
+	<entry name="Drukhari/Raider:Idle#2" value="Sharpen the keelblade, the fins."/>
+	<entry name="Drukhari/Raider:Idle#3" value="Only Vect recalls the pleasure yachts of ancient days…"/>
+	<entry name="Drukhari/Raider:IdleCount" value="4"/>
+	<entry name="Drukhari/Raider:Shaken#0" value="Quicker, upon them!"/>
+	<entry name="Drukhari/Raider:ShakenCount" value="1"/>
+	<entry name="Drukhari/Raider:Victory#0" value="Put the captives on the trophy-hooks. Alive or dead."/>
+	<entry name="Drukhari/Raider:VictoryCount" value="1"/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#0" value="Raking the ground, Archon!"/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#1" value="Our grace brings doom."/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#2" value="Oh, flee, prey, flee!"/>
+	<entry name="Drukhari/RazorwingJetfighter:Attack#3" value="Massacre them! Let none escape."/>
+	<entry name="Drukhari/RazorwingJetfighter:AttackCount" value="4"/>
+	<entry name="Drukhari/RazorwingJetfighter:Broken#0" value="Save your own skins!"/>
+	<entry name="Drukhari/RazorwingJetfighter:BrokenCount" value="1"/>
+	<entry name="Drukhari/RazorwingJetfighter:Hurt#0" value="I did not seek a fair fight!"/>
+	<entry name="Drukhari/RazorwingJetfighter:HurtCount" value="1"/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#0" value="Better here than the arena death races…"/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#1" value="Blame it on the Nightwings…"/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#2" value="We are the best of the Reavers."/>
+	<entry name="Drukhari/RazorwingJetfighter:Idle#3" value="Death from such a distance. The cruelty is that we can't see their torment."/>
+	<entry name="Drukhari/RazorwingJetfighter:IdleCount" value="4"/>
+	<entry name="Drukhari/RazorwingJetfighter:Shaken#0" value="They're shooting back?"/>
+	<entry name="Drukhari/RazorwingJetfighter:ShakenCount" value="1"/>
+	<entry name="Drukhari/RazorwingJetfighter:Victory#0" value="Bisected beautifully. Never saw us coming."/>
+	<entry name="Drukhari/RazorwingJetfighter:VictoryCount" value="1"/>
+	<entry name="Drukhari/Scourge:Attack#0" value="Tread upon the dying, not the dirt."/>
+	<entry name="Drukhari/Scourge:Attack#1" value="Swooping raptors…"/>
+	<entry name="Drukhari/Scourge:Attack#2" value="Do you hear your death upon the wind?"/>
+	<entry name="Drukhari/Scourge:Attack#3" value="Pluck their eyes, vulture-kin!"/>
+	<entry name="Drukhari/Scourge:AttackCount" value="4"/>
+	<entry name="Drukhari/Scourge:Broken#0" value="Take to the air! Aiee!"/>
+	<entry name="Drukhari/Scourge:BrokenCount" value="1"/>
+	<entry name="Drukhari/Scourge:Hurt#0" value="A brave one who kills a Scourge."/>
+	<entry name="Drukhari/Scourge:HurtCount" value="1"/>
+	<entry name="Drukhari/Scourge:Idle#0" value="Couriers of the Dark City."/>
+	<entry name="Drukhari/Scourge:Idle#1" value="Bearers of intrigue."/>
+	<entry name="Drukhari/Scourge:Idle#2" value="Our wealth is in our wings."/>
+	<entry name="Drukhari/Scourge:Idle#3" value="My pinions long to be stretched."/>
+	<entry name="Drukhari/Scourge:IdleCount" value="4"/>
+	<entry name="Drukhari/Scourge:Shaken#0" value="We must rise higher!"/>
+	<entry name="Drukhari/Scourge:ShakenCount" value="1"/>
+	<entry name="Drukhari/Scourge:Victory#0" value="Listen to those screammms, ahh…"/>
+	<entry name="Drukhari/Scourge:VictoryCount" value="1"/>
+	<entry name="Drukhari/Succubus:Attack#0" value="Are you not entertained?"/>
+	<entry name="Drukhari/Succubus:Attack#1" value="More suitors? Eh."/>
+	<entry name="Drukhari/Succubus:Attack#2" value="You who are about to die… I salute you."/>
+	<entry name="Drukhari/Succubus:Attack#3" value="What poor challenge you are!"/>
+	<entry name="Drukhari/Succubus:AttackCount" value="4"/>
+	<entry name="Drukhari/Succubus:Broken#0" value="I will not risk smudging my rouge!"/>
+	<entry name="Drukhari/Succubus:BrokenCount" value="1"/>
+	<entry name="Drukhari/Succubus:Hurt#0" value="They scarred me!"/>
+	<entry name="Drukhari/Succubus:HurtCount" value="1"/>
+	<entry name="Drukhari/Succubus:Idle#0" value="More fan mail. Yawn."/>
+	<entry name="Drukhari/Succubus:Idle#1" value="Commorragh is the mob. And I control them."/>
+	<entry name="Drukhari/Succubus:Idle#2" value="Tell the Archon I require more sweetmeats."/>
+	<entry name="Drukhari/Succubus:Idle#3" value="Ugh, I long to return to civilization, to true suffering."/>
+	<entry name="Drukhari/Succubus:Idle#4" value="Shadows and dust. Fear and wonder."/>
+	<entry name="Drukhari/Succubus:IdleCount" value="5"/>
+	<entry name="Drukhari/Succubus:Shaken#0" value="We Brides of Death do not meet our spouse!"/>
+	<entry name="Drukhari/Succubus:ShakenCount" value="1"/>
+	<entry name="Drukhari/Succubus:Victory#0" value="I have… a talent for survival."/>
+	<entry name="Drukhari/Succubus:VictoryCount" value="1"/>
+	<entry name="Drukhari/Tantalus:Attack#0" value="Fire the pulse disintegrators!"/>
+	<entry name="Drukhari/Tantalus:Attack#1" value="See how the enemies part like waves?"/>
+	<entry name="Drukhari/Tantalus:Attack#2" value="Tighten the aethersails! Chase them down!"/>
+	<entry name="Drukhari/Tantalus:Attack#3" value="Turn and look to windward."/>
+	<entry name="Drukhari/Tantalus:AttackCount" value="4"/>
+	<entry name="Drukhari/Tantalus:Broken#0" value="Preserve the ship!"/>
+	<entry name="Drukhari/Tantalus:BrokenCount" value="1"/>
+	<entry name="Drukhari/Tantalus:Hurt#0" value="The hull is breached! We sink…"/>
+	<entry name="Drukhari/Tantalus:HurtCount" value="1"/>
+	<entry name="Drukhari/Tantalus:Idle#0" value="Sharpen the scythevanes."/>
+	<entry name="Drukhari/Tantalus:Idle#1" value="Careful! A scratch and the Archon will…"/>
+	<entry name="Drukhari/Tantalus:Idle#2" value="A design of the Dark Mirror Kabal. Long gone."/>
+	<entry name="Drukhari/Tantalus:Idle#3" value="Such pleasure, in its sailing."/>
+	<entry name="Drukhari/Tantalus:IdleCount" value="4"/>
+	<entry name="Drukhari/Tantalus:Shaken#0" value="The wind has dropped!"/>
+	<entry name="Drukhari/Tantalus:ShakenCount" value="1"/>
+	<entry name="Drukhari/Tantalus:Victory#0" value="Consider the fallen, once tall and proud as you."/>
+	<entry name="Drukhari/Tantalus:VictoryCount" value="1"/>
+	<entry name="Drukhari/VoidravenBomber:Attack#0" value="Bombs away. Don't look at the darklight!"/>
+	<entry name="Drukhari/VoidravenBomber:Attack#1" value="Void lance firing. Void mine ready."/>
+	<entry name="Drukhari/VoidravenBomber:Attack#2" value="The gunner commands."/>
+	<entry name="Drukhari/VoidravenBomber:Attack#3" value="In silence, we soar."/>
+	<entry name="Drukhari/VoidravenBomber:AttackCount" value="4"/>
+	<entry name="Drukhari/VoidravenBomber:Broken#0" value="Away, they pull us down!"/>
+	<entry name="Drukhari/VoidravenBomber:BrokenCount" value="1"/>
+	<entry name="Drukhari/VoidravenBomber:Hurt#0" value="Do not interrupt my work!"/>
+	<entry name="Drukhari/VoidravenBomber:HurtCount" value="1"/>
+	<entry name="Drukhari/VoidravenBomber:Idle#0" value="Pilot and Gunner."/>
+	<entry name="Drukhari/VoidravenBomber:Idle#1" value="I must compose my next symphony of destruction."/>
+	<entry name="Drukhari/VoidravenBomber:Idle#2" value="Silence the engines. Give them the prize of surprise."/>
+	<entry name="Drukhari/VoidravenBomber:Idle#3" value="Be careful with the antimatter, you fools!"/>
+	<entry name="Drukhari/VoidravenBomber:IdleCount" value="4"/>
+	<entry name="Drukhari/VoidravenBomber:Shaken#0" value="An artist cannot work like this!"/>
+	<entry name="Drukhari/VoidravenBomber:ShakenCount" value="1"/>
+	<entry name="Drukhari/VoidravenBomber:Victory#0" value="A smoking crater concludes my piece."/>
+	<entry name="Drukhari/VoidravenBomber:VictoryCount" value="1"/>
+	<entry name="Drukhari/Wrack:Attack#0" value="Realspace creatures…"/>
+	<entry name="Drukhari/Wrack:Attack#1" value="Ever-changing torment."/>
+	<entry name="Drukhari/Wrack:Attack#2" value="Show me- Give me! Your flesh."/>
+	<entry name="Drukhari/Wrack:Attack#3" value="Come, come. To the slab."/>
+	<entry name="Drukhari/Wrack:AttackCount" value="4"/>
+	<entry name="Drukhari/Wrack:Broken#0" value="Oh, the master will not like this…"/>
+	<entry name="Drukhari/Wrack:BrokenCount" value="1"/>
+	<entry name="Drukhari/Wrack:Hurt#0" value="I am no-one. No-one is hurt."/>
+	<entry name="Drukhari/Wrack:HurtCount" value="1"/>
+	<entry name="Drukhari/Wrack:Idle#0" value="I chose this form… from ennui."/>
+	<entry name="Drukhari/Wrack:Idle#1" value="What new hypertoxins. What delightful venoms await?"/>
+	<entry name="Drukhari/Wrack:Idle#2" value="Obey the Acothyst, they said."/>
+	<entry name="Drukhari/Wrack:Idle#3" value="Are we not admirable?"/>
+	<entry name="Drukhari/Wrack:IdleCount" value="4"/>
+	<entry name="Drukhari/Wrack:Shaken#0" value="Defend the master!"/>
+	<entry name="Drukhari/Wrack:ShakenCount" value="1"/>
+	<entry name="Drukhari/Wrack:Victory#0" value="More subjects for the master's experiments…"/>
+	<entry name="Drukhari/Wrack:VictoryCount" value="1"/>
+	<entry name="Drukhari/Wyche:Attack#0" value="Spar with us!"/>
+	<entry name="Drukhari/Wyche:Attack#1" value="Watch and learn… then die."/>
+	<entry name="Drukhari/Wyche:Attack#2" value="Death dances closer…"/>
+	<entry name="Drukhari/Wyche:Attack#3" value="Sweet murderous grace."/>
+	<entry name="Drukhari/Wyche:AttackCount" value="4"/>
+	<entry name="Drukhari/Wyche:Broken#0" value="I did not train for this."/>
+	<entry name="Drukhari/Wyche:BrokenCount" value="1"/>
+	<entry name="Drukhari/Wyche:Hurt#0" value="We are blooded! But the fight has just begun."/>
+	<entry name="Drukhari/Wyche:HurtCount" value="1"/>
+	<entry name="Drukhari/Wyche:Idle#0" value="We must practice."/>
+	<entry name="Drukhari/Wyche:Idle#1" value="Our performances feed Commorragh."/>
+	<entry name="Drukhari/Wyche:Idle#2" value="Let us prove our skill!"/>
+	<entry name="Drukhari/Wyche:Idle#3" value="Artisans, bring us our tools."/>
+	<entry name="Drukhari/Wyche:IdleCount" value="4"/>
+	<entry name="Drukhari/Wyche:Shaken#0" value="Do they not appreciate our art?!"/>
+	<entry name="Drukhari/Wyche:ShakenCount" value="1"/>
+	<entry name="Drukhari/Wyche:Victory#0" value="Bow and smile for the audience, sisters."/>
+	<entry name="Drukhari/Wyche:VictoryCount" value="1"/>
+	<entry name="Drukhari/Ravager" value="Drukhari/Raider"/>
+	<entry name="Drukhari/Reaver" value="Drukhari/RazorwingJetfighter"/>
+	<entry name="Drukhari/Venom" value="Drukhari/Raider"/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#0" value="Activating holy incense exhausts."/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#1" value="Blessing the servitor and charging."/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#2" value="Destruction over glory."/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#3" value="Lances couched."/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:AttackCount" value="4"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:Broken#0" value="Protect the engines!"/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:BrokenCount" value="1"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:Hurt#0" value="Critical damage sustained."/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:HurtCount" value="1"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#0" value="Resting the servitor."/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#1" value="Sydonia is so distant…"/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#2" value="Doubt and death are beyond me."/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#3" value="Endless motion for an eternal empire!"/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:IdleCount" value="4"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:Shaken#0" value="The stilt-strider stumbles!"/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:ShakenCount" value="1"/> 
+	<entry name="AdeptusMechanicus/SydonianDragoon:Victory#0" value="For Vingh and Sydonia"/>
+	<entry name="AdeptusMechanicus/SydonianDragoon:VictoryCount" value="1"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#0" value="Marking targets."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#1" value="Allowing for wind drift."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#2" value="Very good, sir."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#3" value="We have a firing solution, sir."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:AttackCount" value="4"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Broken#0" value="Leave the gun!"/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:BrokenCount" value="1"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Hurt#0" value="Direct hit. On us, sadly."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#0" value="Life in the guard is awfully hard."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#1" value="Gunner who?"/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#2" value="Is this a trench or a depression?"/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#3" value="No targets? Perfect."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:IdleCount" value="4"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Shaken#0" value="I told you I was ill."/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:ShakenCount" value="1"/> 
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:Victory#0" value="Did we-? I think we got 'em!"/>
+	<entry name="AstraMilitarum/FieldOrdnanceBattery:VictoryCount" value="1"/>
+	<entry name="ChaosSpaceMarines/ChaosTerminator" value="ChaosSpaceMarines/ChaosSpaceMarine"/>
+	<entry name="Eldar/Wraithlord" value="Eldar/Wraithblade"/>
+	<entry name="Necrons/SkorpekhDestroyer" value="Necrons/HeavyDestroyer"/>
+	<entry name="Orks/BurnaBoyz:Attack#0" value="Lightin' dem up!"/>
+	<entry name="Orks/BurnaBoyz:Attack#1" value="Hahaha! Lookit dem burn!"/>
+	<entry name="Orks/BurnaBoyz:Attack#2" value="Flamin' nora!"/>
+	<entry name="Orks/BurnaBoyz:Attack#3" value="Six on fire!"/>
+	<entry name="Orks/BurnaBoyz:AttackCount" value="4"/>
+	<entry name="Orks/BurnaBoyz:Broken#0" value="We didn't start the fire!"/>
+	<entry name="Orks/BurnaBoyz:BrokenCount" value="1"/>
+	<entry name="Orks/BurnaBoyz:Hurt#0" value="Oi fell inta ring uv fire!"/>
+	<entry name="Orks/BurnaBoyz:HurtCount" value="1"/>
+	<entry name="Orks/BurnaBoyz:Idle#0" value="Luv ta play wid fire."/>
+	<entry name="Orks/BurnaBoyz:Idle#1" value="'Ere, gizza light."/>
+	<entry name="Orks/BurnaBoyz:Idle#2" value="I don't wanna set da world on fire… wait, yes I do."/>
+	<entry name="Orks/BurnaBoyz:Idle#3" value="C'mon, grotty, light me fire!"/>
+	<entry name="Orks/BurnaBoyz:IdleCount" value="4"/>
+	<entry name="Orks/BurnaBoyz:Shaken#0" value="It burns, burns, burns!"/>
+	<entry name="Orks/BurnaBoyz:ShakenCount" value="1"/>
+	<entry name="Orks/BurnaBoyz:Victory#0" value="Discount inferno!"/>
+	<entry name="Orks/BurnaBoyz:VictoryCount" value="1"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Attack#0" value="Exculpate!"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Attack#1" value="Purgatus!"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Attack#2" value="In extremis!"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Attack#3" value="Killllll me!"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:AttackCount" value="4"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Broken#0" value="Nnnnn-"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:BrokenCount" value="1"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Hurt#0" value="Closer to you, my Emperor"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:HurtCount" value="1"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Idle#0" value="Dormant"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Idle#1" value="Faith"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Idle#2" value="Unleash… me."/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Idle#3" value="I… obey."/>
+	<entry name="SistersOfBattle/ArcoFlagellant:IdleCount" value="4"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Shaken#0" value="Martyred?"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:ShakenCount" value="1"/>
+	<entry name="SistersOfBattle/ArcoFlagellant:Victory#0" value=""/>
+	<entry name="SistersOfBattle/ArcoFlagellant:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/AssaultTerminator:Attack#0" value="Die by my hand!"/>
+	<entry name="SpaceMarines/AssaultTerminator:Attack#1" value="There is only war!"/>
+	<entry name="SpaceMarines/AssaultTerminator:Attack#2" value="None shall survive!"/>
+	<entry name="SpaceMarines/AssaultTerminator:Attack#3" value="We cleanse."/>
+	<entry name="SpaceMarines/AssaultTerminator:AttackCount" value="4"/>
+	<entry name="SpaceMarines/AssaultTerminator:Broken#0" value="Ambush!"/>
+	<entry name="SpaceMarines/AssaultTerminator:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/AssaultTerminator:Hurt#0" value="Tactical Dreadnought Armour holding."/>
+	<entry name="SpaceMarines/AssaultTerminator:HurtCount" value="1"/>
+	<entry name="SpaceMarines/AssaultTerminator:Idle#0" value="A moment of laxity…"/>
+	<entry name="SpaceMarines/AssaultTerminator:Idle#1" value="Our armour is prepared."/>
+	<entry name="SpaceMarines/AssaultTerminator:Idle#2" value="First Company standing by."/>
+	<entry name="SpaceMarines/AssaultTerminator:Idle#3" value="Blessing our armour."/>
+	<entry name="SpaceMarines/AssaultTerminator:IdleCount" value="4"/>
+	<entry name="SpaceMarines/AssaultTerminator:Shaken#0" value="By His name!"/>
+	<entry name="SpaceMarines/AssaultTerminator:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/AssaultTerminator:Victory#0" value="For the Emperor!"/>
+	<entry name="SpaceMarines/AssaultTerminator:VictoryCount" value="1"/>
+	<entry name="Tau/FireWarriorBreacher" value="Tau/FireWarrior"/>
+	<entry name="Tyranids/Biovore" value="Tyranids/Carnifex"/>
+	<entry name="Drukhari/Talos" value="Drukhari/Cronos"/>
 </language>
