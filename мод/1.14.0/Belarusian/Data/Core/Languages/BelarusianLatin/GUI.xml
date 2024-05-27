@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="(Turn)" value="(%1% krok)"/>
+	<entry name="(Turns)" value="(%1% krokaŭ)"/>
+	<entry name="AI" value="[ŠI]"/>
+	<entry name="AITurn" value="Krok Voraha"/>
+	<entry name="AchievementsDisabled" value="Dasiahnieńni adklučany."/>
+	<entry name="Actions" value="Dziejańni"/>
+	<entry name="AddPlayerHint" value="Dadać hulca."/>
+	<entry name="AdditionalContentAvailable" value="Dadatkovy kantent dastupny"/>
+	<entry name="Advanced" value="Pašyranyja"/>
+	<entry name="AdeptusMechanicusPlayerPowers" value="Słava Boha Mašyn"/>
+	<entry name="Agree" value="Zhodzien"/>
+	<entry name="AgreeTermsAndConditionsHint" value="Ja pračytaŭ i zhodzien z umovami."/>
+	<entry name="All" value="Usio"/>
+	<entry name="Artefact" value="Artefakt"/>
+	<entry name="AttackEstimate" value="Prahnoz Ataki"/>
+	<entry name="Attributes" value="Ułaścivaści"/>
+	<entry name="AvailableNow" value="Dastupny Zaraz"/>
+	<entry name="Back" value="Nazad"/>
+	<entry name="Basic" value="Asnoŭnyja"/>
+	<entry name="Battle" value="Bitva"/>
+	<entry name="BindingHint" value="[Myš Naleva], kab źmianić pryviazku. <br/> <style color = 'GUI / Yellow' /> [Myš pa Centry], kab dadać novuju pryviazku. <br/> <style color = 'GUI / Red' /> [Myš Naprava ], kab adviazać."/>
+	<entry name="Buildings" value="Budynki"/>
+	<entry name="BuildingsConstructed" value="Pabudavanych Budynkaŭ"/>
+	<entry name="CannotDisembarkThisTurn" value="Nielha vysadzić na hetym kroku."/>
+	<entry name="Cancel" value="Admianić"/>
+	<entry name="Cargo" value="Hruz"/>
+	<entry name="Charges" value="Zarady"/>
+	<entry name="Charging" value="Zaradžajecca"/>
+	<entry name="Chat" value="Čat"/>
+	<entry name="ChooseResearch" value="Abiarycie Daśledavańnie"/>
+	<entry name="ChooseResearchHint" value="Abiarycie metu daśledavańnia [<control name='Controls/NextTask'/>]."/>
+	<entry name="CityResources" value="Resursy Horada"/>
+	<entry name="ClaimItemOnlyWithHero" value="Abiarycie hieroja, kab zabrać pradmiet."/>
+	<entry name="ClearNotifications" value="Ačyścić Apaviaščeńni"/>
+	<entry name="ClearNotificationsHint" value="Ačyścić usie apaviaščeńni [<control name='Controls/NextTask'/>]."/>
+	<entry name="Community" value="Supolnaść"/>
+	<entry name="Compendium" value="Kampiendyum"/>
+	<entry name="CompendiumFlavor" value="Kampiendyum zachoŭvaje karysnuju infarmacyju pra hulniu. Tut vy možacie pračytać pra frakcyi, budynki, adzinki, atrymać rady i šmat što inšaje."/>
+	<entry name="Connect" value="Złučyć"/>
+	<entry name="ConnectEpicAccount" value="Padłučyć Epic Account"/>
+	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Raschoduje dziejańnie<style color='Default'/>"/>
+	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Raschoduje ruch<style color='Default'/>"/>
+	<entry name="Continue" value="Praciahnuć"/>
+	<entry name="Cooldown" value="Čas Pierazaradki"/>
+	<entry name="Copy" value="Kapijavać"/>
+	<entry name="CopyInviteCode" value="Kapijavać Kod Zaprašeńnia"/>
+	<entry name="CopyInviteCodeHint" value="Skapijujcie kod zaprašeńnia, jaki lha ŭstavić inšym hulcam dla lohkaha dałučeńnia da hulni.<br/><br/>Źviarnicie ŭvahu, vašy publičny IP adras lha vyniać z kodu."/>
+	<entry name="Cost" value="Košt"/>
+	<entry name="Create" value="Stvaryć"/>
+	<entry name="Credits" value="Pra Stvaralnikaŭ"/>
+	<entry name="DLC" value="DLC"/>
+	<entry name="DLCNotEnabled" value="<style color='GUI/Red'/>%1% nie ŭłučany dla hetaj hulni. Uklučycie jaho ŭ pašyranych naładach hulniavoha łobi pierad pačatkam novaj hulni."/>
+	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% nie ŭstalavany."/>
+	<entry name="DamageDealt" value="Nanasimaja Škoda"/>
+	<entry name="DamageTaken" value="Atrymlivajemaja Škoda"/>
+	<entry name="Debug" value="Adładka"/>
+	<entry name="Default" value="Pa zmaŭčańni"/>
+	<entry name="Defeated" value="Paraza"/>
+	<entry name="Delete" value="Vydalić"/>
+	<entry name="Details" value="Detali"/>
+	<entry name="DirectConnect" value="Pramoje Złučeńnie"/>
+	<entry name="DisableBuildingHint" value="Adklučyć budynak hetaha typu, kab vyzvalić zaniataje nasielnictva."/>
+	<entry name="DisableSimultaneousTurns" value="Adklučyć Adnačasovyja Kroki"/>
+	<entry name="DisableTips" value="Adklučyć Padkazki"/>
+	<entry name="DisableTipsHint" value="Adklučyć uspłyvalnyja padkazki. Vy možacie ŭklučyć ich iznoŭ u paneli naład."/>
+	<entry name="DisconnectEpicAccount" value="Adklučyć Epic Account"/>
+	<entry name="Disconnected" value="Adklučany"/>
+	<entry name="DismissReports" value="Adchilić Usio (%1%)"/>
+	<entry name="DragToChangeLoadOrder" value="Pieraciahnicie, kab źmianić pryjarytet zahruzki."/>
+	<entry name="DrukhariPlayerPowers" value="Ciomnyja Dyscypliny"/>
+	<entry name="Economy" value="Ekanomika"/>
+	<entry name="Edicts" value="Edykty"/>
+	<entry name="EldarCityPowers" value="Šlach Azuryjana"/>
+	<entry name="EldarPlayerPowers" value="Kantrol Pavuciny"/>
+	<entry name="Elite" value="Elita"/>
+	<entry name="EnableBuildingHint" value="Uklučyć budynak hetaha typu. Adpravić u jaho nasielnictva."/>
+	<entry name="EnableMod" value="Uklučyć mod."/>
+	<entry name="EnableSimultaneousTurns" value="Uklučyć adnačasnyja kroki"/>
+	<entry name="EndTurn" value="Skončyć Krok"/>
+	<entry name="EndTurnHint" value="Skončyć svoj krok [<control name='Controls/NextTask'/>]."/>
+	<entry name="Enter" value="Uvod"/>
+	<entry name="EstimatedCasualties" value="čakajucca %1%/%2% straty"/>
+	<entry name="Events" value="Padziei"/>
+	<entry name="ExecuteQueuedOrders" value="Vykanać Čarhu Zahadaŭ (%1%)"/>
+	<entry name="ExecuteQueuedOrdersHint" value="Vykanać čarhu zahadaŭ papiardniaha kroku [<control name='Controls/NextTask'/>]."/>
+	<entry name="Extra" value="Dadatkova"/>
+	<entry name="ForceEndTurnHint" value="Skončyć Svoj Krok [<control name='Controls/ForceEndTurn'/>]."/>
+	<entry name="ExitCity" value="Vyjści z Horada"/>
+	<entry name="ExitCityHint" value="Vyjści z ekrana horada [<control name='Controls/NextTask'/>]."/>
+	<entry name="ExitToMainMenu" value="Vyjści ŭ Hałoŭnaje Mieniu"/>
+	<entry name="ExitToDesktop" value="Vyjści na Pracoŭny Stoł"/>
+	<entry name="Explored" value="Daśledavana"/>
+	<entry name="Factions" value="Frakcyi"/>
+	<entry name="Features" value="Miascovaść"/>
+	<entry name="FreeAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Darmavoje dziejańnie"/>
+	<entry name="Full" value="Poŭny"/>
+	<entry name="GameBrowser" value="Ahlad Hulni"/>
+	<entry name="GameLobby" value="Łobi Hulni"/>
+	<entry name="Games" value="Hulni"/>
+	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="HoldKeyForMeleeAttack" value="Utrymlivajcie Ctrl dla maksimalnaj škody."/>
+	<entry name="HoldKeyToKeepVisible" value="Utrymlivajcie Shift, kab zastavacca bačnym."/>
+	<entry name="HoldKeyToShowOpponentAttack" value="Utrymlivajcie Alt, kab pakazać ataku voraha."/>
+	<entry name="HotseatNotAvailable" value="<style color='GUI/Red'/>Kali łaska adklučycie adnačasovyja kroki ŭ pašyranych naładach, kab dazvolić łakalnuju sietku."/>
+	<entry name="Host" value="Chost"/>
+	<entry name="Inaccessible" value="Niedastupna"/>
+	<entry name="IncompatibleVersion" value="Niesumiaščalnaja viersija"/>
+	<entry name="InfoFormat" value="%3%%4%<style name='Italic'/>%5%<style name='Default'/>%9%%6%%7%%8%"/>
+	<entry name="Installed" value="Ustalavany"/>
+	<entry name="IntroductionGame" value="Navučańnie"/>
+	<entry name="IntroductionGameHint" value="Pačnicie navučalnuju hulniu za Kaśmičnych Marynaŭ na najlahčejšaj składanaści."/>
+	<entry name="InvalidName" value="Niapravilnaje imia."/>
+	<entry name="InviteEpicFriend" value="Zaprasić Siabra z Epic"/>
+	<entry name="InviteSteamFriend" value="Zaprasić Siabra z Steam"/>
+	<entry name="InviteSteamFriendHint" value="<style color='GUI/Yellow'/>Steam dazvalaje zaprašać siabroŭ tolki, kali ŭstalavany publičnyja nałady sakretnaści."/>
+	<entry name="InviteSteamFriendDisabledHint" value="Chost karystajecca nia Steam viersijaj hulni albo matčmejkinh Steam niedastupny."/>
+	<entry name="Invulnerable" value="Nieparažalny"/>
+	<entry name="ItemShop" value="Krama Pradmietaŭ"/>
+	<entry name="Items" value="Pradmiety"/>
+	<entry name="Join" value="Dałučycca"/>
+	<entry name="JustOneMoreTurn" value="Pačakajcie! Jašče…  adzin… krok…"/>
+	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% dośvied<br/><icon texture='GUI/Bullet'/>%3% dośvied za śmierć"/>
+	<entry name="LimitReached" value="Dasiahnuty limit."/>
+	<entry name="Load" value="Zahruzić"/>
+	<entry name="LoadGame" value="Zahruzić Hulniu"/>
+	<entry name="MainMenu" value="Hałoŭnaje Mieniu"/>
+	<entry name="MarkTileHint" value="<style name='Heading'/>Paznačyć plitku [<control name='Controls/MarkTile'/>]<br/><style name='Default'/>Dadajcie abo vydalicie paznaku dla chaŭruśnikaŭ. Chaŭrusny ŠY budzie imknucca pierasoŭvać svaje adzinki praz paznaki."/>
+	<entry name="MarksOfChaos" value="Znaki Chaosu"/>
+	<entry name="Max" value="maks"/>
+	<entry name="Menu" value="Mieniu"/>
+	<entry name="Military" value="Vajskovy"/>
+	<entry name="Min" value="min"/>
+	<entry name="Minimap" value="Minikarta"/>
+	<entry name="Missing" value="?"/>
+	<entry name="Mixer" value="Źmiašalnik"/>
+	<entry name="ModDetailsHint" value="Adkryć infarmacyju pra mod."/>
+	<entry name="ModFolderHint" value="Adkryć tečku z modam."/>
+	<entry name="Mods" value="Mody"/>
+	<entry name="More" value="Bolej"/>
+	<entry name="Multiplayer" value="Sietkavaja Hulnia"/>
+	<entry name="Name" value="Imia"/>
+	<entry name="New" value="Novaja"/>
+	<entry name="NewGame" value="Novaja Hulnia"/>
+	<entry name="NewGameHint" value="Abiarycie sabie frakcyju i naładźcie paramietry śvietu."/>
+	<entry name="NewSavedGame" value="Novaje Zachavańnie"/>
+	<entry name="NoChargesRemaining" value="Nie zastałosia zaradaŭ."/>
+	<entry name="NoFreeItemSlots" value="Brakuje svabodnaha miesca dla pradmietaŭ."/>
+	<entry name="NoResearchSelected" value="Daśledavańnie Nie Abrana"/>
+	<entry name="NoValidTargets" value="Niama prydatnych celaŭ."/>
+	<entry name="NotEnoughResources" value="Brakuje resursaŭ."/>
+	<entry name="NotReady" value="Nie Hatovy"/>
+	<entry name="NotUsable" value="Nielha ŭžyvać."/>
+	<entry name="OK" value="Dobra"/>
+	<entry name="Objectives" value="Mety"/>
+	<entry name="ObjectivesCompleted" value="Mety dasiahnuty"/>
+	<entry name="OnCooldown" value="Na pierazaradcy."/>
+	<entry name="OpenStore" value="Naciśnicie, kab adkryć kramu."/>
+	<entry name="Operations" value="Apieracyi i Taktyki"/>
+	<entry name="Or" value="abo"/>
+	<entry name="OrderCity" value="Zahady Haradam (%1%)"/>
+	<entry name="OrderCityHint" value="Abrać nastupny biaździejny horad [<control name='Controls/NextTask'/>]."/>
+	<entry name="OrderUnits" value="Zahady Adzinkam (%1%)"/>
+	<entry name="OrderUnitsHint" value="Abrać nastupnuju biaździejnuju adzinku [<control name='Controls/NextTask'/>]."/>
+	<entry name="Overwrite" value="Pierazapisać"/>
+	<entry name="PauseTurnTimer" value="Tajmier Paŭzy"/>
+	<entry name="Parameters" value="Paramietry"/>
+	<entry name="Passive" value="Pasiŭny"/>
+	<entry name="PassiveAction" value="Pasiŭnaje Dziejańnie"/>
+	<entry name="Paste" value="Ustavić"/>
+	<entry name="PasteInviteCode" value="Ustavić Kod Zaprašeńnia"/>
+	<entry name="PasteInviteCodeHint" value="Dałučycca da hulni z kodu zaprašeńnia z vašaha bufiera pamienu."/>
+	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>Chibny kod zaprašeńnia.<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
+	<entry name="PatchNotes" value="Źmieny Abnaŭleńnia"/>
+	<entry name="Ping" value="Pinh"/>
+	<entry name="Play" value="Hulać"/>
+	<entry name="Player" value="Hulec"/>
+	<entry name="PlayerXTurn" value="%1% krok"/>
+	<entry name="Players" value="Hulcy"/>
+	<entry name="PleaseWait" value="Kali Łaska, Pačakajcie…"/>
+	<entry name="PleaseWaitHint" value="Kali łaska, pačakajcie inšych hulcoŭ."/>
+	<entry name="Quests" value="Zadańni"/>
+	<entry name="QuickSelectFactionHint" value="Chutki vybar frakcyi."/>
+	<entry name="Quit" value="Vychad"/>
+	<entry name="SacredRites" value="Śviaščennyja Abrady"/>
+	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Radyus: %1% plitka"/>
+	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Radyus: %1% plitak"/>
+	<entry name="Random" value="Vypadkovy"/>
+	<entry name="Randomize" value="Vypadkova"/>
+	<entry name="RangeSelf" value="<icon height='20' texture='Icons/Attributes/Range'/> Dalokaść: ułasnaja"/>
+	<entry name="RangeTilesMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Dalokaść: %1% plitak"/>
+	<entry name="RangeTilesMinMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Dalokaść: %1%—%2% plitak"/>
+	<entry name="Ready" value="Hatovy"/>
+	<entry name="Refresh" value="Abnavić"/>
+	<entry name="RemovePlayerHint" value="Vydalić hulca."/>
+	<entry name="RenameHint" value="Pieranazvać."/>
+	<entry name="(Required)" value="(patrabujecca %1%)"/>
+	<entry name="RequiredLevel" value="Patrabujecca Ŭzrovień: %1%"/>
+	<entry name="Requires" value="Patrabuje"/>
+	<entry name="RequiresAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> <style color='GUI/Yellow'/>Patrabujecca dziejańnie<style color='Default'/>"/>
+	<entry name="RequiresMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Patrabujecca ruch<style color='Default'/>"/>
+	<entry name="Research" value="Daśledavańnie"/>
+	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
+	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% nabyta"/>
+	<entry name="ResourceFromAdjacentBuildings" value="    <icon texture='GUI/Bullet'/>%1% ad susiednich budynkaŭ"/>
+	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% ad budynkaŭ"/>
+	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% ad kolkaści haradoŭ"/>
+	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% ad razbureńniaŭ"/>
+	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1% ad składanaści"/>
+	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1% ad miascovaści"/>
+	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1% ad łajalnaści"/>
+	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1% ad nasielnictva"/>
+	<entry name="ResourceFromShortage" value="    <icon texture='GUI/Bullet'/>%1% ad niastačy resursaŭ"/>
+	<entry name="ResourceFromTiles" value="    <icon texture='GUI/Bullet'/>%1% ad plitak"/>
+	<entry name="ResourceFromUnits" value="    <icon texture='GUI/Bullet'/>%1% ad adzinak"/>
+	<entry name="ResourceFromUtopia" value="    <icon texture='GUI/Bullet'/>%1% ad utopii"/>
+	<entry name="ResourceLimit" value="<icon texture='GUI/Bullet'/>%1% limit"/>
+	<entry name="ResourcePerTurn" value="<icon texture='GUI/Bullet'/>%1% kožny krok"/>
+	<entry name="ResourceShortageTitle" value="Niastača Resursaŭ"/>
+	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% niastača"/>
+	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% usiaho"/>
+	<entry name="ResourcesAccumulated" value="Nazapašanyja Resursy"/>
+	<entry name="Restart" value="Pačać Nanoŭ"/>
+	<entry name="RestartScenario" value="Pačać Scenaryj Nanoŭ "/>
+	<entry name="RestoreDefaults" value="Adnavić Značeńni pa Zmoŭčańni"/>
+	<entry name="Rewards" value="Uznaharody"/>
+	<entry name="RewardsReceived" value="Atrymana Ŭznaharodaŭ"/>
+	<entry name="Save" value="Zachavać"/>
+	<entry name="SaveGame" value="Zachavać Hulniu"/>
+	<entry name="Scenarios" value="Scenaryi"/>
+	<entry name="Scores" value="Vyniki"/>
+	<entry name="SelectCityHint" value="Abrać horad."/>
+	<entry name="SelectColorHint" value="Abrać koler."/>
+	<entry name="SelectDifficultyHint" value="Abrać składanaść."/>
+	<entry name="SelectFaction" value="Abrać Frakcyju"/>
+	<entry name="SelectFactionHint" value="Abrać frakcyju."/>
+	<entry name="SelectNextCityHint" value="Abrać nastupny horad."/>
+	<entry name="SelectPreviousCityHint" value="Abrać papiaredni horad."/>
+	<entry name="SelectTeamHint" value="Abrać kamandu."/>
+	<entry name="SelectUnitHint" value="Abrać adzinku."/>
+	<entry name="Settings" value="Nałady"/>
+	<entry name="SinglePlayer" value="Adzin Hulec"/>
+	<entry name="SkipCity" value="Prapuścić Horad (1/%1%)"/>
+	<entry name="SkipCityHint" value="Prapuścić hety horad [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]:  abrać nastupny niadziejsny horad.<br/>[<control name='Controls/SelectPrevious'/>]: abrać papiaredni niadziejsny horad."/>
+	<entry name="SkipUnit" value="Prapuścić Adzinku (1/%1%)"/>
+	<entry name="SkipUnitHint" value="Prapuścić hetuju adzinku [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]: abrać nastupnuju niadziejsnuju adzinku.<br/>[<control name='Controls/SelectPrevious'/>]: abrać papiaredniuju niadziejsnuju adzinku."/>
+	<entry name="Social" value="Sacsietki"/>
+	<entry name="Spectating" value="Nazirańnie"/>
+	<entry name="Start" value="Pačać"/>
+	<entry name="Stats" value="Statystyka"/>
+	<entry name="SteamWorkshop" value="Majsternia Steam"/>
+	<entry name="Subscribe" value="Padpisacca"/>
+	<entry name="Surrender" value="Zdacca"/>
+	<entry name="TauPowers" value="Aśvieta i Adzinstva"/>
+	<entry name="Team" value="Kamanda"/>
+	<entry name="Team0" value="Niama kamandy"/>
+	<entry name="Team0Hint" value="Niama kamandy: hulaje samastojna; nia z'jaŭlajecca častkaj aljansu."/>
+	<entry name="Team1" value="Kamanda A"/>
+	<entry name="Team2" value="Kamanda B"/>
+	<entry name="Team3" value="Kamanda V"/>
+	<entry name="Team4" value="Kamanda H"/>
+	<entry name="Team5" value="Kamanda D"/>
+	<entry name="Team6" value="Kamanda Je"/>
+	<entry name="Team7" value="Kamanda Ž"/>
+	<entry name="Team8" value="Kamanda Z"/>
+	<entry name="Technology" value="Technałohii"/>
+	<entry name="Tier" value="Uzrovień"/>
+	<entry name="Tip" value="Padkazka"/>
+	<entry name="Tips" value="Padkazki"/>
+	<entry name="ToggleHotseatHint" value="Uklučyć łakalnuju sietku."/>
+	<entry name="Total" value="Ahulna"/>
+	<entry name="Traits" value="Asablivaści"/>
+	<entry name="Turn" value="Krok"/>
+	<entry name="UnclaimedItems" value="Niezapatrabavanyja Pradmiety"/>
+	<entry name="Unexplored" value="Niedaśledavany"/>
+	<entry name="UnholyRites" value="Haniebnyja Abrady"/>
+	<entry name="Units" value="Adzinki"/>
+	<entry name="UnitsCreated" value="Stvorana Adzinak"/>
+	<entry name="UnitsLost" value="Stračana Adzinak"/>
+	<entry name="UnitsKilled" value="Zabita Adzinak"/>
+	<entry name="UnitsKilledByPlayer" value="Vy zabili: %2%"/>
+	<entry name="UnitsKilledOnGladius" value="%2% %1% zabita na Hładyŭsie"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
+	<entry name="UnpauseTurnTimer" value="Spynić Tajmier Paŭzy"/>
+	<entry name="Unready" value="Niehatovy"/>
+	<entry name="Upgrades" value="Palapšeńni"/>
+	<entry name="Upkeep" value="Zabieśpiačeńnie"/>
+	<entry name="UploadModHint" value="Zahruzić mod."/>
+	<entry name="UserData" value="Danyja Karystalnika"/>
+	<entry name="VS" value="suprać"/>
+	<entry name="Version" value="Viersija"/>
+	<entry name="VersionRevisionsDiffer" value="Viersii adroźnivajucca (łakalnaja = %1%, siervier = %2%)."/>
+	<entry name="Victorious" value="Pieramoha"/>
+	<entry name="WaaaghLevelHint" value="<style name='Title'/>Uzrovień Vaaahch!<style name='Default'/><br/>Kožny ŭzrovień Vaaahch! pavialičvaje abo źmienšvaje ataku adzinak dy łajalnaść budynkaŭ orkaŭ na 2%% (da +/-20%%). Uzrovień Vaaahch! zasnavany na nazapašanym upłyvie i vydatku ŭpłyvu na źmiest adzinak. Vaaahch! abnaŭlajecca napačatku kožnaha kroku.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% ataki dy łajalnaść)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
+	<entry name="Weapons" value="Zbroja"/>
+	<entry name="WorldDataChecksumsDiffer" value="Karta śvietu adroźnivajecca (łakalnaja = %1%, siervier = %2%)."/>
+	<entry name="WorldSeedHint" value="Naciśnicie, kab skapiravać nasieńnie śvietu"/>
+	<entry name="XTurns" value="%1% krokaŭ"/>
+	<entry name="You" value="Vy"/>
+	<entry name="YourName" value="Vašaje Imia"/>
+</language>
