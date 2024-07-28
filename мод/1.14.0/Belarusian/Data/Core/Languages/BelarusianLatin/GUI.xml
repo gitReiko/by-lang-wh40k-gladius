@@ -53,8 +53,8 @@
 	<entry name="DLC" value="DLC"/>
 	<entry name="DLCNotEnabled" value="<style color='GUI/Red'/>%1% nie ŭłučany dla hetaj hulni. Uklučycie jaho ŭ pašyranych naładach hulniavoha łobi pierad pačatkam novaj hulni."/>
 	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% nie ŭstalavany."/>
-	<entry name="DamageDealt" value="Nanasimaja Škoda"/>
-	<entry name="DamageTaken" value="Atrymlivajemaja Škoda"/>
+	<entry name="DamageDealt" value="Naniesienaja Škoda"/>
+	<entry name="DamageTaken" value="Atrymanaja Škoda"/>
 	<entry name="Debug" value="Adładka"/>
 	<entry name="Default" value="Pa zmaŭčańni"/>
 	<entry name="Defeated" value="Paraza"/>
@@ -130,7 +130,7 @@
 	<entry name="MarksOfChaos" value="Znaki Chaosu"/>
 	<entry name="Max" value="maks"/>
 	<entry name="Menu" value="Mieniu"/>
-	<entry name="Military" value="Vajskovy"/>
+	<entry name="Military" value="Vajna"/>
 	<entry name="Min" value="min"/>
 	<entry name="Minimap" value="Minikarta"/>
 	<entry name="Missing" value="?"/>
