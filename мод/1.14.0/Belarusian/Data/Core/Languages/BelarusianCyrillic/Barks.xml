@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Vector keyed in."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Five-by-five."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Fly-by commencing."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Stubber round saturation commencing."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Вектар усталяваны."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Пяць на пяць."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Пачаць палёт."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Пачаць кругавое насычэньне стабберу."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Preserving aerial asset"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Захаваньне паветранага актыву"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Hurt#0" value="Wings clipped"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Hurt#0" value="Крылы падрэзаны"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Circling, circling."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Aerial libation distribution."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Pressure change. Morphing fibre-weave."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Preparing to evacuate Land Crawlers."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Лунаньне, лунаньне."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Пашырэньне паветраных узьліваньняў."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Зьмена ціску. Морфінг валакністага перапляцення."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Рыхтоўля да эвакуацыі Зямных Паўзуноў."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Shaken#0" value="Mayday, mayday!"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Shaken#0" value="Мэйдэй, мэйдэй!"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Victory#0" value="Enemy signatures no longer detected. Returning to cycle."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Victory#0" value="Варожыя сігнатуры больш не выяўляюцца. Вяртаньне да цыклу."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#0" value="Directing Kastelans."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#1" value="Anointing runes."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#2" value="Suppressing silica animus."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#3" value="Inserting doctrina wafers."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#0" value="Накіраваньне Каштэлянаў."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#1" value="Памазаньне рунаў."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#2" value="Прыдушваньне варожасьці да крэмнію."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#3" value="Устаўка плашак дактрыны."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Broken#0" value="…the Men of Iron…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Broken#0" value="…Жалезныя Людзі…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…beyond repair…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…за межамі рамонту…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="The flesh is weak, the machine is strong."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="In binary, rhythm and song. I would that you could hear."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="There can be no improvement on the Omnissiah's design."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="In nomine imperii et mechanici et spiritus omnissiah."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="Плоць слаба, машына мацна."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="У бінары, рытме і сьпеве. Я жадаю, каб вы чулі."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="Нельга палепшыць дызайны Амнісіі."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="Ін номінэ імперыі эт механічы эт спірытус Амніссая."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Retreat wafers found."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Знойдзены плашкі адступу."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Victory#0" value="Ancient wisdom, power proved."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Victory#0" value="Старажытная мудрасьць, спраўджаная сілай."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:VictoryCount" value="1"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#0" value="VESTRA INDUSTRIA NOSTRUM"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#1" value="WASTE IS SIN"/>
