@@ -746,13 +746,34 @@
 	<entry name="SpaceMarines/LandSpeederFlavor" value="<string name='Units/SpaceMarines/LandSpeederFlavor'/>"/>
 	<entry name="SpaceMarines/Librarian" value="<string name='Units/SpaceMarines/Librarian'/>"/>
 	<entry name="SpaceMarines/LibrarianDescription" value="<string name='Units/SpaceMarines/LibrarianDescription'/>"/>
-	<entry name="SpaceMarines/LibrarianFlavor" value="<string name='Units/SpaceMarines/LibrarianFlavor'/>"/>
+	<entry name="SpaceMarines/LibrarianFlavor" value="<string name='Units/SpaceMarines/LibrarianFlavor'/>"/>	
 	<entry name="SpaceMarines/Predator" value="<string name='Units/SpaceMarines/Predator'/>"/>
 	<entry name="SpaceMarines/PredatorDescription" value="<string name='Units/SpaceMarines/PredatorDescription'/>"/>
 	<entry name="SpaceMarines/PredatorFlavor" value="<string name='Units/SpaceMarines/PredatorFlavor'/>"/>
+	<entry name="SpaceMarines/PrimarisAggressor" value="<string name='Units/SpaceMarines/PrimarisAggressor'/>"/>
+	<entry name="SpaceMarines/PrimarisAggressorDescription" value="<string name='Units/SpaceMarines/PrimarisAggressorDescription'/>"/>
+	<entry name="SpaceMarines/PrimarisAggressorFlavor" value="<string name='Units/SpaceMarines/PrimarisAggressorFlavor'/>"/>
+	<entry name="SpaceMarines/PrimarisHellblaster" value="<string name='Units/SpaceMarines/PrimarisHellblaster'/>"/>
+	<entry name="SpaceMarines/PrimarisHellblasterDescription" value="<string name='Units/SpaceMarines/PrimarisHellblasterDescription'/>"/>
+	<entry name="SpaceMarines/PrimarisHellblasterFlavor" value="<string name='Units/SpaceMarines/PrimarisHellblasterFlavor'/>"/>
+	<entry name="SpaceMarines/PrimarisInceptor" value="<string name='Units/SpaceMarines/PrimarisInceptor'/>"/>
+	<entry name="SpaceMarines/PrimarisInceptorDescription" value="<string name='Units/SpaceMarines/PrimarisInceptorDescription'/>"/>
+	<entry name="SpaceMarines/PrimarisInceptorFlavor" value="<string name='Units/SpaceMarines/PrimarisInceptorFlavor'/>"/>
+	<entry name="SpaceMarines/PrimarisIntercessor" value="<string name='Units/SpaceMarines/PrimarisIntercessor'/>"/>
+	<entry name="SpaceMarines/PrimarisIntercessorDescription" value="<string name='Units/SpaceMarines/PrimarisIntercessorDescription'/>"/>
+	<entry name="SpaceMarines/PrimarisIntercessorFlavor" value="<string name='Units/SpaceMarines/PrimarisIntercessorFlavor'/>"/>
+	<entry name="SpaceMarines/PrimarisInvaderATV" value="<string name='Units/SpaceMarines/PrimarisInvaderATV'/>"/>
+	<entry name="SpaceMarines/PrimarisInvaderATVDescription" value="<string name='Units/SpaceMarines/PrimarisInvaderATVDescription'/>"/>
+	<entry name="SpaceMarines/PrimarisInvaderATVFlavor" value="<string name='Units/SpaceMarines/PrimarisInvaderATVFlavor'/>"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner" value="<string name='Units/SpaceMarines/PrimarisRepulsorExecutioner'/>"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutionerDescription" value="<string name='Units/SpaceMarines/PrimarisRepulsorExecutionerDescription'/>"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutionerFlavor" value="<string name='Units/SpaceMarines/PrimarisRepulsorExecutionerFlavor'/>"/>
 	<entry name="SpaceMarines/Razorback" value="<string name='Units/SpaceMarines/Razorback'/>"/>
 	<entry name="SpaceMarines/RazorbackDescription" value="<string name='Units/SpaceMarines/RazorbackDescription'/>"/>
 	<entry name="SpaceMarines/RazorbackFlavor" value="<string name='Units/SpaceMarines/RazorbackFlavor'/>"/>
+	<entry name="SpaceMarines/RedemptorDreadnought" value="<string name='Units/SpaceMarines/RedemptorDreadnought'/>"/>
+	<entry name="SpaceMarines/RedemptorDreadnoughtDescription" value="<string name='Units/SpaceMarines/RedemptorDreadnoughtDescription'/>"/>
+	<entry name="SpaceMarines/RedemptorDreadnoughtFlavor" value="<string name='Units/SpaceMarines/RedemptorDreadnoughtFlavor'/>"/>
 	<entry name="SpaceMarines/Scout" value="<string name='Units/SpaceMarines/Scout'/>"/>
 	<entry name="SpaceMarines/ScoutDescription" value="<string name='Units/SpaceMarines/ScoutDescription'/>"/>
 	<entry name="SpaceMarines/ScoutFlavor" value="<string name='Units/SpaceMarines/ScoutFlavor'/>"/>
@@ -762,6 +783,9 @@
 	<entry name="SpaceMarines/StormravenGunship" value="<string name='Units/SpaceMarines/StormravenGunship'/>"/>
 	<entry name="SpaceMarines/StormravenGunshipDescription" value="<string name='Units/SpaceMarines/StormravenGunshipDescription'/>"/>
 	<entry name="SpaceMarines/StormravenGunshipFlavor" value="<string name='Units/SpaceMarines/StormravenGunshipFlavor'/>"/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike" value="<string name='Units/SpaceMarines/StormSpeederThunderstrike'/>"/>
+	<entry name="SpaceMarines/StormSpeederThunderstrikeDescription" value="<string name='Units/SpaceMarines/StormSpeederThunderstrikeDescription'/>"/>
+	<entry name="SpaceMarines/StormSpeederThunderstrikeFlavor" value="<string name='Units/SpaceMarines/StormSpeederThunderstrikeFlavor'/>"/>
 	<entry name="SpaceMarines/StormtalonGunship" value="<string name='Units/SpaceMarines/StormtalonGunship'/>"/>
 	<entry name="SpaceMarines/StormtalonGunshipDescription" value="<string name='Units/SpaceMarines/StormtalonGunshipDescription'/>"/>
 	<entry name="SpaceMarines/StormtalonGunshipFlavor" value="<string name='Units/SpaceMarines/StormtalonGunshipFlavor'/>"/>

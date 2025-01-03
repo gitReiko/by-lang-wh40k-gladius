@@ -688,9 +688,30 @@
 	<entry name="SpaceMarines/Predator" value="Драпежнік"/>
 	<entry name="SpaceMarines/PredatorDescription" value="Асноўны баявы танк."/>
 	<entry name="SpaceMarines/PredatorFlavor" value="A swift and brutal fighting vehicle, the Predator provides the Space Marine Chapters with prodigious amounts of fire support. The battle tank's heavy bolters and autocannon are the bane of infantry and light vehicles, while the Annihilator variant's lascannons spell doom to any armoured enemy."/>
+	<entry name="SpaceMarines/PrimarisAggressor" value="Прымарыс-Агрэсары"/>
+	<entry name="SpaceMarines/PrimarisAggressorDescription" value="Супрацьпяхотныя адзінкі блізкага бою, экіпіяваныя рукавіцамі агнявы шторм."/>
+	<entry name="SpaceMarines/PrimarisAggressorFlavor" value="Capable of spearheading devastating offensives or shattering the most determined enemy assaults, Aggressors are walking ceramite strongpoints. They excel at close-quarters combat and laying down torrents of devastating fire before crushing their foes beneath their energised fists."/>
+	<entry name="SpaceMarines/PrimarisHellblaster" value="Прымарыс · Пякельныя Бластары"/>
+	<entry name="SpaceMarines/PrimarisHellblasterDescription" value="Цяжкая бронепрабівальная пяхота далёкага бою."/>
+	<entry name="SpaceMarines/PrimarisHellblasterFlavor" value="Few foes can survive the incandescent fury of a Hellblaster Squad. Whether they be Tyranid Hive Tyrant, Ork Warboss or Heretic Astartes battle tank, all are reduced to ash and slag by searing, well-aimed plasma fire pouring from the Hellblasters’ ferocious weapons."/>
+	<entry name="SpaceMarines/PrimarisInceptor" value="Прымарыс-Інцэптары"/>
+	<entry name="SpaceMarines/PrimarisInceptorDescription" value="Магутная адзінка малой далёкасьці, экіпіяваная скокавым ранцам."/>
+	<entry name="SpaceMarines/PrimarisInceptorFlavor" value="Equipped with heavy jump packs, Inceptor Squads are superb spearhead troops that deliver overwhelming blows to the enemy. Plummeting to the surface from the very edge of a world’s atmosphere, they strike with devastating force, unleashing a hurricane of fire that turns whole squads of enemy infantry to bloody mist."/>
+	<entry name="SpaceMarines/PrimarisIntercessor" value="Прымарыс-Інтэрцэсары"/>
+	<entry name="SpaceMarines/PrimarisIntercessorDescription" value="Трывалая ўніверсальная пяхота."/>
+	<entry name="SpaceMarines/PrimarisIntercessorFlavor" value="Intercessor Squads are capable of laying down punishing fire while advancing or holding ground against the enemy. They have access to a range of bolt weaponry suited to varied battlefield assignments, from engaging enemies at long range to cleansing bunker complexes."/>
+	<entry name="SpaceMarines/PrimarisInvaderATV" value="Прымарыс-Захопнік-Усюдыход"/>
+	<entry name="SpaceMarines/PrimarisInvaderATVDescription" value="Хуткая машына, экіпіяваная гатлінг-гарматай."/>
+	<entry name="SpaceMarines/PrimarisInvaderATVFlavor" value="The Invader is a highly flexible all-terrain vehicle, perfectly adapted to an aggressive reconnaissance role. Outfitted with an onslaught gatling cannon, it can rapidly deliver punishing fire against vulnerable parts of the enemy line, or swiftly engage and destroy scouting elements of opposing forces."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutioner" value="Прымарыс · Рэпульсарны Кат"/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutionerDescription" value="Цяжкі танк з транспартнымі здольнасьцямі і значным боекамплектам стралковай зброі."/>
+	<entry name="SpaceMarines/PrimarisRepulsorExecutionerFlavor" value="Based on the Repulsor chassis, the Repulsor Executioner sacrifices some transport capacity to accommodate powerful turret weaponry. Even the largest battle tanks can be crippled by the beam of a heavy laser destroyer, while the incinerating blasts of a macro plasma incinerator can obliterate infantry formations."/>
 	<entry name="SpaceMarines/Razorback" value="Брытвасьпін"/>
 	<entry name="SpaceMarines/RazorbackDescription" value="Танк, які перавозіць пяхоту."/>
 	<entry name="SpaceMarines/RazorbackFlavor" value="The Razorback rolls into battle with its weapons charged and ready to fire. Its determined crew slam their vehicle through obstacles and over wreckage, keeping pace with the Adeptus Astartes’ advance. Meanwhile, inside the vehicle’s transport bay, its passengers ready themselves for the battle ahead."/>
+	<entry name="SpaceMarines/RedemptorDreadnought" value="Прымарыс · Дрэдноўт-Збаўца"/>
+	<entry name="SpaceMarines/RedemptorDreadnoughtDescription" value="Магутны крокаход з вялікай колькасьцю зброі."/>
+	<entry name="SpaceMarines/RedemptorDreadnoughtFlavor" value="Redemptor Dreadnoughts are some of the largest of their kind ever fielded by the Adeptus Astartes. Armed to the teeth, they can be equipped to utterly destroy almost any kind of battlefield target with hails of superheated plasma."/>
 	<entry name="SpaceMarines/Scout" value="Выведнікі"/>
 	<entry name="SpaceMarines/ScoutDescription" value="Пяхотная адзінка, якая сьпецыялізуецца на выведцы і пранікненьні."/>
 	<entry name="SpaceMarines/ScoutFlavor" value="The first the enemy knows of a Scout Squad’s presence is when its advance is brought to a sudden, violent halt. Heads snap back and warriors crumple to the floor, neat holes drilled through their skulls by sniper fire. The sudden boom of shotguns sees foes thrown from their feet with bloody craters blasted in their chests and backs. Bolt pistols bark, counterpointed by the thump of heavy bolter fire and the screams of the dying as enemies caught in the crossfire are torn apart by mass-reactive shells. Even artillery and heavy weapons troopers are not safe, as ambushing Scouts burst from concealment to wreak havoc on the enemy’s rear lines. However a Scout Squad chooses to attack its foes, it will be with total surprise and from an unexpected quarter, their stealth and cunning proving to be just as deadly as bolter and blade."/>
@@ -700,6 +721,9 @@
 	<entry name="SpaceMarines/StormravenGunship" value="Карабель · Штармавы Крумкач"/>
 	<entry name="SpaceMarines/StormravenGunshipDescription" value="Цяжкаўзброеная і браняваная транспартная авіяцыя."/>
 	<entry name="SpaceMarines/StormravenGunshipFlavor" value="Stormraven Gunships streak into battle with their weapons blazing, flak whipping around them as they rake the foe with bolts, blasts and warheads. More akin to a flying tank than a conventional dropship, the Stormraven is the most versatile aircraft in the arsenal of the Adeptus Astartes. Fast, manoeuvrable, resilient, boasting prodigious firepower and a substantial transport capacity, the Stormraven can perform many different roles."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrike" value="Штармавы Хуткар · Грамавы Ўдар"/>
+	<entry name="SpaceMarines/StormSpeederThunderstrikeDescription" value="Хуткая штурмавая машына з магутнай супрацьтанкавай зброяй."/>
+	<entry name="SpaceMarines/StormSpeederThunderstrikeFlavor" value="Thunderstrikes outmanoeuvre the foe at every turn, targeting vulnerable points in armour, fuel stores and missile hoppers to turn tanks into raging fireballs. Just a single Thunderstrike is capable of destroying armoured breakthrough attempts, and when one is on the battlefield, few enemies are safe."/>
 	<entry name="SpaceMarines/StormtalonGunship" value="Карабель · Штармавы Кіпцюр"/>
 	<entry name="SpaceMarines/StormtalonGunshipDescription" value="Паветраны зьнішчальнік, які таксама эфектыўны супраць наземных цэляў."/>
 	<entry name="SpaceMarines/StormtalonGunshipFlavor" value="The smaller Stormtalon Gunship is incredibly fast and agile, and makes a superb air-interceptor and ground attack craft. With a single press of a trigger, the Stormtalon's pilot purges his victims from existence amid a whistling hail of missiles, bolts and las blasts. All the while, the Stormtalon jinks and weaves with incredible speed, enemy fire slicing around it to no avail."/>
