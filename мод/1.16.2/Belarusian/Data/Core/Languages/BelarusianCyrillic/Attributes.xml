@@ -209,6 +209,10 @@
 	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
 	<entry name="MovementMax" value="Макс. Рух"/>
 	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="OpponentAccuracy" value="Трапнасьць Апанента"/>
+	<entry name="OpponentAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="OpponentDamage" value="Шкода Апанента"/>
+	<entry name="OpponentDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="OpponentRangedAccuracy" value="Трапнасьць Суперніка Далёкага Бою"/>
 	<entry name="OpponentRangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
 	<entry name="Ore" value="Руда"/>

@@ -243,6 +243,9 @@
 	<entry name="ChaosSpaceMarines/Incursion" value="Уварваньне"/>
 	<entry name="ChaosSpaceMarines/IncursionDescription" value="Часова заклікае выпадковага Дэмана."/>
 	<entry name="ChaosSpaceMarines/IncursionFlavor" value="The psyker opens a portal to the Realm of Chaos, allowing the warp's daemonic denizens to spill forth into reality."/>
+	<entry name="ChaosSpaceMarines/InfernalFusillade" value="Пякельная Пальба"/>
+	<entry name="ChaosSpaceMarines/InfernalFusilladeDescription" value="Павялічвае атакі болтарнай зброяй гэтай адзінкі."/>
+	<entry name="ChaosSpaceMarines/InfernalFusilladeFlavor" value="Arcane invocations imbue the Thousand Sons’ weapons with sorcerous power, rendering them still more lethal to the foe."/>
 	<entry name="ChaosSpaceMarines/InfernalPower" value="Пякельная Моц"/>
 	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Павялічвае трапнасьць і шкоду гэтай адзінцы і суседніх хаўрусных адзінак Хаосу."/>
 	<entry name="ChaosSpaceMarines/InfernalPowerFlavor" value="The fell power of the immaterium flows from the psyker, imbuing the Daemons that reside within his followers' bodies with even greater ferocity."/>
@@ -404,6 +407,9 @@
 	<entry name="Drukhari/EnhancedAethersails" value="Палепшаныя Этэрныя Ветразі"/>
 	<entry name="Drukhari/EnhancedAethersailsDescription" value="Павялічвае рух."/>
 	<entry name="Drukhari/EnhancedAethersailsFlavor" value="Aethersails are used to capture the aetheric winds that flow out from open webway portals. Many vehicle crews are meticulous in the construction of these sails, incorporating frictionless alloys, vibro-pods and angled booms to enhance their bursts of speed."/>
+	<entry name="Drukhari/FadeAway" value="Зьнікненьне"/>
+	<entry name="Drukhari/FadeAwayDescription" value="Тэлепорт на абраную выведаную плітку."/>
+	<entry name="Drukhari/FadeAwayFlavor" value="The ghastly Drukhari of the shadow-realm of Aelindrach appear to flit between realities, passing from the shadows of one plane to another. By these means, these eldritch horrors can bypass defenses, guards and shields at will."/>
 	<entry name="Drukhari/FieldRepairs" value="Рамонт у Рэальнай Прасторы"/>
 	<entry name="Drukhari/FieldRepairsDescription" value="Аднаўляе здароўе."/>
 	<entry name="Drukhari/FieldRepairsFlavor" value="A Drukhari trapped in realspace for any time is doomed—She Who Thirsts will slowly sip away their soul until they are a withered husk. So it pays to be able to fix up their craft to ensure a rapid return to the known perils of Commorragh."/>
@@ -647,6 +653,9 @@
 	<entry name="Necrons/MindshackleScarabs" value="Скарабеі Кайданоў Розуму"/>
 	<entry name="Necrons/MindshackleScarabsDescription" value="Зьніжае мараль абранай напалоханай варожай адзінкі."/>
 	<entry name="Necrons/MindshackleScarabsFlavor" value="At the bearer's command, tiny mindshackle scarabs burrow into their target's brain, bypassing cerebral functions and robbing the unfortunate victim of their wits."/>
+	<entry name="Necrons/NanoscarabReanimationBeam" value="Нанаскарабейны Рэанімацыйны Прамень"/>
+	<entry name="Necrons/NanoscarabReanimationBeamDescription" value="Аднаўляе здароўе суседніх хаўрусных адзінак Некронаў."/>
+	<entry name="Necrons/NanoscarabReanimationBeamFlavor" value="The Canoptek Reanimator directs a stream of nanoscarabs at nearby Necron structures and units, activating and boosting their reanimation protocols. In contrast, the effect on organic creatures is entirely destructive."/>
 	<entry name="Necrons/NecrodermisRepair" value="Аднаўленьне Некрадэрміса"/>
 	<entry name="Necrons/NecrodermisRepairDescription" value="Аднаўляе здароўе."/>
 	<entry name="Necrons/NecrodermisRepairFlavor" value="If a Necron is only mildly damaged, their living metal body can somewhat heal itself, flowing reserve metals to cover flaws and failings."/>
@@ -1122,6 +1131,9 @@
 	<entry name="Tyranids/ShadowInTheWarp" value="Цень у Варпе"/>
 	<entry name="Tyranids/ShadowInTheWarpDescription" value="Зьніжае мараль суседніх варожых псайкераў кожны крок."/>
 	<entry name="Tyranids/ShadowInTheWarpFlavor" value="The unfathomable presence of the Hive Mind radiates out from its synapse creatures, smothering the ability of the psykers who stand before them to draw upon their mystic powers."/>
+	<entry name="Tyranids/SingularPurpose" value="Сінгулярныя Намеры"/>
+	<entry name="Tyranids/SingularPurposeDescription" value="Павялічвае трапнасьць і шкоду супраць варожых адзінак для Норн-Эмісараў."/>
+	<entry name="Tyranids/SingularPurposeFlavor" value="Spawned by Norn queens, this Emissary’s role on a battlefield is the removal of an opposing force’s lynchpin—the leaders or the key troops whose loss will precipitate the collapse of the opposition forces. Gifted with unique knowledge of its target, an Emissary rarely fails in its purpose."/>
 	<entry name="Tyranids/SporeCloud" value="Воблака Спораў"/>
 	<entry name="Tyranids/SporeCloudDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою гэтай адзінкі і суседніх хаўрусных адзінак."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="The best possible tactic against Tyranids is decapitation—namely, the execution of the synapse creatures that relay the Norn Queen's commands. Unfortunately, through the fluid mass of sinuous flesh that constitutes a Tyranid assault, the hail of acidic and living projectiles, and the obfuscating spore clouds, even a Vindicare assassin would have trouble picking out a Dominatrix, let alone a Tyrant."/>

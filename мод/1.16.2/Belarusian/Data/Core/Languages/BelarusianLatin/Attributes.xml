@@ -209,6 +209,10 @@
 	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
 	<entry name="MovementMax" value="Maks. Ruch"/>
 	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="OpponentAccuracy" value="Trapnaść Apanienta"/>
+	<entry name="OpponentAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="OpponentDamage" value="Škoda Apanienta"/>
+	<entry name="OpponentDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="OpponentRangedAccuracy" value="Trapnaść Supiernika Dalokaha Boju"/>
 	<entry name="OpponentRangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
 	<entry name="Ore" value="Ruda"/>

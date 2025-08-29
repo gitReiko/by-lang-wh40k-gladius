@@ -244,6 +244,12 @@
 	<entry name="AdeptusMechanicus/TerranGeneralism" value="Тэранскі Генералізм"/>
 	<entry name="AdeptusMechanicus/TerranGeneralismDescription" value="Павялічвае прыбытак ад вытворчасьці кожнага будынка на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/TerranGeneralismFlavor" value="Though many Forge Worlds have specialised towards particular needs and act as independent empires within the human sphere, it’s worth remembering that most Tech-Priests are generalists, loyally supporting the Imperium in its drive to the stars—and following the orders of Earth as much as Mars."/>
+	<entry name="AdeptusMechanicus/Transonic" value="Трансгук"/>
+	<entry name="AdeptusMechanicus/TransonicDescription" value="Павялічвае шкоду і часова павышае бронепрабівальнасьць пасьля атакі."/>
+	<entry name="AdeptusMechanicus/TransonicFlavor" value="<string name='Weapons/TransonicBladeFlavor'/>"/>
+	<entry name="AdeptusMechanicus/TransonicEffect" value="Трансгукавы Рэзананс"/>
+	<entry name="AdeptusMechanicus/TransonicEffectDescription" value="Павялічвае бронепрабівальнасьць."/>
+	<entry name="AdeptusMechanicus/TransonicEffectFlavor" value="<string name='Weapons/TransonicBladeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/TriplexNecessity" value="Патрэба Трыплексу"/>
 	<entry name="AdeptusMechanicus/TriplexNecessityDescription" value="Павялічвае вытворчасьць руды за кожны будынак на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/TriplexNecessityFlavor" value="Following new designs discovered on Triplex Phall, during the construction of new structures, care is taken to explore any subterranean areas and map out any potential ore veins. With a Haemotrope Reactor, its plasma can be directed down these prepared routes to more efficiently extract the ore."/>
@@ -416,6 +422,9 @@
 	<entry name="ChaosSpaceMarines/ArcaneOcculum" value="Містычны Аккулум"/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumDescription" value="Дарунак Хаосу, які павялічвае трапнасьць."/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumFlavor" value="A blood-shot eye pushes through the flesh."/>
+	<entry name="ChaosSpaceMarines/AuraOfDarkGlory" value="Аўра Цёмнай Славы"/>
+	<entry name="ChaosSpaceMarines/AuraOfDarkGloryDescription" value="Павялічвае непаражальнае зьніжэньне шкоды."/>
+	<entry name="ChaosSpaceMarines/AuraOfDarkGloryFlavor" value="Some champions of Chaos are so blessed by their patron deity that they are supernaturallу protected from harm. They might be surrounded by a powerful, crackling bubble of psychic energy, or else bullets aimed at them may be strangely turned aside just before they strike. In either case, it is clear that the Dark Gods are watching over them."/>
 	<entry name="ChaosSpaceMarines/BlastDamage" value="Пакрыцьцё Дэманічнай Косткай"/>
 	<entry name="ChaosSpaceMarines/BlastDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="ChaosSpaceMarines/BlastDamageFlavor" value="The Warpsmiths may have only trapped minor horrors in the casings of these explosive shells, but their rage at the point of impact isn’t minor—as they shatter and return to the warp, they rage and snatch at anything nearby."/>
@@ -484,6 +493,9 @@
 	<entry name="ChaosSpaceMarines/IconOfWrath" value="<string name='Actions/ChaosSpaceMarines/IconOfWrath'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="Павялічвае шкоду."/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathFlavor'/>"/>
+	<entry name="ChaosSpaceMarines/InfernalFusillade" value="<string name='Actions/ChaosSpaceMarines/InfernalFusillade'/>"/>
+	<entry name="ChaosSpaceMarines/InfernalFusilladeDescription" value="Павялічвае атакі болтарнай зброяй."/>
+	<entry name="ChaosSpaceMarines/InfernalFusilladeFlavor" value="<string name='Actions/ChaosSpaceMarines/InfernalFusillade'/>"/>
 	<entry name="ChaosSpaceMarines/InfernalIndustry" value="<string name='Actions/ChaosSpaceMarines/InfernalIndustry'/>"/>
 	<entry name="ChaosSpaceMarines/InfernalIndustryDescription" value="<string name='Actions/ChaosSpaceMarines/InfernalIndustryDescription'/>"/>
 	<entry name="ChaosSpaceMarines/InfernalIndustryFlavor" value="<string name='Actions/ChaosSpaceMarines/InfernalIndustryFlavor'/>"/>
@@ -1205,6 +1217,9 @@
 	<entry name="Necrons/MeleeDamage" value="Клінкі з Нэкрадэрміса"/>
 	<entry name="Necrons/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Necrons/MeleeDamageFlavor" value="Made from impossibly thin slices of the Necron's utilitarian living metal, these blades pass through most skin, bone and armour with disturbing ease."/>
+	<entry name="Necrons/NanoscarabReanimationBeam" value="Нанаскарабейны Рэанімацыйны Прамень"/>
+	<entry name="Necrons/NanoscarabReanimationBeamDescription" value="Аднаўляе здароўе."/>
+	<entry name="Necrons/NanoscarabReanimationBeamFlavor" value="<string name='Actions/Necrons/NanoscarabReanimationBeamFlavor'/>"/>
 	<entry name="Necrons/Nebuloscope" value="Нэбуласкоп"/>
 	<entry name="Necrons/NebuloscopeDescription" value="Абыходзіць зьмяншэньне шкоды ад далёкага бою ворага."/>
 	<entry name="Necrons/NebuloscopeFlavor" value="This arcane device allows the Tomb Blade's pilot to track his prey through different dimensions, leaving them no place to hide."/>
@@ -1271,6 +1286,9 @@
 	<entry name="OrkoidFungusFood" value="Квітненьне Грыблінга"/>
 	<entry name="OrkoidFungusFoodDescription" value="Павялічвае вытворчасьць ежы. "/>
 	<entry name="OrkoidFungusFoodFlavor" value="The tiny Snotlings, like all Orkoids, are derived from the same base fungus genetic structure. Unlike other Orkoids though, particularly lazy Snotlings can settle back into the fungus patch, and revert to become giant half-mushroom creatures, a particular delicacy for their larger Ork brethren."/>
+	<entry name="Orks/BeastSnagga" value="Зьвер Снага"/>
+	<entry name="Orks/BeastSnaggaDescription" value="Павялічвае трапнасьць супраць машынаў і жахлівых стварэньняў ды павялічвае непаражальнае зьніжэньне шкоды."/>
+	<entry name="Orks/BeastSnaggaFlavor" value="Spying the largest or most dangerous threats on the battlefield – besides the Orks themselves – Beast Snaggas chase them down with gleeful enthusiasm."/>
 	<entry name="Orks/BigBoss" value="<string name='Actions/Orks/BigBoss'/>"/>
 	<entry name="Orks/BigBossDescription" value="Павялічвае здароўе."/>
 	<entry name="Orks/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
@@ -2088,6 +2106,9 @@
 	<entry name="Tyranids/ShortRangedDamage" value="Гігабарэйскія Вульлі"/>
 	<entry name="Tyranids/ShortRangedDamageDescription" value="Павялічвае бронепрабівальнасьць."/>
 	<entry name="Tyranids/ShortRangedDamageFlavor" value="The unique and disgusting Borer nest is comprised of a compact nest of Borer beetles, acidic insectoids that launch themselves in a frenzy from the weapon. Gigaborer Hives contain fewer, much larger beetles, simply enabling more damage."/>
+	<entry name="Tyranids/SingularPurpose" value="<string name='Actions/Tyranids/SingularPurpose'/>"/>
+	<entry name="Tyranids/SingularPurposeDescription" value="Норн-Эмісары маюць павялічаную трапнасьць і шкоду супраць гэтай адзінкі."/>
+	<entry name="Tyranids/SingularPurposeFlavor" value="<string name='Actions/Tyranids/SingularPurposeFlavor'/>"/>
 	<entry name="Tyranids/SporeCloud" value="<string name='Actions/Tyranids/SporeCloud'/>"/>
 	<entry name="Tyranids/SporeCloudDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
@@ -2105,6 +2126,9 @@
 	<entry name="Tyranids/Tunnel2" value="Эхурыйскія Сьцены"/>
 	<entry name="Tyranids/Tunnel2Description" value="Павялічвае здароўе."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
+	<entry name="Tyranids/UnnaturalResilience" value="Ненатуральная Устойлівасьць"/>
+	<entry name="Tyranids/UnnaturalResilienceDescription" value="Павялічвае непаражальнае зьніжэньне шкоды і дае дадатковае зьніжэньне шкоды ад Адсутнасьці Пачуцьця Болю."/>
+	<entry name="Tyranids/UnnaturalResilienceFlavor" value="Imbued with purpose by the Norn Queen, the Emissary adapts instantly to injuries that would cripple another creature, shrugging off death to pursue its goal."/>
 	<entry name="Tyranids/VehiclesUpkeep" value="Інстынкты Мегонта"/>
 	<entry name="Tyranids/VehiclesUpkeepDescription" value="Зьмяншае ўтрыманьне біямасы."/>
 	<entry name="Tyranids/VehiclesUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions, save for its alpha creatures—but by loosening that control, larger organisms can direct or predate on the smaller organisms, enabling them to survive without direct control."/>
