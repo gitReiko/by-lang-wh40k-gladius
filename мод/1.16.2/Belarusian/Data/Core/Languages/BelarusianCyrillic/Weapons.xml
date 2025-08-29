@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- Generic -->
+	<entry name="AutoFlavor" value="These robust weapons are automated, self-loading firearms that fire bursts of high-velocity, caseless shot. Auto-weapons come in a variety of forms, from the common autopistol to heavy support weapons like the punisher gatling cannon."/>
+	<entry name="BarrageFlavor" value="Barrage weapons lob shells high into the air, landing them in the midst of the foe."/>
+	<entry name="BlastFlavor" value="Blast weapons fire shells, missiles or packets of energy that explode on impact."/>
+	<entry name="BoltFlavor" value="The boltgun, or bolter, fires small missiles known as 'bolts'. Each self-propelled bolt explodes with devastating effect once it has penetrated its target. There are many variations of boltguns, from the short-barreled bolt pistol to the Vulcan mega-bolter often mounted on Titans and other super-heavy vehicles."/>
+	<entry name="BurstFlavor" value="Burst weaponry finds use across the T'au military, primarily mounted on battlesuits and vehicles. Utilising a similar plasma induction technology found in T'au pulse technology, burst cannons are multibarrelled weapons able to sustain high rates of fire."/>
+	<entry name="CognisFlavor" value="Cognis weaponry, though superficially similar to that used by the rest of the Imperium, has one vital difference – a cognis weapon’s machine spirit has been permanently awakened by the rites of the Machine God. When the wielder is unable to give his full concentration, the warlike spirit of the gun will take over."/>
+	<entry name="DestroyerFlavor" value="Also known as Titan-killers, destroyer weapons deliver horrifying amounts of damage."/>
+	<entry name="DarklightFlavor" value="Darklight works by reacting catastrophically with its target, producing a blast that can bore a massive hole in a vehicle regardless of armour, or vaporise a foot soldier in an instant. Even to perceive a beam of darklight without the correct protection leaves permanent slash-scars upon the retina."/>
+	<entry name="DistortionFlavor" value="The most dangerous of all Aeldari weapons enable their user to open a portal to the Warp. Often called D-weapons, these technological terrors collapse an area of the material universe. Whether the rift is localised or dispersed, the result is invariably fatal for those nearby."/>
+	<entry name="FlamerFlavor" value="Flamers are short-ranged weapons that spew out highly volatile clouds of liquid chemicals that ignite on contact with air. They are primarily used to scour the enemy from defended positions, as walls are of no defence against blasts of superheated vapour."/>
+	<entry name="ForceFlavor" value="Force weapons are potent psychic weapons used exclusively by trained psykers. By instilling a portion of his mental might into the weapon, a psyker can strike his foe with an incredible storm of power that ravages and overloads his enemy's nervous system, leaving him a mindless shell."/>
+	<entry name="FusionFlavor" value="Fusion weapons are anti-tank weapons that reduce reinforced armour to molten slag in the blink of eye."/>
+	<entry name="GaussFlavor" value="Gauss weapons vary in appearance from the rifle-sized flayers to the massive heavy gauss cannon. Unlike more conventional energy weapons, a gauss projector emits a molecular disassembling beam, reducing flesh, bone and even armour to its constituent atoms."/>
+	<entry name="GhostFlavor" value="The rudimentary sentience within the spirit stone core of each ghost weapon, whether axe, glaive or sword, empowers the blade and guides its wielder’s blows toward the vital points of his foe."/>
+	<entry name="IonFlavor" value="The high-energy streams fired by ion weapons react destructively with their target, vaporising flesh and metal with equal ease. Ion weapons can be overcharged to generate a more devastating attack, but at a risk of overheating its primary power cells."/>
+	<entry name="KlawFlavor" value="Orks favour brutal power klaws over the more sophisticated power fists of other races. These huge hydraulic shears are capable of rending and crushing even the toughest foes. Ork walkers are fitted with klaws that befit their greater size, and can rip through anything foolish enough to stand in the pilot's way."/>
+	<entry name="LasFlavor" value="Las weapons fire packets of explosive laser energy—the larger the gun, the more powerful the shot. Regardless of size, las weapons are incredibly reliable, making them favoured tools of war throughout the Imperium."/>
+	<entry name="LaserFlavor" value="Aeldari lasers use psychically grown crystals to refine the already intense bursts to their optimum potency. Many Aeldari consider the laser weapon the most elegant of all, exulting in the fact that their technological mastery extends even to light itself."/>
+	<entry name="MeltaFlavor" value="Melta weapons are lethal anti-armour guns, most effective at very short range. When fired, the super-heating of the air produces a distinctive and sinister hiss. Solid rock is reduced to molten slag, and living creatures are vaporised in an instant!"/>
+	<entry name="MeleeFlavor" value="Warriors across the galaxy employ a wide variety of close-quarter weapons. Blood-flecked chainswords and crude knives take their places alongside powered weapons of all kinds: swords, axes, hammers and many more. All such weapons are designed to bring quick and painful death to the foe, for every moment's delay brings defeat a step closer."/>
+	<entry name="MonofilamentFlavor" value="Many Aeldari units use monofilament weapons, all of which work in a similar fashion by creating a dense monofilament mesh from a complex organo-polymer compound. This is released through thousands of microscopic firing ducts and woven into a net of monofilament wire by spinning gravity clamps. The victim’s own struggles bring about his doom, for the razor-net is so sharp it can reduce an entangled enemy to bloody chunks of flesh in seconds."/>
+	<entry name="ParticleFlavor" value="These weapons emit a stream of minuscule antimatter particles that detonate upon contact with their target. They are incredibly reliable, needing only enough energy to maintain the containment field that prevents the anti-matter from detonating within the weapon's own firing mechanism."/>
+	<entry name="PhosphorFlavor" value="Phosphor weapons range from the hand-held serpenta favoured by many Tech-Priests to the heavy phosphor blaster mounted upon Kataphron Battle Servitors. The burning white spheres that shoot out from phosphor weapons cling tenaciously to their targets, sizzling wildly as they melt into flesh or burrow through armour and exoskeleton alike. More often than not, it is these luminagenic orbs that deal the death blow. Even if a target proves tough enough to survive the burning pain, the phosphorescent glow these spheres exude can guide an ally's volley to strike the same target."/>
+	<entry name="PlasmaFlavor" value="Plasma weapons fire pulses of searing energy that are extremely effective against heavy infantry and light vehicles. However, they generate enormous temperatures when fired and are thus prone to overheating—sometimes proving deadly to the firer."/>
+	<entry name="PowerFlavor" value="A power weapon is sheathed in the lethal haze of a disruptive energy field that eats through armour, flesh and bone with ease."/>
+	<entry name="PulseFlavor" value="Pulse technology is common within the Fire caste, and all pulse weapons utilise pulsed induction fields to propel lethal bursts of plasma over great distances. A pulse rifle or carbine is standard issue for Fire Warriors, while Breacher Teams wield pulse blasters, that utilise negatively-charged ion A.R.C. technology to hammer their targets with short ranged bursts of devastating fire. The larger pulse weapons at the T'au's disposal, including the pulse driver cannon and blastcannon, employ superheated plasma on a different scale altogether, leaving only glowing craters to mark where the victims once stood."/>
+	<entry name="RadiumFlavor" value="Radium weapons are so volatile that they eventually kill their wielders. Their baroque beauty belies a singularly vile function – not only to strike, but to render the battlefield as deadly as the rad-wastes of Mars. Each weapon’s bullet cylinder is so thoroughly bathed in radium that a volley can cause a localised rad-storm. Those inside soon find their flesh blackening and sloughing away."/>
+	<entry name="RailFlavor" value="T'au rail weapons use linear accelerator technology to fire a solid projectile at hyper-velocity. They are capable of punching through the thickest of armour and of taking down the largest of enemies."/>
+	<entry name="ShootaFlavor" value="Shootas are noisy, large-calibre machine guns. They vary wildly in size and design, from those carried by foot-slogging Boyz to long barrelled supa-shootas that are mounted on aircraft. Regardless of their particular design, all shootas are both deafening and deadly."/>
+	<entry name="ShurikenFlavor" value="Shuriken weapons fire monomolecular bladed discs at an astonishing rate, each near invisible to the naked eye but hard enough to scythe through the foe with ease. These instruments of war are capable of firing up to a hundred shuriken in just a few seconds, a series of high-energy impulses originating at the rear of the weapon to propel the small but deadly projectiles through the barrel at terrific speed."/>
+	<entry name="SplinterFlavor" value="Splinter weapons fire shards of splintered crystal covered in incredibly potent toxins using a powerful magno-electric pulse."/>
+	<entry name="StubFlavor" value="These are low-tech solutions to ranged warfare on high-tech battlefields. Encompassing such weapons as shotguns, stub guns and heavy stubbers (sometimes called sluggers), the common bond between all of these weapons is that they are, without exception, cumbersome, noisy and fairly primitive firearms. Often employed by gangers, law enforcement officers and even civilians across the Imperium, these weapons make a formidable din when fired, and are easy to maintain."/>
+	<entry name="TailBiomorphFlavor" value="The tails of some Tyranids are deadly weapons, from bony protrusions dense enough to cave in the side of a tank to stingers containing enough poison to kill whole regiments."/>
+	<entry name="TaserFlavor" value="Powered by hyperdynamo capacitors, taser weapons store an incredible amount of potential energy. A solid impact will cause this energy to be discharged in a scorching blast, only to be harnessed once more by the electrothief prongs at the weapon’s tip."/>
+	<entry name="TeslaFlavor" value="A tesla weapon unleashes a bolt of living lightning that crackles from foe to foe after hitting its target, charring flesh and melting armour. Tesla bolts feed off the energy released by the destruction, the lightning becoming more furious with every fresh arc."/>
+	<entry name="ThoraxBiomorphFlavor" value="Certain Tyranids have thoracic cavities that play host to swarms of parasites—some of these minute creatures drain their victims' vital fluids, others emit an electrical charge which plays havoc with enemy vehicles, and others still nestle amongst the foe's armour before exploding in a horrific fashion."/>
+	
+	<!-- Specific -->
+	<entry name="Agoniser" value="Агонізатар"/>
+	<entry name="AgoniserFlavor" value="An agoniser is an extremely sophisticated weapon that drives a victim’s sensorium haywire, causing excruciatingly severe pain as nerves burn out from overload. Though agonisers come in a variety of forms, the most common are toxin-soaked whips."/>
+	<entry name="AnointedHalberd" value="Памазаная Алебарда"/>
+	<entry name="AnointedHalberdFlavor" value="Anointed Halberds are heavy Power Halberds that are wielded by the Adepta Sororitas' Celestian Sacresants. When properly wielded from behind the Ceslestians’ impenetrable Sacresant Shields, they are deadly in battle."/>
+	<entry name="AnguishOfTheUnredeemed" value="Пакуты Збавіцеля"/>
+	<entry name="AnguishOfTheUnredeemedFlavor" value="The Sisters Repentia encased inside the Mortifier penitent engines desire two things: absolution through combat and their own death. Yet their pain is so great that they fail to realise when they are dying, continuing to strike at their enemy, striving for redemption even as they die having achieved it."/>
+	<entry name="AquilaMacroCannon" value="Макра-Гармата Аквіла"/>
+	<entry name="AquilaMacroCannonFlavor" value="The munitions silo allows the Aquila macro-cannon to fire special quake shells, each of which measures several feet in length and has a powerful charge that causes it to reach hyper-sonic velocity when it is fired."/>
+	<entry name="ArcClaw" value="Дугавы Кіпцюр"/>
+	<entry name="ArcClawFlavor" value="The coruscating power of a Breacher’s arc weaponry is undeniable in combat, where scintillating parabolas of electricity burn through foes. Yet it was designed for destroying vehicles and only against them is its true power revealed, banishing their machine spirits in an instant."/>
+	<entry name="ArcoFlail" value="Арка-Цэп"/>
+	<entry name="ArcoFlailFlavor" value="An Arco-flagellant’s arms are often replaced with bionic whips, blades or flails."/>
+	<entry name="ArchiteGlaive" value="Архіцкая Глефа"/>
+	<entry name="ArchiteGlaiveFlavor" value="These power glaives are exquisitely crafted pole-arms employed to lethal effect by Succubi in both the gladiatorial arenas of Commorragh and the battlefields of realspace. They can be wielded with both hands, to bisect a foe with ease, or used in combination with another weapon to cut through a host of victims."/>
+	<entry name="AssaultCannon" value="Штурмавая Гармата"/>
+	<entry name="AssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="Autogun" value="Аўтапушка"/>
+	<entry name="AutogunFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="AttackSquig" value="Атака Сквіга"/>
+	<entry name="AttackSquigDescription" value="Дадае дадатковую зброю Вайнабосу. Шкода залежыць ад рангу здольнасьці."/>
+	<entry name="AttackSquigFlavor" value="An attack squig is a voracious predator with a huge snapping gob."/>
+	<entry name="Autocannon" value="Аўтагармата"/>
+	<entry name="AutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="Autopistol" value="Аўтапісталет"/>
+	<entry name="AutopistolFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="AvengerBoltCannon" value="Болтарная Гармата Помсьнік"/>
+	<entry name="AvengerBoltCannonFlavor" value="With six cyclic barrels, the avenger bolt cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemy’s front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
+	<entry name="AvengerGatlingCannon" value="Гатлінг-Гармата Помсьніка"/>
+	<entry name="AvengerGatlingCannonFlavor" value="With six cyclic barrels, the avenger gatling cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemy’s front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
+	<entry name="Baleflamer" value="Пакавы Агнякід"/>
+	<entry name="BaleflamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
+	<entry name="BanebladeCannon" value="Гармата Гібельнага Клінка"/>
+	<entry name="BanebladeCannonFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="BarbedStrangler" value="Колкі Душыльнік"/>
+	<entry name="BarbedStranglerFlavor" value="<string name='Weapons/StranglethornCannonFlavor'/>"/>
+	<entry name="BattleCannon" value="Баявая Гармата"/>
+	<entry name="BattleCannonFlavor" value="The turret-mounted battle cannon is the most common battle tank armament in the 41st Millennium. The heavy, explosive rounds of a battle cannon are capable of devastating infantry regiments and annihilating enemy tanks with equal ease."/>
+	<entry name="BigShoota" value="Буйнаштраляла"/>
+	<entry name="BigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="Bigbomm" value="Буйнабуум"/>
+	<entry name="BigbommFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="BioAcidSpray" value="Біякіслотны Спрэй"/>
+	<entry name="BioElectricPulse" value="Біяэлектрычны Імпульс"/>
+	<entry name="BioElectricPulseFlavor" value="As a Trygon moves, it generates a potent bio-static field that discharges with lethal effect when the Trygon sights prey. Trygon Primes have curved spines sprouting from their bodies which contain and amplify this energy."/>
+	<entry name="BioPlasma" value="Біяплазма"/>
+	<entry name="BioPlasmaFlavor" value="Some Carnifexes can generate a roaring ball of bio-plasma within their bodies and vomit forth the resultant energy as an incandescent gobbet of fire."/>
+	<entry name="BioPlasmicCannon" value="Біяплазмавая Гармата"/>
+	<entry name="BioPlasmicCannonFlavor" value="This giant weapon can channel bio-plasma through a series of different ventricles to ensure the destruction of its prey, unleashing a vast ball of roaring energy through its central chamber, or firing several focussed streams of death through its surrounding barrels."/>
+	<entry name="Blaster" value="Бластар"/>
+	<entry name="BlasterFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
+	<entry name="BlastPistol" value="Бластарны Пісталет"/>
+	<entry name="BlastPistolFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
+	<entry name="Blighted" value="Асьляпленьне"/>
+	<entry name="BlindingVenom" value="Асьляпляльны Яд"/>
+	<entry name="BlindingVenomFlavor" value="Some Tyranids spit caustic venom at their prey's eyes."/>
+	<entry name="Boneswords" value="Касьцяныя Мячы"/>
+	<entry name="BoneswordsFlavor" value="Boneswords are living monomolecular blades that can drain the life-force of their victims."/>
+	<entry name="BoltPistol" value="Болт-Пісталет"/>
+	<entry name="BoltPistolFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="Boltgun" value="Болт-Пушка"/>
+	<entry name="BoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="BoltRifle" value="Болт-Стрэльба"/>
+	<entry name="BoltRifleFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="BombastFieldGun" value="Палявая Пушка-Бамбаста"/>
+	<entry name="BombastFieldGunFlavor" value="A mainstay of the Astra Militarum, the Bombast Field Gun is a smaller-scale artillery weapon used exclusively in Field Ordnance Batteries. Its main advantage over other standardised battery armaments is its arcing trajectory, allowing it to be fired indirectly."/>
+	<entry name="BoneMace" value="Касьцяная Булава"/>
+	<entry name="BoneMaceFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="BreathOfChaos" value="Подых Хаосу"/>
+	<entry name="BreathOfChaosFlavor" value="The psyker takes a deep breath, sucking in the negative energies of the battlefield and then exhaling them in a great mutagenic cloud that leaves its victims' bodies running like wax."/>
+	<entry name="BrightLance" value="Зіхатлівая Дзіда"/>
+	<entry name="BrightLanceFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
+	<entry name="BurnaBomb" value="Падпалабомба"/>
+	<entry name="BurnaBombFlavor" value="A burna bomb is a large metal canister with an internal fuse. They are filled to the gunwales with sloshing promethium and squig-oil, and detonate on impact to spread flaming death across a wide area."/>
+	<entry name="Burna" value="Падпала"/>
+	<entry name="BurnaFlavor" value="Burnas are long-necked cutting torches that can focus their fiery emissions into a concentrated, metal-slicing jet or a billowing cloud of white-hot flame."/>
+	<entry name="BurstCannon" value="Выбуховая Гармата"/>
+	<entry name="BurstCannonFlavor" value="<string name='Weapons/BurstFlavor'/>"/>
+	<entry name="BurstaKannon" value="Грымата-Выбухала"/>
+	<entry name="BurstaKannonFlavor" value="<string name='Weapons/DestroyerFlavor'/>"/>
+	<entry name="CastigatorBattleCannonSanctifiedShell" value="Баявая Гармата Лупцоўніка (Асьвячоныя Снарады)"/>
+	<entry name="CastigatorBattleCannonSanctifiedShellFlavor" value="Though the Castigator Battle Cannon is of a normal style, the shells it fires are of the Ministorum’s own designs. Even its ‘normal’ shells are thoroughly blessed, producing more reliable, stronger blasts that penetrate deeper than the average Leman Russ battle cannon."/>
+	<entry name="CastigatorBattleCannonPyreShell" value="Баявая Гармата Лупцоўніка (Пахавальныя Снарады)"/>
+	<entry name="CastigatorBattleCannonPyreShellFlavor" value="Though the Castigator Battle Cannon is of a normal style, the shells it fires are of the Ministorum’s own designs. Pyre shells are unlike anything deployed by the Astra Militarum, creating a massive firestorm where they strike that rips through cover with ease."/>
+	<entry name="CastigatorGatlingCannon" value="Гатлінг-Гармата Лупцоўніка"/>
+	<entry name="CastigatorGatlingCannonFlavor" value="In an universe full of bizarre and impossible technologies, the Castigator is a welcome touch of simplicity. A tried-and-tested design, its rotary cannon deploys an unparalleled hail of bullets devastating any poorly armoured opponent in front of the Rogal Dorn."/>
+	<entry name="CerastusShockLanceMelee" value="Шокавая Дзіда Цэрастуса (Блізкі Бой)"/>
+	<entry name="CerastusShockLanceMeleeFlavor" value="A crackling, rippling stick of plasteel and adamantium, the length of a Knight or a Super-heavy Tank, with a wickedly sharp end. Most effective when the Knight-Lancer carrying it is charging at full speed, bracing for the impact and the explosive, rending aftermath."/>
+	<entry name="CerastusShockLanceRanged" value="Шокавая Дзіда Цэрастуса (Далёкі Бой)"/>
+	<entry name="CerastusShockLanceRangedFlavor" value="<string name='Weapons/CerastusShockLanceMeleeFlavor'/>"/>
+	<entry name="Chainaxe" value="Ланцуговая Сякера"/>
+	<entry name="ChainaxeFlavor" value="A brutal variant of the chainsword that has its origins in the Horus Heresy, a chainaxe's hand whirs with razor-like teeth that chew through armour, ripping and tearing the vulnerable flesh beneath."/>
+	<entry name="ChainFlails" value="Ланцуговыя Цэпы"/>
+	<entry name="ChainFlailsFlavor" value="Chain-flails consist of lengths of barbed chain wound tight under gravitic pressure. As a Talos glides into battle, these chains are loosed, hurtling from their housings to lash around wildly. As their barbs find purchase in flesh, the chains’ grav-winches re-engage, reeling in at lightning speed to snap bones and tear bodies asunder."/>
+	<entry name="Chainsword" value="Ланцуговы Меч"/>
+	<entry name="ChainswordFlavor" value="A chainsword is a high-powered chainsaw fitted with hilt, pommel and guard to make it less unwieldy. It is a common weapon across the Imperium, with a quite horrifying reputation for the damage it can inflict on unarmoured flesh."/>
+	<entry name="Choppa" value="Чоппа"/>
+	<entry name="ChoppaFlavor" value="Orks use a variety of bladed weapons and chain-blades. The largest hand-held choppas can bisect most foes in a single swing, whilst those mounted on Stompas can slice a Titan in two."/>
+	<entry name="CrucibleOfMalediction" value="<string name='Actions/Drukhari/CrucibleOfMalediction'/>"/>
+	<entry name="CrucibleOfMaledictionFlavor" value="<string name='Actions/Drukhari/CrucibleOfMaledictionFlavor'/>"/>
+	<entry name="CrushingClaws" value="Зьнішчальныя Кіпцюры"/>
+	<entry name="CrushingClawsFlavor" value="The obscene strength of these claws allows them to smash any foe."/>
+	<entry name="ClawedLimbs" value="Кіпцюрастыя Канечнасьці"/>
+	<entry name="ClawedLimbsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="CleansingFlame" value="Ачышчальнае Полымя"/>
+	<entry name="CleansingFlameFlavor" value="The psyker harnesses the very fire in his soul, creating a wall of white-hot psychic flame that blasts forth and purges his foes from the battlefield."/>
+	<entry name="CloseCombatWeapon" value="Зброя Блізкага Бою"/>
+	<entry name="CloseCombatWeaponFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="ClusterMines" value="Касетныя Міны"/>
+	<entry name="ClusterMinesFlavor" value="While operating behind enemy lines, Scout Bikers carry cluster mines—explosive devices crammed with tiny anti-personnel bomblets and triggered by tripwires or pressure sensors."/>
+	<entry name="ClusterRocketSystem" value="Касетная Ракетная Сістэма"/>
+	<entry name="ClusterRocketSystemFlavor" value="These massive rocket pods are programmed to fire dozens of Drone-assisted warheads in optimised saturation patterns, maintaining a rate and density of fire sufficient to destroy entire mobs of Orks or swarms of Tyranids weapon-beasts. Explosions carpet the target zone, hurling bodies into the air and atomising screaming foes by the score."/>
+	<entry name="CognisHeavyStubber" value="Цяжкі Когніс-Стаббер"/>
+	<entry name="CognisHeavyStubberFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
+	<entry name="CompendiumFlavor" value="To win this endless war, every faction has demonstrated endless innovation in the art of killing. From the Ork's crudest Choppa to the elegant shuriken catapults of the Aeldari, the weapons of the 41st millenium are deadly in a thousand different ways. Often, they are as deadly to their wielder as the foe—such as the mighty Macro Batteries of the Imperial Fleets, which fire shells the size of hab-blocks and kill hundreds of servitors with every shot."/>
+	<entry name="CombiBolter" value="Комбі-Болтар"/>
+	<entry name="CombiBolterFlavor" value="Essentially a twin-linked boltgun, the combi-bolter emerged from the Horus Heresy as the most tactically flexible weapon available to Space Marine Terminators. Whilst the Space Marines loyal to the Emperor developed the weapon into the storm bolter, the older combi-bolters are still abundant in the armies of the Traitor Legions."/>
+	<entry name="CombiPlasma" value="Комбі-Плазма"/>
+	<entry name="CombiPlasmaFlavor" value="Many races use combi-weapons, from the taped-together creations of Ork Mekboyz to Imperial relic weapons, specially modified by skilled artisans millennia ago. Most of these creations feature a bolter in combination with another weapon, to increase the combination’s flexibility and power at the cost of its ease of handling."/>
+	<entry name="CondemnorBoltgunSilverStake" value="Болтарная Пушка Асудзіцель - Срэбны Кол"/>
+	<entry name="CondemnorBoltgunSilverStakeFlavor" value="The condemnor boltgun is a highly specialised combi-weapon used almost exclusively by the operatives of the Ordo Hereticus and Adepta Sororitas. Combining a boltgun with a single-shot crossbow armature, these archaic-seeming weapons fire a silver stake engraved with sigils of disruption that destabilise a psyker’s connection with the Warp."/>
+	<entry name="ControlStave" value="Посах Кантролю"/>
+	<entry name="ControlStaveFlavor" value="Serving as a staff of office, control mechanism and weapon, a Control Stave is carried only by Skitarii Marshals. Despite its multidinous roles, it functions well at all of them—a brutal close combat weapon, that also enables the Marshal to control his Skitarii closely through Control Edicts and Aggression Overrides."/>
+	<entry name="CroziusArcanum" value="Крозіўс Арканум"/>
+	<entry name="CroziusArcanumFlavor" value="The crozius arcanum is both a Chaplain's rod of office and his weapon of righteous judgement. Each one is an ancient relic, with the legends of its bearers captured in etched script about its haft."/>
+	<entry name="CtanNecrodermisExplosion" value="Выбух Некрадэрміса К'тан"/>
+	<entry name="CyclicIonRakerOvercharged" value="Цыклічная Іённая Рэйка (Перагружаная)"/>
+	<entry name="CyclicIonRakerOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="CyclicIonRakerStandard" value="Цыклічная Іённая Рэйка (Стандартная)"/>
+	<entry name="CyclicIonRakerStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="DCannon" value="Гармата D"/>
+	<entry name="DCannonFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
+	<entry name="DaedalusMissileLauncher" value="Ракетная Ўсталёўка Даэдалус"/>
+	<entry name="DaedalusMissileLauncherFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
+	<entry name="DarkLance" value="Цёмная Дзіда"/>
+	<entry name="DarkLanceFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
+	<entry name="Dataspike" value="Шып Дадзеных"/>
+	<entry name="DataspikeFlavor" value="The dataspikes favoured by the agents of the Adeptus Mechanicus can stab into the cortex of enemy machines and steal their secrets within a couple of heartbeats."/>
+	<entry name="DeathRay" value="Прамень Сьмерці"/>
+	<entry name="DeathRayFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Deathshriek" value="<string name='Traits/Deathshriek'/>"/>
+	<entry name="DeathshriekFlavor" value="<string name='Traits/DeathshriekFlavor'/>"/>
+	<entry name="Deathspitter" value="Плявок Сьмерці"/>
+	<entry name="DeathspitterFlavor" value="This multi-creature symbiote fires maggot-like organisms with corrosive innards. A spider-jawed set of fangs drags an organism from the weapon's brooding chamber and strips off its shell, before the deathspitter reacts to the caustic flesh with a spasm, firing the maggot to explode in a shower of caustic slime against its target."/>
+	<entry name="DefensiveHeavyStubber" value="Абаронны Цяжкі Стаббер"/>
+	<entry name="DefensiveHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
+	<entry name="DeffstormMegaShoota" value="Мегаштреляла Сьмярташторм"/>
+	<entry name="DeffstormMegaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="DemolisherCannon" value="Гармата-Разбуральнік"/>
+	<entry name="DemolisherCannonFlavor" value="Short ranged but deadly, the demolisher siege cannon trades reach for power. Each demolisher shell is at least three times the size of a normal battle cannon round, its huge weight and high explosive core ensuring it will annihilate almost anything it hits."/>
+	<entry name="DestroyerBlades" value="Лёзы Разбуральніка"/>
+	<entry name="DestroyerBladesDescription" value="Цэльлю можа быць толькі пяхота ці жахлівыя стварэньні."/>
+	<entry name="DestroyerBladesFlavor" value="The hull of this vehicle has been modified with hideously sharp spikes, whirring blades and jagged spars."/>
+	<entry name="DestroyerMissile" value="Ракета-Разбуральнік"/>
+	<entry name="DestroyerMissileFlavor" value="Each sleek destroyer missile incorporates an AI targeting processor far more advanced than anything used in seeker missiles. Drawing on extensive real-time targeting data, the destroyer missile identifies its target's primary weak spot. It then uses self-guiding micro rockets to adjust trajectory and ensure a direct hit upon that location, tearing its victim apart in a spectacular explosion."/>
+	<entry name="Destructor" value="Дэструктар"/>
+	<entry name="DestructorFlavor" value="<string name='Actions/Eldar/DestructorRenewerFlavor'/>"/>
+	<entry name="Devourer" value="Пажыральнік"/>
+	<entry name="DevourerFlavor" value="These weapons fling worm-like parasites that burrow into their victim's flesh and eat their way through its nervous system to the brain. The devourers wielded by larger Tyranids teem with hives of brainleech worms, a more aggressive and voracious devourer worm."/>
+	<entry name="DialogusStaff" value="Посах Дыялогуса"/>
+	<entry name="DialogusStaffFlavor" value="The Dialogus Staff is the symbol of office of the Orders Dialogus which in combat can also double as a combat weapon."/>
+	<entry name="DisintegratorCannon" value="Дэзынтэгратарная Гармата"/>
+	<entry name="DisintegratorCannonFlavor" value="The disintegrator cannon fires particles of unstable matter harnessed from a stolen sun, each shot capable of atomising the most heavily armoured warrior. Far more sophisticated than conventional plasma-based firearms, it maintains a high rate of fire and always remains cool to the touch despite the ravening energies housed within."/>
+	<entry name="DoomsdayCannonHighPower" value="Гармата Суднага Дня (Высокая Магутнасьць)"/>
+	<entry name="DoomsdayCannonHighPowerFlavor" value="Even fired at low power, the doomsday cannon is a fearsome weapon; when firing at full effect, nothing less than a Titan's void shields can offer hope of protection."/>
+	<entry name="DoomsdayCannonLowPower" value="Гармата Суднага Дня (Нізкая Магутнасьць)"/>
+	<entry name="DoomsdayCannonLowPowerFlavor" value="<string name='Weapons/DoomsdayCannonHighPowerFlavor'/>"/>
+	<entry name="DesiccatorLarvae" value="Лічынкі Дэсіккатара"/>
+	<entry name="DesiccatorLarvaeFlavor" value="<string name='Weapons/ThoraxBiomorphFlavor'/>"/>
+	<entry name="DisruptorMissileLauncher" value="Ракетная Ўсталёўка Разбуральнік"/>
+	<entry name="DisruptorMissileLauncherFlavor" value="Like its Ferrumite Cannon main armament, the Skorpius Disintegrator’s prow-mounted Disruptor Missiles are most effective against tougher targets with medium armour."/>
+	<entry name="DroolCannon" value="Слімакавая Гармата"/>
+	<entry name="DroolCannonFlavor" value="Drool cannons fire gobbets of caustic digestive juice over their victims."/>
+	<entry name="EMPGrenade" value="ЭМІ Граната"/>
+	<entry name="EMPGrenadeFlavor" value="EMP grenades release electromagnetic pulses that damage vehicles."/>
+	<entry name="EarthshakerCannon" value="Гармата Землятрус"/>
+	<entry name="EarthshakerCannonFlavor" value="The distinctive, looming barrel of the earthshaker cannon is a sight capable of striking fear into the Imperium's many foes. These long-necked artillery guns have an impressive range and can maintain a fearsome rate of fire, lobbing shell after shell into foes and reducing them to blasted ruin."/>
+	<entry name="EldritchStorm" value="Жудасны Шморм"/>
+	<entry name="EldritchStormFlavor" value="The Farseer summons a swirling corona of energy that assails the foe with bolts of lightning and psychic shock waves. Entire platoons are devastated beneath the onslaught of the roiling tempest as the Farseer channels more and more power into his storm of destruction."/>
+	<entry name="ElectroleechStave" value="Посах Электрап'яўка"/>
+	<entry name="ElectroleechStaveFlavor" value="The powerful capacitors built into the length of each electroleech stave allow them to drink every iota of electric force from those they strike – be they living foeman or blasphemous machine."/>
+	<entry name="EvisceratingClaws" value="Кіпцюры Патрашыцеля"/>
+	<entry name="EvisceratingClawsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="Eviscerator" value="Патрашыльнік"/>
+	<entry name="EvisceratorFlavor" value="<string name='Weapons/ChainswordFlavor'/>"/>
+	<entry name="ExcruciatorCannon" value="Гармата Кат"/>
+	<entry name="ExcruciatorCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="ExorcistMissileLauncher" value="Ракетная Ўсталёўка Экзарцыст"/>
+	<entry name="ExorcistMissileLauncherFlavor" value="The Exorcist missiles fired by these revered vehicles are capable of splitting open enemy battle tanks or destroying entire squads of heavy infantry in one punishing salvo, provided, of course, that the Exorcist’s temperamental machine spirit does not malfunction."/>
+	<entry name="FerrumiteCannon" value="Феррумітавая Гармата"/>
+	<entry name="FerrumiteCannonFlavor" value="A primitive and ancient weapon system, the Ferumite Cannon’s Servitor gunner has been hard-wired into the weapon for optimal performance against large targets. When its cannon fires, the solid-core shells arc across the battlefield, turning into molten spears on contact and flash-heating whatever they impale."/>
+	<entry name="Flamer" value="Агнякід"/>
+	<entry name="FlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
+	<entry name="FlameBreath" value="Агнявы Подых"/>
+	<entry name="FlameBreathFlavor" value="A torrent of psychic flames pour forth from the psyker's eyes and mouth, engulfing the target."/>
+	<entry name="FlamestormGauntlets" value="Рукавіцы Агнявы Шторм"/>
+	<entry name="FlamestormGauntletsFlavor" value="Flamestorm Gauntlets are close combat weapons mounted with short-ranged flamers that spew out highly volatile gouts of promethium and other chemicals. Aggressors use these as they wade into combat, before crushing any remaining foes with their twin power fists."/>
+	<entry name="FlayerClaws" value="Кіпцюры Скуралупа"/>
+	<entry name="FlayerClawsFlavor" value="Flayed Ones replace their hands with an array of lethally sharp blades, claws and mechanical shears to better tear and shred their prey into ribbons of bloody flesh."/>
+	<entry name="FlechetteBlaster" value="Ігольчаты Бластар"/>
+	<entry name="FlechetteBlasterFlavor" value="The flechette blaster is lightweight but lethal, a favoured tool of the Sicarian Infiltrator. It fires hundreds of tiny darts, each of which bears a dormant cerebral cell awakened in the gun’s chamber. Where one dart hits home it emits a bioelectric pulse that attracts others, resulting in a series of impacts that burrow through bone."/>
+	<entry name="FlechetteDischarger" value="<string name='Traits/Tau/FlechetteDischarger'/>"/>
+	<entry name="FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
+	<entry name="Fleshborer" value="Сьвярдзел з Плоці"/>
+	<entry name="FleshborerFlavor" value="The fleshborer is a compact brood nest for sharp-fanged borer beetles. When the weapon is fired, a frenzied borer beetle will hurtle itself forward with a single flick of its flea-like legs. The beetle then spends its remaining life energy in a few seconds, frantically boring through the armour, flesh and bone of the first thing in its path."/>
+	<entry name="FleshHooks" value="Крукі з Плоці"/>
+	<entry name="FleshHooksFlavor" value="Flesh hooks are attached to a Tyranid's ribcage by ropy tendrils and allow it to scale sheer surfaces or snare prey at close range."/>
+	<entry name="FloatingDeath" value="Луналая Сьмерць"/>
+	<entry name="FloatingDeathFlavor" value="Only the evolutionary villainy of the Hive Mind could turn a living creature into a floating ball of unstable acid, gas and brittle bone with the sole purpose of sowing massed death upon its demise."/>
+	<entry name="ForceStave" value="Сілавы Пасох"/>
+	<entry name="ForceStaveFlavor" value="<string name='Weapons/ForceFlavor'/>"/>
+	<entry name="FragGrenade" value="Аскепкавая Граната"/>
+	<entry name="FragGrenadeFlavor" value="The lethal storm of shrapnel from these grenades drives opponents further under the cover for a few precious moments, allowing attackers more time to close in and, hopefully, get the first blow in against a disoriented foe."/>
+	<entry name="FragMissileLauncher" value="Аскепкавая Ракетная Ўсталёўка"/>
+	<entry name="FragMissileLauncherFlavor" value="Missile launchers can fire a variety of different missiles, making them incredibly versatile weapons."/>
+	<entry name="FragstormGrenadeLauncher" value="Гранатная Ўсталёўка · Аскепкавы Шторм"/>
+	<entry name="FragstormGrenadeLauncherFlavor" value="A paired set of grenade launchers mounted on Primaris Aggressors or Redemptor Dreadnoughts. The only element that distinguishes these from launchers used by other Adeptus Astartes or even Astra Militarum forces is their ability to thoroughly saturate a target at range."/>
+	<entry name="Frazzle" value="Выматацель"/>
+	<entry name="FrazzleFlavor" value="The Weirdboy sends out arcs of crackling psychic energy that ground themselves upon the enemy, reducing them to shrivelled husks before the eyes of their terrified comrades."/>
+	<entry name="FusionBlaster" value="Фузіённы Бластар"/>
+	<entry name="FusionBlasterFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
+	<entry name="FusionGun" value="Фузіённая Пушка"/>
+	<entry name="FusionGunFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
+	<entry name="FusionPistol" value="Фузіённы Пісталет"/>
+	<entry name="FusionPistolFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
+	<entry name="GammaPistol" value="Гама Пісталет"/>
+	<entry name="GammaPistolFlavor" value="The gamma pistol is entrusted only to the truly blessed. The beam of ionizing radiation that leaps from its muzzle can reduce a man to a blackened shadow in a second, but this is a waste of its true strength – those able to tame its savage machine spirit can cut holes in an Aquila Strongpoint if necessary."/>
+	<entry name="GatlingRocketLauncher" value="Ракетная Гатлінг-Усталёўка"/>
+	<entry name="GatlingRocketLauncherFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
+	<entry name="GaussAnnihilator" value="Гаўс-Анігілятар"/>
+	<entry name="GaussAnnihilatorFlavor" value="The Gauss Pylon draws energy from the Necron power matrix before discharging it through hardwired weapon systems, including a version of the gauss flux arc also mounted on Monoliths. More fearsome is the Pylon's Gauss annihilator—a tight-beam version of the particle whip which, combined with sophisticated guidance and target-lock systems, enable it to engage troops and incoming aircraft alike."/>
+	<entry name="GaussCannon" value="Гаўс-Гармата"/>
+	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFlayer" value="Гаўс-Скуралуп"/>
+	<entry name="GaussFlayerFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFlayerArray" value="Батарэя Гаўс-Скуралупаў"/>
+	<entry name="GaussFlayerArrayFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFluxArc" value="Аркавы Гаўс-Струмень"/>
+	<entry name="GaussFluxArcFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussCannon" value="Гаўс-Гармата"/>
+	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="Ghostaxe" value="Прывідная Сякера"/>
+	<entry name="GhostaxeFlavor" value="<string name='Weapons/GhostFlavor'/>"/>
+	<entry name="Ghostglaive" value="Прывідная Глефа"/>
+	<entry name="GhostglaiveFlavor" value="<string name='Weapons/GhostFlavor'/>"/>
+	<entry name="GorestormCannon" value="Гармата Крывавы Шторм"/>
+	<entry name="GorestormCannonFlavor" value="The gorestorm cannon is a simple but horribly effective weapon that sprays a high-pressure torrent of boiling blood across a wide area. Those not dissolved amid the horrific flood are drowned, or else cooked alive inside their armour."/>
+	<entry name="GraspingTongue" value="Чэпкі Язык"/>
+	<entry name="GraspingTongueFlavor" value="This creature's clawed tongue grasps its chosen prey before yanking it bodily into its maw."/>
+	<entry name="GreaterCleaverOfKhorne" value="Вялікі Цясак Кхорна"/>
+	<entry name="GreaterCleaverOfKhorneFlavor" value="Each of these vast, brazen blades weighs as much as a battle tank. Swung with psychotic fury by a Lord of Skulls, a great cleaver can shear the leg from a Titan with a single blow."/>
+	<entry name="GrenadierGauntlet" value="Грэнадзёрская Рукавіца"/>
+	<entry name="GrenadierGauntletFlavor" value="These simple gauntlets lob frag-bombs into the midst of the foe."/>
+	<entry name="HadesAutocannon" value="Аідава Аўтагармата"/>
+	<entry name="HadesAutocannonFlavor" value="The hades autocannon is the most frequently seen adorning the hideous Daemon Engines with which the Warpsmiths conquer the planets of the Imperium. Hades autocannons have six barrels and can sustain such a massive rate of fire that they are capable of tearing apart massed infantry, and even well-armoured targets, with each thunderous volley of shells."/>
+	<entry name="HadesGatlingCannon" value="Аідава Гатлінг-Гармата"/>
+	<entry name="HadesGatlingCannonFlavor" value="If the Hades autocannon generates a rain of fire, the vastly enlarged Hades gatling cannon summons forth a hurricane. Firing several hundred rune-graven rounds per second, this weapon churns everything in its sights to unrecognisable pulp."/>
+	<entry name="HavocLauncher" value="Пускавая Ўсталёўка Апусташэньня"/>
+	<entry name="HavocLauncherFlavor" value="These launchers fire clusters of highly explosive missiles."/>
+	<entry name="HaywireBlaster" value="Бластар Пак Дроту"/>
+	<entry name="HaywireBlasterFlavor" value="Haywire blasters are long-barrelled weapons that siphon the electromagnetic energy crackling around Commorragh’s highest aeries, to later release it in a terrifyingly powerful burst. A well-aimed haywire blaster can cripple an enemy vehicle’s control systems in a single shot."/>
+	<entry name="HaywireGrenade" value="Граната Пак Дроту"/>
+	<entry name="HaywireGrenadeFlavor" value="Haywire grenades release electromagnetic pulses that damage vehicles."/>
+	<entry name="HeatLance" value="Цеплавая Дзіда"/>
+	<entry name="HeatLanceFlavor" value="The heat lance combines melta and high-yield las technology into a weapon that has both surprising reach and extreme destructive potential."/>
+	<entry name="HeatRayDispersed" value="Расьсеяны Цеплавы Прамень"/>
+	<entry name="HeatRayDispersedFlavor" value="The heat ray is a multipurpose fusion weapon whose focussed blasts can slice an enemy tank in half from end to end. Should the heat ray be turned upon enemy infantry, the operator can instead fire a dispersed beam, bathing his target in clouds of scorching plasma."/>
+	<entry name="HeatRayFocused" value="Сфакусаваны Цеплавы Прамень"/>
+	<entry name="HeatRayFocusedFlavor" value="<string name='Weapons/HeatRayDispersedFlavor'/>"/>
+	<entry name="HeavyArcRifle" value="Цяжкая Аркавая Стрэльба"/>
+	<entry name="HeavyArcRifleFlavor" value="The Heavy Arc Rifle is a weapon of exceptional power, designed for one purpose: to neutralise armoured vehicles on the battlefield. This archaic weapon utilises an ancient and misunderstood technology to ensure that no enemy tank or war machine can withstand its presence. The weapon's electro-pyromagnetic generator unleashes a massive arc of electrical energy that courses through the armour of enemy vehicles, disrupting their circuits and melting their systems from the inside out."/>
+	<entry name="HeavyBolter" value="Цяжкі Болтар"/>
+	<entry name="HeavyBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="HeavyBombClusters" value="Касеты Цяжкіх Бомбаў"/>
+	<entry name="HeavyDScythe" value="Цяжкая Каса D"/>
+	<entry name="HeavyDScytheFlavor" value="<string name='Weapons/DistortionFlavor'/>"/>
+	<entry name="HeavyFlamer" value="Цяжкі Агнякід"/>
+	<entry name="HeavyFlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
+	<entry name="HeavyGaussCannon" value="Цяжкая Гаўс-Гармата"/>
+	<entry name="HeavyGaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="HeavyGravCannon" value="Цяжкая Граў-Гармата"/>
+	<entry name="HeavyGravCannonFlavor" value="The graviton technologies used by the Adeptus Mechanicus are fearsome indeed. A target hit by the heavy grav-cannon’s invisible field will be stunned and likely crippled, or even crushed under their own exponentially increased mass until all that is left is an oozing disc of biometallic waste."/>
+	<entry name="HeavyLaserDestroyer" value="Цяжкі Лазер · Разбуральнік"/>
+	<entry name="HeavyLaserDestroyerFlavor" value="The Laser Destroyer is an ancient and complex weapons system produced by very few Forge Worlds, with a reputation for huge range and reliable damage even exceeding that of a Lascannon. In those rare Adeptus Mechanicus sites that still produce them, it is a lengthy process with the components hand-crafted painstakingly. Of course, nothing less would do for Belisarius Cawl and rare Executioner tank designs replace their Macro Plasma Incinerator with a Heavy Laser Destroyer."/>
+	<entry name="HeavyOnslaughtGatlingCannon" value="Цяжкая Нападная Гатлінг-Гармата"/>
+	<entry name="HeavyOnslaughtGatlingCannonFlavor" value="<string name='Weapons/OnslaughtGatlingCannonFlavor'/>"/>
+	<entry name="HeavyPhosphorBlaster" value="Цяжкі Фосфарны Бластар"/>
+	<entry name="HeavyPhosphorBlasterFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
+	<entry name="HeavyStubber" value="Цяжкі Стаббер"/>
+	<entry name="HeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
+	<entry name="HeavyVenomCannon" value="Цяжкая Атрутная Гармата"/>
+	<entry name="HeavyVenomCannonFlavor" value="These powerful bio-weapons fire salvoes of corrosive crystals at tremendous velocities which shatter on impact to shred the foe."/>
+	<entry name="Hellglaive" value="Пякельная Глефа"/>
+	<entry name="HellglaiveFlavor" value="A hellglaive is a lightweight, twin-bladed halberd. Though it requires some effort to master, this weapon can spin and block like a stave, cut like a scythe, or impale like a barbed spear. From the back of a Hellion skyboard such a weapon can prove especially lethal, lopping off heads and severing limbs with every blow."/>
+	<entry name="HellmawCannon" value="Гармата Пякельная Зяпа"/>
+	<entry name="HellmawCannonFlavor" value="The paired Hellmaw cannons slung under the Brass Scorpion’s abdomen gout flames direct from the Warp itself. Once the daemon-riddled Brass Scorpion has cracked open a fortification with its Hellcrusher claws, it likes to use the Hellmaws to flush out the garrison, so it can torment them at leisure."/>
+	<entry name="HellstrikeMissile" value="Ракета Пякельны Ўдар"/>
+	<entry name="HellstrikeMissileFlavor" value="These missiles can tear through heretic armour and xenos flesh alike."/>
+	<entry name="HonourBlade" value="Ганаровае Лязо"/>
+	<entry name="HonourBladeFlavor" value="An honour blade is a long, broad-bladed spear that is used to settle disputes between Ethereal caste members in stylised bloodless duels. Against the unenlightened races of the galaxy, it is a deadly weapon used in elegant sweeping movements where the blade becomes virtually invisible."/>
+	<entry name="HornetPulseLaser" value="Імпульсны Лазер Шэршня"/>
+	<entry name="HornetPulseLaserFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
+	<entry name="HotShotLasgun" value="Лазпушка Гарачы Стрэл"/>
+	<entry name="HotShotLasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="HunterKillerMissile" value="Ракета Паляўнічы-Забойца"/>
+	<entry name="HunterKillerMissileFlavor" value="Hunter-killer missiles are commonly fitted to Imperial vehicles. These single-use weapon systems allow vehicles such as Rhinos to engage armoured enemy vehicles that would otherwise far outmatch them."/>
+	<entry name="Huskblade" value="Ашалупляльнае Лязо"/>
+	<entry name="HuskbladeFlavor" value="Leaving smoking trails as it carves through the air, a huskblade instantly evaporates the moisture in anything it touches, reducing targets to shrivelled and gruesome corpses that fall away to dust on the breeze."/>
+	<entry name="HyperphaseThreshers" value="Гіперфазавыя Малацільні"/>
+	<entry name="HyperphaseThreshersFlavor" value="The Skorpekh strain of the Destroyer Cult hunger for the immediacy of death—and their chosen tool, supplied by the Crypteks, are Hyperphase weapons. These take a variety of forms, akin to swords, glaives and and scythes. They all share the same ability, to vibrate across dimensions and hence pass through enemy defenses with ease."/>
+	<entry name="IcarusRocketPod" value="Ракетная Капсула · Ікарус"/>
+	<entry name="IcarusRocketPodFlavor" value="Intended as an air defence system, the seven rockets contained in an Icarus Pod are designed to bring any aerial threats crashing to the ground. Though the rockets are small, their guidance systems make them extremely effective against flying targets."/>
+	<entry name="ImpalerCannon" value="Гармата-Працяцель"/>
+	<entry name="IronhailHeavyStubber" value="Цяжкі Стаббер · Жалезны Град"/>
+	<entry name="IronhailHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
+	<entry name="ImpalerCannonFlavor" value="Impaler cannons propel osseous spines at such high velocities that they can punch through reinforced plasteel. At the base of each spine is a small creature known as a shard-beast that uses thin membranous fins to steer the spine towards its target."/>
+	<entry name="IcarusArrayFlavor" value="The Icarus arrays used by the Adeptus Mechanicus fill the sky with inescapable death. Comprising a twin Icarus autocannon with skyscryer lenses, a gatling rocket launcher that fires whole salvoes of flak and an armour-piercing missile launcher, its combined firepower can shred an entire squadron of enemy fighters."/>
+	<entry name="ImplosionMissile" value="Імплазійная Ракета"/>
+	<entry name="ImplosionMissileFlavor" value="Upon detonation, these missiles emit a molecular dissonance field that causes those caught in their path to implode, instantly collapsing in upon themselves and leaving nothing more than a scorched silhouette to mark their passage."/>
+	<entry name="IncendineCombustor" value="Стымулятар Камеры Згараньня"/>
+	<entry name="IncendineCombustorFlavor" value="Typically mounted atop the Kastelan Battle Robot, the incendine combustor hurls out great gouts of burning, thrice-blessed promethium. Laced with Magos-blessed unguents and ignited by a flame lit from the Perpetual Forge, each holy fire-thrower can turn a technoheretic into foul tallow in a matter of seconds."/>
+	<entry name="IronhailHeavyStubber" value="Цяжкі Стаббер · Жалезны Град"/>
+	<entry name="IronhailHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
+	<entry name="IonAcceleratorOvercharged" value="Іённы Паскаральнік (Перагружаны)"/>
+	<entry name="IonAcceleratorOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="IonAcceleratorStandard" value="Іённы Паскаральнік (Стандартны)"/>
+	<entry name="IonAcceleratorStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="IonRifleOvercharged" value="Іённая Стрэльба (Перагружаная)"/>
+	<entry name="IonRifleOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="IonRifleStandard" value="Іённая Стрэльба (Стандартная)"/>
+	<entry name="IonRifleStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
+	<entry name="JokaeroDigitalWeaponDescription" value="<string name='Items/JokaeroDigitalWeaponDescription'/>"/>
+	<entry name="JokaeroDigitalWeaponFlavor" value="<string name='Items/JokaeroDigitalWeaponFlavor'/>"/>
+	<entry name="KanKlaw" value="Клушня Бляшанкі"/>
+	<entry name="KanKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="Klaive" value="Клефа"/>
+	<entry name="KlaiveFlavor" value="Klaives are massive ritual powerblades of brutal aspect. Shimmering with dark energy, these weapons are impossibly light for their size and can slice through the thickest armour and toughest flesh with insulting ease."/>
+	<entry name="KlawOfGork" value="Клушня Горка"/>
+	<entry name="KlawOfGorkFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="KrakGrenade" value="Крак-Граната "/>
+	<entry name="KrakGrenadeFlavor" value="Krak grenades are implosive charges designed to crack vehicle armour."/>
+	<entry name="KrakMissileLauncher" value="Ракетная Крак-Усталёўка"/>
+	<entry name="KrakMissileLauncherFlavor" value="<string name='Weapons/FragMissileLauncherFlavor'/>"/>
+	<entry name="KrakstormMissileSilo" value="Ракетная Шахта Крак-Шторм"/>
+	<entry name="KrakstormMissileSiloFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="KrootGun" value="Круцкая Пушка"/>
+	<entry name="KrootGunFlavor" value="Kroot use primitive slug-throwers adapted by the T'au to fire pulse rounds."/>
+	<entry name="KustomMegaBlasta" value="Улушаная Мегавыбухала"/>
+	<entry name="KustomMegaBlastaFlavor" value="<string name='Weapons/KustomMegaSluggaFlavor'/>"/>
+	<entry name="KustomMegaSlugga" value="Улушаная Мегашпурляла"/>
+	<entry name="KustomMegaSluggaFlavor" value="A Mek's favourite gun often becomes his pet project, tinkered with until it boasts a profusion of worky gubbinz and zappy bits. On a good day, even the most portable of such guns can melt a hole through a Space Marine at twenty paces. The power of kustom mega-weapons comes at a price, of course, and an overheated weapon is likely to blow up. Yet the spectacular damage these weapons can cause is considered to more than make up the risk."/>
+	<entry name="Lascannon" value="Лазгармата"/>
+	<entry name="LascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="LaserLanceMelee" value="Лазерная Дзіда (Блізкі Бой)"/>
+	<entry name="LaserLanceMeleeFlavor" value="Used by the Shining Spears Aspect Warriors, laser lances produce built-up pulses of energy that are released with explosive force when the wielder charges the target."/>
+	<entry name="LaserLanceRanged" value="Лазерная Дзіда (Далёкі Бой)"/>
+	<entry name="LaserLanceRangedFlavor" value="<string name='Weapons/LaserLanceMeleeFlavor'/>"/>
+	<entry name="Lasgun" value="Лазпушка"/>
+	<entry name="LasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="LasgunArray" value="Батарэя Лазпушак"/>
+	<entry name="LasgunArrayFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="LashWhipAndBonesword" value="Пуга і Касьцяны Меч"/>
+	<entry name="LashWhipAndBoneswordFlavor" value="Some Tyranid creatures wield these bio-weapons as a deadly symbiotic combination."/>
+	<entry name="LashWhips" value="Плеценая Пуга"/>
+	<entry name="LashWhipsFlavor" value="Lash whips are cords of muscle that move at lightning speeds to slash their prey."/>
+	<entry name="LashingWarpEnergies" value="Удар Энергіі Варпу"/>
+	<entry name="LashingWarpEnergiesFlavor" value="If it’s loathsome aura wasn’t enough warning, the nearer you get to the Noctilith Crown, the more it’s unholy energies pull at you, shredding the strongest defences, or even pulling weaker assailants wholesale into the warp."/>
+	<entry name="Laspistol" value="Лазпісталет"/>
+	<entry name="LaspistolFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="LifeLeech" value="Паглынальнік Жыцьця"/>
+	<entry name="LifeLeechFlavor" value="With a twist of his gnarled hands, the wrathful psyker rips the life force from his enemy, hoarding the stolen essence and using it to restore the injured flesh of his allies."/>
+	<entry name="LightningClaws" value="Кіпцюры Маланкі"/>
+	<entry name="LightningClawsFlavor" value="Lightning claws are commonly used as matched pairs and consist of a number of blades, each a miniature power weapon, normally mounted on the back of the hand."/>
+	<entry name="LitanyOfTheElectromancer" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancer'/>"/>
+	<entry name="LitanyOfTheElectromancerFlavor" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancerFlavor'/>"/>
+	<entry name="MacroPlasmaIncineratorStandard" value="Макраплазмавы Інцынератар (Стандартны)"/>
+	<entry name="MacroPlasmaIncineratorStandardFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
+	<entry name="MacroPlasmaIncineratorSupercharged" value="Макраплазмавы Інцынератар (Суперперагружаны)"/>
+	<entry name="MacroPlasmaIncineratorSuperchargedFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
+	<entry name="Mandiblasters" value="Мандзібластары"/>
+	<entry name="MandiblastersFlavor" value="Mandiblasters spit needle shards that channel a deadly laser blast."/>
+	<entry name="MagnarailLance" value="Дзіда-Магнарэйка"/>
+	<entry name="ManipulusMechadendrites" value="Manipulus Mechadendrites"/>
+	<entry name="MeltaBomb" value="Мельтабомба"/>
+	<entry name="MeltaBombDescription" value="Выкарыстоўваецца супраць машынаў, жахлівых стварэньняў або фартыфікацыяў. "/>
+	<entry name="MeltaBombFlavor" value="Melta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
+	<entry name="MeltaCannon" value="Мельтагармата"/>
+	<entry name="MeltaCannonFlavor" value="This weapon swiftly reduces armoured targets to molten slag."/>
+	<entry name="Meltagun" value="Мельтапушка"/>
+	<entry name="MeltagunFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="MeteoricDescent" value="Метэарытапад"/>
+	<entry name="MeteoricDescentDescription" value="Павялічаная атака супраць авіяцыі."/>
+	<entry name="MeteoricDescentFlavor" value="These winged terrors hurtle out of the storm-wracked skies, tearing their unsuspecting prey to pieces in a single, devastating swoop."/>
+	<entry name="MissilePod" value="Ракетная Капсула"/>
+	<entry name="MissilePodFlavor" value="A simple but effective delivery system for multiple missiles, these weapon pods are used on light vehicles and heavy infantry at medium range, and are mounted on many battlesuits and drones."/>
+	<entry name="MoltenBeam" value="Спальваючы Прамень"/>
+	<entry name="MoltenBeamFlavor" value="The pyromancer claps his hands together and turns them outward towards the foe. As he does so, a white-hot beam of blazing energy bursts from his palms. It melts armour to slag and vaporises flesh, leaving only ghastly shadows in its wake."/>
+	<entry name="MultiLaser" value="Мультылазер"/>
+	<entry name="MultiLaserFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="MultiMelta" value="Мульцімельта"/>
+	<entry name="MultiMeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="MultiMeltaPlaytest" value="Мульцімельта"/>
+	<entry name="MultiMeltaPlaytestFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="NeutronBlaster" value="Нейтронны Бластар"/>
+	<entry name="NeutronBlasterFlavor" value="Stingwing weapons are a hybrid of Vespid and T'au technology. The crystal mounted upon each blaster emits a powerful neutron blast that is able to bypass all but the most effective armour."/>
+	<entry name="None" value="Ніякае"/>
+	<entry name="NoseDrill" value="Насавы Дрыль"/> <!-- Megatrakk Scrapjet -->
+	<entry name="NoseDrillFlavor" value="Though the Flyboy was doubtless furious to see his treasured Dakkajet confined to Gladius Prime’s surface, the Meks can present one positive—the ability to put a giant drill in the empty nosecone, enabling the Scrapjet to cut through enemies the way it used to cut through the air."/>
+	<entry name="NovaElectromagneticShockwave" value="<string name='Actions/Tau/NovaElectromagneticShockwave'/>"/>
+	<entry name="NovaElectromagneticShockwaveFlavor" value="<string name='Actions/Tau/NovaElectromagneticShockwaveFlavor'/>"/>
+	<entry name="OmnissianStaff" value="Посах Амнісіі"/>
+	<entry name="OnslaughtGatlingCannon" value="Нападная Гатлінг-Гармата"/>
+	<entry name="OnslaughtGatlingCannonFlavor" value="Like many rotary machine guns through Terra’s long history, the Onslaught makes up for its lack of armour penetration with an absolute hail of high calibre bullets. Given its relative reliability of fire, the Adeptus Mechanicus have mounted it on many Primaris vehicles, ranging from the light Invader right up to heavier versions on Redemptor Dreadnoughts and Repulsor Executioners."/>
+	<entry name="OppressorCannon" value="Гармата Прыгнятальнік"/>
+	<entry name="OppressorCannonFlavor" value="The Rogal Dorn tank’s signature weapon is quite capable of taking down a distant enemy Knight in a single salvo, with the impact of an entire squadron of Vindicators."/>
+	<entry name="OrbitalBombardment" value="Арбітальнае Бамбаваньне"/>
+	<entry name="ParagonGrenadeLauncher" value="Дасканалы Гранатакід"/>
+	<entry name="ParagonGrenadeLauncherFlavor" value="The twin grenade launchers embedded in this model of Paragon Warsuit are designed to be fired on the move, spreading an array of larger fragmentation shells across a wide area."/>
+	<entry name="ParagonWarBlade" value="Дасканалае Вайсковае Лязо"/>
+	<entry name="ParagonWarBladeFlavor" value="Commonly equipped with one of the holy trinity of Adepta Sororitas heavy weapons – the heavy bolter, Ministorum heavy flamer, and multi-melta – Paragon Warsuits also wield huge melee weapons crackling with power fields to tear through enemy armour like it was tissue paper."/>
+	<entry name="ParticleWhip" value="Пуга Часьцінак"/>
+	<entry name="ParticleWhipFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
+	<entry name="PenitentBuzzBlade" value="Гудзючае Лязо Раскаяньне"/>
+	<entry name="PenitentBuzzBladeFlavor" value="The machines’ arm-mounted flamers blaze a trail of fiery destruction as they thunder towards their foes, and their gigantic, razor-edged buzz saws carve through armour, flesh and bone with every frenzied swipe."/>
+	<entry name="PhosphorBlaster" value="Фосфарны Бластар"/>
+	<entry name="PhosphorBlasterFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
+	<entry name="PhosphorPistol" value="Фосфарны Пісталет"/>
+	<entry name="PhosphorPistolFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
+	<entry name="PhosphorSerpenta" value="Фосфарная Сэрпента"/>
+	<entry name="PhosphorSerpentaFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
+	<entry name="PhosphorTorch" value="Фосфарная Паходня"/>
+	<entry name="PhosphorTorchFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
+	<entry name="PhotonGrenade" value="Фатонная Граната"/>
+	<entry name="PhotonGrenadeFlavor" value="Defensive grenades, such as the photon grenades of the T'au, which emit multi-spectrum light and a sonic burst, have dual uses. When being charged, these are thrown to disorient the enemy attack; against shooting, they’re hurled to throw up clouds of concealing gas or smoke."/>
+	<entry name="PlasmaCutter" value="Плазмавы Разак"/>
+	<entry name="PlasmaCutterFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
+	<entry name="PlasmaExterminatorStandard" value="Плазмавы Ікстэрмінатар (Стандартны)"/>
+	<entry name="PlasmaExterminatorStandardFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
+	<entry name="PlasmaExterminatorSupercharged" value="Плазмавы Ікстэрмінатар (Суперперагружаны)"/>
+	<entry name="PlasmaExterminatorSuperchargedFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
+	<entry name="PlasmaIncineratorStandard" value="Плазмавы Інцынератар (Стандартны)"/>
+	<entry name="PlasmaIncineratorStandardFlavor" value="Cawl’s ten millennia of tinkering produced many surprising results. Even the unstable plasma weaponry commonplace to many races didn’t escape his cogitator’s attention. His Mark III Belisarius Pattern Plasma Incinerators are a marked improvement on previous Imperial versions, harnessing the raw power of stellar fusion to melt enemy armour. This Primaris-only technology is deployed at every scale, from the pistol-sized Exterminators to the Dreadnought-sized Macro Plasma Incinerators."/>
+	<entry name="PlasmaIncineratorSupercharged" value="Плазмавы Інцынератар (Суперперагружаны)"/>
+	<entry name="PlasmaIncineratorSuperchargedFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
+	<entry name="PlasmaGrenade" value="Плазмавая Граната"/>
+	<entry name="PlasmaGrenadeFlavor" value="Plasma grenades are a highly advanced type of assault grenade, commonly employed by the Aeldari."/>
+	<entry name="PlasmaGun" value="Плазмавая Пушка"/>
+	<entry name="PlasmaGunFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
+	<entry name="PlasmaPistol" value="Плазмавы Пісталет"/>
+	<entry name="PlasmaPistolFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
+	<entry name="PlasmaRifle" value="Плазмавая Стрэльба"/>
+	<entry name="PlasmaRifleFlavor" value="Plasma technology is used by many races, despite its highly unstable nature. The T'au favour a form of the technology that forgoes a degree of stopping power for an increased level of safety for the operator."/>
+	<entry name="PowerAxe" value="Сілавая Сякера"/>
+	<entry name="PowerAxeFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerFist" value="Сілавы Кулак"/>
+	<entry name="PowerFistFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerKlaw" value="Сілавая Клушня"/>
+	<entry name="PowerKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="PowerMaul" value="Сілавая Кувалда"/>
+	<entry name="PowerMaulFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerScourge" value="Сілавая Пуга"/>
+	<entry name="PowerScourgeFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerSword" value="Сілавы Меч"/>
+	<entry name="PowerSwordFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PulseBomb" value="Імпульсная Бомба"/>
+	<entry name="PulseBombFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
+	<entry name="PulseBlaster" value="Імпульсны Бластар"/>
+	<entry name="PulseBlasterFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
+	<entry name="PulseDisintegrator" value="Імпульсны Дэзынтэгратар"/>
+	<entry name="PulseDisintegratorFlavor" value="The Tantalus’ unique heavy armament employs an unstable form of ‘Darklight’ dark matter, harnessed from the ‘Ilmaea’—black suns stolen from Realspace. A single shot from a Disintegrator can atomise the most heavily armoured opponent—and the Pulse Disintegrator fires a lethal salvo of these, whilst remaining pleasantly cool to the touch."/>
+	<entry name="PulseDriverCannon" value="Імпульсная Драйвер-Гармата"/>
+	<entry name="PulseDriverCannonFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
+	<entry name="PulseLaser" value="Імпульсны Лазер"/>
+	<entry name="PulseLaserFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
+	<entry name="PulseRifle" value="Імпульсная Стрэльба"/>
+	<entry name="PulseRifleFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
+	<entry name="PulseSubmunitionsCannon" value="Імпульсная Субпатронная Гармата"/>
+	<entry name="PulseSubmunitionsCannonFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
+	<entry name="PrehensilePincer" value="Учэпістая Клюшня"/>
+	<entry name="PrehensilePincerFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="PrismCannonDispersed" value="Прызмавая Гармата (Расьсеяная)"/>
+	<entry name="PrismCannonDispersedFlavor" value="Typically mounted on Fire Prisms, prism cannons greatly amplify the power of a high-intensity laser through priceless psychocrystal to generate a devastating blast. This can be focussed into a narrow beam or widened to destroy a broader area at will."/>
+	<entry name="PrismCannonFocused" value="Прызмавая Гармата (Сфакусаваная)"/>
+	<entry name="PrismCannonFocusedFlavor" value="<string name='Weapons/PrismCannonDispersedFlavor'/>"/>
+	<entry name="PrismCannonLance" value="Прызмавая Гармата (Дзіда)"/>
+	<entry name="PrismCannonLanceFlavor" value="<string name='Weapons/PrismCannonDispersedFlavor'/>"/>
+	<entry name="PsychicMaelstrom" value="Псіхічны Вір"/>
+	<entry name="PsychicMaelstromFlavor" value="The telekine focuses his entire mental might into creating a vast maelstrom of destructive power, unleashing a storm of psychic energies that utterly consume his foes."/>
+	<entry name="PsychicOverload" value="Псіхічная Перегрузка"/>
+	<entry name="PsychicOverloadFlavor" value="<string name='Actions/Tyranids/PsychicOverloadFlavor'/>"/>
+	<entry name="PsychicScream" value="Псіхічны Крык"/>
+	<entry name="PsychicScreamFlavor" value="Through its vassal, the Hive Mind unleashes a piercing shriek of undiluted psychic energy that shreds the minds of those caught in the wake."/>
+	<entry name="PteraxiiTalons" value="Кіпцюры Птэраксія"/>
+	<entry name="PteraxiiTalonsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="QuadIonTurretOvercharged" value="Чацьвярная Іённая Турэль (Перазараджаная)"/>
+	<entry name="QuadIonTurretOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="QuadIonTurretStandard" value="Чацьвярная Іённая Турэль (Стандартная)"/>
+	<entry name="QuadIonTurretStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="RadSaturation" value="<string name='Actions/AdeptusMechanicus/RadSaturation'/>"/>
+	<entry name="RadSaturationFlavor" value="<string name='Actions/AdeptusMechanicus/RadSaturationFlavor'/>"/>
+	<entry name="RadiumCarbine" value="Радыевы Карабін"/>
+	<entry name="RadiumCarbineFlavor" value="<string name='Weapons/RadiumFlavor'/>"/>
+	<entry name="RadiumSerpenta" value="Радыевая Сэрпента"/>
+	<entry name="RadiumSerpentaFlavor" value="<string name='Weapons/RadiumFlavor'/>"/>
+	<entry name="RailgunWithSolidShot" value="Рэйкавая Пушка з Цьвёрдым Стрэлам"/>
+	<entry name="RailgunWithSolidShotFlavor" value="<string name='Weapons/RailFlavor'/>"/>
+	<entry name="RangerLongRifle" value="Доўгая Стрэльба Рэйнджара"/>
+	<entry name="RangerLongRifleFlavor" value="Ranger long rifles are precision implements, accurate enough to pick out weak points in a target’s armour even at extreme distances."/>
+	<entry name="RapidFireBattleCannon" value="Баявая Гармата Хуткага Агню"/>
+	<entry name="RapidFireBattleCannonFlavor" value="This long range cannon is the equivalent of a large calibre artillery piece affixed to the arm of an Imperial Knight. Its rapid self-loading allows for accurate fire to be poured out at a tremendous rate and the blast of its explosive shot can rack up horrific casualties. It is often employed against infantry hordes, medium tanks and squadrons of light vehicles."/>
+	<entry name="Razorflail" value="Брытвапуга"/>
+	<entry name="RazorflailFlavor" value="Razorflails are wielded as a twinned pair of blades that at first glance resemble long, flimsy and unwieldy swords. Yet with a single flick of the wrist each can split apart and lash out like a whip, their whistling blades almost impossible to block or parry."/>
+	<entry name="ReaperAutocannon" value="Аўтагармата Жняца"/>
+	<entry name="ReaperAutocannonFlavor" value="There is a particular type of double-barrelled autocannon called the Reaper, which is no longer employed by the forces of the Emperor. It is mostly used by Chaos Terminators, allowing them to lay down a withering hail of shots, which gives them a much greater chance of hitting those unfortunate enough to be in their crosshairs."/>
+	<entry name="ReaperLauncherStarshotMissile" value="Ракетная Ўсталёўка Жнеяра (Ракета Зорныстрэл)"/>
+	<entry name="ReaperLauncherStarshotMissileFlavor" value="Used to deadly effect by Dark Reaper Aspect Warriors, reaper launchers fire a fusillade of armour-piercing starswarm missiles. Some Dark Reapers also make use of the more powerful starshot missiles, which have a lower rate of fire, but allow them to engage enemy tanks and fortifications with impunity."/>
+	<entry name="ReaperLauncherStarswarmMissile" value="Ракетная Ўсталёўка Жнеяра (Ракета Зорнырой)"/>
+	<entry name="ReaperLauncherStarswarmMissileFlavor" value="<string name='Weapons/ReaperLauncherStarshotMissileFlavor'/>"/>
+	<entry name="RendingClaws" value="Разьдзіральныя Кіпцюры"/>
+	<entry name="RendingClawsFlavor" value="The diamond-hard tips of these claws can tear through armour."/>
+	<entry name="RodOfCovenantMelee" value="Жазло Запавету (Блізкі Бой)"/>
+	<entry name="RodOfCovenantMeleeFlavor" value="The rod of covenant is a tool of swift execution for those found wanting by the Triarch Praetorians. Within the head of each weapon is caged a roiling fragment of a dying star bound within a potent force field, capable of burning through a foe's armour as if it were dry parchment. This energy can further be directed by the rod's wielder in a searing blast which, while short ranged, can reduce even a Necron to a smouldering pool of fused metal—organic creatures simply explode into clouds of flaming ash."/>
+	<entry name="RodOfCovenantRanged" value="Жазло Запавету (Далёкі Бой)"/>
+	<entry name="RodOfCovenantRangedFlavor" value="<string name='Weapons/RodOfCovenantMeleeFlavor'/>"/>
+	<entry name="RokkitKannon" value="Ракетная Грымата"/> <!-- Megatrakk Scrapjet -->
+	<entry name="RokkitKannonFlavor" value="The Flyboy may have fallen from the sky, but his Dakkajet hasn’t lost any of its armament. Indeed, these belt-fed rokkits are perfectly suited to a life on the ground, turning opposing infantry into a fine mist. Who needs to aim?"/>
+	<entry name="RokkitLauncha" value="Ракетакід"/>
+	<entry name="RokkitLaunchaFlavor" value="Crude but easy to manufacture, the rokkit launcha is a stout stick with a simple trigger mechanism that allows the Ork at the 'safe' end to fire a dodgy-looking rokkit in the general direction of the enemy."/>
+	<entry name="RollOverThem" value="“Расьцісьніце Іх!”"/>
+	<entry name="RuptureCannon" value="Разрыўная Гармата"/>
+	<entry name="RuptureCannonFlavor" value="This weapon fires two different projectiles, launched in quick succession. The first is a bloated tick that bursts upon impact, showering the target in a thick oily substance. The second, a seedpod, reacts as it contacts the viscous remains of the tick, creating an implosion which can even wrench armoured vehicles inside out."/>
+	<entry name="Scissorhand" value="Рука-Нажніцы"/>
+	<entry name="ScissorhandFlavor" value="The scissorhand looks a little like a pair of surgical shears, and harbours expensive toxins so that its wielder might better incapacitate those whose limbs it amputates."/>
+	<entry name="ScorpionCannon" value="Гармата Скарпіёна"/>
+	<entry name="ScorpionCannonFlavor" value="This multi-barreled anti-infantry weapon is only ever mounted in one place—on the great arching tail of the Brass Scorpion daemon engine. From on high, it can mow down massed enemy troops with ease, to the honour of Khorne."/>
+	<entry name="ScythingTalons" value="Кіпцюры-Косы"/>
+	<entry name="ScythingTalonsFlavor" value="Scything talons are long, razor-edged claws of serrated chitin."/>
+	<entry name="SeekerMissile" value="Саманаводная Ракета"/>
+	<entry name="SeekerMissileFlavor" value="Seeker missiles are one-shot weapons usually guided to their targets by markerlights, though they can be fired independently as well."/>
+	<entry name="SeismicAssaultCoalescent" value="Сейсьмічная Атака (Каалесцэнтная)"/>
+	<entry name="SeismicAssaultCoalescentFlavor" value="Stone fractures and ores flash burn into silvered steam as the C'tan Shard drags up tides of magma from deep below."/>
+	<entry name="SeismicAssaultTranscendent" value="Сейсьмічная Атака (Трансцэндэнтальная)"/>
+	<entry name="SeismicAssaultTranscendentFlavor" value="<string name='Weapons/SeismicAssaultCoalescentFlavor'/>"/>
+	<entry name="SensoryOverload" value="Сэнсарная Перагрузка"/>
+	<entry name="SensoryOverloadDescription" value="Наносіць шкоду і аслабляе варожую цэль."/>
+	<entry name="SensoryOverloadFlavor" value="Reaching out to overload the nerve centres of his foes, the psyker makes sure they are in a fit state to accept his deadly caress."/>
+	<entry name="SerpentShield" value="Зьмяіны Шчыт"/>
+	<entry name="SerpentShieldFlavor" value="When the Aeldari Wave Serpents advance, they do so behind powerful shields. These can be discharged to unleash a bow wave of raw force that blasts the enemy from their feet."/>
+	<entry name="ServoArm" value="Сэрварука"/>
+	<entry name="ServoArmFlavor" value="Tech-Priest Enginseers and their Servitor minions often sport powerful servo-arms. These mechanised limbs can be turned with equal ease to complex battlefield repairs, or crushing the life from the foe. Though these weapons are slow to strike, once the blessed hydraulics of the servo-arm's claw have locked in and begun to squeeze, foes face a hideous and inexorable death."/>
+	<entry name="ShadowWeaver" value="Ткач Ценяў"/>
+	<entry name="ShadowWeaverFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
+	<entry name="Shadowlimbs" value="Ценевыя Канцавіны"/>
+	<entry name="ShadowlimbsFlavor" value="To tackle an Umbra in combat is to face a ceaseless assault of distorted horrors drawn from the millions of years that the shadow-thing has persisted for, after whatever befell it in ancient times. Formed from the stuff of the Umbra itself, these nightmares aren’t just mere dreamstuff but tangible and lethal."/>
+	<entry name="SingingSpearMelee" value="Пявучая Дзіда (Блізкі Бой)"/>
+	<entry name="SingingSpearMeleeFlavor" value="When hurled by an Aeldari psyker, a singing spear can sunder both armour and flesh, and will always return to its wielder."/>
+	<entry name="SingingSpearRanged" value="Пявучая Дзіда (Далёкі Бой)"/>
+	<entry name="SingingSpearRangedFlavor" value="<string name='Weapons/SingingSpearMeleeFlavor'/>"/>
+	<entry name="ShatterfieldMissile" value="Ракета · Аскепкавае Поле"/>
+	<entry name="ShatterfieldMissileFlavor" value="A shatterfield missile actually houses two separate detonator cores. On impact, the first of the cores sucks away all warmth, turning those caught within its blast into brittle statues. An instant later, the second core sends out a blast of percussive force that shatters its frozen victims into a thousand pieces."/>
+	<entry name="Shockwave" value="Ударная Хваля"/>
+	<entry name="ShockwaveFlavor" value="The psyker slams his palms together and the noise is magnified a hundredfold, releasing a shockwave that snaps bones and knocks foes from their feet."/>
+	<entry name="Shoota" value="Штраляла"/>
+	<entry name="ShurikenCannon" value="Шурыкенавая Гармата"/>
+	<entry name="ShurikenCannonFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
+	<entry name="ShurikenCatapult" value="Шурыкенавая Катапульта"/>
+	<entry name="ShurikenCatapultFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
+	<entry name="ShurikenPistol" value="Шурыкенавы Пісталет"/>
+	<entry name="ShurikenPistolFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
+	<entry name="Skorcha" value="Выпальвала"/>
+	<entry name="SkorchaFlavor" value="Beloved of Ork arsonists, the skorcha is a huge flamethrower that sprays a great gout of burning fuel over the target area. Skorchas are most commonly mounted to Ork vehicles, though some Meks have been known to build them into kombi-shootas as well."/>
+	<entry name="SkorchaMissile" value="Ракета-Выпальвала"/>
+	<entry name="SkorchaMissileFlavor" value="Skorcha missiles are 'fire and ferget' weapons used by Burna-bommer pilots to flush enemy infantry out of cover. Their warheads explode in sprays of chemical flame that burns white hot and makes a mockery of the mightiest fortifications."/>
+	<entry name="SkyOfFallingStarsCoalescent" value="Неба Падаючых Зьнічак (Каалесцэнтнае)"/>
+	<entry name="SkyOfFallingStarsCoalescentFlavor" value="Savagely beautiful orbs of coruscating light plummet from the cold depths of space, growing to roaring bale-stars as they approach."/>
+	<entry name="SkyOfFallingStarsTranscendent" value="Неба Падаючых Зьнічак (Трансцэндэнтальнае)"/>
+	<entry name="SkyOfFallingStarsTranscendentFlavor" value="<string name='Weapons/SkyOfFallingStarsCoalescentFlavor'/>"/>
+	<entry name="SkyhammerMissileLauncher" value="Ракетная Ўсталёўка - Нябесны Молат"/>
+	<entry name="SkyhammerMissileLauncherFlavor" value="These weapons fire volleys of missiles that smash into their targets with devastating force—perfect for turning armoured vehicles into scrap metal."/>
+	<entry name="SkyspearMissileLauncher" value="Ракетная Ўсталёўка - Нябесная Дзіда"/>
+	<entry name="SkyspearMissileLauncherFlavor" value="The skyspear missile launcher fires pre-blessed savant warheads, each a relic in its own right, housing the entombed remains of a distinguished Chapter serf. This servitor's mummified brain augments the missile's auto-targeters, allowing it to second-guess enemy pilots or home in on the heretical emissions of their debased machine spirits. Against the dogged pursuit of a savant warhead and its macabre pilot, there can be little chance of escape, while the tank's servo-loaders maintain a steady rate of fire."/>
+	<entry name="SkystrikeMissile" value="Ракета - Нябесны Ўдар"/>
+	<entry name="SkystrikeMissileFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Slugga" value="Мегашпурляла"/>
+	<entry name="SluggaFlavor" value="This ugly and brutish handgun is perfectly designed for its ugly and brutish owner to kill his foes, either by shooting them through the face at point-blank range or by beating them to death with it."/>
+	<entry name="Snazzgun" value="Шыкоўнаштрэл"/>
+	<entry name="SnazzgunFlavor" value="Snazzguns are marvels of Orky know-wotz. Their owners pour countless teef into having additional barrels, drum magazines, and all manner of widgets and gubbinz attached to their prized guns. The resultant weapons have been known to fire clouds of flaming bullets, blasts of plasma or volleys of rocket-propelled grenades."/>
+	<entry name="SniperRifle" value="Снайперская Стрэльба"/>
+	<entry name="SniperRifleFlavor" value="Sniper rifles have powerful telescopic sights, enabling the firer to target weak points and distant foes with unerring accuracy. Some commanders see the sniper rifle as a dishonourable weapon, but they are in the minority. Most understand that pragmatism, and dead enemies, win more battles than honour ever will."/>
+	<entry name="SoulBlaze" value="Падпальнік Душ"/>
+	<entry name="SoulBlazeFlavor" value="Some psychically-imbued weapons set the very soul ablaze, consuming the unfortunate victim in clouds of ethereal fire."/>
+	<entry name="SoulburnerCannon" value="Гармата - Падпальнік Душ"/>
+	<entry name="SoulburnerCannonFlavor" value="An infernal cannon that draws its ammunition direct from the warp—from the boiling blood that pools beneath Khorne’s brass throne deep in the Realms of Chaos, so tormented that it thirsts for the souls of the living."/>
+	<entry name="SoulflayerTendrils" value="Шчупальцы Паглынальніка Душ"/>
+	<entry name="SoulflayerTendrilsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="SoulShelling" value="<string name='Actions/Drukhari/SoulShelling'/>"/>
+	<entry name="SoulShellingFlavor" value="<string name='Actions/Drukhari/SoulShellingFlavor'/>"/>
+	<entry name="SpaceMarineShotgun" value="Драбавік Касьмічнага Марына"/>
+	<entry name="SpaceMarineShotgunFlavor" value="<string name='Weapons/StubFlavor'/>"/>
+	<entry name="SpineBanks" value="Мяхі Сьпінных Шыпоў"/>
+	<entry name="SpineBanksFlavor" value="The explosive spine banks imbedded in the carapaces of some Carnifexes can also be fired at the foe as the Tyranid charges."/>
+	<entry name="SpiritSyphon" value="Сіфон Душ"/>
+	<entry name="SpiritSyphonFlavor" value="The Cronos Parasite Engine can cast out a field of baleful energy that allows it to feed upon those nearby."/>
+	<entry name="SplinterCannon" value="Аскепкавая Гармата"/>
+	<entry name="SplinterCannonFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
+	<entry name="SplinterPods" value="Аскепкавыя Капсулі"/>
+	<entry name="SplinterPodsFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
+	<entry name="SplinterRifle" value="Аскепкавая Стрэльба"/>
+	<entry name="SplinterRifleFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
+	<entry name="SporeMineLauncher" value="Пускавая Ўсталёўка Споравых Мін"/>
+	<entry name="StaffOfLight" value="Посах Сьвятла"/>
+	<entry name="StaffOfLightFlavor" value="The staff of light is both a weapon and a symbol of authority. Its haft is actually a disguised power generator rod, and the crest a finely tuned focussing device, allowing the wielder to unleash crackling bolts of energy at his foes."/>
+	<entry name="Starcannon" value="Зорная Гармата"/>
+	<entry name="StarcannonFlavor" value="It is a testament to the idiocy of Man that he creates plasma weapons that frequently maim or kill the wielder. Starcannons and suncannons have no such flaw, their plasma cores producing the heat of a star while the guns remain cool to the touch."/>
+	<entry name="StingerPistol" value="Джалавы Пісталет"/>
+	<entry name="StingerPistolFlavor" value="A stinger pistol is a lightweight sidearm characterised by a long syringe-like barrel and a venom magazine that holds searingly effective toxins. When fired, it ejects a long sliver of hollow glass that can pierce a foe’s skin and introduce the toxins straight into his bloodstream, with invariably horrific results."/>
+	<entry name="StingerPod" value="Стынгер-Капсулі"/>
+	<entry name="StingerPodFlavor" value="Talos Pain Engines are often armed with sinister weapons that fire great pulses of raw agony. The victims of these weapons often break their own bones or rupture their own organs with the force of their agonised convulsions, while survivors are left catatonic with pain, unable to defend themselves against the Talos’ bloody ministrations."/>
+	<entry name="StingerSalvo" value="Джаластрэл"/>
+	<entry name="StingerSalvoFlavor" value="Stinger salvoes are simple but effective weapons that fire rows of metre-long, razor-sharp spikes."/>
+	<entry name="Stikkbomb" value="Ліпкая Выбухала"/>
+	<entry name="StikkbombFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
+	<entry name="Stomp" value="Тупат"/>
+	<entry name="StormBolter" value="Штармавы Болтар"/>
+	<entry name="StormBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="StormfuryMissiles" value="Ракеты · Штармавая Лютасьць"/>
+	<entry name="StormfuryMissilesFlavor" value="These heavy anti-armour missiles are carried on a Thunderstrike’s control surfaces. These add to the Thunderstrike’s powerful anti-armour arsenal without drawing on the Storm Speeder’s already overloaded power systems."/>
+	<entry name="StormstrikeMissile" value="Ракета - Штармавы Ўдар"/>
+	<entry name="StormstrikeMissileFlavor" value="Stormstrike missiles detonate with a thunderous boom that leaves those caught in the blast radius reeling and disoriented."/>
+	<entry name="StranglethornCannon" value="Гармата - Задушлівы Шып"/>
+	<entry name="StranglethornCannonFlavor" value="These weapons fire seed pods that grow to maturity in seconds, spreading out hooked tendrils in all directions."/>
+	<entry name="SulphurBreath" value="Серны Подых"/>
+	<entry name="SulphurBreathFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
+	<entry name="Suncannon" value="Сонечная Гармата"/>
+	<entry name="SuncannonFlavor" value="<string name='Weapons/StarcannonFlavor'/>"/>
+	<entry name="SupaLobba" value="Супір Кідала"/>
+	<entry name="SupaLobbaFlavor" value="Most Lobbas are large, noisy mortars that are typically mounted onto battlewagons."/>
+	<entry name="SupremacyRailgun" value="Рэйкавая Пушка Перавага"/>
+	<entry name="SupremacyRailgunFlavor" value="<string name='Weapons/RailFlavor'/>"/>
+	<entry name="SuperHeavyExplosion" value="Звышцяжкі Выбух"/>
+	<entry name="SynapticDisintegrator" value="Сінаптычны Дэзынтэгратар"/>
+	<entry name="SynapticDisintegratorFlavor" value="This rifle fires a compressed leptonic beam that destroys synaptic tissue. Beginning within the target’s brain and spreading in microseconds throughout their entire body, molecules unbond with one another, causing the luckless target to crumple limply to the ground like a puppet with its strings severed."/>
+	<entry name="TacticalSupportTurret" value="Тактычная Турэль Падтрымкі DS8"/>
+	<entry name="TacticalSupportTurretFlavor" value="Carried in racks along the flanks of Orca Dropships, tactical support turrets are automated defence batteries that provide support for Fire Warrior Strike Teams. These armoured turrets plummet into battle and deploy as fixed positions to add their firepower to the fight. Each turret is programmed to self-destruct should its sensors register the possibility of capture or tampering. This feature means that the T'au's superior weaponry can never be turned upon them by their enemies."/>
+	<entry name="TankbustaBomb" value="Выбухала-Танкабой"/>
+	<entry name="TankbustaBombDescription" value="<string name='Weapons/MeltaBombDescription'/>"/>
+	<entry name="TankbustaBombFlavor" value="Tankbusta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
+	<entry name="TaserGoad" value="Электрашокер Стымул"/>
+	<entry name="TaserGoadFlavor" value="<string name='Weapons/TaserFlavor'/>"/>
+	<entry name="TaserLance" value="Электрашокер Дзіда"/>
+	<entry name="TaserLanceFlavor" value="<string name='Weapons/TaserFlavor'/>"/>
+	<entry name="Tentaclids" value="Тэнтакліды"/>
+	<entry name="TentaclidsFlavor" value="These living missiles seek out aerial prey, latching onto their targets with barbed fangs before emitting a massive bio-electrical pulse."/>
+	<entry name="TeslaCarbine" value="Тэсла-Карабін"/>
+	<entry name="TeslaCarbineFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TeslaSphere" value="Тэсла-Сьфера"/>
+	<entry name="TeslaSphereFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TheArdentBladeMelee" value="Лязо Лютасьці (Блізкі Бой)"/>
+	<entry name="TheArdentBladeMeleeFlavor" value="This flame-wreathed blade is said to be the Emperor’s wrath made manifest. Saint Celestine retrieved it and her golden power armour from the long-lost Shrine of Saint Katherine on the Shrine World of Sanctus Lys during the Palatine Crusade."/>
+	<entry name="TheArdentBladeRanged" value="Лязо Лютасьці (Далёкі Бой)"/>
+	<entry name="TheArdentBladeRangedFlavor" value="<string name='Weapons/TheArdentBladeMeleeFlavor'/>"/>
+	<entry name="TheEmperorsVengeance" value="<string name='Actions/SistersOfBattle/TheEmperorsVengeance'/>"/>
+	<entry name="TheEmperorsVengeanceFlavor" value="<string name='Actions/SistersOfBattle/TheEmperorsVengeanceFlavor'/>"/>
+	<entry name="ThresherScythe" value="Каса Малацьбіта"/>
+	<entry name="ThresherScytheFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="ThunderHammer" value="Грамавы Молат"/>
+	<entry name="ThunderHammerFlavor" value="Thunder hammers release a tremendous blast of energy when they strike, slamming the foe to the ground and leaving him stunned (if he survives at all). This, combined with the crushing weight of the hammer itself, makes for an incredibly deadly weapon."/>
+	<entry name="ThunderfireCannon" value="Гармата Грымотнага Агню"/>
+	<entry name="ThunderfireCannonFlavor" value="The thunderfire cannon is a colossal multibarrelled artillery weapon. It is far too large to be carried by an individual and so is conveyed into battle on a set of tracks and accompanied by a Techmarine gunner."/>
+	<entry name="ThunderstrikeLasTalon" value="Грамавы Ўдар Лас Талон"/>
+	<entry name="ThunderstrikeLasTalonFlavor" value="A specialised type of anti-armour weapon used primarily by the Primaris Space Marines, the Las Talon is much lighter than an equivalent Lascannon. This does reduce its raw punch and its range, but not its armour penetration or the damage inflicted, making it perfect for lighter vehicles like the Storm Speeder."/>
+	<entry name="TormentGrenadeLaunchers" value="Катавальны Гранатакід"/>
+	<entry name="TormentGrenadeLaunchersFlavor" value="Some Drukhari skimmers incorporate hull-mounted launchers that send barbed grenades spinning into the ranks of the foe. Each grenade spews out an ochre cloud of phantasm gas that causes abject terror in the minds of those nearby."/>
+	<entry name="ToxicMiasma" value="Таксічныя Міязмы"/>
+	<entry name="ToxicMiasmaFlavor" value="Some creatures emit toxins to poison a prey world's atmosphere."/>
+	<entry name="Toxinspike" value="Таксічны Шып"/>
+	<entry name="ToxinspikeFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="TraktorKannon" value="Трактарная Грымата"/>
+	<entry name="TraktorKannonFlavor" value="The traktor kannon fires a thrumming beam of force high into the air. The grot crew swing this beam about wildly until they manage to latch the humming column onto an airborne target. Once snagged, their hapless victim is wrenched out of the air and smashed to bits on the ground below."/>
+	<entry name="TransdimensionalThunderboltCoalescent" value="Транспрасторавы Ўдар Маланкі (Каалесцэнтны)"/>
+	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="The C'tan Shard projects a crackling bolt of energy from its outstretched palm, blasting its foe into oblivion."/>
+	<entry name="TransdimensionalThunderboltTranscendent" value="Транспрасторавы Ўдар Маланкі (Трансцэндэнтальны)"/>
+	<entry name="TransdimensionalThunderboltTranscendentFlavor" value="<string name='Weapons/TransdimensionalThunderboltCoalescentFlavor'/>"/>
+	<entry name="TransuranicArquebus" value="Трансуранавая Аркебуза"/>
+	<entry name="TransuranicArquebusFlavor" value="The precision and inhuman efficiency that typify the Skitarii Legions are epitomised by these long-barrelled heavy weapons. Firing a shell of depleted transuranium, the arquebus can puncture a tank from one side to the other, the resultant pressure wave also pulping any biological creatures that may be sheltering inside."/>
+	<entry name="TwinBoltRifle" value="Здвоеная Болт-Стрэльба"/>
+	<entry name="TwinBoltRifleFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinIcarusRocketPod" value="Здвоеная Ракетная Капсула · Ікарус"/>
+	<entry name="TwinIcarusRocketPodFlavor" value="<string name='Weapons/IcarusRocketPodFlavor'/>"/>
+	<entry name="TwinIcarusIronhailHeavyStubber" value="Здвоены Цяжкі Стаббер · Ікарус · Жалезны Град"/>
+	<entry name="TwinIcarusIronhailHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
+	<entry name="TwinLinkedAirburstingFragmentationProjector" value="Супрацьпаветраны Здвоены Фрагментацыйны Праэктар"/>
+	<entry name="TwinLinkedAirburstingFragmentationProjectorFlavor" value="This experimental weapon scatters fragmentation bomblets over a wide area, at a height calculated by simple AI within each warhead to cause optimum damage."/>
+	<entry name="TwinLinkedAutocannon" value="Здвоеная Аўтагармата"/>
+	<entry name="TwinLinkedAutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="TwinLinkedAssaultCannon" value="Здвоеная Штурмавая Гармата"/>
+	<entry name="TwinLinkedAssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="TwinLinkedBigShoota" value="Здвоеная Буйнаштраляла"/>
+	<entry name="TwinLinkedBigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedBoltgun" value="Здвоеная Болт-Пушка"/>
+	<entry name="TwinLinkedBoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinLinkedBurstCannon" value="Здвоеная Разрыўная Гармата"/>
+	<entry name="TwinLinkedBurstCannonFlavor" value="<string name='Weapons/BurstFlavor'/>"/>
+	<entry name="TwinLinkedCognisAutocannon" value="Здвоеная Когніс Аўтагармата"/>
+	<entry name="TwinLinkedCognisAutocannonFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
+	<entry name="TwinLinkedCognisHeavyStubber" value="Здвоены Цяжкі Когніс Стаббер"/>
+	<entry name="TwinLinkedCognisHeavyStubberFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
+	<entry name="TwinLinkedCognisLascannon" value="Здвоеная Когніс Лазгармата"/>
+	<entry name="TwinLinkedCognisLascannonFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
+	<entry name="TwinLinkedDakkagun" value="Здвоеная Дакка Пушка"/>
+	<entry name="TwinLinkedDakkagunFlavor" value="Dakkaguns are large, hopper-fed machine guns that spew crude bullets in sawing arcs."/>
+	<entry name="TwinLinkedFusionBlaster" value="Здвоены Фузіённы Бластар"/>
+	<entry name="TwinLinkedFusionBlasterFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
+	<entry name="TwinLinkedGaussBlaster" value="Здвоены Гаўс-Бластар"/>
+	<entry name="TwinLinkedGaussBlasterFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="TwinLinkedHeavyBolter" value="Здвоены Цяжкі Болтар"/>
+	<entry name="TwinLinkedHeavyBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinLinkedHeavyFlamer" value="Здвоены Цяжкі Агнякід"/>
+	<entry name="TwinLinkedHeavyFlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
+	<entry name="TwinLinkedHeavyPhosphorBlaster" value="Здвоены Цяжкі Фосфарны Бластар"/>
+	<entry name="TwinLinkedHeavyPhosphorBlasterFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
+	<entry name="TwinLinkedHeavyRailRifle" value="Здвоеная Цяжкая Рэйкавая Стрэльба"/>
+	<entry name="TwinLinkedHeavyRailRifleFlavor" value="<string name='Weapons/RailFlavor'/>"/>
+	<entry name="TwinLinkedHydraAutocannon" value="Здвоеная Аўтагармата Гідра"/>
+	<entry name="TwinLinkedHydraAutocannonFlavor" value="Essentially a long-barrelled, outsized autocannon on an anti-aircraft mount, the Hydra autocannon is guided by its predictive logic spirit to fill the skies with sawing lines of deadly fire."/>
+	<entry name="TwinLinkedIcarusAutocannon" value="Здвоеная Аўтагармата Ікарус"/>
+	<entry name="TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
+	<entry name="TwinLinkedIonCannonOvercharged" value="Здвоеная Іённая Гармата (Перагружаная)"/>
+	<entry name="TwinLinkedIonCannonOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="TwinLinkedIonCannonStandard" value="Здвоеная Іённая Гармата (Стандартная)"/>
+	<entry name="TwinLinkedIonCannonStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="TwinLinkedIonRifleOvercharged" value="Здвоеная Іённая Стрэльба (Перагружаная)"/>
+	<entry name="TwinLinkedIonRifleOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="TwinLinkedIonRifleStandard" value="Здвоеная Іённая Стрэльба (Стандартная)"/>
+	<entry name="TwinLinkedIonRifleStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
+	<entry name="TwinLinkedLascannon" value="Здвоеная Лазгармата"/>
+	<entry name="TwinLinkedLascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="TwinLinkedMissilePod" value="Здвоеная Пускавая Ракетная Ўсталёўка"/>
+	<entry name="TwinLinkedMissilePodFlavor" value="<string name='Weapons/MissilePodFlavor'/>"/>
+	<entry name="TwinLinkedMultiMelta" value="Здвоеная Мульцімельта"/>
+	<entry name="TwinLinkedMultiMeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="TwinLinkedParticleBeamer" value="Здвоены Выпраменьнік Часьціц"/>
+	<entry name="TwinLinkedParticleBeamerFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
+	<entry name="TwinLinkedPlasmaRifle" value="Здвоеная Плазма Стрэльба"/>
+	<entry name="TwinLinkedPlasmaRifleFlavor" value="<string name='Weapons/PlasmaRifleFlavor'/>"/>
+	<entry name="TwinLinkedPulsar" value="Здвоены Пульсар"/>
+	<entry name="TwinLinkedPulsarFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
+	<entry name="TwinLinkedPulseCarbine" value="Здвоены Імпульсны Карабін"/>
+	<entry name="TwinLinkedPulseCarbineFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
+	<entry name="TwinLinkedShoota" value="Здвоеная Штраляла"/>
+	<entry name="TwinLinkedShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedShurikenCannon" value="Здвоеная Шурыкенавая Гармата"/>
+	<entry name="TwinLinkedShurikenCannonFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
+	<entry name="TwinLinkedShurikenCatapult" value="Здвоеная Шурыкенавая Катапульта"/>
+	<entry name="TwinLinkedShurikenCatapultFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
+	<entry name="TwinLinkedSmartMissileSystem" value="Здвоеная Разумная Ракетная Сістэма"/>
+	<entry name="TwinLinkedSmartMissileSystemFlavor" value="A smart missile system fires self-guiding missiles with drone intelligence, which can find targets even hiding behind terrain."/>
+	<entry name="TwinLinkedSplinterRifle" value="Здвоеная Аскепкавая Стрэльба"/>
+	<entry name="TwinLinkedSplinterRifleFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
+	<entry name="TwinLinkedStormBolter" value="Здвоены Штармавы Болтар"/>
+	<entry name="TwinLinkedStormBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinLinkedSupaShoota" value="Здвоеная Шупер Штраляла"/>
+	<entry name="TwinLinkedSupaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedTeslaDestructor" value="Здвоены Тэсла Разбуральнік"/>
+	<entry name="TwinLinkedTeslaDestructorFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TwinPowerFists" value="Здвоеныя Сілавыя Кулакі"/>
+	<entry name="TwinPowerFistsFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="TyranidCity" value="<string name='Traits/Tyranids/CityDamage'/>"/>
+	<entry name="TyranidCityFlavor" value="<string name='Traits/Tyranids/CityDamageFlavor'/>"/>
+	<entry name="UrtySyringe" value="Боля-Шпрыц"/>
+	<entry name="UrtySyringeFlavor" value="The congealed sludge that Painboyz inject as a clotting agent has fatal effects upon non-orkoid physiology. Arteries clog with fungal growth, lungs become spore-bloated puffballs, and the victim quickly collapses with porridgey froth bubbling from every orifice."/>
+	<entry name="Voidblade" value="Пустэчны Клінок"/>
+	<entry name="VoidbladeFlavor" value="The gleaming black edge of a voidblade flickers in and out of existence, causing the molecular bonds of any material it comes into contact with to instantaneously disintegrate."/>
+	<entry name="VoidLance" value="Пустэчная Дзіда"/>
+	<entry name="VoidLanceFlavor" value="The void lance fires pulses of highly destructive eldritch energy harvested from beyond the shattered spars of the webway."/>
+	<entry name="VoidMine" value="Пустэчная Міна"/>
+	<entry name="VoidMineFlavor" value="This bizarre bomb detonates two warheads, one a split second before the other. The first merely establishes a sphere of force that protects everything outside and condemns everything within. The second contains a particle of purest darklight, released from its containment field by the primary detonation. The effects of introducing even a tiny amount of darklight into realspace are catastrophic. As it is, anything trapped inside the crackling sphere is annihilated utterly, and in total silence."/>
+	<entry name="VolkiteBlaster" value="Валкітавы Бластар"/>
+	<entry name="VolkiteBlasterFlavor" value="Favoured during the Great Crusade before the Terran boltgun drove them into decline, volkite weapons impart so much thermodynamic energy to the target that those under their shimmering rays simply combust. Such unfortunates burn to cinders in explosions of jetting flame, frequently taking nearby comrades to the grave with them."/>
+	<entry name="WailingDoomMelee" value="Згуба Плачу (Блізкі Бой)"/>
+	<entry name="WailingDoomMeleeFlavor" value="Known to the Aeldari as the Suin Daellae, the Wailing Doom is a shrieking blade many feet long that sends out murderous bolts of force as the Avatar strides to war and reaps a brutal tally at close quarters."/>
+	<entry name="WailingDoomRanged" value="Згуба Плачу (Далёкі Бой)"/>
+	<entry name="WailingDoomRangedFlavor" value="<string name='Weapons/WailingDoomMeleeFlavor'/>"/>
+	<entry name="WarpBlastBurst" value="Выбуховая Хваля Варпу"/>
+	<entry name="WarpBlastLance" value="Выбуховая Дзіда Варпу"/>
+	<entry name="Warscythe" value="Баявая Каса"/>
+	<entry name="WarscytheFlavor" value="Warscythes are energy-bladed battle staves, and have been the favoured weapons of Necron Lords and their bodyguards for many thousands of years. Heavy and cumbersome, in the hands of a lesser creature a warscythe would be of little threat, but when wielded by the tireless mechanical musculature of a Necron, it is a most formidable weapon."/>
+	<entry name="WeirdboyStaff" value="Штука Дзівахлопца"/>
+	<entry name="WeirdboyStaffFlavor" value="The shiny charms and jangling bells that bedeck a Weirdboy staff belie the horrific damage they can wreak in battle. The copper pole at their core allows their wielder to earth the rampant Waaagh! energy that riddles them, and these weapons discharge crackling green blasts with every blow the Weirdboy lands."/>
+	<entry name="WhipCoils" value="Пуга са Шпуляй"/>
+	<entry name="WhipCoilsFlavor" value="Some Canoptek Wraiths are equipped with writhing mechanical tendrils that whip around at high speeds, splitting flesh and flensing their prey in an eye-blink."/>
+	<entry name="WhirlingDeath" value="<string name='Actions/Drukhari/WhirlingDeath'/>"/>
+	<entry name="WhirlingDeathFlavor" value="<string name='Actions/Drukhari/WhirlingDeathFlavor'/>"/>
+	<entry name="WhirlwindMultipleMissileLauncherIncendiaryCastellan" value="Множная Ракетная Ўсталёўка Віхуры (Ракета Запальны Кастэлян)"/>
+	<entry name="WhirlwindMultipleMissileLauncherIncendiaryCastellanFlavor" value="Of the two extant types of Whirlwind missile approved by Techpriest and Codex Astartes alike, the incendiary warheads of the Castellan are best-suited to destroying unarmoured troop formations."/>
+	<entry name="WhirlwindMultipleMissileLauncherVengeance" value="Множная Ракетная Ўсталёўка Віхуры (Ракета Помста)"/>
+	<entry name="WhirlwindMultipleMissileLauncherVengeanceFlavor" value="Vengeance missiles are the Whirlwind’s staple ammunition, balancing range and payload to soften up tougher troops before the Adeptus Astartes assault them. If you need to penetrate armour, however, you’d be better off equipping your Whirlwind with Hunter-Killer missiles."/>
+	<entry name="WingMissiles" value="Крылакеты"/> <!-- Megatrakk Scrapjet -->
+	<entry name="WingMissilesFlavor" value="It appears that removing the wings of a Dakkajet heavily increases the chance of the fuselage surviving intact. Though the stumps are useless for flying, they’re the perfect spot for mounting yet more dakka—in this case, a set of anti-armour missiles."/>
+	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
+	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
+	<entry name="WitchStaff" value="Посах Ведзьмы"/>
+	<entry name="WitchStaffFlavor" value="Those struck by a psychically-charged witch staff risk having their very soul set aflame, even if their bodies are not broken."/>
+	<entry name="Witchblade" value="Клінок Ведзьмы"/>
+	<entry name="WitchbladeFlavor" value="Witchblades are arcane Aeldari weapons that augment the wielder’s physical might with that of his mind. They are the favoured weapons of Farseers and Warlocks alike."/>
+	<entry name="WrackTools" value="Прылады Развалін"/>
+	<entry name="WrackToolsFlavor" value="Wracks wield a sickening variety of sickle-blades, saws, knives and mauls into battle, all of which are coated in searing venom."/>
+	<entry name="ZzapGun" value="Ззап Пушка"/>
+	<entry name="ZzapGunFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
+</language>

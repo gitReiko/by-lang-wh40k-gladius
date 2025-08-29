@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Artefacts -->
+	<entry name="Artefacts/AncientExterminatusDevice" value="<string name='Units/Neutral/Artefacts/AncientExterminatusDevice'/>"/>
+	<entry name="Artefacts/AncientExterminatusDeviceDescription" value=""/>
+	<entry name="Artefacts/Damage" value="<string name='Units/Neutral/Artefacts/Damage'/>"/>
+	<entry name="Artefacts/DamageDescription" value="Павялічвае шкоду вашых адзінак."/>
+	<entry name="Artefacts/Healing" value="<string name='Units/Neutral/Artefacts/Healing'/>"/>
+	<entry name="Artefacts/HealingDescription" value="Аднаўляе здароўе вашых адзінак кожны крок."/>
+	<entry name="Artefacts/Hitpoints" value="<string name='Units/Neutral/Artefacts/Hitpoints'/>"/>
+	<entry name="Artefacts/HitpointsDescription" value="Павялічвае здароўе вашых адзінак."/>
+	<entry name="Artefacts/Loyalty" value="<string name='Units/Neutral/Artefacts/Loyalty'/>"/>
+	<entry name="Artefacts/LoyaltyDescription" value="Павялічвае лаяльнасьць вашых гарадоў."/>
+	<entry name="Artefacts/Movement" value="<string name='Units/Neutral/Artefacts/Movement'/>"/>
+	<entry name="Artefacts/MovementDescription" value="Павялічвае рух вашых адзінак."/>
+	<entry name="Artefacts/Sight" value="<string name='Units/Neutral/Artefacts/Sight'/>"/>
+	<entry name="Artefacts/SightDescription" value="Павялічвае агляд вашых адзінак."/>
+	
+	<!-- Items -->
+	<entry name="BlightGrenade" value="<string name='Items/BlightGrenade'/>"/>
+	<entry name="BlightGrenadeDescription" value="<string name='Items/BlightGrenadeDescription'/>"/>
+	<entry name="BlindGrenade" value="<string name='Items/BlindGrenade'/>"/>
+	<entry name="BlindGrenadeDescription" value="<string name='Items/BlindGrenadeDescription'/>"/>
+	<entry name="CombatStimulant" value="<string name='Items/CombatStimulant'/>"/>
+	<entry name="CombatStimulantDescription" value="<string name='Items/CombatStimulantDescription'/>"/>
+	<entry name="FaolchusWing" value="<string name='Items/FaolchusWing'/>"/>
+	<entry name="FaolchusWingDescription" value="<string name='Items/FaolchusWingDescription'/>"/>
+	<entry name="ForbiddenKnowledge" value="<string name='Items/ForbiddenKnowledge'/>"/>
+	<entry name="ForbiddenKnowledgeDescription" value="<string name='Items/ForbiddenKnowledgeDescription'/>"/>
+	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
+	<entry name="JokaeroDigitalWeaponDescription" value="<string name='Items/JokaeroDigitalWeaponDescription'/>"/>
+	<entry name="LaurelsOfCommand" value="<string name='Items/LaurelsOfCommand'/>"/>
+	<entry name="LaurelsOfCommandDescription" value="<string name='Items/LaurelsOfCommandDescription'/>"/>
+	<entry name="PoweredBolas" value="<string name='Items/PoweredBolas'/>"/>
+	<entry name="PoweredBolasDescription" value="<string name='Items/PoweredBolasDescription'/>"/>
+	<entry name="StunGrenade" value="<string name='Items/StunGrenade'/>"/>
+	<entry name="StunGrenadeDescription" value="<string name='Items/StunGrenadeDescription'/>"/>
+	<entry name="TemporaryShield" value="<string name='Items/TemporaryShield'/>"/>
+	<entry name="TemporaryShieldDescription" value="<string name='Items/TemporaryShieldDescription'/>"/>
+
+	<entry name="AcquireTile" value="Набыць Плітку"/>
+	<entry name="AcquireTileDescription" value="Набывае новую плітку для горада. Будынкі льга ствараць толькі на набытых плітках. Кожная плітка патрабуе ўплыў для ўтрыманьня."/>
+	<entry name="Activate" value="Актываваць"/>
+	<entry name="AdeptusMechanicus/AggressionOverride" value="Пераазначэньне Агрэсіі"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/AggressionOverrideDescription" value="Павялічвае атакі абранай хаўруснай пяхоты Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/AggressionOverrideFlavor" value="Employing data-refined kill-canticle protocols, the Marshal ensures his Skitarii are driven into a state of heightened ferocity that sees their bloodstreams boil with combat hyperstimulants."/>
+	<entry name="AdeptusMechanicus/AggressorImperative" value="Імператыў Агрэсара"/>
+	<entry name="AdeptusMechanicus/AggressorImperativeDescription" value="Павялічвае рух, але зьніжае браню адзінак Дактрыны Імператыў. Кошт залежыць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/AggressorImperativeFlavor" value="The Skitarii feel the press of an invisible hand upon their minds as the Machine God drives them forward. Servos are pushed to their structural limits as fibre bundles fill with the boundless energy of the Motive Force and propel the faithful on an unstoppable crusade."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscience" value="Блаславеньне Амнінавукі"/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceDescription" value="Павялічвае трапнасьць у далёкім баі адзінак Сьпеваў Амнісіі. Кошт і эфектыўнасьць залежаць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="Those blessed enough to comprehend this blaring vox-prayer find their targeting reticules guided by the Omnissiah’s own vigilance."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="Сувязь Дадзеных Шырокага Сьпектру"/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Зьніжае страты маралі гэтай адзінікі і суседніх хаўрусных адзінак Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="A vehicle-mounted version of that carried by veteran Skitarii, the broad spectrum data-tether projects a Tech-Priest’s binharic blurts with such clarity it seems he is amongst the ranks of the Skitarii himself. Imperatives delivered via such information relays are more potent and reliable than any other."/>
+	<entry name="AdeptusMechanicus/BulwarkImperative" value="Імператыў Бастыён"/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeDescription" value="Павялічвае браню, але зьмяншае рух адзінак Дактрыны Імператыў. Кошт залежыць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/BulwarkImperativeFlavor" value="The warrior wisdom of ancient and experienced Reductors is force-loaded into the Skitarii’s minds. Each thrilling pulse of data locks microactuators into bracing positions, brings reserve power cells online and bestows a sensation of sacred invulnerability upon the Tech-Priests’ soldiers."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFist" value="Сьпеў Бязьлітаснага Кулака"/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistDescription" value="Павялічвае трапнасьць у блізкім баі адзінак Сьпеваў Амнісіі. Кошт і эфектыўнасьць залежаць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/ChantOfTheRemorselessFistFlavor" value="In spitting out a staccato chant to the Motive Force, the faithful warriors of the Cult Mechanicus are filled with merciless surety as well as intent."/>
+	<entry name="AdeptusMechanicus/CommandUplink" value="Каманда Паляпшэньня Сувязі"/>
+	<entry name="AdeptusMechanicus/CommandUplinkDescription" value="Зьніжае страты маралі гэтай адзінкі і суседніх хаўрусных адзінак Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/CommandUplinkFlavor" value="“You may feel fear, you may want to flee; but when your Magos can, with a thought, stop your limbs taking a single step back, well, then you fight anyway.”<br/>—Marshal Diktum"/>
+	<entry name="AdeptusMechanicus/ConquerorImperative" value="Імператыў Заваёўнік"/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeDescription" value="Павялічвае трапнасьць у блізкім баі адзінак Дактрыны Імператыў, але зьніжае ў далёкім. Кошт залежыць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/ConquerorImperativeFlavor" value="When the enemy close in, the Tech-Priests controlling each maniple inload Conqueror imperatives that boost the martial subroutines of their Skitarii minions and galvanise them into physical action at the expense of their more elaborate targeting programmes."/>
+	<entry name="AdeptusMechanicus/ControlEdict" value="Эдыкт Кантролю"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ControlEdictDescription" value="Выдаляе Дактрыну Імператыў малус з хаўруснай пяхоты ў радыусе дзеяньня."/>
+	<entry name="AdeptusMechanicus/ControlEdictFlavor" value="A Doctrina Imperative is hardly a subtle tool, disabling a soldier just as much as it enables them elsewhere. Yet, the attentions of an experienced Marshal can aid in overcoming the Imperative’s cruder commands, enabling the soldier to perform far above their nominal norms."/>
+	<entry name="AdeptusMechanicus/DataBlessedAutosermon" value="Аўтаказаньне Блаславёнае Дадзенымі"/> <!-- Tech-Priest Manipulus elite -->
+	<entry name="AdeptusMechanicus/DataBlessedAutosermonDescription" value="Адзінкі Сьпеваў Амнісіі у вобласьці атрымліваюць дасьледаваньні за забойствы ворагаў."/>
+	<entry name="AdeptusMechanicus/DataBlessedAutosermonFlavor" value="Struck with an infoload of revelation, truly blessed Tech-Priests will override the sacred canticles to deliver the Machine God’s adaptive wisdom."/>
+	<entry name="AdeptusMechanicus/ElectroShocked" value="Электрашок"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/ElectroShockedDescription" value="Аглушае варожую пяхоту або жахлівых стварэньняў."/>
+	<entry name="AdeptusMechanicus/ElectroShockedFlavor" value="The truly devout can send a sudden charge of the Motive Force pulsing through their numerous augmentations, stunning nearby foes."/>
+	<entry name="AdeptusMechanicus/EnrichedRounds" value="Узбагачаныя Раўнды"/> <!-- Skitarii Marshal elite -->
+	<entry name="AdeptusMechanicus/EnrichedRoundsDescription" value="Павялічвае шкоду абранай хаўруснай пяхотнай адзінкі Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/EnrichedRoundsFlavor" value="Sanctified with the Tri-fold Litany, each of these slugs has spent a decade in the oldest and most irradiated forge temple to certify their lethality. When the Marshal hands them out to his maniples, they know they must make every shot count."/>
+	<entry name="AdeptusMechanicus/GalvanicField" value="Гальванічнае Поле"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/GalvanicFieldDescription" value="Павялічвае бронепрабівальнасьць абранай хаўруснай адзінкі Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/GalvanicFieldFlavor" value="Using the Motive Force contained within a large galvanic cell, the Manipulus’s electropositors can infuse the weaponry of nearby allies with the underlying current of all life, carrying the Omnissiah sacred benedictions forward to cast all heretics down."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoul" value="Заклік Жалезнай Душы"/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulDescription" value="Зьмяншае страты маралі адзінак Сьпеваў Амнісіі. Кошт і эфектыўнасьць залежаць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/IncantationOfTheIronSoulFlavor" value="Raising their voices in binharic praise, the Disciples of the Machine God bolster their spirits with the surety of iron."/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMight" value="Заклік да Моцы Машыны"/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightDescription" value="Павялічвае шкоду ў блізкім баі адзінак Сьпеваў Амнісіі. Кошт і эфектыўнасьць залежаць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/InvocationOfMachineMightFlavor" value="The Tech-Priests lead their minions in a binharic prayer that sends miraculous strength surging through tendons, wires and pistons."/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancer" value="Літаньне Электраманта"/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerDescription" value="Наносіць шкоду абранай варожай адзінцы. Атакі і кошт залежаць ад колькасьці закранутых адзінак Сьпеваў Амнісіі (да 10)."/>
+	<entry name="AdeptusMechanicus/LitanyOfTheElectromancerFlavor" value="Summoning the spark of the Machine God’s divinity that burns within them, the Omnissiah’s faithful manifest blazing auras of energy that lay low the unbeliever."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCult" value="Лорд Культу Машын"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultDescription" value="Павялічвае трапнасьць суседніх машын Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/LordOfTheMachineCultFlavor" value="“You may say, it is impossible for a man to become like the Machine. And I would reply, that only the smallest mind strives to comprehend its limits.”<br/>—Fabricator General Kane"/>
+	<entry name="AdeptusMechanicus/MasterOfMachines" value="Майстар Машын"/>
+	<entry name="AdeptusMechanicus/MasterOfMachinesDescription" value="Аднаўляе здароўе абранай хаўруснай машыне або фартыфікацыі Адэптус Механікус."/>
+	<entry name="AdeptusMechanicus/MasterOfMachinesFlavor" value="“Our enemies may rest but rust never sleeps.”<br/>—Tech-Priest Jung, Forge World Gehenna"/>
+	<entry name="AdeptusMechanicus/MechanicusLocum" value="Механікус Локум"/> <!-- Tech-Priest Domunis elite -->
+	<entry name="AdeptusMechanicus/MechanicusLocumDescription" value="Павялічвае вытворчасьць уплыву і дасьледаваньняў."/>
+	<entry name="AdeptusMechanicus/MechanicusLocumFlavor" value="Every congregation of Tech-Priests comprises masters of arcane knowledge—zealous leaders of man and machine."/>
+	<entry name="AdeptusMechanicus/PowerSurge" value="Павышэньне Магутнасьці"/> <!-- Faction ability -->
+	<entry name="AdeptusMechanicus/PowerSurgeDescription" value="Павялічвае вытворчасьць будынкаў на абранай плітцы, за выняткам штабкватэры."/>
+	<entry name="AdeptusMechanicus/PowerSurgeFlavor" value="“Throw open the transonic oscillator and escalate the dereactor another three points. I require those forges running at optimal efficiency!”<br/>—Archmagos Dyatskin, shortly before the loss of Arklis Hive Primus"/>
+	<entry name="AdeptusMechanicus/ProtectorImperative" value="Імператыў Абаронца"/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeDescription" value="Павялічвае трапнасьць у далёкім баі адзінак Дактрыны Імператыў, але зьніжае ў блізкім. Кошт залежыць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/ProtectorImperativeFlavor" value="The Protector imperative is codified to yield the maximum spectra of hard data. Extra power is fed into narrow-band optics and rangefinders connected directly to the Skitarii’s priority programming as the holy warriors’ guns become an extension of themselves."/>
+	<entry name="AdeptusMechanicus/RadSaturation" value="Радыянасычанасьць"/>
+	<entry name="AdeptusMechanicus/RadSaturationDescription" value="Наносіць шкоду кожны крок суседняй варожай пяхоце або жахліваму стварэньню."/>
+	<entry name="AdeptusMechanicus/RadSaturationFlavor" value="Harnessing the destructive energies of forge worlds within their weaponry, certain Skitarii are so soaked in radiation that even to approach them is to confer a death sentence upon yourself. Victory for them is pyrrhic, as this radiation burns through even their heavy armour plate, slowly poisoning them to death even as their carbines bring about the (much quicker) demise of their enemies."/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobot" value="Перапраграмаваць Робата · Каштэляна"/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobotDescription" value="Бярэ пад кантроль варожага абранага Робата · Каштэляна."/>
+	<entry name="AdeptusMechanicus/ReprogramKastelanRobotFlavor" value="Since the aftermath of Warmaster Horus’ rebellion the Legio Cybernetica’s robots have been controlled completely by their masters – not by the bio-plastic cerebra and nerve-like tendril webs of Mechanicum constructs, but by sanctified doctrina wafers. No bigger than the cards of the Emperor’s Tarot, these slivers of wetware are entrusted to the Cybernetica Datasmiths that accompany the robot maniples to war. Inserted into the dataslot hidden behind each robot’s chestplate, the wafer’s command protocol will dictate every iota of the host’s behaviour, usually optimising its ability to destroy its foes in a spectacular fashion."/>
+	<entry name="AdeptusMechanicus/Scryerskull" value="Чэрап Празорцы"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/ScryerskullDescription" value="Паказвае абраную плітку і суседнія плітцы."/>
+	<entry name="AdeptusMechanicus/ScryerskullFlavor" value="The Adeptus Mechanicus take the assessment and exploitation of battlefield resources very seriously indeed – so much so that many of them continue their work in this role beyond the point of death."/>
+	<entry name="AdeptusMechanicus/ServoSkullUplink" value="Сувязь з Сэрвачэрапам"/> <!-- Skitarii Marshal ability -->
+	<entry name="AdeptusMechanicus/ServoSkullUplinkDescription" value="Павялічвае шкоду хаўруснай пяхоты Адэптус Механікус у радыусе дзеяньня."/>
+	<entry name="AdeptusMechanicus/ServoSkullUplinkFlavor" value="It is a great honour for a pious Imperial servant or tech-adept to be converted into a servo skull after death—to have their skull augmented with anti-grav and a rudimentary machine intelligence. Optically-augmented servo skulls like those possessed by a Skitarii Marshal are useful for reconnaissance and targeting, hugely reducing the chance of wasted shots."/>
+	<entry name="AdeptusMechanicus/Shroudpsalm" value="Саван Псалмоў"/>
+	<entry name="AdeptusMechanicus/ShroudpsalmDescription" value="Павялічвае зьніжэньне шкоды ў далёкім баі адзінкам Сьпеваў Амнісіі. Кошт і эфектыўнасьць залежаць ад колькасьці закранутых адзінак (да 10)."/>
+	<entry name="AdeptusMechanicus/ShroudpsalmFlavor" value="Robot, servitor and priest shift their binharic emissions into the visible spectra, the static pouring from their vox-grilles manifesting as an electromagnetic storm that hides them from the foe."/>
+	<entry name="AdeptusMechanicus/TechAdept" value="Тэхадэпт"/> <!-- Tech-Priest Manipulus ability -->
+	<entry name="AdeptusMechanicus/TechAdeptDescription" value="<string name='Actions/AdeptusMechanicus/MasterOfMachinesDescription'/>"/>
+	<entry name="AdeptusMechanicus/TechAdeptFlavor" value="Repairing war engines damaged in the crusade is a holy task."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCode" value="Галасы ў Кодзе"/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Павялічвае страты маралі суседніх варожых адзінак."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="Closing with a Sicarian Infiltrator is a mistake—their augmented craniums broadcast a brutally disruptive audiovisual assault, causing enemies to fall deafened and blinded; battles are often decided before even a single kill is confirmed."/>
+	<entry name="AdeptusMechanicus/WrathOfMars" value="Гнеў Марса"/> <!-- Tech-Priest Dominus ability -->
+	<entry name="AdeptusMechanicus/WrathOfMarsDescription" value="Павялічвае шкоду Тэхнажраца-Домінуса."/>
+	<entry name="AdeptusMechanicus/WrathOfMarsFlavor" value="None can smite the blasphemer like those from Mars, for theirs is the most righteous of zeal. All praise the glory of the Machine God!"/>
+	<entry name="Agile" value="Спрытнасьць"/>
+	<entry name="AgileDescription" value="Павялічвае рух, але памяншае атаку."/>
+	<entry name="AgileFlavor" value="Size doesn’t preclude speed. Look at the incredible manoeuvrability of the Imperium’s Lightning Fighter. Or take the Tyranid’s Hierodule. Instead of lumbering forward like a lumpen Ogryn, their focus and grace is closer to that of a Harlequin. A hungry Harlequin the size of a house, admittedly, with acid drool and scytheblade arms the length of a Land Raider, that is. But elegant all the same."/>
+	<entry name="Appear" value="З'явіцца"/>
+	<entry name="AmmoRunt" value="Карантышка з Боепрыпасамі"/>
+	<entry name="AmmoRuntDescription" value="Павялічвае трапнасьць далёкага бою."/>
+	<entry name="AmmoRuntFlavor" value="An ammo runt is a heavily overburdened Gretchin who carries extra ammunition for his master."/>
+	<entry name="ArmoriumCherub" value="Браняваны Херувім"/>
+	<entry name="ArmoriumCherubDescription" value="Павялічвае трапнасьць."/>
+	<entry name="ArmoriumCherubFlavor" value="Cherubim are diminutive flying cyborg constructs created to assist the Emperor's servants, be they scribe or soldier. Among the Adeptus Astartes they are rarely seen outside of the Librarius, save for those few that relay targeting data and carry spare ammunition for Devastator Squads."/>
+	<entry name="AssaultDoctrine" value="Ужыць Дактрыну Штурма"/>
+	<entry name="AssaultDoctrineDescription" value="Тактыка Падзелу, што павялічвае трапнасьць Штурмавых Касьмічных Марынаў."/>
+	<entry name="AssaultDoctrineFlavor" value="“Where there is uncertainty, I shall bring light<br/>Where there is doubt, I shall sow faith.<br/>Where there is shame, I shall point atonement.<br/>Where there is rage, I shall show its course.<br/>My word in the soul shall be as my bolter in the field.”<br/>  — Litany of Devotion, traditional"/>
+	<entry name="AstraMilitarum/ProjectedVoidShield" value="Праекцыйны Пустэчны Шчыт"/>
+	<entry name="AstraMilitarum/ProjectedVoidShieldDescription" value="Павялічвае зьмяншэньне шкоды ад далёкага агню для адзінак у радыусе дзеяньня."/>
+	<entry name="AstraMilitarum/ProjectedVoidShieldFlavor" value="The Void Shield is the peak Imperial ranged-defense technology and is normally only mounted on Titans and Superheavy Tanks because of its immense power needs. This variant uses the technology to defend a wide area, though it is useless against melee attacks."/>
+	<entry name="AstraMilitarumAircraftProductionEdict" value="Загад Флоту"/>
+	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Эдыкт, які павялічвае гарадзкую вытворчасьць Пустэчнага Порта."/>
+	<entry name="AstraMilitarumAircraftProductionEdictFlavor" value="Edict, Departmento Munitorum: to all voidport overseers. Labourer sleep cycles are halved until further notice, production targets are raised. Arbitrators are being deployed to all sectors to ensure compliance."/>
+	<entry name="AstraMilitarumDefenseEdict" value="Аплот Імператара"/>
+	<entry name="AstraMilitarumDefenseEdictDescription" value="Эдыкт, які павялічвае браню хаўрусных адзінак у горадзе."/>
+	<entry name="AstraMilitarumDefenseEdictFlavor" value="Edict, Astra Militarum: to all General Staff, Regimental Commanders, Company Commanders. All units are to be kept under or behind protective cover at all times, even during R&R. Additional resource expenditure for defense repairs is authorised."/>
+	<entry name="AstraMilitarumEnergyEdict" value="Запуск на Гарачую"/>
+	<entry name="AstraMilitarumEnergyEdictDescription" value="Эдыкт, які павялічвае вытворчасьць энергіі ад Іянізатараў Плазмы ў горадзе."/>
+	<entry name="AstraMilitarumEnergyEdictFlavor" value="Edict, Departmento Munitorum: to all power unit overseers. Safeguards are to be removed on all plasma ionisers; the labour Corps has been mandated to replenish manpower depleted by resulting meltdowns without further authorisation."/>
+	<entry name="AstraMilitarumFoodEdict" value="Агранамічны Ўзрост"/>
+	<entry name="AstraMilitarumFoodEdictDescription" value="Эдыкт, які павялічвае вытворчасьць ежы на Фермах Сойлена ў горадзе."/>
+	<entry name="AstraMilitarumFoodEdictFlavor" value="Edict, Departmento Munitorum: to all Imperial subjects. Personal rations are reduced with immediate effect. Arbitrators have been dispatched to farms, granaries and storehouses to ensure compliance."/>
+	<entry name="AstraMilitarumGrowthEdict" value="Ліцэнзіі на Размнажэньне"/>
+	<entry name="AstraMilitarumGrowthEdictDescription" value="Эдыкт, які павялічвае ўзрост насельніцтва ў горадзе."/>
+	<entry name="AstraMilitarumGrowthEdictFlavor" value="Edict, Departmento Munitorum: to all registered insula keepers. For the period of this Edict, connubial encounters are encouraged. Also, to all Imperial storehouse overseers. For the period of this Edict, anaphrodisiac dosages are to be eliminated from both the food and water supply."/>
+	<entry name="AstraMilitarumInfantryProductionEdict" value="Натхняльная Падрыхтоўка"/>
+	<entry name="AstraMilitarumInfantryProductionEdictDescription" value="Эдыкт, які павялічвае хуткасьць падрыхтоўкі гарадзкіх Імперскіх Жаўнерняў."/>
+	<entry name="AstraMilitarumInfantryProductionEdictFlavor" value="Edict, Astra Militarum: to all Commissars and recruitment officers. Volunteering sweeps are to be doubled, the Emperor's Mercy is to be applied to all recusants."/>
+	<entry name="AstraMilitarumInfluenceEdict" value="Вера ў Імператара"/>
+	<entry name="AstraMilitarumInfluenceEdictDescription" value="Эдыкт, які павялічвае вытворчасьць уплыву ў гарадзкіх Станцыях Кагітацыі."/>
+	<entry name="AstraMilitarumInfluenceEdictFlavor" value="Edict, Adeptus Ministorum: All unassigned workers are hereby ordered to report to the nearest Mission, Shrine or Schola Progenium to assist in spreading the word of the Emperor. Pontifices will be on hand for mandatory heresy-testing."/>
+	<entry name="AstraMilitarumLoyaltyEdict" value="Трансьляцыя Прапаганды"/>
+	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Эдыкт, які павялічвае вытворчасьць лаяльнасьці ў гарадзкіх Санктум Імперыаліс."/>
+	<entry name="AstraMilitarumLoyaltyEdictFlavor" value="Edict, Adeptus Arbites: to all Commissars, Arbitrators and Enforcers: a period of increased Imperial communication has been commissioned. During this time, insula-to-insula searches are now authorised in order to ensure maximum devotion to the Emperor. Chasteners are to apply the Lex Imperialis rigorously."/>
+	<entry name="AstraMilitarumOreEdict" value="Квоты на Здабычу"/>
+	<entry name="AstraMilitarumOreEdictDescription" value="Эдыкт, які павялічвае вытворчасьць руды ў гарадзкіх Экстрактарах Руды."/>
+	<entry name="AstraMilitarumOreEdictFlavor" value="Edict, Departmento Munitorum: to all manufactory overseers: servitors are required to be run continuously for this cycle. Burnouts / fatalities are to be replaced from the lower ranks of the penal and labour corps."/>
+	<entry name="AstraMilitarumPsykerProductionEdict" value="Фокус на Ковене"/>
+	<entry name="AstraMilitarumPsykerProductionEdictDescription" value="Эдыкт, які павялічвае хуткасьць падрыхтоўкі гарадзкіх Ковенаў Псайкераў."/>
+	<entry name="AstraMilitarumPsykerProductionEdictFlavor" value="Edict, Adeptus Astra Telepathica: to the Coven Masters and magisters of the Scholastia Psykana. Quality thresholds for recruitment have been lowered; summary executions should thus be minimal, blanks excepted. Assign all recruits to a Sanctioned Psyker immediately."/>
+	<entry name="AstraMilitarumResearchEdict" value="Адкрыцьцё Амнісіі"/>
+	<entry name="AstraMilitarumResearchEdictDescription" value="Эдыкт, які павялічвае гарадзкія дасьледаваньні Афіцыё Тактыка."/>
+	<entry name="AstraMilitarumResearchEdictFlavor" value="Edict, Adeptus Mechanicus: to all Tech-Priests. During this cycle, the Quest for Knowledge takes precedence. Studies of STC designs, exploratory missions are to be encouraged. Praise the Omnissiah!"/>
+	<entry name="AstraMilitarumVehicleProductionEdict" value="Абрады Духаў Машын"/>
+	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Эдыкт, які павялічвае вытворчасьць гардзкіх Мануфакторумаў."/>
+	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="Edict, Adeptus Mechanicus: to all Manufactorum Magi. Production quotas for this period are raised. Personal projects must be put on hold during this time. Additional resources / unguents will be provided for performance of the machine rites. Praise the Omnissiah!"/>
+	<entry name="Attack" value="Атакаваць"/>
+	<entry name="AuraOfDiscipline" value="Аўра Дысцыпліны"/>
+	<entry name="AuraOfDisciplineDescription" value="Павялічвае трапнасьць Лорда Камісара і суседняй пяхоты Астра Мілітарум."/>
+	<entry name="AuraOfDisciplineFlavor" value="Should discipline or morale falter, it is the task of the Commissar to take whatever steps necessary to restore order, and to do so in the absolute knowledge that his actions are just. Under the steely gaze of such a man, Imperial Guardsmen must be inspired to deeds they never believed possible."/>
+	<entry name="AuraOfFear" value="Аўра Страху"/>
+	<entry name="AuraOfFearDescription" value="Кожны крок зьніжае мараль суседніх варожых адзінак."/>
+	<entry name="AuraOfFearFlavor" value="Some beings are so monstrous or alien that they can force their foes to recoil in horror."/>
+	<entry name="AwakenTheMachine" value="Абуджэньне Машыны"/>
+	<entry name="AwakenTheMachineDescription" value="Павялічвае трапнасьць далёкага бою хаўруснай машыны ці фартыфікацыі."/>
+	<entry name="AwakenTheMachineFlavor" value="“With push of Button fire the Engine<br/>And spark Turbine into life…<br/>Toll the Great Bell Thrice!<br/>Sing Praise to the<br/>God of All Machines”<br/>  — Catechism of the Autoculus of Mars"/>
+	<entry name="BlessingsOfTheOmnissiah" value="Багаславеньні Амнісіі"/>
+	<entry name="BlessingsOfTheOmnissiahDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
+	<entry name="BlessingsOfTheOmnissiahFlavor" value="“Thus do we invoke the Machine God.<br/>Thus do we make whole that which was sundered.”<br/>  — Hymn of reforging"/>
+	<entry name="BolsterDefences" value="Узмацніць Абарону"/>
+	<entry name="BolsterDefencesDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою на абранай плітцы."/>
+	<entry name="BolsterDefencesFlavor" value="“Every position must be held to the last man: there must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight on to the end.”<br/>  — Imperial Warmaster Solon"/>
+	<entry name="BolterDrill" value="Ужыць Прарэзьлівыя Болтары"/>
+	<entry name="BolterDrillDescription" value="Тактыка Падзелу, што павялічвае трапнасьць болтарнай зброі."/>
+	<entry name="BolterDrillFlavor" value="“I believe in three tenets of battle—firepower, firepower, and more firepower.”<br/>  — Kardan Stronos, Chapter Master of the Iron Hands"/>
+	<entry name="BringItDown" value="“Зьнішчыце Іх!”"/>
+	<entry name="BringItDownDescription" value="Павялічвае бронепрабівальнасьць Лорда Камісара і суседняй хаўруснай пяхоты Астра Мілітарум."/>
+	<entry name="BringItDownFlavor" value="Enemy war machines and alien monstrosities are equally high priority targets for the commanders of the Imperial Guard."/>
+	<entry name="BuyHint" value="<style name='Title'/>Купіць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="CanticlesOfWrath" value="Песьні Гневу"/>
+	<entry name="CanticlesOfWrathDescription" value="Аднаўляе мараль гэтай адзінкі і суседніх хаўрусных адзінак і зьніжае мараль суседніх варожых адзінак."/>
+	<entry name="CanticlesOfWrathFlavor" value="Amplified through his vox grill, the Chaplain's bellicose rhetoric and canticles of wrath echo like thunder across the battlefield, filling the Space Marines with new strength while causing the enemy to cower in terror."/>
+	<entry name="Capture" value="Захапіць"/>
+	<entry name="ChaosSpaceMarines/BoonOfMutation" value="Дарунак Мутацыі"/>
+	<entry name="ChaosSpaceMarines/BoonOfMutationDescription" value="Абраны суседні хаўрусны атрад Чэмпіёнаў Хаосу атрымлівае адсутны адблакаваны Дарунак Хаосу."/>
+	<entry name="ChaosSpaceMarines/BoonOfMutationFlavor" value="The psyker lays his hands upon a warrior marked for glory, channeling the warping power of Chaos into his body until his flesh wrenches and flows."/>
+	<entry name="ChaosSpaceMarines/DarkGlory" value="Цёмная Хвала"/>
+	<entry name="ChaosSpaceMarines/DarkGloryDescription" value="Павялічвае зьніжэньне шкоды."/>
+	<entry name="ChaosSpaceMarines/DarkGloryFlavor" value="Some champions of Chaos are so blessed by their patron deity that they are supernaturally protected from harm. They might be surrounded by a powerful, crackling shield of energy, or else bullets aimed at them may be strangely turned aside just before they strike. In either case, it is clear that the Dark Gods are watching over them."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolution" value="Адкладзенае Дараваньне"/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionDescription" value="Павялічвае непаражальнае зьніжэньне шкоды суседніх хаўрусных адзінак Хаосу."/>
+	<entry name="ChaosSpaceMarines/DeferredAbsolutionFlavor" value="The bowed figures of the Dark Disciples incessantly shriek the names of the Chaos Gods, calling for their protection. Typically fickle, the Gods are prone to bless those nearby instead, leaving the desperate Disciples as frail as ever."/>
+	<entry name="ChaosSpaceMarines/ExaltedStrike" value="Узвышаны Ўдар"/>
+	<entry name="ChaosSpaceMarines/ExaltedStrikeDescription" value="Зьдзяйсьняе руйнавальную атаку Грымотным Молатам супраць абранай варожай адзінцы, здароўе якой ніжэйшае за 50%."/>
+	<entry name="ChaosSpaceMarines/ExaltedStrikeFlavor" value="To face a Chaos Lord in battle isn’t just to face an elite Adeptus Astartes, or a veteran of ten thousand years of war—it’s to face the best of those few survivors, one also blessed by the gods. After ten millennia, they well know weakness and how to exploit it."/>
+	<entry name="ChaosSpaceMarines/GiftOfContagion" value="Дарунак Заражэньня"/>
+	<entry name="ChaosSpaceMarines/GiftOfContagionDescription" value="Наносіць шкоду абранай пяхоце або жахліваму стварэньню ворага."/>
+	<entry name="ChaosSpaceMarines/GiftOfContagionFlavor" value="The psyker gathers clouds of contagion and rot-flies about his enemies, granting them Father Nurgle's blessing."/>
+	<entry name="ChaosSpaceMarines/IchorBlood" value="Гнойная Кроў"/>
+	<entry name="ChaosSpaceMarines/IchorBloodDescription" value="Ворагі атрымліваюць шкоду, калі атакуюць у блізкім баі."/>
+	<entry name="ChaosSpaceMarines/IchorBloodFlavor" value="It is not blood that runs through this champion's veins, but searing ichor, molten brass, psychadelic narcotics, virulent pus or some such vile and deadly substance."/>
+	<entry name="ChaosSpaceMarines/IconOfDespair" value="Абраз Роспачы"/>
+	<entry name="ChaosSpaceMarines/IconOfDespairDescription" value="Абраз Хаосу павялічвае зьніжэньне шкоды ў блізкім баі ад жахлівых ворагаў адзінкам з Пазнакай Нургла."/>
+	<entry name="ChaosSpaceMarines/IconOfDespairFlavor" value="This icon is surrounded by a miasma of disease and hopelessness, turning the thoughts of any nearby foes to the grisly and inevitable deaths that await them."/>
+	<entry name="ChaosSpaceMarines/IconOfExcess" value="Абраз Празьмернасьцяў"/>
+	<entry name="ChaosSpaceMarines/IconOfExcessDescription" value="Абраз Хаосу павялічвае зьніжэньне шкоды адзінкам з Пазнакай Слаанэша."/>
+	<entry name="ChaosSpaceMarines/IconOfExcessFlavor" value="Depravity hangs about this icon like cloying musk, driving those below it into an orgy of sensation-seeking that can only be halted by the total destruction of their bodies."/>
+	<entry name="ChaosSpaceMarines/IconOfFlame" value="Абраз Полымя"/>
+	<entry name="ChaosSpaceMarines/IconOfFlameDescription" value="Абраз Хаосу дае адзінцы з Пазнакай Тзіінча атаку, якая наносіць душы агнявую шкоду кожны крок”."/>
+	<entry name="ChaosSpaceMarines/IconOfFlameFlavor" value="Coruscating energies surround the icon, swathing the weapons of the devout with mutagenic flames."/>
+	<entry name="ChaosSpaceMarines/IconOfVengeance" value="Абраз Помсты"/>
+	<entry name="ChaosSpaceMarines/IconOfVengeanceDescription" value="Абраз Хаосу дае бясстрашша адзінкам з любой Пазнакай Хаосу."/>
+	<entry name="ChaosSpaceMarines/IconOfVengeanceFlavor" value="These icons shine brightly in the Warp, gathering the malefic energies of Chaos to those who bear them and spurring them on to acts of suicidal brabery in their quest to seize victory from the minions of the Corpse-god."/>
+	<entry name="ChaosSpaceMarines/IconOfWrath" value="Абраз Гневу"/>
+	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="Абраз Хаосу павялічвае шкоду адзінак з Пазнакай Кхорна."/>
+	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="The red-hot curses of the Blood God resound in the minds of those in the shadow of this icon, compelling them to hurl themselves into the fray with wild abandon."/>
+	<entry name="ChaosSpaceMarines/Incursion" value="Уварваньне"/>
+	<entry name="ChaosSpaceMarines/IncursionDescription" value="Часова заклікае выпадковага Дэмана."/>
+	<entry name="ChaosSpaceMarines/IncursionFlavor" value="The psyker opens a portal to the Realm of Chaos, allowing the warp's daemonic denizens to spill forth into reality."/>
+	<entry name="ChaosSpaceMarines/InfernalPower" value="Пякельная Моц"/>
+	<entry name="ChaosSpaceMarines/InfernalPowerDescription" value="Павялічвае трапнасьць і шкоду гэтай адзінцы і суседніх хаўрусных адзінак Хаосу."/>
+	<entry name="ChaosSpaceMarines/InfernalPowerFlavor" value="The fell power of the immaterium flows from the psyker, imbuing the Daemons that reside within his followers' bodies with even greater ferocity."/>
+	<entry name="ChaosSpaceMarines/LoathsomeAura" value="Агідная Аўра"/>
+	<entry name="ChaosSpaceMarines/LoathsomeAuraDescription" value="Павялічвае непаражальнае зьніжэньне шкоды суседніх хаўрусных адзінак Хаосу."/>
+	<entry name="ChaosSpaceMarines/LoathsomeAuraFlavor" value="A brutal edifice, raised up to destabilise local reality by the forces of Chaos, the Noctilith Crown brings the Warp closer, empowering those attuned to the Dark Gods."/>
+	<entry name="ChaosSpaceMarines/MalevolentLocus" value="Локус Зла"/>
+	<entry name="ChaosSpaceMarines/MalevolentLocusDescription" value="Кожны крок наносіць шкоду варожым псайкерам, якія не належаць да Хаосу."/>
+	<entry name="ChaosSpaceMarines/MalevolentLocusFlavor" value="By this twisted construct, the whispers of the Warp are amplified, assaulting the minds of enemy psykers constantly. Few emerge unscathed from the trial."/>
+	<entry name="ChaosSpaceMarines/MarkOfKhorne" value="Пазнака Кхорна"/>
+	<entry name="ChaosSpaceMarines/MarkOfKhorneDescription" value="Пазнака Хаосу павялічвае атаку хаўруснай пяхоты Хаосу, за выняткам псайкераў."/>
+	<entry name="ChaosSpaceMarines/MarkOfKhorneFlavor" value="The Mark of Khorne is bestowed only upon those whose relentless rage and boundless ferocity pays due homage to the Blood Good's own. To such disciples, Khorne grants an unholy wrath that burns as hot as the stars."/>
+	<entry name="ChaosSpaceMarines/MarkOfNurgle" value="Пазнака Нургла"/>
+	<entry name="ChaosSpaceMarines/MarkOfNurgleDescription" value="Пазнака Хаосу павялічвае здароўе хаўруснай пяхоты Хаосу."/>
+	<entry name="ChaosSpaceMarines/MarkOfNurgleFlavor" value="Nurgle's blessing manifests not only as a suite of virulent plagues and diseases, but also as the inhuman constitution needed to survive them."/>
+	<entry name="ChaosSpaceMarines/MarkOfSlaanesh" value="Пазнака Слаанэша"/>
+	<entry name="ChaosSpaceMarines/MarkOfSlaaneshDescription" value="Пазнака Хаосу павялічвае рух хаўруснай пяхоты Хаосу."/>
+	<entry name="ChaosSpaceMarines/MarkOfSlaaneshFlavor" value="The devotees of Slaanesh have their senses and reactions heightened to a supernatural degree, all the better to drink in the extreme, multifaceted stimuli of the battlefield. A warrior gifted in this manner will move with uncanny grace and speed, his blade lashing out like the tongue of a serpent as he revels in the ugly spectacle of death."/>
+	<entry name="ChaosSpaceMarines/MarkOfTzeentch" value="Пазнака Тзіінча"/>
+	<entry name="ChaosSpaceMarines/MarkOfTzeentchDescription" value="Пазнака Хаосу павялічвае зьніжэньне шкоды хаўруснай пяхоты Хаосу."/>
+	<entry name="ChaosSpaceMarines/MarkOfTzeentchFlavor" value="Those dedicated to Tzeentch enjoy the protection and prescience of the Master of Manipulation."/>
+	<entry name="ChaosSpaceMarines/MasterOfMechanisms" value="Майстар Механізмаў"/>
+	<entry name="ChaosSpaceMarines/MasterOfMechanismsDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
+	<entry name="ChaosSpaceMarines/MasterOfMechanismsFlavor" value="Despite their array of weaponry, only a Khornate fool would put a Warpsmith directly into battle, when he or she could be better placed repairing and rebinding their Daemon Engine charges."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/Mechatendrils" value="Мехатэндрылы"/>
+	<entry name="ChaosSpaceMarines/MechatendrilsFlavor" value="Reminiscent of the servo-harness worn by the Techmarines of the Adeptus Astrates, these writhing tentacles are worn by—or even implanted into—Chaos Warpsmiths."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/CultistSacrifice" value="Ахвяраваньне Культыста"/>
+	<entry name="ChaosSpaceMarines/CultistSacrificeDescription" value="Павялічвае хуткасьць узросту насельніцтва абранага хаўруснага горада Касьмічных Марынаў Хаосу за кошт ахвяры адзінкі."/>
+	<entry name="ChaosSpaceMarines/CultistSacrificeFlavor" value="So fervent are the cultists of Chaos but so weak their martial prowess, that the gods enjoy their demise as much as their life—more so, perhaps, given the blessings they bestow at their sacrifice."/>
+	<entry name="ChaosSpaceMarines/Daemonforge" value="Кузьня Дэманаў"/>
+	<entry name="ChaosSpaceMarines/DaemonforgeDescription" value="Ахвяруе здароўем дзеля павелічэньня шкоды і прабіваньня брані."/>
+	<entry name="ChaosSpaceMarines/DaemonforgeFlavor" value="The Daemon Engines of the Chaos Space Marines are driven by a fathomless hatred born of the warp."/>
+	<entry name="ChaosSpaceMarines/DirgeCaster" value="Заклінальнік Паніхіды"/>
+	<entry name="ChaosSpaceMarines/DirgeCasterDescription" value="Не дае суседнім варожым адзінкам зьдзяйсьняць атакі назіральніка."/>
+	<entry name="ChaosSpaceMarines/DirgeCasterFlavor" value="This device emits a series of terrifying wails, screams and howls that demoralise and confuse enemies who hear them."/>
+	<entry name="ChaosSpaceMarines/InfernalIndustry" value="Пякельная Прамысловасьць"/>
+	<entry name="ChaosSpaceMarines/InfernalIndustryDescription" value="Павялічвае здабычу энергіі і руды."/>
+	<entry name="ChaosSpaceMarines/InfernalIndustryFlavor" value="A Warpsmith is an unparalleled master of technology, without the ethical or historical constraints of their erstwhile peers in the Mechanicum. If they can increase a facility’s functioning at the cost of a few hundred lives, they will."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/LasherTendrils" value="Сьцяна Церняў"/>
+	<entry name="ChaosSpaceMarines/LasherTendrilsDescription" value="Зьніжае атакі блізкага бою суседніх варожых адзінак."/>
+	<entry name="ChaosSpaceMarines/LasherTendrilsFlavor" value="These metallic tendrils entrap their prey in an iron grip."/>
+	<entry name="ChaosSpaceMarines/Possession" value="Апантанасьць"/>
+	<entry name="ChaosSpaceMarines/PossessionDescription" value="Забойства варожых адзінак ператварае іх у хаўрусныя Параджэньняў Хаосу."/>
+	<entry name="ChaosSpaceMarines/PossessionFlavor" value="The psyker blasts away their enemy's soul so that the spiritless shell left behind can be possessed by a Daemon, who quickly transforms it into a more pleasing form."/>
+	<entry name="ChaosSpaceMarines/PrinceOfChaos" value="Прынц Хаосу"/>
+	<entry name="ChaosSpaceMarines/PrinceOfChaosDescription" value="Павялічвае трапнасьць гэтай адзінцы і суседніх хаўрусных адзінак Хаосу."/>
+	<entry name="ChaosSpaceMarines/PrinceOfChaosFlavor" value="Little else could more inspire a warrior of Chaos than to see a Daemon Prince—once a mortal just like them, now nearer to a God—fighting alongside them."/>
+	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergy" value="Рэзервуар Дэманічнай Энергіі"/>
+	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyDescription" value="Зьмяншае час перазарадкі Ўварваньня для суседніх хаўрусных Майстараў Апантанасьці."/>
+	<entry name="ChaosSpaceMarines/ReservoirOfDaemonicEnergyFlavor" value="Venomcrawlers are uniquely valued both off and on the battlefield. Not only can their repositories of stored warp energy be siphoned in order to create fresh Daemon Engines, but they can be used in the thick of combat to weaken the fabric of reality. Masters of Possession are particularly adept at drawing upon this reservoir to lure the daemonic servants of the Chaos Gods into existence. At battle's end these Daemons are hastily consumed by the Venomcrawler, their essences used to replenish its depleted warp stores."/>
+	<entry name="ChaosSpaceMarines/RiteOfBlood" value="Абрад Крыві"/>
+	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="Павялічвае вытворчасьць адзінак у горадзе за кошт ахвяры насельніцтва Кхорну."/>
+	<entry name="ChaosSpaceMarines/RiteOfBloodFlavor" value="Khorne may have other, minor, traits—a certain nobility and simplicity of war—but his lust for death and blood outweighs them by far. Rites in his name bring not only his blessing, but also increase the work rate of the slave populace, in their terror that they could be next."/>
+	<entry name="ChaosSpaceMarines/RiteOfChange" value="Абрад Зьмен"/>
+	<entry name="ChaosSpaceMarines/RiteOfChangeDescription" value="Павялічвае вытворчасьць Варп-Кузьняў і дасьледаваньняў Архіва Шляхоў у горадзе за кошт ахвяры насельніцтва Тзіінчу."/>
+	<entry name="ChaosSpaceMarines/RiteOfChangeFlavor" value="Invoking the Changer’s name is highly risky—few know what he will do to further his endless plans, or the curses he brings if he is distracted to no purpose. After a Rite of Change, some mutate, some disappear, some are embedded alive into the city walls—but always something is learned."/>
+	<entry name="ChaosSpaceMarines/RiteOfPestilence" value="Абрад Мору"/>
+	<entry name="ChaosSpaceMarines/RiteOfPestilenceDescription" value="Павялічвае вытворчасьць ежы Рэндэраў і хуткасьць узросту ў горадзе за кошт ахвяры насельніцтва Нурглу."/>
+	<entry name="ChaosSpaceMarines/RiteOfPestilenceFlavor" value="A Rite of Pestilence doesn’t explicitly sacrifice to Nurgle—it merely invites his blessing upon your people. Given the virulence of Nurgle’s diseases—the Rot, the Chortling Murrain, the Oozing Pox—many will die of these blessings, in his name. Many others will live with them and burgeon with plague-ridden fecundity."/>
+	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasure" value="Абрад Нязбожнага Задавальненьня"/>
+	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureDescription" value="Павялічвае ўплыў Алтароў Хаосу і лаяльнасьць Лугоў Жальбы ў горадзе за кошт ахвяры насельніцтва Слаанэшу."/>
+	<entry name="ChaosSpaceMarines/RiteOfUnholyPleasureFlavor" value="Stop your ears with wax, bind your mouth, stitch up your eyes, and tie yourself down. Only then invoke Slaanesh, so that you may not succumb utterly to the Pleasure God’s irresistible desires."/>
+	<entry name="ChaosSpaceMarines/Sacrifice" value="Ахвяраваньне"/>
+	<entry name="ChaosSpaceMarines/SacrificeDescription" value="Ахвяруе здароўем дзеля аднаўленьня здароўя абранай хаўруснай адзінцы."/>
+	<entry name="ChaosSpaceMarines/SacrificeFlavor" value="The psyker uses a sacrificial soul to remould and repair an unholy Daemon-form. The tainted spirits of Warpsmiths are particularly invigorating offerings to those Daemon Engines that are in their charge."/>
+	<entry name="ChaosSpaceMarines/SelfRepair" value="Самастойны Рамонт"/>
+	<entry name="ChaosSpaceMarines/SelfRepairDescription" value="Аднаўляе здароўе."/>
+	<entry name="ChaosSpaceMarines/SelfRepairFlavor" value="The machine spirits of the Traitor Legions’ vehicles have long been driven to despair or corrupted by demons, but the surviving vehicles have gained something for that lost—a crude regeneration that stitches the unholy metal back together, so they can continue the work of the Dark Gods."/> <!-- Chaos Rhino -->
+	<entry name="ChaosSpaceMarines/ShatterDefences" value="Зруйнаваць Абарону"/>
+	<entry name="ChaosSpaceMarines/ShatterDefencesDescription" value="Зьмяншае зьніжэньне шкоды ад далёкага бою на абранай пліткі."/>
+	<entry name="ChaosSpaceMarines/ShatterDefencesFlavor" value="Whatever cover the enemy cowers behind, a Warpsmith can draw upon millennia of siege experience to advise on the best way to bypass or to destroy them."/> <!-- Warpsmith levelable ability. -->
+	<entry name="ChaosSpaceMarines/WarpflameStrike" value="Удар Варп-Полымя"/>
+	<entry name="ChaosSpaceMarines/WarpflameStrikeDescription" value="Пралятае праз перашкоды да абранай пліткі і асьляпляе зьмешчаную побач варожую пяхоту і жахлівых стварэньняў."/>
+	<entry name="ChaosSpaceMarines/WarpflameStrikeFlavor" value="Though the lesion they slice in the fabric of realspace seals over as soon as the hunting pack has passed through, the mind-shattering nature of their attack is usually enough to stun their prey into inactivity. This moment of awestruck hesitation is often fatal, for the hellishly sharp claws of the Warp Talons part heads from necks and limbs from torsos as the hunters hurtle into the ranks of the foe."/>
+	<entry name="ChaosSpaceMarines/WorthyOffering" value="Годнае Прынашэньне"/>
+	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="Павялічвае шанец атрыманьня Дарунка Хаосу для гэтай адзінкі і суседніх хаўрусных Чэмпіёнаў Хаосу."/>
+	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="Having the eye of the gods upon you means those nearby are also subject to greater scrutiny—whether that turns them to Spawn or Daemon Prince, depends on how well they perform and the inscrutable whim of the Gods."/> <!-- Chaos Lord levelable ability. -->
+	<entry name="CleansingFlame" value="<string name='Weapons/CleansingFlame'/>"/>
+	<entry name="CleansingFlameFlavor" value="<string name='Weapons/CleansingFlameFlavor'/>"/>
+	<entry name="ClearTile" value="Ачысьціць Плітку"/>
+	<entry name="ClearTileDescription" value="Вяртае плітцы яе нармальны стан і ачышчае яе ад пустазельля-дроту, сьвятых месцаў, імперскіх руін і лясоў, ад адной асаблівасьці за раз."/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesDescription" value="Усталёўвае касетныя міны на суседнюю абраную плітку, каб замарудзіць і нанесьці шкоду ворагам."/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="ConstructBuilding" value="Пабудаваць %1%"/>
+	<entry name="ConstructBuildingHint" value="<style name='Title'/>Пабудаваць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="ConstructFeature" value="Пабудаваць %1%"/>
+	<entry name="ConstructFeatureHint" value="<style name='Title'/>Пабудаваць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="ConstructFortification" value="Пабудаваць %1%"/>
+	<entry name="ConstructFortificationHint" value="<style name='Title'/>Пабудаваць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="ConstructGaussPylon" value="Пабудаваць <string name='Units/Necrons/GaussPylon'/>"/>
+	<entry name="ConstructGaussPylonDescription" value="<string name='Units/Necrons/GaussPylonDescription'/>"/>
+	<entry name="ConstructGaussPylonFlavor" value="<string name='Units/Necrons/GaussPylonFlavor'/>"/>
+	<entry name="ConstructImperialStrongpoint" value="Пабудаваць <string name='Units/AstraMilitarum/ImperialStrongpoint'/>"/>
+	<entry name="ConstructImperialStrongpointDescription" value="<string name='Units/AstraMilitarum/ImperialStrongpointDescription'/>"/>
+	<entry name="ConstructImperialStrongpointFlavor" value="<string name='Units/AstraMilitarum/ImperialStrongpointFlavor'/>"/>
+	<entry name="ConstructNoctilithCrown" value="Пабудаваць <string name='Units/ChaosSpaceMarines/NoctilithCrown'/>"/>
+	<entry name="ConstructNoctilithCrownDescription" value="<string name='Units/ChaosSpaceMarines/NoctilithCrownDescription'/>"/>
+	<entry name="ConstructNoctilithCrownFlavor" value="<string name='Units/ChaosSpaceMarines/NoctilithCrownFlavor'/>"/>
+	<entry name="ConstructTidewallGunrig" value="Пабудаваць <string name='Units/Tau/TidewallGunrig'/>"/>
+	<entry name="ConstructTidewallGunrigDescription" value="<string name='Units/Tau/TidewallGunrigDescription'/>"/>
+	<entry name="ConstructTidewallGunrigFlavor" value="<string name='Units/Tau/TidewallGunrigFlavor'/>"/>
+	<entry name="ConstructVoidShieldGenerator" value="Пабудаваць <string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
+	<entry name="ConstructVoidShieldGeneratorDescription" value="<string name='Units/AstraMilitarum/VoidShieldGeneratorDescription'/>"/>
+	<entry name="ConstructVoidShieldGeneratorFlavor" value="<string name='Units/AstraMilitarum/VoidShieldGeneratorFlavor'/>"/>
+	<entry name="ConstructPlayerAction" value="Пабудаваць %1%"/>
+	<entry name="ConstructPlayerActionHint" value="<style name='Title'/>Пабудаваць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="CreateSmokeScreen" value="Стварыць Дымавую Заслону"/>
+	<entry name="CreateSmokeScreenDescription" value="Павялічвае зьніжэньне шкоды ў далёкім баі на плітцы."/>
+	<entry name="CreateSmokeScreenFlavor" value="Some vehicles have small launchers mounted onto them that carry smoke canisters. These are used to temporarily obscure the vehicle behind billowing clouds of smoke, allowing it to cross open areas in greater safety—although it does so at the cost of being able to fire its own weapons."/>
+	<entry name="CycleWeapon" value="Зьмяніць Зброю"/>
+	<entry name="CycleWeaponDescription" value="Ажыцявіць замену актыўнай зброі."/>
+	<entry name="CycleWeaponOnUse" value="Зьмяніць Зброю Пасьля Выкарыстаньня"/>
+	<entry name="CycleWeaponOnUseDescription" value="Аўтаматычна зьмяняе актыўную зброю пасьля выкарыстаньня."/>
+	<entry name="DeedsOfGlory" value="Хвалебныя Вычыны"/>
+	<entry name="DeedsOfGloryDescription" value="Дае Падзелу ўплыў за атрыманьне досьведу ў баях."/>
+	<entry name="DeedsOfGloryFlavor" value="“It is a captain's duty to place legionary lives in harm's way before his own. There is too little glory in the galaxy to go around and officers must be generous in the trust they place in others—for one day such brothers must be captains too.”<br/>  — Rouboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
+	<entry name="DeployCity" value="Заснаваць Горад"/>
+	<entry name="DeployCityDescription" value="Аперацыя па заснаваньні горада на абранай плітцы.<br/><br/>Гарады льга разьмяшчаць толькі там, дзе няма іншых гарадоў у радыусе %1% плітак."/>
+	<entry name="DeployFortress" value="<string name='Actions/DeployUnit'/>"/>
+	<entry name="DeployFortressHint" value="<string name='Actions/DeployUnitHint'/>"/>
+	<entry name="DeployUnit" value="Разгарнуць %1%"/>
+	<entry name="DeployUnitHint" value="<style name='Title'/>Разгарнуць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="DevastatorDoctrine" value="Выкарыстаць Дактрыну Разбуральнікаў"/>
+	<entry name="DevastatorDoctrineDescription" value="Тактыка Падзелу, што павялічвае трапнасьць Космамарынаў-Разбуральнікаў і Цэнтурыёнаў-Разбуральнікаў."/>
+	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
+	<entry name="Disappear" value="Зьнікнуць"/>
+	<entry name="Disband" value="Расфармаваць"/>
+	<entry name="DisbandDescription" value="Расфармаваць адзінку."/>
+	<!-- <entry name="DisbandDescription" value="25%% of unit's <icon texture='Resources/Credits'/> credits value received if disbanded in allied territory."/>
+	<entry name="DisbandProperties" value="x1x <icon texture='Resources/Credits'/> credits received if disbanded here."/> -->
+	<entry name="DispenseChaff" value="Воблака Адбівальнікаў"/>
+	<entry name="DispenseChaffDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою."/>
+	<entry name="DispenseChaffFlavor" value="Since the earliest days of airborne combat, some form of lightweight material has been used to distract enemy pilots. Today's chaff would be unrecognizable to those early airmen, but its efficacy against modern countermeasures is about the same."/>
+	<entry name="DogmaAstrates" value="Догма Астартэс"/>
+	<entry name="DogmaAstratesDescription" value="Павялічвае вытворчасьць лаяльнасьці Горада-Крэпасьці."/>
+	<entry name="DogmaAstratesFlavor" value="The Chaplains of the Space Marines are grim spiritual guardians, whose first duty is to be ever watchful for the dangers of pride, doubt and heresy. Daunting even to their own brethren, Chaplains rely on dogma and liturgy to keep their brothers from spiritual corruption."/>
+	<entry name="Dominate" value="Дамінаваць"/>
+	<entry name="DominateDescription" value="Прадухіляе дзеяньні абранай варожай пяхоты або жахлівага стварэньня."/>
+	<entry name="DominateFlavor" value="The psyker reaches into his foe’s mind, trammelling his soul and crushing his will to fight on."/>
+	<entry name="Drukhari/AncientEvil" value="Старажытнае Зло"/>
+	<entry name="Drukhari/AncientEvilDescription" value="Гэтая адзінка і хаўрусныя адзінкі Друкхары ў радыусе прымушаюць атакаваныя адзінкі страчваць мараль."/>
+	<entry name="Drukhari/AncientEvilFlavor" value="So long has this Warlord lived, steeped in horror and cruelty, that he is now shrouded in a malefic aura that augments the suffering from his and his army’s attacks."/>
+	<entry name="Drukhari/BloodDancer" value="Танцор Крыві"/>
+	<entry name="Drukhari/BloodDancerDescription" value="Павялічвае трапнасьць блізкага бою."/>
+	<entry name="Drukhari/BloodDancerFlavor" value="A star of the Commorrite arenas, the Succubi excel at close quarters combat. The skills they display before the baying crowds on the blood-soaked sands of the arena floor come in equally useful on the battlefield."/>
+	<entry name="Drukhari/BonusResources" value="Інсьпекцыя Архона"/>
+	<entry name="Drukhari/BonusResourcesDescription" value="Здольнасьць Голад па Душах павялічвае вытворчасьць будынкаў не штабкватэр на абранай плітцы."/>
+	<entry name="Drukhari/BonusResourcesFlavor" value="It is not as if the Drukhari’s indentured servants ever slacken in their labours. Yet when an Archon turns his gaze upon them, they labour harder, inhumanly so, knowing that a moment’s displeasure will lead to many lifetimes of impossible torment."/>
+	<entry name="Drukhari/BridesOfDeath" value="Нявесты Сьмерці"/>
+	<entry name="Drukhari/BridesOfDeathDescription" value="Павялічвае шкоду блізкага бою гэтай адзінцы і суседніх адзінак Друкхары."/>
+	<entry name="Drukhari/BridesOfDeathFlavor" value="A succubus isn’t just impossibly perfect in appearance, combat and sadism—she also co-ordinates her Wych Cult and other Drukhari impeccably on the battlefield, a choreographer of torment."/>
+	<entry name="Drukhari/CombatDrugs" value="Баявыя Наркотыкі"/>
+	<entry name="Drukhari/CombatDrugsDescription" value="Дае баявыя бонусы."/>
+	<entry name="Drukhari/CombatDrugsFlavor" value="Though they drastically shorten the life expectancy of the user, chemical stimulants are widely used to heighten combat performance."/>
+	<entry name="Drukhari/CrucibleOfMalediction" value="Тыгель Праклёнаў"/>
+	<entry name="Drukhari/CrucibleOfMaledictionDescription" value="Адмысловая атака далёкага радыуса."/>
+	<entry name="Drukhari/CrucibleOfMaledictionFlavor" value="Haemonculi refer to this extraordinary weapon as ‘the kin-gift’, for it is especially dangerous to their psychically attuned craftworld cousins. Each crucible contains the essence of psykers tortured to death. When released, their spirits hurtle across the battlefield, shrieking in a cacophony that drives nearby enemies insane."/>
+	<entry name="Drukhari/EnhancedAethersails" value="Палепшаныя Этэрныя Ветразі"/>
+	<entry name="Drukhari/EnhancedAethersailsDescription" value="Павялічвае рух."/>
+	<entry name="Drukhari/EnhancedAethersailsFlavor" value="Aethersails are used to capture the aetheric winds that flow out from open webway portals. Many vehicle crews are meticulous in the construction of these sails, incorporating frictionless alloys, vibro-pods and angled booms to enhance their bursts of speed."/>
+	<entry name="Drukhari/FieldRepairs" value="Рамонт у Рэальнай Прасторы"/>
+	<entry name="Drukhari/FieldRepairsDescription" value="Аднаўляе здароўе."/>
+	<entry name="Drukhari/FieldRepairsFlavor" value="A Drukhari trapped in realspace for any time is doomed—She Who Thirsts will slowly sip away their soul until they are a withered husk. So it pays to be able to fix up their craft to ensure a rapid return to the known perils of Commorragh."/>
+	<entry name="Drukhari/Fleshcraft" value="Рамяство Плоці"/>
+	<entry name="Drukhari/FleshcraftDescription" value="Аднаўляе здароўе хаўрусная пяхоты Друкхары ці жахлівага стварэньня."/>
+	<entry name="Drukhari/FleshcraftFlavor" value="Many Drukhari pass under the knives of a Haemonculus in their lives—many don’t emerge, are turned into Wracks, Grotesques or worse. But the Haemonculi are capable of healing and restoring too—they just find it tremendously dull."/>
+	<entry name="Drukhari/GrislyTrophies" value="Страшэнныя Трафеі"/>
+	<entry name="Drukhari/GrislyTrophiesDescription" value="Зьніжае страты маралі гэтай адзінкі і суседніх адзінак Друкхары."/>
+	<entry name="Drukhari/GrislyTrophiesFlavor" value="Some Drukhari vehicles are adorned with the disembodied heads of slain foes and daubed with copious amounts of enemy blood. The sight of the festering remains of once proud foes instils the Drukhari with arrogant pride."/>
+	<entry name="Drukhari/MasterOfPain" value="Майстар Болю"/>
+	<entry name="Drukhari/MasterOfPainDescription" value="Дае дадатковае зьніжэньне шкоды ад адсутнасьці пачуцьця болю гэтай адзінцы і суседнім пяхтоным адзінкам Друкхары."/>
+	<entry name="Drukhari/MasterOfPainFlavor" value="Such exquisite agonies are inflicted by a Haemonculus on its followers that they barely feel their own suffering any more, as oblivious as a follower of Nurgle to the wounds inflicted on their bodies."/>
+	<entry name="Drukhari/NoEscape" value="Няма Выратаваньня"/>
+	<entry name="Drukhari/NoEscapeDescription" value="Зьніжае рух варожай наземнай адзінкі."/>
+	<entry name="Drukhari/NoEscapeFlavor" value="Arena fighters par excellence, a Succubus is skilled at tormenting their foe, giving it the illusion of escape before reeling it in, so that all watching may savour its suffering and false hope."/>
+	<entry name="Drukhari/Overlord" value="Валадар"/>
+	<entry name="Drukhari/OverlordDescription" value="Павялічвае трапнасьць гэтай адзінкі і суседніх адзінак Друкхары."/>
+	<entry name="Drukhari/OverlordFlavor" value="“I understand your desire, my pets. I understand you wish to increase suffering and pain, so you prolong the moment. For now, though, I require merely death. Focus on that—later, there will be more to kill.” — Gyrthineus Roche, Archon of The Last Blade"/>
+	<entry name="Drukhari/RaidFromTheWebway" value="<string name='Units/Drukhari/WebwayPortal'/>"/>
+	<entry name="Drukhari/RaidFromTheWebwayDescription" value="Заклікае часовы Партал Шляху Павуціньня."/>
+	<entry name="Drukhari/RaidFromTheWebwayFlavor" value="<string name='Units/Drukhari/WebwayPortalFlavor'/>"/>
+	<entry name="Drukhari/RaiderFortress" value="Заснаваць Крэпасьць Рэйдараў"/>
+	<entry name="Drukhari/RaiderFortressDescription" value="Засноўвае горад на захопленым Брама Шляху Павуціньня.<br/><br/>Гарады льга будаваць толькі ў выпадку адсутнасьці іншых гарадоў у радыусе %1% плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на %2%."/>
+	<entry name="Drukhari/RaiderFortressFlavor" value="It is a tribute to the ancient technologies of the fallen Aeldari empire that what appears to the herd races as a mighty city and fortress is to them a mere stopping point, a temporary haven whilst raiding before they return to the Webway and dark Commorragh."/>
+	<entry name="Drukhari/ReservoirOfPain" value="Рэзервуар Болю"/>
+	<entry name="Drukhari/ReservoirOfPainDescription" value="Аднаўляе здароўе хаўрусных пяхотных адзінак Друкхары, калі гэтая адзінка атакуе на гэты крок."/>
+	<entry name="Drukhari/ReservoirOfPainFlavor" value="The Cronos parasite engines are an arcane blend of alchemy and science that leeches both the body and spirit of any victim. Inside its urchin-spined form, the stolen essence is magnified before being redistributed to any nearby Drukhari, refreshing and invigorating them…"/>
+	<entry name="Drukhari/SacrificeToKhaine" value="<string name='Traits/Drukhari/SacrificeToKhaine'/>"/>
+	<entry name="Drukhari/SacrificeToKhaineDescription" value="Здольнасьць Голад па Душах павялічвае шкоду ўсіх адзінак Друкхары."/>
+	<entry name="Drukhari/SacrificeToKhaineFlavor" value="<string name='Traits/Drukhari/SacrificeToKhaineFlavor'/>"/>
+	<entry name="Drukhari/Shadowfield" value="Ценевае Поле"/>
+	<entry name="Drukhari/ShadowfieldDescription" value="Павялічвае непаражальнае зьніжэньне шкоды. Перазараджаецца напачатку наступнага кроку, калі была атрымана шкода."/>
+	<entry name="Drukhari/ShadowfieldFlavor" value="The shadow field surrounds its wearer in a dark miasma of energy that is almost impossible to penetrate. However, should a solid blow connect the field will short out, leaving its wearer vulnerable."/>
+	<entry name="Drukhari/SoulHarvest" value="Жніво Душ"/>
+	<entry name="Drukhari/SoulHarvestDescription" value="Павялічвае шкоду абранай хаўруснай адзінкі Друкхары і дае ўплыў, калі гэтая адзінка забівае ворага."/>
+	<entry name="Drukhari/SoulHarvestFlavor" value="Few Drukhari leaders trust their underlings enough to allow them to gain power, knowing full well that the only rational use of power is to overthrow their oppressor. Despite this, occasionally a minion might be allowed off the leash, as long as its victories reflect entirely upon the Archon."/>
+	<entry name="Drukhari/SoulHungerLoyalty" value="<string name='Traits/Drukhari/SoulHungerLoyalty'/>"/>
+	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="Здольнасьць Голад па Душах павялічвае вытворчасьць лаяльнасьці Крэпасьцяў Рэйдараў."/>
+	<entry name="Drukhari/SoulHungerLoyaltyFlavor" value="<string name='Traits/Drukhari/SoulHungerLoyaltyFlavor'/>"/>
+	<entry name="Drukhari/SoulHungerOutposts" value="<string name='Traits/Drukhari/SoulHungerOutposts'/>"/>
+	<entry name="Drukhari/SoulHungerOutpostsDescription" value="Здольнасьць Голад па Душах павялічвае вытворчасьць рэсурсаў на кантраляваных аванпостах."/>
+	<entry name="Drukhari/SoulHungerOutpostsFlavor" value="<string name='Traits/Drukhari/SoulHungerOutpostsFlavor'/>"/>
+	<entry name="Drukhari/FeastOfTorment" value="<string name='Traits/Drukhari/FeastOfTorment'/>"/>
+	<entry name="Drukhari/FeastOfTormentDescription" value="Здольнасьць Голад па Душах дае ўсім адзінкам Друкхары здольнасьць аднаўляць здароўе кожны крок."/>
+	<entry name="Drukhari/FeastOfTormentFlavor" value="<string name='Traits/Drukhari/FeastOfTormentFlavor'/>"/>
+	<entry name="Drukhari/SoulShelling" value="Артылерыя Шляху Павуціньня"/>
+	<entry name="Drukhari/SoulShellingDescription" value="Здольнасьць Голад па Душах наносіць шкоду абранай варожай адзінцы."/>
+	<entry name="Drukhari/SoulShellingFlavor" value="The most powerful Drukhari weapons aren’t light enough to take on a Raid, instead reserved for the defense of the Kabal’s base in Comorroragh or on Battleships for realspace incursions—Phantom Lances and Scythe Missile Launchers and so on. But a wily Archon might allow his minions to fire one of these weapons through a temporary portal, knowing all the while the weapon might be turned on them…"/>
+	<entry name="Drukhari/SpiritProbe" value="Духоўны Зонд"/>
+	<entry name="Drukhari/SpiritProbeDescription" value="Дае дадатковае зьніжэньне шкоды ад адсутнасьці пачуцьця болю гэтай адзінцы і суседняй пяхоце Друкхары 3 і вышэйшага роўня."/>
+	<entry name="Drukhari/SpiritProbeFlavor" value="A spirit probe is a conductor for agony; a device that ensures no scrap of pain or misery escapes the Cronos’ contra-empathic net. Running hot on tides of excruciation, it boosts the resilience of nearby Drukhari, allowing them to stride laughing amid volleys of fire and rains of blows that would otherwise tear them apart."/>
+	<entry name="Drukhari/SplinteredGenius" value="Падзелены Геній"/>
+	<entry name="Drukhari/SplinteredGeniusDescription" value="Дае дадатковыя ачкі дзеяньня гэтай адзінцы."/>
+	<entry name="Drukhari/SplinteredGeniusFlavor" value="This Archon's usually calm exterior belies the truth of their debauched mind; that it is a battleground between extreme egos. Their violently sadistic side awaits only the right trigger—the fear, pain or weakness of others. Once unleashed, this Archon explodes into a killing fury, using their victims to slake their dark desires before regaining their regal composure."/>
+	<entry name="Drukhari/ToweringArrogance" value="Зашкальваючая Пагарда"/>
+	<entry name="Drukhari/ToweringArroganceDescription" value="Зьніжае страты маралі хаўрусных адзінак Друкхары ў вобласьці."/>
+	<entry name="Drukhari/ToweringArroganceFlavor" value="A Haemonculus is possessed of the knowledge that his fleshcrafting skills make him effectively immortal so has nothing but scorn for the foe, no matter how horrifying their aspect. A Haemonculus and his coven will hold their place with a derisive sneer, regardless of the odds stacked against them, anticipating the pain and death to come."/>
+	<entry name="Drukhari/TwistedAnimator" value="Закручаны Аніматар"/>
+	<entry name="Drukhari/TwistedAnimatorDescription" value="Аднаўляе здароўе суседніх адзінак-Развалін."/>
+	<entry name="Drukhari/TwistedAnimatorFlavor" value="This deranged creature is an artist when it comes to the reshaping of flesh. A few deft slices—and a liberal application of horrifying unguents—allow ruptured skin to flow like wax and reform anew, the subject lurching back to life."/>
+	<entry name="Drukhari/WealthPlunder" value="<string name='Traits/Drukhari/WealthPlunder'/>"/>
+	<entry name="Drukhari/WealthPlunderDescription" value="Здольнасьць Голад па Душах дае ўсіх адзінкам Друкхары дасьледаваньні за забойствы ворагаў."/>
+	<entry name="Drukhari/WealthPlunderFlavor" value="<string name='Traits/Drukhari/WealthPlunderFlavor'/>"/>
+	<entry name="Drukhari/WebwayTravel" value="<string name='Actions/Eldar/WebwayTravel'/>"/>
+	<entry name="Drukhari/WebwayTravelDescription" value="Вандруе ад адной хаўруснай Брамы Шляха Павуціньня, Крэпасьці Рэйдараў ці Партала Шляху Павуціньня да іншай."/>
+	<entry name="Drukhari/WebwayTravelFlavor" value="<string name='Actions/Eldar/WebwayTravelFlavor'/>"/>
+	<entry name="Drukhari/WhirlingDeath" value="Віхура Сьмерці"/>
+	<entry name="Drukhari/WhirlingDeathDescription" value="Адмысловая атака, якая б'е ўсіх суседніх ворагаў."/>
+	<entry name="Drukhari/WhirlingDeathFlavor" value="This murder-artist is constantly moving, their every acrobatic step accompanied by a lashing blade. They are at their most dangerous when the foe believes them surrounded, but this simply gives them more victims to practice their killing art upon."/>
+	<entry name="Eldar/ActivateWebwayGate" value="Актываваць Шлях Павуціньня"/>
+	<entry name="Eldar/ActivateWebwayGateDescription" value="Актывуе і захоплівае нейтральны Шлях Павуціньня."/>
+	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime…"/>
+	<entry name="Eldar/AutarchsAssault" value="Напад Аўтарха"/>
+	<entry name="Eldar/AutarchsAssaultDescription" value="Забойства ворага Аўтархам павялічвае шкоду хаўрусных адзінак Штучнага Сьвету Аэльдары ў вобласьці."/>
+	<entry name="Eldar/AutarchsAssaultFlavor" value="The Autarch is the master of warfare, having lived many lives in every Aeldari aspect shrine. Every one of his skilful attacks is both an inspiration to other Aeldari and a lesson in how to conduct war most effectively."/>
+	<entry name="Eldar/AsuryaniArrivals" value="Прыбыцьцё Асур'янаў"/>
+	<entry name="Eldar/AsuryaniArrivalsDescription" value="Павялічвае хуткасьць узросту."/>
+	<entry name="Eldar/AsuryaniArrivalsFlavor" value="At a word from the commanding Farseer, a psychic missive is sent out through the Webway, to the craftworlds, exodite planets and roving Rangers, requesting support in this critical endeavour. Though the Aeldari race is dying, they will die fighting—and they come to Gladius to die there."/>
+	<entry name="Eldar/Command" value="Загад"/>
+	<entry name="Eldar/CommandDescription" value="Павялічвае трапнасьць хаўрусных адзінак Штучнага Сьвету Аэльдары ў вобласьці. "/>
+	<entry name="Eldar/CommandFlavor" value="Autarchs walk the Path of Command, and even the Exarchs of the aspect shrines defer to them. An Autarch personally co-ordinates the fire of his army, with deft signals and comms, combining firepower and movement to lure enemies into ingenious death-traps."/>
+	<entry name="Eldar/CrystalTargetingMatrix" value="Крышталічная Матрыца Навядзеньня"/>
+	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Павялічвае трапнасьць."/>
+	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="Utilising advanced scanner technologies, this targeting matrix allows pinpoint fire even when on the move."/>
+	<entry name="Eldar/DestructorRenewer" value="Аднавіцель / Дэструктар"/>
+	<entry name="Eldar/DestructorRenewerDescription" value="Аднаўляе здароўе абранай хаўруснай адзінкі або наносіць шкоду варожай."/>
+	<entry name="Eldar/DestructorRenewerFlavor" value="Caging a portion of his psychic might, the Spiritseer sends waves of energy forth to destroy his enemies in a burst of azure flame--or, if the need arises, heal the wounds of his allies."/>
+	<entry name="Eldar/Doom" value="Згуба"/>
+	<entry name="Eldar/DoomDescription" value="Павялічвае шкоду, якую атрымлівае абраная адзінка ворага."/>
+	<entry name="Eldar/DoomFlavor" value="With a simple manipulation of that which is to come, the Farseer grants a darkened fate to a chosen foe. While this shadow rests upon the enemy’s soul, death seeks them out above all others, each blow or shot that comes their way rendered inescapably lethal."/>
+	<entry name="Eldar/EmboldenHorrify" value="Адвага / Страх"/>
+	<entry name="Eldar/EmboldenHorrifyDescription" value="Аднаўляе мараль абранай хаўруснай адзінкі або зьніжае мараль варожай."/>
+	<entry name="Eldar/EmboldenHorrifyFlavor" value="The Spiritseer calls down the splendour of battle, instilling his allies with valour or sapping courage from his foes."/>
+	<entry name="Eldar/KhaineAwakened" value="Абуджэньне Кхайна"/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім баі, зьніжае страты маралі, дае неўспрымальнасьць да страху і прывязваецца да суседніх хаўрусных адзінак Аэльдары."/>
+	<entry name="Eldar/KhaineAwakenedFlavor" value="As the Wailing Doom cries out for blood and the Avatar rouses itself for war, so too are nearby Aeldari driven to greater deeds in his name. Fearing nothing, they throw themselves into the melee battle-crazed."/>
+	<entry name="Eldar/KhainesMight" value="Моц Кхайна"/>
+	<entry name="Eldar/KhainesMightDescription" value="Павялічвае атакі блізкага бою Аўтарха."/>
+	<entry name="Eldar/KhainesMightFlavor" value="An Autarch has mastery of all the Exarch shrines and has learned something from them all. Few mortal creatures can stand against the skill of an Autarch when fully unleashed."/>
+	<entry name="Eldar/LinkedFire" value="Злучаны Агонь"/>
+	<entry name="Eldar/LinkedFireDescription" value="Павялічвае шкоду і бронепрабівальнасьць хаўруснай Агнявой Прызмы і Прызмаў Гармат."/>
+	<entry name="Eldar/LinkedFireFlavor" value="The unusual design of a Fire Prism’s Prism Cannon crystal is designed to allow it to further concentrate its already-intense beam by feeding it into another Fire Prism, focusing both machine’s firepower into a single shot."/>
+	<entry name="Eldar/MindWar" value="Вайна Розуму"/>
+	<entry name="Eldar/MindWarDescription" value="Зьніжае трапнасьць абранай варожай адзінкі. Шкода, што наносіцца, залежыць ад розьніцы маралі між Вяшчуном Нябесным Бегуном і абранай адзінкай."/>
+	<entry name="Eldar/MindWarFlavor" value="The Farseer reaches out to attack the mind of an enemy in a desperate mental duel. Foes find their thoughts invaded by the crushing presence of the Farseer, his ancient and inscrutable will extinguishing their personality with horrific ease, triggering a cascade of psychosomatic trauma."/>
+	<entry name="Eldar/ProtectJinx" value="Ахова / Сурокі"/>
+	<entry name="Eldar/ProtectJinxDescription" value="Павялічвае браню абранай хаўруснай адзінкі або зьніжае браню варожай."/>
+	<entry name="Eldar/ProtectJinxFlavor" value="Chained by runes of power, fate itself is bound to the Spiritseer’s will."/>
+	<entry name="Eldar/ReturnOfTheAeldari" value="Вяртаньне Аэльдары"/>
+	<entry name="Eldar/ReturnOfTheAeldariDescription" value="Павялічвае атрыманьне рэсурсаў ад аванпостаў."/>
+	<entry name="Eldar/ReturnOfTheAeldariFlavor" value="After the disappearance of the Old Ones, the Aeldari ruled this planet for millions of years. They understand better than anyone else how to best cultivate and access its unique resources."/>
+	<entry name="Eldar/SpiritMark" value="Знак Духу"/>
+	<entry name="Eldar/SpiritMarkDescription" value="Павялічвае трапнасьць хаўрусных Прывідных Клінкоў, Прывідных Рыцараў і Прывідных Лордаў."/>
+	<entry name="Eldar/SpiritMarkFlavor" value="The Avatar’s presence invigorates the dead distinctly from the living. Whilst the latter are filled with Khaine’s incandescent rage, those machines manned by spirit crystals instead find their awareness raised from their usual somnambulance, enabling them to better focus on their targets."/>
+	<entry name="Eldar/TranscendentBliss" value="Трансцэндэнтальная Асалода"/>
+	<entry name="Eldar/TranscendentBlissDescription" value="Павялічвае лаяльнасьць."/>
+	<entry name="Eldar/TranscendentBlissFlavor" value="The life of an Aeldari is infinitely richer than that of a human, given their tremendous sensitivity, intellect and intensity of feeling—and sometimes it takes shared moments of that bliss to remind the Aeldari what they’re fighting for in this dark universe."/>
+	<entry name="Eldar/VectorDancer" value="Вектарны Танцор"/>
+	<entry name="Eldar/VectorDancerDescription" value="Павялічвае браню ад далёкіх атак."/>
+	<entry name="Eldar/VectorDancerFlavor" value="Some aircraft are crafted with an eye towards manoeuvrability."/>
+	<entry name="Eldar/VectoredEngines" value="Вектарныя Рухавікі"/>
+	<entry name="Eldar/VectoredEnginesDescription" value="Павялічвае браню ад далёкіх атак."/>
+	<entry name="Eldar/VectoredEnginesFlavor" value="Vectored engines allow the pilot of an Aeldari vehicle to rapidly alter its facing, placing deadly weapons, or stronger armour, to the fore. Often, this can mean the difference between sustaining critical damage and taking an indirect blow that can soon be shrugged off."/>
+	<entry name="Eldar/WarShout" value="Крык Вайны"/>
+	<entry name="Eldar/WarShoutDescription" value="Зьніжае мараль суседніх варожых адзінак."/>
+	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready…"/>
+	<entry name="Eldar/WebwayRedoubt" value="Заснаваць Рэдут Шляха Павуціньня"/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Засноўвае горад на захопленым Шляху Павуціньня.<br/><br/>Гарады льга будаваць толькі ў выпадку адсутнасьці іншых гарадоў у радыусе %1% плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на %2%."/>
+	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webway’s limitless power to devastate any enemies foolish enough to venture near."/>
+	<entry name="Eldar/WebwayTravel" value="Вандраваць праз Шлях Павуціньня"/>
+	<entry name="Eldar/WebwayTravelDescription" value="Вандруе ад аднаго Шляха Павуціньня або Рэдута Павуціньня да іншага."/>
+	<entry name="Eldar/WebwayTravelFlavor" value="The unique Webway sub-structure riddling Gladius Prime enables the Aeldari and Drukhari to travel rapidly between the gateways dotted across the planet—though now that they are active, wise opposing races will recognise their threat and eliminate them on first sight."/>
+	<entry name="Eldar/WillOfAsuryan" value="Воля Асур'яна"/>
+	<entry name="Eldar/WillOfAsuryanDescription" value="Аднаўляе мараль хаўрусных адзінак у вобласьці."/>
+	<entry name="Eldar/WillOfAsuryanFlavor" value="The leader of the Aeldari Gods, Asuryan provided guidance to the growing Aeldari race before his consumption by Slaanesh. The Farseers of Gladius can draw upon his might to bolster their forces, inspiring them to fight on."/>
+	<entry name="Enfeeble" value="Аслабленьне"/>
+	<entry name="EnfeebleDescription" value="Зьмяншае шкоду і рух абранай варожай адзінкі."/>
+	<entry name="EnfeebleFlavor" value="As the psyker channels his powers, tendrils of Warp energy lash over his victims, every caress sapping strength and vitality from their bodies."/>
+	<entry name="Enslavement" value="Заняволеньне"/>
+	<entry name="EnslavementDescription" value="Бярэ пад свой кантроль абраную варожую адзінку са слабой воляй, пакуль занявольнік не памрэ."/>
+	<entry name="EreWeGo" value="Ідзём Туды!"/>
+	<entry name="EreWeGoDescription" value="Павялічвае рух."/>
+	<entry name="EreWeGoFlavor" value="Ever eager to get stuck into the fray, Orks will barrel across the battlefield as quick as they can when the foe is in their sights."/>
+	<entry name="FoundCity" value="Заснаваць Горад"/>
+	<entry name="FoundCityDescription" value="Спажывае адзінку дзеля заснаваньня новага горада.<br/><br/>Гарады льга засноўваць толькі ў выпадку адсутнасьці іншых гарадоў у радыусе %1% плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на %2%."/>
+	<entry name="FoundCityNecrons" value="Абудзіць Горад"/>
+	<entry name="FoundCityNecronsDescription" value="Спажывае адзінку дзеля абуджэньня новага горада.<br/><br/>Гарады льга будаваць толькі на месцы Грабніц Некронаў у выпадку адсутнасьці іншых гарадоў у радыусе 4 плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на 6."/>
+	<entry name="FullThrottle" value="“Поўны Газ!”"/>
+	<entry name="FullThrottleDescription" value="Дадае рух Камандору Танка і суседнім хаўрусным танкам."/>
+	<entry name="FullThrottleFlavor" value="The officer leads a glorious tank charge that grinds the enemy beneath his treads."/>
+	<entry name="GateOfInfinity" value="Брама Бясконцасьці"/>
+	<entry name="GateOfInfinityDescription" value="Тэлепартуецца да абранай дасьледаванай пліткі."/>
+	<entry name="GateOfInfinityFlavor" value="The psyker punches a corridor through the roiling Immaterium, allowing him to cross great distances in the blink of an eye."/>
+	<entry name="GrabbinKlaw" value="Клюшня-Хапала"/>
+	<entry name="GrabbinKlawDescription" value="Зьнерухомлівае абраную варожую наземную машыну."/>
+	<entry name="GrabbinKlawFlavor" value="In their pursuit of ever-larger Power Klaws, Ork Meks occasionally make ones that are simply too large for even the most over-sized Boss or Deff Dread. These are mounted on vehicles, where they are used to immobilise enemy vehicles or perform outrageous handbrake turns."/>
+	<entry name="GunnersKillOnSight" value="“Стралкі, Забівайце Ўсіх, каго Бачыце!”"/>
+	<entry name="GunnersKillOnSightDescription" value="Павялічвае атаку ў далёкім баі Камандора Танка і суседніх хаўрусных танкаў."/>
+	<entry name="GunnersKillOnSightFlavor" value="The officer gives his men free rein to unleash discretionary fire."/>
+	<entry name="Hallucination" value="Галюцынацыі"/>
+	<entry name="HallucinationDescription" value="Зьніжае атакі абранай варожай адзінкі."/>
+	<entry name="HallucinationFlavor" value="Paranoia, confusion and panic are heightened to a debilitating degree as the telepath alters his foes’ perceptions."/>
+	<entry name="HammerOfWrath" value="Молат Гневу"/>
+	<entry name="HammerOfWrathDescription" value="Павялічвае шкоду ня бомбавай зброі."/>
+	<entry name="HammerOfWrathFlavor" value="Many warriors hurl themselves headlong into combat, seeking to crush or trample the foe."/>
+	<entry name="Hammerhand" value="Рука-Молат"/>
+	<entry name="HammerhandDescription" value="Павялічвае шкоду ў блізкім баі."/>
+	<entry name="HammerhandFlavor" value="Focussing the raging power of his mind, the psyker augments the strength of his comrades to the point where they can crush flesh and bone with a single blow."/>
+	<entry name="Heal" value="Утрымліваць Пазіцыю да Вылячэньня"/>
+	<entry name="HealDescription" value="Стрымліваць пазіцыю да поўнага вылячэньня."/>
+	<entry name="HealingSurge" value="Хваля Лячэньня"/>
+	<entry name="HealingSurgeDescription" value="Аднаўляе здароўе."/>
+	<entry name="HealingSurgeFlavor" value="“I haven't lost an arm, brother. It's right over there.”<br/>  — Captain Alessio Cortez, Crimson Fists"/>
+	<entry name="HoldFire" value="Трымаць Агонь"/>
+	<entry name="HoldFireDescription" value="Прадухіляе адплату ад атакі."/>
+	<entry name="HoldPosition" value="Утрымліваць Пазіцыю"/>
+	<entry name="HoldPositionDescription" value="Утрымліваць пазіцыю, да атакі варожай адзінкай."/>
+	<entry name="IronWill" value="Жалезная Воля"/>
+	<entry name="IronWillDescription" value="Пасьля сьмерці Лорд-Камісар адразу ж ажывае."/>
+	<entry name="IronWillFlavor" value="“Pain is temporary, Honour is forever.”<br/>  — Colonel-Commissar Ibram Gaunt, Tanith First and Only"/>
+	<entry name="Jink" value="Хітрыкі"/>
+	<entry name="JinkDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою, але зьніжае трапнасьць. Нельга выкарыстоўваць, калі адзінка атакавала на гэтым кроку."/>
+	<entry name="JinkFlavor" value="Some units favour speed and agility rather than heavy armour to keep them alive on the battlefield, dodging and weaving unscathed through hails of incoming fire."/>
+	<entry name="JumpPack" value="Скокавы Ранец"/>
+	<entry name="JumpPackDescription" value="Ляціць праз перашкоды да абранай пліткі."/>
+	<entry name="JumpPackFlavor" value="A jump pack enables the wearer to make bounding leaps across the battlefield and make boosted flights over short distances or to the tops of fortress walls."/>
+	<entry name="LevelUp" value="Павялічыць Узровень"/>
+	<entry name="Levitate" value="Левітаваць"/>
+	<entry name="LevitateDescription" value="Ляціць праз перашкоды да абранай пліткі."/>
+	<entry name="LevitateFlavor" value="The psyker uses his telekinetic powers to launch himself skywards, leaping across the battlefield in a single bound."/>
+	<entry name="MachineEmpathy" value="Выкарыстаць Эмпатыю Машын"/>
+	<entry name="MachineEmpathyDescription" value="Тактыка Падзелу, што аднаўляе здароўе машын і фартыфікацыяў."/>
+	<entry name="MachineEmpathyFlavor" value="“Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of obedience which overcomes all obstacles, and armed with the three great guns of Zeal, Duty and Purity.”<br/>  — Traditional Imperial prayer, source unknown"/>
+	<entry name="MediPack" value="Аптэчка"/>
+	<entry name="MediPackDescription" value="Аднаўляе здароўе."/>
+	<entry name="MediPackFlavor" value="Medi-packs contain all the necessary drugs, dressings and surgical tools to get a wounded Imperial Guardsman back in the fight, or save the lives of vital personnel."/>
+	<entry name="MeksTools" value="Штукі Мека"/>
+	<entry name="MeksToolsDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
+	<entry name="MeksToolsFlavor" value="“Yer arm? I don't care about yer arm! Me trukk's zogging ruined! Did no wun tell you to stay away from Laskannons? 'Ere, Grot. Pass me the wotsit, the thingummy, and the whacker. And the red paint, o' course. She'll be all shiny-new in no time.”<br/>  — Skinwab, Evil Sunz Mek"/>
+	<entry name="MindControl" value="Кантроль над Розумам"/>
+	<entry name="MindControlDescription" value="Зьніжае мараль суседніх варожых адзінак кожны крок."/>
+	<entry name="Misfortune" value="Няшчасьце"/>
+	<entry name="MisfortuneDescription" value="Павялічвае шкоду, якая наносіцца па абранай варожай адзінцы."/>
+	<entry name="MisfortuneFlavor" value="With a click of his fingers, the diviner twists fate so that his followers' blows punch through the weakest points in their opponent's armour."/>
+	<entry name="Move" value="Рушыць"/>
+	<entry name="Narthecium" value="Нартэцыум"/>
+	<entry name="NartheciumDescription" value="Аднаўляе здароўе абранай хаўруснай пяхоты або жахлівага стварэньня."/>
+	<entry name="NartheciumFlavor" value="The narthecium is used by Space Marine Apothecaries to dispense medical aid, including complex battlefield surgery, to the wounded. The wrist-mounted device also houses a reductor—the mechanism with which the gene-seed of the fallen is recovered, ensuring the Chapter's future."/>
+	<entry name="Necrons/BloodyCrusade" value="Крывавы Крыжовы Паход"/>
+	<entry name="Necrons/BloodyCrusadeDescription" value="Павялічвае атакі."/>
+	<entry name="Necrons/BloodyCrusadeFlavor" value="In its desire to rid the universe of organic life, a Destroyer Lord can descend into a savage insanity, raining blow after blow on its opponents, far beyond safe protocols."/>
+	<entry name="Necrons/Chronometron" value="Хранаметрон"/>
+	<entry name="Necrons/ChronometronDescription" value="Павялічвае зьніжэньне шкоды абранай хаўруснай адзінцы."/>
+	<entry name="Necrons/ChronometronFlavor" value="These eye-shaped devices project a bubble of energy that can alter the flow of time itself, slowing incoming projectiles such that those nearby can simply move out of their path."/>
+	<entry name="Necrons/DefensiveProtocols" value="Пратаколы Абароны"/>
+	<entry name="Necrons/DefensiveProtocolsDescription" value="Павялічвае браню Лорда і хаўрусных адзінак Некронаў у радыусе."/>
+	<entry name="Necrons/DefensiveProtocolsFlavor" value="A Necron’s Lords higher functions aren’t devoted to containing a more-charming personality or a fiercer intelligence—they also contain control protocols that enable them to coordinate nearby Necron troops more minutely, heavily increasing their chances of survival."/>
+	<entry name="Necrons/DestructionProtocols" value="Пратаколы Разбурэньня"/>
+	<entry name="Necrons/DestructionProtocolsDescription" value="Павялічвае шкоду, якую будуць атрымліваць суседнія варожыя адзінкі."/>
+	<entry name="Necrons/DestructionProtocolsFlavor" value="When a Necron Lord falls to the Destroyer curse, they abandon the caution and of their Defensive Protocols, reconfiguring their engrammic pathways to augment the aggression of their peers, not their defensive capabilities."/>
+	<entry name="Necrons/DimensionalCorridor" value="Прасторавы Калідор"/>
+	<entry name="Necrons/DimensionalCorridorDescription" value="Тэлепартуе на плітку суседнюю да горада або Маналіту."/>
+	<entry name="Necrons/DimensionalCorridorFlavor" value="“And first to walk the starlight bridge, from incorporeal to corporeal, was Artemorra, to whom the Necrontyr gave the name 'Messenger', later changed to 'Deceiver'—with good reason.”<br/>  — Fragmentary inscription on a Jokaerian Defence Orb"/>
+	<entry name="Necrons/Dynasty" value="Дынастыя"/>
+	<entry name="Necrons/DynastyDescription" value="Павялічвае ліміт насельніцтва гарадоў."/>
+	<entry name="Necrons/DynastyFlavor" value="It’s a truism that the greatest leaders attract the largest numbers of followers—or in the case of the Necrons, the greatest leaders have wider security permissions over their Canoptek maintenance units, enabling a higher population density in a given location."/>
+	<entry name="Necrons/FabricatorClawArray" value="Клюшні Фабрыкатара"/>
+	<entry name="Necrons/FabricatorClawArrayDescription" value="Аднаўляе здароўе абранай хаўруснай машыны або фартыфікацыі."/>
+	<entry name="Necrons/FabricatorClawArrayFlavor" value="This clicking, whirring proliferation of energy tools is primarily intended for maintenance and repair."/>
+	<entry name="Necrons/GloomPrism" value="Змрочная Прызма"/>
+	<entry name="Necrons/GloomPrismDescription" value="Павялічвае зьніжэньне шкоды ад вядзьмарскага агню для Канаптэкавых Павукоў і суседніх хаўрусных адзінак."/>
+	<entry name="Necrons/GloomPrismFlavor" value="The gloom prism's energy field creates a zone shrouded from Warp-spawned powers."/>
+	<entry name="Necrons/GravityPulse" value="Гравітацыйны Імпульс"/>
+	<entry name="Necrons/GravityPulseDescription" value="Зьмяншае рух і наносіць шкоду суседнім варожай авіацыі, луначам і аэрацыклам."/>
+	<entry name="Necrons/HuntersFromHyperspace" value="Паляўнічыя з Гіперпрасторы"/>
+	<entry name="Necrons/HuntersFromHyperspaceDescription" value="Тэлепартуе на абраную дасьледаваную плітку і павялічвае шкоду."/>
+	<entry name="Necrons/HuntersFromHyperspaceFlavor" value="These deadly marksmen seldom take position with the rest of the army. Instead, they slip sideways out of reality and monitor the conflict from a hyperspace oubliette – a pocket dimension riding the gap between the then and now. The Deathmarks track enemy communication channels, teleport beams and orbital descents in order to select suitably high-profile prey. This done, they exit their oubliette to tag their quarry with the hunter’s mark from which they take their name – an eerie green energy halo that plays about the target’s head in five dimensions."/>
+	<entry name="Necrons/JetCharge" value="Аэраскок"/>
+	<entry name="Necrons/JetChargeDescription" value="Павялічвае зьніжэньне шкоды і ляціць праз перашкоды да абранай пліткі."/>
+	<entry name="Necrons/JetChargeFlavor" value="In its limitless rage, a headstrong Necron Destroyer Lord can overcharge its grav-platform to move short distances extremely quickly, albeit at a further cost to its reason."/>
+	<entry name="Necrons/MindshackleScarabs" value="Скарабеі Кайданоў Розуму"/>
+	<entry name="Necrons/MindshackleScarabsDescription" value="Зьніжае мараль абранай напалоханай варожай адзінкі."/>
+	<entry name="Necrons/MindshackleScarabsFlavor" value="At the bearer's command, tiny mindshackle scarabs burrow into their target's brain, bypassing cerebral functions and robbing the unfortunate victim of their wits."/>
+	<entry name="Necrons/NecrodermisRepair" value="Аднаўленьне Некрадэрміса"/>
+	<entry name="Necrons/NecrodermisRepairDescription" value="Аднаўляе здароўе."/>
+	<entry name="Necrons/NecrodermisRepairFlavor" value="If a Necron is only mildly damaged, their living metal body can somewhat heal itself, flowing reserve metals to cover flaws and failings."/>
+	<entry name="Necrons/PhaseShiftGenerator" value="Генератар Фазавага Зруху"/>
+	<entry name="Necrons/PhaseShiftGeneratorDescription" value="Павялічвае непаражальнае зьніжэньне шкоды Гаўс-Пілонаў і суседніх хаўрусных адзінак Некронаў."/>
+	<entry name="Necrons/PhaseShiftGeneratorFlavor" value="When a Gauss Pylon is raised from the ground, it creates a temporal bubble altering the local flow of space time. Nearby Necrons can take advantage of this, shifting out of phase with reality to avoid destruction."/>
+	<entry name="Necrons/QuantumShielding" value="Квантавае Экранаваньне"/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Павялічвае непаражальнае зьніжэньне шкоды. Перазараджваецца напачатку наступнага кроку, калі атрымана шкода."/>
+	<entry name="Necrons/QuantumShieldingFlavor" value="Necron quantum shielding is a marvel of science, existing only at the precise moment of deflection—at all other times there is no indication of its presence. They are, however, temperamental devices, prone to malfunction if overloaded."/>
+	<entry name="Necrons/RepairBarge" value="Рамонтная Баржа"/> <!-- Ghost Ark -->
+	<entry name="Necrons/RepairBargeDescription" value="Аднаўляе здароўе абранай хаўруснай пяхоты Некронаў або жахлівага стварэньня."/>
+	<entry name="Necrons/RepairBargeFlavor" value="Stately they might be, but these sinister vehicles are as great a threat as the better-known Monolith. Their role is to support the Necron army, gliding across the battlefield and disgorging minute repair scarabs to return even the most devastated Necron warriors to battle readiness, before transporting them back to the fray."/>
+	<entry name="Necrons/RapidRise" value="Хуткі Ўздым"/>
+	<entry name="Necrons/RapidRiseDescription" value="Паскарае вытворчасьць чагосьці."/>
+	<entry name="Necrons/RapidRiseFlavor" value="In times of desperation, a Necron Lord can override safety protocols in the reanimation of troops or repair of vehicles, at the cost of heavily increased losses. He will, however, lose support amongst any those of the ruling class who retain sentience, in horror at the waste of resources."/>
+	<entry name="Necrons/Reaper" value="Жняяр"/>
+	<entry name="Necrons/ReaperDescription" value="Павялічвае браню і трапнасьць. Аэраскок перазараджваецца, калі Лорд-Разбуральнік атрымлівае досьвед у баі."/>
+	<entry name="Necrons/ReaperFlavor" value="Where the Flayers suffer the deathcurse of Llandu'gor, the Destroyers' madness derives from the universal fate of all Necrons—the loss of their souls when they took on living metal bodies. In the Destroyers, this drives them to refine themselves more and more, to become closer to perfect weapons—curiously, thus, closer to Aza'gorod, the Nightbringer, the doom of all life."/>
+	<entry name="Necrons/ResurrectionOrb" value="Сьфера Ажыўленьня"/>
+	<entry name="Necrons/ResurrectionOrbDescription" value="Аднаўляе здароўе абранай хаўруснай адзінкі."/>
+	<entry name="Necrons/ResurrectionOrbFlavor" value="This glowing sphere focuses energy into the regeneration circuits of nearby Necrons, enhancing their ability to self-repair."/>
+	<entry name="Necrons/RoyalGuard" value="Гаспадарская Варта"/>
+	<entry name="Necrons/RoyalGuardDescription" value="Часова заклікае Прэтарыянцаў Трыярхаў."/>
+	<entry name="Necrons/RoyalGuardFlavor" value="“I have watched the galaxy for sixty million years. I have raised civilisations to our ways and seen them thrive, fade and pass into myth. And I still believe that to exist without honour, without laws—well, it is better not to exist at all.”<br/>  — Eystan, Triarch Praetorian"/>
+	<entry name="Necrons/ScarabHive" value="Вулей Скарабеяў"/>
+	<entry name="Necrons/ScarabHiveDescription" value="Заклікае Канаптэкавых Скарабеяў."/>
+	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Units/Necrons/CanoptekScarabFlavor'/>"/>
+	<entry name="Necrons/SleepingSentry" value="Сьпячы Вартавы"/>
+	<entry name="Necrons/SleepingSentryDescription" value="Павялічвае зьніжэньне шкоды, але прадухіляе дзеяньне."/>
+	<entry name="Necrons/SolarPulse" value="Сонечны Імпульс"/>
+	<entry name="Necrons/SolarPulseDescription" value="Зьніжае трапнасьць варожай пяхоты і жахлівых стварэньняў у вобласьці."/>
+	<entry name="Necrons/SolarPulseFlavor" value="The Solar Staff burns with the light of truth and honour, and when its powers are unleashed they are a bane to all shadows. Set loose, the staff's energies blaze outward in a mighty flare, as though a new sun was born. The darkness is driven back by this false dawn, and the foe reels as their eyes are blinded and their deceptions are laid bare."/>
+	<entry name="Necrons/TheBoundCoalescent" value="Злучаная Каалісьцэнцыя"/>
+	<entry name="Necrons/TheBoundCoalescentDescription" value="Зьліваецца з Абеліскам дзеля стварэньня Тэсэрактавага Сховішча."/>
+	<entry name="Necrons/TheBoundCoalescentFlavor" value="The C'tan were immeasurably-powerful and wholly evil; these shards, fragmented by the Necrons' desperate conspiracy, are all that remains of them. In desperate times, two shards might be allowed to re-coalesce, to form a greater weapon—but the Necrons never forget the insane power of the originals."/>
+	<entry name="Necrons/VoidStrike" value="Удар Пустэчы"/>
+	<entry name="Necrons/VoidStrikeDescription" value="Выконвае атаку Клінком Пустэчы з павялічанай атакай."/>
+	<entry name="Necrons/VoidStrikeFlavor" value="“The best weapon is the one that you never have to use.”<br/>  — Kanaa the Tranquil, Necron Cryptek, creator of the Void Strike"/>
+	<entry name="Necrons/WrithingWorldscape" value="Зьвівісты Міраж"/>
+	<entry name="Necrons/WrithingWorldscapeDescription" value="Зьмяншае рух суседніх варожых адзінак."/>
+	<entry name="ObjurationMechanicum" value="Адрачэньне Механікум"/>
+	<entry name="ObjurationMechanicumDescription" value="Кляне зброю далёкага бою абранай варожай адзінкі. Таксама наносіць шкоду, калі цэльлю з'яўляецца машына або фартыфікацыя."/>
+	<entry name="ObjurationMechanicumFlavor" value="Weapons jam and engines seize up as the telekine uses his powers to wrench and twist the inner workings at the hearts of nearby machines."/>
+	<entry name="OrationOfRestoration" value="Прамова Аднаўленьня"/>
+	<entry name="OrationOfRestorationDescription" value="Кожны крок аднаўляе здароўе Капелана і суседніх хаўрусных адзінак."/>
+	<entry name="OrationOfRestorationFlavor" value="“At battle's end, speak the Liturgy in a clear voice. Respect the bravery of the living. Give the Rite of Passage to the fallen. Honour the battle gear of the dead. To do all this with reverence, even when exhausted by battle and weary from the field, is the duty of a Chaplain. It is his burden and satisfaction.”<br/>  — Adeptus Astartes, The Book of Faith"/>
+	<entry name="OrbitalBombardment" value="Арбітальны Ўдар"/>
+	<entry name="OrbitalBombardmentDescription" value="Аперацыя па бамбаваньні абранай варожай адзінкі."/>
+	<entry name="OrbitalBombardmentFlavor" value="“No Exterminatus Extremis order is carried out lightly. To order the death of a planet by Virus Bomb, Cyclonic Torpedo or Atmospheric Incinerator, one must be certain of one's intent. One must accept that millions, even billions, will die so that the rest of humanity may live.”<br/>  — Lord High Admiral Soheil, at the scouring of Colchis"/>
+	<entry name="OrbitalDeployment" value="Арбітальнае Перакідваньне"/>
+	<entry name="OrbitalDeploymentDescription" value="Перакідае адзінку з пліткі горада на абраную плітку."/>
+	<entry name="OrbitalDeploymentFlavor" value="Some units make their way to battle via tunnelling, teleportation, flying or some other extraordinary means which allows them to appear in the thick of the fighting."/>
+	<entry name="OrbitalScan" value="Арбітальнае Сканаваньне"/>
+	<entry name="OrbitalScanDescription" value="Аперацыя па выведцы абранай і суседніх плітак."/>
+	<entry name="OrbitalScanFlavor" value="A Space Marine Chapter commonly possesses an entire fleet of ships, ranging from tiny Thunderhawk Gunships to massive Strike Cruisers. On Gladius Prime, the Chapter fleet was decimated by the warp storm. Only one ship survives, swinging around the planet in an low, erratic orbit. Yet for sufficiently important targets, the Techmarine and Servitor crew will focus all its sensors onto the planet's surface."/>
+	<entry name="OrbitalStrike" value="Арбітальны Ўдар"/>
+	<entry name="OrbitalStrikeDescription" value="Выклікае арбітальны ўдар па абранай варожай адзінцы."/>
+	<entry name="Orks/BigBoss" value="Буйнабос"/>
+	<entry name="Orks/BigBossDescription" value="Павялічвае максімальнае здароўе."/>
+	<entry name="Orks/BigBossFlavor" value="“Da bigger I iz, the 'arder I 'it.”<br/>  — Da Rok, Ork Nob"/>
+	<entry name="Orks/BustHeads" value="Главалом"/>
+	<entry name="Orks/BustHeadsDescription" value="Зьніжае страты маралі Вайнабоса і найблізкіх хаўрусных адзінак. "/>
+	<entry name="Orks/BustHeadsFlavor" value="“Oi, you zogging berks! Stop 'itting each uvver and start 'itting the beakies! Or do I have to start 'itting… you? I ain't askin'—I's tellin'. Geddit?”<br/>  — Da Rok, Ork Nob"/>
+	<entry name="Orks/ChannelMentalEmissions" value="Канал Псіхічных Выкідаў"/>
+	<entry name="Orks/ChannelMentalEmissionsDescription" value="Павялічвае вытворчасьць дасьледаваньняў клану."/>
+	<entry name="Orks/ChannelMentalEmissionsFlavor" value="“The Orks are the pinnacle of creation. For them, the great struggle is won. They have evolved a society which knows no stress or angst. Who are we to judge them? We Aeldari who have failed, or the Humans, on the road to ruin in their turn? And why? Because we sought answers to questions that an Ork wouldn't even bother to ask! We see a culture that is strong and despise it as crude.”<br/>  — Uthan the Perverse, Aeldari Philosopher"/>
+	<entry name="Orks/CyborkImplants" value="Імпланты Кіборкаў"/>
+	<entry name="Orks/CyborkImplantsDescription" value="Назаўжды павялічвае шкоду і зьніжэньне шкоды абранай хаўруснай пяхоты або жахлівага стварэньня."/>
+	<entry name="Orks/CyborkImplantsFlavor" value="“Exhibit 40: Ork skin sample. This was from a senior individual in the Orkoid hierarchy, as can be seen from the increased thickness of bone, muscle and ablative skin, and the reduction in nerve structures. The laser grid is there to prevent it attempting to regrow the entire Ork.“<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Orks/DaJump" value="Да Скок"/>
+	<entry name="Orks/DaJumpDescription" value="Тэлепартуе Дзівахлопца і суседнія хаўрусныя адзінкі на абраную ды суседнія пліткі."/>
+	<entry name="Orks/DaJumpFlavor" value="The Weirdboy closes his eyes tight and, in a storm of flashing green light, teleports himself to another part of the battlefield—along with any confused Boyz who happened to be standing too close to him at the time."/>
+	<entry name="Orks/DoksTools" value="Штукі Дока"/>
+	<entry name="Orks/DoksToolsDescription" value="Аднаўляе здароўе абранай хаўруснай пяхоце ці жахліваму стварэньню."/>
+	<entry name="Orks/DoksToolsFlavor" value="From chain-scalpels and cranial trowels to a nicely weighted mallet, Ork surgical implements are crude yet surprisingly effective."/>
+	<entry name="Orks/ExperimentalProcedure" value="Эксьперыментальная Працэдура"/>
+	<entry name="Orks/ExperimentalProcedureDescription" value="Павялічвае шкоду і зьніжэньне шкоды абранай хаўруснай пяхоты і жахлівых стварэньняў."/>
+	<entry name="Orks/ExperimentalProcedureFlavor" value="“Exhibit 12: Ork biomechanical modification. 'Cyborks' are modified with equipment like this by the species' innate specialists, the 'Oddboyz', to repair major injuries and/or augment their capabilities. This one resembles an Imperial power weapon, save for the large claws and maker's mark which reads 'Grillmek woz 'ere!'“<br/>  — Lecture transcripts, Grigomen “Orklover” Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Orks/ExtraBitz" value="Дадатковыя Шматы"/>
+	<entry name="Orks/ExtraBitzDescription" value="Зьмяншае колькасьць ежы, руды і энергіі патрэбнай на ўтрыманьне пяхоты і жахлівых стварэньняў у вобласьці."/>
+	<entry name="Orks/KustomForceField" value="Кастамнае Сілавое Поле"/>
+	<entry name="Orks/KustomForceFieldDescription" value="Павялічвае зьмяншэньне шкоды ад далёкага бою гэтай адзінкі і суседніх хаўрусных адзінак."/>
+	<entry name="Orks/KustomForceFieldFlavor" value="These bizarre devices are powered by crackling energy-coils and project invisible bubbles of energy that shield nearby Orks from incoming fire."/>
+	<entry name="Orks/ProphetOfTheWaaagh" value="Прарок Вааагх!"/>
+	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Павялічвае прыбытак уплыву ад нанясеньня шкоды па адзінках ад Права Моцнага ў вобласьці."/>
+	<entry name="Orks/ProphetOfTheWaaaghFlavor" value="“I'm da hand of Gork and Mork, dey sent me to rouse up da boyz to crush and kill 'cos da boyz forgot what dere 'ere for… I'm da profit of da Waaagh an' whole worlds burn in my boot prints. I'm Warlord Ghazghkull Mag Uruk Thraka an' I speak wiv da word of da gods.”<br/>  — Ghazghkull Mag Uruk Thraka, Ork Warlord"/>
+	<entry name="Orks/WarbikeTurboBoost" value="Турба-Паскарэньне Войнацыкля"/>
+	<entry name="Orks/WarbikeTurboBoostDescription" value="Павялічвае рух і зьмяншае шкоду ад далёкага бою."/>
+	<entry name="Orks/WarbikeTurboBoostFlavor" value="“‘Fasta, fasta! Dey can’t ‘it wot dey can’t sees! Smack all dem turbos!”<br/>  — Last words of Da Rok, Ork Nob and erstwhile warbiker"/>
+	<entry name="Orks/Warpath" value="Шлях Вайны"/>
+	<entry name="Orks/WarpathDescription" value="Павялічвае колькасьць атак блізкага бою Дзівахлопца і суседніх хаўрусных адзінак Права Мобаў."/>
+	<entry name="Orks/WarpathFlavor" value="The Weirdboy disperses the Waaagh! energy coursing through his frame into the Ork warriors around him, stirring their already bellicose, warlike nature to roaring fever pitch."/>
+	<entry name="Overwatch" value="Назіраць"/>
+	<entry name="OverwatchDescription" value="Атакуе варожыя адзінкі, якія ўвайшлі ў зону атакі."/>
+	<entry name="PowerOfTheMachineSpirit" value="Сіла Духу Машыны"/>
+	<entry name="PowerOfTheMachineSpiritDescription" value="Павялічвае трапнасьць далёкага бою."/>
+	<entry name="PowerOfTheMachineSpiritFlavor" value="The interface between this vehicle's advanced machine spirit and its fire control mechanisms allows the crew to target foes with incredible accuracy."/>
+	<entry name="PowerStrike" value="Магутны Ўдар"/>
+	<entry name="PowerStrikeDescription" value="Выконвае атаку Сілавым Мячом з павялічанай шкодай."/>
+	<entry name="PowerStrikeFlavor" value="“My sword is at the Emperor's command. I answer to no other man, living or dead.”<br/>  — Tu'shan, Chapter Master of the Salamanders"/>
+	<entry name="ProduceUnit" value="Стварыць %1%"/>
+	<entry name="ProduceUnitHint" value="<style name='Title'/>Стварыць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="RazeBuilding" value="Зруйнаваць Будынак"/>
+	<entry name="RazeBuildingDescription" value="Зруйнаваць абраны будынак."/>
+	<entry name="Repair" value="Рамантаваць"/>
+	<entry name="RepairDescription" value="Аднаўляе здароўе абранай хаўруснай машыны, фартыфікацыі або адзінкі Т'аў."/>
+	<entry name="RepairFlavor" value="For the Tyranids, it may be a slick of healing enzymes and symbiotes. For the Orks, a welding torch and WAAAGH! Power. For the T’au, hard advanced science. But every race has some capability for fixing the damage caused by combat and by the hostile world of Gladius Prime."/>
+	<entry name="ReturnToTheShadows" value="Вярнуцца ў Цені"/>
+	<entry name="ReturnToTheShadowsDescription" value="Павялічвае зьніжэньне шкоды."/>
+	<entry name="ReturnToTheShadowsFlavor" value="Those kissed by the void find it easy to melt away into the shadows once their bloody ambush has been launched."/>
+	<entry name="RitesOfWar" value="Рытуалы Вайны"/>
+	<entry name="RitesOfWarDescription" value="Павялічвае шкоду Капелана і суседніх хаўрусных адзінак."/>
+	<entry name="RitesOfWarFlavor" value="Honour-bound by sacred oaths of fealty to the Imperium, the Chaplain and his warriors vow before the Chapter and the Emperor to secure victory at any cost."/>
+	<entry name="RollOverThem" value="“Расьцісьніце Іх!”"/>
+	<entry name="RollOverThemDescription" value="Раздушвае абраную варожую пяхоту."/>
+	<entry name="RollOverThemFlavor" value="When all else fails, gravity and the immense weight of a vehicle can crush otherwise impenetrable defenses—or stalwart opponents."/>
+	<entry name="SciersGaze" value="Позірк Скіера"/>
+	<entry name="SciersGazeDescription" value="Паказвае абраную плітку і суседнія пліткі."/>
+	<entry name="SciersGazeFlavor" value="The diviner can see the battlefield clearly in the mind's eye, with the vantage point of a hunting hawk and the precision of a laser. The to and fro of armies and war machines is but the scurrying of ants beneath his omniscient gaze. Thus can the diviner direct the deployment of specialist forces exactly when and where they are most needed, directing them to vital objectives that, once secured, will ensure victory."/>
+	<entry name="Scout" value="Выведаць"/>
+	<entry name="ScoutDescription" value="Паказвае ўсе пліткі ў вобласьці."/>
+	<entry name="SellHint" value="<style name='Title'/>Прадаць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="SetRallyPoint" value="Усталяваць Кропку Збору "/>
+	<entry name="SetRallyPointDescription" value="Усталяваць кропку збору дзеля новых адзінак, створаных у гэтым горадзе."/>
+	<entry name="Shockwave" value="<string name='Weapons/Shockwave'/>"/>
+	<entry name="ShockwaveFlavor" value="<string name='Weapons/ShockwaveFlavor'/>"/>
+	<entry name="Shop" value="Крама"/>
+	<entry name="ShopDescription" value="Набывае і прадае прадметы за ўплыў. Даступна ў лагеры Гандляроў Джакаэра."/>
+	<entry name="Shrouding" value="Ахутваньне"/>
+	<entry name="ShroudingDescription" value="Павялічвае зьмяншэньне шкоды ад далёкага бою гэтай адзінкі і суседніх хаўрусных адзінак."/>
+	<entry name="ShroudingFlavor" value="The psyker uses his mastery of the Warp to fog the minds of his enemies, clouding their sight and instincts so that he appears as nothing more than an indistinct shadow."/>
+	<entry name="SiegeMasters" value="Разгарнуць Майстроў Аблогі"/>
+	<entry name="SiegeMastersDescription" value="Тактыка Падзелу, што павялічвае шкоду адзінак, атакуючых варожыя адзінкі ў гарадах і фартыфікацыях."/>
+	<entry name="SiegeMastersFlavor" value="“A fortress circumvented ceases to be an obstacle. A fortress destroyed ceases to be a threat. Do not forget the difference.”<br/>  — Leman Russ, Primarch of the Space Wolves"/>
+	<entry name="Signum" value="Сігнум"/>
+	<entry name="SignumDescription" value="<string name='Traits/RelentlessDescription'/>"/>
+	<entry name="SignumFlavor" value="The signum is a communication device that quickly processes and broadcasts targeting data. This ancient piece of technology allows one member of a Space Marine squad to fire with even greater accuracy, battering vital targets with a hail of unerring shots."/>
+	<entry name="SistersOfBattle/ActOfFaithDescription" value="Акт Веры. Льга выкарыстоўваць, калі адзінка не ўзрушана і не зламана."/>
+	<entry name="SistersOfBattle/BeaconOfFaith" value="Маяк Веры"/>
+	<entry name="SistersOfBattle/BeaconOfFaithDescription" value="Аднаўляе мараль гэтай адзінкі і суседніх хаўрусных адзінак."/>
+	<entry name="SistersOfBattle/BeaconOfFaithFlavor" value="“The Khornate warriors threatened to overwhelm us, we were cut and rent and thrown aside… even the Canoness fell… and then She intervened. As She descended, a shining beacon, our wounds closed, our spirits rallied and we drove back the heretics with newfound devotion…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/Bodyguard" value="Целаахоўнік"/>
+	<entry name="SistersOfBattle/BodyguardDescription" value="Дадае дадатковую абарону суседнім хаўрусным героям."/>
+	<entry name="SistersOfBattle/BodyguardFlavor" value="Celestians are those Sisters most filled with martial spirit, proving themselves in the most intense melees. They frequently serve as bodyguards and champions of Canonesses, willingly sacrificing themselves to protect their charge."/>
+	<entry name="SistersOfBattle/CatechismOfRepugnance" value="Катэхізіс Агіды"/>
+	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="Павялічвае трапнасьць і бронепрабівальнасьць далёкага бою абранай хаўруснай адзінкі Адэпта Сарорытас."/>
+	<entry name="SistersOfBattle/CatechismOfRepugnanceFlavor" value="With the holy bolter we shall cleanse the mutant, the alien and the heretic. With the Emperor’s gift do we deliver our hatred of the defiler."/>
+	<entry name="SistersOfBattle/ChaseTheProfane" value="Пагоня за Грэхам"/>
+	<entry name="SistersOfBattle/ChaseTheProfaneDescription" value="Сьвяшчэнны Абрад, які дае Рух Праз Хованкі для пяхоты."/>
+	<entry name="SistersOfBattle/ChaseTheProfaneFlavor" value="“And the faithful shall be relentless in their inquisition. Nothing shall stand in the way of their will; neither the laws of men nor xenos; not qualms nor friends; not steel nor plascrete nor adamantium.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
+	<entry name="SistersOfBattle/ConvictionOfFaith" value="Упэўненасьць у Веры"/> 
+	<entry name="SistersOfBattle/ConvictionOfFaithDescription" value="Сьвяшчэнны Абрад, які аднаўляе мараль адзінак са Шчытом Веры."/>
+	<entry name="SistersOfBattle/ConvictionOfFaithFlavor" value="“In the age since our disgrace, not one of us has fallen. We do not struggle with our qualms as other do, nor fall to the dark path. Repeat: I know no fear for I am already death.”<br/>  — Canoness Vandire, “The Rite of Conviction” from In Memoriam De Virtute"/>
+	<entry name="SistersOfBattle/DeathBeforeDisgrace" value="Сьмерць Лепей за Ганьбу"/>
+	<entry name="SistersOfBattle/DeathBeforeDisgraceDescription" value="Аднаўляе мараль абранай хаўруснай адзінкі."/>
+	<entry name="SistersOfBattle/DeathBeforeDisgraceFlavor" value="“What is death, to us? We are not fodder for laughing gods. We are not enshrined in stones, like the foul Aeldari. For us death is an end to service, a reward only given if we do not seek it. So act as if each moment is your last, but strive against that day with all your heart.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
+	<entry name="SistersOfBattle/DivineDeliverance" value="Божае Збавеньне"/>
+	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="Гэтая адзінка і суседнія адзінкі Адэпта Сарорытас зьніжаюць мараль атакаваных адзінак."/>
+	<entry name="SistersOfBattle/DivineDeliveranceFlavor" value="Enemy warlords tremble before the divine majesty of one blessed by the Emperor, and their minions quake before the booming onslaught of such a warrior’s companions."/>
+	<entry name="SistersOfBattle/DivineGuidance" value="Божае Распараджэньне"/>
+	<entry name="SistersOfBattle/DivineGuidanceDescription" value="Павялічвае шкоду і бронепрабівальнасьць.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/DivineGuidanceFlavor" value="As the combatants of the sorority recite rites of destruction, their aim faithfully falls where it will cause the most harm – every shot and every strike becoming a mortal blow that condemns another heretic to oblivion."/>
+	<entry name="SistersOfBattle/EndlessCrusade" value="Бясконцы Крыжовы Паход"/>
+	<entry name="SistersOfBattle/EndlessCrusadeDescription" value="Дае Флот і Рух Праз Хованкі.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/EndlessCrusadeFlavor" value="Limbs do not tire when the spirit of the Emperor moves them, but find fresh strength in the righteous work to come."/>
+	<entry name="SistersOfBattle/EternalCrusade" value="<string name='Traits/SistersOfBattle/EternalCrusade'/>"/>
+	<entry name="SistersOfBattle/EternalCrusadeDescription" value="Сьвяшчэнны Абрад, які павялічвае вытворчасьць Баявых Капліц і Легатынус Прыоры."/>
+	<entry name="SistersOfBattle/EternalCrusadeFlavor" value="<string name='Traits/SistersOfBattle/EternalCrusadeFlavor'/>"/>
+	<entry name="SistersOfBattle/FlankSpeed" value="<string name='Traits/SistersOfBattle/FlankSpeed'/>"/>
+	<entry name="SistersOfBattle/FlankSpeedDescription" value="<string name='Traits/SistersOfBattle/FlankSpeedDescription'/>"/>
+	<entry name="SistersOfBattle/FlankSpeedFlavor" value="<string name='Traits/SistersOfBattle/FlankSpeedFlavor'/>"/>
+	<entry name="SistersOfBattle/HealingTears" value="Загойваючыя Сьлёзы"/>
+	<entry name="SistersOfBattle/HealingTearsDescription" value="Аднаўляе частку здароўя Сьвятой Сэлесьціны."/>
+	<entry name="SistersOfBattle/HealingTearsFlavor" value="“And, lo, the tears were human, tears for her lost sisters, tears for the endless war—but they were transfigured in their descent and where they struck, they blessed. And the Saint herself roused herself up with righteous fury…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/IonGauntletShield" value="Іённы Шчыт Рукавіцы"/>
+	<entry name="SistersOfBattle/IonGauntletShieldDescription" value="Зьніжае трапнасьць блізкага бою суседніх гіганцкіх стварэньняў альбо звышцяжкіх крокаходаў."/>
+	<entry name="SistersOfBattle/IonGauntletShieldFlavor" value="<string name='Traits/SistersOfBattle/IonGauntletShieldFlavor'/>"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Захавальніцы Веры"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithDescription" value="Не дае назіраць, але павялічвае зьніжэньне шкоды, калі ў адзінцы засталіся нявыкарастаныя дзеяньні.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/KeepersOfTheFaithFlavor" value="<string name='Traits/SistersOfBattle/KeepersOfTheFaithFlavor'/>"/>
+	<entry name="SistersOfBattle/LaudHailer" value="Хвалебнае Вітаньне"/>
+	<entry name="SistersOfBattle/LaudHailerDescription" value="Суседняя адзінка Адэпта Сарорытас можа зьдяйсьняць Акты Веры, нават калі ўзрушана."/>
+	<entry name="SistersOfBattle/LaudHailerFlavor" value="Proclaiming the power of the Emperor in heavenly tones, a Laud Hailer bolsters the spirits of the faithful."/>
+	<entry name="SistersOfBattle/LeadTheRighteous" value="Узначальваньне Праведных"/>
+	<entry name="SistersOfBattle/LeadTheRighteousDescription" value="Павялічвае трапнасьць гэтай адзінкі і суседніх пяхотных хаўрусных адзінак Адэпта Сарорытас."/>
+	<entry name="SistersOfBattle/LeadTheRighteousFlavor" value="“A Canoness is no skulking commissar, to hide behind her sisters’ skirts and send them to her deaths. My role is to lead from the front, to inspire love and faith by my example. For we are the righteous of the Emperor and we will not fail in our aim.”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
+	<entry name="SistersOfBattle/LightOfTheEmperor" value="Сьвятло Імператара"/>
+	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="Павялічвае трапнасьць.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="Sisters of the Adepta Sororitas are filled with the knowledge that the only thing they need fear is failing the Emperor of Mankind. Armed with such faith, they are driven to unprecedented feats of prowess."/>
+	<entry name="SistersOfBattle/MedicusMinistorum" value="Медыкус Міністрорум"/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае зьніжэньне шкоды ад адсутнасьці пачуцьця болю суседняй хаўруснай пяхоце."/>
+	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum and by the Hospitallers of the Adepta Sororitas. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments."/>
+	<entry name="SistersOfBattle/MiraculousIntervention" value="Цудоўнае Ўмяшальніцтва"/>
+	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="Пасьля сьмерці Сьвятая Сэлесьціна неадкладна вяртаецца да жыцьця.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/MiraculousInterventionFlavor" value="Not even death can stop the Emperor’s chosen servants, and through his benevolence they rise again to serve the Master of Mankind’s will."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Traits/SistersOfBattle/NonMilitantMobilisation'/>"/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="Сьвяшчэнны Абрад, які павялічвае зьбіраньне рэквізіцыяў у гарадах."/>
+	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="<string name='Traits/SistersOfBattle/NonMilitantMobilisationFlavor'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitations" value="<string name='Traits/SistersOfBattle/PurifyingRecitations'/>"/>
+	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Сьвяшчэнны Абрад, які павялічвае шкоду агнявой і мельта зброі."/>
+	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="<string name='Traits/SistersOfBattle/PurifyingRecitationsFlavor'/>"/>
+	<entry name="SistersOfBattle/RagingFervour" value="<string name='Traits/SistersOfBattle/RagingFervour'/>"/>
+	<entry name="SistersOfBattle/RagingFervourDescription" value="Сьвяшчэнны Абрад, які павялічвае шкоду болтарнай зброі."/>
+	<entry name="SistersOfBattle/RagingFervourFlavor" value="<string name='Traits/SistersOfBattle/RagingFervourFlavor'/>"/>
+	<entry name="SistersOfBattle/RighteousJudgement" value="Праведны Суд"/>
+	<entry name="SistersOfBattle/RighteousJudgementDescription" value="Ігнаруе зьніжэньне шкоды далёкага бою і павялічвае шкоду, якую атрымлівае абраная варожая адзінка."/>
+	<entry name="SistersOfBattle/RighteousJudgementFlavor" value="None can escape the Emperor’s judgement, and wherever the foe attempts to seek shelter the shots of the Adepta Sororitas miraculously seek them out."/>
+	<entry name="SistersOfBattle/SacralVigor" value="Сакральная Моц"/>
+	<entry name="SistersOfBattle/SacralVigorDescription" value="Сьвяшчэнны Абрад, які аднаўляе здароўе адзінак са Шчытом Веры."/>
+	<entry name="SistersOfBattle/SacralVigorFlavor" value="“What of these wounds upon us, sisters? Is our flesh that precious to us, our beauty that sacred? Tear at these cuts, open them, they are but motes in fanciful air. Never forget that our reality is faith, and pain, like life, is evanescent…”<br/>  — Canoness Vandire, In Memoriam De Virtute"/>
+	<entry name="SistersOfBattle/SacredHealing" value="Сьвяшчэннае Вылечваньне"/>
+	<entry name="SistersOfBattle/SacredHealingDescription" value="Аднаўляе здароўе абранай хаўруснай пяхоты."/>
+	<entry name="SistersOfBattle/SacredHealingFlavor" value="Implements of both torture and salvation, the chirurgeon’s tools can restore the fallen so that they might fight once more."/>
+	<entry name="SistersOfBattle/SaintlyBlessings" value="Сьвятыя Благаславеньні"/>
+	<entry name="SistersOfBattle/SaintlyBlessingsDescription" value="Дае дадатковае зьніжэньне шкоды гэтай адзінцы і суседнім хаўрусным адзінкам."/>
+	<entry name="SistersOfBattle/SaintlyBlessingsFlavor" value="In the presence of an ordained Living Saint, even the most impious of the Emperor’s servants cannot help but be swept up by the tide of religious fervour."/>
+	<entry name="SistersOfBattle/SolaceInAnguish" value="Уцяшэньне ў Пакутах"/>
+	<entry name="SistersOfBattle/SolaceInAnguishDescription" value="Павялічвае зьніжэньне шкоды.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/SolaceInAnguishFlavor" value="“I had seen a Preacher impaled on a steeple. The remains of a missionary found by genestealer cultists. We felt the loss so strongly—but our anguish did not weaken us, but spurred us on…”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/StirringRhetoric" value="Хвалюючая Рыторыка"/>
+	<entry name="SistersOfBattle/StirringRhetoricDescription" value="Гэтая адзінка і суседнія хаўрусныя адзінкі, што выкарыстоўваюць Акты Веры, атрымліваюць дадатковую браню."/>
+	<entry name="SistersOfBattle/StirringRhetoricFlavor" value="“There is no light but the light of the Emperor! There is no faith but faith in the Emperor! There is no truth but the truth of the Emperor!”<br/>  — First Exclamation of the Dialogus Order of the Resounding Vow"/>
+	<entry name="SistersOfBattle/TaleOfTheFaithful" value="Аповед Адданасьці"/>
+	<entry name="SistersOfBattle/TaleOfTheFaithfulDescription" value="Павялічвае рух гэтай адзінцы і суседніх пяхотных адзінак Адэпта Сарорытас."/>
+	<entry name="SistersOfBattle/TaleOfTheFaithfulFlavor" value="From a young age, the initiates of the Adepta Sororitas exercise and pray backed by the sonorous songs of the Imagifiers, inspired to superhuman feats by the testaments of their long-dead sisters. Even cynical veterans, hearing the song in their dotage, are inspired to transcend their body’s limitations, moving with impossible swiftness and blessed grace."/>
+	<entry name="SistersOfBattle/TaleOfTheStoic" value="Аповед Стаіцызму"/>
+	<entry name="SistersOfBattle/TaleOfTheStoicDescription" value="Павялічвае зьніжэньне шкоды гэтай адзінцы і суседніх пяхотных адзінак Адэпта Сарорытас."/>
+	<entry name="SistersOfBattle/TaleOfTheStoicFlavor" value="Hearing the stories of the Emperor’s eternal suffering and silent resilience, each Sister is filled with His courage. Their will-to-fight in His name is indefatigable and they push through injuries so grievous that an average man would be long-dead from shock. Yet they are neither average nor men."/>
+	<entry name="SistersOfBattle/TaleOfTheWarrior" value="Аповед Ваярскасьці"/>
+	<entry name="SistersOfBattle/TaleOfTheWarriorDescription" value="Павялічвае шкоду блізкага бою суседніх пяхотных адзінак Адэпта Сарорытас."/>
+	<entry name="SistersOfBattle/TaleOfTheWarriorFlavor" value="When the Imagifiers chant their tales of ancient battles of Istvaan V, of Sanguinius at the Eternity Gate, of Horus’ downfall, the Battle Sisters become suffused with the martial spirit of their forebears, every blow landing like the Emperor’s fist."/>
+	<entry name="SistersOfBattle/TheEmperorsVengeance" value="Помста Імператара"/>
+	<entry name="SistersOfBattle/TheEmperorsVengeanceDescription" value="Заклікае боскі прамень для бамбаваньня варожых пазіцыяў."/>
+	<entry name="SistersOfBattle/TheEmperorsVengeanceFlavor" value="“This was not in the doctrines, nor the ephemera, nor even the apocrypha. This planet had drained the Saint, it is true. But at moments of great wrath, her true power broke through, all at once, and devastated those who dared to stand against her.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/ThePassion" value="Запал"/>
+	<entry name="SistersOfBattle/ThePassionDescription" value="Павялічвае трапнасьць блізкага бою Кананэс і суседніх хаўрусных адзінак.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
+	<entry name="SistersOfBattle/ThePassionFlavor" value="A Canoness leads her Sisters through the chaos of melee, striking at their foes with a speed and hatred born of holy fervour."/>
+	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Traits/SistersOfBattle/VengefulSpirit'/>"/>
+	<entry name="SistersOfBattle/VengefulSpiritDescription" value="Сьвяшчэнны Абрад, які вяртае шкоду назад варожаму атакоўцу."/>
+	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="<string name='Traits/SistersOfBattle/VengefulSpiritFlavor'/>"/>
+	<entry name="SistersOfBattle/VerseOfHolyPiety" value="Верш пра Сьвятую Набожнасьць"/>
+	<entry name="SistersOfBattle/VerseOfHolyPietyDescription" value="Зьніжае час перазарадкі Актаў Веры абранай адзінкі."/>
+	<entry name="SistersOfBattle/VerseOfHolyPietyFlavor" value="Pray is stronger than any sword. As the sanctified words of the Order’s holy tenets are roared across the battlefield, the devout are infused with the Emperor’s blessings."/>
+	<entry name="SistersOfBattle/WarHymn" value="Вайсковы Гімн"/>
+	<entry name="SistersOfBattle/WarHymnDescription" value="Павялічвае атакі блізкага бою абранай хаўруснай адзінцы Адэпта Сарорытас, якая ня з'яўляецца звышцяжкай."/>
+	<entry name="SistersOfBattle/WarHymnFlavor" value="Suffer not the enemies of Mankind to live. Smite them down with all your strength and fury."/>
+	<entry name="SistersOfBattle/WarmachinesWrath" value="<string name='Traits/SistersOfBattle/WarmachinesWrath'/>"/>
+	<entry name="SistersOfBattle/WarmachinesWrathDescription" value="Сьвяшчэнны Абрад, які павялічвае вытворчасьць Памазаных Ангараў і Эклізіархальных Падамацаваньняў."/>
+	<entry name="SistersOfBattle/WarmachinesWrathFlavor" value="<string name='Traits/SistersOfBattle/WarmachinesWrathFlavor'/>"/>
+	<entry name="SkilledJink" value="Майстэрскія Хітрыкі"/>
+	<entry name="SkilledJinkDescription" value="<string name='Actions/JinkDescription'/>"/>
+	<entry name="SkilledJinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
+	<entry name="Skip" value="Прапусьціць"/>
+	<entry name="SkipDescription" value="Прапусьціць гэта крок."/>
+	<entry name="Sleep" value="Спаць"/>
+	<entry name="SleepDescription" value="Спыняе вытворчасьць да скасаваньня."/>
+	<entry name="SpaceMarines/Omniscope" value="Амніскоп"/>
+	<entry name="SpaceMarines/OmniscopeDescription" value="Ігнаруе зьмяншэньне шкоды ад далёкага бою."/>
+	<entry name="SpaceMarines/OmniscopeFlavor" value="Centurions make use of omniscopes to better direct their fearsome firepower and pierce the gloom of a hostile galaxy."/>
+	<entry name="SpaceMarines/RepulsorField" value="Рэпульсорнае Поле"/>
+	<entry name="SpaceMarines/RepulsorFieldDescription" value="Зьніжае рух ворагаў на суседніх плітках."/>
+	<entry name="SpaceMarines/RepulsorFieldFlavor" value="When Arkhan Land rediscovered the STC for anti-gravity devices, it is unlikely that he intended them as yet another weapon in the Repulsor tank’s already weighty arsenal. Yet, as a Repulsor Executioner coasts to a halt, it discharges directed crushing pulses of gravitic force through its ventral grab plates, pinning any foes just before its cargo of Primaris marines spring upon them…"/>
+	<entry name="SpaceSlip" value="Касьмічнае Ўхіленьне"/>
+	<entry name="SpaceSlipDescription" value="Павялічвае зьніжэньне шкоды."/>
+	<entry name="SpawnUnits" value="Выклікаць %1%"/>
+	<entry name="SpawnUnitsHint" value="<style name='Title'/>Выклікаць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
+	<entry name="StrikeAndShroud" value="“Бей і хавайся!”"/>
+	<entry name="StrikeAndShroudDescription" value="Стварае дымавую заслону на плітцы з Камандорам Танкаў і суседніх плітках з хаўруснымі танкамі дзеля забесьпячэньня зьніжэньня шкоды ў далёкім баі. "/>
+	<entry name="SummaryExecution" value="Сьмяротная Кара"/>
+	<entry name="SummaryExecutionDescription" value="Карае сьмерцю чальца суседняй пяхотнай адзінкі, каб аднавіць мараль найблізкіх хаўрусных адзінак."/>
+	<entry name="SummaryExecutionFlavor" value="In extremis, a Commissar must be prepared to execute wavering soldiers or incompetent officers without a moment's remorse; few things enforce discipline better than a malcontent or coward being shot dead for their failings, and this message is all the stronger when a mass-reactive bolt shell sprays a Guardsman's brains across his horrified comrades in a shower of gore."/>
+	<entry name="Supersonic" value="Звышгук"/>
+	<entry name="SupersonicDescription" value="Павялічвае рух."/>
+	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
+	<entry name="TacticalDoctrine" value="Ужыць Тактычную Дактрыну"/>
+	<entry name="TacticalDoctrineDescription" value="Тактыка Падзелу, што павялічвае трапнасьць Тактычных Касьмічных Марынаў."/>
+	<entry name="TacticalDoctrineFlavor" value="“They shall be pure of heart and strong of body, untainted by doubt and unsullied by self-aggrandisement. They will be bright stars on the firmament of battle, Angels of Death whose shining wings bring swift annihilation to the enemies of Man. So it shall be for a thousand times for a thousand years, unto the very end of eternity and the extinction of mortal flesh.”<br/>  — Codex Astartes, by Roboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
+	<entry name="Tau/AdvancedTargetingSystem" value="Усталяваць <string name='Traits/Tau/AdvancedTargetingSystem'/>"/>
+	<entry name="Tau/AdvancedTargetingSystemDescription" value="Усталяваць сістэму падтрымкі, што павялічвае трапнасьць стральбы."/>
+	<entry name="Tau/AdvancedTargetingSystemFlavor" value="An advanced targeting system assists the vehicle's gunner by identifying targets of particular value or danger and plotting fire plans to counter them."/>
+	<entry name="Tau/BondingKnifeRitual" value="Рытуал Яднаньня з Нажом"/>
+	<entry name="Tau/BondingKnifeRitualDescription" value="Аднаўляе мараль."/>
+	<entry name="Tau/BondingKnifeRitualFlavor" value="Many T'au groupings undergo the solemn and bloody ceremony known as the ta'lissera. Those teams that share this bond swear to support one another at all costs for the rest of their lives."/>
+	<entry name="Tau/BreakComposure" value="Зьнішчэньне Вытрымкі"/>
+	<entry name="Tau/BreakComposureDescription" value="Гэтая адзінка і суседняя хаўрусная пяхота прымушаюць атакаваныя адзінкі страціць мараль."/>
+	<entry name="Tau/BreakComposureFlavor" value="Though not physically impressive, the T’au can inculcate fear in their enemies through subtler means—by harrying them so that they can’t focus, by surrounding them, by forcing them down tactical paths that only lead to repeated failure. Sometimes you don’t need to even touch an enemy to defeat them."/>
+	<entry name="Tau/CalmOfTides" value="Штыль"/>
+	<entry name="Tau/CalmOfTidesDescription" value="Аднаўляе здароўе Этэрнага і суседняй пяхоты Т'аў і жахлівых стварэньняў."/>
+	<entry name="Tau/CalmOfTidesFlavor" value="“Wait a moment. Breathe. Do not hurry to their salvation. All will come to the T’au eventually. Alive or dead.”<br/>  — Aun’Dak’E, Curator of Spirit"/>
+	<entry name="Tau/ConvertWildlife" value="Перавабіць у Аўксіліарыі"/>
+	<entry name="Tau/ConvertWildlifeDescription" value="Пераваблівае на вашы бок адзінку Круцкіх Гончых або Вэсьпідаў-Джалакрылаў. Заняволеныя адзінкі ня могуць быць пераваблены. Кошт залежыць ад сілы цэлі."/>
+	<entry name="Tau/ConvertWildlifeFlavor" value="“Soldiers of the Fire Caste! Kroot and Vespid allies! Today, we stand as a bulwark against the selfish, the soulless, and the mad!”<br/>  — Aun'el Shi'ores, at the loss of Kronus"/>
+	<entry name="Tau/CounterfireDefenceSystem" value="Усталяваць <string name='Traits/Tau/CounterfireDefenceSystem'/>"/>
+	<entry name="Tau/CounterfireDefenceSystemDescription" value="Усталёўвае сістэму падтрымкі, што павялічвае трапнасьць атак ад назіраньня."/>
+	<entry name="Tau/CounterfireDefenceSystemFlavor" value="These AI sensor suites incorporate predictive logic circuits to ensure that assaulting enemies are met with a withering hail of fire."/>
+	<entry name="Tau/DeployDrone" value="Разгарнуць %1%"/>
+	<entry name="Tau/DeployDroneDescription" value="Часова разгортвае %1%. Падзяляе перазарадку зь іншымі здольнасьцямі разгортваньня дронаў.<br/><br/>%2%"/>
+	<entry name="Tau/DroneController" value="Усталяваць <string name='Traits/Tau/DroneController'/>"/>
+	<entry name="Tau/DroneControllerDescription" value="Усталёўвае сістэму падтрымкі, што павялічвае трапнасьць суседніх дронаў."/>
+	<entry name="Tau/DroneControllerFlavor" value="A Drone controller acts as an interface between a Fire caste operator and the AI battle programs of nearby drones."/>
+	<entry name="Tau/ForTheGreaterGood" value="У Імя Найвышэйшага Дабрабыту"/>
+	<entry name="Tau/ForTheGreaterGoodDescription" value="Зьніжае мараль абранага ворага. Кошт залежыць ад сілы цэлі."/>
+	<entry name="Tau/ForTheGreaterGoodFlavor" value="“There are two kinds of conduct the Ethereals will not countenance. The first is a failure to reflect upon what is for the Greater Good of the T'au race. The second is the deliberate refusal to follow the path of the Greater Good when it is clear what it must be.”<br/>  — Por'ui Dal'yth Ukos, water caste envoy"/>
+	<entry name="Tau/GravityWaveProjector" value="Праэктар Гравітацыйных Хваляў"/>
+	<entry name="Tau/GravityWaveProjectorDescription" value="Забараняе рух адзінцы ў абранай плітцы."/>
+	<entry name="Tau/GravityWaveProjectorFlavor" value="This projector emits a high-powered graviton wave that repulses nearby enemies, slowing their advance to a crawl."/>
+	<entry name="Tau/HolophotonCountermeasures" value="Контрзахад Галафатону"/>
+	<entry name="Tau/HolophotonCountermeasuresDescription" value="Зьмяншае трапнасьць далёкага бою абранай варожай адзінкі."/>
+	<entry name="Tau/HolophotonCountermeasuresFlavor" value="Triggered by AI-assisted threat-warning protocols, holophoton countermeasures take the form of a targeted barrage of holo-decoys, friendly target simulacra and stroboscopic blasts. Enemy weapons are confounded, safety-switches engaging and machine spirits rebelling while their operators are left bewildered and blinded by the overwhelming sensory overload."/>
+	<entry name="Tau/Kauyon" value="Каён (Цярплівы Паляўнічы)"/>
+	<entry name="Tau/KauyonDescription" value="Метастратэгія, што павялічвае зьмяншэньне шкоды ад далёкага бою для хаўрусных адзінак Т'аў у вобласьці. Падзяляе перазарадку зь іншымі метастратэгіямі."/>
+	<entry name="Tau/KauyonFlavor" value="“Your troops are losing. They fall back! They flee! The enemy pursues, hungry for our valourous blood! Everything is lost… then your troops turn and fire. You reveal the flanking troops. And your enemy is in a pocket, encircled. The patient hunter triumphs.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/Markerlight" value="Пазначыць Цэлі"/>
+	<entry name="Tau/MarkerlightDescription" value="Павялічвае трапнасьць у далёкім баі для Т'аў супраць абранай варожай адзінцы не фартыфікацыі. Зьмяншае зьніжэньне шкоды ад далёкага бою для абранай варожай адзінцы не фартыфікацыі супраць Т'аў. Дзеяньне працягваецца да атакі Т'аў абранай варожай адзінкі."/>
+	<entry name="Tau/MarkerlightFlavor" value="A markerlight is a hand-held device that projects a simple beam onto a target which then transmits a torrent of targeting data to other T'au units, allowing them to engage the target with unerring accuracy."/>
+	<entry name="Tau/Montka" value="Монт'ка (Сьмяротны Ўдар)"/>
+	<entry name="Tau/MontkaDescription" value="Метастратэгія, што павялічвае шкоду хаўрусных адзінак Т'аў у вобласьці супраць варожых адзінак са здароўем меншым за 50%. Падзяляе перазарадку зь іншымі метастратэгіямі."/>
+	<entry name="Tau/MontkaFlavor" value="“Your enemy builds his force carefully. At its centre, lie his core units. You feign weakness. You draw them out. And you focus your fire on them. Without them, the enemy is lost. Cut off the head, the beast dies. Well, except for Be’gel.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/NovaBoost" value="Нова Паскарэньне"/>
+	<entry name="Tau/NovaBoostDescription" value="Ахвяруе здароўе дзеля павелічэньня руху."/>
+	<entry name="Tau/NovaBoostFlavor" value="Though slightly unstable, the nova reactor is a dark-matter power source with an output akin to that of a small star."/>
+	<entry name="Tau/NovaElectromagneticShockwave" value="Нова Электрамагнітная Ўдарная Хваля"/>
+	<entry name="Tau/NovaElectromagneticShockwaveDescription" value="Ахвяруе здароўе дзеля зьдзяйсьненьня асаблівай атакі, якая ўзьдзейнічае на суседніх ворагаў і хаўруснікаў."/>
+	<entry name="Tau/NovaElectromagneticShockwaveFlavor" value="The experimental Nova Reactors are only used on a handful of Battlesuit designs. Damage cannot be avoided from their use, but sometimes they must be employed for the Greater Good to supercharge offensive or defensive weapon systems—or, as here, to render the Battlesuit’s local area utterly lethal with a burst of raw power."/>
+	<entry name="Tau/NovaFire" value="Нова Полымя"/>
+	<entry name="Tau/NovaFireDescription" value="Ахвяруе здароўе дзеля павелічэньня атак."/>
+	<entry name="Tau/NovaFireFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
+	<entry name="Tau/NovaShield" value="Нова Шчыт"/>
+	<entry name="Tau/NovaShieldDescription" value="Ахвяруе здароўе дзеля павелічэньня зьніжэньня шкоды."/>
+	<entry name="Tau/NovaShieldFlavor" value="<string name='Actions/Tau/NovaBoostFlavor'/>"/>
+	<entry name="Tau/PreciseShot" value="Трапны Стрэл"/>
+	<entry name="Tau/PreciseShotDescription" value="Зьдзяйсьняе бескампрамісную атаку зь Імпульснай Стрэльбы з павышанай трапнасьцю, шкодай і далёкасьцю."/>
+	<entry name="Tau/PreciseShotFlavor" value="“I’m not going to teach you a special deathblow. I’m not going to give you a bigger gun. I’m not going to surround you with magic shield drones willing to die for you. But I am going to teach you to shoot straight, under fire, together. That immediately makes you better than every last Gue’la.”<br/>  — Tutor Sharptongue"/>
+	<entry name="Tau/PulseAccelerator" value="Імпульсны Паскаральнік"/>
+	<entry name="Tau/PulseAcceleratorDescription" value="Павялічвае далёкасьць імпульснай зброі абранай хаўруснай адзінкі."/>
+	<entry name="Tau/PulseAcceleratorFlavor" value="This device emits a powerful induction field that accelerates the charges of pulse weapons, increasing their range."/>
+	<entry name="Tau/PurchaseEnergy" value="Роўныя пад Небам"/>
+	<entry name="Tau/PurchaseEnergyDescription" value="Набыць энергію."/>
+	<entry name="Tau/PurchaseEnergyFlavor" value="In the ruins of Gladius Prime, a billion people still live. Though war rages about them, though monstrosities erase their towns, they persist—and those who recognize them, understand them and help them, will receive help in return."/>
+	<entry name="Tau/PurchaseFood" value="Шмат Ратоў"/>
+	<entry name="Tau/PurchaseFoodDescription" value="Набыць ежу."/>
+	<entry name="Tau/PurchaseFoodFlavor" value="The billion survivors of Gladius’ hive cities live hand-to-mouth—but they survive. They dine on scavenged supplies, farmed crops, secret soylent vats, foraged ash clams and hunted canids. Convince them to join the T’au and they will share their feast."/>
+	<entry name="Tau/PurchaseOre" value="Шчыт для Ўсіх"/>
+	<entry name="Tau/PurchaseOreDescription" value="Набыць руду."/>
+	<entry name="Tau/PurchaseOreFlavor" value="Outside of Imperial oversight, the billion survivors of Gladius may be in constant threat of starvation, death or corruption, but they also have their first ever free time. Bring them to the T’au, and they may spend it scavenging ore and scrap from the fallen hives for you."/>
+	<entry name="Tau/PurchasePopulation" value="Празелітызм"/>
+	<entry name="Tau/PurchasePopulationDescription" value="Павялічвае насельніцтва абранага хаўруснага горада Т'аў."/>
+	<entry name="Tau/PurchasePopulationFlavor" value="Outside in the wastes, live the billion survivors of Gladius Prime. But the T’au doesn’t discriminate against the gue’la—should you persuade them to join, they will surely contribute to our city and save this world."/>
+	<entry name="Tau/PurchaseResearch" value="Агульная Мудрасьць"/>
+	<entry name="Tau/PurchaseResearchDescription" value="Набыць дасьледаваньні."/>
+	<entry name="Tau/PurchaseResearchFlavor" value="The Imperium’s technology may be archaic and strange, but the Earth Caste will never cease learning. If the Water Caste can persuade just a handful of Tech-priests to join our cause, their knowledge could supplement ours—could enable even more rapid advances in our technology."/>
+	<entry name="Tau/Rinyon" value="Рыньён (Кола Клінкоў)"/>
+	<entry name="Tau/RinyonDescription" value="Метастратэгія, што павялічвае трапнасьць хаўрусных адзінак Т'аў у вобласьці супраць варожых адзінак, суседніх зь іншымі хаўруснымі адзінкамі. Падзяляе перазарадку зь іншымі метастратэгіямі."/>
+	<entry name="Tau/RinyonFlavor" value="“Your enemy encircles you. His troops are close. Too close. Your targeting network assigns every Fire Caste a victim, not his neighbour. You fire as one, every shot strikes, they fall as one. A distracted enemy is as good as dead.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/Ripyka" value="Рып'айка (Тысяча Кінжалаў)"/>
+	<entry name="Tau/RipykaDescription" value="Зьмяншае час перазарадкі метастратэгіяў Камандора."/>
+	<entry name="Tau/RipykaFlavor" value="“The enemy’s armour is thick, your blade makes only a scratch. In his arrogance, he allows you to strike. Hit the same spot, ten, a hundred, a thousand times. That scratch becomes a dent becomes a hole becomes his death. Water erodes the stone.”<br/>  — Tutor Falsemoon"/>
+	<entry name="Tau/ProjectShield" value="Праэктар-Шчыт"/>
+	<entry name="Tau/ProjectShieldDescription" value="Павялічвае зьніжэньне шкоды абранай хаўруснай адзінкі."/>
+	<entry name="Tau/ProjectShieldFlavor" value="<string name='Units/Tau/ShieldDroneFlavor'/>"/>
+	<entry name="Tau/SenseOfStone" value="Пачуцьцё Каменя"/>
+	<entry name="Tau/SenseOfStoneDescription" value="Павялічвае зьніжэньне шкоды па Этэрным, суседняй пяхоце Т'ау і жахлівым стварэньням. Агульны час перазарадкі з Агнявым Штормам."/>
+	<entry name="Tau/SenseOfStoneFlavor" value="“There are only four thoughts the Fire Caste must know. Knowing when to hide. Knowing when to defend. Knowing when to mislead. And knowing when to strike. Ask nothing more.”<br/>  — Aun’Dak’E, Curator of Spirit"/>
+	<entry name="Tau/ShieldGenerator" value="Усталяваць <string name='Traits/Tau/ShieldGenerator'/>"/>
+	<entry name="Tau/ShieldGeneratorDescription" value="Усталёўвае сістэму падтрымкі, што павялічвае зьніжэньне шкоды."/>
+	<entry name="Tau/ShieldGeneratorFlavor" value="This generator projects a choesive energy field capable of protecting the bearer from heavy ordnance and anti-tank weapons fire."/>
+	<entry name="Tau/StealthField" value="Шчыт-Нябачнік"/>
+	<entry name="Tau/StealthFieldDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою для абранай хаўруснай адзінкі."/>
+	<entry name="Tau/StealthFieldFlavor" value="<string name='Units/Tau/StealthDroneFlavor'/>"/>
+	<entry name="Tau/StimulantInjector" value="Усталяваць <string name='Traits/Tau/StimulantInjector'/>"/>
+	<entry name="Tau/StimulantInjectorDescription" value="Усталёўвае сістэму падтрымкі, што павялічвае зьніжэньне шкоды."/>
+	<entry name="Tau/StimulantInjectorFlavor" value="The battlesuit is fitted with an advanced life-support system that is able to flood the warrior's system with analgesic drugs and life-sustaining stimulants should he become wounded."/>
+	<entry name="Tau/StormOfFire" value="Агнявы Шторм"/>
+	<entry name="Tau/StormOfFireDescription" value="Павялічвае атакі Этэрнага, суседняй пяхоты Т'ау і жахлівых стварэньняў. Мае агульны час перазарадкі з Пачуцьцём Каменя."/>
+	<entry name="Tau/StormOfFireFlavor" value="“It burns so briefly, the light of my children, so briefly. But, by the Greater Good, it burns so bright!”<br/>  — Aun’Va, Master of the Undying Spirit"/>
+	<entry name="Tau/SubvertCity" value="Зрынаньне Горада"/>
+	<entry name="Tau/SubvertCityDescription" value="Зьніжае лаяльнасьць абранага варожага горада. Кошт маштабуецца з улікам насельніцтва."/>
+	<entry name="Tau/SubvertCityFlavor" value="“What’s that? You call that a house!? Someone lives in that?! Oh my. Well, it shows just how brave you all are. Your masters know you don’t need proper shelter or water or food or sleep or rest to die doing your jobs, for the ‘Great Emperator’! If he even exists. Anyway, if you change your mind about joining the T’au, do let me know.”<br/>  — Por'el Dal'kor Slytongue, water caste emissary"/>
+	<entry name="Tau/Unity" value="Адзінства"/>
+	<entry name="Tau/UnityDescription" value="Павялічвае лаяльнасьць усіх гарадоў."/>
+	<entry name="Tau/UnityFlavor" value="Though the Commanders are the icons of T’au propaganda, it is the Fireblades who are quietly regarded as the true heroes—warriors good enough to don Battle Suits who choose instead to stay with the rank and file, training them for the Greater Good. They are the true inspirations."/>
+	<entry name="Tau/VectoredRetroThrusters" value="Усталяваць <string name='Traits/Tau/VectoredRetroThrusters'/>"/>
+	<entry name="Tau/VectoredRetroThrustersDescription" value="Усталёўвае сістэму падтрымкі, што павялічвае рух і дазваляе адзінцы ігнараваць зону кантролю ворага."/>
+	<entry name="Tau/VectoredRetroThrustersFlavor" value="The warrior's battlesuit is equipped with supplemental thruster nozzles, allowing him a degree of additional manoeuvrability."/>
+	<entry name="Tau/VelocityTracker" value="Усталяваць <string name='Traits/Tau/VelocityTracker'/>"/>
+	<entry name="Tau/VelocityTrackerDescription" value="Усталёўвае сістэму падтрымкі, што павялічвае трапнасьць далёкага бою супраць авіяцыі."/>
+	<entry name="Tau/VelocityTrackerFlavor" value="These advanced motion-detecting and heat-seeking sensor systems allow pilots to track the movements of airborne targets."/>
+	<entry name="Tau/VolleyFire" value="Залпавы Агонь"/>
+	<entry name="Tau/VolleyFireDescription" value="Павялічвае атакі далёкага бою гэтай адзінкі і суседняй хаўруснай пяхоты, што ня рухалася."/>
+	<entry name="Tau/VolleyFireFlavor" value="Under the constant eye of their Tutor, Fire Caste units learn to take cover, wait for the right moment and fire as one. The resulting volley of pulsed energy hits like neon fireworks and can thoroughly demoralize enemies."/>
+	<entry name="Tau/ZephyrsGrace" value="Ласка Зефіраў"/>
+	<entry name="Tau/ZephyrsGraceDescription" value="Павялічвае ачкі дзеяньняў гэтай адзінкі і суседняй хаўруснай пяхоты Т'аў і жахлівых стварэньняў."/>
+	<entry name="Tau/ZephyrsGraceFlavor" value="“Let none doubt that the Tau Empire will bring unity to all – let none doubt that now is our time. Forward, for the Greater Good!”<br/>  — Aun’Va, Master of the Undying Spirit"/>
+	<entry name="TelekineDome" value="Купал Тэлекінезу"/>
+	<entry name="TelekineDomeDescription" value="Стварае бар'ер на плітцы Бібліарыя і суседніх плітках. Бар'ер павялічвае зьніжэньне шкоды ад далёкага бою."/>
+	<entry name="TelekineDomeFlavor" value="Bullets bounce off of thin air and are deflected harmlessly away as the psyker erects a barrier of shimmering energy about himself."/>
+	<entry name="TheFleshIsWeak" value="Ужыць “Плоць Слаба”"/>
+	<entry name="TheFleshIsWeakDescription" value="Тактыка Падзелу, што павялічвае зьніжэньне шкоды для пяхоты."/>
+	<entry name="TheFleshIsWeakFlavor" value="“We have been wounded sorely. Yet still we stand, with fire in our eyes and valour in our hearts. Let them think us beaten. We shall teach them otherwise.”<br/>  — Pedro Kantor, Chapter Master of the Crimson Fists"/>
+	<entry name="TurboBoost" value="Турба-Паскарэньне"/>
+	<entry name="TurboBoostDescription" value="Павялічвае рух."/>
+	<entry name="Tyranids/AcquireTile" value="Набыць плітку (Тыраніды)"/>
+	<entry name="Tyranids/AcquireTileDescription" value="Набывае новую плітку для горада, спажываючы яе біямасу, з'ядаючы лясы і ператвараючы зямлю ў карэнную пароду. Будынкі льга ўзводзіць толькі на набытых плітках. Кожная плітка патрабуе ўплыў на ўтрыманьне."/>
+	<entry name="Tyranids/AdaptiveBiology" value="Адаптыўная Біялогія"/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зьніжэньне шкоды ад адсутнасьці пачуцьця болю на крок пасьля атрыманьня шкоды."/>
+	<entry name="Tyranids/AdaptiveBiologyFlavor" value="This hero has been created to adapt against the weaponry used by the current prey world's defenders."/>
+	<entry name="Tyranids/AlphaWarrior" value="Альфа-Ваяр"/>
+	<entry name="Tyranids/AlphaWarriorDescription" value="Павялічвае трапнасьць хаўрусных Ваяроў-Тыранідаў у радыусе дзеяньня."/>
+	<entry name="Tyranids/AlphaWarriorFlavor" value="“To think that Tyranids are mindless beasts is a grave mistake. When you fight Tyranids you face not only those before you on the battlefield, but the untold thousands which seek to surround you, which attack your supporting units and destroy your supply lines in perfect synchronicity.”<br/>  — Marneus Calgar, Chapter Master of the Ultramarines"/>
+	<entry name="Tyranids/BroodProgenitor" value="Прабацька Вывадка"/>
+	<entry name="Tyranids/BroodProgenitorDescription" value="Павялічвае атакі хаўрусных Тэрмагаўнтаў."/>
+	<entry name="Tyranids/BroodProgenitorFlavor" value="“This horror, this abomination, has thought and purpose that functions on an unimaginable, galactic scale and all we can do is try to stop the swarms of bioengineered monsters it unleashes upon us by instinct. We have given the horror a name to salve our fears; we call it the Tyranid race, but if it is aware of us at all it must know us only as Prey.”<br/>  — Inquisitor Czevak"/>
+	<entry name="Tyranids/Catalyst" value="Каталізатар"/>
+	<entry name="Tyranids/CatalystDescription" value="Аднаўляе здароўе Тэрвігона і абранай хаўруснай адзінкі Тыранідаў."/>
+	<entry name="Tyranids/CatalystFlavor" value="Through its synaptic conduits, the power of the Hive Mind reaches out to infuse the organisms under its control, invigorating their systems with such unnatural vitality that they can ignore the most grievous of wounds."/>
+	<entry name="Tyranids/ClearTile" value="Ачысьціць Плітку (Тыраніды)"/>
+	<entry name="Tyranids/ClearTileDescription" value="Ачышчае плітку ад пустазельля-дроту, сьвятых месцаў, імперскіх руінаў і лясоў, ад адной асаблівасьці за раз."/>
+	<entry name="Tyranids/ConstructTunnel" value="Пабудаваць <string name='Units/Tyranids/Tunnel'/>"/>
+	<entry name="Tyranids/ConstructTunnelFlavor" value="<string name='Units/Tyranids/TunnelFlavor'/>"/>
+	<entry name="Tyranids/ConsumeTile" value="Спажыць Плітку"/>
+	<entry name="Tyranids/ConsumeTileDescription" value="Сілкуецца планетай, спажываючы біямасу пліткі, лесу і ператвараючы зямлю ў карэнную пароду."/>
+	<entry name="Tyranids/ConsumeTileFlavor" value="Rippers are experts at gathering biomass material of all sorts—but it takes heavier Tyranid support units, co-ordinated by a Malanthrope, to strip a planet of all its resources, leaving only bedrock behind."/>
+	<entry name="Tyranids/DiffusionField" value="Дыфузійнае Поле"/>
+	<entry name="Tyranids/DiffusionFieldDescription" value="Павялічвае зьніжэньне шкоды далёкага бою суседніх хаўрусных адзінак Тыранідаў."/>
+	<entry name="Tyranids/DiffusionFieldFlavor" value="In other theatres of war, genetors have noted that the thick cloud of spores emitted by Venomthropes obscure the sight of their enemies. The strain of Maleceptor on Gladius Prime has a similar diffusive effect on enemy attacks, albeit caused by the shadowy tendrils emanating from its encephalic tissue and their direct interference with the consciousness of the opposing troops."/>
+	<entry name="Tyranids/Dominion" value="Дамініён"/>
+	<entry name="Tyranids/DominionDescription" value="Павялічвае радыус Сувязі Сінапсу і лаяльнасьць усіх гарадоў."/>
+	<entry name="Tyranids/DominionFlavor" value="The Tyranid uses its prodigious psychic strength to channel and amplify the will of the Hive Mind."/>
+	<entry name="Tyranids/ExploitWeaknesses" value="Эксплуатацыя Слабасьцяў"/>
+	<entry name="Tyranids/ExploitWeaknessesDescription" value="Гонар Тыранідаў зьніжае браню абранай варожай адзінкі."/>
+	<entry name="Tyranids/ExploitWeaknessesFlavor" value="“We retreat, we fall back, we make strategic withdrawals, we consolidate, we evacuate. When in the name of all that's holy are we going to fight back?”<br/>  — Commissar General Vortigus Hornth, Acting Warmaster; Diatan Sector, Ultima Segmentum"/>
+	<entry name="Tyranids/GraspingTail" value="Хваткі Хвост"/>
+	<entry name="Tyranids/GraspingTailDescription" value="Зьніжае атакі абранай варожай адзінкі."/>
+	<entry name="Tyranids/GraspingTailFlavor" value="If a Malanthrope must engage in battle, it makes for a difficult foe. Its sinuous body is hard to strike, its grasping tail can immobilise foes or their weapons, and its feeder tendrils are highly poisonous, causing excruciating pain. If a foe becomes paralysed by its tendrils, the Malanthrope will begin to absorb it alive, to acquire the choicest, freshest genetic data."/>
+	<entry name="Tyranids/HiveCommander" value="Камандор Вульля"/>
+	<entry name="Tyranids/HiveCommanderDescription" value="Тыран Вульля павялічвае шкоду і зьніжэньне шкоды хаўрусных адзінак Тыранідаў у вобласьці."/>
+	<entry name="Tyranids/HiveCommanderFlavor" value="“A new Tyrant joined the fray and, in an eyeblink, the whole character of the swarm changed. The ravening berserker-spirit that had driven the Tyranids onto the ridge was gone as if it had never existed. Left in its place was something cannier and infinitely more worrisome. It was then that I knew the battle to be lost.”<br/>  — Sergeant Torias Telion, Ultramarines 10th Company"/>
+	<entry name="Tyranids/IndescribableHorror" value="Неапісальны Жах"/>
+	<entry name="Tyranids/IndescribableHorrorDescription" value="Тыран Вульля зьніжае мараль суседніх варожых адзінак кожны крок."/>
+	<entry name="Tyranids/IndescribableHorrorFlavor" value="“We cannot live through this. Mankind cannot live through this. In a single day they have covered the surface of this planet with a flood of living blades and needle-fanged mouths. Kill one and ten take its place. If they are truly without number then our race is doomed to a violent death before every shred of our civilization is scoured away by a force more voracious than the fires of hell themselves! Death! By the Machine God, Death is here!”<br/>  — Magos Varnak, Overseer of the Tyran research station"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Перавызначэньне Інстынктыўных Паводзін"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="Засяроджвае ўвагу Вульля на часовым Перавызначэньні Інстынктыўных Паводзін."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourOverrideFlavor'/>"/>
+	<entry name="Tyranids/LivingBatteringRam" value="Жывы Таран"/>
+	<entry name="Tyranids/LivingBatteringRamDescription" value="Павялічвае шкоду."/>
+	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Tyranids/LivingIncubator" value="Жывы Інкубатар"/>
+	<entry name="Tyranids/LivingIncubatorDescription" value="Заклікае Тэрмагаўнтаў."/>
+	<entry name="Tyranids/LivingIncubatorFlavor" value="A foe engaging a Tervigon up close will find itself assailed by waves of skittering Termagants. Such a confrontation is terrible to behold, for a Tervigon's capacity to reinforce is vast, and its broods are driven into a near-frenzy by the need to protect their progenitor."/>
+	<entry name="Tyranids/MassIncubation" value="Масавая Інкубацыя"/>
+	<entry name="Tyranids/MassIncubationDescription" value="Зьмяншае час перазарадкі Жывога Інкубатара."/>
+	<entry name="Tyranids/MassIncubationFlavor" value="Should a Tervigon need it, it can birth its entire brood rapidly. An opponent focused on this single opponent may find itself suddenly outnumbered."/>
+	<entry name="Tyranids/Onslaught" value="Напор"/>
+	<entry name="Tyranids/OnslaughtDescription" value="Павялічвае рух Тырана Вульля і суседніх хаўрусных адзінак."/>
+	<entry name="Tyranids/OnslaughtFlavor" value="The synapse creature reaches out its mind and seizes control of the lesser creatures' weapon symbiotes, guiding their fire whilst simultaneously driving the swarms towards the enemy at a breakneck pace."/>
+	<entry name="Tyranids/Paroxysm" value="Параксізм"/>
+	<entry name="Tyranids/ParoxysmDescription" value="Зьніжае трапнасьць абранай варожай адзінкі. "/>
+	<entry name="Tyranids/ParoxysmFlavor" value="The Hive Mind debilitates its enemies by triggering every nerve and pain receptor in their bodies, overwhelming their senses with wracking fits of agony."/>
+	<entry name="Tyranids/PsychicOverload" value="Псіхічная Перагрузка"/>
+	<entry name="Tyranids/PsychicOverloadDescription" value="Адмысловая псіхічня атака, што наносіць дадатковую шкоду варожым адзінкам з нізкай маральлю."/>
+	<entry name="Tyranids/PsychicOverloadFlavor" value="The psyker plunges tendrils of psychic energy into the target’s brain, causing it to explode!"/>
+	<entry name="Tyranids/PsychicScream" value="<string name='Weapons/PsychicScream'/>"/>
+	<entry name="Tyranids/PsychicScreamFlavor" value="<string name='Weapons/PsychicScreamFlavor'/>"/>
+	<entry name="Tyranids/RapaciousHunger" value="Ненаедны Голад"/>
+	<entry name="Tyranids/RapaciousHungerDescription" value="Гаруспэкс павялічвае свае атакі."/>
+	<entry name="Tyranids/RapaciousHungerFlavor" value="To see a Haruspex in a full feeding frenzy is to recognise your life is already lost—not in the creature's jetbike-sized maw necessarily, but to what the Haruspex symbolises. These creatures are normally only deployed at the end of a planetary invasion—so to see them is to accept that your planet is almost certainly doomed."/>
+	<entry name="Tyranids/ReclaimUnit" value="Перапрацаваць Адзінку"/>
+	<entry name="Tyranids/ReclaimUnitDescription" value="Перапрацоўвае адзінку Тыранідаў, каб вярнуць біямасу і вытворчасьць цаной уплыву."/>
+	<entry name="Tyranids/ReclaimUnitFlavor" value="Though the Hive Mind normally only dispatches the worthless swarms of Rippers into its reclamation pools, in extremis it can render down any creature for its resources. On planets conquered by its Genestealer proxies, it's not unusual to see entire assimilated populations and defense platoons marching themselves happily into the digestive pools."/>
+	<entry name="Tyranids/ScourgeOfTheBrood" value="Бедства Вывадка"/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Гонар Тыранідаў павялічвае сваю шкоду."/>
+	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="“As I looked into its dead black eyes, I saw the terrible sentience it had in place of a soul. Behind that was the steel will of its leader. Further still I could feel its primogenitor coldly assessing me from the void. And looking back from the deepest recesses of the alien's mind I perceived what I can only describe as an immortal hunger.”<br/>  — Chief Librarian Varro Tigurius of the Ultramarines"/>
+	<entry name="Tyranids/ShadowInTheWarp" value="Цень у Варпе"/>
+	<entry name="Tyranids/ShadowInTheWarpDescription" value="Зьніжае мараль суседніх варожых псайкераў кожны крок."/>
+	<entry name="Tyranids/ShadowInTheWarpFlavor" value="The unfathomable presence of the Hive Mind radiates out from its synapse creatures, smothering the ability of the psykers who stand before them to draw upon their mystic powers."/>
+	<entry name="Tyranids/SporeCloud" value="Воблака Спораў"/>
+	<entry name="Tyranids/SporeCloudDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою гэтай адзінкі і суседніх хаўрусных адзінак."/>
+	<entry name="Tyranids/SporeCloudFlavor" value="The best possible tactic against Tyranids is decapitation—namely, the execution of the synapse creatures that relay the Norn Queen's commands. Unfortunately, through the fluid mass of sinuous flesh that constitutes a Tyranid assault, the hail of acidic and living projectiles, and the obfuscating spore clouds, even a Vindicare assassin would have trouble picking out a Dominatrix, let alone a Tyrant."/>
+	<entry name="Tyranids/SporeMine" value="Выбух Спораў"/>
+	<entry name="Tyranids/SporeMineDescription" value="Стварае Споравыя Міны."/>
+	<entry name="Tyranids/SporeMineFlavor" value="As the Spore Mine is flung through the air, its internal gas bladder inflates and it floats down towards ground level. Even if the shot misses its initial target, the danger it poses is far from over; for the Spore Mine is possessed of a rudimentary intelligence and detonates not on impact with the ground, but when it senses the proximity of a non-Tyranid life form."/>
+	<entry name="Tyranids/SubterraneanAssault" value="Падземны Штурм"/>
+	<entry name="Tyranids/SubterraneanAssaultDescription" value="Перасоўваецца па тунэлю ад аднаго Вульля Вывадка Трыгона да іншага Вульля Вывадка."/>
+	<entry name="Tyranids/SubterraneanAssaultFlavor" value="“How ironic it is that as fast as we spread progress and hope throughout the galaxy, the Tyranids spread death and despair. Only united can we hope to stand against them.”<br/>  — Aun'shi of the T'au Empire"/>
+	<entry name="Tyranids/SynapseCreature" value="Сінапс Стварэньня"/>
+	<entry name="Tyranids/SynapseCreatureDescription" value="Дае гэтаму і суседнім адзінкам імунітэт да маралі, страху і Інстынктыўных Паводзін."/>
+	<entry name="Tyranids/SynapseCreatureFlavor" value="Some Tyranids serve as synaptic conduits or nodal relays through which a portion of the Hive Mind's iron will flows, overriding the natural instincts of the swarm."/>
+	<entry name="Tyranids/TheHorror" value="Жах"/>
+	<entry name="Tyranids/TheHorrorDescription" value="Зьмяншае рух і трапнасьць у далёкім бон, павялічвае зьніжэньне шкоды ад далёкага бою і забараняе зьдзяйсьненьне варожых атак назіраньня."/>
+	<entry name="Tyranids/TheHorrorFlavor" value="The terrifying psychic presence of the Hive Mind radiates from the synapse creature, flooding the minds of the Tyranids' enemies and causing them to quail and panic."/>
+	<entry name="VectoredAfterburners" value="Вектарная Фарсажная Камера"/>
+	<entry name="VectoredAfterburnersDescription" value="Павялічвае рух і зьмяншэньне шкоды ад далёкага бою."/>
+</language>
