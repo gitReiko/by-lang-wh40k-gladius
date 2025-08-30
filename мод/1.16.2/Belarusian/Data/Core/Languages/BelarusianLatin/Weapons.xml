@@ -56,6 +56,8 @@
 	<entry name="ArchiteGlaiveFlavor" value="These power glaives are exquisitely crafted pole-arms employed to lethal effect by Succubi in both the gladiatorial arenas of Commorragh and the battlefields of realspace. They can be wielded with both hands, to bisect a foe with ease, or used in combination with another weapon to cut through a host of victims."/>
 	<entry name="AssaultCannon" value="Šturmavaja Harmata"/>
 	<entry name="AssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="AtomiserBeam" value="Atamizujučy Pramień"/>
+	<entry name="AtomiserBeamFlavor" value="Canoptek Reanimators prowl the Necron lines, shooting out ethereal beams swarming with nanoscarabs. Necrons touched by these eerie lights stagger to their feet, resurrected, repaired and ready to fight again. Foes are less fortunate, wailing in agony as their atoms are torn apart and recombined in a hideous, gory fashion."/>
 	<entry name="Autogun" value="Aŭtapuška"/>
 	<entry name="AutogunFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="AttackSquig" value="Ataka Skviha"/>
@@ -69,6 +71,8 @@
 	<entry name="AvengerBoltCannonFlavor" value="With six cyclic barrels, the avenger bolt cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemys front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
 	<entry name="AvengerGatlingCannon" value="Hatlinh-Harmata Pomśnika"/>
 	<entry name="AvengerGatlingCannonFlavor" value="With six cyclic barrels, the avenger gatling cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemys front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
+	<entry name="Baleblast" value="Vyčerpalny Vybuch"/>
+	<entry name="BaleblastFlavor" value="Mandrakes can channel the energies stolen from their prey into blasts of freezing flame, wreathing their victims in spectral fires that burn through flesh and soul alike."/>
 	<entry name="Baleflamer" value="Pakavy Ahniakid"/>
 	<entry name="BaleflamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="BanebladeCannon" value="Harmata Hibielnaha Klinka"/>
@@ -216,6 +220,12 @@
 	<entry name="EMPGrenadeFlavor" value="EMP grenades release electromagnetic pulses that damage vehicles."/>
 	<entry name="EarthshakerCannon" value="Harmata Ziemlatrus"/>
 	<entry name="EarthshakerCannonFlavor" value="The distinctive, looming barrel of the earthshaker cannon is a sight capable of striking fear into the Imperium's many foes. These long-necked artillery guns have an impressive range and can maintain a fearsome rate of fire, lobbing shell after shell into foes and reducing them to blasted ruin."/>
+	<entry name="EldarMissileLauncherPlasmaMissile" value="Aeldarskaja Rakietnaja Ŭstaloŭka (Płazma)"/>
+	<entry name="EldarMissileLauncherPlasmaMissileFlavor" value="Eldar missile launchers are elegant and well-balanced. They use complex chambered pods that contain several different kinds of ammunition, all but eliminating the need to reload in battle."/>
+	<entry name="EldarMissileLauncherStarhawkMissile" value="Aeldarskaja Rakietnaja Ŭstaloŭka (Zorny Jastrab)"/>
+	<entry name="EldarMissileLauncherStarhawkMissileFlavor" value="<string name='Weapons/EldarMissileLauncherPlasmaMissileFlavor'/>"/>
+	<entry name="EldarMissileLauncherStarshotMissile" value="Aeldarskaja Rakietnaja Ŭstaloŭka (Zorny Streł)"/>
+	<entry name="EldarMissileLauncherStarshotMissileFlavor" value="<string name='Weapons/EldarMissileLauncherPlasmaMissileFlavor'/>"/>
 	<entry name="EldritchStorm" value="Žudasny Šmorm"/>
 	<entry name="EldritchStormFlavor" value="The Farseer summons a swirling corona of energy that assails the foe with bolts of lightning and psychic shock waves. Entire platoons are devastated beneath the onslaught of the roiling tempest as the Farseer channels more and more power into his storm of destruction."/>
 	<entry name="ElectroleechStave" value="Posach Elektrap'jaŭka"/>
@@ -345,6 +355,10 @@
 	<entry name="HotShotLasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="HunterKillerMissile" value="Rakieta Palaŭničy-Zabojca"/>
 	<entry name="HunterKillerMissileFlavor" value="Hunter-killer missiles are commonly fitted to Imperial vehicles. These single-use weapon systems allow vehicles such as Rhinos to engage armoured enemy vehicles that would otherwise far outmatch them."/>
+	<entry name="HuntingLanceFragTip" value="Palaŭničaja Dzida (Askiepkavy Kancavik)"/>
+	<entry name="HuntingLanceFragTipFlavor" value="Nearly four metres of hollow metal tipped with a shaped charge, the Attilan hunting lance is a perfect combination of ancient cavalry techniques and crude Imperial technology. Though usually containing a Frag blast, Rough Riders expecting to face vehicles will bring the heavier Melta Tips with them."/>
+	<entry name="HuntingLanceMeltaTip" value="Palaŭničaja Dzida (Miełta-Kancavik)"/>
+	<entry name="HuntingLanceMeltaTipFlavor" value="<string name='Weapons/HuntingLanceFragTipFlavor'/>"/>
 	<entry name="Huskblade" value="Ašałuplalnaje Lazo"/>
 	<entry name="HuskbladeFlavor" value="Leaving smoking trails as it carves through the air, a huskblade instantly evaporates the moisture in anything it touches, reducing targets to shrivelled and gruesome corpses that fall away to dust on the breeze."/>
 	<entry name="HyperphaseThreshers" value="Hipierfazavyja Małacilni"/>
@@ -355,6 +369,8 @@
 	<entry name="IronhailHeavyStubber" value="Ciažki Stabbier · Žalezny Hrad"/>
 	<entry name="IronhailHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="ImpalerCannonFlavor" value="Impaler cannons propel osseous spines at such high velocities that they can punch through reinforced plasteel. At the base of each spine is a small creature known as a shard-beast that uses thin membranous fins to steer the spine towards its target."/>
+	<entry name="InfernoBoltgun" value="Infiernalnaja Bołt-Puška"/>
+	<entry name="InfernoBoltgunFlavor" value="The weapons of the Thousand Sons are shaped by the craft of artificers and sorcerers alike. When their guns roar, they fire not only explosive bolts that tear flesh, but uncanny energies that can melt even ceramite. In such a fashion, is the Long War waged anew."/>
 	<entry name="IcarusArrayFlavor" value="The Icarus arrays used by the Adeptus Mechanicus fill the sky with inescapable death. Comprising a twin Icarus autocannon with skyscryer lenses, a gatling rocket launcher that fires whole salvoes of flak and an armour-piercing missile launcher, its combined firepower can shred an entire squadron of enemy fighters."/>
 	<entry name="ImplosionMissile" value="Impłazijnaja Rakieta"/>
 	<entry name="ImplosionMissileFlavor" value="Upon detonation, these missiles emit a molecular dissonance field that causes those caught in their path to implode, instantly collapsing in upon themselves and leaving nothing more than a scorched silhouette to mark their passage."/>
@@ -437,6 +453,10 @@
 	<entry name="MissilePodFlavor" value="A simple but effective delivery system for multiple missiles, these weapon pods are used on light vehicles and heavy infantry at medium range, and are mounted on many battlesuits and drones."/>
 	<entry name="MoltenBeam" value="Spalvajučy Pramień"/>
 	<entry name="MoltenBeamFlavor" value="The pyromancer claps his hands together and turns them outward towards the foe. As he does so, a white-hot beam of blazing energy bursts from his palms. It melts armour to slag and vaporises flesh, leaving only ghastly shadows in its wake."/>
+	<entry name="MonstrousRendingClaws" value="Manstrujoznyja Razdziralnyja Kipci"/>
+	<entry name="MonstrousRendingClawsFlavor" value="<string name='Weapons/RendingClawsFlavor'/>"/>
+	<entry name="MonstrousScythingTalons" value="Manstrujoznyja Kasilnyja Kipci"/>
+	<entry name="MonstrousScythingTalonsFlavor" value="<string name='Weapons/ScythingTalonsFlavor'/>"/>
 	<entry name="MultiLaser" value="Multyłazier"/>
 	<entry name="MultiLaserFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="MultiMelta" value="Mulcimielta"/>
@@ -532,6 +552,10 @@
 	<entry name="PsychicOverloadFlavor" value="<string name='Actions/Tyranids/PsychicOverloadFlavor'/>"/>
 	<entry name="PsychicScream" value="Psichičny Kryk"/>
 	<entry name="PsychicScreamFlavor" value="Through its vassal, the Hive Mind unleashes a piercing shriek of undiluted psychic energy that shreds the minds of those caught in the wake."/>
+	<entry name="PsychicTendrilNeuroblast" value="Psichičnyja Ščupalcy (Niejravybuch)"/>
+	<entry name="PsychicTendrilNeuroblastFlavor" value="The Norn Emissary is a prodigiously psychic creature, able to adapt its mental abilities to target individual opponents, large formations or even vehicles, before closing with its monstrous talons…"/>
+	<entry name="PsychicTendrilNeurolance" value="Psichičnyja Ščupalcy (Niejradzida)"/>
+	<entry name="PsychicTendrilNeurolanceFlavor" value="<string name='Weapons/PsychicTendrilNeuroblastFlavor'/>"/>
 	<entry name="PteraxiiTalons" value="Kipciury Pteraksija"/>
 	<entry name="PteraxiiTalonsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="QuadIonTurretOvercharged" value="Čaćviarnaja Ijonnaja Turel (Pierazaradžanaja)"/>
@@ -571,6 +595,8 @@
 	<entry name="RollOverThem" value="“Raściśnicie Ich!”"/>
 	<entry name="RuptureCannon" value="Razryŭnaja Harmata"/>
 	<entry name="RuptureCannonFlavor" value="This weapon fires two different projectiles, launched in quick succession. The first is a bloated tick that bursts upon impact, showering the target in a thick oily substance. The second, a seedpod, reacts as it contacts the viscous remains of the tick, creating an implosion which can even wrench armoured vehicles inside out."/>
+	<entry name="SaddlegitWeapon" value="Zbroja Siedłavoha Hita"/>
+	<entry name="SaddlegitWeaponFlavor" value="Though tougher than other Gretchin, a melee-armed saddlegit is a minor threat compared to the hulking BeastSnagga Boy sat next to him, or its monstrous Squighog."/>
 	<entry name="Scissorhand" value="Ruka-Nažnicy"/>
 	<entry name="ScissorhandFlavor" value="The scissorhand looks a little like a pair of surgical shears, and harbours expensive toxins so that its wielder might better incapacitate those whose limbs it amputates."/>
 	<entry name="ScorpionCannon" value="Harmata Skarpijona"/>
@@ -650,6 +676,8 @@
 	<entry name="SplinterRifle" value="Askiepkavaja Strelba"/>
 	<entry name="SplinterRifleFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
 	<entry name="SporeMineLauncher" value="Puskavaja Ŭstaloŭka Sporavych Min"/>
+	<entry name="SquighogJaws" value="Skivica Skvihaviapruka"/>
+	<entry name="SquighogJawsFlavor" value="As if Squighogs mighty jaws werent strong enough, many Beast Snagga boyz have their steeds jaw augmented by the local Dok or Mek, resulting in a bite thats easily as strong as an Ogryn. And a Squighog thats twice as angry."/>
 	<entry name="StaffOfLight" value="Posach Śviatła"/>
 	<entry name="StaffOfLightFlavor" value="The staff of light is both a weapon and a symbol of authority. Its haft is actually a disguised power generator rod, and the crest a finely tuned focussing device, allowing the wielder to unleash crackling bolts of energy at his foes."/>
 	<entry name="Starcannon" value="Zornaja Harmata"/>
@@ -660,6 +688,10 @@
 	<entry name="StingerPodFlavor" value="Talos Pain Engines are often armed with sinister weapons that fire great pulses of raw agony. The victims of these weapons often break their own bones or rupture their own organs with the force of their agonised convulsions, while survivors are left catatonic with pain, unable to defend themselves against the Talos bloody ministrations."/>
 	<entry name="StingerSalvo" value="Džałastreł"/>
 	<entry name="StingerSalvoFlavor" value="Stinger salvoes are simple but effective weapons that fire rows of metre-long, razor-sharp spikes."/>
+	<entry name="StikkaMelee" value="Paałka (Blizki Boj)"/>
+	<entry name="StikkaMeleeFlavor" value="A large, crude harpoon used by the Squighog Boyz of the Beast Snagga Ork subculture. Given the cultures focus on hunting, these are often upgraded with chains to pull down larger prey or rocket boosters to increase their range and penetration."/>
+	<entry name="StikkaRanged" value="Paałka (Daloki Boj)"/>
+	<entry name="StikkaRangedFlavor" value="<string name='Weapons/StikkaMeleeFlavor'/>"/>
 	<entry name="Stikkbomb" value="Lipkaja Vybuchała"/>
 	<entry name="StikkbombFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="Stomp" value="Tupat"/>
@@ -723,6 +755,8 @@
 	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="The C'tan Shard projects a crackling bolt of energy from its outstretched palm, blasting its foe into oblivion."/>
 	<entry name="TransdimensionalThunderboltTranscendent" value="Transprastoravy Ŭdar Małanki (Transcendentalny)"/>
 	<entry name="TransdimensionalThunderboltTranscendentFlavor" value="<string name='Weapons/TransdimensionalThunderboltCoalescentFlavor'/>"/>
+	<entry name="TransonicBlade" value="Transhukavy Klinok"/>
+	<entry name="TransonicBladeFlavor" value="Transonic blades emit a low, insistent buzz that makes stomachs turn and eyes vibrate in their sockets. When they strike armour, these weapons will adjust their hostile sonic field to match its resonant frequency, slicing through it as though it wasnt there."/>
 	<entry name="TransuranicArquebus" value="Transuranavaja Arkiebuza"/>
 	<entry name="TransuranicArquebusFlavor" value="The precision and inhuman efficiency that typify the Skitarii Legions are epitomised by these long-barrelled heavy weapons. Firing a shell of depleted transuranium, the arquebus can puncture a tank from one side to the other, the resultant pressure wave also pulping any biological creatures that may be sheltering inside."/>
 	<entry name="TwinBoltRifle" value="Zdvojenaja Bołt-Strelba"/>

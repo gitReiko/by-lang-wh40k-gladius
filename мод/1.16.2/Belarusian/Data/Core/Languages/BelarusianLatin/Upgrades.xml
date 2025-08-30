@@ -291,6 +291,9 @@
 	<entry name="AdeptusMechanicus/SicarianInfiltrator" value="<string name='Units/AdeptusMechanicus/SicarianInfiltrator'/>"/>
 	<entry name="AdeptusMechanicus/SicarianInfiltratorDescription" value="<string name='Units/AdeptusMechanicus/SicarianInfiltratorDescription'/>"/>
 	<entry name="AdeptusMechanicus/SicarianInfiltratorFlavor" value="<string name='Units/AdeptusMechanicus/SicarianInfiltratorFlavor'/>"/>
+	<entry name="AdeptusMechanicus/SicarianRuststalker" value="<string name='Units/AdeptusMechanicus/SicarianRuststalker'/>"/>
+	<entry name="AdeptusMechanicus/SicarianRuststalkerDescription" value="<string name='Units/AdeptusMechanicus/SicarianRuststalkerDescription'/>"/>
+	<entry name="AdeptusMechanicus/SicarianRuststalkerFlavor" value="<string name='Units/AdeptusMechanicus/SicarianRuststalkerFlavor'/>"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal" value="<string name='Units/AdeptusMechanicus/SkitariiMarshal'/>"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshalDescription" value="<string name='Units/AdeptusMechanicus/SkitariiMarshalDescription'/>"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshalFlavor" value="<string name='Units/AdeptusMechanicus/SkitariiMarshalFlavor'/>"/>
@@ -312,6 +315,9 @@
 	<entry name="AdeptusMechanicus/TechPriestManipulus" value="<string name='Units/AdeptusMechanicus/TechPriestManipulus'/>"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulusDescription" value="<string name='Units/AdeptusMechanicus/TechPriestManipulusDescription'/>"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulusFlavor" value="<string name='Units/AdeptusMechanicus/TechPriestManipulusFlavor'/>"/>
+	<entry name="AstraMilitarum/AttilanRoughRider" value="<string name='Units/AstraMilitarum/AttilanRoughRider'/>"/>
+	<entry name="AstraMilitarum/AttilanRoughRiderDescription" value="<string name='Units/AstraMilitarum/AttilanRoughRiderDescription'/>"/>
+	<entry name="AstraMilitarum/AttilanRoughRiderFlavor" value="<string name='Units/AstraMilitarum/AttilanRoughRiderFlavor'/>"/>
 	<entry name="AstraMilitarum/Baneblade" value="<string name='Units/AstraMilitarum/Baneblade'/>"/>
 	<entry name="AstraMilitarum/BanebladeDescription" value="<string name='Units/AstraMilitarum/BanebladeDescription'/>"/>
 	<entry name="AstraMilitarum/BanebladeFlavor" value="<string name='Units/AstraMilitarum/BanebladeFlavor'/>"/>
@@ -420,6 +426,9 @@
 	<entry name="ChaosSpaceMarines/Obliterator" value="<string name='Units/ChaosSpaceMarines/Obliterator'/>"/>
 	<entry name="ChaosSpaceMarines/ObliteratorDescription" value="<string name='Units/ChaosSpaceMarines/ObliteratorDescription'/>"/>
 	<entry name="ChaosSpaceMarines/ObliteratorFlavor" value="<string name='Units/ChaosSpaceMarines/ObliteratorFlavor'/>"/>
+	<entry name="ChaosSpaceMarines/RubricMarine" value="<string name='Units/ChaosSpaceMarines/RubricMarine'/>"/>
+	<entry name="ChaosSpaceMarines/RubricMarineDescription" value="<string name='Units/ChaosSpaceMarines/RubricMarineDescription'/>"/>
+	<entry name="ChaosSpaceMarines/RubricMarineFlavor" value="<string name='Units/ChaosSpaceMarines/RubricMarineFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Venomcrawler" value="<string name='Units/ChaosSpaceMarines/Venomcrawler'/>"/>
 	<entry name="ChaosSpaceMarines/VenomcrawlerDescription" value="<string name='Units/ChaosSpaceMarines/VenomcrawlerDescription'/>"/>
 	<entry name="ChaosSpaceMarines/VenomcrawlerFlavor" value="<string name='Units/ChaosSpaceMarines/VenomcrawlerFlavor'/>"/>
@@ -444,6 +453,9 @@
 	<entry name="Drukhari/KabaliteTrueborn" value="<string name='Units/Drukhari/KabaliteTrueborn'/>"/>
 	<entry name="Drukhari/KabaliteTruebornDescription" value="<string name='Units/Drukhari/KabaliteTruebornDescription'/>"/>
 	<entry name="Drukhari/KabaliteTruebornFlavor" value="<string name='Units/Drukhari/KabaliteTruebornFlavor'/>"/>
+	<entry name="Drukhari/Mandrake" value="<string name='Units/Drukhari/Mandrake'/>"/>
+	<entry name="Drukhari/MandrakeDescription" value="<string name='Units/Drukhari/MandrakeDescription'/>"/>
+	<entry name="Drukhari/MandrakeFlavor" value="<string name='Units/Drukhari/MandrakeFlavor'/>"/>
 	<entry name="Drukhari/Raider" value="<string name='Units/Drukhari/Raider'/>"/>
 	<entry name="Drukhari/RaiderDescription" value="<string name='Units/Drukhari/RaiderDescription'/>"/>
 	<entry name="Drukhari/RaiderFlavor" value="<string name='Units/Drukhari/RaiderFlavor'/>"/>
@@ -510,6 +522,9 @@
 	<entry name="Eldar/VaulsWrathSupportBattery" value="<string name='Units/Eldar/VaulsWrathSupportBattery'/>"/>
 	<entry name="Eldar/VaulsWrathSupportBatteryDescription" value="<string name='Units/Eldar/VaulsWrathSupportBatteryDescription'/>"/>
 	<entry name="Eldar/VaulsWrathSupportBatteryFlavor" value="<string name='Units/Eldar/VaulsWrathSupportBatteryFlavor'/>"/>
+	<entry name="Eldar/Vyper" value="<string name='Units/Eldar/Vyper'/>"/>
+	<entry name="Eldar/VyperDescription" value="<string name='Units/Eldar/VyperDescription'/>"/>
+	<entry name="Eldar/VyperFlavor" value="<string name='Units/Eldar/VyperFlavor'/>"/>
 	<entry name="Eldar/WarWalker" value="<string name='Units/Eldar/WarWalker'/>"/>
 	<entry name="Eldar/WarWalkerDescription" value="<string name='Units/Eldar/WarWalkerDescription'/>"/>
 	<entry name="Eldar/WarWalkerFlavor" value="<string name='Units/Eldar/WarWalkerFlavor'/>"/>
@@ -531,6 +546,9 @@
 	<entry name="Necrons/AnnihilationBarge" value="<string name='Units/Necrons/AnnihilationBarge'/>"/>
 	<entry name="Necrons/AnnihilationBargeDescription" value="<string name='Units/Necrons/AnnihilationBargeDescription'/>"/>
 	<entry name="Necrons/AnnihilationBargeFlavor" value="<string name='Units/Necrons/AnnihilationBargeFlavor'/>"/>
+	<entry name="Necrons/CanoptekReanimator" value="<string name='Units/Necrons/CanoptekReanimator'/>"/>
+	<entry name="Necrons/CanoptekReanimatorDescription" value="<string name='Units/Necrons/CanoptekReanimatorDescription'/>"/>
+	<entry name="Necrons/CanoptekReanimatorFlavor" value="<string name='Units/Necrons/CanoptekReanimatorFlavor'/>"/>
 	<entry name="Necrons/CanoptekSpyder" value="<string name='Units/Necrons/CanoptekSpyder'/>"/>
 	<entry name="Necrons/CanoptekSpyderDescription" value="<string name='Units/Necrons/CanoptekSpyderDescription'/>"/>
 	<entry name="Necrons/CanoptekSpyderFlavor" value="<string name='Units/Necrons/CanoptekSpyderFlavor'/>"/>
@@ -642,6 +660,9 @@
 	<entry name="Orks/Painboy" value="<string name='Units/Orks/Painboy'/>"/>
 	<entry name="Orks/PainboyDescription" value="<string name='Units/Orks/PainboyDescription'/>"/>
 	<entry name="Orks/PainboyFlavor" value="<string name='Units/Orks/PainboyFlavor'/>"/>
+	<entry name="Orks/SquighogBoy" value="<string name='Units/Orks/SquighogBoy'/>"/>
+	<entry name="Orks/SquighogBoyDescription" value="<string name='Units/Orks/SquighogBoyDescription'/>"/>
+	<entry name="Orks/SquighogBoyFlavor" value="<string name='Units/Orks/SquighogBoyFlavor'/>"/>
 	<entry name="Orks/Tankbusta" value="<string name='Units/Orks/Tankbusta'/>"/>
 	<entry name="Orks/TankbustaDescription" value="<string name='Units/Orks/TankbustaDescription'/>"/>
 	<entry name="Orks/TankbustaFlavor" value="<string name='Units/Orks/TankbustaFlavor'/>"/>
@@ -894,6 +915,9 @@
 	<entry name="Tyranids/Maleceptor" value="<string name='Units/Tyranids/Maleceptor'/>"/>
 	<entry name="Tyranids/MaleceptorDescription" value="<string name='Units/Tyranids/MaleceptorDescription'/>"/>
 	<entry name="Tyranids/MaleceptorFlavor" value="<string name='Units/Tyranids/MaleceptorFlavor'/>"/>
+	<entry name="Tyranids/NornEmissary" value="<string name='Units/Tyranids/NornEmissary'/>"/>
+	<entry name="Tyranids/NornEmissaryDescription" value="<string name='Units/Tyranids/NornEmissaryDescription'/>"/>
+	<entry name="Tyranids/NornEmissaryFlavor" value="<string name='Units/Tyranids/NornEmissaryFlavor'/>"/>
 	<entry name="Tyranids/Ravener" value="<string name='Units/Tyranids/Ravener'/>"/>
 	<entry name="Tyranids/RavenerDescription" value="<string name='Units/Tyranids/RavenerDescription'/>"/>
 	<entry name="Tyranids/RavenerFlavor" value="<string name='Units/Tyranids/RavenerFlavor'/>"/>
