@@ -196,7 +196,7 @@
 	<entry name="AdeptusMechanicus/MeleeWeaponBonusFlavor" value="Despite the planets specialisation in plasma and shielding devices, so common are Ork invasions on the Forge World of Ryza that the defenders are known for their Ork-esque enthusiasm for melee combat."/>
 	<entry name="AdeptusMechanicus/MonolithicBuildings" value="Manalitnaje Budavańnie"/>
 	<entry name="AdeptusMechanicus/MonolithicBuildingsDescription" value="Pavialičvaje vytvorčaść resursaŭ adnolkavaha typu na adnoj plitcy dla budynkaŭ nia štabkvater. Źmianšaje vytvorčaść roznych typaŭ resursaŭ na adnoj plitcy dla budynkaŭ nia štabkvater."/>
-	<entry name="AdeptusMechanicus/MonolithicBuildingsFlavor" value="“In uniformity, specialisations. In specialisation, efficiency. In efficiency, ecstasy.”<br/>—Kelphor Zhuko-Dim, Arch Flagellant"/>
+	<entry name="AdeptusMechanicus/MonolithicBuildingsFlavor" value="“In uniformity, specialisations. In specialisation, efficiency. In efficiency, ecstasy.”<br/>  — Kelphor Zhuko-Dim, Arch Flagellant"/>
 	<entry name="AdeptusMechanicus/NeurostaticInterface" value="Niejrastatyčny Interfejs"/>
 	<entry name="AdeptusMechanicus/NeurostaticInterfaceDescription" value="Pavialičvaje źnižeńnie škody paśla ataki susiedniaj varožaj adzinki."/>
 	<entry name="AdeptusMechanicus/NeurostaticInterfaceFlavor" value="Amidst the audio-visual cacophony accompanied by a Sicarian Infiltrator attack is wide-band electromagnetic interference, designed to cripple enemy systems and set nerves jangling."/>
@@ -376,6 +376,8 @@
 	<entry name="Blast" value="Vybuch"/>
 	<entry name="BlastDescription" value="B'je niekalkich čalcoŭ hrupy abranaj adzinki."/>
 	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Blight" value="<string name='Traits/Blighted'/>"/>
+	<entry name="BlightDescription" value="<string name='Traits/BlightedDescription'/>"/>
 	<entry name="Blighted" value="Atručanaść"/>
 	<entry name="BlightedDescription" value="Nanosić škodu kožny krok."/>
 	<entry name="Blind" value="Ślapy"/>
@@ -419,6 +421,9 @@
 	<entry name="CeramitePlatingFlavor" value="These hull plates are thrice-blessed by the Chapter's Techmarines and anointed with the seven sacred unguents of thermic warding to protect against the extreme conditions of orbital re-entry. Such precautions also serve to thwart the fury of certain weapons, absorbing and dispersing even the most extreme temperatures and microwave emissions."/>
 	<entry name="Chaff" value="Adbivalniki"/>
 	<entry name="ChaffDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
+	<entry name="ChaosSpaceMarines/Afflicted" value="Pakutny"/>
+	<entry name="ChaosSpaceMarines/AfflictedDescription" value="Nanosić škodu kožny krok."/>
+	<entry name="ChaosSpaceMarines/AfflictedFlavor" value="<string name='Actions/ChaosSpaceMarines/NurglesGiftFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculum" value="Mistyčny Akkułum"/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumDescription" value="Darunak Chaosu, jaki pavialičvaje trapnaść."/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumFlavor" value="A blood-shot eye pushes through the flesh."/>
@@ -580,6 +585,9 @@
 	<entry name="ChaosSpaceMarines/TemporalDistortion" value="Časovaje Skryŭleńnie"/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionDescription" value="Darunak Chaosu, jaki pavialičvaje ruch."/>
 	<entry name="ChaosSpaceMarines/TemporalDistortionFlavor" value="Time is altered around the champion."/>
+	<entry name="ChaosSpaceMarines/TerrifyingCrescendo" value="Žachlivaje Kreščenda"/>
+	<entry name="ChaosSpaceMarines/TerrifyingCrescendoDescription" value="Atakvanyja adzinki hublajuć maral."/>
+	<entry name="ChaosSpaceMarines/TerrifyingCrescendoFlavor" value="As the discordant notes ring from a Noise Marines insane weaponry, they build to a peak of symphonic destruction that leaves even the bravest foe on their knees or fleeing the battlefield, desperate to get away from Slaaneshs agonizing sonic onslaught. Those who stand and fight will see their armour and bones shattered, and organs ruptured."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhage" value="Taksičny Kryvaciok"/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageDescription" value="Pavialičvaje škodu suprać piachotnych adzinak i žachlivych stvareńniaŭ."/>
 	<entry name="ChaosSpaceMarines/ToxicHaemorrhageFlavor" value="Spurting vile vapours and heinous fluids, the Chaos Spawns cursed innards could spell the death of a less-blessed creature."/> <!-- MutatedBeyondReason result. -->
@@ -706,13 +714,13 @@
 	<entry name="Drukhari/GrislyTrophiesFlavor" value="<string name='Actions/Drukhari/GrislyTrophiesFlavor'/>"/>
 	<entry name="Drukhari/HeavyWeaponBonus" value="Uraŭnavažanyja Bojeprypasy"/>
 	<entry name="Drukhari/HeavyWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść."/>
-	<entry name="Drukhari/HeavyWeaponBonusFlavor" value="“Do not hope for a new day, little mortals. The Drukhari have you now and our grip is unshakeable. I assure you, all you will know now is eternal night—and eternal torment.” – Gyrthineus Roche, Archon of The Last Blade"/>
+	<entry name="Drukhari/HeavyWeaponBonusFlavor" value="“Do not hope for a new day, little mortals. The Drukhari have you now and our grip is unshakeable. I assure you, all you will know now is eternal night—and eternal torment.” — Gyrthineus Roche, Archon of The Last Blade"/>
 	<entry name="Drukhari/MasterOfPain" value="<string name='Actions/Drukhari/MasterOfPain'/>"/>
 	<entry name="Drukhari/MasterOfPainDescription" value="Daje dadatkovaje źnižeńnie škody ad Adsutnaści Pačućcia Bolu."/>
 	<entry name="Drukhari/MasterOfPainFlavor" value="<string name='Actions/Drukhari/MasterOfPainFlavor'/>"/>
 	<entry name="Drukhari/MeleeWeaponBonus" value="Vytančanaje, Daskanałaje Lazo"/>
 	<entry name="Drukhari/MeleeWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść."/>
-	<entry name="Drukhari/MeleeWeaponBonusFlavor" value="“Pain is the only universal constant. Pain is all. It is the key to creation and destruction both. Thus does he who masters pain become a god.” – Urien Rakarth, Master of the Haemonculi"/>
+	<entry name="Drukhari/MeleeWeaponBonusFlavor" value="“Pain is the only universal constant. Pain is all. It is the key to creation and destruction both. Thus does he who masters pain become a god.”<br/>  — Urien Rakarth, Master of the Haemonculi"/>
 	<entry name="Drukhari/NightShields" value="Načnyja Ščyty"/>
 	<entry name="Drukhari/NightShieldsDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="Drukhari/NightShieldsFlavor" value="The vehicle is covered by a broad-spectrum displacement field, enveloping it in cold and inky darkness. Foes find the vehicle hard to target, hidden as it is within a cloak of roiling shadow."/>
@@ -727,7 +735,7 @@
 	<entry name="Drukhari/PowerFromPainFlavor" value="As Drukhari feed on the souls of their foes, they become imbued with supernatural might, eventually turning into killing machines."/>
 	<entry name="Drukhari/RaidersTactics" value="Rejdarskaja Taktyka"/>
 	<entry name="Drukhari/RaidersTacticsDescription" value="Daje bonusnyja asablivaści paśla vyhruzki hetaj adzinki z transpartu."/>
-	<entry name="Drukhari/RaidersTacticsFlavor" value="“Why do we ride atop these elegant craft? The better to hear the screams of our prey as we ride them down, to savour the fear etched on their faces, to taste the tantalising tang of their blood in the air as an appetiser before the feast. But most of all we ride them so that the slaughter may begin as soon as possible.” – Dariaq Bladetongue of the Pierced Eye"/>
+	<entry name="Drukhari/RaidersTacticsFlavor" value="“Why do we ride atop these elegant craft? The better to hear the screams of our prey as we ride them down, to savour the fear etched on their faces, to taste the tantalising tang of their blood in the air as an appetiser before the feast. But most of all we ride them so that the slaughter may begin as soon as possible.”<br/>  — Dariaq Bladetongue of the Pierced Eye"/>
 	<entry name="Drukhari/RaidersTacticsDamage" value="Rejdarski Šturm"/>
 	<entry name="Drukhari/RaidersTacticsDamageDescription" value="Pavialičvaje škodu."/>
 	<entry name="Drukhari/RaidersTacticsDamageFlavor" value="Millenia of depredations on the mortal plane mean the Drukhari are inhuman opportunity predators unparalleled in history. This is partly from centuries of experience, partly from evolution and partly from the adaptations of the Haemonculi. When they emerge from their skycraft, they fall upon their enemy like descending eagles."/>
@@ -736,7 +744,7 @@
 	<entry name="Drukhari/RaidersTacticsDamageReductionFlavor" value="The Drukhari live to inflict pain—and there are crucial moments in their existence that exemplify this. When an incubis glaive falls; when a Wych torments her victim in the arena; and the split-second of deadly surprise as the Drukhari raiders leap from their skycraft…"/>
 	<entry name="Drukhari/RaidersTacticsHealingRate" value="Rejdarskaja Hatovaść"/>
 	<entry name="Drukhari/RaidersTacticsHealingRateDescription" value="Pavialičvaje lačeńnie zdaroŭja, kali hetaja adzinka zahružana ŭ transpart."/>
-	<entry name="Drukhari/RaidersTacticsHealingRateFlavor" value="“Friends—I call you that, though I know youd knife me in the back at a glance from Vect—friends, hold yourselves ready. The moment is almost here, the herd do not even know were coming. In but minutes, we will descend, flay, rend, torment, murder and drink their souls… with style, of course. Were not savages.” – Gyrthineus Roche, Archon of The Last Blade"/>
+	<entry name="Drukhari/RaidersTacticsHealingRateFlavor" value="“Friends—I call you that, though I know youd knife me in the back at a glance from Vect—friends, hold yourselves ready. The moment is almost here, the herd do not even know were coming. In but minutes, we will descend, flay, rend, torment, murder and drink their souls… with style, of course. Were not savages.”<br/>  — Gyrthineus Roche, Archon of The Last Blade"/>
 	<entry name="Drukhari/Shadowfield" value="<string name='Actions/Drukhari/Shadowfield'/>"/>
 	<entry name="Drukhari/ShadowfieldDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody."/>
 	<entry name="Drukhari/ShadowfieldFlavor" value="<string name='Actions/Drukhari/ShadowfieldFlavor'/>"/>
@@ -745,7 +753,7 @@
 	<entry name="Drukhari/SacrificeToKhaineFlavor" value="The Drukhari do not worship the old Aeldari gods or the OId Ones, save for one—Kaela Mensha Khaine, god of murder and war. Only a handful of Drukhari pay fealty to Khaine and most of those are Incubi, the dark mirrors of the Aeldari aspect warriors. Every time they kill with their ritual glaives, it is in praise of Khaine."/>
 	<entry name="Drukhari/ShroudGate" value="Zasłonnaja Brama"/>
 	<entry name="Drukhari/ShroudGateDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
-	<entry name="Drukhari/ShroudGateFlavor" value="“It was a wise to lay the ambush at the webway gate, brave little human. Hush, now. But you did not know when and where we would emerge, and that was your mistake. To we Drukhari, the gates are an unnecessary convenience… but your suffering, that I am afraid, is a necessity.” – Gyrthineus Roche, Archon of The Last Blade"/>
+	<entry name="Drukhari/ShroudGateFlavor" value="“It was wise to lay the ambush at the webway gate, brave little human. Hush, now. But you did not know when and where we would emerge, and that was your mistake. To us Drukhari, the gates are an unnecessary convenience… but your suffering, that I am afraid, is a necessity.”<br/>  — Gyrthineus Roche, Archon of The Last Blade"/>
 	<entry name="Drukhari/SoulHunger" value="Hoład pa Dušach"/>
 	<entry name="Drukhari/SoulHungerDescription" value="Daje ŭpłyŭ za zabojstva voraha."/>
 	<entry name="Drukhari/SoulHungerFlavor" value="The only form of sustenance that refreshes a Drukhari—the only thing that makes their immortal lives at all palatable and endurable, as Slaanesh saps their souls—is the suffering of others. And those Archons who can ensure a regular supply of victims and of pain receive loyalty—or rather, the nearest to it that a Drukhari can manage…"/>
@@ -769,7 +777,7 @@
 	<entry name="Drukhari/ToweringArroganceFlavor" value="<string name='Actions/Drukhari/ToweringArroganceFlavor'/>"/>
 	<entry name="Drukhari/WealthPlunder" value="Navučańni ŭ Ahonii"/>
 	<entry name="Drukhari/WealthPlunderDescription" value="Daje daśledavańni za zabojstva voraha."/>
-	<entry name="Drukhari/WealthPlunderFlavor" value="“Near to death, I hold them. The secrets they whisper. The pleas. Tactics, inventions, knowledge of the other side, revelations… everything spilled. To stop the pain. Why should it stop, though. When it is so… productive.” – Arkanic, Haemonculus to Kabal of The Last Blade"/>
+	<entry name="Drukhari/WealthPlunderFlavor" value="“Near to death, I hold them. The secrets they whisper. The pleas. Tactics, inventions, knowledge of the other side, revelations… everything spilled. To stop the pain. Why should it stop, though. When it is so… productive.”<br/>  — Arkanic, Haemonculus to Kabal of The Last Blade"/>
 	<entry name="Drukhari/WeaponRacks" value="Zbrojnyja Palicy"/>
 	<entry name="Drukhari/WeaponRacksDescription" value="Daje adzinkam Dvajnuju Suviaź na adzin krok paśla vyhruzki z transparta."/>
 	<entry name="Drukhari/WeaponRacksFlavor" value="Some Drukhari vehicles carry additional racks of anti-personnel weaponry on their decks. This allows passengers to literally empty their weapons magazines in great raking fusillades, before discarding their spent guns in favour of fully-loaded replacements as they disembark."/>
@@ -831,6 +839,9 @@
 	<entry name="Eldar/ExpertHunter" value="Daśviedčany Palaŭničy"/>
 	<entry name="Eldar/ExpertHunterDescription" value="Pavialičvaje škodu suprać žachlivych stvareńniaŭ, mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="Eldar/ExpertHunterFlavor" value="The Shining Spears weaponry might be short-ranged but their Star Lances and Laser Lances are incredibly powerful, as they weave around larger targets, spying out their weak points."/>
+	<entry name="Eldar/Flickerjump" value="Mihatlivy Skok"/>
+	<entry name="Eldar/FlickerjumpDescription" value="Pavialičvaje źnižeńnie škody dalokaha boju."/>
+	<entry name="Eldar/FlickerjumpFlavor" value="As the Warp Spiders blink in and out of existence, flitting between the hell dimension of the warp and the real, second by second... its unsurprisingly hard to draw a clear bead on them. And before the target knows it, the death spinners have strewn monomolecular monofilament across the area, and its already too late for anything but a final prayer."/>
 	<entry name="Eldar/FoodBuildingBonus" value="Daskanałaja Kultyvacyja"/>
 	<entry name="Eldar/FoodBuildingBonusDescription" value="Pavialičvaje vytvorčaść ježy."/>
 	<entry name="Eldar/FoodBuildingBonusFlavor" value="So intensely do the Aeldari feel that even their basic foodstuffs are works of art, cultivated by craftsmen that have spent millenia perfecting their cuisine. With a wider range of ingredients and seasonings, they can work miracles with the seeming simplest foodstuffs."/>
@@ -1161,6 +1172,9 @@
 	<entry name="Necrons/ConstructionBuildingBonus" value="Uzbahačeńnie za Košt Raboŭ"/>
 	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Pavialičvaje vytvorčaść haradoŭ."/>
 	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="Minor modifications to your slaves' bodies and minds enables them to sleep less and work more, for as long as their fragile bodies last."/>
+	<entry name="Necrons/ContainmentField" value="Strymalnaje Pole"/>
+	<entry name="Necrons/ContainmentFieldDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody."/>
+	<entry name="Necrons/ContainmentFieldFlavor" value="To withstand both eternity and the worst that the universe can throw at it, the Seraptek Heavy Construct exists inside its own semi-permeable containment field. Though the arcane technology is unknown to Imperial science, it still functions perfectly after so many millenia."/>
 	<entry name="Necrons/CtanNecrodermis" value="Nekradermis K'tan"/>
 	<entry name="Necrons/CtanNecrodermisDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="Necrons/CtanNecrodermisBlast" value="Vybuch Nekradermisa K'tan"/>
@@ -1198,6 +1212,9 @@
 	<entry name="Necrons/HuntersFromHyperspaceFlavor" value="<string name='Actions/Necrons/HuntersFromHyperspaceFlavor'/>"/>
 	<entry name="Necrons/ImmuneToNaturalLaw" value="Imunitet da Naturalnaha Zakona"/>
 	<entry name="Necrons/ImmuneToNaturalLawDescription" value="Adzinka moža pierasoŭvacca pa vadzie praz varožyja adzinki i ihnaravać štrafy ad rek i pustaziella-drotu."/>
+	<entry name="Necrons/InescapableDeath" value="Niepaźbiežnaja Śmierć"/>
+	<entry name="Necrons/InescapableDeathDescription" value="Ihnaruje źnižeńnie škody dalokaha boju metavaj adzinki i pavialičvaje trapnaść naziralnych atak."/>
+	<entry name="Necrons/InescapableDeathFlavor" value="A Hexmark Destroyerss myriad targeting systems and advanced technology allows it to eliminate enemies who think themselves quite, quite safe. There is a no safe place to hide from a Hexmark and its array of Enmitic Disintegrators."/>
 	<entry name="Necrons/InfantryBuildingBonus" value="Palapšeńni Jadra"/>
 	<entry name="Necrons/InfantryBuildingBonusDescription" value="Pavialičvaje vytvorčaść pradukcyi."/>
 	<entry name="Necrons/InfantryBuildingBonusFlavor" value="With better tools and less constraints, the Crypteks and Canopteks are able to recover a higher proportion of the buried Necrons, faster."/>
@@ -1217,6 +1234,12 @@
 	<entry name="Necrons/MeleeDamage" value="Klinki z Nekradermisa"/>
 	<entry name="Necrons/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Necrons/MeleeDamageFlavor" value="Made from impossibly thin slices of the Necron's utilitarian living metal, these blades pass through most skin, bone and armour with disturbing ease."/>
+	<entry name="Necrons/MultiThreatElimination" value="Šmatpahroznaja Likvidacyja"/>
+	<entry name="Necrons/MultiThreatEliminationDescription" value="Pavialičvaje ataki."/>
+	<entry name="Necrons/MultiThreatEliminationFlavor" value="<string name='Traits/Necrons/MultiThreatEliminatorFlavor'/>"/>
+	<entry name="Necrons/MultiThreatEliminator" value="Šmatpahrozny Likvidatar"/>
+	<entry name="Necrons/MultiThreatEliminatorDescription" value="Pavialičvaje ataki paśla źniščeńnia varožaj adzinki."/>
+	<entry name="Necrons/MultiThreatEliminatorFlavor" value="Targeting a Hexmark Destroyer or its allies gives the machine all the data it needs for its firing solutions. Independent ocular targeting and optimised firing patterns leave their prey with no chance of escape."/>
 	<entry name="Necrons/NanoscarabReanimationBeam" value="Nanaskarabiejny Reanimacyjny Pramień"/>
 	<entry name="Necrons/NanoscarabReanimationBeamDescription" value="Adnaŭlaje zdaroŭje."/>
 	<entry name="Necrons/NanoscarabReanimationBeamFlavor" value="<string name='Actions/Necrons/NanoscarabReanimationBeamFlavor'/>"/>
@@ -1291,6 +1314,12 @@
 	<entry name="Orks/BeastSnaggaFlavor" value="Spying the largest or most dangerous threats on the battlefield – besides the Orks themselves – Beast Snaggas chase them down with gleeful enthusiasm."/>
 	<entry name="Orks/BigBoss" value="<string name='Actions/Orks/BigBoss'/>"/>
 	<entry name="Orks/BigBossDescription" value="Pavialičvaje zdaroŭje."/>
+	<entry name="Orks/BlastajetAttackRun" value="Nalot Reaktyŭnaj Vybuchały"/>
+	<entry name="Orks/BlastajetAttackRunDescription" value="Pavialičvaje trapnaść suprać naziemnych metaŭ."/>
+	<entry name="Orks/BlastajetAttackRunFlavor" value="Devoid of such abstruse concerns as ammunition conservation or his own safety, the Mek pilot takes his Blastjet low. At this level, he strafes any infantry he can see, saturating the ground with fire, bombs and the occasional errant squig."/>
+	<entry name="Orks/BlastajetForceField" value="Siłavoje Pole Reaktyŭnaj Vybuchały"/>
+	<entry name="Orks/BlastajetForceFieldDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody."/>
+	<entry name="Orks/BlastajetForceFieldFlavor" value="The Mek who built and pilots the Blastajet might be crazed with inventive bloodlust, but he loves his monstrous creation (and, secondarily, his own life). Only the best Force Field will do to protect his precious machine."/>
 	<entry name="Orks/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
 	<entry name="Orks/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
 	<entry name="Orks/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
@@ -1534,6 +1563,9 @@
 	<entry name="SistersOfBattle/CityTier3" value="Krepaść-Śviacilišča"/>
 	<entry name="SistersOfBattle/CityTier3Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="SistersOfBattle/CityTier3Flavor" value="The Preceptory is more of a city now, resembling the hive cities that once dotted the planets surface. Beneath its bulk lies an undercity, above it tower spires and chantries. Perhaps only the Fortress-Monasteries of the Adeptus Astartes rival it in scale and holy adornment."/>
+	<entry name="SistersOfBattle/DenunciaOratory" value="Denuncyja Aratoryja"/>
+	<entry name="SistersOfBattle/DenunciaOratoryDescription" value="Abnulaje pierazaradku Vartaści Nieciarpimaści, kali hetaja adzinka zabivaje varožuju adzinku z asablivaściu Zdabyča."/>
+	<entry name="SistersOfBattle/DenunciaOratoryFlavor" value="Once the sisters of the Celestian Insidiants have identified a quarry, they will spare no effort to bring it down. Should they do so, they are reinvigorated by their faith and push themselves to find the next heretic."/>
 	<entry name="SistersOfBattle/DivineDeliverance" value="<string name='Actions/SistersOfBattle/DivineDeliverance'/>"/>
 	<entry name="SistersOfBattle/DivineDeliveranceDescription" value="<string name='Actions/SistersOfBattle/DivineDeliveranceDescription'/>"/>
 	<entry name="SistersOfBattle/DivineDeliveranceFlavor" value="<string name='Actions/SistersOfBattle/DivineDeliveranceFlavor'/>"/>
@@ -1600,12 +1632,18 @@
 	<entry name="SistersOfBattle/PurifyingRecitations" value="Ačyščalnyja Čytańni"/>
 	<entry name="SistersOfBattle/PurifyingRecitationsDescription" value="Pavialičvaje škodu."/>
 	<entry name="SistersOfBattle/PurifyingRecitationsFlavor" value="“Our foes call us cold, inhuman, unfeeling. But we feel, we mourn, we rage. Let them feel our warmth—in our flamers, our meltas.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
+	<entry name="SistersOfBattle/Quarry" value="Zdabyča"/>
+	<entry name="SistersOfBattle/QuarryDescription" value="Seleściny-Insydyjantki majuć pavialičanuju trapnaść suprać hetaj adzinki."/>
+	<entry name="SistersOfBattle/QuarryFlavor" value="<string name='Traits/SistersOfBattle/DenunciaOratoryFlavor'/>"/>
 	<entry name="SistersOfBattle/RagingFervour" value="Luty Zapał"/>
 	<entry name="SistersOfBattle/RagingFervourDescription" value="Pavialičvaje škodu."/>
 	<entry name="SistersOfBattle/RagingFervourFlavor" value="“The weapons in our hands are the instruments of our faith. Each bolt is a prayer sent to the heart of the faithless, spreading its word into their very being.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/RighteousJudgement" value="<string name='Actions/SistersOfBattle/RighteousJudgement'/>"/>
 	<entry name="SistersOfBattle/RighteousJudgementDescription" value="<string name='Actions/SistersOfBattle/RighteousJudgementDescription'/>"/>
 	<entry name="SistersOfBattle/RighteousJudgementFlavor" value="<string name='Actions/SistersOfBattle/RighteousJudgementFlavor'/>"/>
+	<entry name="SistersOfBattle/RitualeNullificatus" value="Rytuale Nulifikatus"/>
+	<entry name="SistersOfBattle/RitualeNullificatusDescription" value="Pavialičvaje źnižeńnie škody ad viadźmarskaha ahniu."/>
+	<entry name="SistersOfBattle/RitualeNullificatusFlavor" value="With the spiritual talismans and wrought-iron crowns embedded into their ornate power armour and their Simulacrum Nullificatus icon bearing the skull of a Pariah, psykers targeting these Sisters of Battle will find unholy powers sliding aside from their targets, leaving them miraculously unharmed…"/>
 	<entry name="SistersOfBattle/SacresantShield" value="Ščyt Najśviaciejšaj"/>
 	<entry name="SistersOfBattle/SacresantShieldDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="SistersOfBattle/SacresantShieldFlavor" value="The faithful Celestian Sacresants stand firm against the worst horrors of the galaxy. Hordes of mutants and heretics crash futilely against their shield walls before being laid low with righteous fury."/>
@@ -1839,6 +1877,9 @@
 	<entry name="Tau/Kauyon" value="<string name='Actions/Tau/Kauyon'/>"/>
 	<entry name="Tau/KauyonDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="Tau/KauyonFlavor" value="<string name='Actions/Tau/KauyonFlavor'/>"/>
+	<entry name="Tau/KrootLinebreakers" value="Kruckija Rujnavalniki Šychtoŭ"/>
+	<entry name="Tau/KrootLinebreakersDescription" value="Pavialičvaje škodu blizkaha boju."/>
+	<entry name="Tau/KrootLinebreakersFlavor" value="Rampager packs strike fast at their foes from unexpected quarters, launching a heavyweight ambush that breaks their battle lines and leaves them vulnerable to the rest of the hunting pack."/>
 	<entry name="Tau/LasDamage" value="Paskaralniki Mor'tonium"/>
 	<entry name="Tau/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Tau/LasDamageFlavor" value="As humanity has discovered to its cost, over and over, using radioactive materials in weaponry is always dangerous. Its reasonable to assume the Tau are cognisant of this, but choose to use the recently discovered Mortonium in their military technology anyway. Upon exposure to air, it rapidly decays into a massive burst of ionic energy that the Tau use."/>
