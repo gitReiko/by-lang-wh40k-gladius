@@ -264,6 +264,9 @@
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="<string name='Units/AdeptusMechanicus/ArchaeopterStratoraptor'/>"/>
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorDescription" value="<string name='Units/AdeptusMechanicus/ArchaeopterStratoraptorDescription'/>"/>
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptorFlavor" value="<string name='Units/AdeptusMechanicus/ArchaeopterStratoraptorFlavor'/>"/>
+	<entry name="AdeptusMechanicus/ArmigerHelverin" value="<string name='Units/AdeptusMechanicus/ArmigerHelverin'/>"/>
+	<entry name="AdeptusMechanicus/ArmigerHelverinDescription" value="<string name='Units/AdeptusMechanicus/ArmigerHelverinDescription'/>"/>
+	<entry name="AdeptusMechanicus/ArmigerHelverinFlavor" value="<string name='Units/AdeptusMechanicus/ArmigerHelverinFlavor'/>"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest" value="<string name='Units/AdeptusMechanicus/FulguriteElectroPriest'/>"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestDescription" value="<string name='Units/AdeptusMechanicus/FulguriteElectroPriestDescription'/>"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriestFlavor" value="<string name='Units/AdeptusMechanicus/FulguriteElectroPriestFlavor'/>"/>
@@ -315,6 +318,9 @@
 	<entry name="AdeptusMechanicus/TechPriestManipulus" value="<string name='Units/AdeptusMechanicus/TechPriestManipulus'/>"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulusDescription" value="<string name='Units/AdeptusMechanicus/TechPriestManipulusDescription'/>"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulusFlavor" value="<string name='Units/AdeptusMechanicus/TechPriestManipulusFlavor'/>"/>
+	<entry name="AstraMilitarum/ArmouredSentinel" value="<string name='Units/AstraMilitarum/ArmouredSentinel'/>"/>
+	<entry name="AstraMilitarum/ArmouredSentinelDescription" value="<string name='Units/AstraMilitarum/ArmouredSentinelDescription'/>"/>
+	<entry name="AstraMilitarum/ArmouredSentinelFlavor" value="<string name='Units/AstraMilitarum/ArmouredSentinelFlavor'/>"/>
 	<entry name="AstraMilitarum/AttilanRoughRider" value="<string name='Units/AstraMilitarum/AttilanRoughRider'/>"/>
 	<entry name="AstraMilitarum/AttilanRoughRiderDescription" value="<string name='Units/AstraMilitarum/AttilanRoughRiderDescription'/>"/>
 	<entry name="AstraMilitarum/AttilanRoughRiderFlavor" value="<string name='Units/AstraMilitarum/AttilanRoughRiderFlavor'/>"/>
@@ -330,6 +336,9 @@
 	<entry name="AstraMilitarum/Chimera" value="<string name='Units/AstraMilitarum/Chimera'/>"/>
 	<entry name="AstraMilitarum/ChimeraDescription" value="<string name='Units/AstraMilitarum/ChimeraDescription'/>"/>
 	<entry name="AstraMilitarum/ChimeraFlavor" value="<string name='Units/AstraMilitarum/ChimeraFlavor'/>"/>
+	<entry name="AstraMilitarum/Deathstrike" value="<string name='Units/AstraMilitarum/Deathstrike'/>"/>
+	<entry name="AstraMilitarum/DeathstrikeDescription" value="<string name='Units/AstraMilitarum/DeathstrikeDescription'/>"/>
+	<entry name="AstraMilitarum/DeathstrikeFlavor" value="<string name='Units/AstraMilitarum/DeathstrikeFlavor'/>"/>
 	<entry name="AstraMilitarum/DevilDog" value="<string name='Units/AstraMilitarum/DevilDog'/>"/>
 	<entry name="AstraMilitarum/DevilDogDescription" value="<string name='Units/AstraMilitarum/DevilDogDescription'/>"/>
 	<entry name="AstraMilitarum/DevilDogFlavor" value="<string name='Units/AstraMilitarum/DevilDogFlavor'/>"/>
@@ -423,9 +432,15 @@
 	<entry name="ChaosSpaceMarines/NoctilithCrown" value="<string name='Units/ChaosSpaceMarines/NoctilithCrown'/>"/>
 	<entry name="ChaosSpaceMarines/NoctilithCrownDescription" value="Daje Kultystam Chaosu zdolnaść budavać fartyfikacyi."/>
 	<entry name="ChaosSpaceMarines/NoctilithCrownFlavor" value="<string name='Units/ChaosSpaceMarines/NoctilithCrownFlavor'/>"/>
+	<entry name="ChaosSpaceMarines/NoiseMarine" value="<string name='Units/ChaosSpaceMarines/NoiseMarine'/>"/>
+	<entry name="ChaosSpaceMarines/NoiseMarineDescription" value="<string name='Units/ChaosSpaceMarines/NoiseMarineDescription'/>"/>
+	<entry name="ChaosSpaceMarines/NoiseMarineFlavor" value="<string name='Units/ChaosSpaceMarines/NoiseMarineFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/Obliterator" value="<string name='Units/ChaosSpaceMarines/Obliterator'/>"/>
 	<entry name="ChaosSpaceMarines/ObliteratorDescription" value="<string name='Units/ChaosSpaceMarines/ObliteratorDescription'/>"/>
 	<entry name="ChaosSpaceMarines/ObliteratorFlavor" value="<string name='Units/ChaosSpaceMarines/ObliteratorFlavor'/>"/>
+	<entry name="ChaosSpaceMarines/PlagueMarine" value="<string name='Units/ChaosSpaceMarines/PlagueMarine'/>"/>
+	<entry name="ChaosSpaceMarines/PlagueMarineDescription" value="<string name='Units/ChaosSpaceMarines/PlagueMarineDescription'/>"/>
+	<entry name="ChaosSpaceMarines/PlagueMarineFlavor" value="<string name='Units/ChaosSpaceMarines/PlagueMarineFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/RubricMarine" value="<string name='Units/ChaosSpaceMarines/RubricMarine'/>"/>
 	<entry name="ChaosSpaceMarines/RubricMarineDescription" value="<string name='Units/ChaosSpaceMarines/RubricMarineDescription'/>"/>
 	<entry name="ChaosSpaceMarines/RubricMarineFlavor" value="<string name='Units/ChaosSpaceMarines/RubricMarineFlavor'/>"/>
@@ -531,6 +546,9 @@
 	<entry name="Eldar/Warlock" value="<string name='Units/Eldar/Warlock'/>"/>
 	<entry name="Eldar/WarlockDescription" value="<string name='Units/Eldar/WarlockDescription'/>"/>
 	<entry name="Eldar/WarlockFlavor" value="<string name='Units/Eldar/WarlockFlavor'/>"/>
+	<entry name="Eldar/WarpSpider" value="<string name='Units/Eldar/WarpSpider'/>"/>
+	<entry name="Eldar/WarpSpiderDescription" value="<string name='Units/Eldar/WarpSpiderDescription'/>"/>
+	<entry name="Eldar/WarpSpiderFlavor" value="<string name='Units/Eldar/WarpSpiderFlavor'/>"/>
 	<entry name="Eldar/WaveSerpent" value="<string name='Units/Eldar/WaveSerpent'/>"/>
 	<entry name="Eldar/WaveSerpentDescription" value="<string name='Units/Eldar/WaveSerpentDescription'/>"/>
 	<entry name="Eldar/WaveSerpentFlavor" value="<string name='Units/Eldar/WaveSerpentFlavor'/>"/>
@@ -579,6 +597,9 @@
 	<entry name="Necrons/HeavyDestroyer" value="<string name='Units/Necrons/HeavyDestroyer'/>"/>
 	<entry name="Necrons/HeavyDestroyerDescription" value="<string name='Units/Necrons/HeavyDestroyerDescription'/>"/>
 	<entry name="Necrons/HeavyDestroyerFlavor" value="<string name='Units/Necrons/HeavyDestroyerFlavor'/>"/>
+	<entry name="Necrons/HexmarkDestroyer" value="<string name='Units/Necrons/HexmarkDestroyer'/>"/>
+	<entry name="Necrons/HexmarkDestroyerDescription" value="<string name='Units/Necrons/HexmarkDestroyerDescription'/>"/>
+	<entry name="Necrons/HexmarkDestroyerFlavor" value="<string name='Units/Necrons/HexmarkDestroyerFlavor'/>"/>
 	<entry name="Necrons/Immortal" value="<string name='Units/Necrons/Immortal'/>"/>
 	<entry name="Necrons/ImmortalDescription" value="<string name='Units/Necrons/ImmortalDescription'/>"/>
 	<entry name="Necrons/ImmortalFlavor" value="<string name='Units/Necrons/ImmortalFlavor'/>"/>
@@ -594,6 +615,9 @@
 	<entry name="Necrons/Obelisk" value="<string name='Units/Necrons/Obelisk'/>"/>
 	<entry name="Necrons/ObeliskDescription" value="<string name='Units/Necrons/ObeliskDescription'/>"/>
 	<entry name="Necrons/ObeliskFlavor" value="<string name='Units/Necrons/ObeliskFlavor'/>"/>
+	<entry name="Necrons/SeraptekHeavyConstruct" value="<string name='Units/Necrons/SeraptekHeavyConstruct'/>"/>
+	<entry name="Necrons/SeraptekHeavyConstructDescription" value="<string name='Units/Necrons/SeraptekHeavyConstructDescription'/>"/>
+	<entry name="Necrons/SeraptekHeavyConstructFlavor" value="<string name='Units/Necrons/SeraptekHeavyConstructFlavor'/>"/>
 	<entry name="Necrons/SkorpekhDestroyer" value="<string name='Units/Necrons/SkorpekhDestroyer'/>"/>
 	<entry name="Necrons/SkorpekhDestroyerDescription" value="<string name='Units/Necrons/SkorpekhDestroyerDescription'/>"/>
 	<entry name="Necrons/SkorpekhDestroyerFlavor" value="<string name='Units/Necrons/SkorpekhDestroyerFlavor'/>"/>
@@ -645,6 +669,9 @@
 	<entry name="Orks/KillaKan" value="<string name='Units/Orks/KillaKan'/>"/>
 	<entry name="Orks/KillaKanDescription" value="<string name='Units/Orks/KillaKanDescription'/>"/>
 	<entry name="Orks/KillaKanFlavor" value="<string name='Units/Orks/KillaKanFlavor'/>"/>
+	<entry name="Orks/Kommando" value="<string name='Units/Orks/Kommando'/>"/>
+	<entry name="Orks/KommandoDescription" value="<string name='Units/Orks/KommandoDescription'/>"/>
+	<entry name="Orks/KommandoFlavor" value="<string name='Units/Orks/KommandoFlavor'/>"/>
 	<entry name="Orks/Meganob" value="<string name='Units/Orks/Meganob'/>"/>
 	<entry name="Orks/MeganobDescription" value="<string name='Units/Orks/MeganobDescription'/>"/>
 	<entry name="Orks/MeganobFlavor" value="<string name='Units/Orks/MeganobFlavor'/>"/>
@@ -675,6 +702,9 @@
 	<entry name="Orks/Warbuggy" value="<string name='Units/Orks/Warbuggy'/>"/>
 	<entry name="Orks/WarbuggyDescription" value="<string name='Units/Orks/WarbuggyDescription'/>"/>
 	<entry name="Orks/WarbuggyFlavor" value="<string name='Units/Orks/WarbuggyFlavor'/>"/>
+	<entry name="Orks/WazbomBlastajet" value="<string name='Units/Orks/WazbomBlastajet'/>"/>
+	<entry name="Orks/WazbomBlastajetDescription" value="<string name='Units/Orks/WazbomBlastajetDescription'/>"/>
+	<entry name="Orks/WazbomBlastajetFlavor" value="<string name='Units/Orks/WazbomBlastajetFlavor'/>"/>
 	<entry name="Orks/Weirdboy" value="<string name='Units/Orks/Weirdboy'/>"/>
 	<entry name="Orks/WeirdboyDescription" value="<string name='Units/Orks/WeirdboyDescription'/>"/>
 	<entry name="Orks/WeirdboyFlavor" value="<string name='Units/Orks/WeirdboyFlavor'/>"/>
@@ -687,6 +717,9 @@
 	<entry name="SistersOfBattle/Castigator" value="<string name='Units/SistersOfBattle/Castigator'/>"/>
 	<entry name="SistersOfBattle/CastigatorDescription" value="<string name='Units/SistersOfBattle/CastigatorDescription'/>"/>
 	<entry name="SistersOfBattle/CastigatorFlavor" value="<string name='Units/SistersOfBattle/CastigatorFlavor'/>"/>
+	<entry name="SistersOfBattle/CelestianInsidiant" value="<string name='Units/SistersOfBattle/CelestianInsidiant'/>"/>
+	<entry name="SistersOfBattle/CelestianInsidiantDescription" value="<string name='Units/SistersOfBattle/CelestianInsidiantDescription'/>"/>
+	<entry name="SistersOfBattle/CelestianInsidiantFlavor" value="<string name='Units/SistersOfBattle/CelestianInsidiantFlavor'/>"/>
 	<entry name="SistersOfBattle/CelestianSacresant" value="<string name='Units/SistersOfBattle/CelestianSacresant'/>"/>
 	<entry name="SistersOfBattle/CelestianSacresantDescription" value="<string name='Units/SistersOfBattle/CelestianSacresantDescription'/>"/>
 	<entry name="SistersOfBattle/CelestianSacresantFlavor" value="<string name='Units/SistersOfBattle/CelestianSacresantFlavor'/>"/>
@@ -723,6 +756,9 @@
 	<entry name="SistersOfBattle/SaintCelestine" value="<string name='Units/SistersOfBattle/SaintCelestine'/>"/>
 	<entry name="SistersOfBattle/SaintCelestineDescription" value="<string name='Units/SistersOfBattle/SaintCelestineDescription'/>"/>
 	<entry name="SistersOfBattle/SaintCelestineFlavor" value="<string name='Units/SistersOfBattle/SaintCelestineFlavor'/>"/>
+	<entry name="SistersOfBattle/Seraphim" value="<string name='Units/SistersOfBattle/Seraphim'/>"/>
+	<entry name="SistersOfBattle/SeraphimDescription" value="<string name='Units/SistersOfBattle/SeraphimDescription'/>"/>
+	<entry name="SistersOfBattle/SeraphimFlavor" value="<string name='Units/SistersOfBattle/SeraphimFlavor'/>"/>
 	<entry name="SistersOfBattle/SisterRepentia" value="<string name='Units/SistersOfBattle/SisterRepentia'/>"/>
 	<entry name="SistersOfBattle/SisterRepentiaDescription" value="<string name='Units/SistersOfBattle/SisterRepentiaDescription'/>"/>
 	<entry name="SistersOfBattle/SisterRepentiaFlavor" value="<string name='Units/SistersOfBattle/SisterRepentiaFlavor'/>"/>
@@ -816,6 +852,9 @@
 	<entry name="SpaceMarines/ThunderfireCannon" value="<string name='Units/SpaceMarines/ThunderfireCannon'/>"/>
 	<entry name="SpaceMarines/ThunderfireCannonDescription" value="<string name='Units/SpaceMarines/ThunderfireCannonDescription'/>"/>
 	<entry name="SpaceMarines/ThunderfireCannonFlavor" value="<string name='Units/SpaceMarines/ThunderfireCannonFlavor'/>"/>
+	<entry name="SpaceMarines/ThunderhawkGunship" value="<string name='Units/SpaceMarines/ThunderhawkGunship'/>"/>
+	<entry name="SpaceMarines/ThunderhawkGunshipDescription" value="<string name='Units/SpaceMarines/ThunderhawkGunshipDescription'/>"/>
+	<entry name="SpaceMarines/ThunderhawkGunshipFlavor" value="<string name='Units/SpaceMarines/ThunderhawkGunshipFlavor'/>"/>
 	<entry name="SpaceMarines/Vindicator" value="<string name='Units/SpaceMarines/Vindicator'/>"/>
 	<entry name="SpaceMarines/VindicatorDescription" value="<string name='Units/SpaceMarines/VindicatorDescription'/>"/>
 	<entry name="SpaceMarines/VindicatorFlavor" value="<string name='Units/SpaceMarines/VindicatorFlavor'/>"/>
@@ -849,6 +888,9 @@
 	<entry name="Tau/HammerheadGunship" value="<string name='Units/Tau/HammerheadGunship'/>"/>
 	<entry name="Tau/HammerheadGunshipDescription" value="<string name='Units/Tau/HammerheadGunshipDescription'/>"/>
 	<entry name="Tau/HammerheadGunshipFlavor" value="<string name='Units/Tau/HammerheadGunshipFlavor'/>"/>
+	<entry name="Tau/KrootoxRampager" value="<string name='Units/Tau/KrootoxRampager'/>"/>
+	<entry name="Tau/KrootoxRampagerDescription" value="<string name='Units/Tau/KrootoxRampagerDescription'/>"/>
+	<entry name="Tau/KrootoxRampagerFlavor" value="<string name='Units/Tau/KrootoxRampagerFlavor'/>"/>
 	<entry name="Tau/KrootoxRider" value="<string name='Units/Tau/KrootoxRider'/>"/>
 	<entry name="Tau/KrootoxRiderDescription" value="<string name='Units/Tau/KrootoxRiderDescription'/>"/>
 	<entry name="Tau/KrootoxRiderFlavor" value="<string name='Units/Tau/KrootoxRiderFlavor'/>"/>
@@ -897,6 +939,12 @@
 	<entry name="Tyranids/Gargoyle" value="<string name='Units/Tyranids/Gargoyle'/>"/>
 	<entry name="Tyranids/GargoyleDescription" value="<string name='Units/Tyranids/GargoyleDescription'/>"/>
 	<entry name="Tyranids/GargoyleFlavor" value="<string name='Units/Tyranids/GargoyleFlavor'/>"/>
+	<entry name="Tyranids/Genestealer" value="<string name='Units/Tyranids/Genestealer'/>"/>
+	<entry name="Tyranids/GenestealerDescription" value="<string name='Units/Tyranids/GenestealerDescription'/>"/>
+	<entry name="Tyranids/GenestealerFlavor" value="<string name='Units/Tyranids/GenestealerFlavor'/>"/>
+	<entry name="Tyranids/Harpy" value="<string name='Units/Tyranids/Harpy'/>"/>
+	<entry name="Tyranids/HarpyDescription" value="<string name='Units/Tyranids/HarpyDescription'/>"/>
+	<entry name="Tyranids/HarpyFlavor" value="<string name='Units/Tyranids/HarpyFlavor'/>"/>
 	<entry name="Tyranids/Haruspex" value="<string name='Units/Tyranids/Haruspex'/>"/>
 	<entry name="Tyranids/HaruspexDescription" value="<string name='Units/Tyranids/HaruspexDescription'/>"/>
 	<entry name="Tyranids/HaruspexFlavor" value="<string name='Units/Tyranids/HaruspexFlavor'/>"/>
@@ -961,7 +1009,7 @@
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceFlavor'/>"/>
 	<entry name="AdeptusMechanicus/BlessedConduits" value="Dabrasłavionyja Pravadniki"/>
 	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Źmianšaje čas pierazaradki Pavyšeńnia Mahutnaści."/>
-	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="“And when at last he came upon the vehicle, he perceived the distress of the engine therein and forthwith struck the rune and it was good. Thereupon the engine ignited and was filled with strength…“<br/>—Lord of the Engines, 16th Tome, Verse 2001"/>
+	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="“And when at last he came upon the vehicle, he perceived the distress of the engine therein and forthwith struck the rune and it was good. Thereupon the engine ignited and was filled with strength…“<br/>  — Lord of the Engines, 16th Tome, Verse 2001"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTether'/>"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Daje Žaleznym Krokachodam · Balistaryus, Sidonskim Drahunam, Skorpiŭsam · Dziunavy Najeźnik, Anahram · Dziunavy Paŭzun i Skorpiŭsam · Dezyntehratar zdolnaść źmianšać straty marali susiednim adzinkam Adeptus Miechanikus."/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTetherFlavor'/>"/>
@@ -999,7 +1047,7 @@
 	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Pavialičvaje vytvorčaść upłyvu budynka za kožny budynak na susiedniaj plitcy."/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="<string name='Traits/AdeptusMechanicus/FidorumVossPrimeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="AdeptusMechanicus/HammerOfWrathDescription" value="Daje Žaleznym Krokachodam · Balistaryus, Sidonskim Drahunam, Fulhurytavym Elektražracam, Anahram · Dziunavy Paŭzun, Sterylizataram-Pteraksijam i Rycaram · Kryžak zdolnaść vykonvać bolš razburalnyja ataki."/>
+	<entry name="AdeptusMechanicus/HammerOfWrathDescription" value="Daje Armihieram Chelvierynam, Žaleznym Krokachodam · Balistaryus, Sidonskim Drahunam, Fulhurytavym Elektražracam, Anahram · Dziunavy Paŭzun, Sterylizataram-Pteraksijam i Rycaram · Kryžak zdolnaść vykonvać bolš razburalnyja ataki."/>
 	<entry name="AdeptusMechanicus/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonus" value="<string name='Traits/AdeptusMechanicus/HeavyWeaponBonus'/>"/>
 	<entry name="AdeptusMechanicus/HeavyWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść ciažkaj zbroi."/>
@@ -1059,7 +1107,7 @@
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonDescription" value="Daje Rycaram · Kryžak zdvojenuju aŭtaharmatu ikarus."/>
 	<entry name="AdeptusMechanicus/TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/TwinLinkedIcarusAutocannonFlavor'/>"/>
 	<entry name="AdeptusMechanicus/VoicesInTheCode" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCode'/>"/>
-	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Pavialičvaje straty marali varožych adzinak, susiednich da Sikaryjskich Infiltrataraŭ."/>
+	<entry name="AdeptusMechanicus/VoicesInTheCodeDescription" value="Pavialičvaje straty marali varožych adzinak, susiednich da Sikaryjskich Infiltrataraŭ i Sikaryjskich Iržavych Stałkieraŭ."/>
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptance" value="Pryniaćcie Ksienaryta"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Pavialičvaje fiksavanuju kolkaść daśledavańniaŭ, što zdabyvajucca z Ruinaŭ Vauła."/>
@@ -1104,10 +1152,10 @@
 	<entry name="AstraMilitarum/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynaŭ."/>
 	<entry name="AstraMilitarum/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="AstraMilitarum/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="AstraMilitarum/FragGrenadeDescription" value="Daje Bykrynam, Palavoj Artyleryjnaj Batarei, Hvardziejcam, Ciažkaŭzbrojenamu Raźliku, Łordu-Kamisaru, Prymarys-Psajkieru, Technažrecam-Mašynabačcam i Naščadkam Tempiestus zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="AstraMilitarum/FragGrenadeDescription" value="Daje Atyłanskim Mužnym Najeźnikam, Bykrynam, Palavoj Artyleryjnaj Batarei, Hvardziejcam, Ciažkaŭzbrojenamu Raźliku, Łordu-Kamisaru, Prymarys-Psajkieru, Technažrecam-Mašynabačcam i Naščadkam Tempiestus zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="AstraMilitarum/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="AstraMilitarum/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Daje Vyviedniku · Vartavy i Bykrynam zdolnaść ździajśniać bolš razburalnyja ataki."/>
+	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Daje Vyviedniku · Vartavy, Braniavanym Vartavym, Atyłanskim Mužnym Najeźnikam i Bykrynam zdolnaść ździajśniać bolš razburalnyja ataki."/>
 	<entry name="AstraMilitarum/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="AstraMilitarum/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="AstraMilitarum/HunterKillerMissileDescription" value="Daje naziemnym mašynam zdolnaść stralać rakietami Palaŭničy-Zabojca."/>
@@ -1143,7 +1191,7 @@
 	<entry name="AstraMilitarum/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
 	<entry name="AstraMilitarum/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="AstraMilitarum/TrainedSentinelPilots" value="<string name='Traits/TrainedSentinelPilots'/>"/>
-	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Pavialičvaje škodu Vyviednika · Vartavy."/>
+	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Pavialičvaje škodu Vyviednika · Vartavy i Braniavanym Vartavym."/>
 	<entry name="AstraMilitarum/TrainedSentinelPilotsFlavor" value="<string name='Traits/TrainedSentinelPilotsFlavor'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGenerator" value="<string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Daje Technažrecam-Mašynabačcam zdolnaść budavać Hienieratary Ščytoŭ, jakija źnižajuć škodu ad dalokich atak adzinkam u radyusie dziejańnia."/>
@@ -1185,10 +1233,10 @@
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynam."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
 	<entry name="ChaosSpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam, Biersierkam Kchorna, Majstaram Apantanaści dy Kavalam Varpu zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam, Biersierkam Kchorna, Šumavym Marynam, Majstaram Apantanaści dy Kavalam Varpu zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="ChaosSpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/GiftOfMutation" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutation'/>"/>
-	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Terminataram Chaosu, Apustečvalnikam, Biersierkam Kchorna, Majstram Apantanaści, Kipciuram Varpu i Kavalam Varpu adzin vypadkovy adbłakavany Darunak Chaosu."/>
+	<entry name="ChaosSpaceMarines/GiftOfMutationDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Terminataram Chaosu, Apustečvalnikam, Biersierkam Kchorna, Majstram Apantanaści, Šumavym Marynam, Čumnym Marynam, Rubrykavym Marynam, Kipciuram Varpu i Kavalam Varpu adzin vypadkovy adbłakavany Darunak Chaosu."/>
 	<entry name="ChaosSpaceMarines/GiftOfMutationFlavor" value="<string name='Traits/ChaosSpaceMarines/GiftOfMutationFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="ChaosSpaceMarines/HammerOfWrathDescription" value="Daje Demaničnym Pryncam, Apahańnikam, Demanam Kuźni, Vialikim Łatunievym Skarpijonam, Chelbrutam, Demaničnym Katam, Atrutnym Paŭzunam i Kipciuram Varpu zdolnaść vykonvać bolš razburalnyja ataki."/>
@@ -1212,7 +1260,7 @@
 	<entry name="ChaosSpaceMarines/IconOfWrathDescription" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathDescription'/>"/>
 	<entry name="ChaosSpaceMarines/IconOfWrathFlavor" value="<string name='Actions/ChaosSpaceMarines/IconOfWrathFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam, Biersierkam Kchorna, Majstaram Apantanaści i Kavalam Varpu zdolnaść kidać supraćbraniavyja hranaty."/>
+	<entry name="ChaosSpaceMarines/KrakGrenadeDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam, Biersierkam Kchorna, Šumavym Marynam, Majstaram Apantanaści, Čumnym Marynam i Kavalam Varpu zdolnaść kidać supraćbraniavyja hranaty."/>
 	<entry name="ChaosSpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamage" value="<string name='Traits/ChaosSpaceMarines/LasDamage'/>"/>
 	<entry name="ChaosSpaceMarines/LasDamageDescription" value="Pavialičvaje bronieprabivalnaść łaziernaj i płazmavaj zbroi."/>
@@ -1236,7 +1284,7 @@
 	<entry name="ChaosSpaceMarines/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
 	<entry name="ChaosSpaceMarines/MeleeDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/MeleeDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam i Biersierkam Kchorna zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyjaŭ."/>
+	<entry name="ChaosSpaceMarines/MeltaBombDescription" value="Daje Łordam Chaosu, Kaśmičnym Marynam Chaosu, Apustečvalnikam, Biersierkam Kchorna, Čumnym Marynam i Rubrykavym Marynam zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyjaŭ."/>
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Našyja Žyćci dziela Bahoŭ"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Pavialičvaje chutkaść uzrostu horada paśla Achviaravańnia Kultystaŭ."/>
@@ -1364,7 +1412,7 @@
 	<entry name="Drukhari/SoulHungerOutpostsFlavor" value="<string name='Traits/Drukhari/SoulHungerOutpostsFlavor'/>"/>
 	<entry name="Drukhari/SoulHungerUpgrade" value="Sadysty Duš"/>
 	<entry name="Drukhari/SoulHungerUpgradeDescription" value="Pavialičvaje ŭpłyŭ, što dajecca adzinkam Drukchary za zabojstvy vorahaŭ."/>
-	<entry name="Drukhari/SoulHungerUpgradeFlavor" value="“You must drug them. Kill the guards. Open the gate. Wake them carefully. Lead them out to freedom. Give them hope of escape. Start the pursuit in earnest. Fake your death. Show them an exit. Then reveal the charade. And return them to the torture chamber, grinning wickedly. Without touching them, you have imbued them with a rich, spiritual pain that will never leave.” – Gyrthineus Roche, Archon of The Last Blade"/>
+	<entry name="Drukhari/SoulHungerUpgradeFlavor" value="“You must drug them. Kill the guards. Open the gate. Wake them carefully. Lead them out to freedom. Give them hope of escape. Start the pursuit in earnest. Fake your death. Show them an exit. Then reveal the charade. And return them to the torture chamber, grinning wickedly. Without touching them, you have imbued them with a rich, spiritual pain that will never leave.”<br/>  — Gyrthineus Roche, Archon of The Last Blade"/>
 	<entry name="Drukhari/FeastOfTorment" value="<string name='Traits/Drukhari/FeastOfTorment'/>"/>
 	<entry name="Drukhari/FeastOfTormentDescription" value="<string name='Actions/Drukhari/FeastOfTormentDescription'/>"/>
 	<entry name="Drukhari/FeastOfTormentFlavor" value="<string name='Traits/Drukhari/FeastOfTormentFlavor'/>"/>
@@ -1414,7 +1462,7 @@
 	<entry name="Eldar/CrackShotDescription" value="Pavialičvaje trapnaść i bronieprabivalnaść Ahniavych Cmokaŭ."/>
 	<entry name="Eldar/CrackShotFlavor" value="<string name='Traits/Eldar/CrackShotFlavor'/>"/>
 	<entry name="Eldar/CrystalTargetingMatrix" value="<string name='Traits/Eldar/CrystalTargetingMatrix'/>"/>
-	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Daje Ahniavym Pryzmam, Šeršniam, Chvalevym Źmiejam i Bajavym Krokachodam zdolnaść časova pavialičvać svaju trapnaść."/>
+	<entry name="Eldar/CrystalTargetingMatrixDescription" value="Daje Ahniavym Pryzmam, Šeršniam, Hadziukam, Chvalevym Źmiejam i Bajavym Krokachodam zdolnaść časova pavialičvać svaju trapnaść."/>
 	<entry name="Eldar/CrystalTargetingMatrixFlavor" value="<string name='Traits/Eldar/CrystalTargetingMatrixFlavor'/>"/>
 	<entry name="Eldar/Dominate" value="<string name='Actions/Dominate'/>"/>
 	<entry name="Eldar/DominateDescription" value="Daje Pryvidnym Źniščalnikam Tsuha zdolnaść ahłušać varožyja adzinki, jakija nia z'jaŭlajucca mašynami abo fartyfikacyjami."/>
@@ -1432,7 +1480,7 @@
 	<entry name="Eldar/FoodBuildingBonusDescription" value="Pavialičvaje vytvorčaść ježy ŭ Sadach Išy."/>
 	<entry name="Eldar/FoodBuildingBonusFlavor" value="<string name='Traits/Eldar/FoodBuildingBonusFlavor'/>"/>
 	<entry name="Eldar/GhostwalkMatrix" value="Matryca Pryvidnaha Šlachu"/>
-	<entry name="Eldar/GhostwalkMatrixDescription" value="Dazvalaje Ahniavym Pryzmam, Šeršniam, Chvalevym Źmiejam i Bajavym Krokachodam prachodzić praz schoviščy."/>
+	<entry name="Eldar/GhostwalkMatrixDescription" value="Dazvalaje Ahniavym Pryzmam, Šeršniam, Hadziukam, Chvalevym Źmiejam i Bajavym Krokachodam prachodzić praz schoviščy."/>
 	<entry name="Eldar/GhostwalkMatrixFlavor" value="A ghostwalk matrix utilises the knowledge and wisdom contained within a spirit stone to guide the vehicle on its path."/>
 	<entry name="Eldar/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="Eldar/HammerOfWrathDescription" value="Daje Zichatlivym Dzidam, Viaščunam Niabiesnym Biahunam, Avataram Kchajna, Bajavyjam Krokachodam, Pryvidnym Łordam i Pryvidnym Rycaram mahčymaść ździajśniać bolš razburalnyja ataki."/>
@@ -1441,7 +1489,7 @@
 	<entry name="Eldar/HeavyWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść ciažkaj zbroi."/>
 	<entry name="Eldar/HeavyWeaponBonusFlavor" value="<string name='Traits/Eldar/HeavyWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/HoloFields" value="<string name='Traits/Eldar/HoloFields'/>"/>
-	<entry name="Eldar/HoloFieldsDescription" value="Daje nieparažalnaje źnižeńnie škody Ahniavym Pryzmam, Šeršniam, Chvalevym Źmiejam paśla ruchu."/>
+	<entry name="Eldar/HoloFieldsDescription" value="Daje nieparažalnaje źnižeńnie škody Ahniavym Pryzmam, Šeršniam, Hadziukam, Chvalevym Źmiejam paśla ruchu."/>
 	<entry name="Eldar/HoloFieldsFlavor" value="<string name='Traits/Eldar/HoloFieldsFlavor'/>"/>
 	<entry name="Eldar/InfantryBuildingBonus" value="<string name='Traits/Eldar/InfantryBuildingBonus'/>"/>
 	<entry name="Eldar/InfantryBuildingBonusDescription" value="Pavialičvaje vytvorčaść Tyhlej Asur'jana."/>
@@ -1468,10 +1516,10 @@
 	<entry name="Eldar/SpiritPreservationBonusDescription" value="Pavialičvaje enierhiju atrymanuju ad śmierci adzinak Aeldary."/>
 	<entry name="Eldar/SpiritPreservationBonusFlavor" value="For time immemorial, we have mounted our spirit stones in simple casings, trusting to the skill of their owners to preserve them. Yet, the ancient webway structures we have encountered on Gladius Prime demonstrate that a complex shielding can be built into any wraithbone casing, allowing us to snatch a greater number of our dead warriors from the maw of She Who Waits."/>
 	<entry name="Eldar/SpiritStones" value="<string name='Traits/Eldar/SpiritStones'/>"/>
-	<entry name="Eldar/SpiritStonesDescription" value="Źnižaje straty marali Ahniavym Pryzmam, Šeršniam, Chvalevym Źmiejam i Bajavym Krokachodam."/>
+	<entry name="Eldar/SpiritStonesDescription" value="Źnižaje straty marali Ahniavym Pryzmam, Šeršniam, Hadziukam, Chvalevym Źmiejam i Bajavym Krokachodam."/>
 	<entry name="Eldar/SpiritStonesFlavor" value="<string name='Traits/Eldar/SpiritStonesFlavor'/>"/>
 	<entry name="Eldar/StarEngines" value="<string name='Traits/Eldar/StarEngines'/>"/>
-	<entry name="Eldar/StarEnginesDescription" value="Pavialičvaje ruch Ahniavych Pryzmaŭ, Šeršniaŭ, Chvalevych Źmiejaŭ, Bajavych Krokachodaŭ i Skarpijonaŭ."/>
+	<entry name="Eldar/StarEnginesDescription" value="Pavialičvaje ruch Ahniavych Pryzmaŭ, Šeršniaŭ, Skarpijonaŭ, Hadziukaŭ, Bajavych Krokachodaŭ i Chvalevych Źmiejaŭ."/>
 	<entry name="Eldar/StarEnginesFlavor" value="<string name='Traits/Eldar/StarEnginesFlavor'/>"/>
 	<entry name="Eldar/TranscendentBliss" value="<string name='Actions/Eldar/TranscendentBliss'/>"/>
 	<entry name="Eldar/TranscendentBlissDescription" value="Daje haradam zdolnaść marnavać upłyŭ na časovaje pavyšeńnie łajalnaści."/>
@@ -1480,7 +1528,7 @@
 	<entry name="Eldar/TranscendentBlissBonusDescription" value="Pavialičvaje łajalnaść ad Transcendentalnaj Asałody."/>
 	<entry name="Eldar/TranscendentBlissBonusFlavor" value="“To an unfettered Aeldari mind there is neither sanity nor madness, but merely a wave of perfect existence fulfilled by its own savage momentum.”<br/>  — Ralamine Mung, Ordo Xenos"/>
 	<entry name="Eldar/VectoredEngines" value="<string name='Traits/Eldar/VectoredEngines'/>"/>
-	<entry name="Eldar/VectoredEnginesDescription" value="Daje Chvalevym Źmiejam, Ahniavym Pryzmam, Šeršniam, Bajavym Krokachodam i Skarpijonam zdolnaść časova pavialičvać svaju braniu suprać varožaj zbroi dalokaha boju."/>
+	<entry name="Eldar/VectoredEnginesDescription" value="Daje Chvalevym Źmiejam, Ahniavym Pryzmam, Šeršniam, Hadziukam, Bajavym Krokachodam i Skarpijonam zdolnaść časova pavialičvać svaju braniu suprać varožaj zbroi dalokaha boju."/>
 	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Traits/Eldar/VectoredEnginesFlavor'/>"/>
 	<entry name="Eldar/VehicleBuildingBonus" value="<string name='Traits/Eldar/VehicleBuildingBonus'/>"/>
 	<entry name="Eldar/VehicleBuildingBonusDescription" value="Pavialičvaje vytvorčaść Vialikich Uvachodaŭ."/>
@@ -1552,7 +1600,7 @@
 	<entry name="Necrons/GrowthBonusDescription" value="Pavialičvaje chutkaść uzrostu haradoŭ Niekronaŭ."/>
 	<entry name="Necrons/GrowthBonusFlavor" value="<string name='Traits/Necrons/GrowthBonusFlavor'/>"/>
 	<entry name="Necrons/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Necrons/HammerOfWrathDescription" value="Daje Łordam Razburalnikam, Lozam Hrabnicy, Kanaptekavym Pavukam, Transcendentnym K'tan, Tryjarcham Pretaryjancam i Tryjarcham Palaŭničym zdolnaść ažyciaŭlać bolš razburalnyja ataki."/>
+	<entry name="Necrons/HammerOfWrathDescription" value="Daje Łordam Razburalnikam, Lozam Hrabnicy, Kanaptekavym Reanimataram, Kanaptekavym Pavukam, Sieraptekam Ciažkim Kanstruktaram, Transcendentnym K'tan, Tryjarcham Pretaryjancam i Tryjarcham Palaŭničym zdolnaść ažyciaŭlać bolš razburalnyja ataki."/>
 	<entry name="Necrons/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Necrons/HousingBuildingBonus" value="<string name='Traits/Necrons/HousingBuildingBonus'/>"/>
 	<entry name="Necrons/HousingBuildingBonusDescription" value="Pavialičvaje limit nasielnictva ŭ Schoviščach."/>
@@ -1646,7 +1694,7 @@
 	<entry name="Orks/BonusVehiclesProductionDescription" value="<string name='Traits/Orks/BonusVehiclesProductionDescription'/>"/>
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
 	<entry name="Orks/Bosspole" value="Šost Bosa"/>
-	<entry name="Orks/BosspoleDescription" value="Jašče bolš źnižaje straty marali ad Praviła Mobaŭ dla Bujnych Miekaŭ, Chłopcaŭ, Miehanobaŭ, Tankabojaŭ, Vojnacyklaŭ i Vajnabosaŭ."/>
+	<entry name="Orks/BosspoleDescription" value="Jašče bolš źnižaje straty marali ad Praviła Mobaŭ dla Bujnych Miekaŭ, Chłopcaŭ, Kamandasaŭ, Miehanobaŭ, Tankabojaŭ, Vojnacyklaŭ i Vajnabosaŭ."/>
 	<entry name="Orks/BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
 	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
 	<entry name="Orks/CityEnergyDescription" value="Pavialičvaje vytvorčaść enierhii ŭ haradach Orkaŭ."/>
@@ -1700,7 +1748,7 @@
 	<entry name="Orks/HealingRateDescription" value="Pavialičvaje chutkaść lačeńnia adzinak."/>
 	<entry name="Orks/HealingRateFlavor" value="Through the co-operation of a team of Bad Doks and Runtherdz, your Warlord has prescribed a new, 'more Orky' diet, to make the boyz bigger and stronger, quicker. Whether the cold Oil Squigs for breakfast and Faceeater Squigs for dinner actually has any physical effect is immaterial—the boyz believe it, and that makes it work."/>
 	<entry name="Orks/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Orks/HammerOfWrathDescription" value="Daje Šmiertažacham, Šmiertaviortam, Hihanckim Skvihhotam, Horkanaŭtam, Blašankam-Zabojcam i Vajavym Matacyklam mahčymaść vykonvać bolš razburalnyja ataki."/>
+	<entry name="Orks/HammerOfWrathDescription" value="Daje Šmiertažacham, Šmiertaviortam, Hihanckim Skvihhotam, Horkanaŭtam, Blašankam-Zabojcam, Chłopcam-Skvihaviaprukam i Vajavym Matacyklam mahčymaść vykonvać bolš razburalnyja ataki."/>
 	<entry name="Orks/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Orks/MeleeDamage" value="<string name='Traits/Orks/MeleeDamage'/>"/>
 	<entry name="Orks/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
@@ -1715,7 +1763,7 @@
 	<entry name="Orks/OrkoidFungusFoodDescription" value="Pavialičvaje vytvorčaść ježy na plitkach z arkoidnym hrybam."/>
 	<entry name="Orks/OrkoidFungusFoodFlavor" value="<string name='Traits/OrkoidFungusFoodFlavor'/>"/>
 	<entry name="Orks/RedPaintJob" value="Čyrvonaja Farba"/>
-	<entry name="Orks/RedPaintJobDescription" value="Pavialičvaje škodu Vajavych Bahhi, Miehašlachavych Šmiećcielotaŭ, Vajavych Furaŭ, Dakka-Źniščałaŭ i Paliłaŭ-Bambiłaŭ."/>
+	<entry name="Orks/RedPaintJobDescription" value="Pavialičvaje škodu Vajavych Bahhi, Miehašlachavych Šmiećcielotaŭ, Vajavych Furaŭ, Dakka-Źniščałaŭ, Paliłaŭ-Bambiłaŭ i Reaktyŭnych Vazbum Vybuchałaŭ."/>
 	<entry name="Orks/RedPaintJobFlavor" value="<string name='Traits/RedPaintJobFlavor'/>"/>
 	<entry name="Orks/Scavenger2" value="Hroty-Šmieciary"/>
 	<entry name="Orks/Scavenger2Description" value="Pavialičvaje kolkaść zdabytaj rudy paśla zabojstvie varožych adzinak."/>
@@ -1781,7 +1829,7 @@
 	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Pavialičvaje braniu mašynam."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
 	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SistersOfBattle/FragGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Najśviaciejšym Seleścinam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Daskanałym Vajskovym Ryštunkam, Karnicam, Śviatoj Seleścinie, Siostram Pakajańnia, Zefirymam zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="SistersOfBattle/FragGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Najśviaciejšym Seleścinam, Seleścinam-Insydyjantkam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Daskanałym Vajskovym Ryštunkam, Karnicam, Śviatoj Seleścinie, Sierafima, Siostram Pakajańnia, Zefirymam zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrath" value="<string name='Traits/HammerOfWrath'/>"/>
 	<entry name="SistersOfBattle/HammerOfWrathDescription" value="Daje Rycaram-Kapijnikam · Cerastus, Umiarćvicielam, Daskanałym Vajskovym Ryštunkam, Śviatoj Seleścinie i Zefirymu zdolnaść ździajśniać bolš razburalnyja ataki."/>
@@ -1793,7 +1841,7 @@
 	<entry name="SistersOfBattle/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
 	<entry name="SistersOfBattle/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="SistersOfBattle/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Karnicam, Siostram Pakajańnia i Zefirymam zdolnaść kidać supraćtankavyja hranaty."/>
+	<entry name="SistersOfBattle/KrakGrenadeDescription" value="Daje Siostram Bitvy, Kananesam, Seleścinam-Insydyjantkam, Dyjałohusam, Daminijankam, Špitaljerkam, Ujaŭlalnicam, Karnicam, Sierafimam, Siostram Pakajańnia i Zefirymam zdolnaść kidać supraćtankavyja hranaty."/>
 	<entry name="SistersOfBattle/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SistersOfBattle/LaudHailer" value="<string name='Traits/SistersOfBattle/LaudHailer'/>"/>
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Daje Łupcoŭnikam, Ekzarcystam i Achviarnikam aŭru, jakaja dazvalaje ŭzrušanym adzinkam źdiajśniać Akty Viery."/>
@@ -1805,7 +1853,7 @@
 	<entry name="SistersOfBattle/MeleeWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
 	<entry name="SistersOfBattle/MeleeWeaponBonusFlavor" value="<string name='Traits/SistersOfBattle/MeleeWeaponBonusFlavor'/>"/>
 	<entry name="SistersOfBattle/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
-	<entry name="SistersOfBattle/MeltaBombDescription" value="Daje Siostram Bitvy, Kananesam, Dyjałohusam, Daminijankam, Karnicam, Siostram Pakajańnia i Zefirymam zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyj."/>
+	<entry name="SistersOfBattle/MeltaBombDescription" value="Daje Siostram Bitvy, Kananesam, Dyjałohusam, Daminijankam, Karnicam, Sierafimam, Siostram Pakajańnia i Zefirymam zdolnaść užyvać mieltabombu, jakaja vielmi efiektyŭnaja suprać ciažkich mašynaŭ i fartyfikacyj."/>
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Indaktrynacyja Ministoruma"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Daje Duch Pakutnicy Małankavym Źniščalnikam, Udarnym Źniščalnikam · Pomśnik i Rycaram-Kapijnikam · Cerastus."/>
@@ -1865,7 +1913,7 @@
 	<entry name="SpaceMarines/BolterDrillDescription" value="<string name='Actions/BolterDrillDescription'/>"/>
 	<entry name="SpaceMarines/BolterDrillFlavor" value="<string name='Traits/BolterDrillFlavor'/>"/>
 	<entry name="SpaceMarines/CeramitePlating" value="<string name='Traits/CeramitePlating'/>"/>
-	<entry name="SpaceMarines/CeramitePlatingDescription" value="Pavialičvaje braniu Karabloŭ · Štarmavy Krumkač i Štarmavy Kipciur."/>
+	<entry name="SpaceMarines/CeramitePlatingDescription" value="Pavialičvaje braniu Karabloŭ · Štarmavy Krumkač, Štarmavy Kipciur i Hramavy Karšak."/>
 	<entry name="SpaceMarines/CeramitePlatingFlavor" value="<string name='Traits/CeramitePlatingFlavor'/>"/>
 	<entry name="SpaceMarines/ChapterUnity" value="<string name='Traits/ChapterUnity'/>"/>
 	<entry name="SpaceMarines/ChapterUnityDescription" value="Pavialičvaje łajalnaść Vialikaj Zały."/>
@@ -1904,10 +1952,10 @@
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloDescription" value="Daje Krepaści Vykupleńnia rakietnuju šachtu krak-štorm."/>
 	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloFlavor" value="<string name='Weapons/KrakstormMissileSiloFlavor'/>"/>
 	<entry name="SpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
-	<entry name="SpaceMarines/FragGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kaśmičnym Marynam, Kapitanam, Kosmamarynam-Razburalnikam, Bibliaryjam, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kaśmičnym Marynam i Harmatam · Hromavy Ahoń zdolnaść kidać supraćpiachotnyja hranaty."/>
+	<entry name="SpaceMarines/FragGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kaśmičnym Marynam, Kapitanam, Kosmamarynam-Razburalnikam, Bibliaryjam, Prymarysam · Piakielnym Błastaram, Prymarysam-Intercesaram, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kaśmičnym Marynam i Harmatam · Hromavy Ahoń zdolnaść kidać supraćpiachotnyja hranaty."/>
 	<entry name="SpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="SpaceMarines/HammerOfWrathDescription" value="Daje Šturmavym Kaśmičnym Marynam, Drednoŭtam i Matacyklistam-Vyviednikam zdolnaść vykonvać bolš razburalnyja ataki."/>
+	<entry name="SpaceMarines/HammerOfWrathDescription" value="Daje Šturmavym Kaśmičnym Marynam, Drednoŭtam, Prymarysam-Inceptaram, Prymarysam · Drednoŭtam-Zbaŭcam i Matacyklistam-Vyviednikam zdolnaść vykonvać bolš razburalnyja ataki."/>
 	<entry name="SpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="SpaceMarines/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
@@ -1916,7 +1964,7 @@
 	<entry name="SpaceMarines/HurricaneBolterDescription" value="Daje Karablam · Štarmavy Krumkač bołtar urahan."/>
 	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
-	<entry name="SpaceMarines/KrakGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kaśmičnym Marynam, Kapitanam, Kosmamarynam-Razburalnikam, Bibliaryjam, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kaśmičnym Marynam i Harmatam · Hromavy Ahoń zdolnaść kidać supraćtankavyja hranaty."/>
+	<entry name="SpaceMarines/KrakGrenadeDescription" value="Daje Aptekaryjam, Šturmavym Kaśmičnym Marynam, Kapitanam, Kosmamarynam-Razburalnikam, Bibliaryjam, Prymarysam · Piakielnym Błastaram, Prymarysam-Intercesaram, Vyviednikam, Matacyklistam-Vyviednikam, Taktyčnym Kaśmičnym Marynam i Harmatam · Hromavy Ahoń zdolnaść kidać supraćtankavyja hranaty."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
 	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Daje Ziamnym Chutkaram i Ziamnym Rejdaram mulcimieltavuju zbroju."/>
@@ -2136,7 +2184,7 @@
 	<entry name="Tyranids/FleshHooksDescription" value="Daje Vajaram Tyranidaŭ, Honaru Tyranidaŭ i Liktaram dadatkovuju zbroju dalokaha boju."/>
 	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
 	<entry name="Tyranids/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="Tyranids/HammerOfWrathDescription" value="Daje Ekzakrynam, Harhullam, Haruspeksam, Karham Vulla, Tyranam Vulla, Maleceptaram, Kasanosnym Jeradułam, Tervihonam, Tryhonam, Tyranacytam i Tyranafeksam zdolnaść ździajśniać bolš razburalnyja ataki."/>
+	<entry name="Tyranids/HammerOfWrathDescription" value="Daje Ekzakrynam, Harhullam, Haruspeksam, Harpijam, Karham Vulla, Tyranam Vulla, Maleceptaram, Nornam-Emisaram, Kasanosnym Jeradułam, Tervihonam, Tryhonam, Tyranacytam i Tyranafeksam zdolnaść ździajśniać bolš razburalnyja ataki."/>
 	<entry name="Tyranids/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="Tyranids/InfantryUpkeep" value="<string name='Traits/Tyranids/InfantryUpkeep'/>"/>
 	<entry name="Tyranids/InfantryUpkeepDescription" value="Źmienšvaje vydatki bijamasy na ŭtrymańnie piachoty."/>
