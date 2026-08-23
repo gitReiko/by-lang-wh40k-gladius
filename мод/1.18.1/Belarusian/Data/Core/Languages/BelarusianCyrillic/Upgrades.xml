@@ -1155,7 +1155,7 @@
 	<entry name="AstraMilitarum/FragGrenadeDescription" value="Дае Атыланскім Мужным Наезьнікам, Быкрынам, Палявой Артылерыйнай Батарэі, Гвардзейцам, Цяжкаўзброенаму Разьліку, Лорду-Камісару, Прымарыс-Псайкеру, Тэхнажрэцам-Машынабачцам і Нашчадкам Тэмпестус здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="AstraMilitarum/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	<entry name="AstraMilitarum/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
-	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Дае Выведным Вартавым, Браняваным Вартавым, Атыланскім Мужным Наезьнікам і Быкрынам здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
+	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Дае Выведным Стражам, Браняваным Стражам, Атыланскім Мужным Наезьнікам і Быкрынам здольнасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="AstraMilitarum/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
 	<entry name="AstraMilitarum/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
 	<entry name="AstraMilitarum/HunterKillerMissileDescription" value="Дае наземным машынам здольнасьць страляць ракетамі Паляўнічы-Забойца."/>
@@ -1191,7 +1191,7 @@
 	<entry name="AstraMilitarum/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
 	<entry name="AstraMilitarum/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="AstraMilitarum/TrainedSentinelPilots" value="<string name='Traits/TrainedSentinelPilots'/>"/>
-	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Павялічвае шкоду Выведным Вартавым і Браняваным Вартавым."/>
+	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Павялічвае шкоду Выведным Стражам і Браняваным Стражам."/>
 	<entry name="AstraMilitarum/TrainedSentinelPilotsFlavor" value="<string name='Traits/TrainedSentinelPilotsFlavor'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGenerator" value="<string name='Units/AstraMilitarum/VoidShieldGenerator'/>"/>
 	<entry name="AstraMilitarum/VoidShieldGeneratorDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць будаваць Генератары Шчытоў, якія зьніжаюць шкоду ад далёкіх атак адзінкам у радыусе дзеяньня."/>
