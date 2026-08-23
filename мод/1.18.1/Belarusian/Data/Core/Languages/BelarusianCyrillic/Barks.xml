@@ -11,7 +11,7 @@
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:HurtCount" value="1"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Лунаньне, лунаньне."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Пашырэньне паветраных узьліваньняў."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Зьмена ціску. Морфінг валакністага перапляцення."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Зьмена ціску. Морфінг валакністага перапляценьня."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Рыхтоўля да эвакуацыі Зямных Паўзуноў."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:IdleCount" value="4"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Shaken#0" value="Мэйдэй, мэйдэй!"/>
@@ -30,7 +30,7 @@
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="Плоць слаба, машына мацна."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="У бінары, рытме і сьпеве. Я жадаю, каб вы чулі."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="Нельга палепшыць дызайны Амнісіі."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="Ін номінэ імперыі эт механічы эт спірытус Амніссая."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="Ін номінэ імперыі эт механічы эт сьпірытус Амніссая."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:IdleCount" value="4"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Знойдзены плашкі адступу."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:ShakenCount" value="1"/>
@@ -248,7 +248,7 @@
     <entry name="AstraMilitarum/Baneblade:Hurt#0" value="Атрыманы сур'ёзныя пашкоджаньні, сэр. Рэкамендую вярнуцца на Марс для рамонту."/>
     <entry name="AstraMilitarum/Baneblade:HurtCount" value="1"/>
     <entry name="AstraMilitarum/Baneblade:Idle#0" value="Рухаемся наперад, сэр."/>
-    <entry name="AstraMilitarum/Baneblade:Idle#1" value="Правяраем усе адзінаццаць ствалоў на гатоўнасць да пекла, сэр."/>
+    <entry name="AstraMilitarum/Baneblade:Idle#1" value="Правяраем усе адзінаццаць ствалоў на гатоўнасьць да пекла, сэр."/>
     <entry name="AstraMilitarum/Baneblade:Idle#2" value="Вораг слабы, сэр. Мы дапаможам ім прайграць."/>
     <entry name="AstraMilitarum/Baneblade:Idle#3" value="Лічым заклёпкі, сэр."/>
     <entry name="AstraMilitarum/Baneblade:Idle#4" value="Калі я вырасту, я хачу стаць Пякельным Молатам. Сэр."/>
@@ -260,7 +260,7 @@
     <entry name="AstraMilitarum/Baneblade:QuestStory1Count" value="1"/>
     <entry name="AstraMilitarum/Baneblade:QuestStory2#0" value="Сэр, з усёй павагай, гэты Тэхнажрэц ня варты нават змазваць нашыя спансоны."/>
     <entry name="AstraMilitarum/Baneblade:QuestStory2Count" value="1"/>
-    <entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="Мы пакінем падземныя даследаваньні пяхоце. Сэр."/>
+    <entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="Мы пакінем падземныя дасьледаваньні пяхоце. Сэр."/>
     <entry name="AstraMilitarum/Baneblade:QuestStory3Count" value="1"/>
     <entry name="AstraMilitarum/Baneblade:QuestStory4#0" value="Мы можам стрымліваць Ксенасаў, без праблем, сэр."/>
     <entry name="AstraMilitarum/Baneblade:QuestStory4Count" value="1"/>
@@ -268,7 +268,7 @@
     <entry name="AstraMilitarum/Baneblade:QuestStory5Count" value="1"/>
     <entry name="AstraMilitarum/Baneblade:Shaken#0" value="Ніякага адступленьня, сэр! Увогуле не ўпэўнены, што гэтая штука сапраўды можа ехаць назад."/>
     <entry name="AstraMilitarum/Baneblade:ShakenCount" value="1"/>
-    <entry name="AstraMilitarum/Baneblade:Victory#0" value="Цэль знішчана, сэр. Перазаражаем усе ствалы."/>
+    <entry name="AstraMilitarum/Baneblade:Victory#0" value="Цэль зьнішчана, сэр. Перазаражаем усе ствалы."/>
     <entry name="AstraMilitarum/Baneblade:VictoryCount" value="1"/>
     <entry name="AstraMilitarum/Baneblade:WireWeed#0" value="Сэр, рэкамендую перамясьціць машыну; экіпаж не спраўляецца з гэтым дротам."/>
     <entry name="AstraMilitarum/Baneblade:WireWeedCount" value="1"/>
@@ -404,7 +404,7 @@
     <entry name="AstraMilitarum/Guardsman:Shaken#4" value="Можна нам лепшыя стрэльбы, калі ласка?"/>
     <entry name="AstraMilitarum/Guardsman:ShakenCount" value="5"/>
     <entry name="AstraMilitarum/Guardsman:Victory#0" value="Камісар, сэр, дазвольце адсьвяткаваць?"/>
-    <entry name="AstraMilitarum/Guardsman:Victory#1" value="Ха! Такое адчуванне, быццам мы завалілі Тытана ліхтарыкам."/>
+    <entry name="AstraMilitarum/Guardsman:Victory#1" value="Ха! Такое адчуваньне, быццам мы завалілі Тытана ліхтарыкам."/>
     <entry name="AstraMilitarum/Guardsman:Victory#2" value="У памяць пра Кадыю і Крыда…"/>
     <entry name="AstraMilitarum/Guardsman:Victory#3" value="Мы перамагаем..? Мы перамагаем!"/>
     <entry name="AstraMilitarum/Guardsman:Victory#4" value="Ого, Праймер ня хлусіць! Гэтыя ксенасы — проста слабакі!"/>
@@ -431,7 +431,7 @@
     <entry name="AstraMilitarum/Headquarters:EnemyFaction:OrksCount" value="1"/>
     <entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarines#0" value="Касьмічныя марыны набліжаюцца. Яны сатруць горад з твару зямлі, калі патрапяць за сьцены."/>
     <entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
-    <entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="ПАПЯРЭДЖАННЕ: ВЫЯЎЛЕНЫ НАДЗВЫЧАЙ НЕБЯСЬПЕЧНЫЯ КСЕНАСЫ."/>
+    <entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="ПАПЯРЭДЖАНЬНЕ: ВЫЯЎЛЕНЫ НАДЗВЫЧАЙ НЕБЯСЬПЕЧНЫЯ КСЕНАСЫ."/>
     <entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/EnslaverCount" value="1"/>
     <entry name="AstraMilitarum/Headquarters:Hurt#0" value="Інфраструктура пашкоджана!"/>
     <entry name="AstraMilitarum/Headquarters:HurtCount" value="1"/>
@@ -536,7 +536,7 @@
     <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarumCount" value="1"/>
     <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Necrons#0" value="Апорны пункт паведамляе: Некроны рухаюцца."/>
     <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:NecronsCount" value="1"/>
-    <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Апорны пункт паведамляе пра прысутнасць Оркаў."/>
+    <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Апорны пункт паведамляе пра прысутнасьць Оркаў."/>
     <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:OrksCount" value="1"/>
     <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Апорны пункт паведамляе… Імператар, зьберажы нас… варожыя Адэптус Астартэс."/>
     <entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarinesCount" value="1"/>
@@ -567,11 +567,11 @@
     <entry name="AstraMilitarum/LemanRussBattleTank:BrokenCount" value="1"/>
     <entry name="AstraMilitarum/LemanRussBattleTank:Cover#0" value="У дрэвах, ладзім засаду, сэр."/>
     <entry name="AstraMilitarum/LemanRussBattleTank:CoverCount" value="1"/>
-    <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="Мы будзем езьдзіць па касцях ерэтыкоў да канца гэтага дня..."/>
+    <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="Мы будзем езьдзіць па касьцях ерэтыкоў да канца гэтага дня..."/>
     <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarumCount" value="1"/>
     <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Necrons#0" value="А, нашыя любімыя цэлі — Некроны."/>
     <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:NecronsCount" value="1"/>
-    <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Гатовыя да самазнішчэньня — Оркі любяць пазычаць танкі Леман Рус."/>
+    <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Гатовыя да самазьнішчэньня — Оркі любяць пазычаць танкі Леман Рус."/>
     <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:OrksCount" value="1"/>
     <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="Гэтая гармата створана, каб прымусіць Марынаў плакаць."/>
     <entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarinesCount" value="1"/>
@@ -687,7 +687,7 @@
     <entry name="AstraMilitarum/PrimarisPsyker:ShakenCount" value="1"/>
     <entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="Як і прадбачыла Таро Імператара."/>
     <entry name="AstraMilitarum/PrimarisPsyker:VictoryCount" value="1"/>
-    <entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="Тут ёсць жыцьцё, якім бы дзіўным і крывавым яно ні здавалася."/>
+    <entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="Тут ёсьць жыцьцё, якім бы дзіўным і крывавым яно ні здавалася."/>
     <entry name="AstraMilitarum/PrimarisPsyker:WireWeedCount" value="1"/>
     <entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarines#0" value="Вялізныя наплечнікі, гэта Марыны!"/>
     <entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarinesCount" value="1"/>
@@ -786,7 +786,7 @@
     <entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayerCount" value="1"/>
     <entry name="AstraMilitarum/TechpriestEnginseer:Hurt#0" value="Патрабуецца рамонт."/>
     <entry name="AstraMilitarum/TechpriestEnginseer:HurtCount" value="1"/>
-    <entry name="AstraMilitarum/TechpriestEnginseer:Idle#0" value="Наношу святыя мазі."/>
+    <entry name="AstraMilitarum/TechpriestEnginseer:Idle#0" value="Наношу сьвятыя мазі."/>
     <entry name="AstraMilitarum/TechpriestEnginseer:Idle#1" value="Праверка кагітатараў."/>
     <entry name="AstraMilitarum/TechpriestEnginseer:Idle#2" value="Выконваю машынныя рытуалы."/>
     <entry name="AstraMilitarum/TechpriestEnginseer:Idle#3" value="Аднаўляю духаў машын."/>
@@ -795,7 +795,7 @@
     <entry name="AstraMilitarum/TechpriestEnginseer:ShakenCount" value="1"/>
     <entry name="AstraMilitarum/TechpriestEnginseer:Victory#0" value="Прадказальна."/>
     <entry name="AstraMilitarum/TechpriestEnginseer:VictoryCount" value="1"/>
-    <entry name="AstraMilitarum/TechpriestEnginseer:WireWeed#0" value="Біядрот — гэта такое шчасце. Мы павінны яго скапіяваць."/>
+    <entry name="AstraMilitarum/TechpriestEnginseer:WireWeed#0" value="Біядрот — гэта такое шчасьце. Мы павінны яго скапіяваць."/>
     <entry name="AstraMilitarum/TechpriestEnginseer:WireWeedCount" value="1"/>
     <entry name="AstraMilitarum/TempestusScion" value="AstraMilitarum/Guardsman"/>
     <entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarines#0" value="Нешта бліскучае ўнізе!"/>
@@ -814,7 +814,7 @@
     <entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarumCount" value="1"/>
     <entry name="AstraMilitarum/Thunderbolt:EnemyFaction:Orks#0" value="Оркі. Яны незадаволенныя, калі не прызямляюцца занадта хутка з галавой у агні."/>
     <entry name="AstraMilitarum/Thunderbolt:EnemyFaction:OrksCount" value="1"/>
-    <entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarines#0" value="Марыны. Больш часу трацяць на ўпрыгожванне брані, чым на бой."/>
+    <entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarines#0" value="Марыны. Больш часу трацяць на ўпрыгожваньне брані, чым на бой."/>
     <entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarinesCount" value="1"/>
     <entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/Psychneuein#0" value="Хто хоча пакружыцца каля вялікай пчалы?"/>
     <entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
@@ -861,9 +861,9 @@
     <entry name="AstraMilitarum/WyrdvanePsyker:Artefact#0" value="Паганая сьвятыня."/>
     <entry name="AstraMilitarum/WyrdvanePsyker:ArtefactCount" value="1"/>
     <entry name="AstraMilitarum/WyrdvanePsyker:Attack#0" value="Цяпер акселеранда, разам мы іх разьнясем."/>
-    <entry name="AstraMilitarum/WyrdvanePsyker:Attack#1" value="Вось кодэта для іх сумнага жыцця."/>
+    <entry name="AstraMilitarum/WyrdvanePsyker:Attack#1" value="Вось кодэта для іх сумнага жыцьця."/>
     <entry name="AstraMilitarum/WyrdvanePsyker:Attack#2" value="І, як адзінае цэлае, мы скачам."/>
-    <entry name="AstraMilitarum/WyrdvanePsyker:Attack#3" value="Простая Бура Душ, каб разьнесці іх на кавалкі песьняй."/>
+    <entry name="AstraMilitarum/WyrdvanePsyker:Attack#3" value="Простая Бура Душ, каб разьнесьці іх на кавалкі песьняй."/>
     <entry name="AstraMilitarum/WyrdvanePsyker:AttackCount" value="4"/>
     <entry name="AstraMilitarum/WyrdvanePsyker:Broken#0" value="Мы разьбітыя, мы згубленыя."/>
     <entry name="AstraMilitarum/WyrdvanePsyker:BrokenCount" value="1"/>
@@ -990,7 +990,7 @@
     <entry name="Necrons/Lord:EnemyFaction:OrksCount" value="1"/>
     <entry name="Necrons/Lord:EnemyFaction:SpaceMarines#0" value="Такімі мудрыя, такія маладыя. Яны доўга не пражывуць."/>
     <entry name="Necrons/Lord:EnemyFaction:SpaceMarinesCount" value="1"/>
-    <entry name="Necrons/Lord:Hurt#0" value="Яны апалілі мой плашч? Знішчыце іх!"/>
+    <entry name="Necrons/Lord:Hurt#0" value="Яны апалілі мой плашч? Зьнішчыце іх!"/>
     <entry name="Necrons/Lord:HurtCount" value="1"/>
     <entry name="Necrons/Lord:Idle#0" value="Сумленьне — гэта толькі слова, каб стрымліваць моцных."/>
     <entry name="Necrons/Lord:Idle#1" value="Вяшчуны, я заб'ю іх апошнімі."/>
@@ -1000,7 +1000,7 @@
     <entry name="Necrons/Lord:Shaken#1" value="Старажытныя навучылі іх добра."/>
 	<entry name="Necrons/Lord:ShakenCount" value="2"/>
 	<entry name="Necrons/Lord:Victory#0" value="Адчай і сьмерць."/>
-    <entry name="Necrons/Monolith:Attack#0" value="Часцінкавая пуга разгорнута."/>
+    <entry name="Necrons/Monolith:Attack#0" value="Часьцінкавая пуга разгорнута."/>
     <entry name="Necrons/Monolith:AttackCount" value="1"/>
     <entry name="Necrons/Monolith:Broken#0" value="Адыходзім… павольна."/>
     <entry name="Necrons/Monolith:BrokenCount" value="1"/>
@@ -1137,7 +1137,7 @@
     <entry name="Necrons/Warrior:QuestStory0Count" value="1"/>
     <entry name="Necrons/Warrior:QuestStory1#0" value="Прэтарыянцы і Крыптэкі? Нашы сілы растуць."/>
     <entry name="Necrons/Warrior:QuestStory1Count" value="1"/>
-    <entry name="Necrons/Warrior:QuestStory2#0" value="Бяздумным варта спачуваць у пракляцці К'тан."/>
+    <entry name="Necrons/Warrior:QuestStory2#0" value="Бяздумным варта спачуваць у пракляцьці К'тан."/>
     <entry name="Necrons/Warrior:QuestStory2Count" value="1"/>
     <entry name="Necrons/Warrior:QuestStory3#0" value="Перасьледваць гэтыя цацкі Старажытных? Так… мой лорд."/>
     <entry name="Necrons/Warrior:QuestStory3Count" value="1"/>
@@ -1253,7 +1253,7 @@
     <entry name="Neutral/LordOfSkulls:VictoryCount" value="1"/>
     <entry name="Neutral/Psychneuein:Attack#0" value="Зззз!"/>
     <entry name="Neutral/Psychneuein:AttackCount" value="1"/>
-    <entry name="Neutral/Psychneuein:Broken#0" value="Зззее!"/>
+    <entry name="Neutral/Psychneuein:Broken#0" value="Зьзьзее!"/>
     <entry name="Neutral/Psychneuein:BrokenCount" value="1"/>
     <entry name="Neutral/Psychneuein:Hurt#0" value="Зззааа."/>
     <entry name="Neutral/Psychneuein:HurtCount" value="1"/>
