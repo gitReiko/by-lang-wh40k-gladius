@@ -892,112 +892,112 @@
     <entry name="AstraMilitarum/WyrdvanePsyker:VictoryCount" value="1"/>
     <entry name="AstraMilitarum/WyrdvanePsyker:WireWeed#0" value="Сярэбраныя зьмеі абвіваюць нас, колюць."/>
 	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeedCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Attack#0" value="Combat protocol"/>
-	<entry name="Necrons/CanoptekScarab:AttackCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Broken#0" value="Damage control"/>
-	<entry name="Necrons/CanoptekScarab:BrokenCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Hurt#0" value="Damage sustained."/>
-	<entry name="Necrons/CanoptekScarab:HurtCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Idle#0" value="Maintenance protocol."/>
-	<entry name="Necrons/CanoptekScarab:Idle#1" value="Minimising power consumption."/>
-	<entry name="Necrons/CanoptekScarab:Idle#2" value="Tending the damaged."/>
-	<entry name="Necrons/CanoptekScarab:Idle#3" value="We have waited aeons. We will wait… more."/>
-	<entry name="Necrons/CanoptekScarab:IdleCount" value="4"/>
-	<entry name="Necrons/CanoptekScarab:Shaken#0" value="Evasion advised."/>
-	<entry name="Necrons/CanoptekScarab:ShakenCount" value="1"/>
-	<entry name="Necrons/CanoptekScarab:Victory#0" value="Invader deterred."/>
-	<entry name="Necrons/CanoptekScarab:VictoryCount" value="1"/>
-	<entry name="Necrons/CanoptekSpyder" value="Necrons/CanoptekScarab"/>
-	<entry name="Necrons/Cryptek:Attack#0" value="Die, cattle."/>
-	<entry name="Necrons/Cryptek:Attack#1" value="Physics itself betrays you."/>
-	<entry name="Necrons/Cryptek:Attack#2" value="You will never understand what killed you."/>
-	<entry name="Necrons/Cryptek:AttackCount" value="3"/>
-	<entry name="Necrons/Cryptek:Broken#0" value="Aeons of learning, and I have at last learned to fear."/>
-	<entry name="Necrons/Cryptek:BrokenCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarum#0" value="Slave races of the Old enemy."/>
-	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="Another court? Perhaps they need my services…"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:Orks#0" value="Flesh, weaponised. Admirable."/>
-	<entry name="Necrons/Cryptek:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarines#0" value="Self-improved slaves. Dissection might teach us much."/>
-	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Cryptek:Hurt#0" value="Fascinating, they've managed to injure me."/>
-	<entry name="Necrons/Cryptek:HurtCount" value="1"/>
-	<entry name="Necrons/Cryptek:Idle#0" value="Dissection or vivisection? Ah, an eternal question."/>
-	<entry name="Necrons/Cryptek:Idle#1" value="Do you remember… dreams? I do."/>
-	<entry name="Necrons/Cryptek:Idle#2" value="I will split atoms until I am needed."/>
-	<entry name="Necrons/Cryptek:Idle#3" value="So much to learn, yet here I sit."/>
-	<entry name="Necrons/Cryptek:IdleCount" value="4"/>
-	<entry name="Necrons/Cryptek:Shaken#0" value="Perhaps there is something to the Old One's creations."/>
-	<entry name="Necrons/Cryptek:ShakenCount" value="1"/>
-	<entry name="Necrons/Cryptek:Victory#0" value="And so ends all life that challenges us."/>
-	<entry name="Necrons/Cryptek:VictoryCount" value="1"/>
-	<entry name="Necrons/DestroyerLord" value="Necrons/Lord"/>
-	<entry name="Necrons/DoomScythe:Attack#0" value="Descending on the chattels."/>
-	<entry name="Necrons/DoomScythe:AttackCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Broken#0" value="We must depart."/>
-	<entry name="Necrons/DoomScythe:BrokenCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Hurt#0" value="They… dare?"/>
-	<entry name="Necrons/DoomScythe:HurtCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Idle#0" value="Circling."/>
-	<entry name="Necrons/DoomScythe:Idle#1" value="Manouevres."/>
-	<entry name="Necrons/DoomScythe:Idle#2" value="Watching horizon."/>
-	<entry name="Necrons/DoomScythe:Idle#3" value="Focused."/>
-	<entry name="Necrons/DoomScythe:IdleCount" value="4"/>
-	<entry name="Necrons/DoomScythe:Shaken#0" value="Damaged?"/>
-	<entry name="Necrons/DoomScythe:ShakenCount" value="1"/>
-	<entry name="Necrons/DoomScythe:Victory#0" value="Humbling our foes."/>
-	<entry name="Necrons/DoomScythe:VictoryCount" value="1"/>
-	<entry name="Necrons/DoomsdayArk" value="Necrons/AnnihilationBarge"/>
-	<entry name="Necrons/Headquarters" value="Necrons/Monolith"/>
-	<entry name="Necrons/HeavyDestroyer:Attack#0" value="Life is our foe!"/>
-	<entry name="Necrons/HeavyDestroyer:AttackCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Broken#0" value="Death is our victory!"/>
-	<entry name="Necrons/HeavyDestroyer:BrokenCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarum#0" value="Crush the weak flesh!"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Necrons#0" value="Ourselves, a proud foe!"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Orks#0" value="Purge the galaxy of the fungal filth!"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarines#0" value="Pawns of the God-Emperor!"/>
-	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Hurt#0" value="Pain drives us on!"/>
-	<entry name="Necrons/HeavyDestroyer:HurtCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#0" value="We are nihilists!"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#1" value="We hunger!"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#2" value="We must improve, to destroy!"/>
-	<entry name="Necrons/HeavyDestroyer:Idle#3" value="Why are we still? Why do we not kill?!"/>
-	<entry name="Necrons/HeavyDestroyer:IdleCount" value="4"/>
-	<entry name="Necrons/HeavyDestroyer:Shaken#0" value="Why do they not die faster?"/>
-	<entry name="Necrons/HeavyDestroyer:ShakenCount" value="1"/>
-	<entry name="Necrons/HeavyDestroyer:Victory#0" value="They die! It is not enough!"/>
-	<entry name="Necrons/HeavyDestroyer:VictoryCount" value="1"/>
-	<entry name="Necrons/Immortal" value="Necrons/Warrior"/>
-	<entry name="Necrons/Lord:Attack#0" value="Feel the undying force of the Necrons!"/>
-	<entry name="Necrons/Lord:Attack#1" value="Perish proudly at my hands."/>
-	<entry name="Necrons/Lord:Attack#2" value="Who dares challenge me?"/>
-	<entry name="Necrons/Lord:Attack#3" value="You will learn obedience!"/>
-	<entry name="Necrons/Lord:AttackCount" value="4"/>
-	<entry name="Necrons/Lord:Broken#0" value="Where are my Immortals? My guards?"/>
-	<entry name="Necrons/Lord:BrokenCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarum#0" value="Mayflies, destined to live but a day."/>
-	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:Necrons#0" value="Iniquity! Rivals, on my Crownworld?!"/>
-	<entry name="Necrons/Lord:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:Orks#0" value="Such brutes! And, yet they rule my galaxy."/>
-	<entry name="Necrons/Lord:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Lord:EnemyFaction:SpaceMarines#0" value="So wise, so young. They will not live long."/>
-	<entry name="Necrons/Lord:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Lord:Hurt#0" value="They have singed my cloak? Destroy them!"/>
-	<entry name="Necrons/Lord:HurtCount" value="1"/>
-	<entry name="Necrons/Lord:Idle#0" value="Conscience is a mere word, to keep the strong restrained."/>
-	<entry name="Necrons/Lord:Idle#1" value="The farseers, I shall kill them last."/>
-	<entry name="Necrons/Lord:Idle#2" value="What shall I do first, when we rule this world?"/>
-	<entry name="Necrons/Lord:IdleCount" value="3"/>
-	<entry name="Necrons/Lord:Shaken#0" value="Death can set no mark on me."/>
-	<entry name="Necrons/Lord:Shaken#1" value="The Old Ones have trained them well."/>
+	<entry name="Necrons/CanoptekScarab:Attack#0" value="Баявы пратакол"/>
+    <entry name="Necrons/CanoptekScarab:AttackCount" value="1"/>
+    <entry name="Necrons/CanoptekScarab:Broken#0" value="Кіраваньне пашкоджаньнямі"/>
+    <entry name="Necrons/CanoptekScarab:BrokenCount" value="1"/>
+    <entry name="Necrons/CanoptekScarab:Hurt#0" value="Пашкоджаньні атрыманы."/>
+    <entry name="Necrons/CanoptekScarab:HurtCount" value="1"/>
+    <entry name="Necrons/CanoptekScarab:Idle#0" value="Пратакол абслугоўваньня."/>
+    <entry name="Necrons/CanoptekScarab:Idle#1" value="Мінімалізацыя спажываньня энергіі."/>
+    <entry name="Necrons/CanoptekScarab:Idle#2" value="Абслугоўваньне пашкоджаных."/>
+    <entry name="Necrons/CanoptekScarab:Idle#3" value="Мы чакалі эоны. Мы пачакаем… яшчэ."/>
+    <entry name="Necrons/CanoptekScarab:IdleCount" value="4"/>
+    <entry name="Necrons/CanoptekScarab:Shaken#0" value="Рэкамендуецца ўхіленьне."/>
+    <entry name="Necrons/CanoptekScarab:ShakenCount" value="1"/>
+    <entry name="Necrons/CanoptekScarab:Victory#0" value="Захопнікі стрыманы."/>
+    <entry name="Necrons/CanoptekScarab:VictoryCount" value="1"/>
+    <entry name="Necrons/CanoptekSpyder" value="Necrons/CanoptekScarab"/>
+    <entry name="Necrons/Cryptek:Attack#0" value="Памірайце, быдла."/>
+    <entry name="Necrons/Cryptek:Attack#1" value="Сама фізіка здраджвае вам."/>
+    <entry name="Necrons/Cryptek:Attack#2" value="Вы ніколі не зразумееце, што вас забіла."/>
+    <entry name="Necrons/Cryptek:AttackCount" value="3"/>
+    <entry name="Necrons/Cryptek:Broken#0" value="Эоны навучаньня, і я нарэшце навучыўся баяцца."/>
+    <entry name="Necrons/Cryptek:BrokenCount" value="1"/>
+    <entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarum#0" value="Рабы-расы Старога ворага."/>
+    <entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="Яшчэ адзін палац? Магчыма, ім патрэбныя мае паслугі…"/>
+    <entry name="Necrons/Cryptek:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Necrons/Cryptek:EnemyFaction:Orks#0" value="Плоць, ператвораная ў зброю. Выдатна."/>
+    <entry name="Necrons/Cryptek:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Necrons/Cryptek:EnemyFaction:SpaceMarines#0" value="Самаўдасканаленыя рабы. Дысэкцыя магла б многаму нас навучыць."/>
+    <entry name="Necrons/Cryptek:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Necrons/Cryptek:Hurt#0" value="Захапляльна, ім удалося мяне параніць."/>
+    <entry name="Necrons/Cryptek:HurtCount" value="1"/>
+    <entry name="Necrons/Cryptek:Idle#0" value="Дысэкцыя альбо вівісекцыя? Ах, вечнае пытаньне."/>
+    <entry name="Necrons/Cryptek:Idle#1" value="Ці памятаеш… сны? Я памятаю."/>
+    <entry name="Necrons/Cryptek:Idle#2" value="Я буду шчапаць атамы, пакуль не спатрэблюся."/>
+    <entry name="Necrons/Cryptek:Idle#3" value="Колькі ўсяго трэба даведацца, а я тут сяджу."/>
+    <entry name="Necrons/Cryptek:IdleCount" value="4"/>
+    <entry name="Necrons/Cryptek:Shaken#0" value="Магчыма, у стварэньнях Старажытных нешта ёсьць."/>
+    <entry name="Necrons/Cryptek:ShakenCount" value="1"/>
+    <entry name="Necrons/Cryptek:Victory#0" value="І на гэтым канчаецца ўсё жыцьцё, якое кідае нам выклік."/>
+    <entry name="Necrons/Cryptek:VictoryCount" value="1"/>
+    <entry name="Necrons/DestroyerLord" value="Necrons/Lord"/>
+    <entry name="Necrons/DoomScythe:Attack#0" value="Апускаемся на рухомую маёмасьць."/>
+    <entry name="Necrons/DoomScythe:AttackCount" value="1"/>
+    <entry name="Necrons/DoomScythe:Broken#0" value="Мы павінны адбыць."/>
+    <entry name="Necrons/DoomScythe:BrokenCount" value="1"/>
+    <entry name="Necrons/DoomScythe:Hurt#0" value="Яны… асьмельваюцца?"/>
+    <entry name="Necrons/DoomScythe:HurtCount" value="1"/>
+    <entry name="Necrons/DoomScythe:Idle#0" value="Кружым."/>
+    <entry name="Necrons/DoomScythe:Idle#1" value="Манёўры."/>
+    <entry name="Necrons/DoomScythe:Idle#2" value="Глядзім на гарызонт."/>
+    <entry name="Necrons/DoomScythe:Idle#3" value="Сфакусаваны."/>
+    <entry name="Necrons/DoomScythe:IdleCount" value="4"/>
+    <entry name="Necrons/DoomScythe:Shaken#0" value="Пашкоджаны?"/>
+    <entry name="Necrons/DoomScythe:ShakenCount" value="1"/>
+    <entry name="Necrons/DoomScythe:Victory#0" value="Прыніжаем нашых ворагаў."/>
+    <entry name="Necrons/DoomScythe:VictoryCount" value="1"/>
+    <entry name="Necrons/DoomsdayArk" value="Necrons/AnnihilationBarge"/>
+    <entry name="Necrons/Headquarters" value="Necrons/Monolith"/>
+    <entry name="Necrons/HeavyDestroyer:Attack#0" value="Жыцьцё — наш вораг!"/>
+    <entry name="Necrons/HeavyDestroyer:AttackCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:Broken#0" value="Сьмерць — наша перамога!"/>
+    <entry name="Necrons/HeavyDestroyer:BrokenCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarum#0" value="Зьнішчыць слабую плоць!"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:Necrons#0" value="Мы, ганарлівы вораг!"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:Orks#0" value="Ачысьціць галактыку ад грыбковай заразы!"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarines#0" value="Пешкі Бога-Імператара!"/>
+    <entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:Hurt#0" value="Боль прымушае нас ісьці наперад!"/>
+    <entry name="Necrons/HeavyDestroyer:HurtCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:Idle#0" value="Мы нігілісты!"/>
+    <entry name="Necrons/HeavyDestroyer:Idle#1" value="Мы галадаем!"/>
+    <entry name="Necrons/HeavyDestroyer:Idle#2" value="Мы павінны ўдасканальвацца, каб зьнішчаць!"/>
+    <entry name="Necrons/HeavyDestroyer:Idle#3" value="Чаму мы стаім? Чаму мы не забіваем?!"/>
+    <entry name="Necrons/HeavyDestroyer:IdleCount" value="4"/>
+    <entry name="Necrons/HeavyDestroyer:Shaken#0" value="Чаму яны не паміраюць хутчэй?"/>
+    <entry name="Necrons/HeavyDestroyer:ShakenCount" value="1"/>
+    <entry name="Necrons/HeavyDestroyer:Victory#0" value="Яны паміраюць! Гэтага недастаткова!"/>
+    <entry name="Necrons/HeavyDestroyer:VictoryCount" value="1"/>
+    <entry name="Necrons/Immortal" value="Necrons/Warrior"/>
+    <entry name="Necrons/Lord:Attack#0" value="Адчуй несьмяротную моц Некронаў!"/>
+    <entry name="Necrons/Lord:Attack#1" value="З гонарам загінь ад маіх рук."/>
+    <entry name="Necrons/Lord:Attack#2" value="Хто адважыцца кінуць мне выклік?"/>
+    <entry name="Necrons/Lord:Attack#3" value="Вы навучыцеся паслухмянасьці!"/>
+    <entry name="Necrons/Lord:AttackCount" value="4"/>
+    <entry name="Necrons/Lord:Broken#0" value="Дзе мае Несьмяротныя? Мае целаахоўнікі?"/>
+    <entry name="Necrons/Lord:BrokenCount" value="1"/>
+    <entry name="Necrons/Lord:EnemyFaction:AstraMilitarum#0" value="Аднадзённыя матылькі, наканаваныя пражыць усяго дзень."/>
+    <entry name="Necrons/Lord:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Necrons/Lord:EnemyFaction:Necrons#0" value="Беззаконьне! Супернікі з майго Кароннага Сьвета?!"/>
+    <entry name="Necrons/Lord:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Necrons/Lord:EnemyFaction:Orks#0" value="Якая грубасьць! І ўсё ж яны кіруюць маёй галактыкай."/>
+    <entry name="Necrons/Lord:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Necrons/Lord:EnemyFaction:SpaceMarines#0" value="Такімі мудрыя, такія маладыя. Яны доўга не пражывуць."/>
+    <entry name="Necrons/Lord:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Necrons/Lord:Hurt#0" value="Яны апалілі мой плашч? Знішчыце іх!"/>
+    <entry name="Necrons/Lord:HurtCount" value="1"/>
+    <entry name="Necrons/Lord:Idle#0" value="Сумленьне — гэта толькі слова, каб стрымліваць моцных."/>
+    <entry name="Necrons/Lord:Idle#1" value="Вяшчуны, я заб'ю іх апошнімі."/>
+    <entry name="Necrons/Lord:Idle#2" value="Што мне зрабіць першым, калі мы будзем правіць гэтым сьветам?"/>
+    <entry name="Necrons/Lord:IdleCount" value="3"/>
+    <entry name="Necrons/Lord:Shaken#0" value="Сьмерць ня можа пакінуць на мне сьлед."/>
+    <entry name="Necrons/Lord:Shaken#1" value="Старажытныя навучылі іх добра."/>
 	<entry name="Necrons/Lord:ShakenCount" value="2"/>
 	<entry name="Necrons/Lord:Victory#0" value="Despair and die."/>
 	<entry name="Necrons/Lord:VictoryCount" value="1"/>
