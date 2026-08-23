@@ -45,7 +45,7 @@
     <entry name="AdeptusMechanicus/FulguriteElectroPriest:BrokenCount" value="1"/>
     <entry name="AdeptusMechanicus/FulguriteElectroPriest:Hurt#0" value="МЫ ДАГЭТУЛЬ МАРШУЕМ."/>
     <entry name="AdeptusMechanicus/FulguriteElectroPriest:HurtCount" value="1"/>
-    <entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#0" value="Я пЛАЧУ СЬЛЁЗАМІ АМНІСІІ"/>
+    <entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#0" value="Я ПЛАЧУ СЬЛЁЗАМІ АМНІСІІ"/>
     <entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#1" value="ПРАКЛЁН КОРПУСКАРЫЯЎ"/>
     <entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#2" value="МОЙ ЭЛЕКТУ, ЁН ГАЛОДНЫ"/>
     <entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#3" value="ІН НОМІНЭ ДЭІ МЕХАНІКІ"/>
@@ -56,7 +56,7 @@
     <entry name="AdeptusMechanicus/FulguriteElectroPriest:VictoryCount" value="1"/>
     <entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#0" value="Яны пазнаюць мудрасьць Марсу!"/>
     <entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#1" value="Дальнабойнае рашэньне знойдзена."/>
-    <entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#2" value="Мэта з каналу сувязі прынятая."/>
+    <entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#2" value="Цэль з каналу сувязі прынятая."/>
     <entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#3" value="Духі Машынаў вызваленыя."/>
     <entry name="AdeptusMechanicus/IronstriderBallistarius:AttackCount" value="4"/>
     <entry name="AdeptusMechanicus/IronstriderBallistarius:Broken#0" value="Домінус, мы мусім-"/>
@@ -106,7 +106,7 @@
     <entry name="AdeptusMechanicus/KnightCrusader:IdleCount" value="4"/>
     <entry name="AdeptusMechanicus/KnightCrusader:Shaken#0" value="ЯК ВЫ СЬМЕЕЦЕ."/>
     <entry name="AdeptusMechanicus/KnightCrusader:ShakenCount" value="1"/>
-    <entry name="AdeptusMechanicus/KnightCrusader:Victory#0" value="Пасьці ад маёй рукі — ня ганьба."/>
+    <entry name="AdeptusMechanicus/KnightCrusader:Victory#0" value="Параза ад маёй рукі — ня ганьба."/>
     <entry name="AdeptusMechanicus/KnightCrusader:VictoryCount" value="1"/>
     <entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#0" value="Ачышчаем, Домінус."/>
     <entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#1" value="Дагэтуль ачышчаем, Домінус."/>
@@ -134,91 +134,91 @@
     <entry name="AdeptusMechanicus/TechPriestManipulus:BrokenCount" value="1"/>
     <entry name="AdeptusMechanicus/TechPriestManipulus:Hurt#0" value="Мы… мы не плянавалі гэтага."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#0" value="Oh, I am just leaking power."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#1" value="Tapping the Galvanic Cell."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#2" value="Overcharging, underserving."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#3" value="To understand the Xenos…"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Shaken#0" value="Protect your Magos, insects!"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Victory#0" value="Their bioelectricity… is mine."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#0" value="Use cover, conserve fire."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#1" value="I need you alive, Skitarii."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#2" value="No dissent, now we fight."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#3" value="I have control!"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Broken#0" value="We are disposable…"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Hurt#0" value="Dying..? Save the Magos!"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#0" value="Following your plans, Magos."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#1" value="Could we save some Skitarii?"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#2" value="We live to die, Magos."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#3" value="Servo Skull, I name thee Morte."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Shaken#0" value="Issue the Control Edict!"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Victory#0" value="Our losses were minimal, Magos."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#0" value="Rad-Troopers in the field!"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#1" value="Let's see who the Radium kills faster…"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#2" value="Carbines a-glow."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#3" value="There's no stopping us."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Broken#0" value="Let's die later instead."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Hurt#0" value="Leaking rad and blood, here."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#0" value="I've 99 upgrades, but rad-protection isn't one of them."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#1" value="I'm burning up."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#2" value="Ugh… don't feel so good."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#3" value="I mean, I wouldn't eat near us either."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Shaken#0" value="Magos, we are dying for you."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Victory#0" value="Not even a half-life left of them."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#0" value="My move, your death."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#1" value="Pawns, advance."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#2" value="I see all the pieces."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#3" value="Making every move."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Broken#0" value="A defense becomes necessary… Luzhin?"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Hurt#0" value="Targetting the king, clever."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#0" value="No cycle is idle."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#1" value="Inefficiency becomes entropy."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#2" value="What joy in manipulation."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#3" value="Yes… I see their moves and countermoves."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Shaken#0" value="Unexpected, a gambit. Admirable."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Victory#0" value="I planned this victory several moves ago. But the sweetness remains."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#0" value="The city awaits."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#1" value="Their lives are for us to take, not you."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#2" value="Servitors firing."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#3" value="Forge in combat."/>
-	<entry name="AdeptusMechanicus/Headquarters:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/Headquarters:Broken#0" value="The city will fall."/>
-	<entry name="AdeptusMechanicus/Headquarters:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Hurt#0" value="We are sustaining civilian casualties. Acceptable."/>
-	<entry name="AdeptusMechanicus/Headquarters:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#0" value="A revolt is being suppressed."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#1" value="Clones are being sent to the Protoservitor Cradles."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#2" value="In the name of the Omnissiah, hab-fanes cleared."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#3" value="Bionics production up 0.1%"/>
-	<entry name="AdeptusMechanicus/Headquarters:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/Headquarters:Shaken#0" value="The masses are terrified. Provosts have been deployed."/>
-	<entry name="AdeptusMechanicus/Headquarters:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Victory#0" value="External threats eliminated. Turning attention to dissent."/>
-	<entry name="AdeptusMechanicus/Headquarters:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="AdeptusMechanicus/ArchaeopterTransvector"/>
-	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="AdeptusMechanicus/IronstriderBallistarius"/>
-	<entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="AdeptusMechanicus/IronstriderBallistarius"/>
-	<entry name="AdeptusMechanicus/SerberysSulphurhound" value="AdeptusMechanicus/SkitariiVanguard"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#0" value="Вох, энэргетычнае марнатраўства."/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:Idle#1" value="Далучаюся да Гальванічнага Элементу."/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:Idle#2" value="Перазарадка, недахоп абслугоўваньня."/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:Idle#3" value="Каб зразумець Ксенасаў…"/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:IdleCount" value="4"/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:Shaken#0" value="Бараніце свайго Магаса, казуркі!"/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:ShakenCount" value="1"/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:Victory#0" value="Іх біяэлектрычнасьць… мая."/>
+    <entry name="AdeptusMechanicus/TechPriestManipulus:VictoryCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Attack#0" value="Выкарыстоўвайце укрыцьці, эканомце агонь."/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Attack#1" value="Вы патрэбныя мне жывымі, Скітарыі."/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Attack#2" value="Ніякіх пярэчаньняў, цяпер мы змагаемся."/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Attack#3" value="Я трымаю кантроль!"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:AttackCount" value="4"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Broken#0" value="Мы расходнікі…"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:BrokenCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Hurt#0" value="Паміраю…? Ратуйце Магаса!"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:HurtCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Idle#0" value="Ідзём паводле вашых планаў, Магас."/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Idle#1" value="Мы можам зьберагчы Скітарыяў?"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Idle#2" value="Мы жывем, каб памерці, Магас."/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Idle#3" value="Серва-чэрап, я называю цябе Мортэ."/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:IdleCount" value="4"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Shaken#0" value="Выдаць Эдыкт Кантролю!"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:ShakenCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:Victory#0" value="Нашыя страты былі мінімальнымі, Магас."/>
+    <entry name="AdeptusMechanicus/SkitariiMarshal:VictoryCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Attack#0" value="Рад-салдаты на полі бою!"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Attack#1" value="Паглядзім, каго Радый заб'е хутчэй…"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Attack#2" value="Карабіны зьзяюць."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Attack#3" value="Нас не спыніць."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:AttackCount" value="4"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Broken#0" value="Давайце лепш памром пазьней."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:BrokenCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Hurt#0" value="Працёк радыяцыі і крыві."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:HurtCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Idle#0" value="Я маю 99 паляпшэньняў, але абарона ад радыяцыі ня зь іх ліку."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Idle#1" value="Я згараю."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Idle#2" value="Угх… ня надта добра сябе адчуваю."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Idle#3" value="Ну, я б таксама ня стаў есьці побач з намі."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:IdleCount" value="4"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Shaken#0" value="Магас, мы паміраем за вас."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:ShakenCount" value="1"/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:Victory#0" value="Ад іх не засталося нават перыяду паўраспаду."/>
+    <entry name="AdeptusMechanicus/SkitariiVanguard:VictoryCount" value="1"/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Attack#0" value="Мой рух, твая сьмерць."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Attack#1" value="Пешкі, наперад."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Attack#2" value="Бачу ўсе фігуры."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Attack#3" value="Ажыцяўляю кожны рух."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:AttackCount" value="4"/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Broken#0" value="Абарона становіцца неабходнасьцю… Лужын?"/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:BrokenCount" value="1"/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Hurt#0" value="Цэліць у караля, разумна."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:HurtCount" value="1"/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Idle#0" value="Няма халастых цыклаў."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Idle#1" value="Неэфектыўнасьць ператвараецца ў энтрапію."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Idle#2" value="Якая асалода ў маніпуляцыі."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Idle#3" value="Так… я бачу іх хады і контрудары."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:IdleCount" value="4"/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Shaken#0" value="Нечакана, гамбіт. Варта павагі."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:ShakenCount" value="1"/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:Victory#0" value="Я спланаваў гэтую перамогу яшчэ некалькі рухаў таму. Але саладосьць засталася."/>
+    <entry name="AdeptusMechanicus/TechPriestDominus:VictoryCount" value="1"/>
+    <entry name="AdeptusMechanicus/Headquarters:Attack#0" value="Горад чакае."/>
+    <entry name="AdeptusMechanicus/Headquarters:Attack#1" value="Іх жыцьці належаць нам, ня вам."/>
+    <entry name="AdeptusMechanicus/Headquarters:Attack#2" value="Сэрвітары вядуць агонь."/>
+    <entry name="AdeptusMechanicus/Headquarters:Attack#3" value="Кузьня вядзе бой."/>
+    <entry name="AdeptusMechanicus/Headquarters:AttackCount" value="4"/>
+    <entry name="AdeptusMechanicus/Headquarters:Broken#0" value="Горад падзе."/>
+    <entry name="AdeptusMechanicus/Headquarters:BrokenCount" value="1"/>
+    <entry name="AdeptusMechanicus/Headquarters:Hurt#0" value="Мы нясём страты сярод цывільных. Прымальна."/>
+    <entry name="AdeptusMechanicus/Headquarters:HurtCount" value="1"/>
+    <entry name="AdeptusMechanicus/Headquarters:Idle#0" value="Мяцеж задушаны."/>
+    <entry name="AdeptusMechanicus/Headquarters:Idle#1" value="Клоны адпраўляюцца ў Калыскі Протасэрвітараў."/>
+    <entry name="AdeptusMechanicus/Headquarters:Idle#2" value="У імя Амінісіі, хаб фэйны зачышчаны."/>
+    <entry name="AdeptusMechanicus/Headquarters:Idle#3" value="Вытворчасьць біёнікі вырасла на 0.1%"/>
+    <entry name="AdeptusMechanicus/Headquarters:IdleCount" value="4"/>
+    <entry name="AdeptusMechanicus/Headquarters:Shaken#0" value="Масы ў жаху. Правосты разгорнуты."/>
+    <entry name="AdeptusMechanicus/Headquarters:ShakenCount" value="1"/>
+    <entry name="AdeptusMechanicus/Headquarters:Victory#0" value="Зьнешнія пагрозы ліквідаваны. Пераключаем увагу на іншадумцаў."/>
+    <entry name="AdeptusMechanicus/Headquarters:VictoryCount" value="1"/>
+    <entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="AdeptusMechanicus/ArchaeopterTransvector"/>
+    <entry name="AdeptusMechanicus/OnagerDunecrawler" value="AdeptusMechanicus/IronstriderBallistarius"/>
+    <entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="AdeptusMechanicus/IronstriderBallistarius"/>
+    <entry name="AdeptusMechanicus/SerberysSulphurhound" value="AdeptusMechanicus/SkitariiVanguard"/>
 	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="Space Marines sighted, commander. Comms channels are open."/>
 	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarinesCount" value="1"/>
 	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Lord Commissar spotted. Preparing to drive him closer."/>
