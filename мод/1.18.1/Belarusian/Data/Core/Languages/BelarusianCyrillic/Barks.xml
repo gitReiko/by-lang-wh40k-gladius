@@ -1301,263 +1301,263 @@
     <entry name="Neutral/NeophyteHybrid:ShakenCount" value="1"/>
     <entry name="Neutral/NeophyteHybrid:Victory#0" value="Яны — мяса для Каралевы, якая прыйдзе!"/>
 	<entry name="Neutral/NeophyteHybrid:VictoryCount" value="1"/>
-	<entry name="Orks/Battlewagon:Attack#0" value="Woo, dakka, whee!"/>
-	<entry name="Orks/Battlewagon:Attack#1" value="Red wunz 'it arder!"/>
-	<entry name="Orks/Battlewagon:Attack#2" value="Run 'em down!"/>
-	<entry name="Orks/Battlewagon:Attack#3" value="Shooting on da move!"/>
-	<entry name="Orks/Battlewagon:AttackCount" value="4"/>
-	<entry name="Orks/Battlewagon:Broken#0" value="Turn dis fing around!"/>
-	<entry name="Orks/Battlewagon:Broken#1" value="Zog it! Move dis fung!"/>
-	<entry name="Orks/Battlewagon:BrokenCount" value="2"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarum#0" value="Oomies! Fire everyfing!"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:Necrons#0" value="Scrap 'em for bitz!"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:Orks#0" value="It's uz! Now fer a proper fite!"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarines#0" value="Run down da Beakies!"/>
-	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Orks/Battlewagon:Hurt#0" value="Ow many wheels iz dis fing menna have?"/>
-	<entry name="Orks/Battlewagon:HurtCount" value="1"/>
-	<entry name="Orks/Battlewagon:Idle#0" value="And I said, what if it had two engjinnz?"/>
-	<entry name="Orks/Battlewagon:Idle#1" value="Anywun got any red paint?"/>
-	<entry name="Orks/Battlewagon:Idle#2" value="Need to go fasta, boss! FASTA!"/>
-	<entry name="Orks/Battlewagon:Idle#3" value="Toot-toooot!"/>
-	<entry name="Orks/Battlewagon:IdleCount" value="4"/>
-	<entry name="Orks/Battlewagon:Shaken#0" value="'asn't this fing got springs?"/>
-	<entry name="Orks/Battlewagon:Shaken#1" value="Squig suckin grot munchers!"/>
-	<entry name="Orks/Battlewagon:Shaken#2" value="They'se shootin at uz!"/>
-	<entry name="Orks/Battlewagon:ShakenCount" value="3"/>
-	<entry name="Orks/Battlewagon:Victory#0" value="WAAAGH! Orks!"/>
-	<entry name="Orks/Battlewagon:VictoryCount" value="1"/>
-	<entry name="Orks/Boy:Attack#0" value="'it 'em 'arder!"/>
-	<entry name="Orks/Boy:Attack#1" value="Dakka, dakka, dakka!"/>
-	<entry name="Orks/Boy:Attack#2" value="Hur-hur-hur, dis iz the life!"/>
-	<entry name="Orks/Boy:Attack#3" value="WAAAGH!"/>
-	<entry name="Orks/Boy:Attack#4" value="Where's da fight?"/>
-	<entry name="Orks/Boy:AttackCount" value="5"/>
-	<entry name="Orks/Boy:Broken#0" value="AAAWGH! I'm off."/>
-	<entry name="Orks/Boy:Broken#1" value="Ev'ry Ork fer 'imself!"/>
-	<entry name="Orks/Boy:Broken#2" value="Left a squig cooking in my digs… back soon!"/>
-	<entry name="Orks/Boy:Broken#3" value="Naw… naw, naw, naw."/>
-	<entry name="Orks/Boy:Broken#4" value="RunrunRUN!"/>
-	<entry name="Orks/Boy:BrokenCount" value="5"/>
-	<entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="Oomies! Dey got great fings to nick."/>
-	<entry name="Orks/Boy:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Orks/Boy:EnemyFaction:Necrons#0" value="Tin fings. Zogging fings don't stay dead!"/>
-	<entry name="Orks/Boy:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Orks/Boy:EnemyFaction:Orks#0" value="Aw, another WAAAGH! Now we know we's gonna 'ave a great fight."/>
-	<entry name="Orks/Boy:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevil#0" value="'Ow many legs? Dere's good eatin on dat."/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/Enslaver#0" value="Oh, me noggin. Keep away!"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="Yawn! Where's the fun in fighting tinboyz?"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Oh, da smelly oomies are 'ere? We's gonna 'ave a great fight!"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/Psychneuein#0" value="Buzzy fings! Wotchit, they get inside yer and then—POP!"/>
-	<entry name="Orks/Boy:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="Orks/Boy:Hurt#0" value="'old on, me brains iz leaking out. Anywun got an 'ammer and sum nails?"/>
-	<entry name="Orks/Boy:Hurt#1" value="e's ded! Hur hur. Bagsy 'is teef"/>
-	<entry name="Orks/Boy:Hurt#2" value="Iz dat me arm?"/>
-	<entry name="Orks/Boy:Hurt#3" value="We's the strongest wunz dere iz!"/>
-	<entry name="Orks/Boy:HurtCount" value="4"/>
-	<entry name="Orks/Boy:Idle#0" value="It's the Boss! Wot do yer want, Boss?"/>
-	<entry name="Orks/Boy:Idle#1" value="More barrels means more dakka. More dakka means more fun!"/>
-	<entry name="Orks/Boy:Idle#2" value="Nah, mate, this is my squig. Get yer own!"/>
-	<entry name="Orks/Boy:Idle#3" value="Oi boss, wot's going on?"/>
-	<entry name="Orks/Boy:Idle#4" value="One green squig, sitting on da wall. Two…"/>
-	<entry name="Orks/Boy:Idle#5" value="This choppa just isn't big enuff!"/>
-	<entry name="Orks/Boy:Idle#6" value="Where's der fite at?"/>
-	<entry name="Orks/Boy:Idle#7" value="Who do yer want me to 'it?"/>
-	<entry name="Orks/Boy:Idle#8" value="Wot is it?"/>
-	<entry name="Orks/Boy:IdleCount" value="9"/>
-	<entry name="Orks/Boy:QuestStory0#0" value="Zogging Gork, we's boooorrrred Boss. Got somefing to 'it?"/>
-	<entry name="Orks/Boy:QuestStory0Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory1#0" value="Keep dat weirdboy away from us, don't want our 'edz to pop."/>
-	<entry name="Orks/Boy:QuestStory1Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory2#0" value="Who lives under da ground? Nuffink ta fite down there."/>
-	<entry name="Orks/Boy:QuestStory2Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory3#0" value="You want us to grab lotsa junk? No problem, Boss."/>
-	<entry name="Orks/Boy:QuestStory3Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory4#0" value="Lets paint dat town red, Boss, hur-hur-hur."/>
-	<entry name="Orks/Boy:QuestStory4Count" value="1"/>
-	<entry name="Orks/Boy:QuestStory5#0" value="Never could eat squiggoth myself, Boss, all dat hair gets stuck in me teef."/>
-	<entry name="Orks/Boy:QuestStory5Count" value="1"/>
-	<entry name="Orks/Boy:Shaken#0" value="Go 'it 'im yerself, Boss."/>
-	<entry name="Orks/Boy:Shaken#1" value="I need sum dat Fungus beer courage."/>
-	<entry name="Orks/Boy:Shaken#2" value="I'm not Makari, I wanna live! I got fings to fite!"/>
-	<entry name="Orks/Boy:Shaken#3" value="That ain't Orky."/>
-	<entry name="Orks/Boy:ShakenCount" value="4"/>
-	<entry name="Orks/Boy:Victory#0" value="'Ow d'yer like 'ot metal death?"/>
-	<entry name="Orks/Boy:Victory#1" value="Da fing wiv not-Orks is that dey break so easily."/>
-	<entry name="Orks/Boy:Victory#2" value="Fire, fire, fire, BOOM. YEAH!"/>
-	<entry name="Orks/Boy:Victory#3" value="Hur hur hur!"/>
-	<entry name="Orks/Boy:Victory#4" value="Not 'spectin that, were ya?"/>
-	<entry name="Orks/Boy:Victory#5" value="Oi, get back up! We's not done stomping ya!"/>
-	<entry name="Orks/Boy:Victory#6" value="Orkz is made fer' two fings! Fightin', winnin' and countin!"/>
-	<entry name="Orks/Boy:Victory#7" value="STOMP. STOMP. STOMP."/>
-	<entry name="Orks/Boy:Victory#8" value="These wuns are broke, Boss. Any more to fight?"/>
+	<entry name="Orks/Battlewagon:Attack#0" value="У-хуў, дакка, ўі-і-і!"/>
+    <entry name="Orks/Battlewagon:Attack#1" value="Чырвоныя лупяць машней!"/>
+    <entry name="Orks/Battlewagon:Attack#2" value="Даві іх!"/>
+    <entry name="Orks/Battlewagon:Attack#3" value="Пуляем на хаду!"/>
+    <entry name="Orks/Battlewagon:AttackCount" value="4"/>
+    <entry name="Orks/Battlewagon:Broken#0" value="Ражвярні гэту калымагу!"/>
+    <entry name="Orks/Battlewagon:Broken#1" value="Зог! Варушы гэту хрэновіну!"/>
+    <entry name="Orks/Battlewagon:BrokenCount" value="2"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarum#0" value="Юдзішкі! Палі ж усіх ствалоў!"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:Necrons#0" value="На шматы іх!"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:Orks#0" value="То нашы! Во цяпер будзе бойка!"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:SpaceMarines#0" value="Даві Дзюбатых!"/>
+    <entry name="Orks/Battlewagon:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Orks/Battlewagon:Hurt#0" value="Колькі колаў наогул мусіць быць у гэтага карыта?"/>
+    <entry name="Orks/Battlewagon:HurtCount" value="1"/>
+    <entry name="Orks/Battlewagon:Idle#0" value="Ну я і кажу, а шо калі ўтаркнуць ёй два рухавікі?"/>
+    <entry name="Orks/Battlewagon:Idle#1" value="У каго чырвоная фарба?"/>
+    <entry name="Orks/Battlewagon:Idle#2" value="Трэба гнаць хутчэй, бос! ХУТЧЭЙ!"/>
+    <entry name="Orks/Battlewagon:Idle#3" value="Ту-туууу!"/>
+    <entry name="Orks/Battlewagon:IdleCount" value="4"/>
+    <entry name="Orks/Battlewagon:Shaken#0" value="А ў гэтага карыта наогул ёсьць рэсоры?"/>
+    <entry name="Orks/Battlewagon:Shaken#1" value="Сквігасмокі і гротажэры!"/>
+    <entry name="Orks/Battlewagon:ShakenCount" value="3"/>
+    <entry name="Orks/Battlewagon:Shaken#2" value="Яны ў нас пуляюць!"/>
+    <entry name="Orks/Battlewagon:Victory#0" value="ВАААГХ! Оркі!"/>
+    <entry name="Orks/Battlewagon:VictoryCount" value="1"/>
+    <entry name="Orks/Boy:Attack#0" value="Лупі іх мацней!"/>
+    <entry name="Orks/Boy:Attack#1" value="Дакка, дакка, дакка!"/>
+    <entry name="Orks/Boy:Attack#2" value="Хыр-хыр-хыр, вось гэта жыцьцё!"/>
+    <entry name="Orks/Boy:Attack#3" value="ВАААГХ!"/>
+    <entry name="Orks/Boy:Attack#4" value="Дзе бойка?"/>
+    <entry name="Orks/Boy:AttackCount" value="5"/>
+    <entry name="Orks/Boy:Broken#0" value="АААВГХ! Я жвальваю."/>
+    <entry name="Orks/Boy:Broken#1" value="Кожны орк сам жа сабе!"/>
+    <entry name="Orks/Boy:Broken#2" value="У мяне там сквіг смажыцца ў халупе… хутка буду!"/>
+    <entry name="Orks/Boy:Broken#3" value="Не… не, не, не."/>
+    <entry name="Orks/Boy:Broken#4" value="БяжыБЯЖЫ!"/>
+    <entry name="Orks/Boy:BrokenCount" value="5"/>
+    <entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="Юдзішкі! У іх поўна дабра, якое льга сьперці."/>
+    <entry name="Orks/Boy:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Orks/Boy:EnemyFaction:Necrons#0" value="Бляшанкі. Гэтыя хрэновіны ніяк не здыхаюць!"/>
+    <entry name="Orks/Boy:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Orks/Boy:EnemyFaction:Orks#0" value="О, яшчэ адзін ВАААГХ! Вось цяпер знатна паб'ёмся."/>
+    <entry name="Orks/Boy:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevil#0" value="Колькі лапаў? Ж такога выйдзе добрая жратва."/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/Enslaver#0" value="Вох, мой чэрап. Прэч адсюль!"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="Зяў! Які прыкол лупіць бляшанак?"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="О, шмярдзючыя юдзішкі тут? Вось будзе бойка!"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/Psychneuein#0" value="Жужжалкі! Асьцярожна, яны залазяць унутр, а потым — БУМ!"/>
+    <entry name="Orks/Boy:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+    <entry name="Orks/Boy:Hurt#0" value="Пачакай, мае мазгі выцякаюць. У каго ё малаток і пару цьвікоў?"/>
+    <entry name="Orks/Boy:Hurt#1" value="Ён ждох! Хыр-хыр. Яго жубы мае!"/>
+    <entry name="Orks/Boy:Hurt#2" value="Гэта што, мая рука?"/>
+    <entry name="Orks/Boy:Hurt#3" value="Мы самыя мошныя ж усіх!"/>
+    <entry name="Orks/Boy:HurtCount" value="4"/>
+    <entry name="Orks/Boy:Idle#0" value="Гэта Бос! Чаго трэба, Бос?"/>
+    <entry name="Orks/Boy:Idle#1" value="Больш ствалоў — гэта больш дакк. А больш дакк — больш весялосьці!"/>
+    <entry name="Orks/Boy:Idle#2" value="Не, братан, гэта мой сквіг. Жнайдзі сабе швайго!"/>
+    <entry name="Orks/Boy:Idle#3" value="Гэй, бос, што тут робіцца?"/>
+    <entry name="Orks/Boy:Idle#4" value="Адзін зялёны сквіг сядзіць на шцяне. Два…"/>
+    <entry name="Orks/Boy:Idle#5" value="Гэты чопа малая!"/>
+    <entry name="Orks/Boy:Idle#6" value="Дзе тут махач?"/>
+    <entry name="Orks/Boy:Idle#7" value="Каго мне ўдарыць?"/>
+    <entry name="Orks/Boy:Idle#8" value="Шо гэта такое?"/>
+    <entry name="Orks/Boy:IdleCount" value="9"/>
+    <entry name="Orks/Boy:QuestStory0#0" value="Чортаў Горк, нам нууудна, Бос. Ёсьць каго пастукаць?"/>
+    <entry name="Orks/Boy:QuestStory0Count" value="1"/>
+    <entry name="Orks/Boy:QuestStory1#0" value="Трымайце тага чудзілу далей ад нас, мы ня хочам, каб галовы палопаліся."/>
+    <entry name="Orks/Boy:QuestStory1Count" value="1"/>
+    <entry name="Orks/Boy:QuestStory2#0" value="Хто ўвогуле жыве пад зямлёй? Там нават няма пастукаць каго."/>
+    <entry name="Orks/Boy:QuestStory2Count" value="1"/>
+    <entry name="Orks/Boy:QuestStory3#0" value="Хочаш, каб мы нацягалі кучу хламу? Без праблем, Бос."/>
+    <entry name="Orks/Boy:QuestStory3Count" value="1"/>
+    <entry name="Orks/Boy:QuestStory4#0" value="Давай пафарбуем гэты горад у чырвоны, Бос, хыр-хыр-хыр."/>
+    <entry name="Orks/Boy:QuestStory4Count" value="1"/>
+    <entry name="Orks/Boy:QuestStory5#0" value="Ніколі ня мог жэрці сквігота, Бос, уся гэта поўсьць у жубах захрасае."/>
+    <entry name="Orks/Boy:QuestStory5Count" value="1"/>
+    <entry name="Orks/Boy:Shaken#0" value="Ідзі і сам лупі яго, Бос."/>
+    <entry name="Orks/Boy:Shaken#1" value="Мне трэба грыбное піва для адвагі."/>
+    <entry name="Orks/Boy:Shaken#2" value="Я не Макары, я хачу жыць! Мне яшчэ трэба шмат каго пастукаць!"/>
+    <entry name="Orks/Boy:Shaken#3" value="Гэта не па-орчы."/>
+    <entry name="Orks/Boy:ShakenCount" value="4"/>
+    <entry name="Orks/Boy:Victory#0" value="Ну як вам гарачая металішная сьмерць?"/>
+    <entry name="Orks/Boy:Victory#1" value="Што мне падабаецца ў не-Орках — дык гэта то, як лёгка яны ламаюцца."/>
+    <entry name="Orks/Boy:Victory#2" value="Агонь, агонь, агонь, БУХ. Е-Е!"/>
+    <entry name="Orks/Boy:Victory#3" value="Хыр-хыр-хыр!"/>
+    <entry name="Orks/Boy:Victory#4" value="Не чакалі такога, а?"/>
+    <entry name="Orks/Boy:Victory#5" value="Гэй, уставай! Мы яшчэ не датапталі!"/>
+    <entry name="Orks/Boy:Victory#6" value="Оркі штвораны для дзьвюх рэчаў! Біцца, перамагаць і лічыць!"/>
+    <entry name="Orks/Boy:Victory#7" value="ТАПЧЫ. ТАПЧЫ. ТАПЧЫ."/>
+    <entry name="Orks/Boy:Victory#8" value="Гэтыя паламаліся, Бос. Ёё яшчэ каго пастукаць?"/>
 	<entry name="Orks/Boy:VictoryCount" value="9"/>
-	<entry name="Orks/BurnaBommer:Attack#0" value="Going fer a flyby, Boss!"/>
-	<entry name="Orks/BurnaBommer:AttackCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Broken#0" value="Zoomin the zog outta dere!"/>
-	<entry name="Orks/BurnaBommer:BrokenCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Hurt#0" value="Big holez make it more fly-y, yeah?"/>
-	<entry name="Orks/BurnaBommer:HurtCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Idle#0" value="Going round and round and round…"/>
-	<entry name="Orks/BurnaBommer:Idle#1" value="Going up up up and down down down…"/>
-	<entry name="Orks/BurnaBommer:Idle#2" value="Dose magnificent meks in dere flyin machines…"/>
-	<entry name="Orks/BurnaBommer:Idle#3" value="To burn or to bomb, dat iz da question?"/>
-	<entry name="Orks/BurnaBommer:IdleCount" value="4"/>
-	<entry name="Orks/BurnaBommer:Shaken#0" value="Zog, giv uz a chance!"/>
-	<entry name="Orks/BurnaBommer:ShakenCount" value="1"/>
-	<entry name="Orks/BurnaBommer:Victory#0" value="WAAAGH! EAT IT!"/>
-	<entry name="Orks/BurnaBommer:VictoryCount" value="1"/>
-	<entry name="Orks/Dakkajet" value="Orks/BurnaBommer"/>
-	<entry name="Orks/Deffkopta:Attack#0" value="Now dis iz a Choppa!"/>
-	<entry name="Orks/Deffkopta:AttackCount" value="1"/>
-	<entry name="Orks/Deffkopta:Broken#0" value="Oh, I'm geddin dizzy…"/>
-	<entry name="Orks/Deffkopta:BrokenCount" value="1"/>
-	<entry name="Orks/Deffkopta:Hurt#0" value="Oi, get up 'ere so I can 'it you!"/>
-	<entry name="Orks/Deffkopta:HurtCount" value="1"/>
-	<entry name="Orks/Deffkopta:Idle#0" value="I luv the smell of burnaz in da morning."/>
-	<entry name="Orks/Deffkopta:Idle#1" value="Should we fite or should we fite?"/>
-	<entry name="Orks/Deffkopta:Idle#2" value="T'au don't surf"/>
-	<entry name="Orks/Deffkopta:Idle#3" value="I wonder if this fing can fly upside down?"/>
-	<entry name="Orks/Deffkopta:IdleCount" value="4"/>
-	<entry name="Orks/Deffkopta:Shaken#0" value="Ow many stikz does dis need to stay up? Uh."/>
-	<entry name="Orks/Deffkopta:ShakenCount" value="1"/>
-	<entry name="Orks/Deffkopta:Victory#0" value="Someday this war's gonna end…"/>
-	<entry name="Orks/Deffkopta:VictoryCount" value="1"/>
-	<entry name="Orks/FlashGitz" value="Orks/Boy"/>
-	<entry name="Orks/GargantuanSquiggoth:Attack#0" value="That way squiggie, whoah!"/>
-	<entry name="Orks/GargantuanSquiggoth:AttackCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Broken#0" value="Naw, you dumb squig, the uvver way."/>
-	<entry name="Orks/GargantuanSquiggoth:BrokenCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Hurt#0" value="Don't tell 'im if 'e's ded."/>
-	<entry name="Orks/GargantuanSquiggoth:HurtCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#0" value="'Ere, squiggy, grubs up."/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#1" value="Good, squiggy."/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#2" value="Bad squiggy. Spit out Udgrub! BAD!."/>
-	<entry name="Orks/GargantuanSquiggoth:Idle#3" value="Urp! Can't beat a good faceeater fer tea."/>
-	<entry name="Orks/GargantuanSquiggoth:IdleCount" value="4"/>
-	<entry name="Orks/GargantuanSquiggoth:Shaken#0" value="S'okay, squiggy, keep eatin'"/>
-	<entry name="Orks/GargantuanSquiggoth:ShakenCount" value="1"/>
-	<entry name="Orks/GargantuanSquiggoth:Victory#0" value="Good Squiggy! Dinner time!"/>
-	<entry name="Orks/GargantuanSquiggoth:VictoryCount" value="1"/>
-	<entry name="Orks/Gorkanaut:Attack#0" value="DAKKA DAKKA!"/>
-	<entry name="Orks/Gorkanaut:Attack#1" value="STOMP STOMP!"/>
-	<entry name="Orks/Gorkanaut:AttackCount" value="2"/>
-	<entry name="Orks/Gorkanaut:Broken#0" value="Me bitz is all smashed!"/>
-	<entry name="Orks/Gorkanaut:BrokenCount" value="1"/>
-	<entry name="Orks/Gorkanaut:Hurt#0" value="'ey, stop shooting! You know 'ow many teef this cost?"/>
-	<entry name="Orks/Gorkanaut:HurtCount" value="1"/>
-	<entry name="Orks/Gorkanaut:Idle#0" value="Can we stick more dakka on it? Please?"/>
-	<entry name="Orks/Gorkanaut:Idle#1" value="I feels the power uv Gork!"/>
-	<entry name="Orks/Gorkanaut:Idle#2" value="If we nail more tin to dis, can we make a Gargant?"/>
-	<entry name="Orks/Gorkanaut:Idle#3" value="Fink I dropped me dinner in 'ere. Last week."/>
-	<entry name="Orks/Gorkanaut:IdleCount" value="4"/>
-	<entry name="Orks/Gorkanaut:Shaken#0" value="DAT DON'T SCARE UZ!"/>
-	<entry name="Orks/Gorkanaut:ShakenCount" value="1"/>
-	<entry name="Orks/Gorkanaut:Victory#0" value="WAAAGH! Tinboyz rulez"/>
-	<entry name="Orks/Gorkanaut:VictoryCount" value="1"/>
-	<entry name="Orks/Headquarters:Attack#0" value="Finally, shootin at sumfin."/>
-	<entry name="Orks/Headquarters:AttackCount" value="1"/>
-	<entry name="Orks/Headquarters:Broken#0" value="Boss, 'elp uz!"/>
-	<entry name="Orks/Headquarters:BrokenCount" value="1"/>
-	<entry name="Orks/Headquarters:Hurt#0" value="Deyz shooting the fort, Boss!"/>
-	<entry name="Orks/Headquarters:HurtCount" value="1"/>
-	<entry name="Orks/Headquarters:Idle#0" value="Guard duty! Where's the WAAAGH in dat?"/>
-	<entry name="Orks/Headquarters:Idle#1" value="Oo's da boss 'ere?"/>
-	<entry name="Orks/Headquarters:Idle#2" value="Blood Axes reportin' sah!"/>
-	<entry name="Orks/Headquarters:Idle#3" value="'idin behind walls ain't Orky."/>
-	<entry name="Orks/Headquarters:IdleCount" value="4"/>
-	<entry name="Orks/Headquarters:Shaken#0" value="Orkz don't run!"/>
-	<entry name="Orks/Headquarters:ShakenCount" value="1"/>
-	<entry name="Orks/Headquarters:Victory#0" value="WAAAGH! Goddim!"/>
-	<entry name="Orks/Headquarters:VictoryCount" value="1"/>
-	<entry name="Orks/KillaKan" value="Orks/Gorkanaut"/>
-	<entry name="Orks/Meganob" value="Orks/Boy"/>
-	<entry name="Orks/Mek:Attack#0" value="Firing all me barrelz!"/>
-	<entry name="Orks/Mek:AttackCount" value="1"/>
-	<entry name="Orks/Mek:Broken#0" value="Sumfink needs fixing at da fort."/>
-	<entry name="Orks/Mek:BrokenCount" value="1"/>
-	<entry name="Orks/Mek:Hurt#0" value="Me kustom fieldz are broke!"/>
-	<entry name="Orks/Mek:HurtCount" value="1"/>
-	<entry name="Orks/Mek:Idle#0" value="I fink I could make sumfink special…"/>
-	<entry name="Orks/Mek:Idle#1" value="'Ere, pass the wotsit. Nah, 'old dis whilst I 'it it…"/>
-	<entry name="Orks/Mek:Idle#2" value="Imagine a shoota with FIVE barrels. Yeahhhh."/>
-	<entry name="Orks/Mek:Idle#3" value="Hmm. Killa Kan ain't workin. Need bigger Grot, smaller nails."/>
-	<entry name="Orks/Mek:IdleCount" value="4"/>
-	<entry name="Orks/Mek:Shaken#0" value="Morkz gutz, dat's not rite!"/>
-	<entry name="Orks/Mek:ShakenCount" value="1"/>
-	<entry name="Orks/Mek:Victory#0" value="WAAAGH! Mek brainz winz da day!"/>
-	<entry name="Orks/Mek:VictoryCount" value="1"/>
-	<entry name="Orks/MekGun:Attack#0" value="Firing da big gunz, Mr Ork Boss!"/>
-	<entry name="Orks/MekGun:AttackCount" value="1"/>
-	<entry name="Orks/MekGun:Broken#0" value="Every grot fer hisself!"/>
+	<entry name="Orks/BurnaBommer:Attack#0" value="Захаджу на брыючы лёт, Бос!"/>
+    <entry name="Orks/BurnaBommer:AttackCount" value="1"/>
+    <entry name="Orks/BurnaBommer:Broken#0" value="Жвальваем адсюль на поўнай хуткасьці!"/>
+    <entry name="Orks/BurnaBommer:BrokenCount" value="1"/>
+    <entry name="Orks/BurnaBommer:Hurt#0" value="Вялікія дыры робяць нас больш лятучымі, ага?"/>
+    <entry name="Orks/BurnaBommer:HurtCount" value="1"/>
+    <entry name="Orks/BurnaBommer:Idle#0" value="Кружымся, кружымся, кружымся…"/>
+    <entry name="Orks/BurnaBommer:Idle#1" value="Ляцім угару-угару-угару і ўніз-уніз-уніз…"/>
+    <entry name="Orks/BurnaBommer:Idle#2" value="Афігенныя мекі на сваіх лятучых штуках…"/>
+    <entry name="Orks/BurnaBommer:Idle#3" value="Паліць ці бамбіць, вось у чым пытаньне?"/>
+    <entry name="Orks/BurnaBommer:IdleCount" value="4"/>
+    <entry name="Orks/BurnaBommer:Shaken#0" value="Зог, дай нам шанец!"/>
+    <entry name="Orks/BurnaBommer:ShakenCount" value="1"/>
+    <entry name="Orks/BurnaBommer:Victory#0" value="ВАААГХ! Жрыце!"/>
+    <entry name="Orks/BurnaBommer:VictoryCount" value="1"/>
+    <entry name="Orks/Dakkajet" value="Orks/BurnaBommer"/>
+    <entry name="Orks/Deffkopta:Attack#0" value="Вось гэта я разумею Чопа!"/>
+    <entry name="Orks/Deffkopta:AttackCount" value="1"/>
+    <entry name="Orks/Deffkopta:Broken#0" value="Вох, у мяне галава кружыцца…"/>
+    <entry name="Orks/Deffkopta:BrokenCount" value="1"/>
+    <entry name="Orks/Deffkopta:Hurt#0" value="Гэй, падніміся сюды, каб я мог цябе ўдарыць!"/>
+    <entry name="Orks/Deffkopta:HurtCount" value="1"/>
+    <entry name="Orks/Deffkopta:Idle#0" value="Люблю пах палкіх штуковін раніцай."/>
+    <entry name="Orks/Deffkopta:Idle#1" value="Будзем біцца або будзем біцца?"/>
+    <entry name="Orks/Deffkopta:Idle#2" value="Та'у не сэрфяць."/>
+    <entry name="Orks/Deffkopta:Idle#3" value="Цікава, а гэтая хрэнь можа ляцець дагары нагамі?"/>
+    <entry name="Orks/Deffkopta:IdleCount" value="4"/>
+    <entry name="Orks/Deffkopta:Shaken#0" value="Колькі кірункаў трэба гэтай штуцы, каб не падаць? Э-э."/>
+    <entry name="Orks/Deffkopta:ShakenCount" value="1"/>
+    <entry name="Orks/Deffkopta:Victory#0" value="Калісьці гэтая вайна скончыцца…"/>
+    <entry name="Orks/Deffkopta:VictoryCount" value="1"/>
+    <entry name="Orks/FlashGitz" value="Orks/Boy"/>
+    <entry name="Orks/GargantuanSquiggoth:Attack#0" value="Той шлях сквігі, во-о-ох!"/>
+    <entry name="Orks/GargantuanSquiggoth:AttackCount" value="1"/>
+    <entry name="Orks/GargantuanSquiggoth:Broken#0" value="Не, тупі сквіг, у іншы бок!"/>
+    <entry name="Orks/GargantuanSquiggoth:BrokenCount" value="1"/>
+    <entry name="Orks/GargantuanSquiggoth:Hurt#0" value="Не гавары ж ім, калі ён здох."/>
+    <entry name="Orks/GargantuanSquiggoth:HurtCount" value="1"/>
+    <entry name="Orks/GargantuanSquiggoth:Idle#0" value="Сюды, сквігі, жратва прыйшла."/>
+    <entry name="Orks/GargantuanSquiggoth:Idle#1" value="Добры сквігі."/>
+    <entry name="Orks/GargantuanSquiggoth:Idle#2" value="Дрэнны сквігі. Выплюні Удгруб! ДРЭННЫ!"/>
+    <entry name="Orks/GargantuanSquiggoth:Idle#3" value="Урп! Лепш за добрага тваражэра на вячэру нічога няма."/>
+    <entry name="Orks/GargantuanSquiggoth:IdleCount" value="4"/>
+    <entry name="Orks/GargantuanSquiggoth:Shaken#0" value="Усё нармальна, сквігі, жры далей."/>
+    <entry name="Orks/GargantuanSquiggoth:ShakenCount" value="1"/>
+    <entry name="Orks/GargantuanSquiggoth:Victory#0" value="Добры сквігі! Час вячэраць!"/>
+    <entry name="Orks/GargantuanSquiggoth:VictoryCount" value="1"/>
+    <entry name="Orks/Gorkanaut:Attack#0" value="ДАККА ДАККА!"/>
+    <entry name="Orks/Gorkanaut:Attack#1" value="ТАПЧЫ ТАПЧЫ!"/>
+    <entry name="Orks/Gorkanaut:AttackCount" value="2"/>
+    <entry name="Orks/Gorkanaut:Broken#0" value="Мае кавалкі ражбітыя ўшчэнт!"/>
+    <entry name="Orks/Gorkanaut:BrokenCount" value="1"/>
+    <entry name="Orks/Gorkanaut:Hurt#0" value="Гэй, хопіць штраляць! Ведаеце, колькі жубоў гэта каштавала?"/>
+    <entry name="Orks/Gorkanaut:HurtCount" value="1"/>
+    <entry name="Orks/Gorkanaut:Idle#0" value="А можна прычапіць яшчэ больш дакк? Ну калі ласачка?"/>
+    <entry name="Orks/Gorkanaut:Idle#1" value="Я адчуваю моц Горка!"/>
+    <entry name="Orks/Gorkanaut:Idle#2" value="Калі прышараваць сюды яшчэ бляшанкі, з гэтага выйдзе Гаргант?"/>
+    <entry name="Orks/Gorkanaut:Idle#3" value="Здаецца, я згубіў тут сваю вячэру. На тым тыдні."/>
+    <entry name="Orks/Gorkanaut:IdleCount" value="4"/>
+    <entry name="Orks/Gorkanaut:Shaken#0" value="ГЭТА НАС НЕ НАПАЛОХАЕ!"/>
+    <entry name="Orks/Gorkanaut:ShakenCount" value="1"/>
+    <entry name="Orks/Gorkanaut:Victory#0" value="ВАААГХ! Бляшаныя хлопцы пануюць!"/>
+    <entry name="Orks/Gorkanaut:VictoryCount" value="1"/>
+    <entry name="Orks/Headquarters:Attack#0" value="Нарэшце, хоць па нечым штрэльнем."/>
+    <entry name="Orks/Headquarters:AttackCount" value="1"/>
+    <entry name="Orks/Headquarters:Broken#0" value="Бос, ратуй нас!"/>
+    <entry name="Orks/Headquarters:BrokenCount" value="1"/>
+    <entry name="Orks/Headquarters:Hurt#0" value="Яны лупяць па фартэцы, Бос!"/>
+    <entry name="Orks/Headquarters:HurtCount" value="1"/>
+    <entry name="Orks/Headquarters:Idle#0" value="Вартавацца! І дзе тут ВАААГХ?"/>
+    <entry name="Orks/Headquarters:Idle#1" value="Хто тут бос?"/>
+    <entry name="Orks/Headquarters:Idle#2" value="Крывавыя Сякеры шправаждачаць, сэр!"/>
+    <entry name="Orks/Headquarters:Idle#3" value="Хавацца за сьценамі — гэта не па-Орчы."/>
+    <entry name="Orks/Headquarters:IdleCount" value="4"/>
+    <entry name="Orks/Headquarters:Shaken#0" value="Оркі не бягуць!"/>
+    <entry name="Orks/Headquarters:ShakenCount" value="1"/>
+    <entry name="Orks/Headquarters:Victory#0" value="ВАААГХ! Дасталі яго!"/>
+    <entry name="Orks/Headquarters:VictoryCount" value="1"/>
+    <entry name="Orks/KillaKan" value="Orks/Gorkanaut"/>
+    <entry name="Orks/Meganob" value="Orks/Boy"/>
+    <entry name="Orks/Mek:Attack#0" value="Палю ж усіх ствалоў!"/>
+    <entry name="Orks/Mek:AttackCount" value="1"/>
+    <entry name="Orks/Mek:Broken#0" value="Штосьці трэба падкруціць у форце."/>
+    <entry name="Orks/Mek:BrokenCount" value="1"/>
+    <entry name="Orks/Mek:Hurt#0" value="Мае кастамныя палі жламаліся!"/>
+    <entry name="Orks/Mek:HurtCount" value="1"/>
+    <entry name="Orks/Mek:Idle#0" value="Ждаецца, я мог бы сабраць штосьці ашаблівае…"/>
+    <entry name="Orks/Mek:Idle#1" value="Гэй, падай тую фіговіну. Не, патрымай гэта, пакуль я лупану…"/>
+    <entry name="Orks/Mek:Idle#2" value="Уяві штралялу з ПЯЦЁРМА стваламі. Е-ее-е."/>
+    <entry name="Orks/Mek:Idle#3" value="Хмм. Жабойчая бляшанка не працуе. Трэба большы Грот і меншыя цьвікі."/>
+    <entry name="Orks/Mek:IdleCount" value="4"/>
+    <entry name="Orks/Mek:Shaken#0" value="Кішкі Морка, гэта неяк хібна!"/>
+    <entry name="Orks/Mek:ShakenCount" value="1"/>
+    <entry name="Orks/Mek:Victory#0" value="ВАААГХ! Мазгі Мека заташчылі гэты дзень!"/>
+    <entry name="Orks/Mek:VictoryCount" value="1"/>
+    <entry name="Orks/MekGun:Attack#0" value="Палю ж вялікіх грыматаў, шпадар Орка-Бос!"/>
+    <entry name="Orks/MekGun:AttackCount" value="1"/>
+    <entry name="Orks/MekGun:Broken#0" value="Кожны грот сам жа сабе!"/>
 	<entry name="Orks/MekGun:BrokenCount" value="1"/>
-	<entry name="Orks/MekGun:Hurt#0" value="More ded grotz."/>
-	<entry name="Orks/MekGun:HurtCount" value="1"/>
-	<entry name="Orks/MekGun:Idle#0" value="Grotz is da smartest and best."/>
-	<entry name="Orks/MekGun:Idle#1" value="Away from the fite, wiv a big gun. Best."/>
-	<entry name="Orks/MekGun:Idle#2" value="Moki, get outta da barrel!"/>
-	<entry name="Orks/MekGun:Idle#3" value="Smelly Mek."/>
-	<entry name="Orks/MekGun:IdleCount" value="4"/>
-	<entry name="Orks/MekGun:Shaken#0" value="Stop 'itting us, we're not gonna run!"/>
-	<entry name="Orks/MekGun:ShakenCount" value="1"/>
-	<entry name="Orks/MekGun:Victory#0" value="Grotz, I mean, Orks are the best, right Boss?"/>
-	<entry name="Orks/MekGun:VictoryCount" value="1"/>
-	<entry name="Orks/Painboy:Attack#0" value="Hee-hee, battlefield surgery!"/>
-	<entry name="Orks/Painboy:AttackCount" value="1"/>
-	<entry name="Orks/Painboy:Broken#0" value="Dokz and little snotz first!"/>
-	<entry name="Orks/Painboy:BrokenCount" value="1"/>
-	<entry name="Orks/Painboy:Hurt#0" value="Just need to nail this back on, 'old on."/>
-	<entry name="Orks/Painboy:HurtCount" value="1"/>
-	<entry name="Orks/Painboy:Idle#0" value="Naw, Boss, owzabout a nice big noo arm?"/>
-	<entry name="Orks/Painboy:Idle#1" value="Need yer teef. Open wide. Now say WAAAGH!"/>
-	<entry name="Orks/Painboy:Idle#2" value="Wot iz 'mad', anyway?"/>
-	<entry name="Orks/Painboy:Idle#3" value="Need bigger needle squigz."/>
-	<entry name="Orks/Painboy:IdleCount" value="4"/>
-	<entry name="Orks/Painboy:Shaken#0" value="'ere, dats not rite."/>
-	<entry name="Orks/Painboy:ShakenCount" value="1"/>
-	<entry name="Orks/Painboy:Victory#0" value="Look at all dose bitz… luverly."/>
-	<entry name="Orks/Painboy:VictoryCount" value="1"/>
-	<entry name="Orks/Tankbusta" value="Orks/Boy"/>
-	<entry name="Orks/Warboss:Attack#0" value="Oo's da best Ork. WAAAGH! ME."/>
-	<entry name="Orks/Warboss:AttackCount" value="1"/>
-	<entry name="Orks/Warboss:Broken#0" value="I just usin taktiks, dat's all."/>
-	<entry name="Orks/Warboss:BrokenCount" value="1"/>
-	<entry name="Orks/Warboss:Hurt#0" value="Ow, don't yoo know oo I am?"/>
-	<entry name="Orks/Warboss:HurtCount" value="1"/>
-	<entry name="Orks/Warboss:Idle#0" value="Zoggin nuffink to do. ZOG!"/>
-	<entry name="Orks/Warboss:Idle#1" value="WHERE'S THE FITE?"/>
-	<entry name="Orks/Warboss:Idle#2" value="Curried squig fer lunch AGAIN? Where's da drops?"/>
-	<entry name="Orks/Warboss:Idle#3" value="I need ta 'it fings!"/>
-	<entry name="Orks/Warboss:Idle#4" value="You got dem squigs outta me Mega Armour yet, grot?"/>
-	<entry name="Orks/Warboss:IdleCount" value="5"/>
-	<entry name="Orks/Warboss:Shaken#0" value="Sooner we're outta 'ere, da better."/>
-	<entry name="Orks/Warboss:ShakenCount" value="1"/>
-	<entry name="Orks/Warboss:Victory#0" value="Course we won, I was 'ere!"/>
-	<entry name="Orks/Warboss:VictoryCount" value="1"/>
-	<entry name="Orks/Warbuggy" value="Orks/Battlewagon"/>
-	<entry name="Orks/Weirdboy:Attack#0" value="Owwwwwwww… me 'ed."/>
-	<entry name="Orks/Weirdboy:AttackCount" value="1"/>
-	<entry name="Orks/Weirdboy:Broken#0" value="Get me away from 'ere!"/>
-	<entry name="Orks/Weirdboy:BrokenCount" value="1"/>
-	<entry name="Orks/Weirdboy:Hurt#0" value="Edz-a-popping!"/>
-	<entry name="Orks/Weirdboy:HurtCount" value="1"/>
-	<entry name="Orks/Weirdboy:Idle#0" value="Blurble."/>
-	<entry name="Orks/Weirdboy:Idle#1" value="Mork talks. Gork walks."/>
-	<entry name="Orks/Weirdboy:Idle#2" value="The shadow in the warp..!"/>
-	<entry name="Orks/Weirdboy:Idle#3" value="Neath Gladius lie the Krork and the Brainboyz, waiting for the last fite."/>
-	<entry name="Orks/Weirdboy:IdleCount" value="4"/>
-	<entry name="Orks/Weirdboy:Shaken#0" value="Gork and Mork compel yew!"/>
-	<entry name="Orks/Weirdboy:ShakenCount" value="1"/>
-	<entry name="Orks/Weirdboy:Victory#0" value="Hur-hur, WAAAGH!"/>
-	<entry name="Orks/Weirdboy:VictoryCount" value="1"/>
+    <entry name="Orks/MekGun:Hurt#0" value="Больш мёртвых гротаў."/>
+    <entry name="Orks/MekGun:HurtCount" value="1"/>
+    <entry name="Orks/MekGun:Idle#0" value="Гроты шамыя разумныя і найлепшыя."/>
+    <entry name="Orks/MekGun:Idle#1" value="Далей ад махачу, ж вялікай штралялай. Клас."/>
+    <entry name="Orks/MekGun:Idle#2" value="Мокі, вылазь са штвала!"/>
+    <entry name="Orks/MekGun:Idle#3" value="Шмярдзючы Мек."/>
+    <entry name="Orks/MekGun:IdleCount" value="4"/>
+    <entry name="Orks/MekGun:Shaken#0" value="Хопіць нас лупіць, мы нікуды не пабяжым!"/>
+    <entry name="Orks/MekGun:ShakenCount" value="1"/>
+    <entry name="Orks/MekGun:Victory#0" value="Гроты, кхм, Оркі лепшыя, праўда, Бос?"/>
+    <entry name="Orks/MekGun:VictoryCount" value="1"/>
+    <entry name="Orks/Painboy:Attack#0" value="Хе-хе, палявая хірургія!"/>
+    <entry name="Orks/Painboy:AttackCount" value="1"/>
+    <entry name="Orks/Painboy:Broken#0" value="Докі і дробныя сноты першымі!"/>
+    <entry name="Orks/Painboy:BrokenCount" value="1"/>
+    <entry name="Orks/Painboy:Hurt#0" value="Трэба толькі прыбіць гэта назад, пачакай."/>
+    <entry name="Orks/Painboy:HurtCount" value="1"/>
+    <entry name="Orks/Painboy:Idle#0" value="Наў, Бос, як наконт новай файнай здаравеннай рукі?"/>
+    <entry name="Orks/Painboy:Idle#1" value="Мне патрэбны твае жубы. Адкрый шырэй. А цяпер скажы ВАААГХ!"/>
+    <entry name="Orks/Painboy:Idle#2" value="Што наогул значыць 'вар'ят'?"/>
+    <entry name="Orks/Painboy:Idle#3" value="Патрэбны сквіг ж большымі іголкамі."/>
+    <entry name="Orks/Painboy:IdleCount" value="4"/>
+    <entry name="Orks/Painboy:Shaken#0" value="Эй, нешта тут ня так."/>
+    <entry name="Orks/Painboy:ShakenCount" value="1"/>
+    <entry name="Orks/Painboy:Victory#0" value="Гляньце на ўсе гэтыя кавалкі… хараство."/>
+    <entry name="Orks/Painboy:VictoryCount" value="1"/>
+    <entry name="Orks/Tankbusta" value="Orks/Boy"/>
+    <entry name="Orks/Warboss:Attack#0" value="Хто найлепшы Орк. ВАААГХ! Я."/>
+    <entry name="Orks/Warboss:AttackCount" value="1"/>
+    <entry name="Orks/Warboss:Broken#0" value="Я проста карыстаю тактыку, вось і ўсё."/>
+    <entry name="Orks/Warboss:BrokenCount" value="1"/>
+    <entry name="Orks/Warboss:Hurt#0" value="Аў, ты што, ня ведаеш, хто я такі?"/>
+    <entry name="Orks/Warboss:HurtCount" value="1"/>
+    <entry name="Orks/Warboss:Idle#0" value="Зог, увогуле няма чаго рабіць. ЗОГ!"/>
+    <entry name="Orks/Warboss:Idle#1" value="ДЗЕ МАХАЧ?"/>
+    <entry name="Orks/Warboss:Idle#2" value="ЗНОЎ сквіг у кары на абед? Дзе тут выграбная яма?"/>
+    <entry name="Orks/Warboss:Idle#3" value="Мне трэба нешта лупіць!"/>
+    <entry name="Orks/Warboss:Idle#4" value="Ты ўжо выдраў тых сквігаў з маёй Мегабрані, грот?"/>
+    <entry name="Orks/Warboss:IdleCount" value="5"/>
+    <entry name="Orks/Warboss:Shaken#0" value="Чым хутчэй мы звалім адсюль, тым лепей."/>
+    <entry name="Orks/Warboss:ShakenCount" value="1"/>
+    <entry name="Orks/Warboss:Victory#0" value="Жразумела мы перамаглі, я ж быў тут!"/>
+    <entry name="Orks/Warboss:VictoryCount" value="1"/>
+    <entry name="Orks/Warbuggy" value="Orks/Battlewagon"/>
+    <entry name="Orks/Weirdboy:Attack#0" value="Аў-ў-ў-ў-ў… мая алава."/>
+    <entry name="Orks/Weirdboy:AttackCount" value="1"/>
+    <entry name="Orks/Weirdboy:Broken#0" value="Забярыце мяне адсюль!"/>
+    <entry name="Orks/Weirdboy:BrokenCount" value="1"/>
+    <entry name="Orks/Weirdboy:Hurt#0" value="Галовы лопаюцца!"/>
+    <entry name="Orks/Weirdboy:HurtCount" value="1"/>
+    <entry name="Orks/Weirdboy:Idle#0" value="Блурбл."/>
+    <entry name="Orks/Weirdboy:Idle#1" value="Морк гаворыць. Горк ходзіць."/>
+    <entry name="Orks/Weirdboy:Idle#2" value="Цень у варпе..!"/>
+    <entry name="Orks/Weirdboy:Idle#3" value="Пад Гладыусам ляжаць Кроркі і Мазгаправы, чакаючы апошняга махачу."/>
+    <entry name="Orks/Weirdboy:IdleCount" value="4"/>
+    <entry name="Orks/Weirdboy:Shaken#0" value="Горк і Морк загадваюць вам!"/>
+    <entry name="Orks/Weirdboy:ShakenCount" value="1"/>
+    <entry name="Orks/Weirdboy:Victory#0" value="Хыр-хыр, ВАААГХ!"/>
+    <entry name="Orks/Weirdboy:VictoryCount" value="1"/>
 	<entry name="SpaceMarines/Apothecary:Attack#0" value="These don't only heal."/>
 	<entry name="SpaceMarines/Apothecary:AttackCount" value="1"/>
 	<entry name="SpaceMarines/Apothecary:Broken#0" value="I cannot leave the gene-seed!"/>
