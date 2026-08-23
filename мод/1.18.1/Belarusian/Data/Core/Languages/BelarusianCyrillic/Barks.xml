@@ -999,166 +999,165 @@
     <entry name="Necrons/Lord:Shaken#0" value="Сьмерць ня можа пакінуць на мне сьлед."/>
     <entry name="Necrons/Lord:Shaken#1" value="Старажытныя навучылі іх добра."/>
 	<entry name="Necrons/Lord:ShakenCount" value="2"/>
-	<entry name="Necrons/Lord:Victory#0" value="Despair and die."/>
-	<entry name="Necrons/Lord:VictoryCount" value="1"/>
-	<entry name="Necrons/Monolith:Attack#0" value="Particle Whip deployed."/>
-	<entry name="Necrons/Monolith:AttackCount" value="1"/>
-	<entry name="Necrons/Monolith:Broken#0" value="Retreating… slowly."/>
-	<entry name="Necrons/Monolith:BrokenCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarum#0" value="Humans sighted."/>
-	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:Necrons#0" value="Enemy court on-planet."/>
-	<entry name="Necrons/Monolith:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:Orks#0" value="Orks sighted."/>
-	<entry name="Necrons/Monolith:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarines#0" value="Humans sighted. Augmented."/>
-	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Monolith:Hurt#0" value="Armour pierced, crew damaged."/>
-	<entry name="Necrons/Monolith:HurtCount" value="1"/>
-	<entry name="Necrons/Monolith:Idle#0" value="Channeling Eternity Gate."/>
-	<entry name="Necrons/Monolith:Idle#1" value="Generating Inscrutable Secrets."/>
-	<entry name="Necrons/Monolith:Idle#2" value="Decomposing Singular Values."/>
-	<entry name="Necrons/Monolith:Idle#3" value="Reconstructing Fundamental Particles."/>
-	<entry name="Necrons/Monolith:Idle#4" value="Debanking Ark Memories."/>
-	<entry name="Necrons/Monolith:Idle#5" value="Reticulating Splines."/>
-	<entry name="Necrons/Monolith:IdleCount" value="6"/>
-	<entry name="Necrons/Monolith:Shaken#0" value="Under attack. Compromised."/>
-	<entry name="Necrons/Monolith:ShakenCount" value="1"/>
-	<entry name="Necrons/Monolith:Victory#0" value="Eliminated foe. As expected."/>
-	<entry name="Necrons/Monolith:VictoryCount" value="1"/>
-	<entry name="Necrons/NightScythe" value="Necrons/DoomScythe"/>
-	<entry name="Necrons/Obelisk" value="Necrons/Monolith"/>
-	<entry name="Necrons/TesseractVault:Attack#0" value="Feel the fury of a Star God!"/>
-	<entry name="Necrons/TesseractVault:AttackCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Broken#0" value="I am almost free!"/>
-	<entry name="Necrons/TesseractVault:BrokenCount" value="1"/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:Necrons#0" value="Turn me against the Necrons? Foolish creatures."/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:Orks#0" value="Contemptible beasts."/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarines#0" value="Their lives are mine."/>
-	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Hurt#0" value="My prison weakens…"/>
-	<entry name="Necrons/TesseractVault:HurtCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Idle#0" value="Sentinels, scarabs, leeches… all this for me?"/>
-	<entry name="Necrons/TesseractVault:Idle#1" value="Oh, set me free?"/>
-	<entry name="Necrons/TesseractVault:Idle#2" value="This prison CANNOT HOLD ME."/>
-	<entry name="Necrons/TesseractVault:Idle#3" value="I am so… diminished. I was a star god!"/>
-	<entry name="Necrons/TesseractVault:Idle#4" value="I am a star god. Let me blow your mind."/>
-	<entry name="Necrons/TesseractVault:IdleCount" value="5"/>
-	<entry name="Necrons/TesseractVault:Shaken#0" value="Yes, destroy my prison…"/>
-	<entry name="Necrons/TesseractVault:ShakenCount" value="1"/>
-	<entry name="Necrons/TesseractVault:Victory#0" value="Not enough. Not until all life is mine."/>
-	<entry name="Necrons/TesseractVault:VictoryCount" value="1"/>
-	<entry name="Necrons/TombBlade:Attack#0" value="Assault at speed."/>
-	<entry name="Necrons/TombBlade:AttackCount" value="1"/>
-	<entry name="Necrons/TombBlade:Broken#0" value="Dispersed, falling back."/>
-	<entry name="Necrons/TombBlade:BrokenCount" value="1"/>
-	<entry name="Necrons/TombBlade:Hurt#0" value="Low-level fire, warriors down."/>
-	<entry name="Necrons/TombBlade:HurtCount" value="1"/>
-	<entry name="Necrons/TombBlade:Idle#0" value="Never still."/>
-	<entry name="Necrons/TombBlade:Idle#1" value="Programmming attack patterns."/>
-	<entry name="Necrons/TombBlade:Idle#2" value="Space… we remember."/>
-	<entry name="Necrons/TombBlade:Idle#3" value="Testing dimensional repulsors."/>
-	<entry name="Necrons/TombBlade:IdleCount" value="4"/>
-	<entry name="Necrons/TombBlade:Shaken#0" value="Struck. Improbably, we have been struck."/>
-	<entry name="Necrons/TombBlade:ShakenCount" value="1"/>
-	<entry name="Necrons/TombBlade:Victory#0" value="Enemy… disintegrated."/>
-	<entry name="Necrons/TombBlade:VictoryCount" value="1"/>
-	<entry name="Necrons/TranscendentCtan" value="Necrons/TesseractVault"/>
-	<entry name="Necrons/TriarchPraetorian:Attack#0" value="The first law is… do not stand against the Triarch."/>
-	<entry name="Necrons/TriarchPraetorian:AttackCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Broken#0" value="The last law is… leave to fight again."/>
-	<entry name="Necrons/TriarchPraetorian:BrokenCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarum#0" value="Ah, primitives. We were their gods once."/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Necrons#0" value="Another court? They must be brought in line."/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Orks#0" value="Untrainable, savage."/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarines#0" value="Honourable foes. Respectfully, we must kill them."/>
-	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Hurt#0" value="We are the law!"/>
-	<entry name="Necrons/TriarchPraetorian:HurtCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Idle#0" value="Would you know the codes of law?"/>
-	<entry name="Necrons/TriarchPraetorian:Idle#1" value="The first code is of honour."/>
-	<entry name="Necrons/TriarchPraetorian:Idle#2" value="The second code is of pride."/>
-	<entry name="Necrons/TriarchPraetorian:Idle#3" value="The third code… shall I share this data?"/>
-	<entry name="Necrons/TriarchPraetorian:Idle#4" value="The fifty-seventh code… obey all codes."/>
-	<entry name="Necrons/TriarchPraetorian:IdleCount" value="5"/>
-	<entry name="Necrons/TriarchPraetorian:Shaken#0" value="Resurrection is so… loss-laden."/>
-	<entry name="Necrons/TriarchPraetorian:ShakenCount" value="1"/>
-	<entry name="Necrons/TriarchPraetorian:Victory#0" value="We take no pleasure in this."/>
-	<entry name="Necrons/TriarchPraetorian:VictoryCount" value="1"/>
-	<entry name="Necrons/TriarchStalker" value="Necrons/TriarchPraetorian"/>
-	<entry name="Necrons/Warrior:Artefact#0" value="Old One horrors—on our Crownworld? How dare they?"/>
-	<entry name="Necrons/Warrior:ArtefactCount" value="1"/>
-	<entry name="Necrons/Warrior:Attack#0" value="Does it hurt, to have your nerves stripped, atom by atom?"/>
-	<entry name="Necrons/Warrior:Attack#1" value="Engaging."/>
-	<entry name="Necrons/Warrior:Attack#2" value="History shall forget them."/>
-	<entry name="Necrons/Warrior:Attack#3" value="Resistance is… annoying."/>
-	<entry name="Necrons/Warrior:AttackCount" value="4"/>
-	<entry name="Necrons/Warrior:Broken#0" value="Damage simulations running at 99%."/>
-	<entry name="Necrons/Warrior:Broken#1" value="Our unit is dispersed. We retreat."/>
-	<entry name="Necrons/Warrior:Broken#2" value="Recall protocol initiated."/>
-	<entry name="Necrons/Warrior:Broken#3" value="The tomb calls and we obey."/>
-	<entry name="Necrons/Warrior:Broken#4" value="Your orders are impossible, my Lord."/>
+	<entry name="Necrons/Lord:Victory#0" value="Адчай і сьмерць."/>
+    <entry name="Necrons/Monolith:Attack#0" value="Часцінкавая пуга разгорнута."/>
+    <entry name="Necrons/Monolith:AttackCount" value="1"/>
+    <entry name="Necrons/Monolith:Broken#0" value="Адыходзім… павольна."/>
+    <entry name="Necrons/Monolith:BrokenCount" value="1"/>
+    <entry name="Necrons/Monolith:EnemyFaction:AstraMilitarum#0" value="Заўважаны людзі."/>
+    <entry name="Necrons/Monolith:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Necrons/Monolith:EnemyFaction:Necrons#0" value="Варожы палац на планеце."/>
+    <entry name="Necrons/Monolith:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Necrons/Monolith:EnemyFaction:Orks#0" value="Заўважаны оркі."/>
+    <entry name="Necrons/Monolith:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Necrons/Monolith:EnemyFaction:SpaceMarines#0" value="Заўважаны людзі. Мадыфікаваныя."/>
+    <entry name="Necrons/Monolith:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Necrons/Monolith:Hurt#0" value="Браня прабіта, экіпаж пашкоджаны."/>
+    <entry name="Necrons/Monolith:HurtCount" value="1"/>
+    <entry name="Necrons/Monolith:Idle#0" value="Каналізаваньне Брамы Вечнасьці."/>
+    <entry name="Necrons/Monolith:Idle#1" value="Генерыраваньне Неспасьціжных Сакрэтаў."/>
+    <entry name="Necrons/Monolith:Idle#2" value="Дэкампазіцыя Сінгулярных Значэньняў."/>
+    <entry name="Necrons/Monolith:Idle#3" value="Рэканструкцыя Фундаментальных Часьцінак."/>
+    <entry name="Necrons/Monolith:Idle#4" value="Дэбанкаваньне Ўспамінаў Каўчэгаў."/>
+    <entry name="Necrons/Monolith:Idle#5" value="Сеткаваньне Сплайнаў."/>
+    <entry name="Necrons/Monolith:IdleCount" value="6"/>
+    <entry name="Necrons/Monolith:Shaken#0" value="Пад атакай. Кампрамізаваны."/>
+    <entry name="Necrons/Monolith:ShakenCount" value="1"/>
+    <entry name="Necrons/Monolith:Victory#0" value="Вораг зьнішчаны. Як і чакалася."/>
+    <entry name="Necrons/Monolith:VictoryCount" value="1"/>
+    <entry name="Necrons/NightScythe" value="Necrons/DoomScythe"/>
+    <entry name="Necrons/Obelisk" value="Necrons/Monolith"/>
+    <entry name="Necrons/TesseractVault:Attack#0" value="Адчуй лютасьць Зорнага Бога!"/>
+    <entry name="Necrons/TesseractVault:AttackCount" value="1"/>
+    <entry name="Necrons/TesseractVault:Broken#0" value="Я амаль вольны!"/>
+    <entry name="Necrons/TesseractVault:BrokenCount" value="1"/>
+    <entry name="Necrons/TesseractVault:EnemyFaction:Necrons#0" value="Павярнуць мяне супраць Некронаў? Дурныя істоты."/>
+    <entry name="Necrons/TesseractVault:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Necrons/TesseractVault:EnemyFaction:Orks#0" value="Прэзрэнныя зьвяры."/>
+    <entry name="Necrons/TesseractVault:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarines#0" value="Іх жыцьці належаць мне."/>
+    <entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Necrons/TesseractVault:Hurt#0" value="Мая вязьніца аслабевае…"/>
+    <entry name="Necrons/TesseractVault:HurtCount" value="1"/>
+    <entry name="Necrons/TesseractVault:Idle#0" value="Стражы, скарабеі, п'яўкі… усё гэта дзеля мяне?"/>
+    <entry name="Necrons/TesseractVault:Idle#1" value="О, вызваліш мяне?"/>
+    <entry name="Necrons/TesseractVault:Idle#2" value="Гэтая турма НЯ ЗМОЖА МЯНЕ ЎТРЫМАЦЬ."/>
+    <entry name="Necrons/TesseractVault:Idle#3" value="Я такі… саслаблены. Я быў зорным богам!"/>
+    <entry name="Necrons/TesseractVault:Idle#4" value="Я зорны бог. Дазволь мне вынесьці твой розум."/>
+    <entry name="Necrons/TesseractVault:IdleCount" value="5"/>
+    <entry name="Necrons/TesseractVault:Shaken#0" value="Так, зьнішчы маю турму…"/>
+    <entry name="Necrons/TesseractVault:ShakenCount" value="1"/>
+    <entry name="Necrons/TesseractVault:Victory#0" value="Недастаткова. Пакуль усё жыцьці ня стануць маім."/>
+    <entry name="Necrons/TesseractVault:VictoryCount" value="1"/>
+    <entry name="Necrons/TombBlade:Attack#0" value="Атака на хуткасьці."/>
+    <entry name="Necrons/TombBlade:AttackCount" value="1"/>
+    <entry name="Necrons/TombBlade:Broken#0" value="Расьсеяныя, адыходзім назад."/>
+    <entry name="Necrons/TombBlade:BrokenCount" value="1"/>
+    <entry name="Necrons/TombBlade:Hurt#0" value="Агонь нізкай інтэнсіўнасьці, ваяры забітыя."/>
+    <entry name="Necrons/TombBlade:HurtCount" value="1"/>
+    <entry name="Necrons/TombBlade:Idle#0" value="Ніколі не спыняйся."/>
+    <entry name="Necrons/TombBlade:Idle#1" value="Праграмаваньне патэрнаў атакі."/>
+    <entry name="Necrons/TombBlade:Idle#2" value="Космас… мы памятаем."/>
+    <entry name="Necrons/TombBlade:Idle#3" value="Тэставаньне прасторавых рэпульсараў."/>
+    <entry name="Necrons/TombBlade:IdleCount" value="4"/>
+    <entry name="Necrons/TombBlade:Shaken#0" value="Паражэньне. Як то ні дзіўна, у нас трапілі."/>
+    <entry name="Necrons/TombBlade:ShakenCount" value="1"/>
+    <entry name="Necrons/TombBlade:Victory#0" value="Вораг… дэінтэграваны."/>
+    <entry name="Necrons/TombBlade:VictoryCount" value="1"/>
+    <entry name="Necrons/TranscendentCtan" value="Necrons/TesseractVault"/>
+    <entry name="Necrons/TriarchPraetorian:Attack#0" value="Першы закон… не ісьці супраць Трыярха."/>
+    <entry name="Necrons/TriarchPraetorian:AttackCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:Broken#0" value="Апошні закон… сысьці, каб змагацца зноў."/>
+    <entry name="Necrons/TriarchPraetorian:BrokenCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarum#0" value="А, прымітывы. Калісьці мы былі іх багамі."/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:Necrons#0" value="Яшчэ адзін палац? Іх трэба прывесьці да парадку."/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:Orks#0" value="Ненавучальныя, дзікуны."/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarines#0" value="Шляхетныя ворагі. З павагай, мы вінны іх забіць."/>
+    <entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:Hurt#0" value="Мы — закон!"/>
+    <entry name="Necrons/TriarchPraetorian:HurtCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:Idle#0" value="Ведаеш кодэксы законаў?"/>
+    <entry name="Necrons/TriarchPraetorian:Idle#1" value="Першы кодэкс — пра гонар."/>
+    <entry name="Necrons/TriarchPraetorian:Idle#2" value="Другі кодэкс — пра ганарлівасьць."/>
+    <entry name="Necrons/TriarchPraetorian:Idle#3" value="Трэці кодэкс… ці мушу я дзяліцца гэтымі ведамі?"/>
+    <entry name="Necrons/TriarchPraetorian:Idle#4" value="Сямідзесяты кодэкс… падпарадкоўвацца ўсім кодэксам."/>
+    <entry name="Necrons/TriarchPraetorian:IdleCount" value="5"/>
+    <entry name="Necrons/TriarchPraetorian:Shaken#0" value="Ускрысеньне — то такая… поўная страт рэч."/>
+    <entry name="Necrons/TriarchPraetorian:ShakenCount" value="1"/>
+    <entry name="Necrons/TriarchPraetorian:Victory#0" value="Мы не атрымліваем ад гэтага аніякага задавальненьня."/>
+    <entry name="Necrons/TriarchPraetorian:VictoryCount" value="1"/>
+    <entry name="Necrons/TriarchStalker" value="Necrons/TriarchPraetorian"/>
+    <entry name="Necrons/Warrior:Artefact#0" value="Жахі Старажытных — на нашым Каронным Сьвеце? Як яны пасьмелі?"/>
+    <entry name="Necrons/Warrior:ArtefactCount" value="1"/>
+    <entry name="Necrons/Warrior:Attack#0" value="Балюча, калі я здымаю з цябе нервы, атам за атамам?"/>
+    <entry name="Necrons/Warrior:Attack#1" value="Далучаемся да бою."/>
+    <entry name="Necrons/Warrior:Attack#2" value="Гісторыя забудзе іх."/>
+    <entry name="Necrons/Warrior:Attack#3" value="Супраціўленьне… раздражняе."/>
+    <entry name="Necrons/Warrior:AttackCount" value="4"/>
+    <entry name="Necrons/Warrior:Broken#0" value="Сімуляцыі пашкоджаньняў выконваюцца на 99%."/>
+    <entry name="Necrons/Warrior:Broken#1" value="Наша падразьдзяленьне расьсеяна. Адыходзім."/>
+    <entry name="Necrons/Warrior:Broken#2" value="Пратакол выкліку ініцыяваны."/>
+    <entry name="Necrons/Warrior:Broken#3" value="Грабніца кліча, мы падпарадкоўваемся."/>
+    <entry name="Necrons/Warrior:Broken#4" value="Вашы загады немагчымыя, мой Лорд."/>
 	<entry name="Necrons/Warrior:BrokenCount" value="5"/>
-	<entry name="Necrons/Warrior:Cover#0" value="Making use of cover."/>
-	<entry name="Necrons/Warrior:CoverCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarum#0" value="Weak, fleshy things but a fine slave race."/>
-	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:Necrons#0" value="Our cousins, in error."/>
-	<entry name="Necrons/Warrior:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:Orks#0" value="Rogue bioweapon. Brutally effective."/>
-	<entry name="Necrons/Warrior:EnemyFaction:OrksCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarines#0" value="Flesh, remade in our form. Not to be trifled with."/>
-	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevil#0" value="Organic, insectoid, gigantic. Possible Tyranid precursor?"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Enslaver#0" value="An Old One side-effect? Sensors are only 30% effective."/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobot#0" value="Do the humans mock us? Such disappointing copies."/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="1"/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="Sensors failing! Unknown unknown unknown."/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Psychneuein#0" value="Megafauna. A threat only to organic races."/>
-	<entry name="Necrons/Warrior:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="Necrons/Warrior:Hurt#0" value="Damage exceeds expectations… recall protocols?"/>
-	<entry name="Necrons/Warrior:HurtCount" value="1"/>
-	<entry name="Necrons/Warrior:Idle#0" value="All systems are operational."/>
-	<entry name="Necrons/Warrior:Idle#1" value="For all time… curse the Deceiver."/>
-	<entry name="Necrons/Warrior:Idle#2" value="Idle protocol initiated."/>
-	<entry name="Necrons/Warrior:Idle#3" value="Powering down."/>
-	<entry name="Necrons/Warrior:Idle#4" value="This metal body… alien."/>
-	<entry name="Necrons/Warrior:Idle#5" value="The machine is strong, the flesh is gone."/>
-	<entry name="Necrons/Warrior:Idle#6" value="We have waited millenia… we will wait millenia more."/>
-	<entry name="Necrons/Warrior:IdleCount" value="7"/>
-	<entry name="Necrons/Warrior:QuestStory0#0" value="Watching for signs of the Olds Ones."/>
-	<entry name="Necrons/Warrior:QuestStory0Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory1#0" value="Praetorians and Crypteks? Our forces grow."/>
-	<entry name="Necrons/Warrior:QuestStory1Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory2#0" value="The mindless should be pitied the C'tan's curse."/>
-	<entry name="Necrons/Warrior:QuestStory2Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory3#0" value="Chase down these Old One baubles? Yes… my lord."/>
-	<entry name="Necrons/Warrior:QuestStory3Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory4#0" value="Where are the Praetorians?"/>
-	<entry name="Necrons/Warrior:QuestStory4Count" value="1"/>
-	<entry name="Necrons/Warrior:QuestStory5#0" value="Mephet'ran? Messenger! Deceiver! Stealer of souls!"/>
-	<entry name="Necrons/Warrior:QuestStory5Count" value="1"/>
-	<entry name="Necrons/Warrior:Shaken#0" value="A lesser race would flee."/>
-	<entry name="Necrons/Warrior:Shaken#1" value="The Triarchs did not brief us on this."/>
-	<entry name="Necrons/Warrior:Shaken#2" value="This is not possible. We are… losing?"/>
-	<entry name="Necrons/Warrior:Shaken#3" value="We are beyond fear."/>
-	<entry name="Necrons/Warrior:ShakenCount" value="4"/>
-	<entry name="Necrons/Warrior:Victory#0" value="Acceptable losses. Their losses."/>
-	<entry name="Necrons/Warrior:Victory#1" value="As predicted, we are victorious."/>
-	<entry name="Necrons/Warrior:Victory#2" value="Eliminated."/>
-	<entry name="Necrons/Warrior:Victory#3" value="For the Silent King and for my Lord."/>
-	<entry name="Necrons/Warrior:Victory#4" value="My Lord, the enemy proves weak."/>
-	<entry name="Necrons/Warrior:Victory#5" value="The Old Ones spawned such fragile flesh."/>
-	<entry name="Necrons/Warrior:Victory#6" value="They shall know the Necrons and know fear."/>
-	<entry name="Necrons/Warrior:Victory#7" value="To win so easily is… unsatisfying."/>
+	<entry name="Necrons/Warrior:Cover#0" value="Выкарыстоўваем укрыцьцё."/>
+    <entry name="Necrons/Warrior:CoverCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyFaction:AstraMilitarum#0" value="Слабыя, мяккія істоты, але выдатная раса рабоў."/>
+    <entry name="Necrons/Warrior:EnemyFaction:AstraMilitarumCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyFaction:Necrons#0" value="Нашы стрыечнікі, памыляюцца."/>
+    <entry name="Necrons/Warrior:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyFaction:Orks#0" value="Бадзяжная біязброя. Брутальна эфектыўная."/>
+    <entry name="Necrons/Warrior:EnemyFaction:OrksCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyFaction:SpaceMarines#0" value="Плоць, пераробленая ў нашай форме. Ня трэба недаацэньваць."/>
+    <entry name="Necrons/Warrior:EnemyFaction:SpaceMarinesCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevil#0" value="Арганіка, інсектойд, гіганцкі. Магчымы папярэднік тыранідаў?"/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/Enslaver#0" value="Пабочны эфект Старажытных? Датчыкі эфектыўныя толькі на 30%."/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobot#0" value="Ці зьдзекуюцца з нас людзі? Такія расчаравальныя копіі."/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="1"/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="Датчыкі адмаўляюць! Невядомае, невядомае, невядомае."/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/Psychneuein#0" value="Мегафаўна. Пагроза толькі для арганічных рас."/>
+    <entry name="Necrons/Warrior:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+    <entry name="Necrons/Warrior:Hurt#0" value="Пашкоджаньні перавышаюць чаканьні… пратаколы выкліку?"/>
+    <entry name="Necrons/Warrior:HurtCount" value="1"/>
+    <entry name="Necrons/Warrior:Idle#0" value="Усе сістэмы працуюць."/>
+    <entry name="Necrons/Warrior:Idle#1" value="На ўсе часы… пракляты Ашуканец."/>
+    <entry name="Necrons/Warrior:Idle#2" value="Пратакол чаканьня ініцыяваны."/>
+    <entry name="Necrons/Warrior:Idle#3" value="Адключэньне сілкаваньня."/>
+    <entry name="Necrons/Warrior:Idle#4" value="Гэта металічнае цела… чужое."/>
+    <entry name="Necrons/Warrior:Idle#5" value="Машына моцная, плоць зьнікла."/>
+    <entry name="Necrons/Warrior:Idle#6" value="Мы чакалі тысячагодзьдзі… пачакаем яшчэ тысячагодзьдзі."/>
+    <entry name="Necrons/Warrior:IdleCount" value="7"/>
+    <entry name="Necrons/Warrior:QuestStory0#0" value="Сочым за прыкметамі Старажытных."/>
+    <entry name="Necrons/Warrior:QuestStory0Count" value="1"/>
+    <entry name="Necrons/Warrior:QuestStory1#0" value="Прэтарыянцы і Крыптэкі? Нашы сілы растуць."/>
+    <entry name="Necrons/Warrior:QuestStory1Count" value="1"/>
+    <entry name="Necrons/Warrior:QuestStory2#0" value="Бяздумным варта спачуваць у пракляцці К'тан."/>
+    <entry name="Necrons/Warrior:QuestStory2Count" value="1"/>
+    <entry name="Necrons/Warrior:QuestStory3#0" value="Перасьледваць гэтыя цацкі Старажытных? Так… мой лорд."/>
+    <entry name="Necrons/Warrior:QuestStory3Count" value="1"/>
+    <entry name="Necrons/Warrior:QuestStory4#0" value="Дзе Прэтарыянцы?"/>
+    <entry name="Necrons/Warrior:QuestStory4Count" value="1"/>
+    <entry name="Necrons/Warrior:QuestStory5#0" value="Мефет'ран? Весьнік! Ашуканец! Выкрадальнік душ!"/>
+    <entry name="Necrons/Warrior:QuestStory5Count" value="1"/>
+    <entry name="Necrons/Warrior:Shaken#0" value="Меньшая раса ўцякла б."/>
+    <entry name="Necrons/Warrior:Shaken#1" value="Трыярхі не інфармавалі нас пра гэта."/>
+    <entry name="Necrons/Warrior:Shaken#2" value="Гэта немагчыма. Мы… прайграем?"/>
+    <entry name="Necrons/Warrior:Shaken#3" value="Мы па-за межамі страху."/>
+    <entry name="Necrons/Warrior:ShakenCount" value="4"/>
+    <entry name="Necrons/Warrior:Victory#0" value="Прыймальныя страты. Іх страты."/>
+    <entry name="Necrons/Warrior:Victory#1" value="Як і прадказвалася, мы перамаглі."/>
+    <entry name="Necrons/Warrior:Victory#2" value="Зьнішчаны."/>
+    <entry name="Necrons/Warrior:Victory#3" value="За Маўклівага Валадара і за майго Лорда."/>
+    <entry name="Necrons/Warrior:Victory#4" value="Мой Лорд, вораг апынуўся слабым."/>
+    <entry name="Necrons/Warrior:Victory#5" value="Старажытныя спарадзілі такую крохкую плоць."/>
+    <entry name="Necrons/Warrior:Victory#6" value="Яны пазнаюць Некронаў і страх."/>
+    <entry name="Necrons/Warrior:Victory#7" value="Перамагчы так лёгка… незадавальняючы."/>
 	<entry name="Necrons/Warrior:VictoryCount" value="8"/>
 	<entry name="Neutral/Ambull:Attack#0" value="Roekoe!"/>
 	<entry name="Neutral/Ambull:AttackCount" value="1"/>
