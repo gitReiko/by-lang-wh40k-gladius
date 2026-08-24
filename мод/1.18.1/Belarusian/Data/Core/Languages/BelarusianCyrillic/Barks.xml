@@ -2101,146 +2101,146 @@
     <entry name="Tau/GunDrone:AttackCount" value="5"/>
     <entry name="Tau/GunDrone:Broken#0" value="Захаваньне цэласнасьці адзінкі."/>
 	<entry name="Tau/GunDrone:BrokenCount" value="1"/>
-	<entry name="Tau/GunDrone:Hurt#0" value="Operating capability down to 50%"/>
-	<entry name="Tau/GunDrone:HurtCount" value="1"/>
-	<entry name="Tau/GunDrone:Idle#0" value="Patrolling."/>
-	<entry name="Tau/GunDrone:Idle#1" value="The Greater Good is logical."/>
-	<entry name="Tau/GunDrone:Idle#2" value="Built by the Earth Caste."/>
-	<entry name="Tau/GunDrone:Idle#3" value="Subroutines idling."/>
-	<entry name="Tau/GunDrone:Idle#4" value="Ironing out gl-glitches."/>
-	<entry name="Tau/GunDrone:IdleCount" value="5"/>
-	<entry name="Tau/GunDrone:Shaken#0" value="Inadequate routines. Falling back on failsafes."/>
-	<entry name="Tau/GunDrone:ShakenCount" value="1"/>
-	<entry name="Tau/GunDrone:Victory#0" value="Objective achieved. Moving on."/>
-	<entry name="Tau/GunDrone:VictoryCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Attack#0" value="Gunship firing, enemy falling."/>
-	<entry name="Tau/HammerheadGunship:Attack#1" value="Going in low."/>
-	<entry name="Tau/HammerheadGunship:Attack#2" value="Fire support in action"/>
-	<entry name="Tau/HammerheadGunship:AttackCount" value="3"/>
-	<entry name="Tau/HammerheadGunship:Broken#0" value="Gunship retreating."/>
-	<entry name="Tau/HammerheadGunship:BrokenCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Hurt#0" value="They've damaged us but we can keep going."/>
-	<entry name="Tau/HammerheadGunship:HurtCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Idle#0" value="Ready to fire at range."/>
-	<entry name="Tau/HammerheadGunship:Idle#1" value="Let us know if you need this bird in the sky."/>
-	<entry name="Tau/HammerheadGunship:Idle#2" value="The ky'husa? It's someone else's, sir."/>
-	<entry name="Tau/HammerheadGunship:IdleCount" value="3"/>
-	<entry name="Tau/HammerheadGunship:Shaken#0" value="We shouldn't be in the front line!"/>
-	<entry name="Tau/HammerheadGunship:ShakenCount" value="1"/>
-	<entry name="Tau/HammerheadGunship:Victory#0" value="We are the first of the Mont'ka."/>
-	<entry name="Tau/HammerheadGunship:Victory#1" value="Sweep complete."/>
-	<entry name="Tau/HammerheadGunship:Victory#2" value="Searching for new targets."/>
-	<entry name="Tau/HammerheadGunship:VictoryCount" value="3"/>
-	<entry name="Tau/InterceptorDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/MarkerDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/Pathfinder" value="Tau/FireWarrior"/>
-	<entry name="Tau/Piranha:Attack#0" value="Firing burst cannon."/>
-	<entry name="Tau/Piranha:Attack#1" value="Any Pathfinders need support?"/>
-	<entry name="Tau/Piranha:Attack#2" value="Striking at speed."/>
-	<entry name="Tau/Piranha:Attack#3" value="Commencing strafing run."/>
-	<entry name="Tau/Piranha:AttackCount" value="4"/>
-	<entry name="Tau/Piranha:Broken#0" value="Scout armour falling back."/>
-	<entry name="Tau/Piranha:BrokenCount" value="1"/>
-	<entry name="Tau/Piranha:Hurt#0" value="Evasion ineffective, serious damage sustained."/>
-	<entry name="Tau/Piranha:HurtCount" value="1"/>
-	<entry name="Tau/Piranha:Idle#0" value="Any word from the Pathfinders?"/>
-	<entry name="Tau/Piranha:Idle#1" value="Reconnaisance waiting for orders."/>
-	<entry name="Tau/Piranha:IdleCount" value="2"/>
-	<entry name="Tau/Piranha:Shaken#0" value="Why is nothing working? Why-"/>
-	<entry name="Tau/Piranha:ShakenCount" value="1"/>
-	<entry name="Tau/Piranha:Victory#0" value="Target… shredded, shas'el."/>
-	<entry name="Tau/Piranha:VictoryCount" value="1"/>
-	<entry name="Tau/PulseAcceleratorDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Attack#0" value="Aerial support incoming."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Attack#1" value="Air Caste, for the Greater Good."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Attack#2" value="They haven't seen us coming…"/>
-	<entry name="Tau/RazorsharkStrikeFighter:AttackCount" value="3"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Broken#0" value="In flight."/>
-	<entry name="Tau/RazorsharkStrikeFighter:BrokenCount" value="1"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Hurt#0" value="Enemy fire is effective. Need new orders!"/>
-	<entry name="Tau/RazorsharkStrikeFighter:HurtCount" value="1"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Idle#0" value="Circling, awaiting orders."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Idle#1" value="Should we return to base?"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Idle#2" value="Any word on that promotion?"/>
-	<entry name="Tau/RazorsharkStrikeFighter:IdleCount" value="3"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Shaken#0" value="Evasive manuevres!"/>
-	<entry name="Tau/RazorsharkStrikeFighter:ShakenCount" value="1"/>
-	<entry name="Tau/RazorsharkStrikeFighter:Victory#0" value="Spotters report hostiles down."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Victory#1" value="Now that's air superiority."/>
-	<entry name="Tau/RazorsharkStrikeFighter:Victory#2" value="Peeling off, mission accomplished."/>
-	<entry name="Tau/RazorsharkStrikeFighter:VictoryCount" value="3"/>
-	<entry name="Tau/ReconDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/RiptideBattlesuit:Attack#0" value="Firing everything."/>
-	<entry name="Tau/RiptideBattlesuit:Attack#1" value="Why are they bothering shooting back?"/>
-	<entry name="Tau/RiptideBattlesuit:Attack#2" value="They'd better not scratch the Fio'tak."/>
-	<entry name="Tau/RiptideBattlesuit:AttackCount" value="3"/>
-	<entry name="Tau/RiptideBattlesuit:Broken#0" value="I need shield drone cover!"/>
-	<entry name="Tau/RiptideBattlesuit:BrokenCount" value="1"/>
-	<entry name="Tau/RiptideBattlesuit:Hurt#0" value="Reactor damage, armour compromised. I can keep going."/>
-	<entry name="Tau/RiptideBattlesuit:HurtCount" value="1"/>
-	<entry name="Tau/RiptideBattlesuit:Idle#0" value="You'd better have plans for me."/>
-	<entry name="Tau/RiptideBattlesuit:Idle#1" value="ZZ…"/>
-	<entry name="Tau/RiptideBattlesuit:Idle#2" value="So much firepower…"/>
-	<entry name="Tau/RiptideBattlesuit:IdleCount" value="3"/>
-	<entry name="Tau/RiptideBattlesuit:Shaken#0" value="Best of the best. Best. Of. The. Best."/>
-	<entry name="Tau/RiptideBattlesuit:ShakenCount" value="1"/>
-	<entry name="Tau/RiptideBattlesuit:Victory#0" value="They're dead. Keep firing."/>
-	<entry name="Tau/RiptideBattlesuit:Victory#1" value="Anyone see where my target went?"/>
-	<entry name="Tau/RiptideBattlesuit:VictoryCount" value="2"/>
-	<entry name="Tau/ShieldDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/ShieldedMissileDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/SkyRayGunship" value="Tau/HammerheadGunship"/>
-	<entry name="Tau/StealthBattlesuit:Attack#0" value="They didn't see us coming."/>
-	<entry name="Tau/StealthBattlesuit:Attack#1" value="From the shadows…"/>
-	<entry name="Tau/StealthBattlesuit:Attack#2" value="Shas'el, we have them."/>
-	<entry name="Tau/StealthBattlesuit:AttackCount" value="3"/>
-	<entry name="Tau/StealthBattlesuit:Broken#0" value="Exfiltration request issued."/>
-	<entry name="Tau/StealthBattlesuit:BrokenCount" value="1"/>
-	<entry name="Tau/StealthBattlesuit:Hurt#0" value="How are they hitting us?"/>
-	<entry name="Tau/StealthBattlesuit:HurtCount" value="1"/>
-	<entry name="Tau/StealthBattlesuit:Idle#0" value="Maintaining cover."/>
-	<entry name="Tau/StealthBattlesuit:Idle#1" value="Stealth team, radio silence."/>
-	<entry name="Tau/StealthBattlesuit:Idle#2" value="You can't be talking to us, we're not here."/>
-	<entry name="Tau/StealthBattlesuit:IdleCount" value="3"/>
-	<entry name="Tau/StealthBattlesuit:Shaken#0" value="Are we in too deep?"/>
-	<entry name="Tau/StealthBattlesuit:ShakenCount" value="1"/>
-	<entry name="Tau/StealthBattlesuit:Victory#0" value="Spreading terror."/>
-	<entry name="Tau/StealthBattlesuit:Victory#1" value="Target ghosted."/>
-	<entry name="Tau/StealthBattlesuit:Victory#2" value="We have our own way."/>
+	<entry name="Tau/GunDrone:Hurt#0" value="Працаздольнасьць упала да 50%."/>
+    <entry name="Tau/GunDrone:HurtCount" value="1"/>
+    <entry name="Tau/GunDrone:Idle#0" value="Патруляваньне."/>
+    <entry name="Tau/GunDrone:Idle#1" value="Найвышэйшы Дабрабыт лагічны."/>
+    <entry name="Tau/GunDrone:Idle#2" value="Створаны Кастай Зямлі."/>
+    <entry name="Tau/GunDrone:Idle#3" value="Падпраграмы ў рэжыме чаканьня."/>
+    <entry name="Tau/GunDrone:Idle#4" value="Згладжваньне гл-глітчаў."/>
+    <entry name="Tau/GunDrone:IdleCount" value="5"/>
+    <entry name="Tau/GunDrone:Shaken#0" value="Неадэкватныя праграмы. Пераход на аварыйны рэжым."/>
+    <entry name="Tau/GunDrone:ShakenCount" value="1"/>
+    <entry name="Tau/GunDrone:Victory#0" value="Мэта дасягнутая. Рухаемся далей."/>
+    <entry name="Tau/GunDrone:VictoryCount" value="1"/>
+    <entry name="Tau/HammerheadGunship:Attack#0" value="Карабель вядзе агонь, вораг падзе."/>
+    <entry name="Tau/HammerheadGunship:Attack#1" value="Ідзём на нізкай вышыні."/>
+    <entry name="Tau/HammerheadGunship:Attack#2" value="Агнявая падтрымка ў дзеяньні."/>
+    <entry name="Tau/HammerheadGunship:AttackCount" value="3"/>
+    <entry name="Tau/HammerheadGunship:Broken#0" value="Карабель адступае."/>
+    <entry name="Tau/HammerheadGunship:BrokenCount" value="1"/>
+    <entry name="Tau/HammerheadGunship:Hurt#0" value="Яны пашкодзілі нас, але мы можам працягваць."/>
+    <entry name="Tau/HammerheadGunship:HurtCount" value="1"/>
+    <entry name="Tau/HammerheadGunship:Idle#0" value="Гатовы да стральбы на адлегласьці."/>
+    <entry name="Tau/HammerheadGunship:Idle#1" value="Дайце ведаць, калі табе спатрэбіцца гэтая птушка ў небе."/>
+    <entry name="Tau/HammerheadGunship:Idle#2" value="Кі'хуса? Гэта штосьці іншае, сэр."/>
+    <entry name="Tau/HammerheadGunship:IdleCount" value="3"/>
+    <entry name="Tau/HammerheadGunship:Shaken#0" value="Мы ня вінны быць на перадавой!"/>
+    <entry name="Tau/HammerheadGunship:ShakenCount" value="1"/>
+    <entry name="Tau/HammerheadGunship:Victory#0" value="Мы — першыя з Монт'ка."/>
+    <entry name="Tau/HammerheadGunship:Victory#1" value="Зачыстка завершаная."/>
+    <entry name="Tau/HammerheadGunship:Victory#2" value="Пошук новых цэляў."/>
+    <entry name="Tau/HammerheadGunship:VictoryCount" value="3"/>
+    <entry name="Tau/InterceptorDrone" value="Tau/GunDrone"/>
+    <entry name="Tau/MarkerDrone" value="Tau/GunDrone"/>
+    <entry name="Tau/Pathfinder" value="Tau/FireWarrior"/>
+    <entry name="Tau/Piranha:Attack#0" value="Страляем з выбохавай гарматы."/>
+    <entry name="Tau/Piranha:Attack#1" value="Ці патрэбна падтрымка Сьледапытам?"/>
+    <entry name="Tau/Piranha:Attack#2" value="Наносім хуткі ўдар."/>
+    <entry name="Tau/Piranha:Attack#3" value="Выходзім на брэючы палёт."/>
+    <entry name="Tau/Piranha:AttackCount" value="4"/>
+    <entry name="Tau/Piranha:Broken#0" value="Выведная браня адступае."/>
+    <entry name="Tau/Piranha:BrokenCount" value="1"/>
+    <entry name="Tau/Piranha:Hurt#0" value="Ухіленьне неэфектыўнае, атрыманы сур'ёзныя пашкоджаньні."/>
+    <entry name="Tau/Piranha:HurtCount" value="1"/>
+    <entry name="Tau/Piranha:Idle#0" value="Маюцца навіны ад Сьледапытаў?"/>
+    <entry name="Tau/Piranha:Idle#1" value="Выведка чакае загадаў."/>
+    <entry name="Tau/Piranha:IdleCount" value="2"/>
+    <entry name="Tau/Piranha:Shaken#0" value="Чаму нічога не працуе? Чаму—"/>
+    <entry name="Tau/Piranha:ShakenCount" value="1"/>
+    <entry name="Tau/Piranha:Victory#0" value="Мэта… разарваная, шас'эль."/>
+    <entry name="Tau/Piranha:VictoryCount" value="1"/>
+    <entry name="Tau/PulseAcceleratorDrone" value="Tau/GunDrone"/>
+    <entry name="Tau/RazorsharkStrikeFighter:Attack#0" value="Паветраная падтрымка на падыходзе."/>
+    <entry name="Tau/RazorsharkStrikeFighter:Attack#1" value="Каста Паветра, за Найвышэйшы Дабрабыт."/>
+    <entry name="Tau/RazorsharkStrikeFighter:Attack#2" value="Яны ня бачылі, як мы набліжаемся…"/>
+    <entry name="Tau/RazorsharkStrikeFighter:AttackCount" value="3"/>
+    <entry name="Tau/RazorsharkStrikeFighter:Broken#0" value="У палёце."/>
+    <entry name="Tau/RazorsharkStrikeFighter:BrokenCount" value="1"/>
+    <entry name="Tau/RazorsharkStrikeFighter:Hurt#0" value="Вораг вядзе эфектыўны агонь. Патрэбны новыя загады!"/>
+    <entry name="Tau/RazorsharkStrikeFighter:HurtCount" value="1"/>
+    <entry name="Tau/RazorsharkStrikeFighter:Idle#0" value="Кружым, чакаем загадаў."/>
+    <entry name="Tau/RazorsharkStrikeFighter:Idle#1" value="Вяртацца на базу?"/>
+    <entry name="Tau/RazorsharkStrikeFighter:Idle#2" value="Ёсьць навіны пра тое прасоўваньне?"/>
+    <entry name="Tau/RazorsharkStrikeFighter:IdleCount" value="3"/>
+    <entry name="Tau/RazorsharkStrikeFighter:Shaken#0" value="Манёўры ўхіленьня!"/>
+    <entry name="Tau/RazorsharkStrikeFighter:ShakenCount" value="1"/>
+    <entry name="Tau/RazorsharkStrikeFighter:Victory#0" value="Карэктоўнікі паведамляюць пра зьнішчэнне праціўніка."/>
+    <entry name="Tau/RazorsharkStrikeFighter:Victory#1" value="Вось гэта я разумею — паветраная перавага."/>
+    <entry name="Tau/RazorsharkStrikeFighter:Victory#2" value="На чыстку, місія выкананая."/>
+    <entry name="Tau/RazorsharkStrikeFighter:VictoryCount" value="3"/>
+    <entry name="Tau/ReconDrone" value="Tau/GunDrone"/>
+    <entry name="Tau/RiptideBattlesuit:Attack#0" value="Задзейнічаем усё."/>
+    <entry name="Tau/RiptideBattlesuit:Attack#1" value="Навошта яны наогул спрабуюць страляць у адказ?"/>
+    <entry name="Tau/RiptideBattlesuit:Attack#2" value="Лепш бы ім не падрапаць Фіё'так."/>
+    <entry name="Tau/RiptideBattlesuit:AttackCount" value="3"/>
+    <entry name="Tau/RiptideBattlesuit:Broken#0" value="Мне патрэбна прыкрыцьцё шчытавых дронаў!"/>
+    <entry name="Tau/RiptideBattlesuit:BrokenCount" value="1"/>
+    <entry name="Tau/RiptideBattlesuit:Hurt#0" value="Пашкоджаньне рэактара, браня прабітая. Я магу працягваць."/>
+    <entry name="Tau/RiptideBattlesuit:HurtCount" value="1"/>
+    <entry name="Tau/RiptideBattlesuit:Idle#0" value="У вас мусяць быць планы на мяне."/>
+    <entry name="Tau/RiptideBattlesuit:Idle#1" value="Ззз…"/>
+    <entry name="Tau/RiptideBattlesuit:Idle#2" value="Столькі агнявой моцы…"/>
+    <entry name="Tau/RiptideBattlesuit:IdleCount" value="3"/>
+    <entry name="Tau/RiptideBattlesuit:Shaken#0" value="Лепшыя з лепшых. Лепшыя. З. Лепшых."/>
+    <entry name="Tau/RiptideBattlesuit:ShakenCount" value="1"/>
+    <entry name="Tau/RiptideBattlesuit:Victory#0" value="Яны мёртвыя. Працягвайце страляць."/>
+    <entry name="Tau/RiptideBattlesuit:Victory#1" value="Хтосьці бачыў, куды падзелася мая цэль?"/>
+    <entry name="Tau/RiptideBattlesuit:VictoryCount" value="2"/>
+    <entry name="Tau/ShieldDrone" value="Tau/GunDrone"/>
+    <entry name="Tau/ShieldedMissileDrone" value="Tau/GunDrone"/>
+    <entry name="Tau/SkyRayGunship" value="Tau/HammerheadGunship"/>
+    <entry name="Tau/StealthBattlesuit:Attack#0" value="Яны ня бачылі, як мы набліжаемся."/>
+    <entry name="Tau/StealthBattlesuit:Attack#1" value="Цень наступае…"/>
+    <entry name="Tau/StealthBattlesuit:Attack#2" value="Шас'эль, мы захапілі іх."/>
+    <entry name="Tau/StealthBattlesuit:AttackCount" value="3"/>
+    <entry name="Tau/StealthBattlesuit:Broken#0" value="Адпраўлены запыт на эвакуацыю."/>
+    <entry name="Tau/StealthBattlesuit:BrokenCount" value="1"/>
+    <entry name="Tau/StealthBattlesuit:Hurt#0" value="Як яны трапляюць у нас?"/>
+    <entry name="Tau/StealthBattlesuit:HurtCount" value="1"/>
+    <entry name="Tau/StealthBattlesuit:Idle#0" value="Захоўваем маскіроўку."/>
+    <entry name="Tau/StealthBattlesuit:Idle#1" value="Скрытны рэжым, радыёмаўчаньне."/>
+    <entry name="Tau/StealthBattlesuit:Idle#2" value="Вы ня можаце размаўляць з намі, нас тут няма."/>
+    <entry name="Tau/StealthBattlesuit:IdleCount" value="3"/>
+    <entry name="Tau/StealthBattlesuit:Shaken#0" value="Мы занадта глыбока?"/>
+    <entry name="Tau/StealthBattlesuit:ShakenCount" value="1"/>
+    <entry name="Tau/StealthBattlesuit:Victory#0" value="Сеем жах."/>
+    <entry name="Tau/StealthBattlesuit:Victory#1" value="Цэль зьнікне."/>
+    <entry name="Tau/StealthBattlesuit:Victory#2" value="У нас свой шлях."/>
 	<entry name="Tau/StealthBattlesuit:VictoryCount" value="3"/>
 	<entry name="Tau/StealthDrone" value="Tau/GunDrone"/>
 	<entry name="Tau/Stormsurge" value="Tau/RiptideBattlesuit"/>
 	<entry name="Tau/SunSharkBomber" value="Tau/RazorsharkStrikeFighter"/>
-	<entry name="Tyranids/Carnifex:Attack#0" value="Krrkkk!"/>
-	<entry name="Tyranids/Carnifex:Attack#1" value="Rrrr!"/>
-	<entry name="Tyranids/Carnifex:Attack#2" value="Nnnnn!"/>
-	<entry name="Tyranids/Carnifex:Attack#3" value="Srrr!"/>
-	<entry name="Tyranids/Carnifex:Attack#4" value="Krk!"/>
-	<entry name="Tyranids/Carnifex:Attack#5" value="Rrrr!"/>
-	<entry name="Tyranids/Carnifex:Attack#6" value="Nrrrrr!"/>
-	<entry name="Tyranids/Carnifex:Attack#7" value="Vrrrk!"/>
-	<entry name="Tyranids/Carnifex:AttackCount" value="8"/>
-	<entry name="Tyranids/Carnifex:Broken#0" value="…mmmm…"/>
-	<entry name="Tyranids/Carnifex:Broken#1" value="…thhhh…"/>
-	<entry name="Tyranids/Carnifex:Broken#2" value="…phhhh…"/>
-	<entry name="Tyranids/Carnifex:Broken#3" value="…sssss…"/>
-	<entry name="Tyranids/Carnifex:BrokenCount" value="4"/>
-	<entry name="Tyranids/Carnifex:EnemyFaction:Necrons#0" value="Nrnnnnn."/>
-	<entry name="Tyranids/Carnifex:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="Tyranids/Carnifex:Hurt#0" value="Sssssss!"/>
-	<entry name="Tyranids/Carnifex:HurtCount" value="1"/>
-	<entry name="Tyranids/Carnifex:Idle#0" value="Krrck."/>
-	<entry name="Tyranids/Carnifex:Idle#1" value="Nrrrk."/>
-	<entry name="Tyranids/Carnifex:Idle#2" value="Rrrc."/>
-	<entry name="Tyranids/Carnifex:Idle#3" value="Kckckc."/>
-	<entry name="Tyranids/Carnifex:IdleCount" value="4"/>
-	<entry name="Tyranids/Carnifex:Shaken#0" value="Rrhhrrr"/>
-	<entry name="Tyranids/Carnifex:ShakenCount" value="1"/>
-	<entry name="Tyranids/Carnifex:Victory#0" value="Hwlllllll!"/>
-	<entry name="Tyranids/Carnifex:Victory#1" value="Iaiaiaia!"/>
-	<entry name="Tyranids/Carnifex:Victory#2" value="Ulululu!"/>
-	<entry name="Tyranids/Carnifex:Victory#3" value="Phphph!"/>
-	<entry name="Tyranids/Carnifex:Victory#4" value="Ulllllla!"/>
+	<entry name="Tyranids/Carnifex:Attack#0" value="Кррккк!"/>
+    <entry name="Tyranids/Carnifex:Attack#1" value="Рррр!"/>
+    <entry name="Tyranids/Carnifex:Attack#2" value="Ннннн!"/>
+    <entry name="Tyranids/Carnifex:Attack#3" value="Сррр!"/>
+    <entry name="Tyranids/Carnifex:Attack#4" value="Крк!"/>
+    <entry name="Tyranids/Carnifex:Attack#5" value="Рррр!"/>
+    <entry name="Tyranids/Carnifex:Attack#6" value="Нррррр!"/>
+    <entry name="Tyranids/Carnifex:Attack#7" value="Врррк!"/>
+    <entry name="Tyranids/Carnifex:AttackCount" value="8"/>
+    <entry name="Tyranids/Carnifex:Broken#0" value="…мммм…"/>
+    <entry name="Tyranids/Carnifex:Broken#1" value="…тхххх…"/>
+    <entry name="Tyranids/Carnifex:Broken#2" value="…пхххх…"/>
+    <entry name="Tyranids/Carnifex:Broken#3" value="…ссссс…"/>
+    <entry name="Tyranids/Carnifex:BrokenCount" value="4"/>
+    <entry name="Tyranids/Carnifex:EnemyFaction:Necrons#0" value="Нрннннн."/>
+    <entry name="Tyranids/Carnifex:EnemyFaction:NecronsCount" value="1"/>
+    <entry name="Tyranids/Carnifex:Hurt#0" value="Ссссссс!"/>
+    <entry name="Tyranids/Carnifex:HurtCount" value="1"/>
+    <entry name="Tyranids/Carnifex:Idle#0" value="Кррк."/>
+    <entry name="Tyranids/Carnifex:Idle#1" value="Нрррк."/>
+    <entry name="Tyranids/Carnifex:Idle#2" value="Рррц."/>
+    <entry name="Tyranids/Carnifex:Idle#3" value="Кцкцкц."/>
+    <entry name="Tyranids/Carnifex:IdleCount" value="4"/>
+    <entry name="Tyranids/Carnifex:Shaken#0" value="Ррххррр"/>
+    <entry name="Tyranids/Carnifex:ShakenCount" value="1"/>
+    <entry name="Tyranids/Carnifex:Victory#0" value="Хвллллллл!"/>
+    <entry name="Tyranids/Carnifex:Victory#1" value="Яяяяя!"/>
+    <entry name="Tyranids/Carnifex:Victory#2" value="Улулулу!"/>
+    <entry name="Tyranids/Carnifex:Victory#3" value="Ффффф!"/>
+    <entry name="Tyranids/Carnifex:Victory#4" value="Улллллла!"/>
 	<entry name="Tyranids/Carnifex:VictoryCount" value="5"/>
 	<entry name="Tyranids/Exocrine" value="Tyranids/Carnifex"/>
 	<entry name="Tyranids/Gargoyle" value="Tyranids/Carnifex"/>
