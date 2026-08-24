@@ -1964,142 +1964,142 @@
 	<entry name="SpaceMarines/ThunderfireCannon" value="SpaceMarines/Hunter"/>
 	<entry name="SpaceMarines/Vindicator" value="SpaceMarines/Hunter"/>
 	<entry name="Tau/BroadsideBattlesuit" value="Tau/CrisisBattlesuit"/>
-	<entry name="Tau/BuilderDrone:Attack#0" value="This is an inefficient use of resources."/>
-	<entry name="Tau/BuilderDrone:Attack#1" value="Performing inadvisable attack."/>
-	<entry name="Tau/BuilderDrone:Attack#2" value="Doing minimal damage."/>
-	<entry name="Tau/BuilderDrone:AttackCount" value="3"/>
-	<entry name="Tau/BuilderDrone:Broken#0" value="Unit in danger."/>
-	<entry name="Tau/BuilderDrone:BrokenCount" value="1"/>
-	<entry name="Tau/BuilderDrone:Hurt#0" value="Unit compromised."/>
-	<entry name="Tau/BuilderDrone:HurtCount" value="1"/>
-	<entry name="Tau/BuilderDrone:Idle#0" value="Powering down"/>
-	<entry name="Tau/BuilderDrone:Idle#1" value="Assessing schematics…"/>
-	<entry name="Tau/BuilderDrone:Idle#2" value="Serving the Earth Caste and the Greater Good."/>
-	<entry name="Tau/BuilderDrone:IdleCount" value="3"/>
-	<entry name="Tau/BuilderDrone:Shaken#0" value="Construction unit under fire."/>
-	<entry name="Tau/BuilderDrone:ShakenCount" value="1"/>
-	<entry name="Tau/BuilderDrone:Victory#0" value="T'au over-engineering in action."/>
-	<entry name="Tau/BuilderDrone:VictoryCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Attack#0" value="Gunline, attack!"/>
-	<entry name="Tau/CadreFireblade:Attack#1" value="Fire Warriors, show them The Good."/>
-	<entry name="Tau/CadreFireblade:Attack#2" value="Feel the power of pulse technology!"/>
-	<entry name="Tau/CadreFireblade:Attack#3" value="Wait until you see the whites of their eyes… through your scope."/>
-	<entry name="Tau/CadreFireblade:AttackCount" value="4"/>
-	<entry name="Tau/CadreFireblade:Broken#0" value="What would Puretide think..?"/>
-	<entry name="Tau/CadreFireblade:BrokenCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Hurt#0" value="It takes more than that to put me down!"/>
-	<entry name="Tau/CadreFireblade:HurtCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Idle#0" value="Target practice, shas'el, fall in!"/>
-	<entry name="Tau/CadreFireblade:Idle#1" value="We lead from the front."/>
-	<entry name="Tau/CadreFireblade:Idle#2" value="A good leader keeps his feet on the ground."/>
-	<entry name="Tau/CadreFireblade:IdleCount" value="3"/>
-	<entry name="Tau/CadreFireblade:Shaken#0" value="This is not the way…"/>
-	<entry name="Tau/CadreFireblade:ShakenCount" value="1"/>
-	<entry name="Tau/CadreFireblade:Victory#0" value="Tactically wise."/>
-	<entry name="Tau/CadreFireblade:VictoryCount" value="1"/>
-	<entry name="Tau/Commander:Attack#0" value="For Aun'Va!"/>
-	<entry name="Tau/Commander:Attack#1" value="We will teach you the way."/>
-	<entry name="Tau/Commander:Attack#2" value="Join us!"/>
-	<entry name="Tau/Commander:AttackCount" value="3"/>
-	<entry name="Tau/Commander:Broken#0" value="Retreat is the only option…"/>
-	<entry name="Tau/Commander:BrokenCount" value="1"/>
-	<entry name="Tau/Commander:Hurt#0" value="Battlesuit compromised."/>
-	<entry name="Tau/Commander:HurtCount" value="1"/>
-	<entry name="Tau/Commander:Idle#0" value="Use me, for the Greater Good."/>
-	<entry name="Tau/Commander:Idle#1" value="Always thinking one step ahead."/>
-	<entry name="Tau/Commander:Idle#2" value="What is a single life to the Greater Good?"/>
-	<entry name="Tau/Commander:IdleCount" value="3"/>
-	<entry name="Tau/Commander:Shaken#0" value="I will not falter."/>
-	<entry name="Tau/Commander:ShakenCount" value="1"/>
-	<entry name="Tau/Commander:Victory#0" value="The Fire Caste leads."/>
-	<entry name="Tau/Commander:VictoryCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Attack#0" value="Battlesuits in action."/>
-	<entry name="Tau/CrisisBattlesuit:Attack#1" value="Firing pulse weaponry."/>
-	<entry name="Tau/CrisisBattlesuit:Attack#2" value="Enabling countermeasures."/>
-	<entry name="Tau/CrisisBattlesuit:Attack#3" value="You can count on us!"/>
-	<entry name="Tau/CrisisBattlesuit:AttackCount" value="4"/>
-	<entry name="Tau/CrisisBattlesuit:Broken#0" value="Elite… retreat."/>
-	<entry name="Tau/CrisisBattlesuit:BrokenCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Hurt#0" value="We're losing systems!"/>
-	<entry name="Tau/CrisisBattlesuit:HurtCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Idle#0" value="Always ready."/>
-	<entry name="Tau/CrisisBattlesuit:Idle#1" value="We'll get it done."/>
-	<entry name="Tau/CrisisBattlesuit:Idle#2" value="What do the Ethereals will?"/>
-	<entry name="Tau/CrisisBattlesuit:IdleCount" value="3"/>
-	<entry name="Tau/CrisisBattlesuit:Shaken#0" value="We cannot hold this position."/>
-	<entry name="Tau/CrisisBattlesuit:ShakenCount" value="1"/>
-	<entry name="Tau/CrisisBattlesuit:Victory#0" value="That's why you send Battlesuits."/>
-	<entry name="Tau/CrisisBattlesuit:Victory#1" value="Killing blow, delivered."/>
-	<entry name="Tau/CrisisBattlesuit:Victory#2" value="Do they have anything… tougher?"/>
-	<entry name="Tau/CrisisBattlesuit:Victory#3" value="Mark another one up to us, shas'el."/>
-	<entry name="Tau/CrisisBattlesuit:VictoryCount" value="4"/>
-	<entry name="Tau/Devilfish:Attack#0" value="Moving to the enemy."/>
-	<entry name="Tau/Devilfish:Attack#1" value="Teaching our foes to fear all T'au."/>
-	<entry name="Tau/Devilfish:Attack#2" value="Feel my fury!"/>
-	<entry name="Tau/Devilfish:Attack#3" value="Firing all weapons."/>
-	<entry name="Tau/Devilfish:AttackCount" value="4"/>
-	<entry name="Tau/Devilfish:Broken#0" value="We're in too deep!"/>
-	<entry name="Tau/Devilfish:BrokenCount" value="1"/>
-	<entry name="Tau/Devilfish:Hurt#0" value="Can't take many more strikes like that."/>
-	<entry name="Tau/Devilfish:HurtCount" value="1"/>
-	<entry name="Tau/Devilfish:Idle#0" value="Ready to move on your command."/>
-	<entry name="Tau/Devilfish:Idle#1" value="Just waiting around."/>
-	<entry name="Tau/Devilfish:Idle#2" value="Checking chips—this one's fried."/>
-	<entry name="Tau/Devilfish:IdleCount" value="3"/>
-	<entry name="Tau/Devilfish:Shaken#0" value="They're turning the tide!"/>
-	<entry name="Tau/Devilfish:ShakenCount" value="1"/>
-	<entry name="Tau/Devilfish:Victory#0" value="Transporting them to a better place."/>
-	<entry name="Tau/Devilfish:Victory#1" value="Shipping out."/>
-	<entry name="Tau/Devilfish:VictoryCount" value="2"/>
-	<entry name="Tau/Ethereal:Attack#0" value="This is for your own good."/>
-	<entry name="Tau/Ethereal:Attack#1" value="For the T'au."/>
-	<entry name="Tau/Ethereal:Attack#2" value="Why do you oppose us?"/>
-	<entry name="Tau/Ethereal:AttackCount" value="3"/>
-	<entry name="Tau/Ethereal:Broken#0" value="Perhaps… peace lies behind our own lines."/>
-	<entry name="Tau/Ethereal:BrokenCount" value="1"/>
-	<entry name="Tau/Ethereal:Hurt#0" value="Though my flesh is weak, my spirit will triumph!"/>
-	<entry name="Tau/Ethereal:HurtCount" value="1"/>
-	<entry name="Tau/Ethereal:Idle#0" value="I preach the Good."/>
-	<entry name="Tau/Ethereal:Idle#1" value="In meditation, comes understanding."/>
-	<entry name="Tau/Ethereal:Idle#2" value="Good alone is not enough—it is the greatest that we seek."/>
-	<entry name="Tau/Ethereal:IdleCount" value="3"/>
-	<entry name="Tau/Ethereal:Shaken#0" value="Defend me!"/>
-	<entry name="Tau/Ethereal:ShakenCount" value="1"/>
-	<entry name="Tau/Ethereal:Victory#0" value="Spreading the word."/>
-	<entry name="Tau/Ethereal:Victory#1" value="I mourn every soul we lose."/>
-	<entry name="Tau/Ethereal:Victory#2" value="This too, was for the good."/>
-	<entry name="Tau/Ethereal:VictoryCount" value="3"/>
-	<entry name="Tau/FireWarrior:Attack#0" value="Firing on targets!"/>
-	<entry name="Tau/FireWarrior:Attack#1" value="In combat!"/>
-	<entry name="Tau/FireWarrior:Attack#2" value="We're the Fire Caste!"/>
-	<entry name="Tau/FireWarrior:Attack#3" value="Keep at range!"/>
-	<entry name="Tau/FireWarrior:Attack#4" value="Support each other!"/>
-	<entry name="Tau/FireWarrior:Attack#5" value="For Puretide's memory!"/>
-	<entry name="Tau/FireWarrior:AttackCount" value="6"/>
-	<entry name="Tau/FireWarrior:Broken#0" value="Fall back! Run!"/>
-	<entry name="Tau/FireWarrior:BrokenCount" value="1"/>
-	<entry name="Tau/FireWarrior:Hurt#0" value="We're losing troops!"/>
-	<entry name="Tau/FireWarrior:HurtCount" value="1"/>
-	<entry name="Tau/FireWarrior:Idle#0" value="Taking a break."/>
-	<entry name="Tau/FireWarrior:Idle#1" value="Training, shas'el."/>
-	<entry name="Tau/FireWarrior:Idle#2" value="I miss my Sept…"/>
-	<entry name="Tau/FireWarrior:Idle#3" value="Let us never speak of sub-space again…"/>
-	<entry name="Tau/FireWarrior:Idle#4" value="Ready for action, shas'el."/>
-	<entry name="Tau/FireWarrior:IdleCount" value="5"/>
-	<entry name="Tau/FireWarrior:Shaken#0" value="Don't let them near us!"/>
-	<entry name="Tau/FireWarrior:ShakenCount" value="1"/>
-	<entry name="Tau/FireWarrior:Victory#0" value="Superior firepower wins the day!"/>
-	<entry name="Tau/FireWarrior:Victory#1" value="Proving the power of the Fire Caste!"/>
-	<entry name="Tau/FireWarrior:VictoryCount" value="2"/>
-	<entry name="Tau/GhostkeelBattlesuit" value="Tau/CrisisBattlesuit"/>
-	<entry name="Tau/GravInhibitorDrone" value="Tau/GunDrone"/>
-	<entry name="Tau/GunDrone:Attack#0" value="Firing solution found."/>
-	<entry name="Tau/GunDrone:Attack#1" value="Drone in action."/>
-	<entry name="Tau/GunDrone:Attack#2" value="Fighting for the good!"/>
-	<entry name="Tau/GunDrone:Attack#3" value="Limits of logic reached. Shots taken."/>
-	<entry name="Tau/GunDrone:Attack#4" value="89% certainty enemies identified. Engaging."/>
-	<entry name="Tau/GunDrone:AttackCount" value="5"/>
-	<entry name="Tau/GunDrone:Broken#0" value="Preserving unit integrity."/>
+	<entry name="Tau/BuilderDrone:Attack#0" value="Гэта неэфектыўнае выкарыстаньне рэсурсаў."/>
+    <entry name="Tau/BuilderDrone:Attack#1" value="Выконваю немэтазгодную атаку."/>
+    <entry name="Tau/BuilderDrone:Attack#2" value="Чыню мінімальную шкоду."/>
+    <entry name="Tau/BuilderDrone:AttackCount" value="3"/>
+    <entry name="Tau/BuilderDrone:Broken#0" value="Адзінка ў небясьпецы."/>
+    <entry name="Tau/BuilderDrone:BrokenCount" value="1"/>
+    <entry name="Tau/BuilderDrone:Hurt#0" value="Адзінка пашкоджана."/>
+    <entry name="Tau/BuilderDrone:HurtCount" value="1"/>
+    <entry name="Tau/BuilderDrone:Idle#0" value="Адключэньне сілкаваньня."/>
+    <entry name="Tau/BuilderDrone:Idle#1" value="Ацэнка схем…"/>
+    <entry name="Tau/BuilderDrone:Idle#2" value="Служу Касьце Зямлі і Найвышэйшаму Дабрабыту."/>
+    <entry name="Tau/BuilderDrone:IdleCount" value="3"/>
+    <entry name="Tau/BuilderDrone:Shaken#0" value="Будаўнічая адзінка пад агнём."/>
+    <entry name="Tau/BuilderDrone:ShakenCount" value="1"/>
+    <entry name="Tau/BuilderDrone:Victory#0" value="Надінжынерыя Т'аў у дзеяньні."/>
+    <entry name="Tau/BuilderDrone:VictoryCount" value="1"/>
+    <entry name="Tau/CadreFireblade:Attack#0" value="Стралковая лінія, у атаку!"/>
+    <entry name="Tau/CadreFireblade:Attack#1" value="Ваяры Агню, пакажыце ім Дабро."/>
+    <entry name="Tau/CadreFireblade:Attack#2" value="Адчуй моц імпульснай тэхналогіі!"/>
+    <entry name="Tau/CadreFireblade:Attack#3" value="Чакайце, пакуль не ўбачыце бялкі іх вачэй… праз свой прыцэл."/>
+    <entry name="Tau/CadreFireblade:AttackCount" value="4"/>
+    <entry name="Tau/CadreFireblade:Broken#0" value="Што падумаў бы Чысты Прыліў..?"/>
+    <entry name="Tau/CadreFireblade:BrokenCount" value="1"/>
+    <entry name="Tau/CadreFireblade:Hurt#0" value="Трэба нешта большае, каб перамагчы мяне!"/>
+    <entry name="Tau/CadreFireblade:HurtCount" value="1"/>
+    <entry name="Tau/CadreFireblade:Idle#0" value="Трэніроўка па цэлях, шас'эль, у строй!"/>
+    <entry name="Tau/CadreFireblade:Idle#1" value="Мы вядзём за сабой з перадавой."/>
+    <entry name="Tau/CadreFireblade:Idle#2" value="Добры лідар трывала стаіць на зямлі."/>
+    <entry name="Tau/CadreFireblade:IdleCount" value="3"/>
+    <entry name="Tau/CadreFireblade:Shaken#0" value="Гэта ня той шлях…"/>
+    <entry name="Tau/CadreFireblade:ShakenCount" value="1"/>
+    <entry name="Tau/CadreFireblade:Victory#0" value="Тактычна мудра."/>
+    <entry name="Tau/CadreFireblade:VictoryCount" value="1"/>
+    <entry name="Tau/Commander:Attack#0" value="За Аўн'Ва!"/>
+    <entry name="Tau/Commander:Attack#1" value="Мы навучым вас шляху."/>
+    <entry name="Tau/Commander:Attack#2" value="Далучайцеся да нас!"/>
+    <entry name="Tau/Commander:AttackCount" value="3"/>
+    <entry name="Tau/Commander:Broken#0" value="Адступленьне — адзіны варыянт…"/>
+    <entry name="Tau/Commander:BrokenCount" value="1"/>
+    <entry name="Tau/Commander:Hurt#0" value="Баявы гарнітур пашкоджаны."/>
+    <entry name="Tau/Commander:HurtCount" value="1"/>
+    <entry name="Tau/Commander:Idle#0" value="Карыстайце мяне дзеля Найвышэйшага Дабрабыту."/>
+    <entry name="Tau/Commander:Idle#1" value="Заўсёды думаю на крок наперад."/>
+    <entry name="Tau/Commander:Idle#2" value="Што такое адно жыцьцё для Найвышэйшага Дабрабыту?"/>
+    <entry name="Tau/Commander:IdleCount" value="3"/>
+    <entry name="Tau/Commander:Shaken#0" value="Я не тузануся."/>
+    <entry name="Tau/Commander:ShakenCount" value="1"/>
+    <entry name="Tau/Commander:Victory#0" value="Каста Агню ўзначальвае."/>
+    <entry name="Tau/Commander:VictoryCount" value="1"/>
+    <entry name="Tau/CrisisBattlesuit:Attack#0" value="Баявыя гарнітуры ў дзеяньні."/>
+    <entry name="Tau/CrisisBattlesuit:Attack#1" value="Агонь зь імпульснай зброі."/>
+    <entry name="Tau/CrisisBattlesuit:Attack#2" value="Актывацыя контрзахадаў."/>
+    <entry name="Tau/CrisisBattlesuit:Attack#3" value="Можаце разьлічваць на нас!"/>
+    <entry name="Tau/CrisisBattlesuit:AttackCount" value="4"/>
+    <entry name="Tau/CrisisBattlesuit:Broken#0" value="Эліта… адступае."/>
+    <entry name="Tau/CrisisBattlesuit:BrokenCount" value="1"/>
+    <entry name="Tau/CrisisBattlesuit:Hurt#0" value="Мы губляем сістэмы!"/>
+    <entry name="Tau/CrisisBattlesuit:HurtCount" value="1"/>
+    <entry name="Tau/CrisisBattlesuit:Idle#0" value="Заўсёды гатовы."/>
+    <entry name="Tau/CrisisBattlesuit:Idle#1" value="Мы ўсё зробім."/>
+    <entry name="Tau/CrisisBattlesuit:Idle#2" value="Якая воля Этэрных?"/>
+    <entry name="Tau/CrisisBattlesuit:IdleCount" value="3"/>
+    <entry name="Tau/CrisisBattlesuit:Shaken#0" value="Мы ня можам утрымаць гэтую пазіцыю."/>
+    <entry name="Tau/CrisisBattlesuit:ShakenCount" value="1"/>
+    <entry name="Tau/CrisisBattlesuit:Victory#0" value="Вось чаму вы пасылаеце Баявыя Гарнітуры."/>
+    <entry name="Tau/CrisisBattlesuit:Victory#1" value="Сьмяротны ўдар нанесены."/>
+    <entry name="Tau/CrisisBattlesuit:Victory#2" value="У іх маецца нешта… мацнейшае?"/>
+    <entry name="Tau/CrisisBattlesuit:Victory#3" value="Запішыце яшчэ аднаго на наш рахунак, шас'эль."/>
+    <entry name="Tau/CrisisBattlesuit:VictoryCount" value="4"/>
+    <entry name="Tau/Devilfish:Attack#0" value="Рухаемся да ворага."/>
+    <entry name="Tau/Devilfish:Attack#1" value="Вучым нашых ворагаў баяцца ўсіх Т'аў."/>
+    <entry name="Tau/Devilfish:Attack#2" value="Адчуй маю лютасьць!"/>
+    <entry name="Tau/Devilfish:Attack#3" value="Агонь з усёй зброі."/>
+    <entry name="Tau/Devilfish:AttackCount" value="4"/>
+    <entry name="Tau/Devilfish:Broken#0" value="Мы зайшлі занадта далёка!"/>
+    <entry name="Tau/Devilfish:BrokenCount" value="1"/>
+    <entry name="Tau/Devilfish:Hurt#0" value="Ня вытрымаем шмат такіх удараў."/>
+    <entry name="Tau/Devilfish:HurtCount" value="1"/>
+    <entry name="Tau/Devilfish:Idle#0" value="Гатовы да руху па вашым загадзе."/>
+    <entry name="Tau/Devilfish:Idle#1" value="Проста чакаем."/>
+    <entry name="Tau/Devilfish:Idle#2" value="Правяраю мікрасхемы — тая згарэла."/>
+    <entry name="Tau/Devilfish:IdleCount" value="3"/>
+    <entry name="Tau/Devilfish:Shaken#0" value="Яны зьмяняюць хвалю!"/>
+    <entry name="Tau/Devilfish:ShakenCount" value="1"/>
+    <entry name="Tau/Devilfish:Victory#0" value="Транспартуем іх у лепшае месца."/>
+    <entry name="Tau/Devilfish:Victory#1" value="Адпраўляемся."/>
+    <entry name="Tau/Devilfish:VictoryCount" value="2"/>
+    <entry name="Tau/Ethereal:Attack#0" value="Гэта для вашага ж дабра."/>
+    <entry name="Tau/Ethereal:Attack#1" value="За Т'аў."/>
+    <entry name="Tau/Ethereal:Attack#2" value="Чаму вы супрацьстаіце нам?"/>
+    <entry name="Tau/Ethereal:AttackCount" value="3"/>
+    <entry name="Tau/Ethereal:Broken#0" value="Магчыма… мір знаходзіцца за нашымі ўласнымі лініямі."/>
+    <entry name="Tau/Ethereal:BrokenCount" value="1"/>
+    <entry name="Tau/Ethereal:Hurt#0" value="Хоць плоць мая слабая, мой дух будзе трыумфаваць!"/>
+    <entry name="Tau/Ethereal:HurtCount" value="1"/>
+    <entry name="Tau/Ethereal:Idle#0" value="Я прапаведую Дабро."/>
+    <entry name="Tau/Ethereal:Idle#1" value="Разуменьне прыходзіць у медытацыі."/>
+    <entry name="Tau/Ethereal:Idle#2" value="Аднаго дабрабыту не хапае — мы шукаем найвышэйшы."/>
+    <entry name="Tau/Ethereal:IdleCount" value="3"/>
+    <entry name="Tau/Ethereal:Shaken#0" value="Абараніце мяне!"/>
+    <entry name="Tau/Ethereal:ShakenCount" value="1"/>
+    <entry name="Tau/Ethereal:Victory#0" value="Нясем слова."/>
+    <entry name="Tau/Ethereal:Victory#1" value="Я аплакваю кожную душу, якую мы губляем."/>
+    <entry name="Tau/Ethereal:Victory#2" value="Гэта таксама было дзеля дабра."/>
+    <entry name="Tau/Ethereal:VictoryCount" value="3"/>
+    <entry name="Tau/FireWarrior:Attack#0" value="Агонь па цэлях!"/>
+    <entry name="Tau/FireWarrior:Attack#1" value="У бітву!"/>
+    <entry name="Tau/FireWarrior:Attack#2" value="Мы — Каста Агню!"/>
+    <entry name="Tau/FireWarrior:Attack#3" value="Трымайце дыстанцыю!"/>
+    <entry name="Tau/FireWarrior:Attack#4" value="Падтрымлівайце адно аднаго!"/>
+    <entry name="Tau/FireWarrior:Attack#5" value="У памяць пра Чысты Прыліў!"/>
+    <entry name="Tau/FireWarrior:AttackCount" value="6"/>
+    <entry name="Tau/FireWarrior:Broken#0" value="Адступаем! Бяжыце!"/>
+    <entry name="Tau/FireWarrior:BrokenCount" value="1"/>
+    <entry name="Tau/FireWarrior:Hurt#0" value="Мы губляем байцоў!"/>
+    <entry name="Tau/FireWarrior:HurtCount" value="1"/>
+    <entry name="Tau/FireWarrior:Idle#0" value="Робім перапынак."/>
+    <entry name="Tau/FireWarrior:Idle#1" value="Рыхтуемся, шас'эль."/>
+    <entry name="Tau/FireWarrior:Idle#2" value="Я сумую па сваёй Сэпце…"/>
+    <entry name="Tau/FireWarrior:Idle#3" value="Давайце больш ніколі не размаўляць пра падпрастору…"/>
+    <entry name="Tau/FireWarrior:Idle#4" value="Гатовы да дзеяньня, шас'эль."/>
+    <entry name="Tau/FireWarrior:IdleCount" value="5"/>
+    <entry name="Tau/FireWarrior:Shaken#0" value="Не падпускай іх да нас!"/>
+    <entry name="Tau/FireWarrior:ShakenCount" value="1"/>
+    <entry name="Tau/FireWarrior:Victory#0" value="Пераважная агнявая моц перамагае!"/>
+    <entry name="Tau/FireWarrior:Victory#1" value="Даводзім моц Касты Агню!"/>
+    <entry name="Tau/FireWarrior:VictoryCount" value="2"/>
+    <entry name="Tau/GhostkeelBattlesuit" value="Tau/CrisisBattlesuit"/>
+    <entry name="Tau/GravInhibitorDrone" value="Tau/GunDrone"/>
+    <entry name="Tau/GunDrone:Attack#0" value="Знойдзена рашэнбне для стральбы."/>
+    <entry name="Tau/GunDrone:Attack#1" value="Дрон у дзеяньні."/>
+    <entry name="Tau/GunDrone:Attack#2" value="Змагаемся за дабро!"/>
+    <entry name="Tau/GunDrone:Attack#3" value="Межы логікі дасягнутыя. Стрэлы выкананыя."/>
+    <entry name="Tau/GunDrone:Attack#4" value="Ворагі ідэнтыфікаваныя з 89% упэўненасьцю. Пачынаю атаку."/>
+    <entry name="Tau/GunDrone:AttackCount" value="5"/>
+    <entry name="Tau/GunDrone:Broken#0" value="Захаваньне цэласнасьці адзінкі."/>
 	<entry name="Tau/GunDrone:BrokenCount" value="1"/>
 	<entry name="Tau/GunDrone:Hurt#0" value="Operating capability down to 50%"/>
 	<entry name="Tau/GunDrone:HurtCount" value="1"/>
