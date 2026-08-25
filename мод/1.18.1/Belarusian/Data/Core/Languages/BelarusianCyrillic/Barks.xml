@@ -2752,130 +2752,130 @@
     <entry name="Eldar/FirePrism:Attack#2" value="Яны растаюць."/>
     <entry name="Eldar/FirePrism:Attack#3" value="Зброя старажытных, не падвядзі нас."/>
 	<entry name="Eldar/FirePrism:AttackCount" value="4"/>
-	<entry name="Eldar/FirePrism:Broken#0" value="…this cannot be."/>
-	<entry name="Eldar/FirePrism:BrokenCount" value="1"/>
-	<entry name="Eldar/FirePrism:Hurt#0" value="This damage is of no consequence."/>
-	<entry name="Eldar/FirePrism:HurtCount" value="1"/>
-	<entry name="Eldar/FirePrism:Idle#0" value="Use us."/>
-	<entry name="Eldar/FirePrism:Idle#1" value="Ancient Vaul designed this machine."/>
-	<entry name="Eldar/FirePrism:Idle#2" value="Why must we use such weaponry?"/>
-	<entry name="Eldar/FirePrism:Idle#3" value="The craftworlds are so far away."/>
-	<entry name="Eldar/FirePrism:IdleCount" value="4"/>
-	<entry name="Eldar/FirePrism:Shaken#0" value="We can take their fire."/>
-	<entry name="Eldar/FirePrism:ShakenCount" value="1"/>
-	<entry name="Eldar/FirePrism:Victory#0" value="As expected, they are defeated."/>
-	<entry name="Eldar/FirePrism:VictoryCount" value="1"/>
-	<entry name="Eldar/FireDragon:Attack#0" value="Burn!"/>
-	<entry name="Eldar/FireDragon:Attack#1" value="Ancestral flames unleashed!"/>
-	<entry name="Eldar/FireDragon:Attack#2" value="We are rage, fiery rage!"/>
-	<entry name="Eldar/FireDragon:Attack#3" value="Come closer, little tanks…"/>
-	<entry name="Eldar/FireDragon:AttackCount" value="4"/>
-	<entry name="Eldar/FireDragon:Broken#0" value="The dream of fire fades…"/>
-	<entry name="Eldar/FireDragon:BrokenCount" value="1"/>
-	<entry name="Eldar/FireDragon:Hurt#0" value="We are burnt ourselves!"/>
-	<entry name="Eldar/FireDragon:HurtCount" value="1"/>
-	<entry name="Eldar/FireDragon:Idle#0" value="Let us tell tale of firestorms and ash."/>
-	<entry name="Eldar/FireDragon:Idle#1" value="Cinders and fury."/>
-	<entry name="Eldar/FireDragon:Idle#2" value="A world encased in flame."/>
-	<entry name="Eldar/FireDragon:Idle#3" value="There is nobility in incineration, is there not?"/>
-	<entry name="Eldar/FireDragon:IdleCount" value="4"/>
-	<entry name="Eldar/FireDragon:Shaken#0" value="We are quite put out."/>
-	<entry name="Eldar/FireDragon:ShakenCount" value="1"/>
-	<entry name="Eldar/FireDragon:Victory#0" value="Their face in death is… ashen."/>
-	<entry name="Eldar/FireDragon:VictoryCount" value="1"/>
-	<entry name="Eldar/CrimsonHunter:Attack#0" value="Kurnous guides us!"/>
-	<entry name="Eldar/CrimsonHunter:Attack#1" value="We hunt!"/>
-	<entry name="Eldar/CrimsonHunter:Attack#2" value="From the air, we dispense… lessons."/>
-	<entry name="Eldar/CrimsonHunter:Attack#3" value="We are the blinding blades!"/>
-	<entry name="Eldar/CrimsonHunter:AttackCount" value="4"/>
-	<entry name="Eldar/CrimsonHunter:Broken#0" value="This is not retreat."/>
-	<entry name="Eldar/CrimsonHunter:BrokenCount" value="1"/>
-	<entry name="Eldar/CrimsonHunter:Hurt#0" value="They… they hit us?"/>
-	<entry name="Eldar/CrimsonHunter:HurtCount" value="1"/>
-	<entry name="Eldar/CrimsonHunter:Idle#0" value="I have a desire… for speed."/>
-	<entry name="Eldar/CrimsonHunter:Idle#1" value="Kurnous desires action."/>
-	<entry name="Eldar/CrimsonHunter:Idle#2" value="This environment is rich in targets…"/>
-	<entry name="Eldar/CrimsonHunter:Idle#3" value="Nothing is more deadly than arrogance in battle."/>
-	<entry name="Eldar/CrimsonHunter:IdleCount" value="4"/>
-	<entry name="Eldar/CrimsonHunter:Shaken#0" value="No time to think!"/>
-	<entry name="Eldar/CrimsonHunter:ShakenCount" value="1"/>
-	<entry name="Eldar/CrimsonHunter:Victory#0" value="Their ego overtook them."/>
-	<entry name="Eldar/CrimsonHunter:VictoryCount" value="1"/>
-	<entry name="Eldar/HemlockWraithfighter" value="Eldar/CrimsonHunter"/>
-	<entry name="Eldar/Scorpion" value="Eldar/FirePrism"/>
-	<entry name="Eldar/WarWalker" value="Eldar/Guardian"/>
-	<entry name="Eldar/Wraithknight" value="Eldar/Wraithblade"/>
-	<entry name="Eldar/Autarch:Attack#0" value="Face all the aspects!"/>
-	<entry name="Eldar/Autarch:Attack#1" value="I know Khaine!"/>
-	<entry name="Eldar/Autarch:Attack#2" value="Fall by my hand!"/>
-	<entry name="Eldar/Autarch:Attack#3" value="I am war incarnate!"/>
-	<entry name="Eldar/Autarch:AttackCount" value="4"/>
-	<entry name="Eldar/Autarch:Broken#0" value="Retreat is a part of war."/>
-	<entry name="Eldar/Autarch:BrokenCount" value="1"/>
-	<entry name="Eldar/Autarch:Hurt#0" value="I… may need another incarnation."/>
-	<entry name="Eldar/Autarch:HurtCount" value="1"/>
-	<entry name="Eldar/Autarch:Idle#0" value="Cegorach makes work for idle Autarchs."/>
-	<entry name="Eldar/Autarch:Idle#1" value="I shall now recite the litany of battle…"/>
-	<entry name="Eldar/Autarch:Idle#2" value="I am lost to war."/>
-	<entry name="Eldar/Autarch:Idle#3" value="There is no peace in my mind."/>
-	<entry name="Eldar/Autarch:IdleCount" value="4"/>
-	<entry name="Eldar/Autarch:Shaken#0" value="Ha! They test me!"/>
-	<entry name="Eldar/Autarch:ShakenCount" value="1"/>
-	<entry name="Eldar/Autarch:Victory#0" value="They will not try my patience again."/>
-	<entry name="Eldar/Autarch:VictoryCount" value="1"/>
-	<entry name="Eldar/FarseerSkyrunner:Attack#0" value="I shape your future… it is short."/>
-	<entry name="Eldar/FarseerSkyrunner:Attack#1" value="With me, Shining Spears."/>
-	<entry name="Eldar/FarseerSkyrunner:Attack#2" value="My witchblade hungers."/>
-	<entry name="Eldar/FarseerSkyrunner:Attack#3" value="I am the helmsman of my people."/>
-	<entry name="Eldar/FarseerSkyrunner:AttackCount" value="4"/>
-	<entry name="Eldar/FarseerSkyrunner:Broken#0" value="I see no future."/>
-	<entry name="Eldar/FarseerSkyrunner:BrokenCount" value="1"/>
-	<entry name="Eldar/FarseerSkyrunner:Hurt#0" value="I must go on!"/>
-	<entry name="Eldar/FarseerSkyrunner:HurtCount" value="1"/>
-	<entry name="Eldar/FarseerSkyrunner:Idle#0" value="The skeins draw tight."/>
-	<entry name="Eldar/FarseerSkyrunner:Idle#1" value="The future is always in motion."/>
-	<entry name="Eldar/FarseerSkyrunner:Idle#2" value="I see the future and shape it too."/>
-	<entry name="Eldar/FarseerSkyrunner:Idle#3" value="I long for the crystal and the circuit."/>
-	<entry name="Eldar/FarseerSkyrunner:IdleCount" value="4"/>
-	<entry name="Eldar/FarseerSkyrunner:Shaken#0" value="It was not meant to be this way!"/>
-	<entry name="Eldar/FarseerSkyrunner:ShakenCount" value="1"/>
-	<entry name="Eldar/FarseerSkyrunner:Victory#0" value="Fallen. As foreseen."/>
-	<entry name="Eldar/FarseerSkyrunner:VictoryCount" value="1"/>
-	<entry name="Eldar/Spiritseer:Attack#0" value="There is no peace."/>
-	<entry name="Eldar/Spiritseer:Attack#1" value="The dead take you!"/>
-	<entry name="Eldar/Spiritseer:Attack#2" value="Fear my blade."/>
-	<entry name="Eldar/Spiritseer:Attack#3" value="I am of an ancient race!"/>
-	<entry name="Eldar/Spiritseer:AttackCount" value="4"/>
-	<entry name="Eldar/Spiritseer:Broken#0" value="I retreat, lest I join my charges."/>
-	<entry name="Eldar/Spiritseer:BrokenCount" value="1"/>
-	<entry name="Eldar/Spiritseer:Hurt#0" value="My life drains into the crystal…"/>
-	<entry name="Eldar/Spiritseer:HurtCount" value="1"/>
-	<entry name="Eldar/Spiritseer:Idle#0" value="The dead are in my care."/>
-	<entry name="Eldar/Spiritseer:Idle#1" value="I speak to you, my departed friends."/>
-	<entry name="Eldar/Spiritseer:Idle#2" value="It is quiet, in the spirit halls."/>
-	<entry name="Eldar/Spiritseer:Idle#3" value="Hear the infinity circuit of the planet. It whispers!"/>
-	<entry name="Eldar/Spiritseer:IdleCount" value="4"/>
-	<entry name="Eldar/Spiritseer:Shaken#0" value="We are so few, left alive."/>
-	<entry name="Eldar/Spiritseer:ShakenCount" value="1"/>
-	<entry name="Eldar/Spiritseer:Victory#0" value="I cannot celebrate death, even a foe's."/>
-	<entry name="Eldar/Spiritseer:VictoryCount" value="1"/>
-	<entry name="Eldar/AvatarOfKhaine:Attack#0" value="YOU DARE BATTLE WITH WAR INCARNATE?!"/>
-	<entry name="Eldar/AvatarOfKhaine:Attack#1" value="IMMOLATION IS YOUR FATE"/>
-	<entry name="Eldar/AvatarOfKhaine:Attack#2" value="FIRE!"/>
-	<entry name="Eldar/AvatarOfKhaine:Attack#3" value="COME, FOOLS, KHAINE WANTS YOU"/>
-	<entry name="Eldar/AvatarOfKhaine:AttackCount" value="4"/>
-	<entry name="Eldar/AvatarOfKhaine:Broken#0" value="I WILL NOT FLEE"/>
-	<entry name="Eldar/AvatarOfKhaine:BrokenCount" value="1"/>
-	<entry name="Eldar/AvatarOfKhaine:Hurt#0" value="YOU FUEL MY RAGE!"/>
-	<entry name="Eldar/AvatarOfKhaine:HurtCount" value="1"/>
-	<entry name="Eldar/AvatarOfKhaine:Idle#0" value="THIS PLANET TEARS AT ME"/>
-	<entry name="Eldar/AvatarOfKhaine:Idle#1" value="THIS HAND WIELDS THE SWORD"/>
-	<entry name="Eldar/AvatarOfKhaine:Idle#2" value="VAUL… DIED"/>
-	<entry name="Eldar/AvatarOfKhaine:Idle#3" value="SUNDERED, I FIGHT ON"/>
-	<entry name="Eldar/AvatarOfKhaine:IdleCount" value="4"/>
-	<entry name="Eldar/AvatarOfKhaine:Shaken#0" value="COME CLOSER, MORTALS"/>
-	<entry name="Eldar/AvatarOfKhaine:ShakenCount" value="1"/>
-	<entry name="Eldar/AvatarOfKhaine:Victory#0" value="KHAINE HAS THEM NOW."/>
+    <entry name="Eldar/FirePrism:Broken#0" value="…гэтага ня можа быць."/>
+    <entry name="Eldar/FirePrism:BrokenCount" value="1"/>
+    <entry name="Eldar/FirePrism:Hurt#0" value="Гэтыя пашкоджанньі нічога ня вартыя."/>
+    <entry name="Eldar/FirePrism:HurtCount" value="1"/>
+    <entry name="Eldar/FirePrism:Idle#0" value="Выкарыстоўвайце нас."/>
+    <entry name="Eldar/FirePrism:Idle#1" value="Старажытны Ваул распрацаваў гэтую машыну."/>
+    <entry name="Eldar/FirePrism:Idle#2" value="Чаму мы мусім выкарыстоўваць такую зброю?"/>
+    <entry name="Eldar/FirePrism:Idle#3" value="Штучныя сьветы так далёка."/>
+    <entry name="Eldar/FirePrism:IdleCount" value="4"/>
+    <entry name="Eldar/FirePrism:Shaken#0" value="Мы вытрымаем іх агонь."/>
+    <entry name="Eldar/FirePrism:ShakenCount" value="1"/>
+    <entry name="Eldar/FirePrism:Victory#0" value="Як і чакалася, яны пераможаны."/>
+    <entry name="Eldar/FirePrism:VictoryCount" value="1"/>
+    <entry name="Eldar/FireDragon:Attack#0" value="Палайце!"/>
+    <entry name="Eldar/FireDragon:Attack#1" value="Полымя продкаў вызвалена!"/>
+    <entry name="Eldar/FireDragon:Attack#2" value="Мы — лютасьць, палымяная лютасьць!"/>
+    <entry name="Eldar/FireDragon:Attack#3" value="Падыдзіце бліжэй, маленькія танкі…"/>
+    <entry name="Eldar/FireDragon:AttackCount" value="4"/>
+    <entry name="Eldar/FireDragon:Broken#0" value="Мара пра агонь згасае…"/>
+    <entry name="Eldar/FireDragon:BrokenCount" value="1"/>
+    <entry name="Eldar/FireDragon:Hurt#0" value="Мы самі абгарэлі!"/>
+    <entry name="Eldar/FireDragon:HurtCount" value="1"/>
+    <entry name="Eldar/FireDragon:Idle#0" value="Дазволь расказаць гісторыю пра вогненныя штормы і попел."/>
+    <entry name="Eldar/FireDragon:Idle#1" value="Попел і лютасьць."/>
+    <entry name="Eldar/FireDragon:Idle#2" value="Сьвет, ахоплены полымем."/>
+    <entry name="Eldar/FireDragon:Idle#3" value="У спаленьні ёсьць свая шляхетнасьць, так?"/>
+    <entry name="Eldar/FireDragon:IdleCount" value="4"/>
+    <entry name="Eldar/FireDragon:Shaken#0" value="Нас амаль патушылі."/>
+    <entry name="Eldar/FireDragon:ShakenCount" value="1"/>
+    <entry name="Eldar/FireDragon:Victory#0" value="Іх перадсьмяротныя твары… папялістыя."/>
+    <entry name="Eldar/FireDragon:VictoryCount" value="1"/>
+    <entry name="Eldar/CrimsonHunter:Attack#0" value="Карноўс вядзе нас!"/>
+    <entry name="Eldar/CrimsonHunter:Attack#1" value="Мы палюем!"/>
+    <entry name="Eldar/CrimsonHunter:Attack#2" value="З паветра мы даём… урокі."/>
+    <entry name="Eldar/CrimsonHunter:Attack#3" value="Мы — асьляпляльныя клінкі!"/>
+    <entry name="Eldar/CrimsonHunter:AttackCount" value="4"/>
+    <entry name="Eldar/CrimsonHunter:Broken#0" value="Гэта не адступленьне."/>
+    <entry name="Eldar/CrimsonHunter:BrokenCount" value="1"/>
+    <entry name="Eldar/CrimsonHunter:Hurt#0" value="Яны… яны ў нас трапілі?"/>
+    <entry name="Eldar/CrimsonHunter:HurtCount" value="1"/>
+    <entry name="Eldar/CrimsonHunter:Idle#0" value="Я прагну… хуткасьці."/>
+    <entry name="Eldar/CrimsonHunter:Idle#1" value="Карноўс прагне дзеяньняў."/>
+    <entry name="Eldar/CrimsonHunter:Idle#2" value="Гэтае асяродзьдзе багатае на цэлі…"/>
+    <entry name="Eldar/CrimsonHunter:Idle#3" value="Няма нічога больш сьмяротнага, чым пыха ў баі."/>
+    <entry name="Eldar/CrimsonHunter:IdleCount" value="4"/>
+    <entry name="Eldar/CrimsonHunter:Shaken#0" value="Няма часу думаць!"/>
+    <entry name="Eldar/CrimsonHunter:ShakenCount" value="1"/>
+    <entry name="Eldar/CrimsonHunter:Victory#0" value="Іх эга загубіла іх."/>
+    <entry name="Eldar/CrimsonHunter:VictoryCount" value="1"/>
+    <entry name="Eldar/HemlockWraithfighter" value="Eldar/CrimsonHunter"/>
+    <entry name="Eldar/Scorpion" value="Eldar/FirePrism"/>
+    <entry name="Eldar/WarWalker" value="Eldar/Guardian"/>
+    <entry name="Eldar/Wraithknight" value="Eldar/Wraithblade"/>
+    <entry name="Eldar/Autarch:Attack#0" value="Пазнай усе асьпекты!"/>
+    <entry name="Eldar/Autarch:Attack#1" value="Я спазнаў Кхайна!"/>
+    <entry name="Eldar/Autarch:Attack#2" value="Падзіце ад маёй рукі!"/>
+    <entry name="Eldar/Autarch:Attack#3" value="Я — увасобленьне вайны!"/>
+    <entry name="Eldar/Autarch:AttackCount" value="4"/>
+    <entry name="Eldar/Autarch:Broken#0" value="Адступленьне — частка вайны."/>
+    <entry name="Eldar/Autarch:BrokenCount" value="1"/>
+    <entry name="Eldar/Autarch:Hurt#0" value="Мне… можа спатрэбіцца іншае ўвасабленьне."/>
+    <entry name="Eldar/Autarch:HurtCount" value="1"/>
+    <entry name="Eldar/Autarch:Idle#0" value="Цэгорах знаходзіць працу для бязьдзейных Аўтархаў."/>
+    <entry name="Eldar/Autarch:Idle#1" value="Цяпер я прачытаю літанію бітвы…"/>
+    <entry name="Eldar/Autarch:Idle#2" value="Вайна паглынула мяне."/>
+    <entry name="Eldar/Autarch:Idle#3" value="У маім розуме няма спакою."/>
+    <entry name="Eldar/Autarch:IdleCount" value="4"/>
+    <entry name="Eldar/Autarch:Shaken#0" value="Ха! Яны выпрабоўваюць мяне!"/>
+    <entry name="Eldar/Autarch:ShakenCount" value="1"/>
+    <entry name="Eldar/Autarch:Victory#0" value="Яны больш ня будуць выпрабоўваць маё цярпеньне."/>
+    <entry name="Eldar/Autarch:VictoryCount" value="1"/>
+    <entry name="Eldar/FarseerSkyrunner:Attack#0" value="Я ствараю вашу будучыню… яна кароткая."/>
+    <entry name="Eldar/FarseerSkyrunner:Attack#1" value="За мной, Зіхатлівыя Дзіды."/>
+    <entry name="Eldar/FarseerSkyrunner:Attack#2" value="Мой клінок ведзьмы галодны."/>
+    <entry name="Eldar/FarseerSkyrunner:Attack#3" value="Я — стырнавы свайго народа."/>
+    <entry name="Eldar/FarseerSkyrunner:AttackCount" value="4"/>
+    <entry name="Eldar/FarseerSkyrunner:Broken#0" value="Я ня бачу будучыні."/>
+    <entry name="Eldar/FarseerSkyrunner:BrokenCount" value="1"/>
+    <entry name="Eldar/FarseerSkyrunner:Hurt#0" value="Я мушу працягваць!"/>
+    <entry name="Eldar/FarseerSkyrunner:HurtCount" value="1"/>
+    <entry name="Eldar/FarseerSkyrunner:Idle#0" value="Спляценьні лёсу нацягваюцца."/>
+    <entry name="Eldar/FarseerSkyrunner:Idle#1" value="Будучыня заўжды ў руху."/>
+    <entry name="Eldar/FarseerSkyrunner:Idle#2" value="Я бачу будучыню і ствараю яе."/>
+    <entry name="Eldar/FarseerSkyrunner:Idle#3" value="Я сумую па крышталі і схемы."/>
+    <entry name="Eldar/FarseerSkyrunner:IdleCount" value="4"/>
+    <entry name="Eldar/FarseerSkyrunner:Shaken#0" value="Так ня вінна было стацца!"/>
+    <entry name="Eldar/FarseerSkyrunner:ShakenCount" value="1"/>
+    <entry name="Eldar/FarseerSkyrunner:Victory#0" value="Заняпад. Як і прадбачылася."/>
+    <entry name="Eldar/FarseerSkyrunner:VictoryCount" value="1"/>
+    <entry name="Eldar/Spiritseer:Attack#0" value="Спакою няма."/>
+    <entry name="Eldar/Spiritseer:Attack#1" value="Няхай мёртвыя забяруць вас!"/>
+    <entry name="Eldar/Spiritseer:Attack#2" value="Бойся майго клінка."/>
+    <entry name="Eldar/Spiritseer:Attack#3" value="Я са старажытнай расы!"/>
+    <entry name="Eldar/Spiritseer:AttackCount" value="4"/>
+    <entry name="Eldar/Spiritseer:Broken#0" value="Я адступаю, каб не падзяліць долю сваіх падапечных."/>
+    <entry name="Eldar/Spiritseer:BrokenCount" value="1"/>
+    <entry name="Eldar/Spiritseer:Hurt#0" value="Маё жыцьцё сьцякае ў крышталь…"/>
+    <entry name="Eldar/Spiritseer:HurtCount" value="1"/>
+    <entry name="Eldar/Spiritseer:Idle#0" value="Мёртвыя пад маёй апекай."/>
+    <entry name="Eldar/Spiritseer:Idle#1" value="Я гавару з вамі, мае спачылыя сябры."/>
+    <entry name="Eldar/Spiritseer:Idle#2" value="У залах духаў ціха."/>
+    <entry name="Eldar/Spiritseer:Idle#3" value="Пачуй бясконцыя схемы планеты. Яна шэпча!"/>
+    <entry name="Eldar/Spiritseer:IdleCount" value="4"/>
+    <entry name="Eldar/Spiritseer:Shaken#0" value="Нас так мала засталося ў жывых."/>
+    <entry name="Eldar/Spiritseer:ShakenCount" value="1"/>
+    <entry name="Eldar/Spiritseer:Victory#0" value="Я не магу сьвяткаваць сьмерць, нават варожую."/>
+    <entry name="Eldar/Spiritseer:VictoryCount" value="1"/>
+    <entry name="Eldar/AvatarOfKhaine:Attack#0" value="ВЫ АДВАЖВАЕЦЕСЯ БІЦЦА З УВАСОБЛЕНАЙ ВАЙНОЙ?!"/>
+    <entry name="Eldar/AvatarOfKhaine:Attack#1" value="СПАЛЕНЬНЕ — ВАШ ЛЁС"/>
+    <entry name="Eldar/AvatarOfKhaine:Attack#2" value="АГОНЬ!"/>
+    <entry name="Eldar/AvatarOfKhaine:Attack#3" value="ПАДЫДЗІЦЕ, ДУРНІ, КХАЙН ПРАГНЕ ВАС"/>
+    <entry name="Eldar/AvatarOfKhaine:AttackCount" value="4"/>
+    <entry name="Eldar/AvatarOfKhaine:Broken#0" value="Я НЕ ЎЦЯКУ"/>
+    <entry name="Eldar/AvatarOfKhaine:BrokenCount" value="1"/>
+    <entry name="Eldar/AvatarOfKhaine:Hurt#0" value="ВЫ СІЛКУЕЦЕ МАЮ ЛЮТАСЬЦЬ!"/>
+    <entry name="Eldar/AvatarOfKhaine:HurtCount" value="1"/>
+    <entry name="Eldar/AvatarOfKhaine:Idle#0" value="ГЭТАЯ ПЛАНЕТА РАЗЬДЗІРАЕ МЯНЕ"/>
+    <entry name="Eldar/AvatarOfKhaine:Idle#1" value="ГЭТАЯ РУКА ТРЫМАЕ МЕЧ"/>
+    <entry name="Eldar/AvatarOfKhaine:Idle#2" value="ВАУЛ… ПАМЁР"/>
+    <entry name="Eldar/AvatarOfKhaine:Idle#3" value="РАСКОЛАТЫ, ПРАЦЯГВАЮ БОЙ"/>
+    <entry name="Eldar/AvatarOfKhaine:IdleCount" value="4"/>
+    <entry name="Eldar/AvatarOfKhaine:Shaken#0" value="ПАДЫДЗІЦЕ БЛІЖЭЙ, СЬМЯРОТНЫЯ"/>
+    <entry name="Eldar/AvatarOfKhaine:ShakenCount" value="1"/>
+    <entry name="Eldar/AvatarOfKhaine:Victory#0" value="ЦЯПЕР ЯНЫ НАЛЕЖАЦЬ КХАЙНУ."/>
 	<entry name="Eldar/AvatarOfKhaine:VictoryCount" value="1"/>
 	<entry name="AstraMilitarum/Ratling:Attack#0" value="Guide our aim oh Emperor."/>
 	<entry name="AstraMilitarum/Ratling:Attack#1" value="Longshooters."/>
