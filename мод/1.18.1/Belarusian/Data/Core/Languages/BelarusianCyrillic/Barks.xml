@@ -2489,153 +2489,153 @@
 	<entry name="ChaosSpaceMarines/Helbrute" value="ChaosSpaceMarines/Defiler"/>
 	<entry name="ChaosSpaceMarines/Maulerfiend" value="ChaosSpaceMarines/Defiler"/>
 	<entry name="ChaosSpaceMarines/Obliterator" value="ChaosSpaceMarines/Havoc"/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#0" value="So fall all enemies of the Imperium"/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#1" value="Heretics, xenos: all shall fall."/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#2" value="Hellguns at the ready…"/>
-	<entry name="AstraMilitarum/TempestusScion:Attack#3" value="Our lives for Terra!"/>
-	<entry name="AstraMilitarum/TempestusScion:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/TempestusScion:Broken#0" value="The shame of it! Stormtroopers retreating!"/>
-	<entry name="AstraMilitarum/TempestusScion:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/TempestusScion:Hurt#0" value="I gladly give my life for my Emperor."/>
-	<entry name="AstraMilitarum/TempestusScion:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#0" value="They call us 'Glory Boys'. The only glory we seek is that of the Emperor."/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#1" value="The Regimental Standard? Not an obligation, but a joy to read."/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#2" value="Have you read this article about Marbo? How can a hero disregard Munitorum regulations?"/>
-	<entry name="AstraMilitarum/TempestusScion:Idle#3" value="In the mess, R&R. This is the life."/>
-	<entry name="AstraMilitarum/TempestusScion:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/TempestusScion:Shaken#0" value="I have passed the Trials of Compliance: I will not run."/>
-	<entry name="AstraMilitarum/TempestusScion:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/TempestusScion:Victory#0" value="Let the Guard celebrate. Our war is unending."/>
-	<entry name="AstraMilitarum/TempestusScion:VictoryCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Attack#0" value="…flesh"/>
-	<entry name="Necrons/FlayedOne:Attack#1" value="-tear-"/>
-	<entry name="Necrons/FlayedOne:Attack#2" value="…rend-rip-tear…"/>
-	<entry name="Necrons/FlayedOne:AttackCount" value="3"/>
-	<entry name="Necrons/FlayedOne:Broken#0" value="…esssscape…"/>
-	<entry name="Necrons/FlayedOne:BrokenCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Hurt#0" value="…flesh wound…"/>
-	<entry name="Necrons/FlayedOne:HurtCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Idle#0" value="…hunger…"/>
-	<entry name="Necrons/FlayedOne:Idle#1" value="…linger…"/>
-	<entry name="Necrons/FlayedOne:Idle#2" value="…langour…"/>
-	<entry name="Necrons/FlayedOne:IdleCount" value="3"/>
-	<entry name="Necrons/FlayedOne:Shaken#0" value="…Llandu'gor…!"/>
-	<entry name="Necrons/FlayedOne:ShakenCount" value="1"/>
-	<entry name="Necrons/FlayedOne:Victory#0" value="…live again…"/>
-	<entry name="Necrons/FlayedOne:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Attack#0" value="Supporting infantry with fire."/>
-	<entry name="AstraMilitarum/Chimera:Attack#1" value="Transport assaulting."/>
-	<entry name="AstraMilitarum/Chimera:Attack#2" value="Firing everything we've got."/>
-	<entry name="AstraMilitarum/Chimera:AttackCount" value="3"/>
-	<entry name="AstraMilitarum/Chimera:Broken#0" value="Fast armour retreating fast…"/>
-	<entry name="AstraMilitarum/Chimera:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Hurt#0" value="Heavy armour needed!"/>
-	<entry name="AstraMilitarum/Chimera:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Idle#0" value="Awaiting orders"/>
-	<entry name="AstraMilitarum/Chimera:Idle#1" value="Anyone to move?"/>
-	<entry name="AstraMilitarum/Chimera:Idle#2" value="Whose turn is it to polish the lens on the multilaser?"/>
-	<entry name="AstraMilitarum/Chimera:IdleCount" value="3"/>
-	<entry name="AstraMilitarum/Chimera:Shaken#0" value="Get this hunk outta here!"/>
-	<entry name="AstraMilitarum/Chimera:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Chimera:Victory#0" value="Tank shocked."/>
-	<entry name="AstraMilitarum/Chimera:VictoryCount" value="1"/>
-	<entry name="Orks/Warbiker:Attack#0" value="RED WUNZ GO FASTA!"/>
-	<entry name="Orks/Warbiker:Attack#1" value="Dakka dakka dakka!"/>
-	<entry name="Orks/Warbiker:Attack#2" value="Shoot 'em all!"/>
-	<entry name="Orks/Warbiker:AttackCount" value="3"/>
-	<entry name="Orks/Warbiker:Broken#0" value="Fasta fasta fasta fasta…"/>
-	<entry name="Orks/Warbiker:BrokenCount" value="1"/>
-	<entry name="Orks/Warbiker:Hurt#0" value="Oi, Baz, was dat yer wheel or mine?"/>
-	<entry name="Orks/Warbiker:Hurt#1" value="We don't need does bitz anyhow."/>
-	<entry name="Orks/Warbiker:HurtCount" value="2"/>
-	<entry name="Orks/Warbiker:Idle#0" value="move us, fer zog's sake."/>
-	<entry name="Orks/Warbiker:Idle#1" value="Vroom, vroom, dakka, dakka. Does were the days."/>
-	<entry name="Orks/Warbiker:IdleCount" value="2"/>
-	<entry name="Orks/Warbiker:Shaken#0" value="Need sum blue paint, fast!"/>
-	<entry name="Orks/Warbiker:ShakenCount" value="1"/>
-	<entry name="Orks/Warbiker:Victory#0" value="WAAAGH! Kult of Speed! WAAAGH!"/>
-	<entry name="Orks/Warbiker:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#0" value="They seek death at our hands."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#1" value="Crush their skulls 'neath our treads!"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#2" value="They seek death at our hands."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:AttackCount" value="3"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Broken#0" value="The Dark Gods will damn us for this…"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:BrokenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Hurt#0" value="We will not die here, weaklings!"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:HurtCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#0" value="Holding up pretty well for ten thousand years without a service."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#1" value="Dark gods preserve us."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:IdleCount" value="2"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Shaken#0" value="Save yourselves…"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:ShakenCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:Victory#0" value="They're dead. Predictable."/>
-	<entry name="ChaosSpaceMarines/ChaosLandRaider:VictoryCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Attack#0" value="Firing railgun."/>
-	<entry name="Tau/TidewallGunrig:Attack#1" value="Emplacement activated."/>
-	<entry name="Tau/TidewallGunrig:Attack#2" value="Stabilized and ready to fire."/>
-	<entry name="Tau/TidewallGunrig:AttackCount" value="3"/>
-	<entry name="Tau/TidewallGunrig:Broken#0" value="Pulling the gunrig back."/>
-	<entry name="Tau/TidewallGunrig:BrokenCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Hurt#0" value="Shieldwall failing, emplacement compromised."/>
-	<entry name="Tau/TidewallGunrig:HurtCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Idle#0" value="Got any tanks for us to hit?"/>
-	<entry name="Tau/TidewallGunrig:Idle#1" value="Mobile emplacement ready for action."/>
-	<entry name="Tau/TidewallGunrig:IdleCount" value="2"/>
-	<entry name="Tau/TidewallGunrig:Shaken#0" value="The Tidewall can't take this amount of fire!"/>
-	<entry name="Tau/TidewallGunrig:ShakenCount" value="1"/>
-	<entry name="Tau/TidewallGunrig:Victory#0" value="Target… atomised."/>
-	<entry name="Tau/TidewallGunrig:VictoryCount" value="1"/>
-	<entry name="Tyranids/ScythedHierodule" value="Tyranids/Carnifex"/>
-	<entry name="SpaceMarines/Razorback" value="SpaceMarines/Hunter"/>
-	<entry name="Neutral/Umbra:Attack#0" value="…llll…"/>
-	<entry name="Neutral/Umbra:Attack#1" value="(linger)"/>
-	<entry name="Neutral/Umbra:Attack#2" value="Linger…"/>
-	<entry name="Neutral/Umbra:Attack#3" value="…inger…"/>
-	<entry name="Neutral/Umbra:AttackCount" value="4"/>
-	<entry name="Neutral/Umbra:Broken#0" value="Linger…"/>
-	<entry name="Neutral/Umbra:BrokenCount" value="1"/>
-	<entry name="Neutral/Umbra:Hurt#0" value="LIN-"/>
-	<entry name="Neutral/Umbra:HurtCount" value="1"/>
-	<entry name="Neutral/Umbra:Idle#0" value="…"/>
-	<entry name="Neutral/Umbra:Idle#1" value="…linger"/>
-	<entry name="Neutral/Umbra:Idle#2" value="linger…"/>
-	<entry name="Neutral/Umbra:Idle#3" value="…ng…"/>
-	<entry name="Neutral/Umbra:IdleCount" value="4"/>
-	<entry name="Neutral/Umbra:Shaken#0" value="lin…ger…"/>
-	<entry name="Neutral/Umbra:ShakenCount" value="1"/>
-	<entry name="Neutral/Umbra:Victory#0" value="LINGER"/>
-	<entry name="Neutral/Umbra:VictoryCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Attack#0" value="…the enemy will fall…"/>
-	<entry name="Eldar/Wraithblade:Attack#1" value="…join the dead…"/>
-	<entry name="Eldar/Wraithblade:Attack#2" value="…for our Craftworld…"/>
-	<entry name="Eldar/Wraithblade:Attack#3" value="…for the Aeldari…"/>
-	<entry name="Eldar/Wraithblade:AttackCount" value="4"/>
-	<entry name="Eldar/Wraithblade:Broken#0" value="…we fear She Who Thirsts…"/>
-	<entry name="Eldar/Wraithblade:BrokenCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Hurt#0" value="…to die, again?"/>
-	<entry name="Eldar/Wraithblade:HurtCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Idle#0" value="…need guidance…"/>
-	<entry name="Eldar/Wraithblade:Idle#1" value="…we are dead…"/>
-	<entry name="Eldar/Wraithblade:Idle#2" value="…let us rest…"/>
-	<entry name="Eldar/Wraithblade:Idle#3" value="…we live for war…"/>
-	<entry name="Eldar/Wraithblade:IdleCount" value="4"/>
-	<entry name="Eldar/Wraithblade:Shaken#0" value="…fear is beyond us…"/>
-	<entry name="Eldar/Wraithblade:ShakenCount" value="1"/>
-	<entry name="Eldar/Wraithblade:Victory#0" value="…they have joined us…"/>
-	<entry name="Eldar/Wraithblade:VictoryCount" value="1"/>
-	<entry name="Eldar/WaveSerpent:Attack#0" value="Firing all systems"/>
-	<entry name="Eldar/WaveSerpent:Attack#1" value="Yes, we're attacking"/>
-	<entry name="Eldar/WaveSerpent:Attack#2" value="Should we fire our Serpent Shield?"/>
-	<entry name="Eldar/WaveSerpent:Attack#3" value="Transport in combat."/>
-	<entry name="Eldar/WaveSerpent:AttackCount" value="4"/>
-	<entry name="Eldar/WaveSerpent:Broken#0" value="Save yourselves!"/>
-	<entry name="Eldar/WaveSerpent:BrokenCount" value="1"/>
-	<entry name="Eldar/WaveSerpent:Hurt#0" value="Shield penetrated."/>
-	<entry name="Eldar/WaveSerpent:HurtCount" value="1"/>
-	<entry name="Eldar/WaveSerpent:Idle#0" value="Ready to move."/>
-	<entry name="Eldar/WaveSerpent:Idle#1" value="Coiled, ready to spring."/>
-	<entry name="Eldar/WaveSerpent:Idle#2" value="Who needs moving?"/>
-	<entry name="Eldar/WaveSerpent:Idle#3" value="What a wonderful world."/>
+    <entry name="AstraMilitarum/TempestusScion:Attack#0" value="Так прайграюць усе ворагі Імперыума."/>
+    <entry name="AstraMilitarum/TempestusScion:Attack#1" value="Ерэтыкі, ксенасы: усе яны падуць."/>
+    <entry name="AstraMilitarum/TempestusScion:Attack#2" value="Пякельныя пушкі напагатове…"/>
+    <entry name="AstraMilitarum/TempestusScion:Attack#3" value="Нашы жыцьці за Тэру!"/>
+    <entry name="AstraMilitarum/TempestusScion:AttackCount" value="4"/>
+    <entry name="AstraMilitarum/TempestusScion:Broken#0" value="Якая ганьба! Штурмавікі адступаюць!"/>
+    <entry name="AstraMilitarum/TempestusScion:BrokenCount" value="1"/>
+    <entry name="AstraMilitarum/TempestusScion:Hurt#0" value="Я з радасьцю аддам жыцьцё за свайго Імператара."/>
+    <entry name="AstraMilitarum/TempestusScion:HurtCount" value="1"/>
+    <entry name="AstraMilitarum/TempestusScion:Idle#0" value="Яны называюць нас 'Хлапчукамі Славы'. Адзіная слава, якую мы шукаем, — гэта слава Імператара."/>
+    <entry name="AstraMilitarum/TempestusScion:Idle#1" value="Палкавы Штандар? Не абавязак, а радасьць чытаьня."/>
+    <entry name="AstraMilitarum/TempestusScion:Idle#2" value="Вы чыталі гэты артыкул пра Марба? Як можа герой ігнараваць рэгуляцыі Муніторума?"/>
+    <entry name="AstraMilitarum/TempestusScion:Idle#3" value="У сталоўцы, адпачынак. Вось гэта жыцьцё."/>
+    <entry name="AstraMilitarum/TempestusScion:IdleCount" value="4"/>
+    <entry name="AstraMilitarum/TempestusScion:Shaken#0" value="Я прайшоў Выпрабаваньні Паслухмянства: я не зьбягу."/>
+    <entry name="AstraMilitarum/TempestusScion:ShakenCount" value="1"/>
+    <entry name="AstraMilitarum/TempestusScion:Victory#0" value="Няхай Гвардыя сьвяткуе. Наша вайна бясконцая."/>
+    <entry name="AstraMilitarum/TempestusScion:VictoryCount" value="1"/>
+    <entry name="Necrons/FlayedOne:Attack#0" value="…плоць"/>
+    <entry name="Necrons/FlayedOne:Attack#1" value="-ірваць-"/>
+    <entry name="Necrons/FlayedOne:Attack#2" value="…разьдзіраць-шматаваць-ірваць…"/>
+    <entry name="Necrons/FlayedOne:AttackCount" value="3"/>
+    <entry name="Necrons/FlayedOne:Broken#0" value="…уцякааааць…"/>
+    <entry name="Necrons/FlayedOne:BrokenCount" value="1"/>
+    <entry name="Necrons/FlayedOne:Hurt#0" value="…драпіна на плоці…"/>
+    <entry name="Necrons/FlayedOne:HurtCount" value="1"/>
+    <entry name="Necrons/FlayedOne:Idle#0" value="…голад…"/>
+    <entry name="Necrons/FlayedOne:Idle#1" value="…чакаць…"/>
+    <entry name="Necrons/FlayedOne:Idle#2" value="…млявасьць…"/>
+    <entry name="Necrons/FlayedOne:IdleCount" value="3"/>
+    <entry name="Necrons/FlayedOne:Shaken#0" value="…Лланду'гор…!"/>
+    <entry name="Necrons/FlayedOne:ShakenCount" value="1"/>
+    <entry name="Necrons/FlayedOne:Victory#0" value="…зноў жыць…"/>
+    <entry name="Necrons/FlayedOne:VictoryCount" value="1"/>
+    <entry name="AstraMilitarum/Chimera:Attack#0" value="Падтрымліваем пяхоту агнём."/>
+    <entry name="AstraMilitarum/Chimera:Attack#1" value="Транспарт ідзе на штурм."/>
+    <entry name="AstraMilitarum/Chimera:Attack#2" value="Страляем з усяго, што маем."/>
+    <entry name="AstraMilitarum/Chimera:AttackCount" value="3"/>
+    <entry name="AstraMilitarum/Chimera:Broken#0" value="Хуткая браня хутка адступае…"/>
+    <entry name="AstraMilitarum/Chimera:BrokenCount" value="1"/>
+    <entry name="AstraMilitarum/Chimera:Hurt#0" value="Патрэбна цяжкая браня!"/>
+    <entry name="AstraMilitarum/Chimera:HurtCount" value="1"/>
+    <entry name="AstraMilitarum/Chimera:Idle#0" value="Чакаем загадаў."/>
+    <entry name="AstraMilitarum/Chimera:Idle#1" value="Каго падвезьці?"/>
+    <entry name="AstraMilitarum/Chimera:Idle#2" value="Чыя чарга паліраваць лінзаў мультылазера?"/>
+    <entry name="AstraMilitarum/Chimera:IdleCount" value="3"/>
+    <entry name="AstraMilitarum/Chimera:Shaken#0" value="Бляшанку трэба прыбраць адсюль!"/>
+    <entry name="AstraMilitarum/Chimera:ShakenCount" value="1"/>
+    <entry name="AstraMilitarum/Chimera:Victory#0" value="Танкавы шок."/>
+    <entry name="AstraMilitarum/Chimera:VictoryCount" value="1"/>
+    <entry name="Orks/Warbiker:Attack#0" value="ЧЫРВОНЫЯ ЕДУЦЬ ХУТЧЭЙ!"/>
+    <entry name="Orks/Warbiker:Attack#1" value="Дака дака дака!"/>
+    <entry name="Orks/Warbiker:Attack#2" value="Пераштраляйце іх усіх!"/>
+    <entry name="Orks/Warbiker:AttackCount" value="3"/>
+    <entry name="Orks/Warbiker:Broken#0" value="Хутчэй хутчэй хутчэй хутчэй…"/>
+    <entry name="Orks/Warbiker:BrokenCount" value="1"/>
+    <entry name="Orks/Warbiker:Hurt#0" value="Гэй, Баз, гэта было тваё кола ці маё?"/>
+    <entry name="Orks/Warbiker:Hurt#1" value="Нам усё адно не патрэбны гэтыя штукі."/>
+    <entry name="Orks/Warbiker:HurtCount" value="2"/>
+    <entry name="Orks/Warbiker:Idle#0" value="рушма, дзеля зога."/>
+    <entry name="Orks/Warbiker:Idle#1" value="Врум, врум, дака, дака. Вось былі часы."/>
+    <entry name="Orks/Warbiker:IdleCount" value="2"/>
+    <entry name="Orks/Warbiker:Shaken#0" value="Трэба трохі сіняй фарбы, хутка!"/>
+    <entry name="Orks/Warbiker:ShakenCount" value="1"/>
+    <entry name="Orks/Warbiker:Victory#0" value="ВАААГХ! Культ Хуткасьці! ВАААГХ!"/>
+    <entry name="Orks/Warbiker:VictoryCount" value="1"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#0" value="Яны шукаюць сьмерці ад нашых рук."/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#1" value="Расьцісьнем іх чэрапы нашымі гусеніцамі!"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Attack#2" value="Яны шукаюць сьмерці ад нашых рук."/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:AttackCount" value="3"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Broken#0" value="Цёмныя Багі праклянуць нас за гэта…"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:BrokenCount" value="1"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Hurt#0" value="Мы не памром тут, слабакі!"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:HurtCount" value="1"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#0" value="Нядрэнна трымаемся для дзесяці тысяч гадоў без абслугоўваньня."/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Idle#1" value="Цёмныя багі, захавайце нас."/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:IdleCount" value="2"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Shaken#0" value="Ратуйцеся…"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:ShakenCount" value="1"/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:Victory#0" value="Яны мёртвыя. Прадказальна."/>
+    <entry name="ChaosSpaceMarines/ChaosLandRaider:VictoryCount" value="1"/>
+    <entry name="Tau/TidewallGunrig:Attack#0" value="Страляем з рэйкавай пушкі."/>
+    <entry name="Tau/TidewallGunrig:Attack#1" value="Умацаваньне актываванае."/>
+    <entry name="Tau/TidewallGunrig:Attack#2" value="Стабілізаваныя і гатовыя да стральбы."/>
+    <entry name="Tau/TidewallGunrig:AttackCount" value="3"/>
+    <entry name="Tau/TidewallGunrig:Broken#0" value="Адцягваем гарматную ўсталёўку."/>
+    <entry name="Tau/TidewallGunrig:BrokenCount" value="1"/>
+    <entry name="Tau/TidewallGunrig:Hurt#0" value="Шчытавая сьцяна адказвае, ўсталёўка пад пагрозай."/>
+    <entry name="Tau/TidewallGunrig:HurtCount" value="1"/>
+    <entry name="Tau/TidewallGunrig:Idle#0" value="Маеце танкі для нас?"/>
+    <entry name="Tau/TidewallGunrig:Idle#1" value="Мабільная ўсталёўка гатовая да дзеяньня."/>
+    <entry name="Tau/TidewallGunrig:IdleCount" value="2"/>
+    <entry name="Tau/TidewallGunrig:Shaken#0" value="Хвалёвая Сьцяна не вытрымае столькі агню!"/>
+    <entry name="Tau/TidewallGunrig:ShakenCount" value="1"/>
+    <entry name="Tau/TidewallGunrig:Victory#0" value="Цэль… атамізаваная."/>
+    <entry name="Tau/TidewallGunrig:VictoryCount" value="1"/>
+    <entry name="Tyranids/ScythedHierodule" value="Tyranids/Carnifex"/>
+    <entry name="SpaceMarines/Razorback" value="SpaceMarines/Hunter"/>
+    <entry name="Neutral/Umbra:Attack#0" value="…лллл…"/>
+    <entry name="Neutral/Umbra:Attack#1" value="(затрымацца)"/>
+    <entry name="Neutral/Umbra:Attack#2" value="Затрымацца…"/>
+    <entry name="Neutral/Umbra:Attack#3" value="…рымацца…"/>
+    <entry name="Neutral/Umbra:AttackCount" value="4"/>
+    <entry name="Neutral/Umbra:Broken#0" value="Затрымацца…"/>
+    <entry name="Neutral/Umbra:BrokenCount" value="1"/>
+    <entry name="Neutral/Umbra:Hurt#0" value="ЗАТР-"/>
+    <entry name="Neutral/Umbra:HurtCount" value="1"/>
+    <entry name="Neutral/Umbra:Idle#0" value="…"/>
+    <entry name="Neutral/Umbra:Idle#1" value="…затрымацца"/>
+    <entry name="Neutral/Umbra:Idle#2" value="затрымацца…"/>
+    <entry name="Neutral/Umbra:Idle#3" value="…рм…"/>
+    <entry name="Neutral/Umbra:IdleCount" value="4"/>
+    <entry name="Neutral/Umbra:Shaken#0" value="зат…рымацца…"/>
+    <entry name="Neutral/Umbra:ShakenCount" value="1"/>
+    <entry name="Neutral/Umbra:Victory#0" value="ЗАТРЫМАЦЦА"/>
+    <entry name="Neutral/Umbra:VictoryCount" value="1"/>
+    <entry name="Eldar/Wraithblade:Attack#0" value="…вораг падзе…"/>
+    <entry name="Eldar/Wraithblade:Attack#1" value="…далучыся да мёртвых…"/>
+    <entry name="Eldar/Wraithblade:Attack#2" value="…за наш Штучны Сьвет…"/>
+    <entry name="Eldar/Wraithblade:Attack#3" value="…за Аэльдары…"/>
+    <entry name="Eldar/Wraithblade:AttackCount" value="4"/>
+    <entry name="Eldar/Wraithblade:Broken#0" value="…мы баімся Тую, Што Прагне…"/>
+    <entry name="Eldar/Wraithblade:BrokenCount" value="1"/>
+    <entry name="Eldar/Wraithblade:Hurt#0" value="…памерці, зноў?"/>
+    <entry name="Eldar/Wraithblade:HurtCount" value="1"/>
+    <entry name="Eldar/Wraithblade:Idle#0" value="…патрабуецца настаўленьне…"/>
+    <entry name="Eldar/Wraithblade:Idle#1" value="…мы мёртвыя…"/>
+    <entry name="Eldar/Wraithblade:Idle#2" value="…дайце нам адпачыць…"/>
+    <entry name="Eldar/Wraithblade:Idle#3" value="…мы жывём дзеля вайны…"/>
+    <entry name="Eldar/Wraithblade:IdleCount" value="4"/>
+    <entry name="Eldar/Wraithblade:Shaken#0" value="…страх нам невядомы…"/>
+    <entry name="Eldar/Wraithblade:ShakenCount" value="1"/>
+    <entry name="Eldar/Wraithblade:Victory#0" value="…яны далучыліся да нас…"/>
+    <entry name="Eldar/Wraithblade:VictoryCount" value="1"/>
+    <entry name="Eldar/WaveSerpent:Attack#0" value="Страляем з усіх сістэм."/>
+    <entry name="Eldar/WaveSerpent:Attack#1" value="Так, мы атакуем."/>
+    <entry name="Eldar/WaveSerpent:Attack#2" value="Ці варта нам страляць са Зьмяінага Шчыта?"/>
+    <entry name="Eldar/WaveSerpent:Attack#3" value="Транспарт у баі."/>
+    <entry name="Eldar/WaveSerpent:AttackCount" value="4"/>
+    <entry name="Eldar/WaveSerpent:Broken#0" value="Ратуйцеся!"/>
+    <entry name="Eldar/WaveSerpent:BrokenCount" value="1"/>
+    <entry name="Eldar/WaveSerpent:Hurt#0" value="Шчыт прабіты."/>
+    <entry name="Eldar/WaveSerpent:HurtCount" value="1"/>
+    <entry name="Eldar/WaveSerpent:Idle#0" value="Гатовы рушыць."/>
+    <entry name="Eldar/WaveSerpent:Idle#1" value="Згорнутыя, гатовыя да кідка."/>
+    <entry name="Eldar/WaveSerpent:Idle#2" value="Каго трэба перавезьці?"/>
+    <entry name="Eldar/WaveSerpent:Idle#3" value="Які цудоўны сьвет."/>
 	<entry name="Eldar/WaveSerpent:IdleCount" value="4"/>
 	<entry name="Eldar/WaveSerpent:Shaken#0" value="Get us out of here!"/>
 	<entry name="Eldar/WaveSerpent:ShakenCount" value="1"/>
