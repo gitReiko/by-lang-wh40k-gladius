@@ -2969,77 +2969,77 @@
     <entry name="Eldar/Warlock:VictoryCount" value="1"/>
     <entry name="Necrons/CanoptekWraith" value="Necrons/CanoptekScarab"/>
     <entry name="Orks/KillBursta" value="Orks/Battlewagon"/>
-    <entry name="SpaceMarines/DevastatorCenturion:Attack#0" value="Мэтавальная на брану, Слава Імператару."/>
-    <entry name="SpaceMarines/DevastatorCenturion:Attack#1" value="Канцэнтрацыя агню."/>
-    <entry name="SpaceMarines/DevastatorCenturion:Attack#2" value="Спецыялісты асарды на пазіцыях."/>
-    <entry name="SpaceMarines/DevastatorCenturion:Attack#3" value="Вялікая дальнасць, нізкія шанцы."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Attack#0" value="Цэлься ў браню, Слава Імператару."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Attack#1" value="Канцэнтруем агонь."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Attack#2" value="Аблогавыя сьпецыялісты на пазіцыях."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Attack#3" value="Большая далёкасьць, ніжэйшыя шанцы."/>
     <entry name="SpaceMarines/DevastatorCenturion:AttackCount" value="4"/>
-    <entry name="SpaceMarines/DevastatorCenturion:Broken#0" value="Касьцюмы трымаюцца, але мы адступаем."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Broken#0" value="Гарнітуры трымаюцца, але мы адступаем."/>
     <entry name="SpaceMarines/DevastatorCenturion:BrokenCount" value="1"/>
     <entry name="SpaceMarines/DevastatorCenturion:Hurt#0" value="Прабілі брану… абодва камплекты."/>
     <entry name="SpaceMarines/DevastatorCenturion:HurtCount" value="1"/>
     <entry name="SpaceMarines/DevastatorCenturion:Idle#0" value="Прасоўваемся, павольна."/>
     <entry name="SpaceMarines/DevastatorCenturion:Idle#1" value="Здымаю адзін камплект браны."/>
-    <entry name="SpaceMarines/DevastatorCenturion:Idle#2" value="Эх, каб нашыя папярэднікі мелі такія касьцюмы падчас Ерасі."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Idle#2" value="Каб нашыя папярэднікі мелі такія гарнітуры падчас Ерасі."/>
     <entry name="SpaceMarines/DevastatorCenturion:Idle#3" value="Рыхтуем аблогавую брану."/>
     <entry name="SpaceMarines/DevastatorCenturion:IdleCount" value="4"/>
-    <entry name="SpaceMarines/DevastatorCenturion:Shaken#0" value="Касьцюм пад агнём, але трымаецца."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Shaken#0" value="Гарнітур пад агнём, але трымаецца."/>
     <entry name="SpaceMarines/DevastatorCenturion:ShakenCount" value="1"/>
-    <entry name="SpaceMarines/DevastatorCenturion:Victory#0" value="Яны… спустошаны."/>
+    <entry name="SpaceMarines/DevastatorCenturion:Victory#0" value="Яны… зруйнованы."/>
     <entry name="SpaceMarines/DevastatorCenturion:VictoryCount" value="1"/>
     <entry name="Tau/TigerShark" value="RazorsharkStrikeFighter"/>
     <entry name="Tyranids/Venomthrope" value="Tyranids/Carnifex"/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#0" value="Шшшшшх."/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#1" value="Вой: Трансакустыка."/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#2" value="Пакрыты: Неўрастатычны спектр."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#1" value="Вой: Трансгукавы."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#2" value="Укрыцьце: Неўрастатычны сьпектар."/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:Attack#3" value="Пакалечаны: Вораг."/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:AttackCount" value="4"/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Broken#0" value="Смеласць: Страчана."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Broken#0" value="Смеласьць: Страчана."/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:BrokenCount" value="1"/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:Hurt#0" value="Смерць: Паўторна."/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:HurtCount" value="1"/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#0" value="Прастой: Бездзеянне."/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#1" value="Запыт дадзеных: Запісы рэлаксацыі."/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#2" value="Вывучэнне: Лінгва Тэхніс."/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#3" value="Запэўніванне: патэнцыйны прэтэндэнт."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#0" value="Прастой: Бездзейнасьць."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#1" value="Запыт Дадзеных: Адпачывальныя Запісы."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#2" value="Вывучэньне: Лінгва Тэхніс."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Idle#3" value="Запэўніваньне: Патэнцыйны Прэтэндэнт."/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:IdleCount" value="4"/>
-    <entry name="AdeptusMechanicus/SicarianInfiltrator:Shaken#0" value="Небяспека: Небяспека."/>
+    <entry name="AdeptusMechanicus/SicarianInfiltrator:Shaken#0" value="Небясьпека: Небясьпека."/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:ShakenCount" value="1"/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:Victory#0" value="Гонар: Трыумф."/>
     <entry name="AdeptusMechanicus/SicarianInfiltrator:VictoryCount" value="1"/>
-    <entry name="Orks/MegatrakkScrapjet:Attack#0" value="Уіііііі, даккадаккадакка"/>
-    <entry name="Orks/MegatrakkScrapjet:Attack#1" value="Не, не бегчы. Атрымай бурэнне!"/>
+    <entry name="Orks/MegatrakkScrapjet:Attack#0" value="Віііііі, даккадаккадакка"/>
+    <entry name="Orks/MegatrakkScrapjet:Attack#1" value="Не, не ляці. Здабудзь дзіркі!"/>
     <entry name="Orks/MegatrakkScrapjet:Attack#2" value="ЦІСНІ НА ЎСЕ КНОПКІ"/>
-    <entry name="Orks/MegatrakkScrapjet:Attack#3" value="ВААААГХ ЛЯТАЮЧЫЯ ХЛОПЦЫ!"/>
+    <entry name="Orks/MegatrakkScrapjet:Attack#3" value="ВААААГХ ЛЁТАХЛОПЦЫ!"/>
     <entry name="Orks/MegatrakkScrapjet:AttackCount" value="4"/>
-    <entry name="Orks/MegatrakkScrapjet:Broken#0" value="Розбіліся, зноў?!"/>
+    <entry name="Orks/MegatrakkScrapjet:Broken#0" value="Разьбіліся, жноў?!"/>
     <entry name="Orks/MegatrakkScrapjet:BrokenCount" value="1"/>
-    <entry name="Orks/MegatrakkScrapjet:Hurt#0" value="Яны здарвалі дзверы!"/>
+    <entry name="Orks/MegatrakkScrapjet:Hurt#0" value="Яны адарвалі дзьверы!"/>
     <entry name="Orks/MegatrakkScrapjet:HurtCount" value="1"/>
-    <entry name="Orks/MegatrakkScrapjet:Idle#0" value="Бос сказаў я пакарэны! Я яму пакажу!"/>
-    <entry name="Orks/MegatrakkScrapjet:Idle#1" value="Хочацца быць там угары, каб страляць сюды ўніз"/>
-    <entry name="Orks/MegatrakkScrapjet:Idle#2" value="ЧАМУ МЫ НЕ РУХАЕМСЯ?!"/>
-    <entry name="Orks/MegatrakkScrapjet:Idle#3" value="Хмм. Трэба больш бомб."/>
+    <entry name="Orks/MegatrakkScrapjet:Idle#0" value="Бос шказаў: я заземлены! Я яму пакажу!"/>
+    <entry name="Orks/MegatrakkScrapjet:Idle#1" value="Хочацца быць тамака, каб штраляць тудамака"/>
+    <entry name="Orks/MegatrakkScrapjet:Idle#2" value="ЧАМУ МЫ НЯ РУХАЕМСЯ?!"/>
+    <entry name="Orks/MegatrakkScrapjet:Idle#3" value="Хмм. Трэба больш бомбаў."/>
     <entry name="Orks/MegatrakkScrapjet:IdleCount" value="4"/>
-    <entry name="Orks/MegatrakkScrapjet:Shaken#0" value="Зеніткі? ГЭТА ЎСЁ ШТО Ў ВАС ЁСЦЬ?"/>
+    <entry name="Orks/MegatrakkScrapjet:Shaken#0" value="Зеніткі? ГЭТА ЎСЁ ШТО ВЫ МАЕЦЕ?"/>
     <entry name="Orks/MegatrakkScrapjet:ShakenCount" value="1"/>
-    <entry name="Orks/MegatrakkScrapjet:Victory#0" value="ОРКІ НАЙЛЕПШЫЯ, прабурыце гэта ў іх мазгах."/>
+    <entry name="Orks/MegatrakkScrapjet:Victory#0" value="ОРКІ ЛЕПШЫЯ, праштраляй гэта ў іх."/>
     <entry name="Orks/MegatrakkScrapjet:VictoryCount" value="1"/>
     <entry name="AstraMilitarum/DevilDog:Attack#0" value="Глядзі як яны плавяцца."/>
     <entry name="AstraMilitarum/DevilDog:Attack#1" value="Попел да попелу."/>
     <entry name="AstraMilitarum/DevilDog:Attack#2" value="А вось і Д'ябальскія Псы! Ху-я!"/>
-    <entry name="AstraMilitarum/DevilDog:Attack#3" value="Тэрмаяд яшчэ ніколі не быў такім прыемным."/>
+    <entry name="AstraMilitarum/DevilDog:Attack#3" value="Фузійка яшчэ ніколі не адчувалася так прыемна."/>
     <entry name="AstraMilitarum/DevilDog:AttackCount" value="4"/>
     <entry name="AstraMilitarum/DevilDog:Broken#0" value="Гэта штука зараз выбухне!"/>
     <entry name="AstraMilitarum/DevilDog:BrokenCount" value="1"/>
-    <entry name="AstraMilitarum/DevilDog:Hurt#0" value="Трымайце іх далей ад бакаў з праметэем!"/>
+    <entry name="AstraMilitarum/DevilDog:Hurt#0" value="Трымайце іх далей ад прометыумных танкаў!"/>
     <entry name="AstraMilitarum/DevilDog:HurtCount" value="1"/>
     <entry name="AstraMilitarum/DevilDog:Idle#0" value="Што тут смажыцца?"/>
-    <entry name="AstraMilitarum/DevilDog:Idle#1" value="Калі ўжо прывязуць Пеклаўзгоншчыкаў?"/>
-    <entry name="AstraMilitarum/DevilDog:Idle#2" value="Пагубныя Ваўкі… гэтыя хлопцы мяне палохаюць."/>
+    <entry name="AstraMilitarum/DevilDog:Idle#1" value="Калі ўжо прывязуць Пякельных Ганчакоў?"/>
+    <entry name="AstraMilitarum/DevilDog:Idle#2" value="Праклятыя Ваўкі… гэтыя хлопцы палохаюць мяне."/>
     <entry name="AstraMilitarum/DevilDog:Idle#3" value="Холодна, калі гарматы не страляюць."/>
     <entry name="AstraMilitarum/DevilDog:IdleCount" value="4"/>
-    <entry name="AstraMilitarum/DevilDog:Shaken#0" value="Жмі на «Вульканар» і выводзь нас з зоны агню!"/>
+    <entry name="AstraMilitarum/DevilDog:Shaken#0" value="Жмі на Вульканор і выводзь нас з зоны агню!"/>
     <entry name="AstraMilitarum/DevilDog:ShakenCount" value="1"/>
     <entry name="AstraMilitarum/DevilDog:Victory#0" value="Перагрэтае паветра… пахне перамогай."/>
 	<entry name="AstraMilitarum/DevilDog:VictoryCount" value="1"/>
