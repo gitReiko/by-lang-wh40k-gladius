@@ -3494,113 +3494,113 @@
     <entry name="Tau/RVarnaBattlesuit:Victory#0" value="Там больш нічога не варушыцца."/>
 	<entry name="Tau/RVarnaBattlesuit:VictoryCount" value="1"/>
 	<entry name="Tyranids/Tyrannocyte" value="Tyranids/Carnifex"/>
-	<entry name="Drukhari/Archon:Attack#0" value="Suffering is your lot!"/>
-	<entry name="Drukhari/Archon:Attack#1" value="Fools, to stand against me."/>
-	<entry name="Drukhari/Archon:Attack#2" value="You are barely worth the killing."/>
-	<entry name="Drukhari/Archon:Attack#3" value="Oh, sweet fear and agony."/>
+    <entry name="Drukhari/Archon:Attack#0" value="Пакуты — ваша доля!"/>
+    <entry name="Drukhari/Archon:Attack#1" value="Дурні, што паўсталі супраць мяне."/>
+    <entry name="Drukhari/Archon:Attack#2" value="Вы ледзь вартыя таго, каб вас забіць."/>
+    <entry name="Drukhari/Archon:Attack#3" value="О, салодкі страх і агонія."/>
 	<entry name="Drukhari/Archon:AttackCount" value="4"/>
-	<entry name="Drukhari/Archon:Broken#0" value="Back, back to the city of shadows!"/>
-	<entry name="Drukhari/Archon:BrokenCount" value="1"/>
-	<entry name="Drukhari/Archon:Hurt#0" value="A lucky blow."/>
-	<entry name="Drukhari/Archon:HurtCount" value="1"/>
-	<entry name="Drukhari/Archon:Idle#0" value="Simple torments, simple pleasures."/>
-	<entry name="Drukhari/Archon:Idle#1" value="Have we killed them all already? Pity."/>
-	<entry name="Drukhari/Archon:Idle#2" value="The riches of this world are merely the suffering of its people."/>
-	<entry name="Drukhari/Archon:Idle#3" value="How to fill the idle aeons, ahhh…"/>
-	<entry name="Drukhari/Archon:IdleCount" value="4"/>
-	<entry name="Drukhari/Archon:Shaken#0" value="If this continues, it will take a Haemonculus to wake me…"/>
-	<entry name="Drukhari/Archon:ShakenCount" value="1"/>
-	<entry name="Drukhari/Archon:Victory#0" value="What did you expect? Pitiful."/>
-	<entry name="Drukhari/Archon:VictoryCount" value="1"/>
-	<entry name="Drukhari/Cronos:Attack#0" value="Hrrrr."/>
-	<entry name="Drukhari/Cronos:Attack#1" value="…memory…"/>
-	<entry name="Drukhari/Cronos:Attack#2" value="Cthhh…"/>
-	<entry name="Drukhari/Cronos:Attack#3" value="Rrrr…"/>
-	<entry name="Drukhari/Cronos:AttackCount" value="4"/>
-	<entry name="Drukhari/Cronos:Broken#0" value="…"/>
-	<entry name="Drukhari/Cronos:BrokenCount" value="1"/>
-	<entry name="Drukhari/Cronos:Hurt#0" value="Hrrr."/>
-	<entry name="Drukhari/Cronos:HurtCount" value="1"/>
-	<entry name="Drukhari/Cronos:Idle#0" value="Pssssst…"/>
-	<entry name="Drukhari/Cronos:Idle#1" value="Thrrrt."/>
-	<entry name="Drukhari/Cronos:Idle#2" value="Thffffttt."/>
-	<entry name="Drukhari/Cronos:Idle#3" value="Tcht."/>
-	<entry name="Drukhari/Cronos:IdleCount" value="4"/>
-	<entry name="Drukhari/Cronos:Shaken#0" value="Eeeee!"/>
-	<entry name="Drukhari/Cronos:ShakenCount" value="1"/>
-	<entry name="Drukhari/Cronos:Victory#0" value="Psst."/>
-	<entry name="Drukhari/Cronos:VictoryCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Attack#0" value="The art of agony!"/>
-	<entry name="Drukhari/Haemonculus:Attack#1" value="Suffer, suffer, suffer!"/>
-	<entry name="Drukhari/Haemonculus:Attack#2" value="With pain, I renew."/>
-	<entry name="Drukhari/Haemonculus:Attack#3" value="Let me play on their nerves."/>
-	<entry name="Drukhari/Haemonculus:AttackCount" value="4"/>
-	<entry name="Drukhari/Haemonculus:Broken#0" value="Perhaps another time?"/>
-	<entry name="Drukhari/Haemonculus:BrokenCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Hurt#0" value="My own pain will suffice."/>
-	<entry name="Drukhari/Haemonculus:HurtCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Idle#0" value="What sweet suffering to gather next?"/>
-	<entry name="Drukhari/Haemonculus:Idle#1" value="Do I remember the fall? Do I?"/>
-	<entry name="Drukhari/Haemonculus:Idle#2" value="My experiments bear fruit."/>
-	<entry name="Drukhari/Haemonculus:Idle#3" value="Where are my wracks? I require attention!"/>
-	<entry name="Drukhari/Haemonculus:IdleCount" value="4"/>
-	<entry name="Drukhari/Haemonculus:Shaken#0" value="Oh, they are puissant! I must have them."/>
-	<entry name="Drukhari/Haemonculus:ShakenCount" value="1"/>
-	<entry name="Drukhari/Haemonculus:Victory#0" value="Now. What did we learn?"/>
-	<entry name="Drukhari/Haemonculus:VictoryCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Attack#0" value="They dare attack our seat of power?"/>
-	<entry name="Drukhari/Headquarters:Attack#1" value="Fools!"/>
-	<entry name="Drukhari/Headquarters:Attack#2" value="What madness to assail our walls."/>
-	<entry name="Drukhari/Headquarters:Attack#3" value="Break yourselves on our crenellations."/>
-	<entry name="Drukhari/Headquarters:AttackCount" value="4"/>
-	<entry name="Drukhari/Headquarters:Broken#0" value="Archon, save your loy- your subjects!"/>
-	<entry name="Drukhari/Headquarters:BrokenCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Hurt#0" value="Breached. But only weaklings died."/>
-	<entry name="Drukhari/Headquarters:HurtCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Idle#0" value="In peacetime, plots."/>
-	<entry name="Drukhari/Headquarters:Idle#1" value="The torture gardens are busy tonight."/>
-	<entry name="Drukhari/Headquarters:Idle#2" value="An aeon of idleness…"/>
-	<entry name="Drukhari/Headquarters:Idle#3" value="The paltry luxuries of this temporary home."/>
-	<entry name="Drukhari/Headquarters:IdleCount" value="4"/>
-	<entry name="Drukhari/Headquarters:Shaken#0" value="Oh, to return to dark Commorragh!"/>
-	<entry name="Drukhari/Headquarters:ShakenCount" value="1"/>
-	<entry name="Drukhari/Headquarters:Victory#0" value="Secure once more."/>
-	<entry name="Drukhari/Headquarters:VictoryCount" value="1"/>
-	<entry name="Drukhari/Hellion:Attack#0" value="The thrill of the kill!"/>
-	<entry name="Drukhari/Hellion:Attack#1" value="Death from above!"/>
-	<entry name="Drukhari/Hellion:Attack#2" value="We swoop, we strike!"/>
-	<entry name="Drukhari/Hellion:Attack#3" value="Overwhelming sensation!"/>
-	<entry name="Drukhari/Hellion:AttackCount" value="4"/>
-	<entry name="Drukhari/Hellion:Broken#0" value="Away, afore they snare us!"/>
-	<entry name="Drukhari/Hellion:BrokenCount" value="1"/>
-	<entry name="Drukhari/Hellion:Hurt#0" value="The slow have fallen."/>
-	<entry name="Drukhari/Hellion:HurtCount" value="1"/>
-	<entry name="Drukhari/Hellion:Idle#0" value="We will not wait!"/>
-	<entry name="Drukhari/Hellion:Idle#1" value="The skies call! The lightning beckons!"/>
-	<entry name="Drukhari/Hellion:Idle#2" value="Stillness is torment!"/>
-	<entry name="Drukhari/Hellion:Idle#3" value="Unleash us, Archon!"/>
-	<entry name="Drukhari/Hellion:IdleCount" value="4"/>
-	<entry name="Drukhari/Hellion:Shaken#0" value="Grounded, we die."/>
-	<entry name="Drukhari/Hellion:ShakenCount" value="1"/>
-	<entry name="Drukhari/Hellion:Victory#0" value="Faster, faster they fall!"/>
-	<entry name="Drukhari/Hellion:VictoryCount" value="1"/>
-	<entry name="Drukhari/Incubi:Attack#0" value="We are one with the klaive."/>
-	<entry name="Drukhari/Incubi:Attack#1" value="The killing strike… just so."/>
-	<entry name="Drukhari/Incubi:Attack#2" value="We offer the weak to Khaine."/>
-	<entry name="Drukhari/Incubi:Attack#3" value="Paid to kill."/>
-	<entry name="Drukhari/Incubi:AttackCount" value="4"/>
-	<entry name="Drukhari/Incubi:Broken#0" value="Khaine does not forgive cowards."/>
-	<entry name="Drukhari/Incubi:BrokenCount" value="1"/>
-	<entry name="Drukhari/Incubi:Hurt#0" value="A true opponent."/>
-	<entry name="Drukhari/Incubi:HurtCount" value="1"/>
-	<entry name="Drukhari/Incubi:Idle#0" value="No betrayal 'til the covenant's done."/>
-	<entry name="Drukhari/Incubi:Idle#1" value="Our time is bought… it would be a waste not to use us."/>
-	<entry name="Drukhari/Incubi:Idle#2" value="There is a purity in hate."/>
-	<entry name="Drukhari/Incubi:Idle#3" value="Follow Arha and the Path of Damnation."/>
-	<entry name="Drukhari/Incubi:IdleCount" value="4"/>
-	<entry name="Drukhari/Incubi:Shaken#0" value="No-one shall walk the Path of Grief for such as we."/>
-	<entry name="Drukhari/Incubi:ShakenCount" value="1"/>
-	<entry name="Drukhari/Incubi:Victory#0" value="Tribute for Khaine."/>
+    <entry name="Drukhari/Archon:Broken#0" value="Назад, назад у горад ценяў!"/>
+    <entry name="Drukhari/Archon:BrokenCount" value="1"/>
+    <entry name="Drukhari/Archon:Hurt#0" value="Удалы ўдар."/>
+    <entry name="Drukhari/Archon:HurtCount" value="1"/>
+    <entry name="Drukhari/Archon:Idle#0" value="Простыя пакуты, простая асалоды."/>
+    <entry name="Drukhari/Archon:Idle#1" value="Мы ўжо ўсіх забілі? Шкада."/>
+    <entry name="Drukhari/Archon:Idle#2" value="Багацьці гэтага сьвету — гэта толькі пакуты ягоных людзей."/>
+    <entry name="Drukhari/Archon:Idle#3" value="Чым запоўніць бязьдзейныя эоны, аххх…"/>
+    <entry name="Drukhari/Archon:IdleCount" value="4"/>
+    <entry name="Drukhari/Archon:Shaken#0" value="Калі так працягнецца, спатрэбіцца Гамункулус, каб абудзіць мяне…"/>
+    <entry name="Drukhari/Archon:ShakenCount" value="1"/>
+    <entry name="Drukhari/Archon:Victory#0" value="А чаго вы чакалі? Вартыя жалю."/>
+    <entry name="Drukhari/Archon:VictoryCount" value="1"/>
+    <entry name="Drukhari/Cronos:Attack#0" value="Хрррр."/>
+    <entry name="Drukhari/Cronos:Attack#1" value="…памяць…"/>
+    <entry name="Drukhari/Cronos:Attack#2" value="Ктххх…"/>
+    <entry name="Drukhari/Cronos:Attack#3" value="Рррр…"/>
+    <entry name="Drukhari/Cronos:AttackCount" value="4"/>
+    <entry name="Drukhari/Cronos:Broken#0" value="…"/>
+    <entry name="Drukhari/Cronos:BrokenCount" value="1"/>
+    <entry name="Drukhari/Cronos:Hurt#0" value="Хррр."/>
+    <entry name="Drukhari/Cronos:HurtCount" value="1"/>
+    <entry name="Drukhari/Cronos:Idle#0" value="Пссссст…"/>
+    <entry name="Drukhari/Cronos:Idle#1" value="Тхрррт."/>
+    <entry name="Drukhari/Cronos:Idle#2" value="Тхффффт."/>
+    <entry name="Drukhari/Cronos:Idle#3" value="Тчт."/>
+    <entry name="Drukhari/Cronos:IdleCount" value="4"/>
+    <entry name="Drukhari/Cronos:Shaken#0" value="Ііііі!"/>
+    <entry name="Drukhari/Cronos:ShakenCount" value="1"/>
+    <entry name="Drukhari/Cronos:Victory#0" value="Псст."/>
+    <entry name="Drukhari/Cronos:VictoryCount" value="1"/>
+    <entry name="Drukhari/Haemonculus:Attack#0" value="Мастацтва агоніі!"/>
+    <entry name="Drukhari/Haemonculus:Attack#1" value="Пакутуйце, пакутуйце, пакутуйце!"/>
+    <entry name="Drukhari/Haemonculus:Attack#2" value="Праз боль я аднаўляюся."/>
+    <entry name="Drukhari/Haemonculus:Attack#3" value="Дазвольце мне згуляць на іх нервах."/>
+    <entry name="Drukhari/Haemonculus:AttackCount" value="4"/>
+    <entry name="Drukhari/Haemonculus:Broken#0" value="Магчыма, іншым разам?"/>
+    <entry name="Drukhari/Haemonculus:BrokenCount" value="1"/>
+    <entry name="Drukhari/Haemonculus:Hurt#0" value="Майго ўласнага болю хопіць."/>
+    <entry name="Drukhari/Haemonculus:HurtCount" value="1"/>
+    <entry name="Drukhari/Haemonculus:Idle#0" value="Якія салодкія пакуты сабраць наступнымі?"/>
+    <entry name="Drukhari/Haemonculus:Idle#1" value="Ці памятаю я заняпад? Ці памятаю?"/>
+    <entry name="Drukhari/Haemonculus:Idle#2" value="Мае эксьперыменты прыносяць плён."/>
+    <entry name="Drukhari/Haemonculus:Idle#3" value="Дзе мае разваліны? Я патрабую ўвагі!"/>
+    <entry name="Drukhari/Haemonculus:IdleCount" value="4"/>
+    <entry name="Drukhari/Haemonculus:Shaken#0" value="О, яны магутныя! Я мушу мець іх."/>
+    <entry name="Drukhari/Haemonculus:ShakenCount" value="1"/>
+    <entry name="Drukhari/Haemonculus:Victory#0" value="Зараз. Чаму мы навучыліся?"/>
+    <entry name="Drukhari/Haemonculus:VictoryCount" value="1"/>
+    <entry name="Drukhari/Headquarters:Attack#0" value="Яны адважваюць нападаць на гаспадарскі трон?"/>
+    <entry name="Drukhari/Headquarters:Attack#1" value="Дурні!"/>
+    <entry name="Drukhari/Headquarters:Attack#2" value="Што за утрапёнасьць ісьці на нашыя муры."/>
+    <entry name="Drukhari/Headquarters:Attack#3" value="Разьбіцеся аб нашыя байніцы."/>
+    <entry name="Drukhari/Headquarters:AttackCount" value="4"/>
+    <entry name="Drukhari/Headquarters:Broken#0" value="Архон, выратуй сваіх адд- сваіх падданых!"/>
+    <entry name="Drukhari/Headquarters:BrokenCount" value="1"/>
+    <entry name="Drukhari/Headquarters:Hurt#0" value="Прабіцьцё. Але загінулі толькі слабакі."/>
+    <entry name="Drukhari/Headquarters:HurtCount" value="1"/>
+    <entry name="Drukhari/Headquarters:Idle#0" value="У мірны час — інтрыгі."/>
+    <entry name="Drukhari/Headquarters:Idle#1" value="Сады катаваньняў сёньня ўначы занятыя."/>
+    <entry name="Drukhari/Headquarters:Idle#2" value="Эон нячыннасьці…"/>
+    <entry name="Drukhari/Headquarters:Idle#3" value="Мізэрная раскоша гэтага часовага жытла."/>
+    <entry name="Drukhari/Headquarters:IdleCount" value="4"/>
+    <entry name="Drukhari/Headquarters:Shaken#0" value="О, вярнуцца б у цёмны Камморраг!"/>
+    <entry name="Drukhari/Headquarters:ShakenCount" value="1"/>
+    <entry name="Drukhari/Headquarters:Victory#0" value="Зноў у бясьпецы."/>
+    <entry name="Drukhari/Headquarters:VictoryCount" value="1"/>
+    <entry name="Drukhari/Hellion:Attack#0" value="Азарт забойства!"/>
+    <entry name="Drukhari/Hellion:Attack#1" value="Сьмерць зьверху!"/>
+    <entry name="Drukhari/Hellion:Attack#2" value="Мы пікіруем, мы б'ём!"/>
+    <entry name="Drukhari/Hellion:Attack#3" value="Ашаламляльнае адчуваньне!"/>
+    <entry name="Drukhari/Hellion:AttackCount" value="4"/>
+    <entry name="Drukhari/Hellion:Broken#0" value="Прэч, пакуль яны не злавілі нас!"/>
+    <entry name="Drukhari/Hellion:BrokenCount" value="1"/>
+    <entry name="Drukhari/Hellion:Hurt#0" value="Павольныя палі."/>
+    <entry name="Drukhari/Hellion:HurtCount" value="1"/>
+    <entry name="Drukhari/Hellion:Idle#0" value="Мы ня будзем чакаць!"/>
+    <entry name="Drukhari/Hellion:Idle#1" value="Нябёсы клічуць! Маланка вабіць!"/>
+    <entry name="Drukhari/Hellion:Idle#2" value="Нерухомасьць — гэта пакута!"/>
+    <entry name="Drukhari/Hellion:Idle#3" value="Вызвалі нас, Архон!"/>
+    <entry name="Drukhari/Hellion:IdleCount" value="4"/>
+    <entry name="Drukhari/Hellion:Shaken#0" value="Прыземленыя, мы паміраем."/>
+    <entry name="Drukhari/Hellion:ShakenCount" value="1"/>
+    <entry name="Drukhari/Hellion:Victory#0" value="Хутчэй, хутчэй яны палі!"/>
+    <entry name="Drukhari/Hellion:VictoryCount" value="1"/>
+    <entry name="Drukhari/Incubi:Attack#0" value="Мы адно цэлае з клефай."/>
+    <entry name="Drukhari/Incubi:Attack#1" value="Сьмяротны ўдар… менавіта так."/>
+    <entry name="Drukhari/Incubi:Attack#2" value="Мы ахвяруем слабых Кхайну."/>
+    <entry name="Drukhari/Incubi:Attack#3" value="Нам плацяць за забойствы."/>
+    <entry name="Drukhari/Incubi:AttackCount" value="4"/>
+    <entry name="Drukhari/Incubi:Broken#0" value="Кхайн не даруе баязьліўцам."/>
+    <entry name="Drukhari/Incubi:BrokenCount" value="1"/>
+    <entry name="Drukhari/Incubi:Hurt#0" value="Сапраўдны праціўнік."/>
+    <entry name="Drukhari/Incubi:HurtCount" value="1"/>
+    <entry name="Drukhari/Incubi:Idle#0" value="Ніякай здрады, пакуль дамова ня выкананая."/>
+    <entry name="Drukhari/Incubi:Idle#1" value="Наш час набыты… было б марнатраўствам ня выкарыстаць нас."/>
+    <entry name="Drukhari/Incubi:Idle#2" value="У нянавісьці ёсьць чысьціня."/>
+    <entry name="Drukhari/Incubi:Idle#3" value="Ідзіце за Архам і Шляхам Праклёну."/>
+    <entry name="Drukhari/Incubi:IdleCount" value="4"/>
+    <entry name="Drukhari/Incubi:Shaken#0" value="Ніхто ня пойдзе Шляхам Смутку па такіх, як мы."/>
+    <entry name="Drukhari/Incubi:ShakenCount" value="1"/>
+    <entry name="Drukhari/Incubi:Victory#0" value="Даніна для Кхайна."/>
 	<entry name="Drukhari/Incubi:VictoryCount" value="1"/>
 	<entry name="Drukhari/KabaliteTrueborn:Attack#0" value="Chattel!"/>
 	<entry name="Drukhari/KabaliteTrueborn:Attack#1" value="Arrogant fools!"/>
