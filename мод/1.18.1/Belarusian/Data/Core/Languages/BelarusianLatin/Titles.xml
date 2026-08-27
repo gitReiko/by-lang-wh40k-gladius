@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AdeptusMechanicus0" value="Pyłavyja Najeźniki"/>
+	<entry name="AdeptusMechanicus1" value="Dzinajzajry"/>
+	<entry name="AdeptusMechanicus2" value="Hatyčnaja Manipuła"/>
+	<entry name="AdeptusMechanicus3" value="Ud Udzians"/>
+	<entry name="AdeptusMechanicus4" value="Zajbatsun"/>
+	<entry name="AdeptusMechanicus5" value="Teravat Rembriensary"/>
+	<entry name="AdeptusMechanicus6" value="Stalovyja, Paspaviadanyja"/>
+	<entry name="AdeptusMechanicus7" value="Marsijanskija Drahuny"/>
+	<entry name="AdeptusMechanicus8" value="Ziamnyja Młynary"/>
+	<entry name="AdeptusMechanicus9" value="Halden Skryptoryja"/>
+	<entry name="AdeptusMechanicus10" value="Kvestar Pieltasty"/>
+	<entry name="AdeptusMechanicus11" value="Kibieryjadies"/>
+	<entry name="AdeptusMechanicus12" value="Bielizaryjan"/>
+	<entry name="AdeptusMechanicusCount" value="13"/>
+	<entry name="AstraMilitarum0" value="Vieterany Mirała"/>
+	<entry name="AstraMilitarum1" value="Nierehulary Katura"/>
+	<entry name="AstraMilitarum2" value="Hvardyja Pustečaŭ Nurta"/>
+	<entry name="AstraMilitarum3" value="Žalezny Kułak Stuhii"/>
+	<entry name="AstraMilitarum4" value="Kamienny Lehijon Pradys-Zeta"/>
+	<entry name="AstraMilitarum5" value="Horcy Śvietu Chaman"/>
+	<entry name="AstraMilitarum6" value="Škalar Pierlii"/>
+	<entry name="AstraMilitarum7" value="Mściviec Kadyi"/>
+	<entry name="AstraMilitarum8" value="Napamin Tanita"/>
+	<entry name="AstraMilitarum9" value="Haspadary Ialina"/>
+	<entry name="AstraMilitarum10" value="Abłožniki Lelitara"/>
+	<entry name="AstraMilitarum11" value="Ludzi Turmalida"/>
+	<entry name="AstraMilitarumCount" value="12"/>
+	<entry name="ChaosSpaceMarines0" value="Dzieci Vira"/>
+	<entry name="ChaosSpaceMarines1" value="Syny Tyrana"/>
+	<entry name="ChaosSpaceMarines2" value="Zhuba Trupa-Impieratara"/>
+	<entry name="ChaosSpaceMarines3" value="Pakuta Išy"/>
+	<entry name="ChaosSpaceMarines4" value="Viasiołkavyja Jazyki-Raźbiralniki"/>
+	<entry name="ChaosSpaceMarines5" value="Mara pra Caanhory"/>
+	<entry name="ChaosSpaceMarines6" value="Kryvavyja Hončyja"/>
+	<entry name="ChaosSpaceMarines7" value="Šlachi, Źmienienyja"/>
+	<entry name="ChaosSpaceMarines8" value="Kopii Ludziej"/>
+	<entry name="ChaosSpaceMarines9" value="Kipciury Chorusu"/>
+	<entry name="ChaosSpaceMarines10" value="Sałodkija Ahonizatary"/>
+	<entry name="ChaosSpaceMarines11" value="Abniadolenyja"/>
+	<entry name="ChaosSpaceMarinesCount" value="12"/>
+	<entry name="Drukhari0" value="Staramodnyja"/>
+	<entry name="Drukhari1" value="Alebastravyja Pryncy"/>
+	<entry name="Drukhari2" value="Prahnyja Hiercahi"/>
+	<entry name="Drukhari3" value="Vykradalniki Duš"/>
+	<entry name="Drukhari4" value="Spadčyna Kchajna"/>
+	<entry name="Drukhari5" value="Uznaharoda za Pakuty"/>
+	<entry name="Drukhari6" value="Zdradniki ŭ Čakańni"/>
+	<entry name="Drukhari7" value="Śmierć i Vytančanaść"/>
+	<entry name="Drukhari8" value="Zaniapad Kziliana"/>
+	<entry name="Drukhari9" value="Utojniki Krajłłacha"/>
+	<entry name="Drukhari10" value="Noraŭ Illityjana"/>
+	<entry name="Drukhari11" value="Padnačalenyja Šaa-doma"/>
+	<entry name="DrukhariCount" value="12"/>
+	<entry name="Eldar0" value="Dzikija Najeźniki"/>
+	<entry name="Eldar1" value="Pryvidny Ŭradžaj"/>
+	<entry name="Eldar2" value="Kryštalnyja Najeźniki"/>
+	<entry name="Eldar3" value="Ślozy Išy"/>
+	<entry name="Eldar4" value="Mołaty Vauła"/>
+	<entry name="Eldar5" value="Rycary Ekzadyty"/>
+	<entry name="Eldar6" value="Runičnyja Klinki Karhi"/>
+	<entry name="Eldar7" value="Kryk Eldanieša"/>
+	<entry name="Eldar8" value="Pałymianaja Bura"/>
+	<entry name="Eldar9" value="Cieni Cišyni"/>
+	<entry name="Eldar10" value="Palaŭničyja za Dušami"/>
+	<entry name="Eldar11" value="Abaroncy Dzievy"/>
+	<entry name="EldarCount" value="12"/>
+	<entry name="Necrons0" value="Staražytnyja Śledapyty"/>
+	<entry name="Necrons1" value="Załatyja Harpii"/>
+	<entry name="Necrons2" value="Šlachietnaja Hvardyja "/>
+	<entry name="Necrons3" value="Abranyja Vaładara"/>
+	<entry name="Necrons4" value="Anatamisty"/>
+	<entry name="Necrons5" value="Jota Biaskoncaha Roju"/>
+	<entry name="Necrons6" value="Jazyki Ašukanca"/>
+	<entry name="Necrons7" value="Zhuba Skurałupa"/>
+	<entry name="Necrons8" value="Žarynki Pałymianaha"/>
+	<entry name="Necrons9" value="Cieni Čužoha"/>
+	<entry name="Necrons10" value="Śvitanak Niasučaha noč"/>
+	<entry name="NecronsCount" value="11"/>
+	<entry name="Orks0" value="Da Dziva Mob"/>
+	<entry name="Orks1" value="Šalonyja Chłopcy Morka"/>
+	<entry name="Orks2" value="Chitryja Hicy"/>
+	<entry name="Orks3" value="Da Bujnyja Chłopcy"/>
+	<entry name="Orks4" value="Da Hrabiežnik"/>
+	<entry name="Orks5" value="Chłopcy Horka"/>
+	<entry name="Orks6" value="Hoff Varta"/>
+	<entry name="Orks7" value="Kryvavyja Siakiery Horka"/>
+	<entry name="Orks8" value="Šmiertačeryp Hraftas"/>
+	<entry name="Orks9" value="Blaskučyja Moby Drennych Miesiacaŭ"/>
+	<entry name="Orks10" value="Žmiainy Ŭkus Žabojcy Čarviakoŭ"/>
+	<entry name="Orks11" value="Chutkija Vyradki Złych Soncaŭ"/>
+	<entry name="OrksCount" value="12"/>
+	<entry name="SistersOfBattle0" value="Prasicieli Terry"/>
+	<entry name="SistersOfBattle1" value="Dzielenda Esters"/>
+	<entry name="SistersOfBattle2" value="Semptar Verytas"/>
+	<entry name="SistersOfBattle3" value="Alist Ijaktars"/>
+	<entry name="SistersOfBattle4" value="Palčatka Maci"/>
+	<entry name="SistersOfBattle5" value="Vorda Familjarys"/>
+	<entry name="SistersOfBattle6" value="Sklikańnie Aŭrena"/>
+	<entry name="SistersOfBattle7" value="Varta Pustečy"/>
+	<entry name="SistersOfBattle8" value="Nośbity Bene"/>
+	<entry name="SistersOfBattle9" value="Miemuarysty Sełciny"/>
+	<entry name="SistersOfBattle10" value="Praklon Rahuiła"/>
+	<entry name="SistersOfBattle11" value="Luminary"/>
+	<entry name="SistersOfBattleCount" value="12"/>
+	<entry name="SpaceMarines0" value="Niastomnaja Varta"/>
+	<entry name="SpaceMarines1" value="Zasłužanyja Taktyki"/>
+	<entry name="SpaceMarines2" value="Šanavanyja Vieterany"/>
+	<entry name="SpaceMarines3" value="Hanarovyja Dazorcy"/>
+	<entry name="SpaceMarines4" value="Abaronca Hładyusa"/>
+	<entry name="SpaceMarines5" value="Nieśmiarotnyja"/>
+	<entry name="SpaceMarines6" value="Kryž Terminatus"/>
+	<entry name="SpaceMarines7" value="Łaŭry Impieryalis "/>
+	<entry name="SpaceMarines8" value="Honar Strałka"/>
+	<entry name="SpaceMarines9" value="Prajm Śpirali"/>
+	<entry name="SpaceMarines10" value="Piačać Čyścini"/>
+	<entry name="SpaceMarines11" value="Mašyna Vopus"/>
+	<entry name="SpaceMarinesCount" value="12"/>
+	<entry name="Tau0" value="Ciarplivyja Palaŭničyja"/>
+	<entry name="Tau1" value="Prosty Ŭdar"/>
+	<entry name="Tau2" value="Samotnik"/>
+	<entry name="Tau3" value="Nieviadomyja Chvali"/>
+	<entry name="Tau4" value="Vandroŭniki"/>
+	<entry name="Tau5" value="Siabry Ŭsim"/>
+	<entry name="Tau6" value="Adznačanyja Vieličču"/>
+	<entry name="Tau7" value="Kančatkovaje Vyratavańnie"/>
+	<entry name="Tau8" value="Lepšy Raźviazak"/>
+	<entry name="Tau9" value="Moc ŭ Adzinstvie"/>
+	<entry name="Tau10" value="Cieni ŭ Ahni"/>
+	<entry name="Tau11" value="Sychodziačyja"/>
+	<entry name="TauCount" value="12"/>
+	<entry name="Tyranids0" value="Čysty Štam"/>
+	<entry name="Tyranids1" value="Vočy Norna"/>
+	<entry name="Tyranids2" value="Sparodžanyja Knidacytam"/>
+	<entry name="Tyranids3" value="Aŭtafahičnyja Žniacy"/>
+	<entry name="Tyranids4" value="Akrasomny Pakiet"/>
+	<entry name="Tyranids5" value="Lizasomnaja Masa"/>
+	<entry name="Tyranids6" value="Fłahiełoidnyja Žachi"/>
+	<entry name="Tyranids7" value="Kručkovyja Piłojdy"/>
+	<entry name="Tyranids8" value="Ciłakoidnyja Niadbajniki"/>
+	<entry name="Tyranids9" value="Simbijoty-Patrašycieli"/>
+	<entry name="Tyranids10" value="Chudyja Palaŭničyja"/>
+	<entry name="Tyranids11" value="Miryjady Natchnieńnia"/>
+	<entry name="TyranidsCount" value="12"/>
+</language>
