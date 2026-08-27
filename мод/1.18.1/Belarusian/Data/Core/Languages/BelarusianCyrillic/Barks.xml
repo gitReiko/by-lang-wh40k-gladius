@@ -3786,98 +3786,98 @@
 	<entry name="Drukhari/Ravager" value="Drukhari/Raider"/>
 	<entry name="Drukhari/Reaver" value="Drukhari/RazorwingJetfighter"/>
 	<entry name="Drukhari/Venom" value="Drukhari/Raider"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#0" value="Activating holy incense exhausts."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#1" value="Blessing the servitor and charging."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#2" value="Destruction over glory."/> 
-	<entry name="AdeptusMechanicus/SydonianDragoon:Attack#3" value="Lances couched."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:AttackCount" value="4"/> 
-	<entry name="AdeptusMechanicus/SydonianDragoon:Broken#0" value="Protect the engines!"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:BrokenCount" value="1"/> 
-	<entry name="AdeptusMechanicus/SydonianDragoon:Hurt#0" value="Critical damage sustained."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:HurtCount" value="1"/> 
-	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#0" value="Resting the servitor."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#1" value="Sydonia is so distant…"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#2" value="Doubt and death are beyond me."/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:Idle#3" value="Endless motion for an eternal empire!"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:IdleCount" value="4"/> 
-	<entry name="AdeptusMechanicus/SydonianDragoon:Shaken#0" value="The stilt-strider stumbles!"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:ShakenCount" value="1"/> 
-	<entry name="AdeptusMechanicus/SydonianDragoon:Victory#0" value="For Vingh and Sydonia"/>
-	<entry name="AdeptusMechanicus/SydonianDragoon:VictoryCount" value="1"/> 
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#0" value="Marking targets."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#1" value="Allowing for wind drift."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#2" value="Very good, sir."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#3" value="We have a firing solution, sir."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:AttackCount" value="4"/> 
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Broken#0" value="Leave the gun!"/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:BrokenCount" value="1"/> 
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Hurt#0" value="Direct hit. On us, sadly."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#0" value="Life in the guard is awfully hard."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#1" value="Gunner who?"/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#2" value="Is this a trench or a depression?"/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#3" value="No targets? Perfect."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:IdleCount" value="4"/> 
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Shaken#0" value="I told you I was ill."/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:ShakenCount" value="1"/> 
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:Victory#0" value="Did we-? I think we got 'em!"/>
-	<entry name="AstraMilitarum/FieldOrdnanceBattery:VictoryCount" value="1"/>
-	<entry name="ChaosSpaceMarines/ChaosTerminator" value="ChaosSpaceMarines/ChaosSpaceMarine"/>
-	<entry name="Eldar/Wraithlord" value="Eldar/Wraithblade"/>
-	<entry name="Necrons/SkorpekhDestroyer" value="Necrons/HeavyDestroyer"/>
-	<entry name="Orks/BurnaBoyz:Attack#0" value="Lightin' dem up!"/>
-	<entry name="Orks/BurnaBoyz:Attack#1" value="Hahaha! Lookit dem burn!"/>
-	<entry name="Orks/BurnaBoyz:Attack#2" value="Flamin' nora!"/>
-	<entry name="Orks/BurnaBoyz:Attack#3" value="Six on fire!"/>
-	<entry name="Orks/BurnaBoyz:AttackCount" value="4"/>
-	<entry name="Orks/BurnaBoyz:Broken#0" value="We didn't start the fire!"/>
-	<entry name="Orks/BurnaBoyz:BrokenCount" value="1"/>
-	<entry name="Orks/BurnaBoyz:Hurt#0" value="Oi fell inta ring uv fire!"/>
-	<entry name="Orks/BurnaBoyz:HurtCount" value="1"/>
-	<entry name="Orks/BurnaBoyz:Idle#0" value="Luv ta play wid fire."/>
-	<entry name="Orks/BurnaBoyz:Idle#1" value="'Ere, gizza light."/>
-	<entry name="Orks/BurnaBoyz:Idle#2" value="I don't wanna set da world on fire… wait, yes I do."/>
-	<entry name="Orks/BurnaBoyz:Idle#3" value="C'mon, grotty, light me fire!"/>
-	<entry name="Orks/BurnaBoyz:IdleCount" value="4"/>
-	<entry name="Orks/BurnaBoyz:Shaken#0" value="It burns, burns, burns!"/>
-	<entry name="Orks/BurnaBoyz:ShakenCount" value="1"/>
-	<entry name="Orks/BurnaBoyz:Victory#0" value="Discount inferno!"/>
-	<entry name="Orks/BurnaBoyz:VictoryCount" value="1"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Attack#0" value="Exculpate!"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Attack#1" value="Purgatus!"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Attack#2" value="In extremis!"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Attack#3" value="Killllll me!"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:AttackCount" value="4"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Broken#0" value="Nnnnn-"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:BrokenCount" value="1"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Hurt#0" value="Closer to you, my Emperor"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:HurtCount" value="1"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Idle#0" value="Dormant"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Idle#1" value="Faith"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Idle#2" value="Unleash… me."/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Idle#3" value="I… obey."/>
-	<entry name="SistersOfBattle/ArcoFlagellant:IdleCount" value="4"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Shaken#0" value="Martyred?"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:ShakenCount" value="1"/>
-	<entry name="SistersOfBattle/ArcoFlagellant:Victory#0" value=""/>
-	<entry name="SistersOfBattle/ArcoFlagellant:VictoryCount" value="1"/>
-	<entry name="SpaceMarines/AssaultTerminator:Attack#0" value="Die by my hand!"/>
-	<entry name="SpaceMarines/AssaultTerminator:Attack#1" value="There is only war!"/>
-	<entry name="SpaceMarines/AssaultTerminator:Attack#2" value="None shall survive!"/>
-	<entry name="SpaceMarines/AssaultTerminator:Attack#3" value="We cleanse."/>
-	<entry name="SpaceMarines/AssaultTerminator:AttackCount" value="4"/>
-	<entry name="SpaceMarines/AssaultTerminator:Broken#0" value="Ambush!"/>
-	<entry name="SpaceMarines/AssaultTerminator:BrokenCount" value="1"/>
-	<entry name="SpaceMarines/AssaultTerminator:Hurt#0" value="Tactical Dreadnought Armour holding."/>
-	<entry name="SpaceMarines/AssaultTerminator:HurtCount" value="1"/>
-	<entry name="SpaceMarines/AssaultTerminator:Idle#0" value="A moment of laxity…"/>
-	<entry name="SpaceMarines/AssaultTerminator:Idle#1" value="Our armour is prepared."/>
-	<entry name="SpaceMarines/AssaultTerminator:Idle#2" value="First Company standing by."/>
-	<entry name="SpaceMarines/AssaultTerminator:Idle#3" value="Blessing our armour."/>
-	<entry name="SpaceMarines/AssaultTerminator:IdleCount" value="4"/>
-	<entry name="SpaceMarines/AssaultTerminator:Shaken#0" value="By His name!"/>
-	<entry name="SpaceMarines/AssaultTerminator:ShakenCount" value="1"/>
-	<entry name="SpaceMarines/AssaultTerminator:Victory#0" value="For the Emperor!"/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:Attack#0" value="Актывацыя выхлапаў сьвятога водару."/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:Attack#1" value="Блаславеньне сэрвітара і штурму."/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:Attack#2" value="Зьнішчэньне вышэй за славу."/> 
+    <entry name="AdeptusMechanicus/SydonianDragoon:Attack#3" value="Дзіды напагатове."/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:AttackCount" value="4"/> 
+    <entry name="AdeptusMechanicus/SydonianDragoon:Broken#0" value="Абараняйце рухавікі!"/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:BrokenCount" value="1"/> 
+    <entry name="AdeptusMechanicus/SydonianDragoon:Hurt#0" value="Атрыманыя крытычныя пашкоджаньні."/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:HurtCount" value="1"/> 
+    <entry name="AdeptusMechanicus/SydonianDragoon:Idle#0" value="Даём адпачынак сэрвітару."/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:Idle#1" value="Сідонія такая далёкая…"/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:Idle#2" value="Сумнеў і сьмерць мне невядомыя."/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:Idle#3" value="Бясконцы рух дзеля вечнай імперыі!"/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:IdleCount" value="4"/> 
+    <entry name="AdeptusMechanicus/SydonianDragoon:Shaken#0" value="Крокаход спатыкаецца!"/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:ShakenCount" value="1"/> 
+    <entry name="AdeptusMechanicus/SydonianDragoon:Victory#0" value="За Вінг і Сідонію"/>
+    <entry name="AdeptusMechanicus/SydonianDragoon:VictoryCount" value="1"/> 
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#0" value="Пазначаем цэлі."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#1" value="Робім папраўку на вецер."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#2" value="Цудоўна, сэр."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Attack#3" value="Разьлік стральбы гатовы, сэр."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:AttackCount" value="4"/> 
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Broken#0" value="Кідайце зброю!"/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:BrokenCount" value="1"/> 
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Hurt#0" value="Прамое трапленьне. На жаль, па нас."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:HurtCount" value="1"/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#0" value="Жыцьцё ў гвардыі жудасна цяжкае."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#1" value="Хто стралок?"/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#2" value="Гэта траншэя ці ўпадзіна?"/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Idle#3" value="Няма цэляў? Выдатна."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:IdleCount" value="4"/> 
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Shaken#0" value="Я ж казаў, што хварэю."/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:ShakenCount" value="1"/> 
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:Victory#0" value="Мы-? Здаецца, мы дасталі іх!"/>
+    <entry name="AstraMilitarum/FieldOrdnanceBattery:VictoryCount" value="1"/>
+    <entry name="ChaosSpaceMarines/ChaosTerminator" value="ChaosSpaceMarines/ChaosSpaceMarine"/>
+    <entry name="Eldar/Wraithlord" value="Eldar/Wraithblade"/>
+    <entry name="Necrons/SkorpekhDestroyer" value="Necrons/HeavyDestroyer"/>
+    <entry name="Orks/BurnaBoyz:Attack#0" value="Запальвай іх!"/>
+    <entry name="Orks/BurnaBoyz:Attack#1" value="Ха-ха-ха! Гляньце, як яны гараць!"/>
+    <entry name="Orks/BurnaBoyz:Attack#2" value="Пякучае ліха!"/>
+    <entry name="Orks/BurnaBoyz:Attack#3" value="Шасьцёра ў агні!"/>
+    <entry name="Orks/BurnaBoyz:AttackCount" value="4"/>
+    <entry name="Orks/BurnaBoyz:Broken#0" value="Гэта ня мы распальвалі агонь!"/>
+    <entry name="Orks/BurnaBoyz:BrokenCount" value="1"/>
+    <entry name="Orks/BurnaBoyz:Hurt#0" value="Я ўпаў у вогненнае кола!"/>
+    <entry name="Orks/BurnaBoyz:HurtCount" value="1"/>
+    <entry name="Orks/BurnaBoyz:Idle#0" value="Люблю гуляць з агнём."/>
+    <entry name="Orks/BurnaBoyz:Idle#1" value="Гэй, дай прыкурыць."/>
+    <entry name="Orks/BurnaBoyz:Idle#2" value="Я не хачу спаліць гэты сьвет… хаця не, хачу."/>
+    <entry name="Orks/BurnaBoyz:Idle#3" value="Давай, грот, запалі мой агонь!"/>
+    <entry name="Orks/BurnaBoyz:IdleCount" value="4"/>
+    <entry name="Orks/BurnaBoyz:Shaken#0" value="Яно гарыць, гарыць, гарыць!"/>
+    <entry name="Orks/BurnaBoyz:ShakenCount" value="1"/>
+    <entry name="Orks/BurnaBoyz:Victory#0" value="Пекла за паўцаны!"/>
+    <entry name="Orks/BurnaBoyz:VictoryCount" value="1"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Attack#0" value="Адкупленьне!"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Attack#1" value="Пургатус!"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Attack#2" value="Ін экстрэміс!"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Attack#3" value="Забііі мяне!"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:AttackCount" value="4"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Broken#0" value="Ннннн-"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:BrokenCount" value="1"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Hurt#0" value="Бліжэй да цябе, мой Імператар"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:HurtCount" value="1"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Idle#0" value="Спаць"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Idle#1" value="Вера"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Idle#2" value="Выпусьці… мяне."/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Idle#3" value="Я… падпарадкоўваюся."/>
+    <entry name="SistersOfBattle/ArcoFlagellant:IdleCount" value="4"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Shaken#0" value="Закатаваны?"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:ShakenCount" value="1"/>
+    <entry name="SistersOfBattle/ArcoFlagellant:Victory#0" value=""/>
+    <entry name="SistersOfBattle/ArcoFlagellant:VictoryCount" value="1"/>
+    <entry name="SpaceMarines/AssaultTerminator:Attack#0" value="Памры ад маёй рукі!"/>
+    <entry name="SpaceMarines/AssaultTerminator:Attack#1" value="Ёсьць толькі вайна!"/>
+    <entry name="SpaceMarines/AssaultTerminator:Attack#2" value="Ніхто ня выжыве!"/>
+    <entry name="SpaceMarines/AssaultTerminator:Attack#3" value="Мы ачышчаем."/>
+    <entry name="SpaceMarines/AssaultTerminator:AttackCount" value="4"/>
+    <entry name="SpaceMarines/AssaultTerminator:Broken#0" value="Засада!"/>
+    <entry name="SpaceMarines/AssaultTerminator:BrokenCount" value="1"/>
+    <entry name="SpaceMarines/AssaultTerminator:Hurt#0" value="Тактычная браня Дрэдноўт вытрымлівае."/>
+    <entry name="SpaceMarines/AssaultTerminator:HurtCount" value="1"/>
+    <entry name="SpaceMarines/AssaultTerminator:Idle#0" value="Хвіліна слабасьці…"/>
+    <entry name="SpaceMarines/AssaultTerminator:Idle#1" value="Нашая браня падрыхтаваная."/>
+    <entry name="SpaceMarines/AssaultTerminator:Idle#2" value="Першая рота гатовая."/>
+    <entry name="SpaceMarines/AssaultTerminator:Idle#3" value="Бласлаўляем нашу браню."/>
+    <entry name="SpaceMarines/AssaultTerminator:IdleCount" value="4"/>
+    <entry name="SpaceMarines/AssaultTerminator:Shaken#0" value="Ягоным імём!"/>
+    <entry name="SpaceMarines/AssaultTerminator:ShakenCount" value="1"/>
+    <entry name="SpaceMarines/AssaultTerminator:Victory#0" value="За Імператара!"/>
 	<entry name="SpaceMarines/AssaultTerminator:VictoryCount" value="1"/>
 	<entry name="Tau/FireWarriorBreacher" value="Tau/FireWarrior"/>
 	<entry name="Tyranids/Biovore" value="Tyranids/Carnifex"/>
