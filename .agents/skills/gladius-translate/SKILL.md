@@ -1,35 +1,35 @@
 ---
 name: gladius-translate
-description: Пераклад і рэдагаваньне тэкстаў Warhammer 40000 Gladius з ангельскай на беларускую ў гэтым праекце, уключаючы XML, рэплікі Barks і субтытры SRT, паводле слоўнік.txt і фракцыйнага стылю.
+description: Translate and edit Warhammer 40000 Gladius game text from English into Belarusian Cyrillic in this project, including XML entries, Barks dialogue and SRT subtitles, using the project glossary and faction voices.
 ---
 
-# Пераклад Gladius
+# Translate Gladius
 
-Прачытай `AGENTS.md` у корані праекта: там вызначаныя актуальная вэрсія, крыніцы тэрмінаў і абмежаваньні гульнявога фармату. Усе шляхі ніжэй — адносна кораня праекта.
+Read the project root `AGENTS.md` for version selection, terminology sources and game-format constraints. All paths below are relative to the project root. These instructions are in English; game translations and responses to the user remain in Belarusian unless requested otherwise.
 
-## Выбар тэксту
+## Select the text
 
-- Вызнач апошнюю наяўную вэрсію ў `мод/` па лікавых кампанэнтах. Знайдзі патрэбны арыгінал у `зыходнікі/` і адпаведнік у гэтай вэрсіі.
-- Для XML супастаўляй запісы па `entry name`, а не па нумары радка. Чытай суседнія запісы, каб адрозьніць назву, апісаньне мэханікі, мастацкі тэкст і рэпліку.
-- Калі альфабэт не пазначаны, працуй з `BelarusianCyrillic`. Калі задача ахоплівае абедзьве моўныя вэрсіі, пасьля кірыліцы абнаві адпаведныя радкі лацінкі паводле `gladius-lacinka`. Калі зьмененая толькі кірыліца, адзнач патрэбу сінхранізацыі.
+- Determine the latest existing version in `мод/` by comparing numeric version components. Locate the relevant original in `зыходнікі/` and its counterpart in that version.
+- Match XML entries by `entry name`, not line number. Read nearby entries to distinguish names, gameplay descriptions, narrative text and dialogue.
+- Work in `BelarusianCyrillic` by default. Do not independently romanize text or automatically synchronize `BelarusianLatin`. A request to continue translating does not authorize conversion to Latin script. For explicitly requested Latin-script work, follow the user's supplied workflow or prepared text; do not invent a transliteration system. Do not make Latin synchronization an automatic follow-up task.
 
-## Пераклад
+## Translate
 
-- Шукай тэрміны ў `слоўнік.txt`, уключаючы шматслоўныя назвы, пазнакі фракцыі і дублікаты. Параўноўвай ужываньне ў апошняй вэрсіі. Зьмяняй склонавыя формы, не падмяняючы тэрмін адвольным сынонімам.
-- Прачытай `тарашкевіца.txt`; для назваў і рэплік таксама `асаблівасці.txt` і `промты.txt`. Захоўвай сэнс мэханік, умовы, лічбы і адрозьненьне бонусу ад штрафу. Для інтэрфэйсу выбірай кароткую зразумелую фармулёўку.
-- У `Barks.xml` вызнач фракцыю і падзею з ключа, напрыклад `AdeptusMechanicus/...:Attack#0`. Ужывай аркоўскія асаблівасьці толькі да аркоўскіх рэплік і адпаведных назваў; не распаўсюджвай іх на службовыя ключы або ўвесь інтэрфэйс.
-- Назвы Імперыуму ўзгадняй з прынятым у праекце лацінскім вымаўленьнем. Калі чалавечая рэпліка на латыні патрабуе транслітарацыі паводле `промты.txt`, транслітаруй яе, захоўваючы слоўнікавыя формы. Запісы `Do not translate!` і тэхнічныя значэньні пакідай як ёсьць.
-- Калі для тэрміна няма надзейнага адпаведніка, выкарыстай кантэкстуальна абгрунтаваны варыянт і пазнач яго як прапанову ў выніку. Не спыняй незалежную частку перакладу з-за аднаго спрэчнага слова.
+- Look up terms in `слоўнік.txt`, including complete phrases, faction annotations and duplicate entries. Compare their usage in the latest version. Inflect terms to fit the sentence without replacing established terminology with arbitrary synonyms.
+- Read `тарашкевіца.txt`; for names and dialogue, also read `асаблівасці.txt` and `промты.txt`. Preserve gameplay meaning, conditions, numbers and the distinction between bonuses and penalties. Prefer concise, clear wording for interface text.
+- In `Barks.xml`, identify the faction and event from the key, such as `AdeptusMechanicus/...:Attack#0`. Apply Ork speech conventions only to Ork dialogue and relevant names, never to technical keys or the entire interface.
+- Use the project's established Latin pronunciation for Imperial names. When `промты.txt` calls for transliterating a human-readable Latin-language utterance, render it in Belarusian Cyrillic while retaining glossary forms. Keep `Do not translate!` entries and technical values unchanged.
+- If a term has no reliable equivalent, choose a contextually justified rendering and identify it as a proposal in the result. Continue independent translation work while individual terminology questions remain unresolved.
 
-## Унутраныя тэгі ў `value`
+## Embedded tags inside `value`
 
-- Перад рэдагаваньнем захавай стан патрэбных запісаў. Аддзяляй чалавечы тэкст ад тэхнічнай разьметкі і зьмяняй толькі тэкст паміж тэгамі.
-- `<style name='Italic'/>`, `<style name='Default'/>`, `<style color='GUI/Red'/>`, `<icon texture='GUI/Bullet'/>` і `<br/>` захоўвай дакладна, у тым ліку рэгістар, прабелы, шляхі, апострафы і парадак. Пара стыляў задае пачатак і канец афармленьня; пераклад адпаведнага фрагмэнту мусіць застацца паміж імі. Захоўвай таксама паўторныя `<br/><br/>`.
-- Не вызначай канец `entry` па першым `/>`: ён можа належаць тэгу ўнутры `value`. У гэтым праекце звычайныя значэньні абмежаваныя падвойнымі двукосьсямі, а ўнутраныя атрыбуты выкарыстоўваюць адзінарныя; правярай фактычны радок перад аўтаматычнай заменай.
-- Пасьля перакладу аўтаматычна параўнай пасьлядоўнасьць поўных тэгаў у кожным зьмененым `entry name` са станам да рэдагаваньня. Адной агульнай колькасьці тэгаў недастаткова. Калі задача не патрабуе выпраўляць разьметку, кожны тэг мусіць супадаць дакладна. Асобна правер, што астатнія значэньні і ўсё па-за `value` не зьмяніліся, апроч канкрэтных выпраўленьняў у межах задачы.
+- Preserve a snapshot of the relevant entries before editing. Separate human-readable text from technical markup and change only the text between tags.
+- Preserve `<style name='Italic'/>`, `<style name='Default'/>`, `<style color='GUI/Red'/>`, `<icon texture='GUI/Bullet'/>` and `<br/>` exactly, including case, whitespace, paths, apostrophes and order. Style switches delimit formatted spans; keep the translated span between the corresponding tags. Preserve repeated breaks such as `<br/><br/>`.
+- Do not treat the first `/>` as the end of an `entry`: it may belong to a tag inside `value`. Values in this project normally use double quotes, while embedded attributes use single quotes; inspect the actual entry before automating replacements.
+- After translation, automatically compare the complete sequence of embedded tags for each changed `entry name` against its previous state. Comparing only total tag counts is insufficient. Unless markup repair is part of the task, every tag must match exactly. Separately verify that other values and everything outside `value` remain unchanged except for specific fixes within the requested scope.
 
-## Праверка выніку
+## Verify and report
 
-Захавай тэхнічныя часткі `value`, ключы і фармат паводле `AGENTS.md`. Правер падстаноўкі з улікам паўтораў, убудаваныя тэгі і апострафы, адсутнасьць новых дублікатаў ключоў; у SRT — нумары і часавыя пазнакі. Праглядзі diff, каб зьмены датычылі толькі зададзенага абсягу.
+Preserve technical content, keys and formatting as specified in `AGENTS.md`. Check placeholder multiplicities, embedded tags and apostrophes, and ensure no duplicate keys were introduced. For SRT, check cue numbers and timestamps. Review the diff for changes outside the requested scope.
 
-Паведамі, што перакладзена, у якой вэрсіі і альфабэце, што праверана і якія тэрміны патрабуюць рашэньня. Не заяўляй пра праверку ў гульні, калі яна не праводзілася.
+Report what was translated, the version and script used, the checks performed and any unresolved terminology. Do not claim in-game validation unless it was actually performed.

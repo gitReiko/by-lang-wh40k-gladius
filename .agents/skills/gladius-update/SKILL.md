@@ -1,28 +1,29 @@
 ---
 name: gladius-update
-description: Падрыхтоўка перакладу Gladius да новай вэрсіі гульні, параўнаньне новых ангельскіх зыходнікаў з перакладам і перанос існых радкоў з захаваньнем архіўных вэрсіяў.
+description: Prepare this project's Gladius translation for a new game version, compare updated English originals with existing translations and carry forward translated entries while preserving archived releases.
 ---
 
-# Абнаўленьне перакладу Gladius
+# Update the Gladius translation
 
-Прачытай каранёвы `AGENTS.md`. Гэты навык ужываецца для пераходу паміж вэрсіямі або аналізу зьменаў зыходнікаў; звычайнае дапрацоўваньне перакладу выконваецца ў апошняй наяўнай вэрсіі без стварэньня новай тэчкі.
+Read the project root `AGENTS.md`. Use this skill for version migrations or analysis of source changes. Ordinary translation work belongs in the latest existing release without creating a new version directory. Report in Belarusian unless requested otherwise.
 
-## Вызначэньне базы
+## Establish the baseline
 
-- Знайдзі апошнюю вэрсію ў `мод/` лікавым параўнаньнем. Вызнач мэтавую вэрсію з запыту і наяўных матэрыялаў. Не прыдумляй яе паводле даты файлаў.
-- Зыходнікі праекта — `зыходнікі/English/` і `зыходнікі/srt/`. Правер, ці вядомая іх вэрсія і ці ёсьць ранейшыя ангельскія арыгіналы. Беларуская архіўная тэчка сама па сабе не зьяўляецца ранейшай ангельскай базай.
-- Калі нумар мэтавай вэрсіі ці яе арыгіналы невядомыя, падрыхтуй даступнае параўнаньне і запытай толькі адсутныя зьвесткі. Не называй пераклад абноўленым для непацьверджанай вэрсіі.
+- Find the latest version in `мод/` using numeric comparison. Determine the target version from the user's request and available materials, not from file dates.
+- Project originals are in `зыходнікі/English/` and `зыходнікі/srt/`. Check whether their version is known and whether earlier English originals are available. An archived Belarusian release is not itself an earlier English baseline.
+- If the target version or its originals are unknown, prepare the comparison that is possible and ask only for the missing information. Do not describe a translation as updated for an unconfirmed version.
 
-## Параўнаньне і перанос
+## Compare and migrate
 
-- Супастаў XML па назьве файла і `entry name`. Калі даступныя старыя і новыя ангельскія арыгіналы, разьдзялі ключы на новыя, выдаленыя, нязьменныя і тыя, у якіх зьмяніўся ангельскі тэкст пры ранейшым ключы.
-- Без старой ангельскай базы можна вызначыць розьніцу набораў ключоў, але нельга надзейна выявіць усе зьмены сэнсу пад старымі ключамі. Вылучы гэтую частку для ручной праверкі.
-- Калі карыстальнік даручыў стварыць новую вэрсію, скапіруй апошнюю вэрсію мода ў `мод/<мэтавая-вэрсія>/`, пакінуўшы ранейшую архівам. Калі мэтавая тэчка ўжо ёсьць, спачатку вывучы яе стан і не перазапісвай зробленую працу суцэльным капіяваньнем. Для запыту толькі на параўнаньне тэчку не стварай.
-- Захавай існыя прыдатныя пераклады. Перакладай новыя радкі і пераглядай зьмененыя паводле `gladius-translate`; не замяняй увесь беларускі файл ангельскім шаблёнам.
-- Не выдаляй дадатковыя ключы толькі з-за іх адсутнасьці ў зыходніках: яны могуць быць наладамі мода або вынікам неадпаведнасьці вэрсіяў. Выдаленьне мусіць вынікаць з пацьверджанага параўнаньня.
-- Улічвай і кірыліцу, і лацінку. Новыя субтытры супастаўляй з адпаведнымі ролікамі; пры зьмененым мантажы не перанось старыя часавыя пазнакі ў новы арыгінал мэханічна.
-- Захоўвай налады, шрыфты і іншыя рэсурсы мода. Зьмяняй іх толькі калі гэта неабходна для канкрэтнага абнаўленьня і абгрунтавана матэрыяламі новай вэрсіі.
+- Match XML by filename and `entry name`. When both old and new English originals are available, distinguish added keys, removed keys, unchanged entries and entries whose English text changed under an existing key.
+- Without the old English baseline, key-set differences can be identified, but not all meaning changes under existing keys. Flag those entries for manual review.
+- When the user asks to create a new release, copy the latest mod release into `мод/<target-version>/`, preserving the previous release as an archive. If the target directory already exists, inspect its state first and do not overwrite existing work with a blanket copy. Do not create a directory for a comparison-only request.
+- Retain existing translations that remain applicable. Translate new entries and review changed entries using `gladius-translate`; do not replace an entire Belarusian file with an English template.
+- Do not delete additional keys merely because they are absent from the originals: they may be mod settings or evidence of mismatched versions. Removals must follow a confirmed comparison.
+- Translate in `BelarusianCyrillic`. When copying an authorized release package, carry forward existing Latin-script files unchanged. Do not independently romanize new text or regenerate or synchronize `BelarusianLatin`. Follow the user's supplied workflow or prepared text for explicitly requested Latin-script changes; do not invent a conversion system or treat synchronization as an automatic follow-up.
+- Match new subtitles to the corresponding cinematics. If the edit of a cinematic changed, do not mechanically transfer old timestamps to the new original.
+- Preserve settings, fonts and other mod resources. Change them only when necessary for the specific update and supported by the new version's materials.
 
-## Завяршэньне
+## Finish
 
-Правер зьмененыя файлы паводле `gladius-review` і пацьвердзі, што архівы і арыгіналы засталіся нязьменнымі. Падай зыходную і мэтавую вэрсіі, колькасьць новых і перагледжаных запісаў, невядомыя зьмены і стан лацінкі. Абнаўляй README і ўлік гатоўнасьці толькі паводле фактычна зробленага; не заяўляй поўную сумяшчальнасьць без адпаведнай праверкі.
+Check changed files using `gladius-review` and confirm that archives and originals remain unchanged. Report the source and target versions, counts of added and reviewed entries, unknown changes and the actual scope of any script variants carried forward. Update README and progress tracking only to reflect completed work; do not claim full compatibility without appropriate validation.
