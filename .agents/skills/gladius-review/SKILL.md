@@ -19,7 +19,8 @@ Read the project root `AGENTS.md`. Select the latest existing version by numeric
 
 ## Language checks
 
-- Check terminology against `слоўнік.txt`, faction voices against `асаблівасці.txt`, and spelling against `тарашкевіца.txt`. For explicitly requested review of existing Latin-script text, consult `лацінка.txt` and existing counterparts as reference material. Do not independently romanize text or derive a conversion system from examples.
+- Check game and interface terminology against `слоўнік gladius.txt` and Warhammer universe terminology against `слоўнік warhammer 40k.txt`, both in the project root. Search complete phrases in both files before their components; assess overlapping entries by meaning, faction and object type rather than file priority. Report unresolved conflicts, and distinguish contextually inflected forms from terminology errors.
+- Check faction voices against `асаблівасці.txt` and spelling against `тарашкевіца.txt`. For explicitly requested review of existing Latin-script text, consult `лацінка.txt` and existing counterparts as reference material. Do not independently romanize text or derive a conversion system from examples.
 - Verify gameplay conditions, quantities, negation, units and bonuses. Distinguish errors of meaning from optional stylistic improvements.
 - An unchanged English value or the presence of Latin letters is a candidate for review, not proof of missing translation. Exclude model codes, proper names, Latin-language phrases, technical values and `Do not translate!` entries.
 - Do not treat percentages in `спіс перакладзеных файлаў.txt` as audit results. When measuring completeness, define the counting unit and exclusions. Counting values that differ from English does not measure translation quality.

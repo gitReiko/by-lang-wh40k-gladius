@@ -1,6 +1,6 @@
 ---
 name: gladius-translate
-description: Translate and edit Warhammer 40000 Gladius game text from English into Belarusian Cyrillic in this project, including XML entries, Barks dialogue and SRT subtitles, using the project glossary and faction voices.
+description: Translate and edit Warhammer 40000 Gladius game text from English into Belarusian Cyrillic in this project, including XML entries, Barks dialogue and SRT subtitles, using the project glossaries and faction voices.
 ---
 
 # Translate Gladius
@@ -15,7 +15,8 @@ Read the project root `AGENTS.md` for version selection, terminology sources and
 
 ## Translate
 
-- Look up terms in `слоўнік.txt`, including complete phrases, faction annotations and duplicate entries. Compare their usage in the latest version. Inflect terms to fit the sentence without replacing established terminology with arbitrary synonyms.
+- Use `слоўнік gladius.txt` for game and interface terminology and `слоўнік warhammer 40k.txt` for Warhammer universe terminology. Search both for the complete English phrase before its components; use meaning, faction and object-type annotations to resolve overlapping entries. A lore name in an interface still uses its lore equivalent. Compare usage in the latest version and inflect terms to fit the sentence without replacing established terminology with arbitrary synonyms.
+- Add clear new equivalents to the appropriate glossary under the rules in `AGENTS.md`, checking both files first to avoid duplicates. Report additions with their destination file and keep uncertain renderings marked as proposals.
 - Read `тарашкевіца.txt`; for names and dialogue, also read `асаблівасці.txt` and `промты.txt`. Preserve gameplay meaning, conditions, numbers and the distinction between bonuses and penalties. Prefer concise, clear wording for interface text.
 - In `Barks.xml`, identify the faction and event from the key, such as `AdeptusMechanicus/...:Attack#0`. Apply Ork speech conventions only to Ork dialogue and relevant names, never to technical keys or the entire interface.
 - Use the project's established Latin pronunciation for Imperial names. When `промты.txt` calls for transliterating a human-readable Latin-language utterance, render it in Belarusian Cyrillic while retaining glossary forms. Keep `Do not translate!` entries and technical values unchanged.
