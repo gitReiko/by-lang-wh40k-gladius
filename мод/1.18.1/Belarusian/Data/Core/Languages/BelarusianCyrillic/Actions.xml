@@ -139,7 +139,7 @@
 	<entry name="ArmoriumCherubDescription" value="Павялічвае трапнасьць."/>
 	<entry name="ArmoriumCherubFlavor" value="Cherubim are diminutive flying cyborg constructs created to assist the Emperor's servants, be they scribe or soldier. Among the Adeptus Astartes they are rarely seen outside of the Librarius, save for those few that relay targeting data and carry spare ammunition for Devastator Squads."/>
 	<entry name="AssaultDoctrine" value="Ужыць Дактрыну Штурма"/>
-	<entry name="AssaultDoctrineDescription" value="Тактыка Падзелу, што павялічвае трапнасьць Штурмавых Касьмічных Марынаў."/>
+	<entry name="AssaultDoctrineDescription" value="Тактыка Ордэну, што павялічвае трапнасьць Штурмавых Касьмічных Марынаў."/>
 	<entry name="AssaultDoctrineFlavor" value="“Where there is uncertainty, I shall bring light<br/>Where there is doubt, I shall sow faith.<br/>Where there is shame, I shall point atonement.<br/>Where there is rage, I shall show its course.<br/>My word in the soul shall be as my bolter in the field.”<br/>  — Litany of Devotion, traditional"/>
 	<entry name="AstraMilitarum/ProjectedVoidShield" value="Праекцыйны Пустэчны Шчыт"/>
 	<entry name="AstraMilitarum/ProjectedVoidShieldDescription" value="Павялічвае зьмяншэньне шкоды ад далёкага агню для адзінак у радыусе дзеяньня."/>
@@ -196,8 +196,8 @@
 	<entry name="BolsterDefences" value="Узмацніць Абарону"/>
 	<entry name="BolsterDefencesDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою на абранай плітцы."/>
 	<entry name="BolsterDefencesFlavor" value="“Every position must be held to the last man: there must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight on to the end.”<br/>  — Imperial Warmaster Solon"/>
-	<entry name="BolterDrill" value="Ужыць Прарэзьлівыя Болтары"/>
-	<entry name="BolterDrillDescription" value="Тактыка Падзелу, што павялічвае трапнасьць болтарнай зброі."/>
+	<entry name="BolterDrill" value="Ужыць Болтар-Дрыль"/>
+	<entry name="BolterDrillDescription" value="Тактыка Ордэну, што павялічвае трапнасьць болтарнай зброі."/>
 	<entry name="BolterDrillFlavor" value="“I believe in three tenets of battle—firepower, firepower, and more firepower.”<br/>  — Kardan Stronos, Chapter Master of the Iron Hands"/>
 	<entry name="BringItDown" value="“Зьнішчыце Іх!”"/>
 	<entry name="BringItDownDescription" value="Павялічвае бронепрабівальнасьць Лорда Камісара і суседняй хаўруснай пяхоты Астра Мілітарум."/>
@@ -367,7 +367,7 @@
 	<entry name="CycleWeaponOnUse" value="Зьмяніць Зброю Пасьля Выкарыстаньня"/>
 	<entry name="CycleWeaponOnUseDescription" value="Аўтаматычна зьмяняе актыўную зброю пасьля выкарыстаньня."/>
 	<entry name="DeedsOfGlory" value="Хвалебныя Вычыны"/>
-	<entry name="DeedsOfGloryDescription" value="Дае Падзелу ўплыў за атрыманьне досьведу ў баях."/>
+	<entry name="DeedsOfGloryDescription" value="Дае Ордэну ўплыў за атрыманьне досьведу ў баях."/>
 	<entry name="DeedsOfGloryFlavor" value="“It is a captain's duty to place legionary lives in harm's way before his own. There is too little glory in the galaxy to go around and officers must be generous in the trust they place in others—for one day such brothers must be captains too.”<br/>  — Rouboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="DeployCity" value="Заснаваць Горад"/>
 	<entry name="DeployCityDescription" value="Аперацыя па заснаваньні горада на абранай плітцы.<br/><br/>Гарады льга разьмяшчаць толькі там, дзе няма іншых гарадоў у радыусе %1% плітак."/>
@@ -376,7 +376,7 @@
 	<entry name="DeployUnit" value="Разгарнуць %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Разгарнуць %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="DevastatorDoctrine" value="Выкарыстаць Дактрыну Разбуральнікаў"/>
-	<entry name="DevastatorDoctrineDescription" value="Тактыка Падзелу, што павялічвае трапнасьць Космамарынаў-Разбуральнікаў і Цэнтурыёнаў-Разбуральнікаў."/>
+	<entry name="DevastatorDoctrineDescription" value="Тактыка Ордэну, што павялічвае трапнасьць Космамарынаў-Разбуральнікаў і Цэнтурыёнаў-Разбуральнікаў."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
 	<entry name="Disappear" value="Зьнікнуць"/>
 	<entry name="Disband" value="Расфармаваць"/>
@@ -426,7 +426,7 @@
 	<entry name="Drukhari/GrislyTrophiesDescription" value="Зьніжае страты маралі гэтай адзінкі і суседніх адзінак Друкхары."/>
 	<entry name="Drukhari/GrislyTrophiesFlavor" value="Some Drukhari vehicles are adorned with the disembodied heads of slain foes and daubed with copious amounts of enemy blood. The sight of the festering remains of once proud foes instils the Drukhari with arrogant pride."/>
 	<entry name="Drukhari/MasterOfPain" value="Майстар Болю"/>
-	<entry name="Drukhari/MasterOfPainDescription" value="Дае дадатковае зьніжэньне шкоды ад адсутнасьці пачуцьця болю гэтай адзінцы і суседнім пяхтоным адзінкам Друкхары."/>
+	<entry name="Drukhari/MasterOfPainDescription" value="Дае дадатковае зьніжэньне шкоды ад неадчувальнасьці да болю гэтай адзінцы і суседнім пяхтоным адзінкам Друкхары."/>
 	<entry name="Drukhari/MasterOfPainFlavor" value="Such exquisite agonies are inflicted by a Haemonculus on its followers that they barely feel their own suffering any more, as oblivious as a follower of Nurgle to the wounds inflicted on their bodies."/>
 	<entry name="Drukhari/NoEscape" value="Няма Выратаваньня"/>
 	<entry name="Drukhari/NoEscapeDescription" value="Зьніжае рух варожай наземнай адзінкі."/>
@@ -438,7 +438,7 @@
 	<entry name="Drukhari/RaidFromTheWebwayDescription" value="Заклікае часовы Партал Шляху Павуціньня."/>
 	<entry name="Drukhari/RaidFromTheWebwayFlavor" value="<string name='Units/Drukhari/WebwayPortalFlavor'/>"/>
 	<entry name="Drukhari/RaiderFortress" value="Заснаваць Крэпасьць Рэйдараў"/>
-	<entry name="Drukhari/RaiderFortressDescription" value="Засноўвае горад на захопленым Брама Шляху Павуціньня.<br/><br/>Гарады льга будаваць толькі ў выпадку адсутнасьці іншых гарадоў у радыусе %1% плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на %2%."/>
+	<entry name="Drukhari/RaiderFortressDescription" value="Засноўвае горад на захопленай Браме Шляху Павуціньня.<br/><br/>Гарады льга будаваць толькі ў выпадку адсутнасьці іншых гарадоў у радыусе %1% плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на %2%."/>
 	<entry name="Drukhari/RaiderFortressFlavor" value="It is a tribute to the ancient technologies of the fallen Aeldari empire that what appears to the herd races as a mighty city and fortress is to them a mere stopping point, a temporary haven whilst raiding before they return to the Webway and dark Commorragh."/>
 	<entry name="Drukhari/ReservoirOfPain" value="Рэзервуар Болю"/>
 	<entry name="Drukhari/ReservoirOfPainDescription" value="Аднаўляе здароўе хаўрусных адзінак Друкхары, калі гэтая адзінка атакуе на гэты крок."/>
@@ -465,7 +465,7 @@
 	<entry name="Drukhari/SoulShellingDescription" value="Здольнасьць Голад па Душах наносіць шкоду абранай варожай адзінцы."/>
 	<entry name="Drukhari/SoulShellingFlavor" value="The most powerful Drukhari weapons aren’t light enough to take on a raid, instead reserved for the defense of the Kabal’s base in Comorroragh or on Battleships for realspace incursions—Phantom Lances and Scythe Missile Launchers and so on. But a wily Archon might allow his minions to fire one of these weapons through a temporary portal, knowing all the while the weapon might be turned on them…"/>
 	<entry name="Drukhari/SpiritProbe" value="Духоўны Зонд"/>
-	<entry name="Drukhari/SpiritProbeDescription" value="Дае дадатковае зьніжэньне шкоды ад адсутнасьці пачуцьця болю гэтай адзінцы і суседняй пяхоце ды жахлівым стварэньням Друкхары 3 і вышэйшага роўня."/>
+	<entry name="Drukhari/SpiritProbeDescription" value="Дае дадатковае зьніжэньне шкоды ад неадчувальнасьці да болю гэтай адзінцы і суседняй пяхоце ды жахлівым стварэньням Друкхары 3 і вышэйшага роўня."/>
 	<entry name="Drukhari/SpiritProbeFlavor" value="A spirit probe is a conductor for agony; a device that ensures no scrap of pain or misery escapes the Cronos’ contra-empathic net. Running hot on tides of excruciation, it boosts the resilience of nearby Drukhari, allowing them to stride laughing amid volleys of fire and rains of blows that would otherwise tear them apart."/>
 	<entry name="Drukhari/SplinteredGenius" value="Падзелены Геній"/>
 	<entry name="Drukhari/SplinteredGeniusDescription" value="Дае дадатковыя ачкі дзеяньня гэтай адзінцы."/>
@@ -480,13 +480,13 @@
 	<entry name="Drukhari/WealthPlunderDescription" value="Здольнасьць Голад па Душах дае ўсіх адзінкам Друкхары дасьледаваньні за забойствы ворагаў."/>
 	<entry name="Drukhari/WealthPlunderFlavor" value="<string name='Traits/Drukhari/WealthPlunderFlavor'/>"/>
 	<entry name="Drukhari/WebwayTravel" value="<string name='Actions/Eldar/WebwayTravel'/>"/>
-	<entry name="Drukhari/WebwayTravelDescription" value="Вандруе ад адной хаўруснай Брамы Шляха Павуціньня, Крэпасьці Рэйдараў ці Партала Шляху Павуціньня да іншай."/>
+	<entry name="Drukhari/WebwayTravelDescription" value="Вандруе паміж хаўруснымі Брамамі Шляху Павуціньня, Крэпасьцямі Рэйдараў або Парталамі Шляху Павуціньня."/>
 	<entry name="Drukhari/WebwayTravelFlavor" value="<string name='Actions/Eldar/WebwayTravelFlavor'/>"/>
 	<entry name="Drukhari/WhirlingDeath" value="Віхура Сьмерці"/>
 	<entry name="Drukhari/WhirlingDeathDescription" value="Адмысловая атака, якая б'е ўсіх суседніх ворагаў."/>
 	<entry name="Drukhari/WhirlingDeathFlavor" value="This murder-artist is constantly moving, their every acrobatic step accompanied by a lashing blade. They are at their most dangerous when the foe believes them surrounded, but this simply gives them more victims to practice their killing art upon."/>
-	<entry name="Eldar/ActivateWebwayGate" value="Актываваць Шлях Павуціньня"/>
-	<entry name="Eldar/ActivateWebwayGateDescription" value="Актывуе і захоплівае нейтральны Шлях Павуціньня."/>
+	<entry name="Eldar/ActivateWebwayGate" value="Актываваць Браму Шляху Павуціньня"/>
+	<entry name="Eldar/ActivateWebwayGateDescription" value="Актывуе і захоплівае нейтральную Браму Шляху Павуціньня."/>
 	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime…"/>
 	<entry name="Eldar/AutarchsAssault" value="Напад Аўтарха"/>
 	<entry name="Eldar/AutarchsAssaultDescription" value="Забойства ворага Аўтархам павялічвае шкоду хаўрусных адзінак Штучнага Сьвету Аэльдары ў вобласьці."/>
@@ -510,7 +510,7 @@
 	<entry name="Eldar/EmboldenHorrifyDescription" value="Аднаўляе мараль абранай хаўруснай адзінкі або зьніжае мараль варожай."/>
 	<entry name="Eldar/EmboldenHorrifyFlavor" value="The Spiritseer calls down the splendour of battle, instilling his allies with valour or sapping courage from his foes."/>
 	<entry name="Eldar/KhaineAwakened" value="Абуджэньне Кхайна"/>
-	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім баі, зьніжае страты маралі, дае неўспрымальнасьць да страху і прывязваецца да суседніх хаўрусных адзінак Аэльдары."/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Павялічвае атакі і шкоду ў блізкім баі, зьніжае страты маралі і дае суседнім хаўрусным адзінкам Аэльдары неўспрымальнасьць да страху і скоўваньня."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="As the Wailing Doom cries out for blood and the Avatar rouses itself for war, so too are nearby Aeldari driven to greater deeds in his name. Fearing nothing, they throw themselves into the melee battle-crazed."/>
 	<entry name="Eldar/KhainesMight" value="Моц Кхайна"/>
 	<entry name="Eldar/KhainesMightDescription" value="Павялічвае атакі блізкага бою Аўтарха."/>
@@ -546,10 +546,10 @@
 	<entry name="Eldar/WarShoutDescription" value="Зьніжае мараль суседніх варожых адзінак."/>
 	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready…"/>
 	<entry name="Eldar/WebwayRedoubt" value="Заснаваць Рэдут Шляха Павуціньня"/>
-	<entry name="Eldar/WebwayRedoubtDescription" value="Засноўвае горад на захопленым Шляху Павуціньня.<br/><br/>Гарады льга будаваць толькі ў выпадку адсутнасьці іншых гарадоў у радыусе %1% плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на %2%."/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Засноўвае горад на захопленай Браме Шляху Павуціньня.<br/><br/>Гарады льга будаваць толькі ў выпадку адсутнасьці іншых гарадоў у радыусе %1% плітак. Кожны горад пасьля першага зьніжае лаяльнасьць ува ўсіх гарадах на %2%."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webway’s limitless power to devastate any enemies foolish enough to venture near."/>
 	<entry name="Eldar/WebwayTravel" value="Вандраваць праз Шлях Павуціньня"/>
-	<entry name="Eldar/WebwayTravelDescription" value="Вандруе ад аднаго Шляха Павуціньня або Рэдута Павуціньня да іншага."/>
+	<entry name="Eldar/WebwayTravelDescription" value="Вандруе паміж хаўруснымі Брамамі Шляху Павуціньня або Рэдутамі Павуціньня."/>
 	<entry name="Eldar/WebwayTravelFlavor" value="The unique Webway sub-structure riddling Gladius Prime enables the Aeldari and Drukhari to travel rapidly between the gateways dotted across the planet—though now that they are active, wise opposing races will recognise their threat and eliminate them on first sight."/>
 	<entry name="Eldar/WillOfAsuryan" value="Воля Асур'яна"/>
 	<entry name="Eldar/WillOfAsuryanDescription" value="Аднаўляе мараль хаўрусных адзінак у вобласьці."/>
@@ -610,7 +610,7 @@
 	<entry name="LevitateDescription" value="Ляціць праз перашкоды да абранай пліткі."/>
 	<entry name="LevitateFlavor" value="The psyker uses his telekinetic powers to launch himself skywards, leaping across the battlefield in a single bound."/>
 	<entry name="MachineEmpathy" value="Выкарыстаць Эмпатыю Машын"/>
-	<entry name="MachineEmpathyDescription" value="Тактыка Падзелу, што аднаўляе здароўе машын і фартыфікацыяў."/>
+	<entry name="MachineEmpathyDescription" value="Тактыка Ордэну, што аднаўляе здароўе машын і фартыфікацыяў."/>
 	<entry name="MachineEmpathyFlavor" value="“Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of obedience which overcomes all obstacles, and armed with the three great guns of Zeal, Duty and Purity.”<br/>  — Traditional Imperial prayer, source unknown"/>
 	<entry name="MediPack" value="Аптэчка"/>
 	<entry name="MediPackDescription" value="Аднаўляе здароўе."/>
@@ -800,7 +800,7 @@
 	<entry name="ShroudingDescription" value="Павялічвае зьмяншэньне шкоды ад далёкага бою гэтай адзінкі і суседніх хаўрусных адзінак."/>
 	<entry name="ShroudingFlavor" value="The psyker uses his mastery of the Warp to fog the minds of his enemies, clouding their sight and instincts so that he appears as nothing more than an indistinct shadow."/>
 	<entry name="SiegeMasters" value="Разгарнуць Майстроў Аблогі"/>
-	<entry name="SiegeMastersDescription" value="Тактыка Падзелу, што павялічвае шкоду адзінак, атакуючых варожыя адзінкі ў гарадах і фартыфікацыях."/>
+	<entry name="SiegeMastersDescription" value="Тактыка Ордэну, што павялічвае шкоду адзінак, атакуючых варожыя адзінкі ў гарадах і фартыфікацыях."/>
 	<entry name="SiegeMastersFlavor" value="“A fortress circumvented ceases to be an obstacle. A fortress destroyed ceases to be a threat. Do not forget the difference.”<br/>  — Leman Russ, Primarch of the Space Wolves"/>
 	<entry name="Signum" value="Сігнум"/>
 	<entry name="SignumDescription" value="<string name='Traits/RelentlessDescription'/>"/>
@@ -848,7 +848,7 @@
 	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Захавальніцы Веры"/>
 	<entry name="SistersOfBattle/KeepersOfTheFaithDescription" value="Не дае назіраць, але павялічвае зьніжэньне шкоды, калі ў адзінцы засталіся нявыкарастаныя дзеяньні.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/KeepersOfTheFaithFlavor" value="<string name='Traits/SistersOfBattle/KeepersOfTheFaithFlavor'/>"/>
-	<entry name="SistersOfBattle/LaudHailer" value="Хвалебнае Вітаньне"/>
+	<entry name="SistersOfBattle/LaudHailer" value="Хвалебны Гучнамоўнік"/>
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Суседняя адзінка Адэпта Сарорытас можа зьдяйсьняць Акты Веры, нават калі ўзрушана."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="Proclaiming the power of the Emperor in heavenly tones, a Laud Hailer bolsters the spirits of the faithful."/>
 	<entry name="SistersOfBattle/LeadTheRighteous" value="Узначальваньне Праведных"/>
@@ -857,8 +857,8 @@
 	<entry name="SistersOfBattle/LightOfTheEmperor" value="Сьвятло Імператара"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="Павялічвае трапнасьць.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="Sisters of the Adepta Sororitas are filled with the knowledge that the only thing they need fear is failing the Emperor of Mankind. Armed with such faith, they are driven to unprecedented feats of prowess."/>
-	<entry name="SistersOfBattle/MedicusMinistorum" value="Медыкус Міністрорум"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае зьніжэньне шкоды ад адсутнасьці пачуцьця болю суседняй хаўруснай пяхоце."/>
+	<entry name="SistersOfBattle/MedicusMinistorum" value="Медыкус Міністорум"/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Дае зьніжэньне шкоды ад неадчувальнасьці да болю суседняй хаўруснай пяхоце."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum and by the Hospitallers of the Adepta Sororitas. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments."/>
 	<entry name="SistersOfBattle/MiraculousIntervention" value="Цудоўнае Ўмяшальніцтва"/>
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="Пасьля сьмерці Сьвятая Сэлесьціна неадкладна вяртаецца да жыцьця.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
@@ -949,7 +949,7 @@
 	<entry name="SupersonicDescription" value="Павялічвае рух."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
 	<entry name="TacticalDoctrine" value="Ужыць Тактычную Дактрыну"/>
-	<entry name="TacticalDoctrineDescription" value="Тактыка Падзелу, што павялічвае трапнасьць Тактычных Касьмічных Марынаў."/>
+	<entry name="TacticalDoctrineDescription" value="Тактыка Ордэну, што павялічвае трапнасьць Тактычных Касьмічных Марынаў."/>
 	<entry name="TacticalDoctrineFlavor" value="“They shall be pure of heart and strong of body, untainted by doubt and unsullied by self-aggrandisement. They will be bright stars on the firmament of battle, Angels of Death whose shining wings bring swift annihilation to the enemies of Man. So it shall be for a thousand times for a thousand years, unto the very end of eternity and the extinction of mortal flesh.”<br/>  — Codex Astartes, by Roboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="Tau/AdvancedTargetingSystem" value="Усталяваць <string name='Traits/Tau/AdvancedTargetingSystem'/>"/>
 	<entry name="Tau/AdvancedTargetingSystemDescription" value="Усталяваць сістэму падтрымкі, што павялічвае трапнасьць стральбы."/>
@@ -1040,7 +1040,7 @@
 	<entry name="Tau/ShieldGenerator" value="Усталяваць <string name='Traits/Tau/ShieldGenerator'/>"/>
 	<entry name="Tau/ShieldGeneratorDescription" value="Усталёўвае сістэму падтрымкі, што павялічвае зьніжэньне шкоды."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="This generator projects a choesive energy field capable of protecting the bearer from heavy ordnance and anti-tank weapons fire."/>
-	<entry name="Tau/StealthField" value="Шчыт-Нябачнік"/>
+	<entry name="Tau/StealthField" value="Поле Нябачнасьці"/>
 	<entry name="Tau/StealthFieldDescription" value="Павялічвае зьніжэньне шкоды ад далёкага бою для абранай хаўруснай адзінкі."/>
 	<entry name="Tau/StealthFieldFlavor" value="<string name='Units/Tau/StealthDroneFlavor'/>"/>
 	<entry name="Tau/StimulantInjector" value="Усталяваць <string name='Traits/Tau/StimulantInjector'/>"/>
@@ -1070,15 +1070,15 @@
 	<entry name="TelekineDome" value="Купал Тэлекінезу"/>
 	<entry name="TelekineDomeDescription" value="Стварае бар'ер на плітцы Бібліарыя і суседніх плітках. Бар'ер павялічвае зьніжэньне шкоды ад далёкага бою."/>
 	<entry name="TelekineDomeFlavor" value="Bullets bounce off of thin air and are deflected harmlessly away as the psyker erects a barrier of shimmering energy about himself."/>
-	<entry name="TheFleshIsWeak" value="Ужыць “Плоць Слаба”"/>
-	<entry name="TheFleshIsWeakDescription" value="Тактыка Падзелу, што павялічвае зьніжэньне шкоды для пяхоты."/>
+	<entry name="TheFleshIsWeak" value="Ужыць “Плоць Слабая”"/>
+	<entry name="TheFleshIsWeakDescription" value="Тактыка Ордэну, што павялічвае зьніжэньне шкоды для пяхоты."/>
 	<entry name="TheFleshIsWeakFlavor" value="“We have been wounded sorely. Yet still we stand, with fire in our eyes and valour in our hearts. Let them think us beaten. We shall teach them otherwise.”<br/>  — Pedro Kantor, Chapter Master of the Crimson Fists"/>
 	<entry name="TurboBoost" value="Турба-Паскарэньне"/>
 	<entry name="TurboBoostDescription" value="Павялічвае рух."/>
 	<entry name="Tyranids/AcquireTile" value="Набыць плітку (Тыраніды)"/>
 	<entry name="Tyranids/AcquireTileDescription" value="Набывае новую плітку для горада, спажываючы яе біямасу, з'ядаючы лясы і ператвараючы зямлю ў карэнную пароду. Будынкі льга ўзводзіць толькі на набытых плітках. Кожная плітка патрабуе ўплыў на ўтрыманьне."/>
 	<entry name="Tyranids/AdaptiveBiology" value="Адаптыўная Біялогія"/>
-	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зьніжэньне шкоды ад адсутнасьці пачуцьця болю на крок пасьля атрыманьня шкоды."/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Павялічвае зьніжэньне шкоды ад неадчувальнасьці да болю на крок пасьля атрыманьня шкоды."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="This hero has been created to adapt against the weaponry used by the current prey world's defenders."/>
 	<entry name="Tyranids/AlphaWarrior" value="Альфа-Ваяр"/>
 	<entry name="Tyranids/AlphaWarriorDescription" value="Павялічвае трапнасьць хаўрусных Ваяроў-Тыранідаў у радыусе дзеяньня."/>

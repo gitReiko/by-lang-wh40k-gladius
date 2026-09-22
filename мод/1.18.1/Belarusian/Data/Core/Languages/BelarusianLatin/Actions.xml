@@ -139,7 +139,7 @@
 	<entry name="ArmoriumCherubDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="ArmoriumCherubFlavor" value="Cherubim are diminutive flying cyborg constructs created to assist the Emperor's servants, be they scribe or soldier. Among the Adeptus Astartes they are rarely seen outside of the Librarius, save for those few that relay targeting data and carry spare ammunition for Devastator Squads."/>
 	<entry name="AssaultDoctrine" value="Užyć Daktrynu Šturma"/>
-	<entry name="AssaultDoctrineDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść Šturmavych Kaśmičnych Marynaŭ."/>
+	<entry name="AssaultDoctrineDescription" value="Taktyka Ordenu, što pavialičvaje trapnaść Šturmavych Kaśmičnych Marynaŭ."/>
 	<entry name="AssaultDoctrineFlavor" value="“Where there is uncertainty, I shall bring light<br/>Where there is doubt, I shall sow faith.<br/>Where there is shame, I shall point atonement.<br/>Where there is rage, I shall show its course.<br/>My word in the soul shall be as my bolter in the field.”<br/>  — Litany of Devotion, traditional"/>
 	<entry name="AstraMilitarum/ProjectedVoidShield" value="Prajekcyjny Pustečny Ščyt"/>
 	<entry name="AstraMilitarum/ProjectedVoidShieldDescription" value="Pavialičvaje źmianšeńnie škody ad dalokaha ahniu dla adzinak u radyusie dziejańnia."/>
@@ -196,8 +196,8 @@
 	<entry name="BolsterDefences" value="Uzmacnić Abaronu"/>
 	<entry name="BolsterDefencesDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju na abranaj plitcy."/>
 	<entry name="BolsterDefencesFlavor" value="“Every position must be held to the last man: there must be no retirement. With our backs to the wall, and believing in the justice of our cause, each one of us must fight on to the end.”<br/>  — Imperial Warmaster Solon"/>
-	<entry name="BolterDrill" value="Užyć Prareźlivyja Bołtary"/>
-	<entry name="BolterDrillDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść bołtarnaj zbroi."/>
+	<entry name="BolterDrill" value="Užyć Bołtar-Dryl"/>
+	<entry name="BolterDrillDescription" value="Taktyka Ordenu, što pavialičvaje trapnaść bołtarnaj zbroi."/>
 	<entry name="BolterDrillFlavor" value="“I believe in three tenets of battle—firepower, firepower, and more firepower.”<br/>  — Kardan Stronos, Chapter Master of the Iron Hands"/>
 	<entry name="BringItDown" value="“Źniščycie Ich!”"/>
 	<entry name="BringItDownDescription" value="Pavialičvaje bronieprabivalnaść Łorda Kamisara i susiedniaj chaŭrusnaj piachoty Astra Militarum."/>
@@ -367,7 +367,7 @@
 	<entry name="CycleWeaponOnUse" value="Źmianić Zbroju Paśla Vykarystańnia"/>
 	<entry name="CycleWeaponOnUseDescription" value="Aŭtamatyčna źmianiaje aktyŭnuju zbroju paśla vykarystańnia."/>
 	<entry name="DeedsOfGlory" value="Chvalebnyja Vyčyny"/>
-	<entry name="DeedsOfGloryDescription" value="Daje Padziełu ŭpłyŭ za atrymańnie dośviedu ŭ bajach."/>
+	<entry name="DeedsOfGloryDescription" value="Daje Ordenu ŭpłyŭ za atrymańnie dośviedu ŭ bajach."/>
 	<entry name="DeedsOfGloryFlavor" value="“It is a captain's duty to place legionary lives in harm's way before his own. There is too little glory in the galaxy to go around and officers must be generous in the trust they place in others—for one day such brothers must be captains too.”<br/>  — Rouboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="DeployCity" value="Zasnavać Horad"/>
 	<entry name="DeployCityDescription" value="Apieracyja pa zasnavańni horada na abranaj plitcy.<br/><br/>Harady lha raźmiaščać tolki tam, dzie niama inšych haradoŭ u radyusie %1% plitak."/>
@@ -376,7 +376,7 @@
 	<entry name="DeployUnit" value="Razharnuć %1%"/>
 	<entry name="DeployUnitHint" value="<style name='Title'/>Razharnuć %1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%<style name='Italic'/>%9%"/>
 	<entry name="DevastatorDoctrine" value="Vykarystać Daktrynu Razburalnikaŭ"/>
-	<entry name="DevastatorDoctrineDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść Kosmamarynaŭ-Razburalnikaŭ i Centuryjonaŭ-Razburalnikaŭ."/>
+	<entry name="DevastatorDoctrineDescription" value="Taktyka Ordenu, što pavialičvaje trapnaść Kosmamarynaŭ-Razburalnikaŭ i Centuryjonaŭ-Razburalnikaŭ."/>
 	<entry name="DevastatorDoctrineFlavor" value="“Victory often rests on the correct weaponry being in the right place and at the right time. Even the most destructive weapons of war are worthless if absent from the battle.”<br/>  — Artor Amhrad, Chapter Master of the Astral Knights"/>
 	<entry name="Disappear" value="Źniknuć"/>
 	<entry name="Disband" value="Rasfarmavać"/>
@@ -426,7 +426,7 @@
 	<entry name="Drukhari/GrislyTrophiesDescription" value="Źnižaje straty marali hetaj adzinki i susiednich adzinak Drukchary."/>
 	<entry name="Drukhari/GrislyTrophiesFlavor" value="Some Drukhari vehicles are adorned with the disembodied heads of slain foes and daubed with copious amounts of enemy blood. The sight of the festering remains of once proud foes instils the Drukhari with arrogant pride."/>
 	<entry name="Drukhari/MasterOfPain" value="Majstar Bolu"/>
-	<entry name="Drukhari/MasterOfPainDescription" value="Daje dadatkovaje źnižeńnie škody ad adsutnaści pačućcia bolu hetaj adzincy i susiednim piachtonym adzinkam Drukchary."/>
+	<entry name="Drukhari/MasterOfPainDescription" value="Daje dadatkovaje źnižeńnie škody ad nieadčuvalnaści da bolu hetaj adzincy i susiednim piachtonym adzinkam Drukchary."/>
 	<entry name="Drukhari/MasterOfPainFlavor" value="Such exquisite agonies are inflicted by a Haemonculus on its followers that they barely feel their own suffering any more, as oblivious as a follower of Nurgle to the wounds inflicted on their bodies."/>
 	<entry name="Drukhari/NoEscape" value="Niama Vyratavańnia"/>
 	<entry name="Drukhari/NoEscapeDescription" value="Źnižaje ruch varožaj naziemnaj adzinki."/>
@@ -438,7 +438,7 @@
 	<entry name="Drukhari/RaidFromTheWebwayDescription" value="Zaklikaje časovy Partał Šlachu Pavucińnia."/>
 	<entry name="Drukhari/RaidFromTheWebwayFlavor" value="<string name='Units/Drukhari/WebwayPortalFlavor'/>"/>
 	<entry name="Drukhari/RaiderFortress" value="Zasnavać Krepaść Rejdaraŭ"/>
-	<entry name="Drukhari/RaiderFortressDescription" value="Zasnoŭvaje horad na zachoplenym Brama Šlachu Pavucińnia.<br/><br/>Harady lha budavać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
+	<entry name="Drukhari/RaiderFortressDescription" value="Zasnoŭvaje horad na zachoplenaj Bramie Šlachu Pavucińnia.<br/><br/>Harady lha budavać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
 	<entry name="Drukhari/RaiderFortressFlavor" value="It is a tribute to the ancient technologies of the fallen Aeldari empire that what appears to the herd races as a mighty city and fortress is to them a mere stopping point, a temporary haven whilst raiding before they return to the Webway and dark Commorragh."/>
 	<entry name="Drukhari/ReservoirOfPain" value="Reziervuar Bolu"/>
 	<entry name="Drukhari/ReservoirOfPainDescription" value="Adnaŭlaje zdaroŭje chaŭrusnych adzinak Drukchary, kali hetaja adzinka atakuje na hety krok."/>
@@ -465,7 +465,7 @@
 	<entry name="Drukhari/SoulShellingDescription" value="Zdolnaść Hoład pa Dušach nanosić škodu abranaj varožaj adzincy."/>
 	<entry name="Drukhari/SoulShellingFlavor" value="The most powerful Drukhari weapons arent light enough to take on a raid, instead reserved for the defense of the Kabals base in Comorroragh or on Battleships for realspace incursions—Phantom Lances and Scythe Missile Launchers and so on. But a wily Archon might allow his minions to fire one of these weapons through a temporary portal, knowing all the while the weapon might be turned on them…"/>
 	<entry name="Drukhari/SpiritProbe" value="Duchoŭny Zond"/>
-	<entry name="Drukhari/SpiritProbeDescription" value="Daje dadatkovaje źnižeńnie škody ad adsutnaści pačućcia bolu hetaj adzincy i susiedniaj piachocie dy žachlivym stvareńniam Drukchary 3 i vyšejšaha roŭnia."/>
+	<entry name="Drukhari/SpiritProbeDescription" value="Daje dadatkovaje źnižeńnie škody ad nieadčuvalnaści da bolu hetaj adzincy i susiedniaj piachocie dy žachlivym stvareńniam Drukchary 3 i vyšejšaha roŭnia."/>
 	<entry name="Drukhari/SpiritProbeFlavor" value="A spirit probe is a conductor for agony; a device that ensures no scrap of pain or misery escapes the Cronos contra-empathic net. Running hot on tides of excruciation, it boosts the resilience of nearby Drukhari, allowing them to stride laughing amid volleys of fire and rains of blows that would otherwise tear them apart."/>
 	<entry name="Drukhari/SplinteredGenius" value="Padzieleny Hienij"/>
 	<entry name="Drukhari/SplinteredGeniusDescription" value="Daje dadatkovyja ački dziejańnia hetaj adzincy."/>
@@ -480,13 +480,13 @@
 	<entry name="Drukhari/WealthPlunderDescription" value="Zdolnaść Hoład pa Dušach daje ŭsich adzinkam Drukchary daśledavańni za zabojstvy vorahaŭ."/>
 	<entry name="Drukhari/WealthPlunderFlavor" value="<string name='Traits/Drukhari/WealthPlunderFlavor'/>"/>
 	<entry name="Drukhari/WebwayTravel" value="<string name='Actions/Eldar/WebwayTravel'/>"/>
-	<entry name="Drukhari/WebwayTravelDescription" value="Vandruje ad adnoj chaŭrusnaj Bramy Šlacha Pavucińnia, Krepaści Rejdaraŭ ci Partała Šlachu Pavucińnia da inšaj."/>
+	<entry name="Drukhari/WebwayTravelDescription" value="Vandruje pamiž chaŭrusnymi Bramami Šlachu Pavucińnia, Krepaściami Rejdaraŭ abo Partałami Šlachu Pavucińnia."/>
 	<entry name="Drukhari/WebwayTravelFlavor" value="<string name='Actions/Eldar/WebwayTravelFlavor'/>"/>
 	<entry name="Drukhari/WhirlingDeath" value="Vichura Śmierci"/>
 	<entry name="Drukhari/WhirlingDeathDescription" value="Admysłovaja ataka, jakaja b'je ŭsich susiednich vorahaŭ."/>
 	<entry name="Drukhari/WhirlingDeathFlavor" value="This murder-artist is constantly moving, their every acrobatic step accompanied by a lashing blade. They are at their most dangerous when the foe believes them surrounded, but this simply gives them more victims to practice their killing art upon."/>
-	<entry name="Eldar/ActivateWebwayGate" value="Aktyvavać Šlach Pavucińnia"/>
-	<entry name="Eldar/ActivateWebwayGateDescription" value="Aktyvuje i zachoplivaje niejtralny Šlach Pavucińnia."/>
+	<entry name="Eldar/ActivateWebwayGate" value="Aktyvavać Bramu Šlachu Pavucińnia"/>
+	<entry name="Eldar/ActivateWebwayGateDescription" value="Aktyvuje i zachoplivaje niejtralnuju Bramu Šlachu Pavucińnia."/>
 	<entry name="Eldar/ActivateWebwayGateFlavor" value="The Webway was once the backbone of the Aeldari empire—tunnels constructed through the warp in the time of the Old Ones that connected their golden core systems with the Maiden Worlds. Now those core systems are the Chaos-riddled Crone Worlds and the Webway is in pieces—but not on Gladius Prime…"/>
 	<entry name="Eldar/AutarchsAssault" value="Napad Aŭtarcha"/>
 	<entry name="Eldar/AutarchsAssaultDescription" value="Zabojstva voraha Aŭtarcham pavialičvaje škodu chaŭrusnych adzinak Štučnaha Śvietu Aeldary ŭ vobłaści."/>
@@ -510,7 +510,7 @@
 	<entry name="Eldar/EmboldenHorrifyDescription" value="Adnaŭlaje maral abranaj chaŭrusnaj adzinki abo źnižaje maral varožaj."/>
 	<entry name="Eldar/EmboldenHorrifyFlavor" value="The Spiritseer calls down the splendour of battle, instilling his allies with valour or sapping courage from his foes."/>
 	<entry name="Eldar/KhaineAwakened" value="Abudžeńnie Kchajna"/>
-	<entry name="Eldar/KhaineAwakenedDescription" value="Pavialičvaje ataki i škodu ŭ blizkim bai, źnižaje straty marali, daje nieŭsprymalnaść da strachu i pryviazvajecca da susiednich chaŭrusnych adzinak Aeldary."/>
+	<entry name="Eldar/KhaineAwakenedDescription" value="Pavialičvaje ataki i škodu ŭ blizkim bai, źnižaje straty marali i daje susiednim chaŭrusnym adzinkam Aeldary nieŭsprymalnaść da strachu i skoŭvańnia."/>
 	<entry name="Eldar/KhaineAwakenedFlavor" value="As the Wailing Doom cries out for blood and the Avatar rouses itself for war, so too are nearby Aeldari driven to greater deeds in his name. Fearing nothing, they throw themselves into the melee battle-crazed."/>
 	<entry name="Eldar/KhainesMight" value="Moc Kchajna"/>
 	<entry name="Eldar/KhainesMightDescription" value="Pavialičvaje ataki blizkaha boju Aŭtarcha."/>
@@ -546,10 +546,10 @@
 	<entry name="Eldar/WarShoutDescription" value="Źnižaje maral susiednich varožych adzinak."/>
 	<entry name="Eldar/WarShoutFlavor" value="In Aeldari mythology, banshees foreshadow the death of warriors with their howl. The Howling Banshee aspect warriors wear a specialised mask that amplifies and weaponises their thoughts into psychic screams. Whilst their foes are stunned, the Banshees close, power swords at the ready…"/>
 	<entry name="Eldar/WebwayRedoubt" value="Zasnavać Redut Šlacha Pavucińnia"/>
-	<entry name="Eldar/WebwayRedoubtDescription" value="Zasnoŭvaje horad na zachoplenym Šlachu Pavucińnia.<br/><br/>Harady lha budavać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
+	<entry name="Eldar/WebwayRedoubtDescription" value="Zasnoŭvaje horad na zachoplenaj Bramie Šlachu Pavucińnia.<br/><br/>Harady lha budavać tolki ŭ vypadku adsutnaści inšych haradoŭ u radyusie %1% plitak. Kožny horad paśla pieršaha źnižaje łajalnaść uva ŭsich haradach na %2%."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="To preserve the ancient Webway gates on Gladius, the Aeldari know that they must protect them. These rapidly-constructed Redoubts provide some defenses, drawing on the Webways limitless power to devastate any enemies foolish enough to venture near."/>
 	<entry name="Eldar/WebwayTravel" value="Vandravać praz Šlach Pavucińnia"/>
-	<entry name="Eldar/WebwayTravelDescription" value="Vandruje ad adnaho Šlacha Pavucińnia abo Reduta Pavucińnia da inšaha."/>
+	<entry name="Eldar/WebwayTravelDescription" value="Vandruje pamiž chaŭrusnymi Bramami Šlachu Pavucińnia abo Redutami Pavucińnia."/>
 	<entry name="Eldar/WebwayTravelFlavor" value="The unique Webway sub-structure riddling Gladius Prime enables the Aeldari and Drukhari to travel rapidly between the gateways dotted across the planet—though now that they are active, wise opposing races will recognise their threat and eliminate them on first sight."/>
 	<entry name="Eldar/WillOfAsuryan" value="Vola Asur'jana"/>
 	<entry name="Eldar/WillOfAsuryanDescription" value="Adnaŭlaje maral chaŭrusnych adzinak u vobłaści."/>
@@ -610,7 +610,7 @@
 	<entry name="LevitateDescription" value="Lacić praz pieraškody da abranaj plitki."/>
 	<entry name="LevitateFlavor" value="The psyker uses his telekinetic powers to launch himself skywards, leaping across the battlefield in a single bound."/>
 	<entry name="MachineEmpathy" value="Vykarystać Empatyju Mašyn"/>
-	<entry name="MachineEmpathyDescription" value="Taktyka Padziełu, što adnaŭlaje zdaroŭje mašyn i fartyfikacyjaŭ."/>
+	<entry name="MachineEmpathyDescription" value="Taktyka Ordenu, što adnaŭlaje zdaroŭje mašyn i fartyfikacyjaŭ."/>
 	<entry name="MachineEmpathyFlavor" value="“Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of obedience which overcomes all obstacles, and armed with the three great guns of Zeal, Duty and Purity.”<br/>  — Traditional Imperial prayer, source unknown"/>
 	<entry name="MediPack" value="Aptečka"/>
 	<entry name="MediPackDescription" value="Adnaŭlaje zdaroŭje."/>
@@ -800,7 +800,7 @@
 	<entry name="ShroudingDescription" value="Pavialičvaje źmianšeńnie škody ad dalokaha boju hetaj adzinki i susiednich chaŭrusnych adzinak."/>
 	<entry name="ShroudingFlavor" value="The psyker uses his mastery of the Warp to fog the minds of his enemies, clouding their sight and instincts so that he appears as nothing more than an indistinct shadow."/>
 	<entry name="SiegeMasters" value="Razharnuć Majstroŭ Abłohi"/>
-	<entry name="SiegeMastersDescription" value="Taktyka Padziełu, što pavialičvaje škodu adzinak, atakujučych varožyja adzinki ŭ haradach i fartyfikacyjach."/>
+	<entry name="SiegeMastersDescription" value="Taktyka Ordenu, što pavialičvaje škodu adzinak, atakujučych varožyja adzinki ŭ haradach i fartyfikacyjach."/>
 	<entry name="SiegeMastersFlavor" value="“A fortress circumvented ceases to be an obstacle. A fortress destroyed ceases to be a threat. Do not forget the difference.”<br/>  — Leman Russ, Primarch of the Space Wolves"/>
 	<entry name="Signum" value="Sihnum"/>
 	<entry name="SignumDescription" value="<string name='Traits/RelentlessDescription'/>"/>
@@ -848,7 +848,7 @@
 	<entry name="SistersOfBattle/KeepersOfTheFaith" value="Zachavalnicy Viery"/>
 	<entry name="SistersOfBattle/KeepersOfTheFaithDescription" value="Nie daje nazirać, ale pavialičvaje źnižeńnie škody, kali ŭ adzincy zastalisia niavykarastanyja dziejańni.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/KeepersOfTheFaithFlavor" value="<string name='Traits/SistersOfBattle/KeepersOfTheFaithFlavor'/>"/>
-	<entry name="SistersOfBattle/LaudHailer" value="Chvalebnaje Vitańnie"/>
+	<entry name="SistersOfBattle/LaudHailer" value="Chvalebny Hučnamoŭnik"/>
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Susiedniaja adzinka Adepta Sarorytas moža źdiajśniać Akty Viery, navat kali ŭzrušana."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="Proclaiming the power of the Emperor in heavenly tones, a Laud Hailer bolsters the spirits of the faithful."/>
 	<entry name="SistersOfBattle/LeadTheRighteous" value="Uznačalvańnie Praviednych"/>
@@ -857,8 +857,8 @@
 	<entry name="SistersOfBattle/LightOfTheEmperor" value="Śviatło Impieratara"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorDescription" value="Pavialičvaje trapnaść.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
 	<entry name="SistersOfBattle/LightOfTheEmperorFlavor" value="Sisters of the Adepta Sororitas are filled with the knowledge that the only thing they need fear is failing the Emperor of Mankind. Armed with such faith, they are driven to unprecedented feats of prowess."/>
-	<entry name="SistersOfBattle/MedicusMinistorum" value="Miedykus Ministrorum"/>
-	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Daje źnižeńnie škody ad adsutnaści pačućcia bolu susiedniaj chaŭrusnaj piachocie."/>
+	<entry name="SistersOfBattle/MedicusMinistorum" value="Miedykus Ministorum"/>
+	<entry name="SistersOfBattle/MedicusMinistorumDescription" value="Daje źnižeńnie škody ad nieadčuvalnaści da bolu susiedniaj chaŭrusnaj piachocie."/>
 	<entry name="SistersOfBattle/MedicusMinistorumFlavor" value="A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum and by the Hospitallers of the Adepta Sororitas. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments."/>
 	<entry name="SistersOfBattle/MiraculousIntervention" value="Cudoŭnaje Ŭmiašalnictva"/>
 	<entry name="SistersOfBattle/MiraculousInterventionDescription" value="Paśla śmierci Śviataja Seleścina nieadkładna viartajecca da žyćcia.<br/><br/><string name='Actions/SistersOfBattle/ActOfFaithDescription'/>"/>
@@ -949,7 +949,7 @@
 	<entry name="SupersonicDescription" value="Pavialičvaje ruch."/>
 	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
 	<entry name="TacticalDoctrine" value="Užyć Taktyčnuju Daktrynu"/>
-	<entry name="TacticalDoctrineDescription" value="Taktyka Padziełu, što pavialičvaje trapnaść Taktyčnych Kaśmičnych Marynaŭ."/>
+	<entry name="TacticalDoctrineDescription" value="Taktyka Ordenu, što pavialičvaje trapnaść Taktyčnych Kaśmičnych Marynaŭ."/>
 	<entry name="TacticalDoctrineFlavor" value="“They shall be pure of heart and strong of body, untainted by doubt and unsullied by self-aggrandisement. They will be bright stars on the firmament of battle, Angels of Death whose shining wings bring swift annihilation to the enemies of Man. So it shall be for a thousand times for a thousand years, unto the very end of eternity and the extinction of mortal flesh.”<br/>  — Codex Astartes, by Roboute Guilliman, Primarch of the Ultramarines, Lord Commander and Imperial Regent"/>
 	<entry name="Tau/AdvancedTargetingSystem" value="Ustalavać <string name='Traits/Tau/AdvancedTargetingSystem'/>"/>
 	<entry name="Tau/AdvancedTargetingSystemDescription" value="Ustalavać sistemu padtrymki, što pavialičvaje trapnaść stralby."/>
@@ -1040,7 +1040,7 @@
 	<entry name="Tau/ShieldGenerator" value="Ustalavać <string name='Traits/Tau/ShieldGenerator'/>"/>
 	<entry name="Tau/ShieldGeneratorDescription" value="Ustaloŭvaje sistemu padtrymki, što pavialičvaje źnižeńnie škody."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="This generator projects a choesive energy field capable of protecting the bearer from heavy ordnance and anti-tank weapons fire."/>
-	<entry name="Tau/StealthField" value="Ščyt-Niabačnik"/>
+	<entry name="Tau/StealthField" value="Pole Niabačnaści"/>
 	<entry name="Tau/StealthFieldDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju dla abranaj chaŭrusnaj adzinki."/>
 	<entry name="Tau/StealthFieldFlavor" value="<string name='Units/Tau/StealthDroneFlavor'/>"/>
 	<entry name="Tau/StimulantInjector" value="Ustalavać <string name='Traits/Tau/StimulantInjector'/>"/>
@@ -1070,15 +1070,15 @@
 	<entry name="TelekineDome" value="Kupał Telekiniezu"/>
 	<entry name="TelekineDomeDescription" value="Stvaraje bar'jer na plitcy Bibliaryja i susiednich plitkach. Bar'jer pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="TelekineDomeFlavor" value="Bullets bounce off of thin air and are deflected harmlessly away as the psyker erects a barrier of shimmering energy about himself."/>
-	<entry name="TheFleshIsWeak" value="Užyć “Płoć Słaba”"/>
-	<entry name="TheFleshIsWeakDescription" value="Taktyka Padziełu, što pavialičvaje źnižeńnie škody dla piachoty."/>
+	<entry name="TheFleshIsWeak" value="Užyć “Płoć Słabaja”"/>
+	<entry name="TheFleshIsWeakDescription" value="Taktyka Ordenu, što pavialičvaje źnižeńnie škody dla piachoty."/>
 	<entry name="TheFleshIsWeakFlavor" value="“We have been wounded sorely. Yet still we stand, with fire in our eyes and valour in our hearts. Let them think us beaten. We shall teach them otherwise.”<br/>  — Pedro Kantor, Chapter Master of the Crimson Fists"/>
 	<entry name="TurboBoost" value="Turba-Paskareńnie"/>
 	<entry name="TurboBoostDescription" value="Pavialičvaje ruch."/>
 	<entry name="Tyranids/AcquireTile" value="Nabyć plitku (Tyranidy)"/>
 	<entry name="Tyranids/AcquireTileDescription" value="Nabyvaje novuju plitku dla horada, spažyvajučy jaje bijamasu, z'jadajučy lasy i pieratvarajučy ziamlu ŭ karennuju parodu. Budynki lha ŭzvodzić tolki na nabytych plitkach. Kožnaja plitka patrabuje ŭpłyŭ na ŭtrymańnie."/>
 	<entry name="Tyranids/AdaptiveBiology" value="Adaptyŭnaja Bijałohija"/>
-	<entry name="Tyranids/AdaptiveBiologyDescription" value="Pavialičvaje źnižeńnie škody ad adsutnaści pačućcia bolu na krok paśla atrymańnia škody."/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Pavialičvaje źnižeńnie škody ad nieadčuvalnaści da bolu na krok paśla atrymańnia škody."/>
 	<entry name="Tyranids/AdaptiveBiologyFlavor" value="This hero has been created to adapt against the weaponry used by the current prey world's defenders."/>
 	<entry name="Tyranids/AlphaWarrior" value="Alfa-Vajar"/>
 	<entry name="Tyranids/AlphaWarriorDescription" value="Pavialičvaje trapnaść chaŭrusnych Vajaroŭ-Tyranidaŭ u radyusie dziejańnia."/>

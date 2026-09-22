@@ -155,7 +155,7 @@
 	<entry name="AdeptusMechanicus/GuldiresOrison" value="Paciery Huldzira"/>
 	<entry name="AdeptusMechanicus/GuldiresOrisonDescription" value="Źnižaje trapnaść."/>
 	<entry name="AdeptusMechanicus/GuldiresOrisonFlavor" value="Guldire was a Chief Warpsmith of the Word Bearers under Erebus. His ‘Orison is a prayer of pure corrupted machine code, carrying demonic whispers from the heart of the Warp. Though rendered non-lethal by Imperial defenses, it is still incredibly distracting…"/>
-	<entry name="AdeptusMechanicus/FidorumVossPrime" value="Fidorum Voss Prajm"/>
+	<entry name="AdeptusMechanicus/FidorumVossPrime" value="Fidorum Vos Prajm"/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Pavialičvaje vytvorčaść upłyvu za kožny budynak na susiedniaj plitcy."/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="The Cult Mechanicus Priesthood venerate the Forge World of Voss Prime for its loyalty above all others—its loyalty to the Imperium is second-to-none. Even when Mars itself fell to the Dark Mechanicum, Voss Prime continued to churn out armaments and was instrumental in the defeat of the Horus Heresy."/>
 	<entry name="AdeptusMechanicus/GalvanicField" value="<string name='Actions/AdeptusMechanicus/GalvanicField'/>"/>
@@ -424,7 +424,7 @@
 	<entry name="ChaosSpaceMarines/Afflicted" value="Pakutny"/>
 	<entry name="ChaosSpaceMarines/AfflictedDescription" value="Nanosić škodu kožny krok."/>
 	<entry name="ChaosSpaceMarines/AfflictedFlavor" value="<string name='Actions/ChaosSpaceMarines/NurglesGiftFlavor'/>"/>
-	<entry name="ChaosSpaceMarines/ArcaneOcculum" value="Mistyčny Akkułum"/>
+	<entry name="ChaosSpaceMarines/ArcaneOcculum" value="Mistyčny Akułum"/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumDescription" value="Darunak Chaosu, jaki pavialičvaje trapnaść."/>
 	<entry name="ChaosSpaceMarines/ArcaneOcculumFlavor" value="A blood-shot eye pushes through the flesh."/>
 	<entry name="ChaosSpaceMarines/AuraOfDarkGlory" value="Aŭra Ciomnaj Słavy"/>
@@ -441,7 +441,7 @@
 	<entry name="ChaosSpaceMarines/BloodRage" value="Kryvavaja Lutaść"/>
 	<entry name="ChaosSpaceMarines/BloodRageDescription" value="Pavialičvaje ataki blizkaha boju i ruchu."/>
 	<entry name="ChaosSpaceMarines/BloodRageFlavor" value="The Helbrute launches itself at nearby enemies, driving its cursed Dreadnought prison past its ancient safety limits into behaviour thoroughly daemonic."/> <!-- Hellbrute Crazed result. -->
-	<entry name="ChaosSpaceMarines/BoltDamage" value="Bołtary Narodžanyja ŭ Varpie"/>
+	<entry name="ChaosSpaceMarines/BoltDamage" value="Varpanarodžanyja Bołtary"/>
 	<entry name="ChaosSpaceMarines/BoltDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="ChaosSpaceMarines/BoltDamageFlavor" value="Bridging the promethium-powered Inferno Bolts of the Imperium and the psychically-powered Inferno Bolts of the Thousand Sons Traitor Legion, Warpborne Bolt skip through the Warp to unleash superheated chemical fire upon their targets."/>
 	<entry name="ChaosSpaceMarines/CityTier2" value="Klič Ciomnych Bahoŭ"/>
@@ -600,7 +600,7 @@
 	<entry name="ChaosSpaceMarines/WorthyOffering" value="<string name='Actions/ChaosSpaceMarines/WorthyOffering'/>"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingDescription" value="<string name='Actions/ChaosSpaceMarines/WorthyOfferingDescription'/>"/>
 	<entry name="ChaosSpaceMarines/WorthyOfferingFlavor" value="<string name='Actions/ChaosSpaceMarines/WorthyOfferingFlavor'/>"/>
-	<entry name="ChapterUnity" value="Adzinstva Padziełu"/>
+	<entry name="ChapterUnity" value="Adzinstva Ordenu"/>
 	<entry name="ChapterUnityDescription" value="Pavialičvaje vytvorčaść łajalnaści."/>
 	<entry name="ChapterUnityFlavor" value="The relics housed in the Great Hall remind the Adeptus Astartes of the heroes of the past, and that one day their armour, weapons and bones could also be revered here."/>
 	<entry name="City" value="Horad"/>
@@ -667,7 +667,7 @@
 	<entry name="Drukhari/BladeArtists" value="Mastaki Laza"/>
 	<entry name="Drukhari/BladeArtistsDescription" value="Pavialičvaje bronieprabivalnaść blizkaha boju."/>
 	<entry name="Drukhari/BladeArtistsFlavor" value="Every denizen of Commorragh learns from a young age the value of blades, and all are adept in their usage, whether those wielded by their cruel hands or as part of their razor-edged armour."/>
-	<entry name="Drukhari/BladeWhip" value="Puha s Lozami"/> 
+	<entry name="Drukhari/BladeWhip" value="Puha ź Lozami"/> 
 	<entry name="Drukhari/BladeWhipDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="Drukhari/BladeWhipFlavor" value="Only the Lacerai about the Wych cults regularly utilise the segmented blade known as a Razorflail, but their ability with it is legendary. Attacks that seem certain to miss curve to connect, shifting between whips and blades at will."/>
 	<entry name="Drukhari/BloodDancer" value="<string name='Actions/Drukhari/BloodDancer'/>"/>
@@ -716,7 +716,7 @@
 	<entry name="Drukhari/HeavyWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Drukhari/HeavyWeaponBonusFlavor" value="“Do not hope for a new day, little mortals. The Drukhari have you now and our grip is unshakeable. I assure you, all you will know now is eternal night—and eternal torment.” — Gyrthineus Roche, Archon of The Last Blade"/>
 	<entry name="Drukhari/MasterOfPain" value="<string name='Actions/Drukhari/MasterOfPain'/>"/>
-	<entry name="Drukhari/MasterOfPainDescription" value="Daje dadatkovaje źnižeńnie škody ad Adsutnaści Pačućcia Bolu."/>
+	<entry name="Drukhari/MasterOfPainDescription" value="Daje dadatkovaje źnižeńnie škody ad Nieadčuvalnaści da Bolu."/>
 	<entry name="Drukhari/MasterOfPainFlavor" value="<string name='Actions/Drukhari/MasterOfPainFlavor'/>"/>
 	<entry name="Drukhari/MeleeWeaponBonus" value="Vytančanaje, Daskanałaje Lazo"/>
 	<entry name="Drukhari/MeleeWeaponBonusDescription" value="Pavialičvaje bronieprabivalnaść."/>
@@ -757,7 +757,7 @@
 	<entry name="Drukhari/SoulHunger" value="Hoład pa Dušach"/>
 	<entry name="Drukhari/SoulHungerDescription" value="Daje ŭpłyŭ za zabojstva voraha."/>
 	<entry name="Drukhari/SoulHungerFlavor" value="The only form of sustenance that refreshes a Drukhari—the only thing that makes their immortal lives at all palatable and endurable, as Slaanesh saps their souls—is the suffering of others. And those Archons who can ensure a regular supply of victims and of pain receive loyalty—or rather, the nearest to it that a Drukhari can manage…"/>
-	<entry name="Drukhari/SoulHungerLoyalty" value="Dušeŭny Chleb i Vidovišča"/>
+	<entry name="Drukhari/SoulHungerLoyalty" value="Chleb i Vidoviščy"/>
 	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="Pavialičvaje hienieracyju łajalnaści."/>
 	<entry name="Drukhari/SoulHungerLoyaltyFlavor" value="In a world so devoid of loyalty, it pays to keep the masses on side—who knows when you will need to drive a lynch mob after your rival, for example? When an Archon pays for a Wych cult to perform in the arena or dispenses food, weapons or victims to the desperate of Commorraghs undercity, every Drukhari understands that he does it not from compassion, but out of calculation."/>
 	<entry name="Drukhari/SoulHungerOutposts" value="Dziesiacina Duš"/>
@@ -962,9 +962,9 @@
 	<entry name="FearDescription" value="Źnižaje maral kožny krok."/>
 	<entry name="FearFlavor" value="<string name='Actions/AuraOfFearFlavor'/>"/>
 	<entry name="Fearless" value="Advažny"/>
-	<entry name="FearlessDescription" value="Źnižaje straty marali i daje imunitet da strachu i skavanaści."/>
+	<entry name="FearlessDescription" value="Źnižaje straty marali i daje imunitet da strachu i skoŭvańnia."/>
 	<entry name="FearlessFlavor" value="Fearless troops never give up and seldom take full use of cover—even if it would be wiser to do so."/>
-	<entry name="FeelNoPain" value="Adsutnaść Pačućcia Bolu"/>
+	<entry name="FeelNoPain" value="Nieadčuvalnaść da Bolu"/>
 	<entry name="FeelNoPainDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="FeelNoPainFlavor" value="Whether through force of will, bionic augmentation or foul sorcery, this warrior can fight despite fearsome wounds."/>
 	<entry name="Flail" value="Cep"/>
@@ -1303,7 +1303,7 @@
 	<entry name="OrkoidFungus" value="Orkoidny Hryb"/>
 	<entry name="OrkoidFungusDescription" value="Adnaŭlaje zdaroŭje kožny krok naziemnym adzinkam Orkaŭ."/>
 	<entry name="OrkoidFungusFlavor" value="Orks have a weirdly symbiotic relationship with the fungus that spreads across their planets—it's genetically identical to them, Squigs and Grots, and all these species tend to emerge from it rather than being born. Ork units depleted by battle would be wise to retreat to these fields to acquire (literally) fresh recruits."/>
-	<entry name="OrkoidFungusBonusHealingRate" value="Hrybny Les"/>
+	<entry name="OrkoidFungusBonusHealingRate" value="Hrybnyja Lasy"/>
 	<entry name="OrkoidFungusBonusHealingRateDescription" value="Adnaŭlaje zdaroŭje kožny krok naziemnym adzinkam Orkaŭ."/>
 	<entry name="OrkoidFungusBonusHealingRateFlavor" value="Once the Ork fungal spores are well-established across a planet, they can resemble forests—albeit, comprised of immense mushrooms, spewing out feral Orks, Grots and Squigs."/>
 	<entry name="OrkoidFungusFood" value="Kvitnieńnie Hryblinha"/>
@@ -1343,13 +1343,13 @@
 	<entry name="Orks/BustHeadsFlavor" value="<string name='Actions/Orks/BustHeadsFlavor'/>"/>
 	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
 	<entry name="Orks/ChannelMentalEmissionsDescription" value="Pavialičvaje vytvorčaść daśledavańniaŭ."/>
-	<entry name="Orks/CityEnergy" value="Habbinzy Kraklina"/>
+	<entry name="Orks/CityEnergy" value="Habinzy Kraklina"/>
 	<entry name="Orks/CityEnergyDescription" value="Pavialičvaje vytvorčaść enierhii."/>
 	<entry name="Orks/CityEnergyFlavor" value="Green and red lightning arcs between the intricate prongs of these power amplification devices, frying any Greenskin who wanders too near. It's quite the spectator sport, but the technology is missing key components so couldn't possibly bear out the Meks' claims of its increase in energy output—save for the Orks' reality-altering faith that it does."/>
 	<entry name="Orks/CityGrowth" value="Bosamoŭcy"/>
 	<entry name="Orks/CityGrowthDescription" value="Pavialičvaje vytvorčaść Pavieciaŭ Łamačča."/>
 	<entry name="Orks/CityGrowthFlavor" value="“Naw, I don't want zogging tweeterz. I want gorkawooferz… wunz that go up ta eleven!”<br/>  — Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
-	<entry name="Orks/CityInfluence" value="Bujnyja Bliskučy"/>
+	<entry name="Orks/CityInfluence" value="Bujnyja Bliskučki"/>
 	<entry name="Orks/CityInfluenceDescription" value="Pavialičvaje vytvorčaść upłyvu."/>
 	<entry name="Orks/CityInfluenceFlavor" value="“I don't knows what dems is, but I wants 'em.”<br/>  — Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
 	<entry name="Orks/CityLoyalty" value="Trafiejnyja Šasty"/>
@@ -1395,7 +1395,7 @@
 	<entry name="Orks/KustomForceField" value="<string name='Actions/Orks/KustomForceField'/>"/>
 	<entry name="Orks/KustomForceFieldDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="<string name='Actions/Orks/KustomForceFieldFlavor'/>"/>
-	<entry name="Orks/MeleeDamage" value="Bujnyja Čoppy"/>
+	<entry name="Orks/MeleeDamage" value="Bujnyja Čopy"/>
 	<entry name="Orks/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas… and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
 	<entry name="Orks/MightMakesRight" value="Moc Stvaraje Prava"/>
@@ -1403,7 +1403,7 @@
 	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
 	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Daje ŭpłyŭ, jaki zaležyć ad utrymańnia, pry atacy."/>
-	<entry name="Orks/Scavenger" value="Šmiaciar"/>
+	<entry name="Orks/Scavenger" value="Šmieciar"/>
 	<entry name="Orks/ScavengerDescription" value="Daje rudu za zabojstva voraha."/>
 	<entry name="Orks/ScavengerFlavor" value="Orks aren't known for their love of labour, preferring to sit around between battles picking bits of Squig out of their mouths and fighting each other. So rather than mine minerals from the ground, they tend to salvage them from, well, anywhere. Or rather their Grot underlings do."/>
 	<entry name="Orks/WarbikeTurboBoost" value="<string name='Actions/Orks/WarbikeTurboBoost'/>"/>
@@ -1527,13 +1527,13 @@
 	<entry name="SistersOfBattle/ActOfFaith" value="Akt Viery"/>
 	<entry name="SistersOfBattle/ActOfFaithDescription" value="Moža źdiajśniać Akty Viery, kali adzinka nie złamanaja i nie ŭzrušanaja."/>
 	<entry name="SistersOfBattle/ActOfFaithFlavor" value="The Adepta Sororitas can draw upon the wellspring of their faith and call upon the Emperor to guide their actions. So does absolute belief in the Imperial Creed allow the Sisters of Battle to perform the seemingly impossible upon the battlefield. Yet miracles are not to be relied upon as a matter of course. At the heart of the Imperial Creed is the belief that the divine Emperor relies on his followers to create their own salvation, but also that if the situation is sufficiently bleak, he will intervene to deliver his true servants."/>
-	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="Ancharyt Sarkafahus"/>
+	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="Sarkafah Ancharyta"/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Pavialičvaje braniu."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusFlavor" value="To those Repentia who not only fled, but betrayed their Sisters in battle, an even worse fate awaits. After being wired into the crucible of their Mortifier they are further entombed behind thick adamantine casing. This sarcophagus protects their tortured bodies from incoming fire and desperately swung blades, denying them the release of death."/>
 	<entry name="SistersOfBattle/AngelicVisage" value="Aniolski Lik"/>
 	<entry name="SistersOfBattle/AngelicVisageDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="SistersOfBattle/AngelicVisageFlavor" value="Beatifically smiling, Zephyrim deflect the strikes of their foes with fluid grace before landing a killing blow of their own, typically with a point-blank headshot from a bolt pistol or a strike of their power sword."/>
-	<entry name="SistersOfBattle/AnguishOfTheUnredeemed" value="Pakuty Zbaviciela"/>
+	<entry name="SistersOfBattle/AnguishOfTheUnredeemed" value="Pakuty Niezbaŭlenych"/>
 	<entry name="SistersOfBattle/AnguishOfTheUnredeemedDescription" value="Nanosić škodu atakoŭcam u blizkim bai padčas śmierci."/>
 	<entry name="SistersOfBattle/AnguishOfTheUnredeemedFlavor" value="Mortifiers blaze a trail of destruction with their flamers before charging headlong into the foe, guilt and pain driving them on, heedless of danger. Even as they die, they strike at their enemy, striving for redemption with every moment."/>
 	<entry name="SistersOfBattle/ArmourOfSaintKatherine" value="Brania Śviatoj Kaciaryny"/>
@@ -1554,10 +1554,10 @@
 	<entry name="SistersOfBattle/CatechismOfRepugnance" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnance'/>"/>
 	<entry name="SistersOfBattle/CatechismOfRepugnanceDescription" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnanceDescription'/>"/>
 	<entry name="SistersOfBattle/CatechismOfRepugnanceFlavor" value="<string name='Actions/SistersOfBattle/CatechismOfRepugnanceFlavor'/>"/>
-	<entry name="SistersOfBattle/CityGrowth" value="Rekrutavańnie Pasłušnikaŭ"/>
+	<entry name="SistersOfBattle/CityGrowth" value="Nabor Pasłušnic"/>
 	<entry name="SistersOfBattle/CityGrowthDescription" value="Pavialičvaje chutkaść uzrostu haradoŭ."/>
 	<entry name="SistersOfBattle/CityGrowthFlavor" value="The Ork invasion and subsequent war on Gladius Prime left many, many orphans. Sending missionaries and preachers into the wastes to recruit for the armies of the Imperium will bolster our citys growth."/>
-	<entry name="SistersOfBattle/CityTier2" value="Preceptory Aneksis"/>
+	<entry name="SistersOfBattle/CityTier2" value="Preceptary Aneksis"/>
 	<entry name="SistersOfBattle/CityTier2Description" value="Pavialičvaje radyus zabudovy haradoŭ."/>
 	<entry name="SistersOfBattle/CityTier2Flavor" value="Given the numbers of refugees pouring into the Preceptory from the ruined hives and wastelands of Gladius Prime, the Canoness Superior has ordered that we sanctify new land for use, bringing any natives into the fold—willingly or not."/>
 	<entry name="SistersOfBattle/CityTier3" value="Krepaść-Śviacilišča"/>
@@ -1575,7 +1575,7 @@
 	<entry name="SistersOfBattle/ExpertFighters" value="Daśviedčanyja Źniščalniki"/>
 	<entry name="SistersOfBattle/ExpertFightersDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="In most strike wings a handful of aircrafts are flown by veteran pilotes. These fighter aces are truly dangerous foes, able to predict the reaction of their prey with uncanny precision. Few of them survive beyond one or two campaigns as they draw the most dangerous missions where only the most experienced prevail."/>
-	<entry name="SistersOfBattle/FlankSpeed" value="Fłanhavaja Chutkaść"/>
+	<entry name="SistersOfBattle/FlankSpeed" value="Poŭny Chod"/>
 	<entry name="SistersOfBattle/FlankSpeedDescription" value="Pavialičvaje ruch, ale nie daje vykarystoŭvać zbroju dalokaha boju."/>
 	<entry name="SistersOfBattle/FlankSpeedFlavor" value="“One should not question the nobility of Questor Imperialis. But for faith, none can match the Knight-Lancer, which goes into battle armed only with a spear and its own prodigious speed, praying that it makes it to the enemy lines. It is a fine match for our forces.”<br/>  — Canoness Vandire, In Nomine Strategi"/>
 	<entry name="SistersOfBattle/HeavyWeaponBonus" value="Prasunutyja Bojeprypasy"/>
@@ -1590,7 +1590,7 @@
 	<entry name="SistersOfBattle/KnightParry" value="Rycarskaje Paryravańnie"/>
 	<entry name="SistersOfBattle/KnightParryDescription" value="Źnižaje trapnaść blizkaha boju."/>
 	<entry name="SistersOfBattle/KnightParryFlavor" value="The ion gauntlet shield generator mounted in the Cerastus right gauntlet assembly can be used to deflect the mightiest hits in close-combat."/>
-	<entry name="SistersOfBattle/LaudHailer" value="Chvalebnaje Vitańnie"/>
+	<entry name="SistersOfBattle/LaudHailer" value="Chvalebny Hučnamoŭnik"/>
 	<entry name="SistersOfBattle/LaudHailerDescription" value="Hetaja adzinka moža źdiajśniać Akty Viery, navat kali ŭzrušana."/>
 	<entry name="SistersOfBattle/LaudHailerFlavor" value="<string name='Actions/SistersOfBattle/LaudHailerFlavor'/>"/>
 	<entry name="SistersOfBattle/LeadTheRighteous" value="<string name='Actions/SistersOfBattle/LeadTheRighteous'/>"/>
@@ -1741,7 +1741,7 @@
 	<entry name="SpaceMarines/CityTier3" value="Prasunutyja Reduty"/>
 	<entry name="SpaceMarines/CityTier3Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
 	<entry name="SpaceMarines/CityTier3Flavor" value="The third stage of the Fortress construction involves the creation of independent garrisons and buttresses along an additional line of city walls. In the shadow of those cyclopean barriers, Servitors and serfs spend their lives, scurrying from one task to another."/>
-	<entry name="SpaceMarines/CityTier4" value="Najvialikaja Krepaść"/>
+	<entry name="SpaceMarines/CityTier4" value="Najvialikšaja Krepaść"/>
 	<entry name="SpaceMarines/CityTier4Description" value="<string name='Traits/SpaceMarines/CityTier2Description'/>"/>
 	<entry name="SpaceMarines/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
 	<entry name="SpaceMarines/CloseQuartersFirepower" value="Ahniavaja Moc Blizkaha Boju"/>
@@ -1782,7 +1782,7 @@
 	<entry name="Stealth" value="Utojlivaść"/>
 	<entry name="StealthDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
-	<entry name="StrafingRun" value="Atakoŭnaje Paskareńnie"/>
+	<entry name="StrafingRun" value="Šturmavy Nalot"/>
 	<entry name="StrafingRunDescription" value="Pavialičvaje trapnaść dalokaha boju pa naziemnych adzinkach."/>
 	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
 	<entry name="Strikedown" value="Źbić z Noh"/>
@@ -1981,7 +1981,7 @@
 	<entry name="TelekineDome" value="Telekinietyčny Kupał"/>
 	<entry name="TelekineDomeDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju."/>
 	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
-	<entry name="TeleportHomer" value="Teleport Hamiera"/>
+	<entry name="TeleportHomer" value="Telepartacyjny Majak"/>
 	<entry name="TeleportHomerDescription" value="Prymušaje Arbitalnaje Razhortvańnie nie spažyvać ački dziejańnia padčas razhortvańnia Kapiełanaŭ, Šturmavych Terminataraŭ i Terminataraŭ poruč z hetaj adzinkaj."/>
 	<entry name="TeleportHomerFlavor" value="Teleport homers emit a powerful signal enabling orbiting Strike Cruisers to lock onto them with their teleportation equipment. By matching the exact coordinates of this signal, the risk of missing the intended mark is greatly reduced."/>
 	<entry name="Template" value="Šabłon"/>
@@ -1995,7 +1995,7 @@
 	<entry name="TeslaDamage" value="Virydyjanavy Razrad"/>
 	<entry name="TeslaDamageDescription" value="Pavialičvaje bronieprabivalnaść."/>
 	<entry name="TeslaDamageFlavor" value="The luminous green lightning discharged by these exotic and ancient Necron weapons crackles with life, writhing and seemingly clawing at any target it hits, moving as if it had a mind of its own."/>
-	<entry name="TheFleshIsWeak" value="Płoć Słaba"/>
+	<entry name="TheFleshIsWeak" value="Płoć Słabaja"/>
 	<entry name="TheFleshIsWeakDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
 	<entry name="TrainedSentinelPilots" value="Navučanyja Piłoty-Vartaŭniki"/>
@@ -2167,8 +2167,8 @@
 	<entry name="Tyranids/Tunnel2" value="Echuryjskija Ścieny"/>
 	<entry name="Tyranids/Tunnel2Description" value="Pavialičvaje zdaroŭje."/>
 	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
-	<entry name="Tyranids/UnnaturalResilience" value="Nienaturalnaja Ustojlivaść"/>
-	<entry name="Tyranids/UnnaturalResilienceDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody i daje dadatkovaje źnižeńnie škody ad Adsutnaści Pačućcia Bolu."/>
+	<entry name="Tyranids/UnnaturalResilience" value="Nienaturalnaja Ŭstojlivaść"/>
+	<entry name="Tyranids/UnnaturalResilienceDescription" value="Pavialičvaje nieparažalnaje źnižeńnie škody i daje dadatkovaje źnižeńnie škody ad Nieadčuvalnaści da Bolu."/>
 	<entry name="Tyranids/UnnaturalResilienceFlavor" value="Imbued with purpose by the Norn Queen, the Emissary adapts instantly to injuries that would cripple another creature, shrugging off death to pursue its goal."/>
 	<entry name="Tyranids/VehiclesUpkeep" value="Instynkty Miehonta"/>
 	<entry name="Tyranids/VehiclesUpkeepDescription" value="Źmianšaje ŭtrymańnie bijamasy."/>
@@ -2176,7 +2176,7 @@
 	<entry name="Tyranids/WarpField" value="Varp Pole"/>
 	<entry name="Tyranids/WarpFieldDescription" value="Pavialičvaje źnižeńnie škody."/>
 	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes are vital nodes for harnessing the Hive Mind's psychic might and are created with a powerful sense of self-preservation. Therefore, they instinctively project a potent Warp field to protect themselves in battle – a mental shield that is invisible but for a slight shimmer when small-arms and heavy-weapons fire alike patters harmlessly against it."/>
-	<entry name="TwinLinked" value="Dvajnaja Suviaź"/>
+	<entry name="TwinLinked" value="Zdvojeny"/>
 	<entry name="TwinLinkedDescription" value="Pavialičvaje trapnaść."/>
 	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
 	<entry name="Uncommon" value="Niezvyčajnaść"/>
