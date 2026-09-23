@@ -4,16 +4,16 @@
 	<entry name="AdeptusMechanicus1" value="Łend"/>
 	<entry name="AdeptusMechanicus2" value="Kejn"/>
 	<entry name="AdeptusMechanicus3" value="Satarael"/>
-	<entry name="AdeptusMechanicus4" value="Hruss"/>
-	<entry name="AdeptusMechanicus5" value="Paładzius"/>
+	<entry name="AdeptusMechanicus4" value="Hrus"/>
+	<entry name="AdeptusMechanicus5" value="Paładyus"/>
 	<entry name="AdeptusMechanicus6" value="Łokard"/>
 	<entry name="AdeptusMechanicus7" value="Tajbier"/>
 	<entry name="AdeptusMechanicus8" value="Cyceryn"/>
 	<entry name="AdeptusMechanicus9" value="Tezła"/>
 	<entry name="AdeptusMechanicus10" value="Cilvius"/>
-	<entry name="AdeptusMechanicus11" value="Millez"/>
+	<entry name="AdeptusMechanicus11" value="Milez"/>
 	<entry name="AdeptusMechanicus12" value="Aŭtakułas"/>
-	<entry name="AdeptusMechanicus13" value="Doryłbas"/>
+	<entry name="AdeptusMechanicus13" value="Dorylbas"/>
 	<entry name="AdeptusMechanicus14" value="Haełas"/>
 	<entry name="AdeptusMechanicus15" value="Jeranimus"/>
 	<entry name="AdeptusMechanicus16" value="Džaks"/>
@@ -27,14 +27,14 @@
 	<entry name="AstraMilitarum3" value="Kajd"/>
 	<entry name="AstraMilitarum4" value="Kamir"/>
 	<entry name="AstraMilitarum5" value="Draŭn"/>
-	<entry name="AstraMilitarum6" value="MakMenn"/>
+	<entry name="AstraMilitarum6" value="MakMen"/>
 	<entry name="AstraMilitarum7" value="Straken"/>
-	<entry name="AstraMilitarum8" value="Tarryk"/>
-	<entry name="AstraMilitarum9" value="Ruchmann"/>
-	<entry name="AstraMilitarum10" value="Killen"/>
+	<entry name="AstraMilitarum8" value="Taryk"/>
+	<entry name="AstraMilitarum9" value="Ruchman"/>
+	<entry name="AstraMilitarum10" value="Kilen"/>
 	<entry name="AstraMilitarum11" value="Brednar"/>
-	<entry name="AstraMilitarum12" value="Hratton"/>
-	<entry name="AstraMilitarum13" value="Mońnic"/>
+	<entry name="AstraMilitarum12" value="Hraton"/>
+	<entry name="AstraMilitarum13" value="Monic"/>
 	<entry name="AstraMilitarum14" value="Džota"/>
 	<entry name="AstraMilitarum15" value="Chikorski"/>
 	<entry name="AstraMilitarum16" value="Rudz"/>
@@ -68,17 +68,17 @@
 	<entry name="Drukhari1" value="Łchilija"/>
 	<entry name="Drukhari2" value="Łchamitu"/>
 	<entry name="Drukhari3" value="Hiekakt"/>
-	<entry name="Drukhari4" value="Kabael"/>
-	<entry name="Drukhari5" value="Asdrucii"/>
-	<entry name="Drukhari6" value="Velech"/>
+	<entry name="Drukhari4" value="Ka'bael"/>
+	<entry name="Drukhari5" value="Asdruci"/>
+	<entry name="Drukhari6" value="Ve'lech"/>
 	<entry name="Drukhari7" value="Ur-dom"/>
 	<entry name="Drukhari8" value="Vanit Speryja"/>
-	<entry name="Drukhari9" value="Uchtarch"/>
+	<entry name="Drukhari9" value="Uch'tarch"/>
 	<entry name="DrukhariCount" value="10"/>
 	<entry name="Eldar0" value="Ahchejn Źviazany Śmierciu"/>
 	<entry name="Eldar1" value="Kchajnocir Palaŭničy"/>
 	<entry name="Eldar2" value="Asuryjad Tkač Błytaniny"/>
-	<entry name="Eldar3" value="Ińnijan Śpieŭ Viedźmy"/>
+	<entry name="Eldar3" value="Inijan Śpieŭ Viedźmy"/>
 	<entry name="Eldar4" value="Liat Zorny Tancor"/>
 	<entry name="Eldar5" value="Liłair Zorny Biahun"/>
 	<entry name="Eldar6" value="Kurneat Soniečny Vybuch"/>
@@ -92,7 +92,7 @@
 	<entry name="Eldar14" value="Artrahan"/> 
 	<entry name="Eldar15" value="Džajdras Niabačny"/>
 	<entry name="Eldar16" value="Maŭhik Prysud"/>
-	<entry name="Eldar17" value="Iłłan Ra"/>
+	<entry name="Eldar17" value="Iłan Ra"/>
 	<entry name="Eldar18" value="Aŭlirel Zorny Majstar"/>
 	<entry name="Eldar19" value="Ulciel Pryvidny Ŭdar"/>
 	<entry name="EldarCount" value="20"/>
@@ -100,25 +100,25 @@
 	<entry name="Necrons1" value="Amenses"/> 
 	<entry name="Necrons2" value="Atohard"/>
 	<entry name="Necrons3" value="Varcis"/>
-	<entry name="Necrons4" value="Mendrech"/>
+	<entry name="Necrons4" value="Miendrech"/>
 	<entry name="Necrons5" value="Zanes"/>
 	<entry name="Necrons6" value="Džet"/>
-	<entry name="Necrons7" value="Semierchet"/>
+	<entry name="Necrons7" value="Samierchet"/>
 	<entry name="Necrons8" value="Nunetdžerch"/>
 	<entry name="Necrons9" value="Siektyr"/> 
 	<entry name="Necrons10" value="Anrachiet"/>
-	<entry name="Necrons11" value="Achchaŭron"/>
+	<entry name="Necrons11" value="Achaŭron"/>
 	<entry name="Necrons12" value="Saŭbiechar"/>
 	<entry name="Necrons13" value="Sachtech"/>
 	<entry name="Necrons14" value="Miench"/>
 	<entry name="Necrons15" value="Tech"/>
 	<entry name="Necrons16" value="Nomarch"/>
-	<entry name="Necrons17" value="Nefierzin"/>
+	<entry name="Necrons17" value="Niefierzin"/>
 	<entry name="Necrons18" value="Kiendarch"/>
 	<entry name="Necrons19" value="Hrylijapaŭłos"/>
 	<entry name="NecronsCount" value="20"/>
 	<entry name="Orks0" value="Skar"/>
-	<entry name="Orks1" value="Žylesnaryppa"/>
+	<entry name="Orks1" value="Žyleznarypa"/>
 	<entry name="Orks2" value="Zhuba"/>
 	<entry name="Orks3" value="Harhaš"/>
 	<entry name="Orks4" value="Bazhah"/>
@@ -126,55 +126,55 @@
 	<entry name="Orks6" value="Horśnik"/>
 	<entry name="Orks7" value="Ŭurrdakka"/>
 	<entry name="Orks8" value="Ŭotsit"/>
-	<entry name="Orks9" value="Žylesnyhroh"/>
-	<entry name="Orks10" value="Krašryppier"/>
+	<entry name="Orks9" value="Žaleznyhroh"/>
+	<entry name="Orks10" value="Krašrypier"/>
 	<entry name="Orks11" value="Urdhrab"/>
-	<entry name="Orks12" value="Morkrekk"/>
+	<entry name="Orks12" value="Morkrek"/>
 	<entry name="Orks13" value="Uhskaŭ"/>
 	<entry name="Orks14" value="Uhłah"/>
 	<entry name="Orks15" value="Frahkrak"/> 
 	<entry name="Orks16" value="Žubabos"/>
-	<entry name="Orks17" value="Ŭotšakk"/>
-	<entry name="Orks18" value="Cinhac"/>
+	<entry name="Orks17" value="Ŭotšak"/>
+	<entry name="Orks18" value="Cynhac"/>
 	<entry name="OrksCount" value="19"/>
 	<entry name="SistersOfBattle0" value="Kaciaryna"/>
 	<entry name="SistersOfBattle1" value="Vachłar"/>
 	<entry name="SistersOfBattle2" value="Silina"/>
 	<entry name="SistersOfBattle3" value="Mistral"/>
 	<entry name="SistersOfBattle4" value="Bryjar"/>
-	<entry name="SistersOfBattle5" value="Dzissenta"/>
+	<entry name="SistersOfBattle5" value="Dysenta"/>
 	<entry name="SistersOfBattle6" value="Nichiłus"/>
 	<entry name="SistersOfBattle7" value="Džosind"/>
 	<entry name="SistersOfBattle8" value="Ryjana"/>
-	<entry name="SistersOfBattle9" value="Veryci"/>
+	<entry name="SistersOfBattle9" value="Vieryci"/>
 	<entry name="SistersOfBattleCount" value="10"/>
-	<entry name="SpaceMarines0" value="Sullius"/>
+	<entry name="SpaceMarines0" value="Sulius"/>
 	<entry name="SpaceMarines1" value="Domenika"/>
-	<entry name="SpaceMarines2" value="Chipparchus"/>
+	<entry name="SpaceMarines2" value="Chiparchus"/>
 	<entry name="SpaceMarines3" value="Faedron"/>
 	<entry name="SpaceMarines4" value="Draka"/>
 	<entry name="SpaceMarines5" value="Leanatus"/>
 	<entry name="SpaceMarines6" value="Tełamon"/>
-	<entry name="SpaceMarines7" value="Bellerafon"/>
+	<entry name="SpaceMarines7" value="Bielerafon"/>
 	<entry name="SpaceMarines8" value="Jason"/>
-	<entry name="SpaceMarines9" value="Meliher"/>
+	<entry name="SpaceMarines9" value="Melihar"/>
 	<entry name="SpaceMarines10" value="Astoryus"/>
 	<entry name="SpaceMarines11" value="Chahan"/>
-	<entry name="SpaceMarines12" value="Parseter"/>
+	<entry name="SpaceMarines12" value="Parsetar"/>
 	<entry name="SpaceMarines13" value="Chahani"/>
 	<entry name="SpaceMarines14" value="Tarvic"/>
 	<entry name="SpaceMarines15" value="Penates"/>
-	<entry name="SpaceMarines16" value="Achilles"/>
+	<entry name="SpaceMarines16" value="Achiles"/>
 	<entry name="SpaceMarines17" value="Ajaks"/>
-	<entry name="SpaceMarines18" value="Dziamedas"/>
-	<entry name="SpaceMarines19" value="Meryanes"/>
-	<entry name="SpaceMarines20" value="Teŭkser"/>
+	<entry name="SpaceMarines18" value="Dziamiedas"/>
+	<entry name="SpaceMarines19" value="Mieryanes"/>
+	<entry name="SpaceMarines20" value="Taŭkser"/>
 	<entry name="SpaceMarinesCount" value="21"/>
 	<entry name="Tyranids0" value="Azatot"/>
 	<entry name="Tyranids1" value="Ksienanot"/>
 	<entry name="Tyranids2" value="Satot"/>
-	<entry name="Tyranids3" value="Dzitałła"/>
-	<entry name="Tyranids4" value="Ktohhcha"/>
+	<entry name="Tyranids3" value="Dzitała"/>
+	<entry name="Tyranids4" value="Ktohcha"/>
 	<entry name="Tyranids5" value="Chaścir"/>
 	<entry name="Tyranids6" value="Mnomkuach"/>
 	<entry name="Tyranids7" value="Vorn"/>
@@ -185,7 +185,7 @@
 	<entry name="Tyranids12" value="Zušakon"/>
 	<entry name="Tyranids13" value="Daołat"/>
 	<entry name="Tyranids14" value="Alkot"/>
-	<entry name="Tyranids15" value="Picija"/> 
+	<entry name="Tyranids15" value="Picyja"/> 
 	<entry name="Tyranids16" value="Hrendel"/>
 	<entry name="Tyranids17" value="Chimaera"/>
 	<entry name="TyranidsCount" value="18"/>
