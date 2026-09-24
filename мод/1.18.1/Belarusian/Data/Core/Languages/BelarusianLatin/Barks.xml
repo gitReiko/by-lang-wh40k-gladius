@@ -3,7 +3,7 @@
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Viektar ustalavany."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Piać na piać."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Pačać palot."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Pačać kruhavoje nasyčeńnie stabbieru."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Pačać kruhavoje nasyčeńnie stabieru."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:AttackCount" value="4"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Zachavańnie pavietranaha aktyvu"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:BrokenCount" value="1"/>
@@ -27,7 +27,7 @@
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:BrokenCount" value="1"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…za miežami ramontu…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="Płoć słaba, mašyna macna."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="Płoć słabaja, mašyna mocnaja."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="U binary, rytmie i śpievie. Ja žadaju, kab vy čuli."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="Nielha palepšyć dyzajny Amnisii."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="In nomine impieryi et miechaničy et śpirytus Amnissaja."/>
@@ -1092,7 +1092,7 @@
     <entry name="Necrons/TriarchStalker" value="Necrons/TriarchPraetorian"/>
     <entry name="Necrons/Warrior:Artefact#0" value="Žachi Staražytnych — na našym Karonnym Śviecie? Jak jany paśmieli?"/>
     <entry name="Necrons/Warrior:ArtefactCount" value="1"/>
-    <entry name="Necrons/Warrior:Attack#0" value="Baluča, kali ja zdymaju z ciabie niervy, atam za atamam?"/>
+    <entry name="Necrons/Warrior:Attack#0" value="Baluča, kali ja zdymaju ź ciabie niervy, atam za atamam?"/>
     <entry name="Necrons/Warrior:Attack#1" value="Dałučajemsia da boju."/>
     <entry name="Necrons/Warrior:Attack#2" value="Historyja zabudzie ich."/>
     <entry name="Necrons/Warrior:Attack#3" value="Supraciŭleńnie… razdražniaje."/>
@@ -1368,7 +1368,7 @@
     <entry name="Orks/Boy:Idle#2" value="Nie, bratan, heta moj skvih. Žnajdzi sabie švajho!"/>
     <entry name="Orks/Boy:Idle#3" value="Hej, bos, što tut robicca?"/>
     <entry name="Orks/Boy:Idle#4" value="Adzin zialony skvih siadzić na šcianie. Dva…"/>
-    <entry name="Orks/Boy:Idle#5" value="Hety čopa małaja!"/>
+    <entry name="Orks/Boy:Idle#5" value="Heta čopa małaja!"/>
     <entry name="Orks/Boy:Idle#6" value="Dzie tut machač?"/>
     <entry name="Orks/Boy:Idle#7" value="Kaho mnie ŭdaryć?"/>
     <entry name="Orks/Boy:Idle#8" value="Šo heta takoje?"/>
@@ -1488,7 +1488,7 @@
     <entry name="Orks/Mek:HurtCount" value="1"/>
     <entry name="Orks/Mek:Idle#0" value="Ždajecca, ja moh by sabrać štości ašablivaje…"/>
     <entry name="Orks/Mek:Idle#1" value="Hej, padaj tuju fihovinu. Nie, patrymaj heta, pakul ja łupanu…"/>
-    <entry name="Orks/Mek:Idle#2" value="Ujavi štralału z PIACIORMA stvałami. Je-jeje-je."/>
+    <entry name="Orks/Mek:Idle#2" value="Ujavi štralału ź PIACIORMA stvałami. Je-jeje-je."/>
     <entry name="Orks/Mek:Idle#3" value="Chmm. Žabojčaja blašanka nie pracuje. Treba bolšy Hrot i mienšyja ćviki."/>
     <entry name="Orks/Mek:IdleCount" value="4"/>
     <entry name="Orks/Mek:Shaken#0" value="Kiški Morka, heta niejak chibna!"/>
@@ -1586,7 +1586,7 @@
     <entry name="SpaceMarines/Captain:Attack#1" value="Pažry bołtara."/>
     <entry name="SpaceMarines/Captain:Attack#2" value="Za Impieratara!"/>
     <entry name="SpaceMarines/Captain:Attack#3" value="Pierad taboj kapitan Kaśmičnych Marynaŭ. Zdajsia ciapier, kab atrymać chutkuju śmierć."/>
-    <entry name="SpaceMarines/Captain:Attack#4" value="Hilliman čakaje."/>
+    <entry name="SpaceMarines/Captain:Attack#4" value="Hiliman čakaje."/>
     <entry name="SpaceMarines/Captain:Attack#5" value="Maja viera — moj ščyt!"/>
     <entry name="SpaceMarines/Captain:AttackCount" value="6"/>
     <entry name="SpaceMarines/Captain:Broken#0" value="Impieratar, źbieražy nas!"/>
@@ -1645,7 +1645,7 @@
     <entry name="SpaceMarines/Dreadnought:IdleCount" value="4"/>
     <entry name="SpaceMarines/Dreadnought:Shaken#0" value="Strach nikoli nie stareje."/>
     <entry name="SpaceMarines/Dreadnought:ShakenCount" value="1"/>
-    <entry name="SpaceMarines/Dreadnought:Victory#0" value="Historyja našaha Ordena raście."/>
+    <entry name="SpaceMarines/Dreadnought:Victory#0" value="Historyja našaha Ordenu raście."/>
     <entry name="SpaceMarines/Dreadnought:VictoryCount" value="1"/>
     <entry name="SpaceMarines/FortressOfRedemption" value="SpaceMarines/Headquarters"/>
     <entry name="SpaceMarines/Headquarters:Attack#0" value="Raźbiciesia ab našu abaronu!"/>
@@ -1698,12 +1698,12 @@
     <entry name="SpaceMarines/Librarian:AttackCount" value="3"/>
     <entry name="SpaceMarines/Librarian:Broken#0" value="Ja čuju demana, što vyje ŭ maich vušach."/>
     <entry name="SpaceMarines/Librarian:BrokenCount" value="1"/>
-    <entry name="SpaceMarines/Librarian:Hurt#0" value="Fizičny bol — ništo ŭ paraŭnańni z viečnym praklonam."/>
+    <entry name="SpaceMarines/Librarian:Hurt#0" value="Fizičny bol — ništo ŭ paraŭnańni ź viečnym praklonam."/>
     <entry name="SpaceMarines/Librarian:HurtCount" value="1"/>
     <entry name="SpaceMarines/Librarian:Idle#0" value="Błasłaviony toj rozum, jaki zanadta mała sumniajocca."/>
     <entry name="SpaceMarines/Librarian:Idle#1" value="Varp nia toić dla mianie strachu."/>
     <entry name="SpaceMarines/Librarian:Idle#2" value="Varp-štorm… časam bol stanovicca nievynosnym."/>
-    <entry name="SpaceMarines/Librarian:Idle#3" value="Kali heta skončycca… Biblijaryŭm kliča."/>
+    <entry name="SpaceMarines/Librarian:Idle#3" value="Kali heta skončycca… Biblijaryum kliča."/>
     <entry name="SpaceMarines/Librarian:IdleCount" value="4"/>
     <entry name="SpaceMarines/Librarian:Shaken#0" value="U falijantach ničoha niama pra heta…"/>
     <entry name="SpaceMarines/Librarian:ShakenCount" value="1"/>
@@ -1892,7 +1892,7 @@
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#3" value="Ja — vaša vyratavańnie!"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#4" value="Kaśmičnyja Maryny, u ataku!"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#5" value="Pasprabuj lutaść Impieratara!"/>
-    <entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="My — kułak Hillimana."/>
+    <entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="My — kułak Hilimana."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#7" value="Vy apahańvajecie hety śviet, brydota!"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:AttackCount" value="8"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Broken#0" value="Adstupajem da padrychtavanych pazicyjaŭ!"/>
@@ -1913,7 +1913,7 @@
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarinesCount" value="1"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevil#0" value="D'jabał! Trymajcie dystancyju i celciesia ŭ łapy."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
-    <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Praklatyja lalkavody — dzie Biblijaryi?"/>
+    <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Praklatyja lalkavody — dzie Bibliaryi?"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/EnslaverCount" value="1"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="Našy ž ułasnyja stvareńni abiarnulisia suprać nas."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
@@ -1955,7 +1955,7 @@
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#1" value="Pa zahadzie Łorda-Kamandora."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#2" value="Śmierć ad našych rukaŭ — nia hańba."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#3" value="U imia Impieratara."/>
-    <entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="Moj kułak, mocna ścisnuty ŭ kieramicie, b'je z siłaj cełaha Ordena."/>
+    <entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="Moj kułak, mocna ścisnuty ŭ kieramicie, b'je ź siłaj cełaha Ordenu."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#5" value="Tak paduć usie vorahi Impieryuma."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#6" value="Praz źniščeńnie našych vorahaŭ my zdabyvajem sabie vyratavańnie."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#7" value="My — pomsta Impieratara, uvasoblenaja ŭ płoci."/>
@@ -1990,7 +1990,7 @@
     <entry name="Tau/CadreFireblade:Hurt#0" value="Treba niešta bolšaje, kab pieramahčy mianie!"/>
     <entry name="Tau/CadreFireblade:HurtCount" value="1"/>
     <entry name="Tau/CadreFireblade:Idle#0" value="Treniroŭka pa celach, šas'el, u stroj!"/>
-    <entry name="Tau/CadreFireblade:Idle#1" value="My viadziom za saboj z pieradavoj."/>
+    <entry name="Tau/CadreFireblade:Idle#1" value="My viadziom za saboj ź pieradavoj."/>
     <entry name="Tau/CadreFireblade:Idle#2" value="Dobry lidar tryvała staić na ziamli."/>
     <entry name="Tau/CadreFireblade:IdleCount" value="3"/>
     <entry name="Tau/CadreFireblade:Shaken#0" value="Heta nia toj šlach…"/>
@@ -2134,10 +2134,10 @@
     <entry name="Tau/InterceptorDrone" value="Tau/GunDrone"/>
     <entry name="Tau/MarkerDrone" value="Tau/GunDrone"/>
     <entry name="Tau/Pathfinder" value="Tau/FireWarrior"/>
-    <entry name="Tau/Piranha:Attack#0" value="Stralajem z vybochavaj harmaty."/>
+    <entry name="Tau/Piranha:Attack#0" value="Stralajem z chutkastrelnaj harmaty."/>
     <entry name="Tau/Piranha:Attack#1" value="Ci patrebna padtrymka Śledapytam?"/>
     <entry name="Tau/Piranha:Attack#2" value="Nanosim chutki ŭdar."/>
-    <entry name="Tau/Piranha:Attack#3" value="Vychodzim na brejučy palot."/>
+    <entry name="Tau/Piranha:Attack#3" value="Pačynajem šturmavy nalot."/>
     <entry name="Tau/Piranha:AttackCount" value="4"/>
     <entry name="Tau/Piranha:Broken#0" value="Vyviednaja brania adstupaje."/>
     <entry name="Tau/Piranha:BrokenCount" value="1"/>
@@ -2182,7 +2182,7 @@
     <entry name="Tau/RiptideBattlesuit:Idle#1" value="Zzz…"/>
     <entry name="Tau/RiptideBattlesuit:Idle#2" value="Stolki ahniavoj mocy…"/>
     <entry name="Tau/RiptideBattlesuit:IdleCount" value="3"/>
-    <entry name="Tau/RiptideBattlesuit:Shaken#0" value="Lepšyja z lepšych. Lepšyja. Z. Lepšych."/>
+    <entry name="Tau/RiptideBattlesuit:Shaken#0" value="Lepšyja ź lepšych. Lepšyja. Z. Lepšych."/>
     <entry name="Tau/RiptideBattlesuit:ShakenCount" value="1"/>
     <entry name="Tau/RiptideBattlesuit:Victory#0" value="Jany miortvyja. Praciahvajcie stralać."/>
     <entry name="Tau/RiptideBattlesuit:Victory#1" value="Chtości bačyŭ, kudy padziełasia maja cel?"/>
@@ -2314,7 +2314,7 @@
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:IdleCount" value="4"/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Shaken#0" value="My… prajhrajem?"/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:ShakenCount" value="1"/>
-    <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#0" value="Tak zaniapadajuć usie vorahi Abbadona!"/>
+    <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#0" value="Tak zaniapadajuć usie vorahi Abadona!"/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#1" value="Jašče adzin krok da panavańnia nad hetaj hałaktykaj… naša prava pa naradžeńni."/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#2" value="Vaša śmierć dla mianie — ništo."/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:VictoryCount" value="3"/>
@@ -2390,7 +2390,7 @@
     <entry name="ChaosSpaceMarines/Havoc:Attack#1" value="STRALAJCIE Ŭ ADKAZ, BAJAŹLIŬCY!"/>
     <entry name="ChaosSpaceMarines/Havoc:Attack#2" value="Adzin bołt, dva bołty, try bołty, čatyry—"/>
     <entry name="ChaosSpaceMarines/Havoc:Attack#3" value="U słavu Chaosu! Za Ciomny Miechanikum! Dziela radaści stralby!"/>
-    <entry name="ChaosSpaceMarines/Havoc:Attack#4" value="Z piekła my viadziom ahoń!"/>
+    <entry name="ChaosSpaceMarines/Havoc:Attack#4" value="Ź piekła my viadziom ahoń!"/>
     <entry name="ChaosSpaceMarines/Havoc:AttackCount" value="5"/>
     <entry name="ChaosSpaceMarines/Havoc:Broken#0" value="Atrymali ŭ adkaz…"/>
     <entry name="ChaosSpaceMarines/Havoc:BrokenCount" value="1"/>
@@ -2447,7 +2447,7 @@
     <entry name="ChaosSpaceMarines/MasterOfPossession:Hurt#0" value="Hheta maja kostka? Ćfu, ja jaje nia baču."/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:HurtCount" value="1"/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#0" value="Bieskarysnyja ludzi i pryvidy… nam patrebny lepšyja nośbity."/>
-    <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Chutka atame, zatym sapraŭdnaje imia Strańnika Losu…"/>
+    <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Chutka atame, zatym sapraŭdnaje imia Vandroŭnika Losu…"/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#2" value="Apantanaść — heta dzieviać dziasiatych viedaŭ…"/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#3" value="Jany pakaštujuć serca płaniety da taho, jak naš čas skončycca."/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:IdleCount" value="4"/>
@@ -2519,7 +2519,7 @@
     <entry name="Necrons/FlayedOne:Idle#1" value="…čakać…"/>
     <entry name="Necrons/FlayedOne:Idle#2" value="…mlavaść…"/>
     <entry name="Necrons/FlayedOne:IdleCount" value="3"/>
-    <entry name="Necrons/FlayedOne:Shaken#0" value="…Łłandu'hor…!"/>
+    <entry name="Necrons/FlayedOne:Shaken#0" value="…Łandu'hor…!"/>
     <entry name="Necrons/FlayedOne:ShakenCount" value="1"/>
     <entry name="Necrons/FlayedOne:Victory#0" value="…znoŭ žyć…"/>
     <entry name="Necrons/FlayedOne:VictoryCount" value="1"/>
@@ -2689,7 +2689,7 @@
     <entry name="Eldar/Ranger:Idle#2" value="Dobra być u novym miescy."/>
     <entry name="Eldar/Ranger:Idle#3" value="Padydzi, pasłuchaj našyja apoviedy pra hałaktyku!"/>
     <entry name="Eldar/Ranger:IdleCount" value="4"/>
-    <entry name="Eldar/Ranger:Shaken#0" value="Preč z pieradavoj, chutka."/>
+    <entry name="Eldar/Ranger:Shaken#0" value="Preč ź pieradavoj, chutka."/>
     <entry name="Eldar/Ranger:ShakenCount" value="1"/>
     <entry name="Eldar/Ranger:Victory#0" value="Jany źnikli, i my znoŭ volnyja vandravać."/>
     <entry name="Eldar/Ranger:VictoryCount" value="1"/>
@@ -2884,7 +2884,7 @@
     <entry name="AstraMilitarum/Ratling:AttackCount" value="4"/>
     <entry name="AstraMilitarum/Ratling:Broken#0" value="Zmotvajem vudački!"/>
     <entry name="AstraMilitarum/Ratling:BrokenCount" value="1"/>
-    <entry name="AstraMilitarum/Ratling:Hurt#0" value="Zabiarycie nas z pieradavoj!"/>
+    <entry name="AstraMilitarum/Ratling:Hurt#0" value="Zabiarycie nas ź pieradavoj!"/>
     <entry name="AstraMilitarum/Ratling:HurtCount" value="1"/>
     <entry name="AstraMilitarum/Ratling:Idle#0" value="Jašče pa kelichu amasieku? Ja nia suprać."/>
     <entry name="AstraMilitarum/Ratling:Idle#1" value="A z hroksa vychodzić dobraje rahu, viedaješ?"/>
@@ -3074,7 +3074,7 @@
     <entry name="SistersOfBattle/BattleSister:Attack#2" value="Vyzvalajem Jahony boski hnieŭ!"/>
     <entry name="SistersOfBattle/BattleSister:Attack#3" value="Nie dazvalaj jeretyku žyć!"/>
     <entry name="SistersOfBattle/BattleSister:AttackCount" value="4"/>
-    <entry name="SistersOfBattle/BattleSister:Broken#0" value="Biaz viery my — ništo…"/>
+    <entry name="SistersOfBattle/BattleSister:Broken#0" value="Biaź viery my — ništo…"/>
     <entry name="SistersOfBattle/BattleSister:BrokenCount" value="1"/>
     <entry name="SistersOfBattle/BattleSister:Hurt#0" value="Tak, chaj ichnija lozy režuć, ja ničoha nie bajusia."/>
     <entry name="SistersOfBattle/BattleSister:HurtCount" value="1"/>
@@ -3185,7 +3185,7 @@
     <entry name="SistersOfBattle/Dialogus:Idle#2" value="Impieratar lubić usich vas."/>
     <entry name="SistersOfBattle/Dialogus:Idle#3" value="Nia bojciesia ksienasaŭ."/>
     <entry name="SistersOfBattle/Dialogus:IdleCount" value="4"/>
-    <entry name="SistersOfBattle/Dialogus:Shaken#0" value="Chacia ja idu praz śmierć i pakuty…"/>
+    <entry name="SistersOfBattle/Dialogus:Shaken#0" value="Chacia ja idu praź śmierć i pakuty…"/>
     <entry name="SistersOfBattle/Dialogus:ShakenCount" value="1"/>
     <entry name="SistersOfBattle/Dialogus:Victory#0" value="Kładzisia pierada mnoj, kab ja mahła ŭźniacca vyšej."/>
     <entry name="SistersOfBattle/Dialogus:VictoryCount" value="1"/>
@@ -3272,7 +3272,7 @@
     <entry name="SistersOfBattle/SisterRepentia:Attack#0" value="Za adkupleńnie!"/>
     <entry name="SistersOfBattle/SisterRepentia:Attack#1" value="Pa našych učynkach paznajcie nas!"/>
     <entry name="SistersOfBattle/SisterRepentia:Attack#2" value="Pakajańnie — heta dobraja praca!"/>
-    <entry name="SistersOfBattle/SisterRepentia:Attack#3" value="Našyja evisceratory by malitoŭnyja koły."/>
+    <entry name="SistersOfBattle/SisterRepentia:Attack#3" value="Našyja evisceratary by malitoŭnyja koły."/>
     <entry name="SistersOfBattle/SisterRepentia:AttackCount" value="4"/>
     <entry name="SistersOfBattle/SisterRepentia:Broken#0" value="Jany pieratvorać nas uva Ŭmiartvialnicaŭ!"/>
     <entry name="SistersOfBattle/SisterRepentia:BrokenCount" value="1"/>
@@ -3473,7 +3473,7 @@
     <entry name="SpaceMarines/Whirlwind:Idle#2" value="Kali vorahaŭ treba źmiakčyć, artyleryja napahatovie."/>
     <entry name="SpaceMarines/Whirlwind:Idle#3" value="Pierazaradka rakiet."/>
     <entry name="SpaceMarines/Whirlwind:IdleCount" value="4"/>
-    <entry name="SpaceMarines/Whirlwind:Shaken#0" value="Heta Śviet našaha Ordena… jak takoje mahčyma?"/>
+    <entry name="SpaceMarines/Whirlwind:Shaken#0" value="Heta Śviet našaha Ordenu… jak takoje mahčyma?"/>
     <entry name="SpaceMarines/Whirlwind:ShakenCount" value="1"/>
     <entry name="SpaceMarines/Whirlwind:Victory#0" value="Atrymlivajem spravazdačy pra źniščeńnie celi."/>
     <entry name="SpaceMarines/Whirlwind:VictoryCount" value="1"/>
@@ -3562,7 +3562,7 @@
     <entry name="Drukhari/Headquarters:Idle#2" value="Eon niačynnaści…"/>
     <entry name="Drukhari/Headquarters:Idle#3" value="Mizernaja raskoša hetaha časovaha žytła."/>
     <entry name="Drukhari/Headquarters:IdleCount" value="4"/>
-    <entry name="Drukhari/Headquarters:Shaken#0" value="O, viarnucca b u ciomny Kammorrah!"/>
+    <entry name="Drukhari/Headquarters:Shaken#0" value="O, viarnucca b u ciomny Kamorah!"/>
     <entry name="Drukhari/Headquarters:ShakenCount" value="1"/>
     <entry name="Drukhari/Headquarters:Victory#0" value="Znoŭ u biaśpiecy."/>
     <entry name="Drukhari/Headquarters:VictoryCount" value="1"/>
@@ -3622,7 +3622,7 @@
     <entry name="Drukhari/KabaliteTrueborn:VictoryCount" value="1"/>
     <entry name="Drukhari/KabaliteWarrior:Attack#0" value="Hareznaść kliča."/>
     <entry name="Drukhari/KabaliteWarrior:Attack#1" value="Chavajciesia, śmiarotnyja."/>
-    <entry name="Drukhari/KabaliteWarrior:Attack#2" value="Kammorrah patrabuje daniny!"/>
+    <entry name="Drukhari/KabaliteWarrior:Attack#2" value="Kamorah patrabuje daniny!"/>
     <entry name="Drukhari/KabaliteWarrior:Attack#3" value="Za Kabałaŭ!"/>
     <entry name="Drukhari/KabaliteWarrior:AttackCount" value="4"/>
     <entry name="Drukhari/KabaliteWarrior:Broken#0" value="Kali my ŭciačem, Archon… horaj za śmierć."/>
@@ -3632,7 +3632,7 @@
     <entry name="Drukhari/KabaliteWarrior:Idle#0" value="Chaj my i čananarodžanyja, ale my sapraŭdnyja Drukchary."/>
     <entry name="Drukhari/KabaliteWarrior:Idle#1" value="Pryviadzicie pałonnych, nam treba treniravać trapnaść."/>
     <entry name="Drukhari/KabaliteWarrior:Idle#2" value="Bieražyčie kabalitaŭ, puskajcie ŭ raschod najmitaŭ."/>
-    <entry name="Drukhari/KabaliteWarrior:Idle#3" value="Kammorrah, naš šmathranny dom…"/>
+    <entry name="Drukhari/KabaliteWarrior:Idle#3" value="Kamorah, naš šmathranny dom…"/>
     <entry name="Drukhari/KabaliteWarrior:IdleCount" value="4"/>
     <entry name="Drukhari/KabaliteWarrior:Shaken#0" value="My baimsia? Heta jany musiać bajacca!"/>
     <entry name="Drukhari/KabaliteWarrior:ShakenCount" value="1"/>
@@ -3702,7 +3702,7 @@
     <entry name="Drukhari/Succubus:Hurt#0" value="Jany pakinuli mnie šnar!"/>
     <entry name="Drukhari/Succubus:HurtCount" value="1"/>
     <entry name="Drukhari/Succubus:Idle#0" value="Jašče dopisy ad fanataŭ. Paziachańnie."/>
-    <entry name="Drukhari/Succubus:Idle#1" value="Kammorrah — heta natoŭp. I ja im kiruju."/>
+    <entry name="Drukhari/Succubus:Idle#1" value="Kamorah — heta natoŭp. I ja im kiruju."/>
     <entry name="Drukhari/Succubus:Idle#2" value="Pieradaj Archonu, ja patrabuju bolš łasunkaŭ."/>
     <entry name="Drukhari/Succubus:Idle#3" value="Uch, ja prahnu viarnucca ŭ cyvilizacyju, da sapraŭdnych pakutaŭ."/>
     <entry name="Drukhari/Succubus:Idle#4" value="Cieni j pył. Strach i cikavostka."/>
@@ -3775,7 +3775,7 @@
     <entry name="Drukhari/Wyche:Hurt#0" value="My skryvaŭlenyja! Ale boj tolki pačaŭsia."/>
     <entry name="Drukhari/Wyche:HurtCount" value="1"/>
     <entry name="Drukhari/Wyche:Idle#0" value="My musim treniravacca."/>
-    <entry name="Drukhari/Wyche:Idle#1" value="Našyja vystupy kormiać Kammorrah."/>
+    <entry name="Drukhari/Wyche:Idle#1" value="Našyja vystupy kormiać Kamorah."/>
     <entry name="Drukhari/Wyche:Idle#2" value="Dazvolcie nam davieści svajo majsterstva!"/>
     <entry name="Drukhari/Wyche:Idle#3" value="Ramieśniki, pryniasicie našyja pryłady."/>
     <entry name="Drukhari/Wyche:IdleCount" value="4"/>

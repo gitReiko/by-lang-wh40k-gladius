@@ -9,7 +9,7 @@
 	<entry name="ActivateDoctrinaDescription" value="Актывуйце дактрыну (%1%/1)."/>
 	<entry name="ActivateUnitDescription" value="Актываваць %1% (%2%/1)."/>
 	<entry name="ActivateSacredRiteDescription" value="Актываваць сьвяшчэнны абрад (%1%/%2%)."/>
-	<entry name="ActivateTacticDescription" value="Актываваць тактыку падзелу (%1%/1)."/>
+	<entry name="ActivateTacticDescription" value="Актываваць тактыку ордэну (%1%/1)."/>
 	<entry name="CaptureUnitDescription" value="Захапіць %1% (%2%/1)."/>
 	<entry name="ClaimWebwayGateWithCelestineDescription" value="Перасунуць <string name='Units/SistersOfBattle/SaintCelestine'/> на плітку, суседнюю да <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
 	<entry name="ClearHolySiteDescription" value="Дасьледаваць <string name='Features/HolySite'/> Шпітальеркамі (%1%/%2%)."/>

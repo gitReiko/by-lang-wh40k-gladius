@@ -3,7 +3,7 @@
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Вектар усталяваны."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Пяць на пяць."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Пачаць палёт."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Пачаць кругавое насычэньне стабберу."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Пачаць кругавое насычэньне стаберу."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:AttackCount" value="4"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Захаваньне паветранага актыву"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:BrokenCount" value="1"/>
@@ -27,7 +27,7 @@
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:BrokenCount" value="1"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…за межамі рамонту…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="Плоць слаба, машына мацна."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="Плоць слабая, машына моцная."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="У бінары, рытме і сьпеве. Я жадаю, каб вы чулі."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="Нельга палепшыць дызайны Амнісіі."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="Ін номінэ імперыі эт механічы эт сьпірытус Амніссая."/>
@@ -1092,7 +1092,7 @@
     <entry name="Necrons/TriarchStalker" value="Necrons/TriarchPraetorian"/>
     <entry name="Necrons/Warrior:Artefact#0" value="Жахі Старажытных — на нашым Каронным Сьвеце? Як яны пасьмелі?"/>
     <entry name="Necrons/Warrior:ArtefactCount" value="1"/>
-    <entry name="Necrons/Warrior:Attack#0" value="Балюча, калі я здымаю з цябе нервы, атам за атамам?"/>
+    <entry name="Necrons/Warrior:Attack#0" value="Балюча, калі я здымаю зь цябе нервы, атам за атамам?"/>
     <entry name="Necrons/Warrior:Attack#1" value="Далучаемся да бою."/>
     <entry name="Necrons/Warrior:Attack#2" value="Гісторыя забудзе іх."/>
     <entry name="Necrons/Warrior:Attack#3" value="Супраціўленьне… раздражняе."/>
@@ -1368,7 +1368,7 @@
     <entry name="Orks/Boy:Idle#2" value="Не, братан, гэта мой сквіг. Жнайдзі сабе швайго!"/>
     <entry name="Orks/Boy:Idle#3" value="Гэй, бос, што тут робіцца?"/>
     <entry name="Orks/Boy:Idle#4" value="Адзін зялёны сквіг сядзіць на шцяне. Два…"/>
-    <entry name="Orks/Boy:Idle#5" value="Гэты чопа малая!"/>
+    <entry name="Orks/Boy:Idle#5" value="Гэта чопа малая!"/>
     <entry name="Orks/Boy:Idle#6" value="Дзе тут махач?"/>
     <entry name="Orks/Boy:Idle#7" value="Каго мне ўдарыць?"/>
     <entry name="Orks/Boy:Idle#8" value="Шо гэта такое?"/>
@@ -1488,7 +1488,7 @@
     <entry name="Orks/Mek:HurtCount" value="1"/>
     <entry name="Orks/Mek:Idle#0" value="Ждаецца, я мог бы сабраць штосьці ашаблівае…"/>
     <entry name="Orks/Mek:Idle#1" value="Гэй, падай тую фіговіну. Не, патрымай гэта, пакуль я лупану…"/>
-    <entry name="Orks/Mek:Idle#2" value="Уяві штралялу з ПЯЦЁРМА стваламі. Е-ее-е."/>
+    <entry name="Orks/Mek:Idle#2" value="Уяві штралялу зь ПЯЦЁРМА стваламі. Е-ее-е."/>
     <entry name="Orks/Mek:Idle#3" value="Хмм. Жабойчая бляшанка не працуе. Трэба большы Грот і меншыя цьвікі."/>
     <entry name="Orks/Mek:IdleCount" value="4"/>
     <entry name="Orks/Mek:Shaken#0" value="Кішкі Морка, гэта неяк хібна!"/>
@@ -1586,7 +1586,7 @@
     <entry name="SpaceMarines/Captain:Attack#1" value="Пажры болтара."/>
     <entry name="SpaceMarines/Captain:Attack#2" value="За Імператара!"/>
     <entry name="SpaceMarines/Captain:Attack#3" value="Перад табой капітан Касьмічных Марынаў. Здайся цяпер, каб атрымаць хуткую сьмерць."/>
-    <entry name="SpaceMarines/Captain:Attack#4" value="Гільліман чакае."/>
+    <entry name="SpaceMarines/Captain:Attack#4" value="Гіліман чакае."/>
     <entry name="SpaceMarines/Captain:Attack#5" value="Мая вера — мой шчыт!"/>
     <entry name="SpaceMarines/Captain:AttackCount" value="6"/>
     <entry name="SpaceMarines/Captain:Broken#0" value="Імператар, зьберажы нас!"/>
@@ -1645,7 +1645,7 @@
     <entry name="SpaceMarines/Dreadnought:IdleCount" value="4"/>
     <entry name="SpaceMarines/Dreadnought:Shaken#0" value="Страх ніколі не старэе."/>
     <entry name="SpaceMarines/Dreadnought:ShakenCount" value="1"/>
-    <entry name="SpaceMarines/Dreadnought:Victory#0" value="Гісторыя нашага Ордэна расьце."/>
+    <entry name="SpaceMarines/Dreadnought:Victory#0" value="Гісторыя нашага Ордэну расьце."/>
     <entry name="SpaceMarines/Dreadnought:VictoryCount" value="1"/>
     <entry name="SpaceMarines/FortressOfRedemption" value="SpaceMarines/Headquarters"/>
     <entry name="SpaceMarines/Headquarters:Attack#0" value="Разьбіцеся аб нашу абарону!"/>
@@ -1698,12 +1698,12 @@
     <entry name="SpaceMarines/Librarian:AttackCount" value="3"/>
     <entry name="SpaceMarines/Librarian:Broken#0" value="Я чую дэмана, што вые ў маіх вушах."/>
     <entry name="SpaceMarines/Librarian:BrokenCount" value="1"/>
-    <entry name="SpaceMarines/Librarian:Hurt#0" value="Фізічны боль — нішто ў параўнаньні з вечным праклёнам."/>
+    <entry name="SpaceMarines/Librarian:Hurt#0" value="Фізічны боль — нішто ў параўнаньні зь вечным праклёнам."/>
     <entry name="SpaceMarines/Librarian:HurtCount" value="1"/>
     <entry name="SpaceMarines/Librarian:Idle#0" value="Блаславёны той розум, які занадта мала сумняёцца."/>
     <entry name="SpaceMarines/Librarian:Idle#1" value="Варп ня тоіць для мяне страху."/>
     <entry name="SpaceMarines/Librarian:Idle#2" value="Варп-шторм… часам боль становіцца невыносным."/>
-    <entry name="SpaceMarines/Librarian:Idle#3" value="Калі гэта скончыцца… Бібліярыўм кліча."/>
+    <entry name="SpaceMarines/Librarian:Idle#3" value="Калі гэта скончыцца… Бібліярыум кліча."/>
     <entry name="SpaceMarines/Librarian:IdleCount" value="4"/>
     <entry name="SpaceMarines/Librarian:Shaken#0" value="У фаліянтах нічога няма пра гэта…"/>
     <entry name="SpaceMarines/Librarian:ShakenCount" value="1"/>
@@ -1892,7 +1892,7 @@
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#3" value="Я — ваша выратаваньне!"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#4" value="Касьмічныя Марыны, у атаку!"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#5" value="Паспрабуй лютасьць Імператара!"/>
-    <entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="Мы — кулак Гільлімана."/>
+    <entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="Мы — кулак Гілімана."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Attack#7" value="Вы апаганьваеце гэты сьвет, брыдота!"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:AttackCount" value="8"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Broken#0" value="Адступаем да падрыхтаваных пазіцыяў!"/>
@@ -1913,7 +1913,7 @@
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarinesCount" value="1"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevil#0" value="Д'ябал! Трымайце дыстанцыю і цэльцеся ў лапы."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
-    <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Праклятыя лялькаводы — дзе Бібліярыі?"/>
+    <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Праклятыя лялькаводы — дзе Бібліарыі?"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/EnslaverCount" value="1"/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="Нашы ж уласныя стварэньні абярнуліся супраць нас."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
@@ -1955,7 +1955,7 @@
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#1" value="Па загадзе Лорда-Камандора."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#2" value="Сьмерць ад нашых рукаў — ня ганьба."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#3" value="У імя Імператара."/>
-    <entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="Мой кулак, моцна сьціснуты ў кераміце, б'е з сілай цэлага Ордэна."/>
+    <entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="Мой кулак, моцна сьціснуты ў кераміце, б'е зь сілай цэлага Ордэну."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#5" value="Так падуць усе ворагі Імперыума."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#6" value="Праз зьнішчэньне нашых ворагаў мы здабываем сабе выратаваньне."/>
     <entry name="SpaceMarines/TacticalSpaceMarine:Victory#7" value="Мы — помста Імператара, увасобленая ў плоці."/>
@@ -1990,7 +1990,7 @@
     <entry name="Tau/CadreFireblade:Hurt#0" value="Трэба нешта большае, каб перамагчы мяне!"/>
     <entry name="Tau/CadreFireblade:HurtCount" value="1"/>
     <entry name="Tau/CadreFireblade:Idle#0" value="Трэніроўка па цэлях, шас'эль, у строй!"/>
-    <entry name="Tau/CadreFireblade:Idle#1" value="Мы вядзём за сабой з перадавой."/>
+    <entry name="Tau/CadreFireblade:Idle#1" value="Мы вядзём за сабой зь перадавой."/>
     <entry name="Tau/CadreFireblade:Idle#2" value="Добры лідар трывала стаіць на зямлі."/>
     <entry name="Tau/CadreFireblade:IdleCount" value="3"/>
     <entry name="Tau/CadreFireblade:Shaken#0" value="Гэта ня той шлях…"/>
@@ -2134,10 +2134,10 @@
     <entry name="Tau/InterceptorDrone" value="Tau/GunDrone"/>
     <entry name="Tau/MarkerDrone" value="Tau/GunDrone"/>
     <entry name="Tau/Pathfinder" value="Tau/FireWarrior"/>
-    <entry name="Tau/Piranha:Attack#0" value="Страляем з выбохавай гарматы."/>
+    <entry name="Tau/Piranha:Attack#0" value="Страляем з хуткастрэльнай гарматы."/>
     <entry name="Tau/Piranha:Attack#1" value="Ці патрэбна падтрымка Сьледапытам?"/>
     <entry name="Tau/Piranha:Attack#2" value="Наносім хуткі ўдар."/>
-    <entry name="Tau/Piranha:Attack#3" value="Выходзім на брэючы палёт."/>
+    <entry name="Tau/Piranha:Attack#3" value="Пачынаем штурмавы налёт."/>
     <entry name="Tau/Piranha:AttackCount" value="4"/>
     <entry name="Tau/Piranha:Broken#0" value="Выведная браня адступае."/>
     <entry name="Tau/Piranha:BrokenCount" value="1"/>
@@ -2182,7 +2182,7 @@
     <entry name="Tau/RiptideBattlesuit:Idle#1" value="Ззз…"/>
     <entry name="Tau/RiptideBattlesuit:Idle#2" value="Столькі агнявой моцы…"/>
     <entry name="Tau/RiptideBattlesuit:IdleCount" value="3"/>
-    <entry name="Tau/RiptideBattlesuit:Shaken#0" value="Лепшыя з лепшых. Лепшыя. З. Лепшых."/>
+    <entry name="Tau/RiptideBattlesuit:Shaken#0" value="Лепшыя зь лепшых. Лепшыя. З. Лепшых."/>
     <entry name="Tau/RiptideBattlesuit:ShakenCount" value="1"/>
     <entry name="Tau/RiptideBattlesuit:Victory#0" value="Яны мёртвыя. Працягвайце страляць."/>
     <entry name="Tau/RiptideBattlesuit:Victory#1" value="Хтосьці бачыў, куды падзелася мая цэль?"/>
@@ -2314,7 +2314,7 @@
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:IdleCount" value="4"/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Shaken#0" value="Мы… прайграем?"/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:ShakenCount" value="1"/>
-    <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#0" value="Так заняпадаюць усе ворагі Аббадона!"/>
+    <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#0" value="Так заняпадаюць усе ворагі Абадона!"/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#1" value="Яшчэ адзін крок да панаваньня над гэтай галактыкай… наша права па нараджэньні."/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:Victory#2" value="Ваша сьмерць для мяне — нішто."/>
     <entry name="ChaosSpaceMarines/ChaosSpaceMarine:VictoryCount" value="3"/>
@@ -2390,7 +2390,7 @@
     <entry name="ChaosSpaceMarines/Havoc:Attack#1" value="СТРАЛЯЙЦЕ Ў АДКАЗ, БАЯЗЬЛІЎЦЫ!"/>
     <entry name="ChaosSpaceMarines/Havoc:Attack#2" value="Адзін болт, два болты, тры болты, чатыры—"/>
     <entry name="ChaosSpaceMarines/Havoc:Attack#3" value="У славу Хаосу! За Цёмны Механікум! Дзеля радасьці стральбы!"/>
-    <entry name="ChaosSpaceMarines/Havoc:Attack#4" value="З пекла мы вядзём агонь!"/>
+    <entry name="ChaosSpaceMarines/Havoc:Attack#4" value="Зь пекла мы вядзём агонь!"/>
     <entry name="ChaosSpaceMarines/Havoc:AttackCount" value="5"/>
     <entry name="ChaosSpaceMarines/Havoc:Broken#0" value="Атрымалі ў адказ…"/>
     <entry name="ChaosSpaceMarines/Havoc:BrokenCount" value="1"/>
@@ -2447,7 +2447,7 @@
     <entry name="ChaosSpaceMarines/MasterOfPossession:Hurt#0" value="Ггэта мая костка? Цьфу, я яе ня бачу."/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:HurtCount" value="1"/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#0" value="Бескарысныя людзі і прывіды… нам патрэбны лепшыя носьбіты."/>
-    <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Хутка атамэ, затым сапраўднае імя Страньніка Лёсу…"/>
+    <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#1" value="Хутка атамэ, затым сапраўднае імя Вандроўніка Лёсу…"/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#2" value="Апантанасьць — гэта дзевяць дзясятых ведаў…"/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:Idle#3" value="Яны пакаштуюць сэрца планеты да таго, як наш час скончыцца."/>
     <entry name="ChaosSpaceMarines/MasterOfPossession:IdleCount" value="4"/>
@@ -2519,7 +2519,7 @@
     <entry name="Necrons/FlayedOne:Idle#1" value="…чакаць…"/>
     <entry name="Necrons/FlayedOne:Idle#2" value="…млявасьць…"/>
     <entry name="Necrons/FlayedOne:IdleCount" value="3"/>
-    <entry name="Necrons/FlayedOne:Shaken#0" value="…Лланду'гор…!"/>
+    <entry name="Necrons/FlayedOne:Shaken#0" value="…Ланду'гор…!"/>
     <entry name="Necrons/FlayedOne:ShakenCount" value="1"/>
     <entry name="Necrons/FlayedOne:Victory#0" value="…зноў жыць…"/>
     <entry name="Necrons/FlayedOne:VictoryCount" value="1"/>
@@ -2689,7 +2689,7 @@
     <entry name="Eldar/Ranger:Idle#2" value="Добра быць у новым месцы."/>
     <entry name="Eldar/Ranger:Idle#3" value="Падыдзі, паслухай нашыя аповеды пра галактыку!"/>
     <entry name="Eldar/Ranger:IdleCount" value="4"/>
-    <entry name="Eldar/Ranger:Shaken#0" value="Прэч з перадавой, хутка."/>
+    <entry name="Eldar/Ranger:Shaken#0" value="Прэч зь перадавой, хутка."/>
     <entry name="Eldar/Ranger:ShakenCount" value="1"/>
     <entry name="Eldar/Ranger:Victory#0" value="Яны зьніклі, і мы зноў вольныя вандраваць."/>
     <entry name="Eldar/Ranger:VictoryCount" value="1"/>
@@ -2884,7 +2884,7 @@
     <entry name="AstraMilitarum/Ratling:AttackCount" value="4"/>
     <entry name="AstraMilitarum/Ratling:Broken#0" value="Змотваем вудачкі!"/>
     <entry name="AstraMilitarum/Ratling:BrokenCount" value="1"/>
-    <entry name="AstraMilitarum/Ratling:Hurt#0" value="Забярыце нас з перадавой!"/>
+    <entry name="AstraMilitarum/Ratling:Hurt#0" value="Забярыце нас зь перадавой!"/>
     <entry name="AstraMilitarum/Ratling:HurtCount" value="1"/>
     <entry name="AstraMilitarum/Ratling:Idle#0" value="Яшчэ па кэліху амасеку? Я ня супраць."/>
     <entry name="AstraMilitarum/Ratling:Idle#1" value="А з грокса выходзіць добрае рагу, ведаеш?"/>
@@ -3074,7 +3074,7 @@
     <entry name="SistersOfBattle/BattleSister:Attack#2" value="Вызваляем Ягоны боскі гнеў!"/>
     <entry name="SistersOfBattle/BattleSister:Attack#3" value="Не дазваляй ерэтыку жыць!"/>
     <entry name="SistersOfBattle/BattleSister:AttackCount" value="4"/>
-    <entry name="SistersOfBattle/BattleSister:Broken#0" value="Бяз веры мы — нішто…"/>
+    <entry name="SistersOfBattle/BattleSister:Broken#0" value="Бязь веры мы — нішто…"/>
     <entry name="SistersOfBattle/BattleSister:BrokenCount" value="1"/>
     <entry name="SistersOfBattle/BattleSister:Hurt#0" value="Так, хай іхнія лёзы рэжуць, я нічога не баюся."/>
     <entry name="SistersOfBattle/BattleSister:HurtCount" value="1"/>
@@ -3185,7 +3185,7 @@
     <entry name="SistersOfBattle/Dialogus:Idle#2" value="Імператар любіць усіх вас."/>
     <entry name="SistersOfBattle/Dialogus:Idle#3" value="Ня бойцеся ксенасаў."/>
     <entry name="SistersOfBattle/Dialogus:IdleCount" value="4"/>
-    <entry name="SistersOfBattle/Dialogus:Shaken#0" value="Хаця я іду праз сьмерць і пакуты…"/>
+    <entry name="SistersOfBattle/Dialogus:Shaken#0" value="Хаця я іду празь сьмерць і пакуты…"/>
     <entry name="SistersOfBattle/Dialogus:ShakenCount" value="1"/>
     <entry name="SistersOfBattle/Dialogus:Victory#0" value="Кладзіся перада мной, каб я магла ўзьняцца вышэй."/>
     <entry name="SistersOfBattle/Dialogus:VictoryCount" value="1"/>
@@ -3272,7 +3272,7 @@
     <entry name="SistersOfBattle/SisterRepentia:Attack#0" value="За адкупленьне!"/>
     <entry name="SistersOfBattle/SisterRepentia:Attack#1" value="Па нашых учынках пазнайце нас!"/>
     <entry name="SistersOfBattle/SisterRepentia:Attack#2" value="Пакаяньне — гэта добрая праца!"/>
-    <entry name="SistersOfBattle/SisterRepentia:Attack#3" value="Нашыя эвісцэраторы бы малітоўныя колы."/>
+    <entry name="SistersOfBattle/SisterRepentia:Attack#3" value="Нашыя эвісцэратары бы малітоўныя колы."/>
     <entry name="SistersOfBattle/SisterRepentia:AttackCount" value="4"/>
     <entry name="SistersOfBattle/SisterRepentia:Broken#0" value="Яны ператвораць нас ува Ўмяртвяльніцаў!"/>
     <entry name="SistersOfBattle/SisterRepentia:BrokenCount" value="1"/>
@@ -3439,7 +3439,7 @@
     <entry name="Orks/DeffDread:IdleCount" value="4"/>
     <entry name="Orks/DeffDread:Shaken#0" value="Як схавацца ў гэтай штуцы?"/>
     <entry name="Orks/DeffDread:ShakenCount" value="1"/>
-    <entry name="Orks/DeffDread:Victory#0" value="ВАААГХ! Шьмертажахі — найлепшыя!"/>
+    <entry name="Orks/DeffDread:Victory#0" value="ВАААГХ! Шмертажахі — найлепшыя!"/>
     <entry name="Orks/DeffDread:VictoryCount" value="1"/>
     <entry name="SistersOfBattle/Imagifier:Attack#0" value="І Сэлесьціна біла іх, і ўбачыла, што гэта добра."/>
     <entry name="SistersOfBattle/Imagifier:Attack#1" value="І яны сталі праслаўленымі мёртвымі!"/>
@@ -3473,7 +3473,7 @@
     <entry name="SpaceMarines/Whirlwind:Idle#2" value="Калі ворагаў трэба зьмякчыць, артылерыя напагатове."/>
     <entry name="SpaceMarines/Whirlwind:Idle#3" value="Перазарадка ракет."/>
     <entry name="SpaceMarines/Whirlwind:IdleCount" value="4"/>
-    <entry name="SpaceMarines/Whirlwind:Shaken#0" value="Гэта Сьвет нашага Ордэна… як такое магчыма?"/>
+    <entry name="SpaceMarines/Whirlwind:Shaken#0" value="Гэта Сьвет нашага Ордэну… як такое магчыма?"/>
     <entry name="SpaceMarines/Whirlwind:ShakenCount" value="1"/>
     <entry name="SpaceMarines/Whirlwind:Victory#0" value="Атрымліваем справаздачы пра зьнішчэньне цэлі."/>
     <entry name="SpaceMarines/Whirlwind:VictoryCount" value="1"/>
@@ -3562,7 +3562,7 @@
     <entry name="Drukhari/Headquarters:Idle#2" value="Эон нячыннасьці…"/>
     <entry name="Drukhari/Headquarters:Idle#3" value="Мізэрная раскоша гэтага часовага жытла."/>
     <entry name="Drukhari/Headquarters:IdleCount" value="4"/>
-    <entry name="Drukhari/Headquarters:Shaken#0" value="О, вярнуцца б у цёмны Камморраг!"/>
+    <entry name="Drukhari/Headquarters:Shaken#0" value="О, вярнуцца б у цёмны Камораг!"/>
     <entry name="Drukhari/Headquarters:ShakenCount" value="1"/>
     <entry name="Drukhari/Headquarters:Victory#0" value="Зноў у бясьпецы."/>
     <entry name="Drukhari/Headquarters:VictoryCount" value="1"/>
@@ -3622,7 +3622,7 @@
     <entry name="Drukhari/KabaliteTrueborn:VictoryCount" value="1"/>
     <entry name="Drukhari/KabaliteWarrior:Attack#0" value="Гарэзнасьць кліча."/>
     <entry name="Drukhari/KabaliteWarrior:Attack#1" value="Хавайцеся, сьмяротныя."/>
-    <entry name="Drukhari/KabaliteWarrior:Attack#2" value="Камморраг патрабуе даніны!"/>
+    <entry name="Drukhari/KabaliteWarrior:Attack#2" value="Камораг патрабуе даніны!"/>
     <entry name="Drukhari/KabaliteWarrior:Attack#3" value="За Кабалаў!"/>
     <entry name="Drukhari/KabaliteWarrior:AttackCount" value="4"/>
     <entry name="Drukhari/KabaliteWarrior:Broken#0" value="Калі мы ўцячэм, Архон… горай за сьмерць."/>
@@ -3632,7 +3632,7 @@
     <entry name="Drukhari/KabaliteWarrior:Idle#0" value="Хай мы і чананароджаныя, але мы сапраўдныя Друкхары."/>
     <entry name="Drukhari/KabaliteWarrior:Idle#1" value="Прывядзіце палонных, нам трэба трэніраваць трапнасьць."/>
     <entry name="Drukhari/KabaliteWarrior:Idle#2" value="Беражыче кабалітаў, пускайце ў расход наймітаў."/>
-    <entry name="Drukhari/KabaliteWarrior:Idle#3" value="Камморраг, наш шматгранны дом…"/>
+    <entry name="Drukhari/KabaliteWarrior:Idle#3" value="Камораг, наш шматгранны дом…"/>
     <entry name="Drukhari/KabaliteWarrior:IdleCount" value="4"/>
     <entry name="Drukhari/KabaliteWarrior:Shaken#0" value="Мы баімся? Гэта яны мусяць баяцца!"/>
     <entry name="Drukhari/KabaliteWarrior:ShakenCount" value="1"/>
@@ -3702,7 +3702,7 @@
     <entry name="Drukhari/Succubus:Hurt#0" value="Яны пакінулі мне шнар!"/>
     <entry name="Drukhari/Succubus:HurtCount" value="1"/>
     <entry name="Drukhari/Succubus:Idle#0" value="Яшчэ допісы ад фанатаў. Пазяханьне."/>
-    <entry name="Drukhari/Succubus:Idle#1" value="Камморраг — гэта натоўп. І я ім кірую."/>
+    <entry name="Drukhari/Succubus:Idle#1" value="Камораг — гэта натоўп. І я ім кірую."/>
     <entry name="Drukhari/Succubus:Idle#2" value="Перадай Архону, я патрабую больш ласункаў."/>
     <entry name="Drukhari/Succubus:Idle#3" value="Ух, я прагну вярнуцца ў цывілізацыю, да сапраўдных пакутаў."/>
     <entry name="Drukhari/Succubus:Idle#4" value="Цені й пыл. Страх і цікавостка."/>
@@ -3775,7 +3775,7 @@
     <entry name="Drukhari/Wyche:Hurt#0" value="Мы скрываўленыя! Але бой толькі пачаўся."/>
     <entry name="Drukhari/Wyche:HurtCount" value="1"/>
     <entry name="Drukhari/Wyche:Idle#0" value="Мы мусім трэніравацца."/>
-    <entry name="Drukhari/Wyche:Idle#1" value="Нашыя выступы кормяць Камморраг."/>
+    <entry name="Drukhari/Wyche:Idle#1" value="Нашыя выступы кормяць Камораг."/>
     <entry name="Drukhari/Wyche:Idle#2" value="Дазвольце нам давесьці сваё майстэрства!"/>
     <entry name="Drukhari/Wyche:Idle#3" value="Рамесьнікі, прынясіце нашыя прылады."/>
     <entry name="Drukhari/Wyche:IdleCount" value="4"/>

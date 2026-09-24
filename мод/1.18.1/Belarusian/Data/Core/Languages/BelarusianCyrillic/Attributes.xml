@@ -90,7 +90,7 @@
 	<entry name="EnergyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
 	<entry name="ExperienceGainRate" value="Хуткасьць Атрыманьня Досьведу"/>
 	<entry name="ExperienceGainRateIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
-	<entry name="FeelNoPainDamageReduction" value="Зьніжэньне Шкоды ад Адсутнасьці Пачуцьця Болю"/>
+	<entry name="FeelNoPainDamageReduction" value="Зьніжэньне Шкоды ад Неадчувальнасьці да Болю"/>
 	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="FlankingDamageFactor" value="Флангавая Шкода"/>
 	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
@@ -295,7 +295,7 @@
 	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
 	<entry name="SightDescription" value="Вызначае далёкасьць агляду адзінкі.<br/><br/>Агляд абмежаваны асаблівасьцямі мясцовасьці, напрыклад, лесам, дымам або скаламі."/>
 	<entry name="SlotsRequired" value="Патрэбна Слотаў"/>
-	<entry name="SupportSystemSlots" value="Сістэма Падтрымкі Слотаў"/>
+	<entry name="SupportSystemSlots" value="Слоты Сістэм Падтрымкі"/>
 	<entry name="SupportSystemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/SupportSystemSlots'/>"/>
 	<entry name="TargetArmor" value="Браня Цэлі"/>
 	<entry name="TargetArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
