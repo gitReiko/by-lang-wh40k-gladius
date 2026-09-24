@@ -14,7 +14,7 @@
 
 ## Англа-беларускі слоўнік Warhammer 40000
 
-[Спасылка на слоўнік](https://github.com/gitReiko/by-lang-wh40k-gladius/blob/master/%D1%81%D0%BB%D0%BE%D1%9E%D0%BD%D1%96%D0%BA.txt)
+[Спасылка на слоўнік](https://github.com/gitReiko/by-lang-wh40k-gladius/blob/master/%D1%81%D0%BB%D0%BE%D1%9E%D0%BD%D1%96%D0%BA%20warhammer%2040k.txt)
 
 Аматарскі англа-беларускі слоўнік па Warhammer 40000 выпрацаваны падчас перакладу гульні Warhammer 40,000: Gladius - Relics of War.
 
