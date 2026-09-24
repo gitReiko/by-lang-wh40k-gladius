@@ -1164,7 +1164,7 @@
 	<entry name="AstraMilitarum/ImperialSplendourDescription" value="Павялічвае ўплыў гарадоў Астра Мілітарум."/>
 	<entry name="AstraMilitarum/ImperialSplendourFlavor" value="<string name='Traits/ImperialSplendourFlavor'/>"/>
 	<entry name="AstraMilitarum/ImperialStrongpoint" value="<string name='Units/AstraMilitarum/ImperialStrongpoint'/>"/>
-	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць будаваць фартыфікацыі з цяжкімі болтарамі."/>
+	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Дае Тэхнажрэцам-Машынабачцам здольнасьць будаваць фартыфікацыі зь цяжкімі болтарамі."/>
 	<entry name="AstraMilitarum/ImperialStrongpointFlavor" value="<string name='Units/AstraMilitarum/ImperialStrongpointFlavor'/>"/>
 	<entry name="AstraMilitarum/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
 	<entry name="AstraMilitarum/KrakGrenadeDescription" value="Дае Палявой Артылерыйнай Батарэі, Гвардзейцам, Цяжкаўзброенаму Разьліку, Лорду-Камісару, Тэхнажрэцам-Машынабачцам, Нашчадкам Тэмпестус здольнасьць кідаць супрацьтанкавыя гранаты."/>
@@ -1288,7 +1288,7 @@
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Нашыя Жыцьці дзеля Багоў"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Павялічвае хуткасьць узросту горада пасьля Ахвяраваньня Культыстаў."/>
-	<entry name="ChaosSpaceMarines/OurLivesForTheGodsFlavor" value="На Гладыусе ад клінкоў культыстаў загінула ўжо столькі, што кожная новая сьмерць здаецца бессэнсоўнай, пустой і нікчэмнай. Але гэта ж узмацняе дзеяньне іхных ахвярапрынашэньняў: яны цягнуць гэты сьвет усё бліжэй да пякельнага вымярэньня Цёмных Багоў, і цёмным дарункам усё лягчэй прабівацца праз заслону, якая аддзяляе яго ад Іматэрыюму."/>
+	<entry name="ChaosSpaceMarines/OurLivesForTheGodsFlavor" value="На Гладыусе ад клінкоў культыстаў загінула ўжо столькі, што кожная новая сьмерць здаецца бессэнсоўнай, пустой і нікчэмнай. Але гэта ж узмацняе дзеяньне іхных ахвярапрынашэньняў: яны цягнуць гэты сьвет усё бліжэй да пякельнага вымярэньня Цёмных Багоў, і цёмным дарункам усё лягчэй прабівацца праз заслону, якая адзьдзяляе яго ад Іматэрыюму."/>
 	<entry name="ChaosSpaceMarines/RiteOfBlood" value="<string name='Actions/ChaosSpaceMarines/RiteOfBlood'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="<string name='Actions/ChaosSpaceMarines/RiteOfBloodDescription'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfBloodFlavor'/>"/>
@@ -1346,7 +1346,7 @@
 	<entry name="Drukhari/EnhancedAethersailsFlavor" value="<string name='Actions/Drukhari/EnhancedAethersailsFlavor'/>"/>
 	<entry name="Drukhari/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Drukhari/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="Drukhari/ExtraInfantryArmourFlavor" value="Забясьпечыць цэлую армію бранёй прывідных пласьцін каштавала б разарэньня. Але для нешматлікіх абраньнікаў архон раскашэліўся. Створаная з дзіўных смалападобных матэрыялаў, пранізаных паражнінамі з газам, лягчэйшым за паветра, браня прывідных пласьцін дае значную абарону і амаль нічога ня важыць."/>
+	<entry name="Drukhari/ExtraInfantryArmourFlavor" value="Забясьпечыць цэлую армію бранёй прывідных пласьцін каштавала б разарэньня. Але для нешматлікіх абраньнікаў архон раскашэліўся. Створаная зь дзіўных смалападобных матэрыялаў, пранізаных паражнінамі з газам, лягчэйшым за паветра, браня прывідных пласьцін дае значную абарону і амаль нічога ня важыць."/>
 	<entry name="Drukhari/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="Drukhari/ExtraVehicleArmourDescription" value="<string name='Traits/ExtraVehicleArmourDescription'/>"/>
 	<entry name="Drukhari/ExtraVehicleArmourFlavor" value="Абсталяваныя мігатлівымі палямі ці начнымі шчытамі, машыны Друкхары цяжка заўважыць і яшчэ цяжэй узяць на прыцэл. Усталяваньне брані прывідных пласьцін на найбольш каштоўныя машыны каштуе дорага, але памяншае іхную вагу і павялічвае хуткасьць, яшчэ больш зьніжаючы імавернасьць трапленьня."/>
@@ -1442,7 +1442,7 @@
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="<string name='Traits/Eldar/AssaultWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus" value="Прызыў Вяшчуна"/>
 	<entry name="Eldar/AsuryaniArrivalsBonusDescription" value="Зьніжае кошт Прыбыцьця Асур'янаў."/>
-	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="«Маё слова — болей за простую параду: гэта заклінаньне, прапушчанае праз сьвядомасьць нашых славутых памерлых, што імкнуцца прыўнесьці хоць драбіну парадку ў бязладны сусьвет. Наш народ гэта разумее і слухае мае словы не як словы дыктатара, а як уважлівы вучань».<br/>  — Вяшчун Катайман з Малан'тая"/>
+	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="«Маё слова — болей за простую параду: гэта заклінаньне, прапушчанае празь сьвядомасьць нашых славутых памерлых, што імкнуцца прыўнесьці хоць драбіну парадку ў бязладны сусьвет. Наш народ гэта разумее і слухае мае словы не як словы дыктатара, а як уважлівы вучань».<br/>  — Вяшчун Катайман з Малан'тая"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2" value="Абяцаньне Штучных Сьветаў"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Description" value="Зьніжае час перазарадкі Прыбыцьця Асур'янаў."/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="«Калі Ведзьмакі і Вяшчуны некалькіх штучных сьветаў падзяляюць адну відзежу — літаральна відзежу будучыні, — тады яны і іхныя штучныя сьветы дзейнічаюць як адно цэлае. Яны спустошаць уласныя залі, пазбавяць іх жыцьця і духу, каб выканаць абяцаньне, дадзенае гэтай будучыні».<br/>  — Запісы лекцыяў Грыгомэна Дэлра, Вольнага Гандляра і ксеноляга-аматара"/>
@@ -1937,7 +1937,7 @@
 	<entry name="SpaceMarines/DevastatorDoctrineDescription" value="<string name='Actions/DevastatorDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrineFlavor" value="<string name='Traits/DevastatorDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
-	<entry name="SpaceMarines/DozerBladeDescription" value="Зьніжае штраф руху праз лясы і імперскія руіны для Паляўнічых, Драпежнікаў, Брытвасьпінаў ды Віхураў."/>
+	<entry name="SpaceMarines/DozerBladeDescription" value="Зьніжае штраф руху празь лясы і імперскія руіны для Паляўнічых, Драпежнікаў, Брытвасьпінаў ды Віхураў."/>
 	<entry name="SpaceMarines/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
@@ -2193,7 +2193,7 @@
 	<entry name="Tyranids/InstinctiveBehaviourOverride2Description" value="Зьніжае кошт уплыву на Перавызначэньне Інстынктыўных Паводзін."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverride2Flavor" value="Падтрыманьне кантролю над войскамі — адзін з галоўных клопатаў Розуму Вульля. Ён вырашае гэтую задачу праз розныя прыстасаваньні, напрыклад сінаптычныя стварэньні. Прасцейшы спосаб — зьменшыць прыродную лютасьць сваіх стварэньняў, калі яны дзічэюць, каб вяртаньне кантролю над імі патрабавала меншых псіхічных намаганьняў."/>
 	<entry name="Tyranids/LongRangedDamage" value="<string name='Traits/Tyranids/LongRangedDamage'/>"/>
-	<entry name="Tyranids/LongRangedDamageDescription" value="Павялічвае бронепрабівальнасьць зброі далёкага бою з вялікай далёкасьцю."/>
+	<entry name="Tyranids/LongRangedDamageDescription" value="Павялічвае бронепрабівальнасьць зброі далёкага бою зь вялікай далёкасьцю."/>
 	<entry name="Tyranids/LongRangedDamageFlavor" value="<string name='Traits/Tyranids/LongRangedDamageFlavor'/>"/>
 	<entry name="Tyranids/MeleeDamage" value="<string name='Traits/Tyranids/MeleeDamage'/>"/>
 	<entry name="Tyranids/MeleeDamageDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>

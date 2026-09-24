@@ -1164,7 +1164,7 @@
 	<entry name="AstraMilitarum/ImperialSplendourDescription" value="Pavialičvaje ŭpłyŭ haradoŭ Astra Militarum."/>
 	<entry name="AstraMilitarum/ImperialSplendourFlavor" value="<string name='Traits/ImperialSplendourFlavor'/>"/>
 	<entry name="AstraMilitarum/ImperialStrongpoint" value="<string name='Units/AstraMilitarum/ImperialStrongpoint'/>"/>
-	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Daje Technažrecam-Mašynabačcam zdolnaść budavać fartyfikacyi z ciažkimi bołtarami."/>
+	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Daje Technažrecam-Mašynabačcam zdolnaść budavać fartyfikacyi ź ciažkimi bołtarami."/>
 	<entry name="AstraMilitarum/ImperialStrongpointFlavor" value="<string name='Units/AstraMilitarum/ImperialStrongpointFlavor'/>"/>
 	<entry name="AstraMilitarum/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
 	<entry name="AstraMilitarum/KrakGrenadeDescription" value="Daje Palavoj Artyleryjnaj Batarei, Hvardziejcam, Ciažkaŭzbrojenamu Raźliku, Łordu-Kamisaru, Technažrecam-Mašynabačcam, Naščadkam Tempiestus zdolnaść kidać supraćtankavyja hranaty."/>
@@ -1288,7 +1288,7 @@
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Našyja Žyćci dziela Bahoŭ"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Pavialičvaje chutkaść uzrostu horada paśla Achviaravańnia Kultystaŭ."/>
-	<entry name="ChaosSpaceMarines/OurLivesForTheGodsFlavor" value="Na Hładyusie ad klinkoŭ kultystaŭ zahinuła ŭžo stolki, što kožnaja novaja śmierć zdajecca biessensoŭnaj, pustoj i nikčemnaj. Ale heta ž uzmacniaje dziejańnie ichnych achviaraprynašeńniaŭ: jany ciahnuć hety śviet usio bližej da piakielnaha vymiareńnia Ciomnych Bahoŭ, i ciomnym darunkam usio lahčej prabivacca praz zasłonu, jakaja addzialaje jaho ad Imateryjumu."/>
+	<entry name="ChaosSpaceMarines/OurLivesForTheGodsFlavor" value="Na Hładyusie ad klinkoŭ kultystaŭ zahinuła ŭžo stolki, što kožnaja novaja śmierć zdajecca biessensoŭnaj, pustoj i nikčemnaj. Ale heta ž uzmacniaje dziejańnie ichnych achviaraprynašeńniaŭ: jany ciahnuć hety śviet usio bližej da piakielnaha vymiareńnia Ciomnych Bahoŭ, i ciomnym darunkam usio lahčej prabivacca praz zasłonu, jakaja adździalaje jaho ad Imateryjumu."/>
 	<entry name="ChaosSpaceMarines/RiteOfBlood" value="<string name='Actions/ChaosSpaceMarines/RiteOfBlood'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="<string name='Actions/ChaosSpaceMarines/RiteOfBloodDescription'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfBloodFlavor'/>"/>
@@ -1346,7 +1346,7 @@
 	<entry name="Drukhari/EnhancedAethersailsFlavor" value="<string name='Actions/Drukhari/EnhancedAethersailsFlavor'/>"/>
 	<entry name="Drukhari/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Drukhari/ExtraInfantryArmourDescription" value="Pavialičvaje braniu piachoty."/>
-	<entry name="Drukhari/ExtraInfantryArmourFlavor" value="Zabiaśpiečyć cełuju armiju branioj pryvidnych płaścin kaštavała b razareńnia. Ale dla niešmatlikich abrańnikaŭ archon raskašeliŭsia. Stvoranaja z dziŭnych smałapadobnych materyjałaŭ, pranizanych paražninami z hazam, lahčejšym za pavietra, brania pryvidnych płaścin daje značnuju abaronu i amal ničoha nia važyć."/>
+	<entry name="Drukhari/ExtraInfantryArmourFlavor" value="Zabiaśpiečyć cełuju armiju branioj pryvidnych płaścin kaštavała b razareńnia. Ale dla niešmatlikich abrańnikaŭ archon raskašeliŭsia. Stvoranaja ź dziŭnych smałapadobnych materyjałaŭ, pranizanych paražninami z hazam, lahčejšym za pavietra, brania pryvidnych płaścin daje značnuju abaronu i amal ničoha nia važyć."/>
 	<entry name="Drukhari/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="Drukhari/ExtraVehicleArmourDescription" value="<string name='Traits/ExtraVehicleArmourDescription'/>"/>
 	<entry name="Drukhari/ExtraVehicleArmourFlavor" value="Abstalavanyja mihatlivymi palami ci načnymi ščytami, mašyny Drukchary ciažka zaŭvažyć i jašče ciažej uziać na pryceł. Ustalavańnie brani pryvidnych płaścin na najbolš kaštoŭnyja mašyny kaštuje doraha, ale pamianšaje ichnuju vahu i pavialičvaje chutkaść, jašče bolš źnižajučy imaviernaść trapleńnia."/>
@@ -1442,7 +1442,7 @@
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="<string name='Traits/Eldar/AssaultWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus" value="Pryzyŭ Viaščuna"/>
 	<entry name="Eldar/AsuryaniArrivalsBonusDescription" value="Źnižaje košt Prybyćcia Asur'janaŭ."/>
-	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="«Majo słova — bolej za prostuju paradu: heta zaklinańnie, prapuščanaje praz śviadomaść našych słavutych pamierłych, što imknucca pryŭnieści choć drabinu paradku ŭ biazładny suśviet. Naš narod heta razumieje i słuchaje maje słovy nie jak słovy dyktatara, a jak uvažlivy vučań».<br/>  — Viaščun Katajman z Małan'taja"/>
+	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="«Majo słova — bolej za prostuju paradu: heta zaklinańnie, prapuščanaje praź śviadomaść našych słavutych pamierłych, što imknucca pryŭnieści choć drabinu paradku ŭ biazładny suśviet. Naš narod heta razumieje i słuchaje maje słovy nie jak słovy dyktatara, a jak uvažlivy vučań».<br/>  — Viaščun Katajman z Małan'taja"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2" value="Abiacańnie Štučnych Śvietaŭ"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Description" value="Źnižaje čas pierazaradki Prybyćcia Asur'janaŭ."/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="«Kali Viedźmaki i Viaščuny niekalkich štučnych śvietaŭ padzialajuć adnu vidziežu — litaralna vidziežu budučyni, — tady jany i ichnyja štučnyja śviety dziejničajuć jak adno cełaje. Jany spustošać ułasnyja zali, pazbaviać ich žyćcia i duchu, kab vykanać abiacańnie, dadzienaje hetaj budučyni».<br/>  — Zapisy lekcyjaŭ Hryhomena Dełra, Volnaha Handlara i ksienolaha-amatara"/>
@@ -1937,7 +1937,7 @@
 	<entry name="SpaceMarines/DevastatorDoctrineDescription" value="<string name='Actions/DevastatorDoctrineDescription'/>"/>
 	<entry name="SpaceMarines/DevastatorDoctrineFlavor" value="<string name='Traits/DevastatorDoctrineFlavor'/>"/>
 	<entry name="SpaceMarines/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
-	<entry name="SpaceMarines/DozerBladeDescription" value="Źnižaje štraf ruchu praz lasy i impierskija ruiny dla Palaŭničych, Drapiežnikaŭ, Brytvaśpinaŭ dy Vichuraŭ."/>
+	<entry name="SpaceMarines/DozerBladeDescription" value="Źnižaje štraf ruchu praź lasy i impierskija ruiny dla Palaŭničych, Drapiežnikaŭ, Brytvaśpinaŭ dy Vichuraŭ."/>
 	<entry name="SpaceMarines/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
@@ -2193,7 +2193,7 @@
 	<entry name="Tyranids/InstinctiveBehaviourOverride2Description" value="Źnižaje košt upłyvu na Pieravyznačeńnie Instynktyŭnych Pavodzin."/>
 	<entry name="Tyranids/InstinctiveBehaviourOverride2Flavor" value="Padtrymańnie kantrolu nad vojskami — adzin z hałoŭnych kłopataŭ Rozumu Vulla. Jon vyrašaje hetuju zadaču praz roznyja prystasavańni, naprykład sinaptyčnyja stvareńni. Prasciejšy sposab — źmienšyć pryrodnuju lutaść svaich stvareńniaŭ, kali jany dzičejuć, kab viartańnie kantrolu nad imi patrabavała mienšych psichičnych namahańniaŭ."/>
 	<entry name="Tyranids/LongRangedDamage" value="<string name='Traits/Tyranids/LongRangedDamage'/>"/>
-	<entry name="Tyranids/LongRangedDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi dalokaha boju z vialikaj dalokaściu."/>
+	<entry name="Tyranids/LongRangedDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi dalokaha boju ź vialikaj dalokaściu."/>
 	<entry name="Tyranids/LongRangedDamageFlavor" value="<string name='Traits/Tyranids/LongRangedDamageFlavor'/>"/>
 	<entry name="Tyranids/MeleeDamage" value="<string name='Traits/Tyranids/MeleeDamage'/>"/>
 	<entry name="Tyranids/MeleeDamageDescription" value="Pavialičvaje bronieprabivalnaść zbroi blizkaha boju."/>
