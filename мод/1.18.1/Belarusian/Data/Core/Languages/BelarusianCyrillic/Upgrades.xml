@@ -994,7 +994,7 @@
 	<!-- Other -->
 	<entry name="SmokeLauncher" value="Дымавая Пускавая Ўсталёўка"/>
 	<entry name="SmokeLauncherDescription" value="Дае наземным машынам магчымасьць ствараць дымавую заслону, якая зьніжае шкоду ад далёкіх атак."/>
-	<entry name="SmokeLauncherFlavor" value="Some vehicles have small launchers mounted onto them that carry smoke canisters. These are used to temporarily obscure the vehicle behind billowing clouds of smoke, allowing it to cross open areas in greater safety—although it does so at the cost of being able to fire its own weapons."/>
+	<entry name="SmokeLauncherFlavor" value="На некаторых машынах усталёўваюць невялікія пускавыя ўсталёўкі з дымавымі шашкамі. Яны часова хаваюць машыну за клубамі дыму, дазваляючы бясьпечней перасякаць адкрытыя ўчасткі, — праўда, коштам магчымасьці весьці агонь з уласнай зброі."/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegration" value="<string name='Traits/AdeptusMechanicus/AdjacencyIntegration'/>"/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegrationDescription" value="Павялічвае вытворчасьць дасьледаваньняў будынка за кожны будынак на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/AdjacencyIntegrationFlavor" value="<string name='Traits/AdeptusMechanicus/AdjacencyIntegrationFlavor'/>"/>
@@ -1009,7 +1009,7 @@
 	<entry name="AdeptusMechanicus/BenedictionOfOmniscienceFlavor" value="<string name='Actions/AdeptusMechanicus/BenedictionOfOmniscienceFlavor'/>"/>
 	<entry name="AdeptusMechanicus/BlessedConduits" value="Дабраславёныя Праваднікі"/>
 	<entry name="AdeptusMechanicus/BlessedConduitsDescription" value="Зьмяншае час перазарадкі Павышэньня Магутнасьці."/>
-	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="“And when at last he came upon the vehicle, he perceived the distress of the engine therein and forthwith struck the rune and it was good. Thereupon the engine ignited and was filled with strength…“<br/>  — Lord of the Engines, 16th Tome, Verse 2001"/>
+	<entry name="AdeptusMechanicus/BlessedConduitsFlavor" value="«І калі ён урэшце наблізіўся да машыны, дык адчуў пакуты рухавіка ў ёй і адразу крануў руну, і было гэта добра. Тады рухавік запаліўся і напоўніўся сілай…»<br/>  — Валадар Рухавікоў, том 16, верш 2001"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTether" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTether'/>"/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherDescription" value="Дае Жалезным Крокаходам · Балістарыус, Сідонскім Драгунам, Скорпіўсам · Дзюнавы Наезьнік, Анаграм · Дзюнавы Паўзун і Скорпіўсам · Дэзынтэгратар здольнасьць зьмяншаць страты маралі суседнім адзінкам Адэптус Механікус."/>
 	<entry name="AdeptusMechanicus/BroadSpectrumDataTetherFlavor" value="<string name='Traits/AdeptusMechanicus/BroadSpectrumDataTetherFlavor'/>"/>
@@ -1039,10 +1039,10 @@
 	<entry name="AdeptusMechanicus/EnhancedDataTetherFlavor" value="<string name='Traits/AdeptusMechanicus/EnhancedDataTetherFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ExtraInfantryArmour" value="Пратаколы Граяна"/>
 	<entry name="AdeptusMechanicus/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="AdeptusMechanicus/ExtraInfantryArmourFlavor" value="The integration of Graian protocols into a Skitarii’s command circuits further enhances their already impressive survivability. The Forge World of Graia is known for its refusal to ever yield, given that their logic is simply irrefutable."/>
+	<entry name="AdeptusMechanicus/ExtraInfantryArmourFlavor" value="Укараненьне Пратаколаў Граяна ў камандныя контуры Скітарыяў яшчэ больш павышае іхную і без таго ўражальную жывучасьць. Сьвет-кузьня Грая вядомы сваёй адмовай калі-небудзь саступаць: ягоная лёгіка проста неабвержная."/>
 	<entry name="AdeptusMechanicus/ExtraVehicleArmour" value="Абляцыя Агрыпінана"/>
 	<entry name="AdeptusMechanicus/ExtraVehicleArmourDescription" value="Павялічвае браню машынаў."/>
-	<entry name="AdeptusMechanicus/ExtraVehicleArmourFlavor" value="Living by the Eye of Terror after the fall of Cadia has transformed the Adeptus Mechanicus on Agripinaa into defensive experts—particularly, when it comes to keeping their machines running under fire."/>
+	<entry name="AdeptusMechanicus/ExtraVehicleArmourFlavor" value="Жыцьцё каля Вока Жаху пасьля падзеньня Кадыі ператварыла Адэптус Механікус на Агрыпіне ў знаўцаў абароны — асабліва калі трэба падтрымліваць працаздольнасьць машынаў пад агнём."/>
 	<entry name="AdeptusMechanicus/FidorumVossPrime" value="<string name='Traits/AdeptusMechanicus/FidorumVossPrime'/>"/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeDescription" value="Павялічвае вытворчасьць уплыву будынка за кожны будынак на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/FidorumVossPrimeFlavor" value="<string name='Traits/AdeptusMechanicus/FidorumVossPrimeFlavor'/>"/>
@@ -1099,7 +1099,7 @@
 	<entry name="AdeptusMechanicus/TerranGeneralismFlavor" value="<string name='Traits/AdeptusMechanicus/TerranGeneralismFlavor'/>"/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiency" value="Эфектыўнасьць Тэрмапамену"/>
 	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyDescription" value="Павялічвае бонус прыбытку павышэньня магутнасьці."/>
-	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyFlavor" value="Paradoxically, slowing down the inputs to the Thermo-Exchanger and feeding the plasma through a second set of heat couplings and condensers can stretch the length of time it can operate beyond nominal goals—or at least reduce the amount of lives lost and repairs needed."/>
+	<entry name="AdeptusMechanicus/ThermoExchangeEfficiencyFlavor" value="Як ні парадаксальна, памяншэньне падачы ў цеплаабменьнік і прапусканьне плязмы праз другі камплект цеплавых муфтаў і кандэнсатараў дазваляе падоўжыць ягоны час працы звыш намінальных паказьнікаў — ці прынамсі скараціць людзкія страты і патрэбу ў рамонце."/>
 	<entry name="AdeptusMechanicus/TriplexNecessity" value="<string name='Traits/AdeptusMechanicus/TriplexNecessity'/>"/>
 	<entry name="AdeptusMechanicus/TriplexNecessityDescription" value="Павялічвае вытворчасьць руды будынка за кожны будынак на суседняй плітцы."/>
 	<entry name="AdeptusMechanicus/TriplexNecessityFlavor" value="<string name='Traits/AdeptusMechanicus/TriplexNecessityFlavor'/>"/>
@@ -1111,7 +1111,7 @@
 	<entry name="AdeptusMechanicus/VoicesInTheCodeFlavor" value="<string name='Actions/AdeptusMechanicus/VoicesInTheCodeFlavor'/>"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptance" value="Прыняцьцё Ксенарыта"/>
 	<entry name="AdeptusMechanicus/XenariteAcceptanceDescription" value="Павялічвае фіксаваную колькасьць дасьледаваньняў, што здабываюцца з Руінаў Ваула."/>
-	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="It seems the Xenarite Tech-Priests from Stygies VIII are having their way on Gladius Prime too—setting up observation units and drones at every Outpost to understand the Xenos better. The practical applications in terms of research are immediately obvious…"/>
+	<entry name="AdeptusMechanicus/XenariteAcceptanceFlavor" value="Падобна, тэхнажрацы-ксенарыты са Стыгіі VIII дамагаюцца свайго і на Гладыусе Прайм: на кожным аванпосьце яны разьмяшчаюць назіральныя падразьдзяленьні і дронаў, каб лепей зразумець ксенасаў. Практычная карысьць для дасьледаваньняў відавочная адразу…"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Дадатковыя Цяжкія Болтары"/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Дае дадатковыя цяжкія болтары Гібельным Клінкам, Баявым Танкам · Леман Рус, Баявым Танкам · Рогал Дорн і Валькірыям."/>
 	<entry name="AstraMilitarum/AdditionalHeavyBoltersFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
@@ -1147,10 +1147,10 @@
 	<entry name="AstraMilitarum/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
 	<entry name="AstraMilitarum/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="AstraMilitarum/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="AstraMilitarum/ExtraInfantryArmourFlavor" value="Most infantry in the 41st millenium are equipped with flak armour or its equivalent. If a commander wants their troops to have more than a slight chance of survival, they'll equip them with something closer to the Astra Militarum armaplas-derived carapace armour."/>
+	<entry name="AstraMilitarum/ExtraInfantryArmourFlavor" value="Большасьць пяхоты ў 41-м тысячагодзьдзі носіць супрацьасколачную браню ці яе аналяг. Калі камандзір хоча даць сваім войскам хоць колькі-небудзь істотны шанец выжыць, ён забясьпечыць іх чымсьці бліжэйшым да армапласавай панцырнай брані Астра Мілітарум."/>
 	<entry name="AstraMilitarum/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="AstraMilitarum/ExtraVehicleArmourDescription" value="Павялічвае браню машынаў."/>
-	<entry name="AstraMilitarum/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
+	<entry name="AstraMilitarum/ExtraVehicleArmourFlavor" value="Мацаваньне дадатковых бранявых плітаў на танкі для тэхнажрацоў можа быць вяршыняй ерасі, але для жаўнераў Астра Мілітарум гэта норма. Абляцыйная абшыўка ці адмысловая браня для абароны ад пэўнай зброі — зусім ня дзіва."/>
 	<entry name="AstraMilitarum/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="AstraMilitarum/FragGrenadeDescription" value="Дае Атыланскім Мужным Наезьнікам, Быкрынам, Палявой Артылерыйнай Батарэі, Гвардзейцам, Цяжкаўзброенаму Разьліку, Лорду-Камісару, Прымарыс-Псайкеру, Тэхнажрэцам-Машынабачцам і Нашчадкам Тэмпестус здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="AstraMilitarum/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
@@ -1213,7 +1213,7 @@
 	<entry name="ChaosSpaceMarines/BoltDamageFlavor" value="<string name='Traits/ChaosSpaceMarines/BoltDamageFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ChaosRising" value="Узыход Хаосу"/>
 	<entry name="ChaosSpaceMarines/ChaosRisingDescription" value="Зьніжае кошт будаваньня новых гарадоў."/>
-	<entry name="ChaosSpaceMarines/ChaosRisingFlavor" value="The Imperial population of Gladius know little of Chaos, but in the hell of the Xenos invasions their faith in the distant Emperor has been shaken. It is easy for your cultists and apostles to turn their minds to the Gods—and to their doom."/>
+	<entry name="ChaosSpaceMarines/ChaosRisingFlavor" value="Імперскае насельніцтва Гладыусу мала ведае пра Хаос, але ў пекле ўварваньняў ксенасаў ягоная вера ў далёкага Імператара пахіснулася. Вашым культыстам і апосталам лёгка скіраваць людзкія думкі да Багоў — і да ўласнай пагібелі."/>
 	<entry name="ChaosSpaceMarines/CityTier2" value="<string name='Traits/ChaosSpaceMarines/CityTier2'/>"/>
 	<entry name="ChaosSpaceMarines/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="ChaosSpaceMarines/CityTier2Flavor" value="<string name='Traits/ChaosSpaceMarines/CityTier2Flavor'/>"/>
@@ -1228,10 +1228,10 @@
 	<entry name="ChaosSpaceMarines/DirgeCasterFlavor" value="<string name='Actions/ChaosSpaceMarines/DirgeCasterFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="ChaosSpaceMarines/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="ChaosSpaceMarines/ExtraInfantryArmourFlavor" value="Most infantry in the 41st millenium are equipped with flak armour or its equivalent. If a commander wants their troops to have more than a slight chance of survival, they'll equip them with something closer to the Astra Militarum armaplas-derived carapace armour."/>
+	<entry name="ChaosSpaceMarines/ExtraInfantryArmourFlavor" value="Большасьць пяхоты ў 41-м тысячагодзьдзі носіць супрацьасколачную браню ці яе аналяг. Калі камандзір хоча даць сваім войскам хоць колькі-небудзь істотны шанец выжыць, ён забясьпечыць іх чымсьці бліжэйшым да армапласавай панцырнай брані Астра Мілітарум."/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="ChaosSpaceMarines/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
-	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Adding extra armour plates to tanks might be the height of heresy for Tech-Priests, but for the soldiers of the Astra Militarum it's the norm. Ablative plating or custom armour for dealing with particular weapons isn't unheard of."/>
+	<entry name="ChaosSpaceMarines/ExtraVehicleArmourFlavor" value="Мацаваньне дадатковых бранявых плітаў на танкі для тэхнажрацоў можа быць вяршыняй ерасі, але для жаўнераў Астра Мілітарум гэта норма. Абляцыйная абшыўка ці адмысловая браня для абароны ад пэўнай зброі — зусім ня дзіва."/>
 	<entry name="ChaosSpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="ChaosSpaceMarines/FragGrenadeDescription" value="Дае Лордам Хаосу, Касьмічным Марынам Хаосу, Апустэчвальнікам, Берсеркам Кхорна, Шумавым Марынам, Майстарам Апантанасьці ды Кавалям Варпу здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="ChaosSpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
@@ -1288,7 +1288,7 @@
 	<entry name="ChaosSpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGods" value="Нашыя Жыцьці дзеля Багоў"/>
 	<entry name="ChaosSpaceMarines/OurLivesForTheGodsDescription" value="Павялічвае хуткасьць узросту горада пасьля Ахвяраваньня Культыстаў."/>
-	<entry name="ChaosSpaceMarines/OurLivesForTheGodsFlavor" value="So many now lie dead at cultists’ blades on Gladius that each death is meaningless, empty, shallow. But it also increases the effect of their sacrifice, as they drag this world closer to the Dark Gods’ fallen hell dimension, and it becomes easier for dark boons to breach the barrier with the Immaterium."/>
+	<entry name="ChaosSpaceMarines/OurLivesForTheGodsFlavor" value="На Гладыусе ад клінкоў культыстаў загінула ўжо столькі, што кожная новая сьмерць здаецца бессэнсоўнай, пустой і нікчэмнай. Але гэта ж узмацняе дзеяньне іхных ахвярапрынашэньняў: яны цягнуць гэты сьвет усё бліжэй да пякельнага вымярэньня Цёмных Багоў, і цёмным дарункам усё лягчэй прабівацца праз заслону, якая аддзяляе яго ад Іматэрыюму."/>
 	<entry name="ChaosSpaceMarines/RiteOfBlood" value="<string name='Actions/ChaosSpaceMarines/RiteOfBlood'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodDescription" value="<string name='Actions/ChaosSpaceMarines/RiteOfBloodDescription'/>"/>
 	<entry name="ChaosSpaceMarines/RiteOfBloodFlavor" value="<string name='Actions/ChaosSpaceMarines/RiteOfBloodFlavor'/>"/>
@@ -1312,17 +1312,17 @@
 	<entry name="ChaosSpaceMarines/VeteransOfTheLongWarFlavor" value="<string name='Traits/ChaosSpaceMarines/VeteransOfTheLongWarFlavor'/>"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoyles" value="Гаргульлі Варп-Полымя"/>
 	<entry name="ChaosSpaceMarines/WarpflameGargoylesDescription" value="Зброя Насарогаў Хаосу, Апаганьнікам і Зямных Рэйдараў Хаосу пачынае нанасіць перыядычную шкоду."/>
-	<entry name="ChaosSpaceMarines/WarpflameGargoylesFlavor" value="The muzzles of this vehicle's guns flicker with unnatural fire."/>
+	<entry name="ChaosSpaceMarines/WarpflameGargoylesFlavor" value="На дулах гарматаў гэтай машыны мігоча ненатуральны агонь."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzy" value="<string name='Traits/ChaosSpaceMarines/WarpFrenzy'/>"/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyDescription" value="Дае Чэмпіёнам Хаосу шанец на атрыманьне сталага павелічэньня атак пасьля забойства ворага (Дарунак Хаосу)."/>
 	<entry name="ChaosSpaceMarines/WarpFrenzyFlavor" value="<string name='Traits/ChaosSpaceMarines/WarpFrenzyFlavor'/>"/>
-	<entry name="CompendiumFlavor" value="Each faction expands its cities in a different way. Sometimes, it's an Ork Warboss joining his Boyz to literally lift and move his shielding walls further out, or perhaps a Necron Lord ordering his slaves to dig more of his ancient tomb from the planet's surface. However, they do it, it's necessary in order to make room for ingenious new buildings that expand their faction's capabilities."/>
+	<entry name="CompendiumFlavor" value="Кожная фракцыя пашырае свае гарады па-свойму. Часам вайнабос Оркаў разам са сваімі Хлопцамі літаральна падымае абарончыя сьцены і пераносіць іх далей. А часам лорд Некронаў загадвае рабам адкапаць з-пад паверхні плянэты яшчэ адну частку сваёй старажытнай грабніцы. Як бы яны гэта ні рабілі, пашырэньне неабходнае, каб вызваліць месца для новых вынаходлівых пабудоваў, якія павялічваюць магчымасьці фракцыі."/>
 	<entry name="Drukhari/AssaultWeaponBonus" value="<string name='Traits/Drukhari/AssaultWeaponBonus'/>"/>
 	<entry name="Drukhari/AssaultWeaponBonusDescription" value="<string name='Upgrades/Eldar/AssaultWeaponBonusDescription'/>"/>
 	<entry name="Drukhari/AssaultWeaponBonusFlavor" value="<string name='Traits/Drukhari/AssaultWeaponBonusFlavor'/>"/>
 	<entry name="Drukhari/BetrayalCultureUpgrade" value="Мэтанакіраваныя Забойствы"/>
 	<entry name="Drukhari/BetrayalCultureUpgradeDescription" value="Павялічвае лаяльнасьць гарадоў Друкхары."/>
-	<entry name="Drukhari/BetrayalCultureUpgradeFlavor" value="Death is a matter of course in the streets of a Drukhari city, where corpses lie slumped on every corner, waiting for the Ur-Ghuls to drag them away… but the deaths of Dracons and Kabal nobles are more rare. Or they were until the Archon’s incubi discovered yet another plot. Now even the slightest hint of disloyalty will result in another noble body on a spike above the Archon’s sleeping quarters…"/>
+	<entry name="Drukhari/BetrayalCultureUpgradeFlavor" value="Сьмерць на вуліцах гораду Друкхары — звычайная справа: на кожным рагу валяюцца трупы, чакаючы, пакуль ур-гулі іх адцягнуць… Але драконы і шляхта кабалаў гінуць радзей. Прынамсі, так было, пакуль інкубы архона ня выкрылі чарговую змову. Цяпер нават найменшы намёк на нявернасьць сканчаецца яшчэ адным шляхетным целам на піцы над пакоямі архона…"/>
 	<entry name="Drukhari/BonusResources" value="<string name='Actions/Drukhari/BonusResources'/>"/>
 	<entry name="Drukhari/BonusResourcesDescription" value="<string name='Actions/Drukhari/BonusResourcesDescription'/>"/>
 	<entry name="Drukhari/BonusResourcesFlavor" value="<string name='Actions/Drukhari/BonusResourcesFlavor'/>"/>
@@ -1334,10 +1334,10 @@
 	<entry name="Drukhari/CityTier3Flavor" value="<string name='Traits/Drukhari/CityTier3Flavor'/>"/>
 	<entry name="Drukhari/CombatDrugsUpgrade" value="Гандляр Холадам Культу"/>
 	<entry name="Drukhari/CombatDrugsUpgradeDescription" value="Дае ўсей пяхоце Друкхары здольнасьць выкарыстоўваць баявыя наркотыкі."/>
-	<entry name="Drukhari/CombatDrugsUpgradeFlavor" value="Though combat drugs are in widespread use throughout Drukhari society, it is the Wych Cults that are happiest using them, despite their deleterious effect on their physiology and lifespan. Having a Wych cult liaison with access to their huge store of horrifying compounds is a serious boon to an Kabal making realspace raids."/>
+	<entry name="Drukhari/CombatDrugsUpgradeFlavor" value="Хоць баявыя наркотыкі шырока ўжываюцца ва ўсім грамадзтве Друкхары, найбольш ахвотна іх прымаюць культы Ўайчаў — нягледзячы на згубнае ўзьдзеяньне на арганізм і працягласьць жыцьця. Сувязны культу Ўайчаў, які мае доступ да іхных велізарных запасаў жахлівых рэчываў, — вялікая перавага для кабалу, што ладзіць набегі ў рэальную прастору."/>
 	<entry name="Drukhari/CorsairOutpostsUpgrade" value="Імпэт Душ"/>
 	<entry name="Drukhari/CorsairOutpostsUpgradeDescription" value="Павялічвае стандартны ўзрост гарадоў Друкхары."/>
-	<entry name="Drukhari/CorsairOutpostsUpgradeFlavor" value="Rumours are spreading like the plague in Commorragh: of the wealth of Gladius Prime; of its billion suffering humans trapped beneath the Warp Storm; and of the strange wraithbone core to the planet, filled with lost Aeldari souls… true or not, the Drukhari come. But who could have started those rumours..?"/>
+	<entry name="Drukhari/CorsairOutpostsUpgradeFlavor" value="Каморагам, нібы чума, шырыцца пагалоска: пра багацьці Гладыусу Прайм; пра мільярд людзей, што пакутуюць у пастцы пад варп-штормам; пра дзіўнае ядро плянэты з прывіднай косткі, поўнае страчаных душаў Аэльдары… Праўда гэта ці не, Друкхары прыбываюць. Але хто ж мог пусьціць гэтыя чуткі?.."/>
 	<entry name="Drukhari/EnergyBuildingBonus" value="<string name='Traits/Drukhari/EnergyBuildingBonus'/>"/>
 	<entry name="Drukhari/EnergyBuildingBonusDescription" value="Павялічвае генерацыю энергіі ў вытворчых будынках."/>
 	<entry name="Drukhari/EnergyBuildingBonusFlavor" value="<string name='Traits/Drukhari/EnergyBuildingBonusFlavor'/>"/>
@@ -1346,16 +1346,16 @@
 	<entry name="Drukhari/EnhancedAethersailsFlavor" value="<string name='Actions/Drukhari/EnhancedAethersailsFlavor'/>"/>
 	<entry name="Drukhari/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Drukhari/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="Drukhari/ExtraInfantryArmourFlavor" value="Equipping an entire army with Ghostplate would be ruinously expensive. But for the favoured few, the Archon has splashed out. Constructed of strange resinous materials and shot through with pockets of lighter-than-air gas, Ghostplate provides considerable protection whilst weighing almost nothing."/>
+	<entry name="Drukhari/ExtraInfantryArmourFlavor" value="Забясьпечыць цэлую армію бранёй прывідных пласьцін каштавала б разарэньня. Але для нешматлікіх абраньнікаў архон раскашэліўся. Створаная з дзіўных смалападобных матэрыялаў, пранізаных паражнінамі з газам, лягчэйшым за паветра, браня прывідных пласьцін дае значную абарону і амаль нічога ня важыць."/>
 	<entry name="Drukhari/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="Drukhari/ExtraVehicleArmourDescription" value="<string name='Traits/ExtraVehicleArmourDescription'/>"/>
-	<entry name="Drukhari/ExtraVehicleArmourFlavor" value="Whether equipped with Flickerfields or Night Shields, the vehicles of the Drukhari are hard to spot and harder to target. Integrating Ghostplate into the more prized machines is expensive, but reduces their weight and increases their speed, further reducing the likelihood that they can be hit."/>
+	<entry name="Drukhari/ExtraVehicleArmourFlavor" value="Абсталяваныя мігатлівымі палямі ці начнымі шчытамі, машыны Друкхары цяжка заўважыць і яшчэ цяжэй узяць на прыцэл. Усталяваньне брані прывідных пласьцін на найбольш каштоўныя машыны каштуе дорага, але памяншае іхную вагу і павялічвае хуткасьць, яшчэ больш зьніжаючы імавернасьць трапленьня."/>
 	<entry name="Drukhari/FieldRepairs" value="<string name='Actions/Drukhari/FieldRepairs'/>"/>
 	<entry name="Drukhari/FieldRepairsDescription" value="Дае ўсім машынам Друкхары здольнасьць аднаўляць здароўе."/>
 	<entry name="Drukhari/FieldRepairsFlavor" value="<string name='Actions/Drukhari/FieldRepairsFlavor'/>"/>
 	<entry name="Drukhari/GraveLotus" value="Трунны Лотус"/>
 	<entry name="Drukhari/GraveLotusDescription" value="Баявыя наркотыкі, што даюць дадатковую шкоду блізкага бою."/>
-	<entry name="Drukhari/GraveLotusFlavor" value="In Devil's Orchard, noisome hanging gardens of Grave Lotus sprout from a mosaic of the dead. A vivid purple fungus, the lotus steals the fading strength of the recently dead to further its own growth. The Wych Cults steal in their turn, imbibing the lotus in liquid form to boost their own physical powers."/>
+	<entry name="Drukhari/GraveLotusFlavor" value="У Д'ябальскім Садзе з мазаікі мерцьвякоў прарастаюць смуродныя вісячыя сады труннага лотусу. Гэты ярка-пурпуровы грыб крадзе згасальную сілу нядаўна памерлых, каб расьці самому. Культы Ўайчаў крадуць яе ў сваю чаргу: яны п'юць вадкі лотус, каб узмацніць уласную фізычную моц."/>
 	<entry name="Drukhari/GrislyTrophies" value="<string name='Actions/Drukhari/GrislyTrophies'/>"/>
 	<entry name="Drukhari/GrislyTrophiesDescription" value="Дае Атруце, Рэйдару, Апусташальніку і Танталусу аўру, што зьніжае страты маралі суседніх хаўрусных адзінак Друкхары."/>
 	<entry name="Drukhari/GrislyTrophiesFlavor" value="<string name='Actions/Drukhari/GrislyTrophiesFlavor'/>"/>
@@ -1370,7 +1370,7 @@
 	<entry name="Drukhari/HeavyWeaponBonusFlavor" value="<string name='Traits/Drukhari/HeavyWeaponBonusFlavor'/>"/>
 	<entry name="Drukhari/Hypex" value="Гіпекс"/>
 	<entry name="Drukhari/HypexDescription" value="Баявыя наркотыкі, што даюць рух праз хованкі."/>
-	<entry name="Drukhari/HypexFlavor" value="Capturing a Psychneuein is a perilous quest, but one who does so can sell it to the Wych Cults for a high price indeed. The drug Hypex, when distilled from the insectoid creature's cerebral fluids, boosts the already-sharp reaction speed of the Drukhari to truly astonishing levels."/>
+	<entry name="Drukhari/HypexFlavor" value="Злавіць Псіханэйна — небясьпечная справа, але той, хто здолее гэта зрабіць, можа прадаць яго культам Ўайчаў за сапраўды вялікія грошы. Наркотык гіпекс, атрыманы перагонкай мазгавых вадкасьцяў гэтай насякомападобнай істоты, павялічвае і без таго высокую хуткасьць рэакцыі Друкхары да сапраўды неверагоднага ўзроўню."/>
 	<entry name="Drukhari/MeleeWeaponBonus" value="<string name='Traits/Drukhari/MeleeWeaponBonus'/>"/>
 	<entry name="Drukhari/MeleeWeaponBonusDescription" value="Павялічвае бронепрабівальнасьць зброі блізкага бою."/>
 	<entry name="Drukhari/MeleeWeaponBonusFlavor" value="<string name='Traits/Drukhari/MeleeWeaponBonusFlavor'/>"/>
@@ -1379,7 +1379,7 @@
 	<entry name="Drukhari/NightShieldsFlavor" value="<string name='Traits/Drukhari/NightShieldsFlavor'/>"/>
 	<entry name="Drukhari/Painbringer" value="Болянос"/>
 	<entry name="Drukhari/PainbringerDescription" value="Баявыя наркотыкі, што даюць зьніжэньне шкоды ад неадчувальнасьці да болю."/>
-	<entry name="Drukhari/PainbringerFlavor" value="Only the exiled Duke Sliscus can claim a steady supply of Painbringer. Amongst the rarest of all augmentative elixirs, it hardens the imbiber's skin into a flexible sheath as resilient as cured leather. This process is agonising in the extreme, though its advocate consider the pain a trivial price to pay."/>
+	<entry name="Drukhari/PainbringerFlavor" value="Толькі выгнаны герцаг Сьліскус можа пахваліцца сталымі пастаўкамі боляносу. Адзін з найрадзейшых узмацняльных эліксіраў, ён ператварае скуру таго, хто яго выпіў, у гнуткую абалонку, трывалую, як дубленая скура. Працэс гэты надзвычай пакутлівы, але ягоныя прыхільнікі лічаць боль мізэрнай платай."/>
 	<entry name="Drukhari/PlasmaGrenade" value="<string name='Weapons/PlasmaGrenade'/>"/>
 	<entry name="Drukhari/PlasmaGrenadeDescription" value="Дае Архонам, Бедствам, Сукубусам і Ўайчам здольнасьць кідаць універсальныя гранаты."/>
 	<entry name="Drukhari/PlasmaGrenadeFlavor" value="<string name='Weapons/PlasmaGrenadeFlavor'/>"/>
@@ -1403,7 +1403,7 @@
 	<entry name="Drukhari/ShroudGateFlavor" value="<string name='Traits/Drukhari/ShroudGateFlavor'/>"/>
 	<entry name="Drukhari/SoulHungerCost" value="Локус Душ"/>
 	<entry name="Drukhari/SoulHungerCostDescription" value="Зьніжае кошт здольнасьцяў Голаду па Душах."/>
-	<entry name="Drukhari/SoulHungerCostFlavor" value="As the Drukhari’s raid into Realspace becomes more entrenched, so the connections between this world and Commorragh become more and more numerous. Even when sealed physically, it’s still plausible for the Kabal to draw power from these connections and to feed stolen life back through them."/>
+	<entry name="Drukhari/SoulHungerCostFlavor" value="Чым трывалей Друкхары замацоўваюцца падчас набегу ў рэальную прастору, тым больш сувязяў узьнікае паміж гэтым сьветам і Каморагам. Нават калі іх фізычна запячатаць, кабал усё адно можа чэрпаць празь іх моц і перадаваць назад скрадзенае жыцьцё."/>
 	<entry name="Drukhari/SoulHungerLoyalty" value="<string name='Traits/Drukhari/SoulHungerLoyalty'/>"/>
 	<entry name="Drukhari/SoulHungerLoyaltyDescription" value="<string name='Actions/Drukhari/SoulHungerLoyaltyDescription'/>"/>
 	<entry name="Drukhari/SoulHungerLoyaltyFlavor" value="<string name='Traits/Drukhari/SoulHungerLoyaltyFlavor'/>"/>
@@ -1412,7 +1412,7 @@
 	<entry name="Drukhari/SoulHungerOutpostsFlavor" value="<string name='Traits/Drukhari/SoulHungerOutpostsFlavor'/>"/>
 	<entry name="Drukhari/SoulHungerUpgrade" value="Садысты Душ"/>
 	<entry name="Drukhari/SoulHungerUpgradeDescription" value="Павялічвае ўплыў, што даецца адзінкам Друкхары за забойствы ворагаў."/>
-	<entry name="Drukhari/SoulHungerUpgradeFlavor" value="“You must drug them. Kill the guards. Open the gate. Wake them carefully. Lead them out to freedom. Give them hope of escape. Start the pursuit in earnest. Fake your death. Show them an exit. Then reveal the charade. And return them to the torture chamber, grinning wickedly. Without touching them, you have imbued them with a rich, spiritual pain that will never leave.”<br/>  — Gyrthineus Roche, Archon of The Last Blade"/>
+	<entry name="Drukhari/SoulHungerUpgradeFlavor" value="«Ты мусіш адурманіць іх. Забіць вартавых. Адчыніць браму. Асьцярожна іх абудзіць. Вывесьці на волю. Даць надзею на ўцёкі. Распачаць сапраўднае паляваньне. Удаць уласную сьмерць. Паказаць ім выхад. А тады раскрыць падман. І са злараднай усьмешкай вярнуць іх у катавальню. Не дакрануўшыся да іх, ты напоўніў іх глыбокім душэўным болем, які ніколі іх не пакіне».<br/>  — Гіртыніўс Рошэ, архон Апошняга Ляза"/>
 	<entry name="Drukhari/FeastOfTorment" value="<string name='Traits/Drukhari/FeastOfTorment'/>"/>
 	<entry name="Drukhari/FeastOfTormentDescription" value="<string name='Actions/Drukhari/FeastOfTormentDescription'/>"/>
 	<entry name="Drukhari/FeastOfTormentFlavor" value="<string name='Traits/Drukhari/FeastOfTormentFlavor'/>"/>
@@ -1421,7 +1421,7 @@
 	<entry name="Drukhari/SoulShellingFlavor" value="<string name='Actions/Drukhari/SoulShellingFlavor'/>"/>
 	<entry name="Drukhari/Splintermind" value="Падзелены Розум"/>
 	<entry name="Drukhari/SplintermindDescription" value="Баявыя наркотыкі, што зьніжаюць страты маралі."/>
-	<entry name="Drukhari/SplintermindFlavor" value="Splintermind is made from the ground crystal remains of a dead Eldar Farseer. Though it does not ensure prescience, this dust-like substance allows those who take it to think in several directions at once – an invaluable asset, for the confusion of battle takes its toll on even the most rigorous battle plan."/>
+	<entry name="Drukhari/SplintermindFlavor" value="Падзелены розум вырабляюць з расьцёртых крыштальных парэшткаў памерлага Вяшчуна Аэльдары. Хоць гэтае падобнае да пылу рэчыва не гарантуе прадбачаньня, яно дазваляе таму, хто яго прыняў, думаць у некалькіх кірунках адначасова — неацэнная перавага, бо мітусьня бою шкодзіць нават самаму дакладнаму баявому пляну."/>
 	<entry name="Drukhari/TormentGrenadeLaunchers" value="<string name='Weapons/TormentGrenadeLaunchers'/>"/>
 	<entry name="Drukhari/TormentGrenadeLaunchersDescription" value="Дае Рэйдарам, Апусташальнікам і Танталусам Катавальныя Гранатакіды."/>
 	<entry name="Drukhari/TormentGrenadeLaunchersFlavor" value="<string name='Weapons/TormentGrenadeLaunchersFlavor'/>"/>
@@ -1433,7 +1433,7 @@
 	<entry name="Drukhari/WeaponRacksFlavor" value="<string name='Traits/Drukhari/WeaponRacksFlavor'/>"/>
 	<entry name="Drukhari/WebwayTravelAction" value="Уварваньне ў Рэальную Прастору"/>
 	<entry name="Drukhari/WebwayTravelActionDescription" value="Прыбірае кошт дзеяньню Вандраваць праз Шлях Павуціньня."/>
-	<entry name="Drukhari/WebwayTravelActionFlavor" value="Though passing through a webway gate is simplicity itself, co-ordinating the movements of a large army or formation can make them vulnerable. For the Drukhari, this is solved by the creation of temporary gates around any permanent portals, allowing the entire group to move rapidly through at once."/>
+	<entry name="Drukhari/WebwayTravelActionFlavor" value="Хоць прайсьці праз браму Шляху Павуціньня надзвычай проста, неабходнасьць узгадняць перамяшчэньні вялікай арміі ці злучэньня можа зрабіць іх уразьлівымі. Друкхары вырашаюць гэтую праблему, ствараючы часовыя брамы вакол сталых парталаў, што дазваляе ўсёй групе хутка прайсьці адначасова."/>
 	<entry name="Eldar/AircraftBuildingBonus" value="<string name='Traits/Eldar/AircraftBuildingBonus'/>"/>
 	<entry name="Eldar/AircraftBuildingBonusDescription" value="Павялічвае хуткасьць будаваньня Парталаў Шпілей."/>
 	<entry name="Eldar/AircraftBuildingBonusFlavor" value="<string name='Traits/Eldar/AircraftBuildingBonusFlavor'/>"/>
@@ -1442,10 +1442,10 @@
 	<entry name="Eldar/AssaultWeaponBonusFlavor" value="<string name='Traits/Eldar/AssaultWeaponBonusFlavor'/>"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus" value="Прызыў Вяшчуна"/>
 	<entry name="Eldar/AsuryaniArrivalsBonusDescription" value="Зьніжае кошт Прыбыцьця Асур'янаў."/>
-	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="“My word is more than mere advice: it is an imprecation filtered through the consciousness of our storied dead, striving to bring one iota of order to the disordered universe. Our race understands that and listens to my word, not as that of a dictator but as an attentive student.”<br/>  — Farseer Kataimon of Malantai"/>
+	<entry name="Eldar/AsuryaniArrivalsBonusFlavor" value="«Маё слова — болей за простую параду: гэта заклінаньне, прапушчанае праз сьвядомасьць нашых славутых памерлых, што імкнуцца прыўнесьці хоць драбіну парадку ў бязладны сусьвет. Наш народ гэта разумее і слухае мае словы не як словы дыктатара, а як уважлівы вучань».<br/>  — Вяшчун Катайман з Малан'тая"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2" value="Абяцаньне Штучных Сьветаў"/>
 	<entry name="Eldar/AsuryaniArrivalsBonus2Description" value="Зьніжае час перазарадкі Прыбыцьця Асур'янаў."/>
-	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="“When the Warlocks and Farseers of multiple craftworlds share a vision—a literal vision of the future—then they and their craftworlds work as one. They will denude their own halls of life and spirit to fulfil their pledge to that future.”<br/>  — Lecture transcripts, Grigomen Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Eldar/AsuryaniArrivalsBonus2Flavor" value="«Калі Ведзьмакі і Вяшчуны некалькіх штучных сьветаў падзяляюць адну відзежу — літаральна відзежу будучыні, — тады яны і іхныя штучныя сьветы дзейнічаюць як адно цэлае. Яны спустошаць уласныя залі, пазбавяць іх жыцьця і духу, каб выканаць абяцаньне, дадзенае гэтай будучыні».<br/>  — Запісы лекцыяў Грыгомэна Дэлра, Вольнага Гандляра і ксеноляга-аматара"/>
 	<entry name="Eldar/CityTier2" value="<string name='Traits/Eldar/CityTier2'/>"/>
 	<entry name="Eldar/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Eldar/CityTier2Flavor" value="<string name='Traits/Eldar/CityTier2Flavor'/>"/>
@@ -1472,16 +1472,16 @@
 	<entry name="Eldar/ExpertHunterFlavor" value="<string name='Traits/Eldar/ExpertHunterFlavor'/>"/>
 	<entry name="Eldar/ExtraInfantryArmour" value="Лабірынтавая Сецістая Браня"/>
 	<entry name="Eldar/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="Eldar/ExtraInfantryArmourFlavor" value="The Aeldari’s thermoplas mesh armour isn’t designed with a focus solely on defense—it also enables the user to move as freely as if it weren’t there. However, by further involuting its complex dissipation protocols, it is possible to increase its resilience with no loss of mobility."/>
+	<entry name="Eldar/ExtraInfantryArmourFlavor" value="Тэрмапласавая сецістая браня Аэльдары прызначаная ня толькі для абароны: яна дазваляе носьбіту рухацца гэтак жа вольна, нібы яе зусім няма. Але, яшчэ больш ускладніўшы яе складаныя пратаколы рассейваньня энэргіі, можна павысіць трываласьць без страты рухомасьці."/>
 	<entry name="Eldar/ExtraVehicleArmour" value="Дамешак Прывіднай Косткі"/>
 	<entry name="Eldar/ExtraVehicleArmourDescription" value="Павялічвае браню машынаў."/>
-	<entry name="Eldar/ExtraVehicleArmourFlavor" value="All Aeldari vehicles and structures are literally ‘sung’ into existence, by Bonesingers whose command of their vocal and psychic range is the constructive counterpart of the Howling Banshee’s war cry. Yet, with Gladius Prime’s resources and alteration in their internal harmonies, the Bonesingers can weave greater power into their creations, further increasing their resilience."/>
+	<entry name="Eldar/ExtraVehicleArmourFlavor" value="Усе машыны і збудаваньні Аэльдары літаральна ўзьнікаюць са сьпеву Сьпевакоў Косьці: іхнае валоданьне голасам і псіхічнымі сіламі — стваральны адпаведнік баявога крыку Выючых Баньшы. Аднак рэсурсы Гладыусу Прайм і зьмены ва ўнутраных гармоніях дазваляюць Сьпевакам Косьці ўплятаць яшчэ большую моц у свае творы, дадаткова павышаючы іхную трываласьць."/>
 	<entry name="Eldar/FoodBuildingBonus" value="<string name='Traits/Eldar/FoodBuildingBonus'/>"/>
 	<entry name="Eldar/FoodBuildingBonusDescription" value="Павялічвае вытворчасьць ежы ў Садах Ішы."/>
 	<entry name="Eldar/FoodBuildingBonusFlavor" value="<string name='Traits/Eldar/FoodBuildingBonusFlavor'/>"/>
 	<entry name="Eldar/GhostwalkMatrix" value="Матрыца Прывіднага Шляху"/>
 	<entry name="Eldar/GhostwalkMatrixDescription" value="Дазваляе Агнявым Прызмам, Шэршням, Гадзюкам, Хвалевым Зьмеям і Баявым Крокаходам праходзіць праз сховішчы."/>
-	<entry name="Eldar/GhostwalkMatrixFlavor" value="A ghostwalk matrix utilises the knowledge and wisdom contained within a spirit stone to guide the vehicle on its path."/>
+	<entry name="Eldar/GhostwalkMatrixFlavor" value="Матрыца прывіднага шляху выкарыстоўвае веды і мудрасьць, захаваныя ў камені душы, каб весьці машыну яе шляхам."/>
 	<entry name="Eldar/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="Eldar/HammerOfWrathDescription" value="Дае Зіхатлівым Дзідам, Вяшчунам Нябесным Бягунам, Аватарам Кхайна, Баявыям Крокаходам, Прывідным Лордам і Прывідным Рыцарам магчымасьць зьдзяйсьняць больш разбуральныя атакі."/>
 	<entry name="Eldar/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
@@ -1514,7 +1514,7 @@
 	<entry name="Eldar/ResearchBuildingBonusFlavor" value="<string name='Traits/Eldar/ResearchBuildingBonusFlavor'/>"/>
 	<entry name="Eldar/SpiritPreservationBonus" value="Мантаж Гербавых Шчытоў"/>
 	<entry name="Eldar/SpiritPreservationBonusDescription" value="Павялічвае энергію атрыманую ад сьмерці адзінак Аэльдары."/>
-	<entry name="Eldar/SpiritPreservationBonusFlavor" value="For time immemorial, we have mounted our spirit stones in simple casings, trusting to the skill of their owners to preserve them. Yet, the ancient webway structures we have encountered on Gladius Prime demonstrate that a complex shielding can be built into any wraithbone casing, allowing us to snatch a greater number of our dead warriors from the maw of She Who Waits."/>
+	<entry name="Eldar/SpiritPreservationBonusFlavor" value="Зь незапамятных часоў мы ўсталёўвалі камяні душаў у простыя аправы, спадзеючыся, што майстэрства ўладальнікаў дазволіць іх зьберагчы. Але старажытныя збудаваньні Шляху Павуціньня, якія мы знайшлі на Гладыусе Прайм, паказваюць, што ў любую аправу з прывіднай косткі можна ўбудаваць складаную сыстэму шчытоў. Гэта дазволіць нам вырываць больш душаў загінулых ваяроў з пашчы Той, Што Чакае."/>
 	<entry name="Eldar/SpiritStones" value="<string name='Traits/Eldar/SpiritStones'/>"/>
 	<entry name="Eldar/SpiritStonesDescription" value="Зьніжае страты маралі Агнявым Прызмам, Шэршням, Гадзюкам, Хвалевым Зьмеям і Баявым Крокаходам."/>
 	<entry name="Eldar/SpiritStonesFlavor" value="<string name='Traits/Eldar/SpiritStonesFlavor'/>"/>
@@ -1526,7 +1526,7 @@
 	<entry name="Eldar/TranscendentBlissFlavor" value="<string name='Actions/Eldar/TranscendentBlissFlavor'/>"/>
 	<entry name="Eldar/TranscendentBlissBonus" value="Гібель Аэльдары"/>
 	<entry name="Eldar/TranscendentBlissBonusDescription" value="Павялічвае лаяльнасьць ад Трансцэндэнтальнай Асалоды."/>
-	<entry name="Eldar/TranscendentBlissBonusFlavor" value="“To an unfettered Aeldari mind there is neither sanity nor madness, but merely a wave of perfect existence fulfilled by its own savage momentum.”<br/>  — Ralamine Mung, Ordo Xenos"/>
+	<entry name="Eldar/TranscendentBlissBonusFlavor" value="«Для нічым не скутага розуму Аэльдары няма ні здаровага глузду, ні вар'яцтва — толькі хваля дасканалага існаваньня, якую напаўняе ўласны дзікі парыў».<br/>  — Раламін Мунг, Орда Ксенас"/>
 	<entry name="Eldar/VectoredEngines" value="<string name='Traits/Eldar/VectoredEngines'/>"/>
 	<entry name="Eldar/VectoredEnginesDescription" value="Дае Хвалевым Зьмеям, Агнявым Прызмам, Шэршням, Гадзюкам, Баявым Крокаходам і Скарпіёнам здольнасьць часова павялічваць сваю браню супраць варожай зброі далёкага бою."/>
 	<entry name="Eldar/VectoredEnginesFlavor" value="<string name='Traits/Eldar/VectoredEnginesFlavor'/>"/>
@@ -1538,10 +1538,10 @@
 	<entry name="Eldar/WarShoutFlavor" value="<string name='Actions/Eldar/WarShoutFlavor'/>"/>
 	<entry name="Eldar/WebwayGateBonus" value="Картаграфія Шляхоў Павуціньня"/>
 	<entry name="Eldar/WebwayGateBonusDescription" value="Прыбірае кошт актывацыі Брамаў Шляху Павуціньня."/>
-	<entry name="Eldar/WebwayGateBonusFlavor" value="Only the Harlequins and the custodians of the Black Library truly know anything of the Webway’s transdimensional layout. But by gifting us a portion of that knowledge, pertaining only to this world, the Librarians have ensured we can re-open these ancient gates with ease."/>
+	<entry name="Eldar/WebwayGateBonusFlavor" value="Толькі Арлекіны і захавальнікі Чорнай Бібліятэкі сапраўды нешта ведаюць пра разьмяшчэньне Шляху Павуціньня паміж вымярэньнямі. Але, падарыўшы нам частку гэтых ведаў, датычную толькі гэтага сьвету, бібліятэкары далі нам магчымасьць зь лёгкасьцю зноў адчыняць старажытныя брамы."/>
 	<entry name="Eldar/WebwayGateBonus2" value="Будаўніцтва Шляхоў Павуціньня"/>
 	<entry name="Eldar/WebwayGateBonus2Description" value="Прыбірае кошт актывацыі Шляхоў Павуціньня."/>
-	<entry name="Eldar/WebwayGateBonus2Flavor" value="Having received guidance from the Black Library on Gladius’ unique Webway layout, the spiritseers have planned out the shortest paths between any two gates, making the path between them as frictionless as any other step we might take."/>
+	<entry name="Eldar/WebwayGateBonus2Flavor" value="Атрымаўшы ад Чорнай Бібліятэкі зьвесткі пра ўнікальную будову Шляху Павуціньня на Гладыусе, Празорцы Духаў праклалі найкарацейшыя маршруты паміж любымі дзьвюма брамамі. Цяпер прайсьці паміж імі гэтак жа лёгка, як зрабіць любы іншы крок."/>
 	<entry name="Eldar/WebwayRedoubt" value="Рэдут Шляха Павуціньня"/>
 	<entry name="Eldar/WebwayRedoubtDescription" value="Дае магчымасьць будаваць новыя гарады на захопленых Брамах Шляху Павуціньня."/>
 	<entry name="Eldar/WebwayRedoubtFlavor" value="<string name='Actions/Eldar/WebwayRedoubtFlavor'/>"/>
@@ -1559,7 +1559,7 @@
 	<entry name="Necrons/BlastDamageFlavor" value="<string name='Traits/Necrons/BlastDamageFlavor'/>"/>
 	<entry name="Necrons/CityDefenseBonus" value="Невыказныя Перашкоды"/>
 	<entry name="Necrons/CityDefenseBonusDescription" value="Зьніжае шкоду для адзінак зьмешчаных у гарадах."/>
-	<entry name="Necrons/CityDefenseBonusFlavor" value="Attacks made on the Tomb City's defenders now mysteriously fail—energy attacks fade, graviton weapons are deflected, and physical projectiles seem to be snatched from the sky by the tombs' Cyclopean walls."/>
+	<entry name="Necrons/CityDefenseBonusFlavor" value="Цяпер атакі на абаронцаў гораду-грабніцы таямнічым чынам не дасягаюць мэты: энэргетычныя ўдары згасаюць, агонь гравітоннай зброі адхіляецца, а матэрыяльныя снарады нібы выхопліваюць зь неба цыкляпічныя сьцены грабніцаў."/>
 	<entry name="Necrons/CityTier2" value="<string name='Traits/Necrons/CityTier2'/>"/>
 	<entry name="Necrons/CityTier2Description" value="<string name='Upgrades/AstraMilitarum/CityTier2Description'/>"/>
 	<entry name="Necrons/CityTier2Flavor" value="<string name='Traits/Necrons/CityTier2Flavor'/>"/>
@@ -1574,19 +1574,19 @@
 	<entry name="Necrons/DimensionalCorridorFlavor" value="<string name='Actions/Necrons/DimensionalCorridorFlavor'/>"/>
 	<entry name="Necrons/DimensionalCorridor2" value="Прасторавая Стабільнасьць"/>
 	<entry name="Necrons/DimensionalCorridor2Description" value="Зьніжае кошт уплыву для Прасторавых Калідораў."/>
-	<entry name="Necrons/DimensionalCorridor2Flavor" value="Drawing upon the power of the Old One's abandoned technology has allowed the Necrons to stabilise their recall technology, greatly reducing the cost of warriors phasing out to Eternity Gates."/>
+	<entry name="Necrons/DimensionalCorridor2Flavor" value="Выкарыстаньне моцы пакінутых тэхналёгіяў Старажытных дазволіла Некронам стабілізаваць сваю тэхналёгію вяртаньня, значна зьнізіўшы выдаткі на фазавы перанос ваяроў да Брамаў Вечнасьці."/>
 	<entry name="Necrons/DimensionalCorridor3" value="Прасторавая Санкцыя"/>
 	<entry name="Necrons/DimensionalCorridor3Description" value="Прыбірае кошт дзеяньня і руху для Прасторавых Калідораў."/>
-	<entry name="Necrons/DimensionalCorridor3Flavor" value="A cunning Cryptek's sanction has allowed the Necrons to fine-tune their recall technology, heavily increasing the acquisition accuracy when they phase out."/>
+	<entry name="Necrons/DimensionalCorridor3Flavor" value="Дазвол хітрага Крыптэка даў Некронам магчымасьць дакладна наладзіць тэхналёгію вяртаньня, значна павысіўшы дакладнасьць вызначэньня пункту прызначэньня пры фазавым пераносе."/>
 	<entry name="Necrons/EnergyBuildingBonus" value="<string name='Traits/Necrons/EnergyBuildingBonus'/>"/>
 	<entry name="Necrons/EnergyBuildingBonusDescription" value="Павялічвае вытворчасьць энергіі ў Энергетычных Ядрах."/>
 	<entry name="Necrons/EnergyBuildingBonusFlavor" value="<string name='Traits/Necrons/EnergyBuildingBonusFlavor'/>"/>
 	<entry name="Necrons/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Necrons/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="Necrons/ExtraInfantryArmourFlavor" value="Even after millenia of war and sleep, the Necron Crypteks have not lost their desire for innovation. Making minor adaptations to their necrodermis, they are able to increase the survivability of their troops against the weapons of today."/>
+	<entry name="Necrons/ExtraInfantryArmourFlavor" value="Нават пасьля тысячагодзьдзяў вайны і сну крыптэкі Некронаў ня страцілі цягі да новаўвядзеньняў. Нязначна зьмяняючы некрадэрміс, яны здольныя павысіць жывучасьць сваіх войскаў перад абліччам сучаснай зброі."/>
 	<entry name="Necrons/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="Necrons/ExtraVehicleArmourDescription" value="Павялічвае браню машынам і канаптэкам."/>
-	<entry name="Necrons/ExtraVehicleArmourFlavor" value="To an outside eye, these Necron vehicles are identical to their predecessors. To a Cryptek or perhaps even a learned Aeldari, they can see that the material of the vehicle has increased its resilience, somehow without affecting its density or weight."/>
+	<entry name="Necrons/ExtraVehicleArmourFlavor" value="Для староньняга назіральніка гэтыя машыны Некронаў нічым не адрозьніваюцца ад папярэдніх. Але Крыптэк ці, магчыма, нават вучоны Аэльдары заўважыць, што матэрыял машыны стаў больш трывалым, нейкім чынам захаваўшы ранейшыя шчыльнасьць і вагу."/>
 	<entry name="Necrons/GaussDamage" value="<string name='Traits/GaussDamage'/>"/>
 	<entry name="Necrons/GaussDamageDescription" value="Павялічвае бронепрабівальнасьць гаўсавай зброі."/>
 	<entry name="Necrons/GaussDamageFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
@@ -1614,7 +1614,7 @@
 	<entry name="Necrons/LastStandReady" value="<string name='Traits/LastStand'/>"/>
 	<entry name="Necrons/LivingMetal2" value="Несьмяротныя Формы"/>
 	<entry name="Necrons/LivingMetal2Description" value="Павялічвае хуткасьць лячэньня Жывога Металу."/>
-	<entry name="Necrons/LivingMetal2Flavor" value="In some abstruse sense, the Necron's machines now remember their former glory and endlessly strive to regain it, flowing their living metal rapidly back to cover any damage."/>
+	<entry name="Necrons/LivingMetal2Flavor" value="Нейкім неспасьціжным чынам машыны Некронаў цяпер памятаюць сваю былую веліч і няспынна імкнуцца яе вярнуць: іхны жывы мэтал хутка перацякае назад, затуляючы ўсе пашкоджаньні."/>
 	<entry name="Necrons/LoyaltyBuildingBonus" value="<string name='Traits/Necrons/LoyaltyBuildingBonus'/>"/>
 	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Павялічвае вытворчасьць лаяльнасьці ў Барочных Храмах."/>
 	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="<string name='Traits/Necrons/LoyaltyBuildingBonusFlavor'/>"/>
@@ -1626,10 +1626,10 @@
 	<entry name="Necrons/NebuloscopeFlavor" value="<string name='Traits/Necrons/NebuloscopeFlavor'/>"/>
 	<entry name="Necrons/NecrodermisRepair2" value="Паскораны Ўзрост"/>
 	<entry name="Necrons/NecrodermisRepair2Description" value="Павялічвае аднаўленьне здароўя ад Рамонту Некрадэрміса."/>
-	<entry name="Necrons/NecrodermisRepair2Flavor" value="The Crypteks have improved the nanomechanical structure of the Necrons' living metal bodies once again, allowing them to recover from almost any damage."/>
+	<entry name="Necrons/NecrodermisRepair2Flavor" value="Крыптэкі зноў удасканалілі нанамэханічную структуру целаў Некронаў з жывога мэталу, дазволіўшы ім аднаўляцца пасьля амаль любых пашкоджаньняў."/>
 	<entry name="Necrons/NecrodermisRepair3" value="Жудасны Некрадэрміс"/>
 	<entry name="Necrons/NecrodermisRepair3Description" value="Прыбірае час перазарадкі Рамонту Некрадэрміса."/>
-	<entry name="Necrons/NecrodermisRepair3Flavor" value="The living metal that constitutes the Necron bodies and vehicles now constantly writhes, rebuilding itself from moment to moment."/>
+	<entry name="Necrons/NecrodermisRepair3Flavor" value="Жывы мэтал, зь якога складаюцца целы і машыны Некронаў, цяпер няспынна варушыцца, перабудоўваючы сябе штоімгненьне."/>
 	<entry name="Necrons/OreBuildingBonus" value="<string name='Traits/Necrons/OreBuildingBonus'/>"/>
 	<entry name="Necrons/OreBuildingBonusDescription" value="Павялічвае здабычу руды на Кар'ерах Аль-Хэмік."/>
 	<entry name="Necrons/OreBuildingBonusFlavor" value="<string name='Traits/Necrons/OreBuildingBonusFlavor'/>"/>
@@ -1638,10 +1638,10 @@
 	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
 	<entry name="Necrons/RapidRiseBonus" value="Каманда Лорда"/>
 	<entry name="Necrons/RapidRiseBonusDescription" value="Зьніжае кошт хуткага падыманьня."/>
-	<entry name="Necrons/RapidRiseBonusFlavor" value="The Lord strengthens his patron-client protocols, so that his orders are carried out with more speed and less thought—if less free will."/>
+	<entry name="Necrons/RapidRiseBonusFlavor" value="Лорд узмацняе пратаколы адносінаў паміж патронам і кліентам, каб ягоныя загады выконвалі хутчэй і зь меншымі роздумамі — хоць і зь меншай свабодай волі."/>
 	<entry name="Necrons/ReanimationProtocols2" value="Эфектыўныя Пратаколы Рэанімацыі"/>
 	<entry name="Necrons/ReanimationProtocols2Description" value="Павялічвае лячэньне ад Пратаколаў Рэанімацыі."/>
-	<entry name="Necrons/ReanimationProtocols2Flavor" value="With these Cryptek-derived repair and revival systems, Necrons are even more likely to shrug off apparently-fatal damage."/>
+	<entry name="Necrons/ReanimationProtocols2Flavor" value="З гэтымі сыстэмамі рамонту і адраджэньня, распрацаванымі Крыптэкамі, Некроны яшчэ часьцей перажываюць пашкоджаньні, якія здаюцца сьмяротнымі."/>
 	<entry name="Necrons/ResearchBuildingBonus" value="<string name='Traits/Necrons/ResearchBuildingBonus'/>"/>
 	<entry name="Necrons/ResearchBuildingBonusDescription" value="Павялічвае аб'ём дасьледваньняў Забароненых Архіваў."/>
 	<entry name="Necrons/ResearchBuildingBonusFlavor" value="<string name='Traits/Necrons/ResearchBuildingBonusFlavor'/>"/>
@@ -1695,7 +1695,7 @@
 	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
 	<entry name="Orks/Bosspole" value="Шост Боса"/>
 	<entry name="Orks/BosspoleDescription" value="Яшчэ больш зьніжае страты маралі ад Правіла Мобаў для Буйных Мекаў, Хлопцаў, Камандасаў, Меганобаў, Танкабояў, Войнацыкляў і Вайнабосаў."/>
-	<entry name="Orks/BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
+	<entry name="Orks/BosspoleFlavor" value="Нобы Оркаў часта носяць трафэйны шост, які паказвае, што зь імі лепей не жартаваць. Нобу з шастом боса ён нярэдка прыгаджаецца, каб надаваць па галовах і аднавіць хоць нейкі парадак у разгар бітвы."/>
 	<entry name="Orks/CityEnergy" value="<string name='Traits/Orks/CityEnergy'/>"/>
 	<entry name="Orks/CityEnergyDescription" value="Павялічвае вытворчасьць энергіі ў гарадах Оркаў."/>
 	<entry name="Orks/CityEnergyFlavor" value="<string name='Traits/Orks/CityEnergyFlavor'/>"/>
@@ -1731,10 +1731,10 @@
 	<entry name="Orks/EavyArmourFlavor" value="<string name='Traits/EavyArmourFlavor'/>"/>
 	<entry name="Orks/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Orks/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="Orks/ExtraInfantryArmourFlavor" value="To any other race, Ork armour seems ridiculous: great lumps of thick metal plates, attached by cables, nails and nonsensical apparatuses, painted gold by lumpen Meks and grotz. But with a little bit of Ork belief, it works like a charm."/>
+	<entry name="Orks/ExtraInfantryArmourFlavor" value="Любому іншаму народу браня Оркаў здаецца недарэчнай: грувасткія кавалкі тоўстых мэталічных плітаў, змацаваныя тросамі, цьвікамі і бессэнсоўнымі прыладамі, пафарбаваныя нязграбнымі Мекамі і гротамі пад золата. Але варта дадаць крышачку орчай веры — і ўсё працуе як мае быць."/>
 	<entry name="Orks/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="Orks/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
-	<entry name="Orks/ExtraVehicleArmourFlavor" value="When a Mek is faced with a Warboss angry that his buggies and battlewagons keep getting blown up, he'll rapidly order his grots to dig out some scrap and nail extra armour anywhere it fits. He knows the Speed Freeks will soon enough peel it off, after all."/>
+	<entry name="Orks/ExtraVehicleArmourFlavor" value="Калі Мек сутыкаецца з вайнабосам, разьюшаным тым, што ягоныя багі і Ваявыя Фуры ўвесь час выбухаюць, ён імгненна загадвае гротам адкапаць крыху лому і прыбіць дадатковую браню ўсюды, дзе яна зьмесьціцца. Зрэшты, ён ведае, што Вар'яты Хуткасьці ўсё адно неўзабаве яе абдзяруць."/>
 	<entry name="Orks/Flyboss" value="<string name='Traits/Orks/Flyboss'/>"/>
 	<entry name="Orks/FlybossDescription" value="Павялічвае трапнасьць стральбы ў далёкім боі Дакка-Зьнішчалам супраць аэрацыклаў, лятучых і луналых адзінак."/>
 	<entry name="Orks/FlybossFlavor" value="<string name='Traits/Orks/FlybossFlavor'/>"/>
@@ -1746,7 +1746,7 @@
 	<entry name="Orks/GrotRiggersFlavor" value="<string name='Traits/GrotRiggersFlavor'/>"/>
 	<entry name="Orks/HealingRate" value="Зялёная Плынь"/>
 	<entry name="Orks/HealingRateDescription" value="Павялічвае хуткасьць лячэньня адзінак."/>
-	<entry name="Orks/HealingRateFlavor" value="Through the co-operation of a team of Bad Doks and Runtherdz, your Warlord has prescribed a new, 'more Orky' diet, to make the boyz bigger and stronger, quicker. Whether the cold Oil Squigs for breakfast and Faceeater Squigs for dinner actually has any physical effect is immaterial—the boyz believe it, and that makes it work."/>
+	<entry name="Orks/HealingRateFlavor" value="З дапамогай каманды злых докаў і Паганятых ваш ваеначальнік прызначыў новую, «больш орчую» дыету, каб Хлопцы хутчэй расьлі і мацнелі. Ці маюць халодныя алейныя сквігі на сьняданак і сквігі-тваражэры на вячэру нейкае рэальнае ўзьдзеяньне на цела — няважна: Хлопцы ў гэта вераць, і таму яно дзейнічае."/>
 	<entry name="Orks/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="Orks/HammerOfWrathDescription" value="Дае Шмертажахам, Шмертавёртам, Гіганцкім Сквіготам, Горканаўтам, Бляшанкам-Забойцам, Хлопцам-Сквігавяпрукам і Ваявым Матацыклям магчымасьць выконваць больш разбуральныя атакі."/>
 	<entry name="Orks/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
@@ -1755,7 +1755,7 @@
 	<entry name="Orks/MeleeDamageFlavor" value="<string name='Traits/Orks/MeleeDamageFlavor'/>"/>
 	<entry name="Orks/MightMakesRight2" value="Страх Да Оркаў!"/>
 	<entry name="Orks/MightMakesRight2Description" value="Павялічвае ўплыў, якія атрымліваецца ад нанясеньня шкоды адзінкамі."/>
-	<entry name="Orks/MightMakesRight2Flavor" value="When a Waaagh! is powerful enough, it has something like a multiplying effect, with every blow struck further enhancing the leaking psychic field, in a sort of ultra-violent Orky feedback loop."/>
+	<entry name="Orks/MightMakesRight2Flavor" value="Калі Вааагх! набірае дастатковую моц, узьнікае нешта накшталт эфэкту множаньня: кожны нанесены ўдар яшчэ больш узмацняе псіхічнае поле, якое выпраменьваецца навокал, ствараючы своеасаблівае кола звышжорсткай орчай зваротнай сувязі."/>
 	<entry name="Orks/OrkoidFungusBonusHealingRate" value="<string name='Traits/OrkoidFungusBonusHealingRate'/>"/>
 	<entry name="Orks/OrkoidFungusBonusHealingRateDescription" value="Павялічвае лячэньне ад аркоіднага грыба."/>
 	<entry name="Orks/OrkoidFungusBonusHealingRateFlavor" value="<string name='Traits/OrkoidFungusBonusHealingRateFlavor'/>"/>
@@ -1767,7 +1767,7 @@
 	<entry name="Orks/RedPaintJobFlavor" value="<string name='Traits/RedPaintJobFlavor'/>"/>
 	<entry name="Orks/Scavenger2" value="Гроты-Шмецяры"/>
 	<entry name="Orks/Scavenger2Description" value="Павялічвае колькасьць здабытай руды пасьля забойстве варожых адзінак."/>
-	<entry name="Orks/Scavenger2Flavor" value="A well organised Runtherd will have trained his Grots to gather and sort scrap for the Orks, as well as avoiding the more dangerous shell casings and munitions."/>
+	<entry name="Orks/Scavenger2Flavor" value="Арганізаваны Паганяты навучае сваіх гротаў зьбіраць і сартаваць лом для Оркаў, а таксама абмінаць найнебясьпечнейшыя гільзы і боепрыпасы."/>
 	<entry name="Orks/SkorchaMissile" value="<string name='Weapons/SkorchaMissile'/>"/>
 	<entry name="Orks/SkorchaMissileDescription" value="Дае Палілам-Бамбілам супрацьпяхотныя ракеты, што ігнаруюць хованкі."/>
 	<entry name="Orks/SkorchaMissileFlavor" value="<string name='Weapons/SkorchaMissileFlavor'/>"/>
@@ -1782,10 +1782,10 @@
 	<entry name="SistersOfBattle/AdditionalHeavyBolterFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
 	<entry name="SistersOfBattle/AdditionalSacredRite" value="Двайная Вера"/>
 	<entry name="SistersOfBattle/AdditionalSacredRiteDescription" value="Два Сьвяшчэнных Абрады могуць быць актыўны адначасова."/>
-	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="“Once, our ritual chorals were singular—solos or harmonies sung in sacred voice. Today, we weave our hymns together, to amplify their dual themes, so that we may praise the God-Emperor in as many ways as possible.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/AdditionalSacredRiteFlavor" value="«Некалі нашы рытуальныя сьпевы гучалі паасобку — сола ці сугуччы, выкананыя сьвятым голасам. Цяпер мы пераплятаем гімны, каб узмацніць абедзьве іхныя тэмы і ўслаўляць Бога-Імператара як мага большай колькасьцю спосабаў».<br/>  — Невядомы памятальнік, Эвангельле Шляху Павуціньня"/>
 	<entry name="SistersOfBattle/AircraftsMissiles" value="Авіацыйныя Ракеты"/>
 	<entry name="SistersOfBattle/AircraftsMissilesDescription" value="Дае ракеты нябесны ўдар Маланкавым Зьнішчальнікам і ракеты пякельны ўдар Ударным Зьнішчальнікам · Помсьнік."/>
-	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="These missiles allow the aircrafts to effectively engage a variety of targets; Hellstrike missiles for missions targeting armoured vehicles, Skystrike missiles for enemy air forces."/>
+	<entry name="SistersOfBattle/AircraftsMissilesFlavor" value="Гэтыя ракеты дазваляюць лятальным апаратам эфэктыўна паражаць розныя цэлі: ракеты «Пякельны Ўдар» — браняваныя машыны, а ракеты «Нябесны Ўдар» — варожую авіяцыю."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagus" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagus'/>"/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusDescription" value="Паляпшае браню Ўмяртвяльніцаў."/>
 	<entry name="SistersOfBattle/AnchoriteSarcophagusFlavor" value="<string name='Traits/SistersOfBattle/AnchoriteSarcophagusFlavor'/>"/>
@@ -1824,10 +1824,10 @@
 	<entry name="SistersOfBattle/ExpertFightersFlavor" value="<string name='Traits/SistersOfBattle/ExpertFightersFlavor'/>"/>
 	<entry name="SistersOfBattle/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="SistersOfBattle/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты."/>
-	<entry name="SistersOfBattle/ExtraInfantryArmourFlavor" value="Constructed from thick ceramite plates, the power armour worn by the Adepta Sororitas is based upon the same archaic systems as that worn by the brethren of the Adeptus Astartes. It provides the same degree of armoured protection, yet must forego the more advanced support systems and strength enhancing abilities, for the Сёстры Бітвы do not possess a Space Marine’s ability to interface directly with their own armour."/>
+	<entry name="SistersOfBattle/ExtraInfantryArmourFlavor" value="Сілавая браня Адэпта Сарорытас, складзеная з тоўстых керамітных плітаў, грунтуецца на тых жа архаічных сыстэмах, што і браня іхных братоў з Адэптус Астартэс. Яна забясьпечвае такі самы ўзровень бранявой абароны, але пазбаўленая больш дасканалых дапаможных сыстэмаў і магчымасьцяў узмацненьня сілы: Сёстры Бітвы ня здольныя непасрэдна злучацца з уласнай бранёй, як Касьмічныя Марыны."/>
 	<entry name="SistersOfBattle/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="SistersOfBattle/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
-	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="The vehicles of the Adepta Sororitas are demonstrations of faith, so it is crucial to maintain and protect the exposed artefacts they bear. So preserved, these vehicles will more easily cover the advance of the order Militants of the Adepta Sororitas."/>
+	<entry name="SistersOfBattle/ExtraVehicleArmourFlavor" value="Машыны Адэпта Сарорытас — увасабленьне веры, таму надзвычай важна даглядаць і абараняць выстаўленыя на іх артэфакты. Захаваныя такім чынам машыны змогуць лягчэй прыкрываць наступ баявых ордэнаў Адэпта Сарорытас."/>
 	<entry name="SistersOfBattle/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="SistersOfBattle/FragGrenadeDescription" value="Дае Сёстрам Бітвы, Кананэсам, Найсьвяцейшым Сэлесьцінам, Сэлесьцінам-Інсыдыянткам, Дыялогусам, Дамініянкам, Шпітальеркам, Уяўляльніцам, Дасканалым Вайсковым Рыштункам, Карніцам, Сьвятой Сэлесьціне, Серафімам, Сёстрам Пакаяньня, Зэфірымам здольнасьць кідаць супрацьпяхотныя гранаты."/>
 	<entry name="SistersOfBattle/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
@@ -1857,7 +1857,7 @@
 	<entry name="SistersOfBattle/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrination" value="Індактрынацыя Міністорума"/>
 	<entry name="SistersOfBattle/MinistorumIndoctrinationDescription" value="Дае Дух Пакутніцы Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам · Цэрастус."/>
-	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="“Through long exposure to our rituals and prayers, our allies of fortune—the Imperial Navy and the handful of Imperial Knight-Lancers who had survived—began to take part in our rites and internalize our beliefs too. Faith, it appears, is contagious.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/MinistorumIndoctrinationFlavor" value="«Пасьля доўгага знаёмства з нашымі рытуаламі і малітвамі нашы воляй лёсу хаўрусьнікі — Імперскі Флот і жменька ацалелых Імперскіх Рыцараў-Капійнікаў — таксама пачалі ўдзельнічаць у нашых абрадах і прымаць нашую веру. Відаць, вера заразьлівая».<br/>  — Невядомы памятальнік, Эвангельле Шляху Павуціньня"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisation" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisation'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationDescription" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationDescription'/>"/>
 	<entry name="SistersOfBattle/NonMilitantMobilisationFlavor" value="<string name='Actions/SistersOfBattle/NonMilitantMobilisationFlavor'/>"/>
@@ -1869,13 +1869,13 @@
 	<entry name="SistersOfBattle/RagingFervourFlavor" value="<string name='Actions/SistersOfBattle/RagingFervourFlavor'/>"/>
 	<entry name="SistersOfBattle/RitualizedCeremonies" value="Рытуалізаваныя Цырымоніі"/>
 	<entry name="SistersOfBattle/RitualizedCeremoniesDescription" value="Зьніжае кошт Сьвяшчэнных Абрадаў."/>
-	<entry name="SistersOfBattle/RitualizedCeremoniesFlavor" value="“At first, we prayed on the move, in moments of peace in ruins or caves. In time, as the conflict stabilized into endless, grinding war, our rituals and prayers stabilized too, to form a regime and routine.”<br/>  — Unknown remembrancer, Gospel of the Webway"/>
+	<entry name="SistersOfBattle/RitualizedCeremoniesFlavor" value="«Спачатку мы маліліся на хаду, у хвіліны зацішша сярод руінаў ці ў пячорах. З часам, калі канфлікт ператварыўся ў бясконцую, зьнясільвальную вайну, нашы рытуалы і малітвы таксама набылі сталую форму, стаўшы заведзеным парадкам і штодзённым звычаем».<br/>  — Невядомы памятальнік, Эвангельле Шляху Павуціньня"/>
 	<entry name="SistersOfBattle/SacralVigor" value="<string name='Actions/SistersOfBattle/SacralVigor'/>"/>
 	<entry name="SistersOfBattle/SacralVigorDescription" value="<string name='Actions/SistersOfBattle/SacralVigorDescription'/>"/>
 	<entry name="SistersOfBattle/SacralVigorFlavor" value="<string name='Actions/SistersOfBattle/SacralVigorFlavor'/>"/>
 	<entry name="SistersOfBattle/SanctifiedWorld" value="Асьвячоны Сьвет"/>
 	<entry name="SistersOfBattle/SanctifiedWorldDescription" value="Павялічвае бонус лаяльнасьці ад Манастыра Веры."/>
-	<entry name="SistersOfBattle/SanctifiedWorldFlavor" value="Most Orders spread the illumination of the God-Emperor to worlds far beyond their primary sanctuaries, establishing far-flung missions and subsidiary chapels to extend the influence of their Order and the Ecclesiarchy."/>
+	<entry name="SistersOfBattle/SanctifiedWorldFlavor" value="Большасьць ордэнаў нясе сьвятло Бога-Імператара ў сьветы далёка за межамі сваіх галоўных сьвятыняў, засноўваючы аддаленыя місіі і падпарадкаваныя капліцы, каб пашыраць уплыў свайго ордэну і Эклізіархіі."/>
 	<entry name="SistersOfBattle/SimulacrumImperialis" value="<string name='Traits/SistersOfBattle/SimulacrumImperialis'/>"/>
 	<entry name="SistersOfBattle/SimulacrumImperialisDescription" value="<string name='Traits/SistersOfBattle/SimulacrumImperialisDescription'/>"/>
 	<entry name="SistersOfBattle/SimulacrumImperialisFlavor" value="<string name='Traits/SistersOfBattle/SimulacrumImperialisFlavor'/>"/>
@@ -1887,7 +1887,7 @@
 	<entry name="SistersOfBattle/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
 	<entry name="SistersOfBattle/UniversalCatechism" value="Універсальны Катэхізіс"/>
 	<entry name="SistersOfBattle/UniversalCatechismDescription" value="Дае Шчыт Веры Маланкавым Зьнішчальнікам, Ударным Зьнішчальнікам · Помсьнік і Рыцарам-Капійнікам · Цэрастус."/>
-	<entry name="SistersOfBattle/UniversalCatechismFlavor" value="Imperial troops requisitioned for the Wars of Faith often end up praying side-by-side with the sisters of the Adepta Sororitas before each battle, finding guidance in their convictions."/>
+	<entry name="SistersOfBattle/UniversalCatechismFlavor" value="Імперскія войскі, прыцягнутыя да Войнаў Веры, часта пачынаюць маліцца плячо ў плячо зь сёстрамі Адэпта Сарорытас перад кожнай бітвай, знаходзячы ў іхных перакананьнях арыентыр для сябе."/>
 	<entry name="SistersOfBattle/VengefulSpirit" value="<string name='Actions/SistersOfBattle/VengefulSpirit'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritDescription" value="<string name='Actions/SistersOfBattle/VengefulSpiritDescription'/>"/>
 	<entry name="SistersOfBattle/VengefulSpiritFlavor" value="<string name='Actions/SistersOfBattle/VengefulSpiritFlavor'/>"/>
@@ -1941,10 +1941,10 @@
 	<entry name="SpaceMarines/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="SpaceMarines/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
-	<entry name="SpaceMarines/ExtraInfantryArmourFlavor" value="Whilst purity seals may well keep an Adeptus Astartes in the field for longer, faith doesn't stop all bolts. By upgrading to later versions of their Power Armour, Space Marine infantry improve their survivability substantially."/>
+	<entry name="SpaceMarines/ExtraInfantryArmourFlavor" value="Хоць пячаткі чысьціні і могуць даўжэй утрымліваць ваяра Адэптус Астартэс у страі, вера спыняе ня ўсе болты. Пераходзячы на навейшыя вэрсіі сілавой брані, пяхота Касьмічных Марынаў істотна павышае сваю жывучасьць."/>
 	<entry name="SpaceMarines/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="SpaceMarines/ExtraVehicleArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraVehicleArmourDescription'/>"/>
-	<entry name="SpaceMarines/ExtraVehicleArmourFlavor" value="When the proper unguents have been spread and blessings made, a Techmarine may well make some minor changes to his charges, in line with Codex Astartes of course, to improve survivability."/>
+	<entry name="SpaceMarines/ExtraVehicleArmourFlavor" value="Калі належныя мазі нанесеныя, а дабраславеньні прамоўленыя, Тэхнамарын цалкам можа трохі зьмяніць даручаныя яму машыны, каб павысіць іхную жывучасьць — вядома ж, у адпаведнасьці з Кодэксам Астартэс."/>
 	<entry name="SpaceMarines/FortressOfRedemptionDamageReduction" value="Абарона Крэпасьці"/>
 	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionDescription" value="Дае Крэпасьці Адкупленьня непаражальнае зьніжэньне шкоды."/>
 	<entry name="SpaceMarines/FortressOfRedemptionDamageReductionFlavor" value="<string name='Traits/SpaceMarines/FortressOfRedemptionDamageReductionFlavor'/>"/>
@@ -1962,7 +1962,7 @@
 	<entry name="SpaceMarines/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
 	<entry name="SpaceMarines/HurricaneBolter" value="Болтар-Ураган"/>
 	<entry name="SpaceMarines/HurricaneBolterDescription" value="Дае Караблям · Штармавы Крумкач болтар ураган."/>
-	<entry name="SpaceMarines/HurricaneBolterFlavor" value="First used by the Black Templars Chapter, hurricane bolters combine the punishing firepower of multiple twin-linked boltguns to produce a truly withering storm of shells."/>
+	<entry name="SpaceMarines/HurricaneBolterFlavor" value="Болтары-ўраганы, упершыню ўжытыя ордэнам Чорных Тампліераў, аб'ядноўваюць зьнішчальную агнявую моц некалькіх здвоеных болтараў, спараджаючы сапраўды сьмертаносную буру снарадаў."/>
 	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
 	<entry name="SpaceMarines/KrakGrenadeDescription" value="Дае Аптэкарыям, Штурмавым Касьмічным Марынам, Капітанам, Космамарынам-Разбуральнікам, Бібліарыям, Прымарысам · Пякельным Бластарам, Прымарысам-Інтэрцэсарам, Выведнікам, Матацыклістам-Выведнікам, Тактычным Касьмічным Марынам і Гарматам · Грамавы Агонь здольнасьць кідаць супрацьтанкавыя гранаты."/>
 	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
@@ -2062,16 +2062,16 @@
 	<entry name="Tau/EMPGrenadeFlavor" value="<string name='Weapons/EMPGrenadeFlavor'/>"/>
 	<entry name="Tau/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Tau/ExtraInfantryArmourDescription" value="Павялічвае браню пяхоты і жахлівых стварэньняў."/>
-	<entry name="Tau/ExtraInfantryArmourFlavor" value="Further studying the chitinous carapace of our Thraxian comrades has revealed substantial structural improvements we can make to the composition of our Cadre and Battle Suit armour."/>
+	<entry name="Tau/ExtraInfantryArmourFlavor" value="Далейшае вывучэньне хітынавага панцыра нашых таварышаў-траксіянаў выявіла магчымасьці істотна ўдасканаліць структуру брані нашых кадраў і баявых гарнітураў."/>
 	<entry name="Tau/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
 	<entry name="Tau/ExtraVehicleArmourDescription" value="Павялічвае браню машынам."/>
-	<entry name="Tau/ExtraVehicleArmourFlavor" value="Unlike the stagnant Techpriests of Mars, the Earth Caste are endlessly innovating and creating. Fio’tak is the material that is the current peak of their creativity, a hard, ultra-dense, nano-crystalline metal alloy used sparingly on their finest creations."/>
+	<entry name="Tau/ExtraVehicleArmourFlavor" value="У адрозьненьне ад закарэлых тэхнажрацоў Марса, Каста Зямлі няспынна вынаходзіць і стварае. Цяперашняя вяршыня яе творчасьці — фіё'так: цьвёрды, звышшчыльны нанакрыштальны мэталічны сплаў, які ашчадна выкарыстоўваюць у найлепшых вырабах."/>
 	<entry name="Tau/FlechetteDischarger" value="<string name='Traits/Tau/FlechetteDischarger'/>"/>
 	<entry name="Tau/FlechetteDischargerDescription" value="Дае тэхніцы здольнасьць наносіць шкоду атакоўцам блізкага бою."/>
 	<entry name="Tau/FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
 	<entry name="Tau/ForTheGreaterGoodBonus" value="Амбасаспоры Чарпакцін"/>
 	<entry name="Tau/ForTheGreaterGoodBonusDescription" value="Зьмяншае кошт уплыву на «У Імя Найвышэйшага Дабрабыту»."/>
-	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="When our Water Caste diplomats are in the field, they sometimes find it useful to take along our fungoid Charpactin allies, whose strobing ultraviolet communications have a sedative, almost hypnotic, effect on nearly all races."/>
+	<entry name="Tau/ForTheGreaterGoodBonusFlavor" value="Калі нашы дыпляматы Касты Вады працуюць на месцах, яны часам лічаць карысным браць з сабой нашых грыбападобных хаўрусьнікаў чарпакцін. Іхныя мігатлівыя ўльтрафіялетавыя сыгналы сувязі дзейнічаюць заспакаяльна, амаль гіпнатычна, на прадстаўнікоў амаль усіх народаў."/>
 	<entry name="Tau/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
 	<entry name="Tau/HammerOfWrathDescription" value="Дае баявым гарнітурам XV95 Прывідны Карабель, XV104 Рэжучы Струмень, XV107 Р'Варна, KV128 Штармавая Хваля здольнасьць зьдяйсьняць больш разбуральныя атакі."/>
 	<entry name="Tau/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
@@ -2107,7 +2107,7 @@
 	<entry name="Tau/SeekerMissileFlavor" value="<string name='Weapons/SeekerMissileFlavor'/>"/>
 	<entry name="Tau/SensorSpines" value="Сэнсарныя Шыпы"/>
 	<entry name="Tau/SensorSpinesDescription" value="Дае тэхніцы магчымасьць руху праз хованкі."/>
-	<entry name="Tau/SensorSpinesFlavor" value="Sensor spines are used to feed data to an advanced ground-following flight control system, plotting safe courses through treacherous terrain that avoid traps and mines that might lie hidden from sight."/>
+	<entry name="Tau/SensorSpinesFlavor" value="Сэнсарныя шыпы перадаюць зьвесткі ў перадавую сыстэму кіраваньня палётам з агінаньнем рэльефу, якая пракладае бясьпечныя маршруты празь небясьпечную мясцовасьць, абмінаючы схаваныя пасткі і міны."/>
 	<entry name="Tau/ShieldGenerator" value="<string name='Traits/Tau/ShieldGenerator'/>"/>
 	<entry name="Tau/ShieldGeneratorDescription" value="Сістэма падтрымкі баявога гарнітура дае непаражальнае зьніжэньне шкоды."/>
 	<entry name="Tau/ShieldGeneratorFlavor" value="<string name='Traits/Tau/ShieldGeneratorFlavor'/>"/>
@@ -2116,7 +2116,7 @@
 	<entry name="Tau/StimulantInjectorFlavor" value="<string name='Traits/Tau/StimulantInjectorFlavor'/>"/>
 	<entry name="Tau/SubversionBonus" value="Дасьледаваньне Падбухторваньняў"/>
 	<entry name="Tau/SubversionBonusDescription" value="Павялічвае штраф лаяльнасьці за Зьвяржэньні ў Гарадах."/>
-	<entry name="Tau/SubversionBonusFlavor" value="Whilst conducting oppositional research, the T’au found the phrase “think like your foe” in a human military textbook. The Water Caste have taken it to heart and thoroughly investigate the unfulfilled needs and desires of a given settlement—whether shivering Necron slaves or squig-hungry Ork boys—before fomenting rebellion."/>
+	<entry name="Tau/SubversionBonusFlavor" value="Вывучаючы праціўніка, Т'аў знайшлі ў чалавечым вайсковым падручніку выраз «думай як твой вораг». Каста Вады прыняла яго блізка да сэрца і, перш чым распальваць паўстаньне, старанна дасьледуе незадаволеныя патрэбы і жаданьні жыхароў паселішча — няхай гэта будуць рабы Некронаў, якія дрыжаць, ці орчыя Хлопцы, што прагнуць сквігаў."/>
 	<entry name="Tau/TacticalSupportTurret" value="<string name='Weapons/TacticalSupportTurret'/>"/>
 	<entry name="Tau/TacticalSupportTurretDescription" value="Дае Ваярам Агню дадатковую зброю падчас нерухомасьці."/>
 	<entry name="Tau/TacticalSupportTurretFlavor" value="<string name='Weapons/TacticalSupportTurretFlavor'/>"/>
@@ -2134,7 +2134,7 @@
 	<entry name="Tyranids/AcidBloodFlavor" value="<string name='Traits/Tyranids/AcidBloodFlavor'/>"/>
 	<entry name="Tyranids/AdrenalGlands" value="Адрэналінавыя Гланды"/>
 	<entry name="Tyranids/AdrenalGlandsDescription" value="Дае адзінкам павялічаны рух і шкоду ў блізкім боі."/>
-	<entry name="Tyranids/AdrenalGlandsFlavor" value="Adrenal glands saturate their host's bodies with chemicals that boost the creature's metabolism to a hyperactive state of frenzy."/>
+	<entry name="Tyranids/AdrenalGlandsFlavor" value="Адрэналінавыя гланды насычаюць цела свайго носьбіта хімічнымі рэчывамі, якія паскараюць абмен рэчываў і прыводзяць істоту ў стан гіпэрактыўнага шаленства."/>
 	<entry name="Tyranids/BiomorphDamage" value="<string name='Traits/Tyranids/BiomorphDamage'/>"/>
 	<entry name="Tyranids/BiomorphDamageDescription" value="Павялічвае бронепрабівальнасьць біяморфаў."/>
 	<entry name="Tyranids/BiomorphDamageFlavor" value="<string name='Traits/Tyranids/BiomorphDamageFlavor'/>"/>
@@ -2146,7 +2146,7 @@
 	<entry name="Tyranids/BoneMaceFlavor" value="<string name='Weapons/BoneMaceFlavor'/>"/>
 	<entry name="Tyranids/CityCost" value="Метамарфічныя Малантропы"/>
 	<entry name="Tyranids/CityCostDescription" value="Зьніжае кошт будаваньня новых гарадоў."/>
-	<entry name="Tyranids/CityCostFlavor" value="The role of the Malanthrope in founding new Tyranid hives has been little studied by Imperial Genetors, as in most circumstances they're dead or fleeing when the hive is founded. However, it's believed that they transport the city seed to new locations when a forward brood location is required. Unusual Malanthropes have sometimes been observed, with specialised physical structures that enable them to perform this task more efficiently."/>
+	<entry name="Tyranids/CityCostFlavor" value="Імперскія генетары мала вывучалі ролю Малантропа ў заснаваньні новых вульляў Тыранідаў: звычайна да моманту зьяўленьня вульля яны ўжо мёртвыя ці ўцякаюць. Аднак лічыцца, што Малантропы пераносяць зародак гораду на новае месца, калі патрэбная пярэдняя база для вывадку. Часам назіралі незвычайных Малантропаў з адмысловымі ўтварэньнямі цела, якія дазваляюць выконваць гэтую задачу больш эфэктыўна."/>
 	<entry name="Tyranids/CityDamage" value="<string name='Traits/Tyranids/CityDamage'/>"/>
 	<entry name="Tyranids/CityDamageDescription" value="Варожыя адзінкі ў гарадах Тыранідаў атрымліваюць шкоду кожны крок."/>
 	<entry name="Tyranids/CityDamageFlavor" value="<string name='Traits/Tyranids/CityDamageFlavor'/>"/>
@@ -2167,7 +2167,7 @@
 	<entry name="Tyranids/CityTier2Flavor" value="<string name='Traits/Tyranids/CityTier2Flavor'/>"/>
 	<entry name="Tyranids/ConsumeTile2" value="Эфектыўнае Страваваньне"/>
 	<entry name="Tyranids/ConsumeTile2Description" value="Зьніжае кошт уплыву за спажываньне плітак."/>
-	<entry name="Tyranids/ConsumeTile2Flavor" value="Whilst a Malanthrope or Ripper's razor-edged jaws have no problem eating their way through flesh, bone or even plasteel, they are slowed by the necessity of consuming the huge quantities of soil and rock the Hive Mind demands at scale and speed. It is presumed that specialised organisms are deployed to consume these—though, again, none have survived to report them."/>
+	<entry name="Tyranids/ConsumeTile2Flavor" value="Хоць вострыя, як брытва, сківіцы Малантропа ці Рыхліцеля безь цяжкасьцяў праядаюць плоць, косткі і нават пласталь, неабходнасьць паглынаць велізарныя аб'ёмы глебы і каменю з запатрабаванымі Розумам Вульля размахам і хуткасьцю запавольвае іх. Мяркуецца, што для гэтага выкарыстоўваюцца адмысловыя арганізмы, — але, зноў жа, ніхто ня выжыў, каб пра іх расказаць."/>
 	<entry name="Tyranids/Deathspitter" value="Сьмяротны Плявок Рэйвенараў"/>
 	<entry name="Tyranids/DeathspitterDescription" value="Дае Рэйвенарам зброю далёкага бою."/>
 	<entry name="Tyranids/DeathspitterFlavor" value="<string name='Weapons/DeathspitterFlavor'/>"/>
@@ -2176,10 +2176,10 @@
 	<entry name="Tyranids/DesiccatorLarvaeFlavor" value="<string name='Weapons/DesiccatorLarvaeFlavor'/>"/>
 	<entry name="Tyranids/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
 	<entry name="Tyranids/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
-	<entry name="Tyranids/ExtraInfantryArmourFlavor" value="The Hive Mind is a frugal mentality. Why sacrifice resources armouring troops that will be reclaimed anyway? Only when the gamble makes sense, does it invest in extra-thick chitin and bone for its fauna."/>
+	<entry name="Tyranids/ExtraInfantryArmourFlavor" value="Розум Вульля ашчадны. Навошта марнаваць рэсурсы на браню для войскаў, якія ўсё адно будуць перапрацаваныя? Толькі калі рызыка апраўданая, ён укладае рэсурсы ў асабліва тоўсты хітын і косткі для сваёй фаўны."/>
 	<entry name="Tyranids/ExtraMonstrousCreatureArmour" value="<string name='Traits/ExtraMonstrousCreatureArmour'/>"/>
 	<entry name="Tyranids/ExtraMonstrousCreatureArmourDescription" value="Павялічвае браню жахлівых стварэньняў."/>
-	<entry name="Tyranids/ExtraMonstrousCreatureArmourFlavor" value="Through a combination of hardened carapaces, disruptive fields and deadened nerve endings, the Hive Mind can alter the resilience of its larger creatures easily."/>
+	<entry name="Tyranids/ExtraMonstrousCreatureArmourFlavor" value="Спалучаючы зацьвярдзелыя панцыры, палі перашкодаў і прытупленыя нэрвовыя канчаткі, Розум Вульля можа лёгка зьмяняць трываласьць сваіх буйнейшых стварэньняў."/>
 	<entry name="Tyranids/FleshHooks" value="<string name='Weapons/FleshHooks'/>"/>
 	<entry name="Tyranids/FleshHooksDescription" value="Дае Ваярам Тыранідаў, Гонару Тыранідаў і Ліктарам дадатковую зброю далёкага бою."/>
 	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
@@ -2191,7 +2191,7 @@
 	<entry name="Tyranids/InfantryUpkeepFlavor" value="<string name='Traits/Tyranids/InfantryUpkeepFlavor'/>"/>
 	<entry name="Tyranids/InstinctiveBehaviourOverride2" value="Дзікі Напор"/>
 	<entry name="Tyranids/InstinctiveBehaviourOverride2Description" value="Зьніжае кошт уплыву на Перавызначэньне Інстынктыўных Паводзін."/>
-	<entry name="Tyranids/InstinctiveBehaviourOverride2Flavor" value="Maintaining control of its troops is a major concern of the hive mind and one it seeks to overcome by various adaptations, such as its synapse creatures. A simpler one is to reduce the natural savagery of its units when they run feral, so they require less psychic effort to bring back under control."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride2Flavor" value="Падтрыманьне кантролю над войскамі — адзін з галоўных клопатаў Розуму Вульля. Ён вырашае гэтую задачу праз розныя прыстасаваньні, напрыклад сінаптычныя стварэньні. Прасцейшы спосаб — зьменшыць прыродную лютасьць сваіх стварэньняў, калі яны дзічэюць, каб вяртаньне кантролю над імі патрабавала меншых псіхічных намаганьняў."/>
 	<entry name="Tyranids/LongRangedDamage" value="<string name='Traits/Tyranids/LongRangedDamage'/>"/>
 	<entry name="Tyranids/LongRangedDamageDescription" value="Павялічвае бронепрабівальнасьць зброі далёкага бою з вялікай далёкасьцю."/>
 	<entry name="Tyranids/LongRangedDamageFlavor" value="<string name='Traits/Tyranids/LongRangedDamageFlavor'/>"/>
@@ -2203,7 +2203,7 @@
 	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
 	<entry name="Tyranids/PreyAdaptation2" value="Малантропныя Густарфлагелі"/>
 	<entry name="Tyranids/PreyAdaptation2Description" value="Павялічвае прыбытак дасьледваньняў ад сьмерці ворагаў у радыусе дзеяньня Малантропа."/>
-	<entry name="Tyranids/PreyAdaptation2Flavor" value="An unusual adaptation of the Malanthropic form, gustarflagelli are filament thin tendrils that surround a malanthrope like a fleshy, wriggling cloud. It's presumed that they enable the Malanthrope to gather and retain more genetic data from recently-deceased enemies."/>
+	<entry name="Tyranids/PreyAdaptation2Flavor" value="Незвычайнае прыстасаваньне малантропнай формы, густарфлагелі, — гэта тонкія, як ніткі, шчупальцы, якія атачаюць Малантропа нібы хмара зь мяса, што ўвесь час варушыцца. Мяркуецца, што яны дазваляюць Малантропу зьбіраць і захоўваць больш генэтычных зьвестак ад нядаўна загінулых ворагаў."/>
 	<entry name="Tyranids/ProductionBuildingUpkeep" value="<string name='Traits/Tyranids/ProductionBuildingUpkeep'/>"/>
 	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Зьніжае выдаткі ўплыву на ўтрыманьне вытворчых будынкаў."/>
 	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="<string name='Traits/Tyranids/ProductionBuildingUpkeepFlavor'/>"/>

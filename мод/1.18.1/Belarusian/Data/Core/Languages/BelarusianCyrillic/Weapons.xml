@@ -2,81 +2,81 @@
 <language>
 
 	<!-- Generic -->
-	<entry name="AutoFlavor" value="These robust weapons are automated, self-loading firearms that fire bursts of high-velocity, caseless shot. Auto-weapons come in a variety of forms, from the common autopistol to heavy support weapons like the punisher gatling cannon."/>
-	<entry name="BarrageFlavor" value="Barrage weapons lob shells high into the air, landing them in the midst of the foe."/>
-	<entry name="BlastFlavor" value="Blast weapons fire shells, missiles or packets of energy that explode on impact."/>
-	<entry name="BoltFlavor" value="The boltgun, or bolter, fires small missiles known as 'bolts'. Each self-propelled bolt explodes with devastating effect once it has penetrated its target. There are many variations of boltguns, from the short-barreled bolt pistol to the Vulcan mega-bolter often mounted on Titans and other super-heavy vehicles."/>
-	<entry name="BurstFlavor" value="Burst weaponry finds use across the T'au military, primarily mounted on battlesuits and vehicles. Utilising a similar plasma induction technology found in T'au pulse technology, burst cannons are multibarrelled weapons able to sustain high rates of fire."/>
-	<entry name="CognisFlavor" value="Cognis weaponry, though superficially similar to that used by the rest of the Imperium, has one vital difference – a cognis weapon’s machine spirit has been permanently awakened by the rites of the Machine God. When the wielder is unable to give his full concentration, the warlike spirit of the gun will take over."/>
-	<entry name="DestroyerFlavor" value="Also known as Titan-killers, destroyer weapons deliver horrifying amounts of damage."/>
-	<entry name="DarklightFlavor" value="Darklight works by reacting catastrophically with its target, producing a blast that can bore a massive hole in a vehicle regardless of armour, or vaporise a foot soldier in an instant. Even to perceive a beam of darklight without the correct protection leaves permanent slash-scars upon the retina."/>
-	<entry name="DistortionFlavor" value="The most dangerous of all Aeldari weapons enable their user to open a portal to the Warp. Often called D-weapons, these technological terrors collapse an area of the material universe. Whether the rift is localised or dispersed, the result is invariably fatal for those nearby."/>
-	<entry name="FlamerFlavor" value="Flamers are short-ranged weapons that spew out highly volatile clouds of liquid chemicals that ignite on contact with air. They are primarily used to scour the enemy from defended positions, as walls are of no defence against blasts of superheated vapour."/>
-	<entry name="ForceFlavor" value="Force weapons are potent psychic weapons used exclusively by trained psykers. By instilling a portion of his mental might into the weapon, a psyker can strike his foe with an incredible storm of power that ravages and overloads his enemy's nervous system, leaving him a mindless shell."/>
-	<entry name="FusionFlavor" value="Fusion weapons are anti-tank weapons that reduce reinforced armour to molten slag in the blink of eye."/>
-	<entry name="GaussFlavor" value="Gauss weapons vary in appearance from the rifle-sized flayers to the massive heavy gauss cannon. Unlike more conventional energy weapons, a gauss projector emits a molecular disassembling beam, reducing flesh, bone and even armour to its constituent atoms."/>
-	<entry name="GhostFlavor" value="The rudimentary sentience within the spirit stone core of each ghost weapon, whether axe, glaive or sword, empowers the blade and guides its wielder’s blows toward the vital points of his foe."/>
-	<entry name="IonFlavor" value="The high-energy streams fired by ion weapons react destructively with their target, vaporising flesh and metal with equal ease. Ion weapons can be overcharged to generate a more devastating attack, but at a risk of overheating its primary power cells."/>
-	<entry name="KlawFlavor" value="Orks favour brutal power klaws over the more sophisticated power fists of other races. These huge hydraulic shears are capable of rending and crushing even the toughest foes. Ork walkers are fitted with klaws that befit their greater size, and can rip through anything foolish enough to stand in the pilot's way."/>
-	<entry name="LasFlavor" value="Las weapons fire packets of explosive laser energy—the larger the gun, the more powerful the shot. Regardless of size, las weapons are incredibly reliable, making them favoured tools of war throughout the Imperium."/>
-	<entry name="LaserFlavor" value="Aeldari lasers use psychically grown crystals to refine the already intense bursts to their optimum potency. Many Aeldari consider the laser weapon the most elegant of all, exulting in the fact that their technological mastery extends even to light itself."/>
-	<entry name="MeltaFlavor" value="Melta weapons are lethal anti-armour guns, most effective at very short range. When fired, the super-heating of the air produces a distinctive and sinister hiss. Solid rock is reduced to molten slag, and living creatures are vaporised in an instant!"/>
-	<entry name="MeleeFlavor" value="Warriors across the galaxy employ a wide variety of close-quarter weapons. Blood-flecked chainswords and crude knives take their places alongside powered weapons of all kinds: swords, axes, hammers and many more. All such weapons are designed to bring quick and painful death to the foe, for every moment's delay brings defeat a step closer."/>
-	<entry name="MonofilamentFlavor" value="Many Aeldari units use monofilament weapons, all of which work in a similar fashion by creating a dense monofilament mesh from a complex organo-polymer compound. This is released through thousands of microscopic firing ducts and woven into a net of monofilament wire by spinning gravity clamps. The victim’s own struggles bring about his doom, for the razor-net is so sharp it can reduce an entangled enemy to bloody chunks of flesh in seconds."/>
-	<entry name="ParticleFlavor" value="These weapons emit a stream of minuscule antimatter particles that detonate upon contact with their target. They are incredibly reliable, needing only enough energy to maintain the containment field that prevents the anti-matter from detonating within the weapon's own firing mechanism."/>
-	<entry name="PhosphorFlavor" value="Phosphor weapons range from the hand-held serpenta favoured by many Tech-Priests to the heavy phosphor blaster mounted upon Kataphron Battle Servitors. The burning white spheres that shoot out from phosphor weapons cling tenaciously to their targets, sizzling wildly as they melt into flesh or burrow through armour and exoskeleton alike. More often than not, it is these luminagenic orbs that deal the death blow. Even if a target proves tough enough to survive the burning pain, the phosphorescent glow these spheres exude can guide an ally's volley to strike the same target."/>
-	<entry name="PlasmaFlavor" value="Plasma weapons fire pulses of searing energy that are extremely effective against heavy infantry and light vehicles. However, they generate enormous temperatures when fired and are thus prone to overheating—sometimes proving deadly to the firer."/>
-	<entry name="PowerFlavor" value="A power weapon is sheathed in the lethal haze of a disruptive energy field that eats through armour, flesh and bone with ease."/>
-	<entry name="PulseFlavor" value="Pulse technology is common within the Fire caste, and all pulse weapons utilise pulsed induction fields to propel lethal bursts of plasma over great distances. A pulse rifle or carbine is standard issue for Fire Warriors, while Breacher Teams wield pulse blasters, that utilise negatively-charged ion A.R.C. technology to hammer their targets with short ranged bursts of devastating fire. The larger pulse weapons at the T'au's disposal, including the pulse driver cannon and blastcannon, employ superheated plasma on a different scale altogether, leaving only glowing craters to mark where the victims once stood."/>
-	<entry name="RadiumFlavor" value="Radium weapons are so volatile that they eventually kill their wielders. Their baroque beauty belies a singularly vile function – not only to strike, but to render the battlefield as deadly as the rad-wastes of Mars. Each weapon’s bullet cylinder is so thoroughly bathed in radium that a volley can cause a localised rad-storm. Those inside soon find their flesh blackening and sloughing away."/>
-	<entry name="RailFlavor" value="T'au rail weapons use linear accelerator technology to fire a solid projectile at hyper-velocity. They are capable of punching through the thickest of armour and of taking down the largest of enemies."/>
-	<entry name="ShootaFlavor" value="Shootas are noisy, large-calibre machine guns. They vary wildly in size and design, from those carried by foot-slogging Boyz to long barrelled supa-shootas that are mounted on aircraft. Regardless of their particular design, all shootas are both deafening and deadly."/>
-	<entry name="ShurikenFlavor" value="Shuriken weapons fire monomolecular bladed discs at an astonishing rate, each near invisible to the naked eye but hard enough to scythe through the foe with ease. These instruments of war are capable of firing up to a hundred shuriken in just a few seconds, a series of high-energy impulses originating at the rear of the weapon to propel the small but deadly projectiles through the barrel at terrific speed."/>
-	<entry name="SplinterFlavor" value="Splinter weapons fire shards of splintered crystal covered in incredibly potent toxins using a powerful magno-electric pulse."/>
-	<entry name="StubFlavor" value="These are low-tech solutions to ranged warfare on high-tech battlefields. Encompassing such weapons as shotguns, stub guns and heavy stubbers (sometimes called sluggers), the common bond between all of these weapons is that they are, without exception, cumbersome, noisy and fairly primitive firearms. Often employed by gangers, law enforcement officers and even civilians across the Imperium, these weapons make a formidable din when fired, and are easy to maintain."/>
-	<entry name="TailBiomorphFlavor" value="The tails of some Tyranids are deadly weapons, from bony protrusions dense enough to cave in the side of a tank to stingers containing enough poison to kill whole regiments."/>
-	<entry name="TaserFlavor" value="Powered by hyperdynamo capacitors, taser weapons store an incredible amount of potential energy. A solid impact will cause this energy to be discharged in a scorching blast, only to be harnessed once more by the electrothief prongs at the weapon’s tip."/>
-	<entry name="TeslaFlavor" value="A tesla weapon unleashes a bolt of living lightning that crackles from foe to foe after hitting its target, charring flesh and melting armour. Tesla bolts feed off the energy released by the destruction, the lightning becoming more furious with every fresh arc."/>
-	<entry name="ThoraxBiomorphFlavor" value="Certain Tyranids have thoracic cavities that play host to swarms of parasites—some of these minute creatures drain their victims' vital fluids, others emit an electrical charge which plays havoc with enemy vehicles, and others still nestle amongst the foe's armour before exploding in a horrific fashion."/>
+	<entry name="AutoFlavor" value="Гэтая надзейная аўтаматычная агнястрэльная зброя сама перазараджаецца і страляе чэргамі высакахуткасных бязгільзавых боепрыпасаў. Яна мае мноства разнавіднасьцяў: ад звычайнага аўтапісталета да цяжкай зброі падтрымкі, такой як гатлінг-гармата «Карнік»."/>
+	<entry name="BarrageFlavor" value="Зброя навяснога агню закідвае снарады высока ў паветра, адкуль яны падаюць у самую гушчу ворагаў."/>
+	<entry name="BlastFlavor" value="Выбуховая зброя страляе снарадамі, ракетамі ці згусткамі энэргіі, якія выбухаюць пры сутыкненьні."/>
+	<entry name="BoltFlavor" value="Болт-пушка, ці болтар, страляе маленькімі ракетамі, вядомымі як «болты». Кожны болт з уласным рухавіком выбухае з разбуральнай сілай, пранікнуўшы ў цэль. Існуе мноства разнавіднасьцяў болтарнай зброі: ад кароткаствольнага болтарнага пісталета да мегаболтара «Вулкан», які часта ўсталёўваюць на Тытанах і іншых звышцяжкіх машынах."/>
+	<entry name="BurstFlavor" value="Хуткастрэльная зброя шырока ўжываецца ў войску Т'аў, пераважна на баявых гарнітурах і машынах. Хуткастрэльныя гарматы — шматствольная зброя, здольная падтрымліваць высокі тэмп агню дзякуючы плязмавай індукцыйнай тэхналёгіі, падобнай да той, што ўжываецца ў імпульснай зброі Т'аў."/>
+	<entry name="CognisFlavor" value="Хоць зброя когніс вонкава падобная да зброі астатняга Імперыуму, яна мае адно істотнае адрозьненьне: яе дух машыны назаўжды абуджаны абрадамі Бога Машын. Калі стралок ня можа цалкам засяродзіцца, ваяўнічы дух зброі бярэ кіраваньне на сябе."/>
+	<entry name="DestroyerFlavor" value="Разбуральная зброя, вядомая таксама як забойца Тытанаў, наносіць жахлівыя пашкоджаньні."/>
+	<entry name="DarklightFlavor" value="Цёмнасьвятло ўступае з цэльлю ў катастрафічную рэакцыю, выклікаючы выбух, які можа прабіць велізарную дзірку ў машыне незалежна ад яе брані ці імгненна выпарыць пяхотніка. Нават погляд на прамень цёмнасьвятла без належнай абароны назаўсёды пакідае на сятчатцы рубцы, падобныя да парэзаў."/>
+	<entry name="DistortionFlavor" value="Найнебясьпечнейшая зброя Аэльдары дазваляе свайму ўладальніку адкрываць партал у Варп. Гэтыя тэхналягічныя жахі, якія часта называюць D-зброяй, абвальваюць цэлы ўчастак матэрыяльнага сусьвету. Вузкі разлом ці шырокі — вынік заўсёды сьмяротны для тых, хто апынуўся побач."/>
+	<entry name="FlamerFlavor" value="Агнякіды — зброя малой далёкасьці, якая вывяргае воблакі надзвычай лятучых вадкіх хімікатаў, што загараюцца пры кантакце з паветрам. Іх пераважна выкарыстоўваюць, каб выпальваць ворага з абароненых пазыцыяў: сьцены ня ратуюць ад струменяў перагрэтай пары."/>
+	<entry name="ForceFlavor" value="Псіхічная зброя валодае вялікай моцай і выкарыстоўваецца выключна падрыхтаванымі псайкерамі. Уклаўшы ў яе частку сваёй разумовай сілы, псайкер можа абрынуць на ворага неверагодную буру энэргіі, якая разбурае і перагружае ягоную нэрвовую сыстэму, пакідаючы толькі бяздумную абалонку."/>
+	<entry name="FusionFlavor" value="Фузіённая зброя — гэта супрацьтанкавая зброя, якая ў імгненьне вока ператварае ўзмоцненую браню ў расплаўленую дзындру."/>
+	<entry name="GaussFlavor" value="Гаўсавая зброя бывае самага рознага выгляду: ад скуралупаў памерам са стрэльбу да масіўнай цяжкай гаўс-гарматы. У адрозьненьне ад звычайнай энэргетычнай зброі, гаўсавы выпраменьнік выпускае прамень, які разбурае малекулярныя сувязі, раскладаючы плоць, косткі і нават браню на асобныя атамы."/>
+	<entry name="GhostFlavor" value="Зародкавая сьвядомасьць у камені душы, які складае ядро кожнай прывіднай сякеры, глефы ці мяча, надае лязу моц і скіроўвае ўдары носьбіта ў жыцьцёва важныя месцы ворага."/>
+	<entry name="IonFlavor" value="Высакаэнэргетычныя струмені іённай зброі разбуральна ўзаемадзейнічаюць з цэльлю, аднолькава лёгка выпарваючы плоць і мэтал. Іённую зброю можна перагрузіць дзеля больш разбуральнага ўдару, але пры гэтым узьнікае рызыка перагрэву асноўных энэргаэлемэнтаў."/>
+	<entry name="KlawFlavor" value="Оркі аддаюць перавагу грубым сілавым клюшням перад больш складанымі сілавымі кулакамі іншых народаў. Гэтыя велізарныя гідраўлічныя нажніцы здольныя разрываць і разьдушваць нават наймацнейшых ворагаў. На орчыя крокаходы ўсталёўваюць клюшні адпаведнага памеру, якія могуць разарваць усё, што мае неасьцярожнасьць стаць на шляху пілёта."/>
+	<entry name="LasFlavor" value="Лазерная зброя страляе выбуховымі згусткамі лазернай энэргіі: чым большая пушка, тым мацнейшы стрэл. Незалежна ад памеру, яна надзвычай надзейная, таму яе ахвотна выкарыстоўваюць у войнах па ўсім Імперыуме."/>
+	<entry name="LaserFlavor" value="Лазеры Аэльдары выкарыстоўваюць крышталі, вырашчаныя псіхічнай сілай, каб давесьці і без таго інтэнсіўныя імпульсы да найбольшай магутнасьці. Многія Аэльдары лічаць лазерную зброю найвытанчаньнейшай з усіх і цешацца, што іхнае тэхналягічнае майстэрства падпарадкоўвае нават само сьвятло."/>
+	<entry name="MeltaFlavor" value="Мельтазброя — сьмяротная супрацьбранявая зброя, найбольш эфэктыўная на вельмі кароткай адлегласьці. Пры стрэле перагрэтае паветра выдае характэрнае злавеснае шыпеньне. Цьвёрды камень ператвараецца ў расплаўленую дзындру, а жывыя істоты імгненна выпараюцца!"/>
+	<entry name="MeleeFlavor" value="Ваяры па ўсёй галяктыцы карыстаюцца разнастайнай зброяй блізкага бою. Запырсканыя крывёю ланцуговыя мячы і грубыя нажы суседнічаюць з усімі відамі сілавой зброі: мячамі, сякерамі, малатамі ды многім іншым. Уся гэтая зброя створаная, каб несьці ворагу хуткую і пакутлівую сьмерць, бо кожнае імгненьне прамаруджаньня набліжае паразу."/>
+	<entry name="MonofilamentFlavor" value="Многія падразьдзяленьні Аэльдары выкарыстоўваюць монаніткавую зброю. Усе яе віды дзейнічаюць падобна: са складанага арганапалімэрнага рэчыва ўтвараецца густая сетка з монаніткі. Рэчыва выпускаецца праз тысячы мікраскапічных каналаў, а гравітацыйныя заціскі, якія круцяцца, сплятаюць яго ў сетку. Спробы ахвяры вырвацца толькі набліжаюць яе канец: сетка настолькі вострая, што за лічаныя сэкунды ператварае заблытанага ворага ў крывавыя кавалкі плоці."/>
+	<entry name="ParticleFlavor" value="Гэтая зброя выпускае струмень драбнюткіх часьцінак антыматэрыі, якія выбухаюць пры кантакце з цэльлю. Яна надзвычай надзейная і патрабуе толькі столькі энэргіі, колькі патрэбна для падтрымкі стрымальнага поля, што не дае антыматэрыі выбухнуць унутры стралковага мэханізму."/>
+	<entry name="PhosphorFlavor" value="Фосфарная зброя вар'юецца ад ручной сэрпенты, улюбёнай многімі тэхнажрацамі, да цяжкага фосфарнага бластара, усталяванага на баявых сэрвітарах Катафронах. Пякучыя белыя шары, якія вылятаюць з гэтай зброі, моцна прыліпаюць да цэляў і люта шыпяць, прапальваючы плоць, браню і экзашкілет. Часьцей за ўсё менавіта гэтыя сьвятлівыя шары наносяць сьмяротны ўдар. Нават калі цэль дастаткова трывалая, каб перажыць пякучы боль, іхнае фосфарнае сьвячэньне дапамагае хаўрусьнікам скіраваць залп у тую ж цэль."/>
+	<entry name="PlasmaFlavor" value="Плязмавая зброя страляе імпульсамі распаленай энэргіі, надзвычай эфэктыўнымі супраць цяжкай пяхоты і лёгкіх машынаў. Аднак пры стрэле ўзьнікаюць велізарныя тэмпэратуры, таму яна схільная да перагрэву, які часам забівае самога стралка."/>
+	<entry name="PowerFlavor" value="Сілавая зброя ахутаная сьмяротнай імглой разбуральнага энэргетычнага поля, якое зь лёгкасьцю праядае браню, плоць і косткі."/>
+	<entry name="PulseFlavor" value="Імпульсныя тэхналёгіі шырока распаўсюджаныя ў Касьце Агню. Уся імпульсная зброя выкарыстоўвае імпульсныя індукцыйныя палі, каб пасылаць сьмяротныя згусткі плязмы на вялікія адлегласьці. Імпульсная стрэльба ці карабін — стандартная зброя Ваяроў Агню, а Прарыўныя Ваяры Агню носяць імпульсныя бластары, якія пры дапамозе тэхналёгіі адмоўна зараджаных іёнаў A.R.C. абрушваюць на блізкія цэлі кароткія чэргі разбуральнага агню. Буйнейшая імпульсная зброя Т'аў, у тым ліку імпульсныя драйвер-гарматы і выбуховыя гарматы, ужывае перагрэтую плязму ў зусім іншым маштабе: там, дзе стаялі ахвяры, застаюцца толькі сьвятлівыя кратэры."/>
+	<entry name="RadiumFlavor" value="Радыевая зброя настолькі небясьпечная, што з часам забівае сваіх носьбітаў. За яе барочнай прыгажосьцю хаваецца асабліва агіднае прызначэньне: ня толькі наносіць удары, але і рабіць поле бою такім жа сьмертаносным, як радыяцыйныя пусткі Марса. Кулявыя цыліндры гэтай зброі настолькі насычаныя радыем, што адзін залп можа выклікаць мясцовую радыяцыйную буру. Неўзабаве плоць тых, хто апынуўся ў ёй, чарнее і пачынае адпадаць."/>
+	<entry name="RailFlavor" value="Рэйкавая зброя Т'аў выкарыстоўвае тэхналёгію лінейнага паскаральніка, каб выпускаць суцэльныя снарады са звышвысокай хуткасьцю. Яна здольная прабіваць найтаўсьцейшую браню і валіць найбуйнейшых ворагаў."/>
+	<entry name="ShootaFlavor" value="Штралялы — шумныя буйнакалібэрныя кулямёты. Іхныя памеры і канструкцыі моцна адрозьніваюцца: ад зброі пешых Хлопцаў да даўгаствольных шупер штралялаў, усталяваных на самалётах. Але любая штраляла, незалежна ад канструкцыі, аднолькава аглушальная і сьмяротная."/>
+	<entry name="ShurikenFlavor" value="Шурыкенавая зброя з ашаламляльнай хуткасьцю выпускае дыскі з монамалекулярнымі лёзамі. Кожны зь іх амаль нябачны няўзброеным вокам, але дастаткова цьвёрды, каб зь лёгкасьцю расьсякаць ворагаў. Гэтая зброя можа выпусьціць да сотні шурыкенаў за лічаныя сэкунды: сэрыя высокаэнэргетычных імпульсаў у яе задняй частцы праганяе маленькія, але сьмертаносныя снарады праз ствол зь неверагоднай хуткасьцю."/>
+	<entry name="SplinterFlavor" value="Аскепкавая зброя магутным магнітаэлектрычным імпульсам выпускае аскепкі крышталю, пакрытыя надзвычай моцнымі таксынамі."/>
+	<entry name="StubFlavor" value="Гэта простая зброя для далёкага бою на высокатэхналягічных палях бітваў. Драбавікі, стаберныя пісталеты, цяжкія стаберы, якія часам называюць шпурляламі, — усю гэтую зброю аб'ядноўвае тое, што яна нязьменна грувасткая, шумная і даволі прымітыўная. Ёю часта карыстаюцца бандыты, праваахоўнікі і нават цывільныя па ўсім Імперыуме. Яна выдае страшэнны грукат пры стральбе і простая ў абслугоўваньні."/>
+	<entry name="TailBiomorphFlavor" value="Хвасты некаторых Тыранідаў — сьмяротная зброя: ад касьцяных нарастаў, дастаткова шчыльных, каб праламаць борт танка, да джалаў з запасам атруты, якога хопіць на цэлыя палкі."/>
+	<entry name="TaserFlavor" value="Электрашокавая зброя, якая сілкуецца ад гіпэрдынамакандэнсатараў, назапашвае неверагодную колькасьць патэнцыйнай энэргіі. Моцны ўдар вызваляе гэтую энэргію пякучым выбухам, пасьля чаго электрапаглынальныя зубцы на кончыку зброі зноў яе зьбіраюць."/>
+	<entry name="TeslaFlavor" value="Зброя Тэсла выпускае разрад жывой маланкі, які, трапіўшы ў цэль, з трэскам пераскоквае ад ворага да ворага, абвугліваючы плоць і плавячы браню. Разрады Тэсла сілкуюцца энэргіяй, якая вызваляецца пры разбурэньні, і кожная новая дуга робіць маланку яшчэ больш лютай."/>
+	<entry name="ThoraxBiomorphFlavor" value="У грудных поласьцях некаторых Тыранідаў жывуць раі паразытаў. Адны з гэтых драбнюткіх істотаў высмоктваюць жыцьцёвыя вадкасьці ахвяраў, другія выпускаюць электрычны разрад, які выводзіць са строю варожыя машыны, а трэція забіраюцца ў браню ворага і жахліва выбухаюць."/>
 	
 	<!-- Specific -->
 	<entry name="Afflicted" value="Пакутны"/>
 	<entry name="AfflictedFlavor" value="<string name='Actions/ChaosSpaceMarines/NurglesGiftFlavor'/>"/>
 	<entry name="Agoniser" value="Агонізатар"/>
-	<entry name="AgoniserFlavor" value="An agoniser is an extremely sophisticated weapon that drives a victim’s sensorium haywire, causing excruciatingly severe pain as nerves burn out from overload. Though agonisers come in a variety of forms, the most common are toxin-soaked whips."/>
+	<entry name="AgoniserFlavor" value="Агонізатар — надзвычай складаная зброя, якая парушае працу органаў пачуцьцяў ахвяры і выклікае невыносны боль, калі нэрвы згараюць ад перагрузкі. Агонізатары маюць розныя формы, але найчасьцей гэта прасякнутыя таксынамі пугі."/>
 	<entry name="AnointedHalberd" value="Памазаная Алебарда"/>
-	<entry name="AnointedHalberdFlavor" value="Anointed Halberds are heavy Power Halberds that are wielded by the Adepta Sororitas' Celestian Sacresants. When properly wielded from behind the Ceslestians’ impenetrable Sacresant Shields, they are deadly in battle."/>
+	<entry name="AnointedHalberdFlavor" value="Памазаныя алебарды — цяжкія сілавыя алебарды Найсьвяцейшых Сэлесьцінаў Адэпта Сарорытас. У спрактыкаваных руках, пад прыкрыцьцём непрабівальных шчытоў Найсьвяцейшых, яны сьмертаносныя ў баі."/>
 	<entry name="AnguishOfTheUnredeemed" value="Пакуты Незбаўленых"/>
-	<entry name="AnguishOfTheUnredeemedFlavor" value="The Sisters Repentia encased inside the Mortifier penitent engines desire two things: absolution through combat and their own death. Yet their pain is so great that they fail to realise when they are dying, continuing to strike at their enemy, striving for redemption even as they die having achieved it."/>
+	<entry name="AnguishOfTheUnredeemedFlavor" value="Сёстры Пакаяньня, замкнёныя ў каяльных машынах Умяртвяльніцах, прагнуць дзьвюх рэчаў: адпушчэньня грахоў праз бой і ўласнай сьмерці. Але іхны боль такі моцны, што яны не разумеюць, калі паміраюць, і працягваюць біць ворага, імкнучыся да адкупленьня нават у сьмерці, якой ужо яго заслужылі."/>
 	<entry name="AquilaMacroCannon" value="Макрагармата Аквіла"/>
-	<entry name="AquilaMacroCannonFlavor" value="The munitions silo allows the Aquila macro-cannon to fire special quake shells, each of which measures several feet in length and has a powerful charge that causes it to reach hyper-sonic velocity when it is fired."/>
+	<entry name="AquilaMacroCannonFlavor" value="Боепрыпасная шахта дазваляе макрагармаце «Аквіла» страляць адмысловымі сейсьмічнымі снарадамі. Кожны зь іх мае некалькі футаў у даўжыню і магутны зарад, які пры стрэле разганяе яго да гіпэргукавой хуткасьці."/>
 	<entry name="ArcClaw" value="Дугавы Кіпцюр"/>
-	<entry name="ArcClawFlavor" value="The coruscating power of a Breacher’s arc weaponry is undeniable in combat, where scintillating parabolas of electricity burn through foes. Yet it was designed for destroying vehicles and only against them is its true power revealed, banishing their machine spirits in an instant."/>
+	<entry name="ArcClawFlavor" value="У баі моц дугавой зброі Катафрона-Прабівальніка бясспрэчная: зьзяючыя парабалы электрычнасьці прапальваюць ворагаў. Аднак яна створаная для зьнішчэньня машынаў, і толькі супраць іх раскрывае сваю сапраўдную сілу, імгненна выганяючы іхных духаў машынаў."/>
 	<entry name="ArcoFlail" value="Арка-Цэп"/>
-	<entry name="ArcoFlailFlavor" value="An Arco-flagellant’s arms are often replaced with bionic whips, blades or flails."/>
+	<entry name="ArcoFlailFlavor" value="Рукі Арка-Флагілянта часта замяняюць біянічнымі пугамі, лёзамі ці цэпамі."/>
 	<entry name="ArchiteGlaive" value="Архіцкая Глефа"/>
-	<entry name="ArchiteGlaiveFlavor" value="These power glaives are exquisitely crafted pole-arms employed to lethal effect by Succubi in both the gladiatorial arenas of Commorragh and the battlefields of realspace. They can be wielded with both hands, to bisect a foe with ease, or used in combination with another weapon to cut through a host of victims."/>
+	<entry name="ArchiteGlaiveFlavor" value="Гэтыя майстэрска вырабленыя сілавыя глефы — сьмертаносная дрэўкавая зброя Сукубусаў як на глядыятарскіх арэнах Каморагу, так і на палях бітваў рэальнай прасторы. Іх можна трымаць абедзьвюма рукамі, зь лёгкасьцю расьсякаючы ворага напалам, ці спалучаць зь іншай зброяй, прасякаючы шлях праз натоўпы ахвяраў."/>
 	<entry name="ArmigerAutocannon" value="Аўтагармата Армігера"/>
-	<entry name="ArmigerAutocannonFlavor" value="Capable of firing hundreds of armour piercing shells per solar minute, even a single Armiger Autocannon can swiftly whittle down infantry ranks or shred lightly armoured vehicles. With Helverins mounting two of these formidable weapons each, and hunting in packs up to three Knights strong, their withering fusillades can rapidly break an army's flank or blunt the foe's assault well before it can hit home."/>
+	<entry name="ArmigerAutocannonFlavor" value="Нават адна аўтагармата Армігера, здольная выпускаць сотні бранябойных снарадаў за сонечную хвіліну, можа хутка прарэдзіць шэрагі пяхоты ці пашматваць лёгкабраняваныя машыны. Кожны Хэльверын нясе дзьве такія грозныя гарматы. Палюючы зграямі да трох Рыцараў, яны разбуральнымі залпамі хутка зьнішчаюць флянг арміі ці зрываюць варожы наступ задоўга да сутыкненьня."/>
 	<entry name="AssaultCannon" value="Штурмавая Гармата"/>
 	<entry name="AssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="AtomiserBeam" value="Атамізуючы Прамень"/>
-	<entry name="AtomiserBeamFlavor" value="Canoptek Reanimators prowl the Necron lines, shooting out ethereal beams swarming with nanoscarabs. Necrons touched by these eerie lights stagger to their feet, resurrected, repaired and ready to fight again. Foes are less fortunate, wailing in agony as their atoms are torn apart and recombined in a hideous, gory fashion."/>
+	<entry name="AtomiserBeamFlavor" value="Канаптэкавыя Рэаніматары блукаюць уздоўж шэрагаў Некронаў і выпускаюць прывідныя прамяні, поўныя нанаскарабеяў. Некроны, якіх кранае гэтае вусьцішнае сьвятло, хістаючыся, устаюць на ногі — уваскрэшаныя, адрамантаваныя і гатовыя зноў біцца. Ворагам шанцуе менш: яны выюць ад пакутаў, калі іхныя атамы разьдзіраюць і зноў злучаюць у жахлівай крывавай сумесі."/>
 	<entry name="Autogun" value="Аўтапушка"/>
 	<entry name="AutogunFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="AttackSquig" value="Баявы Сквіг"/>
 	<entry name="AttackSquigDescription" value="Дадае дадатковую зброю Вайнабосу. Шкода залежыць ад рангу здольнасьці."/>
-	<entry name="AttackSquigFlavor" value="An attack squig is a voracious predator with a huge snapping gob."/>
+	<entry name="AttackSquigFlavor" value="Баявы сквіг — пражэрлівы драпежнік зь велізарнай ляскаючай зяпай."/>
 	<entry name="Autocannon" value="Аўтагармата"/>
 	<entry name="AutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="Autopistol" value="Аўтапісталет"/>
 	<entry name="AutopistolFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="AvengerBoltCannon" value="Болтарная Гармата Помсьнік"/>
-	<entry name="AvengerBoltCannonFlavor" value="With six cyclic barrels, the avenger bolt cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemy’s front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
+	<entry name="AvengerBoltCannonFlavor" value="Болтарная гармата «Помсьнік» мае шэсьць ствалоў у блёку, які круціцца, і можа выпускаць буйнакалібэрныя снарады зь неверагоднай хуткасьцю. Гэтыя высакахуткасныя стрэлы косяць варожую пяхоту і лёгка прабіваюць тонкую браню. Дакладныя трапленьні прарываюць нават таўсьцейшую абшыўку, разьбіваючы найцяжэйшую браняваную пяхоту і баявыя танкі. На найбольшым тэмпе стральбы «Помсьнік» прашывае варожы фронт сьмяротнымі ўзорамі, выдаючы гудлівае шыпеньне: ствалы круцяцца хутчэй, чым здольнае ўсачыць вока."/>
 	<entry name="AvengerGatlingCannon" value="Гатлінг-Гармата Помсьніка"/>
-	<entry name="AvengerGatlingCannonFlavor" value="With six cyclic barrels, the avenger gatling cannon can fire large calibre shells at a prodigious rate. These high velocity shots mow down enemy infantry or rip easily through light armour. Well-placed shots can tear through even thicker plating, blasting apart the heaviest armoured infantry or battle tanks. When firing at maximum rate, the avenger stitches deadly patterns of death across the enemy’s front lines while making a whirring hiss as the barrels spin faster than the eye can follow."/>
+	<entry name="AvengerGatlingCannonFlavor" value="Гатлінг-гармата «Помсьнік» мае шэсьць ствалоў у блёку, які круціцца, і можа выпускаць буйнакалібэрныя снарады зь неверагоднай хуткасьцю. Гэтыя высакахуткасныя стрэлы косяць варожую пяхоту і лёгка прабіваюць тонкую браню. Дакладныя трапленьні прарываюць нават таўсьцейшую абшыўку, разьбіваючы найцяжэйшую браняваную пяхоту і баявыя танкі. На найбольшым тэмпе стральбы «Помсьнік» прашывае варожы фронт сьмяротнымі ўзорамі, выдаючы гудлівае шыпеньне: ствалы круцяцца хутчэй, чым здольнае ўсачыць вока."/>
 	<entry name="Baleblast" value="Вычэрпальны Выбух"/>
-	<entry name="BaleblastFlavor" value="Mandrakes can channel the energies stolen from their prey into blasts of freezing flame, wreathing their victims in spectral fires that burn through flesh and soul alike."/>
+	<entry name="BaleblastFlavor" value="Мандрагоры могуць ператвараць скрадзеную ў здабычы энэргію ў выбухі ледзянога полымя, ахінаючы ахвяраў прывідным агнём, які прапальвае і плоць, і душу."/>
 	<entry name="Baleflamer" value="Пакавы Агнякід"/>
 	<entry name="BaleflamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="BanebladeCannon" value="Гармата Гібельнага Клінка"/>
@@ -84,18 +84,18 @@
 	<entry name="BarbedStrangler" value="Колкі Душыльнік"/>
 	<entry name="BarbedStranglerFlavor" value="<string name='Weapons/StranglethornCannonFlavor'/>"/>
 	<entry name="BattleCannon" value="Баявая Гармата"/>
-	<entry name="BattleCannonFlavor" value="The turret-mounted battle cannon is the most common battle tank armament in the 41st Millennium. The heavy, explosive rounds of a battle cannon are capable of devastating infantry regiments and annihilating enemy tanks with equal ease."/>
+	<entry name="BattleCannonFlavor" value="Баявая гармата, усталяваная ў вежы, — найпашыранейшае ўзбраеньне баявых танкаў у 41-м тысячагодзьдзі. Яе цяжкія выбуховыя снарады аднолькава лёгка спусташаюць палкі пяхоты і зьнішчаюць варожыя танкі."/>
 	<entry name="BigShoota" value="Буйнаштраляла"/>
 	<entry name="BigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="Bigbomm" value="Буйнабуум"/>
 	<entry name="BigbommFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="BioAcidSpray" value="Біякіслотны Спрэй"/>
 	<entry name="BioElectricPulse" value="Біяэлектрычны Імпульс"/>
-	<entry name="BioElectricPulseFlavor" value="As a Trygon moves, it generates a potent bio-static field that discharges with lethal effect when the Trygon sights prey. Trygon Primes have curved spines sprouting from their bodies which contain and amplify this energy."/>
+	<entry name="BioElectricPulseFlavor" value="Рухаючыся, Трыгон стварае магутнае біястатычнае поле, якое сьмертаносна разраджаецца, калі істота заўважае здабычу. Зь целаў Трыгонаў Прайм растуць выгнутыя шыпы, якія ўтрымліваюць і ўзмацняюць гэтую энэргію."/>
 	<entry name="BioPlasma" value="Біяплазма"/>
-	<entry name="BioPlasmaFlavor" value="Some Carnifexes can generate a roaring ball of bio-plasma within their bodies and vomit forth the resultant energy as an incandescent gobbet of fire."/>
+	<entry name="BioPlasmaFlavor" value="Некаторыя Карніфэксы могуць ствараць у сваім целе равучы шар біяплязмы і вырыгваць назапашаную энэргію ў выглядзе распаленага згустку агню."/>
 	<entry name="BioPlasmicCannon" value="Біяплазмавая Гармата"/>
-	<entry name="BioPlasmicCannonFlavor" value="This giant weapon can channel bio-plasma through a series of different ventricles to ensure the destruction of its prey, unleashing a vast ball of roaring energy through its central chamber, or firing several focussed streams of death through its surrounding barrels."/>
+	<entry name="BioPlasmicCannonFlavor" value="Гэтая гіганцкая зброя праводзіць біяплязму праз шэраг розных камэраў, каб гарантаваць зьнішчэньне здабычы: яна выпускае велізарны шар равучай энэргіі праз цэнтральную камэру ці некалькі засяроджаных струменяў сьмерці праз навакольныя ствалы."/>
 	<entry name="Blaster" value="Бластар"/>
 	<entry name="BlasterFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
 	<entry name="BlastPistol" value="Бластарны Пісталет"/>
@@ -104,9 +104,9 @@
 	<entry name="BlightGrenade" value="<string name='Items/BlightGrenade'/>"/>
 	<entry name="BlightGrenadeFlavor" value="<string name='Items/BlightGrenadeFlavor'/>"/>
 	<entry name="BlindingVenom" value="Асьляпляльная Атрута"/>
-	<entry name="BlindingVenomFlavor" value="Some Tyranids spit caustic venom at their prey's eyes."/>
+	<entry name="BlindingVenomFlavor" value="Некаторыя Тыраніды плююць едкай атрутай у вочы сваёй здабычы."/>
 	<entry name="Boneswords" value="Касьцяныя Мячы"/>
-	<entry name="BoneswordsFlavor" value="Boneswords are living monomolecular blades that can drain the life-force of their victims."/>
+	<entry name="BoneswordsFlavor" value="Касьцяныя мячы — жывыя монамалекулярныя клінкі, здольныя высмоктваць жыцьцёвую сілу ахвяраў."/>
 	<entry name="BoltPistol" value="Болтарны Пісталет"/>
 	<entry name="BoltPistolFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	<entry name="Boltgun" value="Болт-Пушка"/>
@@ -114,68 +114,68 @@
 	<entry name="BoltRifle" value="Болт-Стрэльба"/>
 	<entry name="BoltRifleFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	<entry name="BombastFieldGun" value="Палявая Пушка-Бамбаста"/>
-	<entry name="BombastFieldGunFlavor" value="A mainstay of the Astra Militarum, the Bombast Field Gun is a smaller-scale artillery weapon used exclusively in Field Ordnance Batteries. Its main advantage over other standardised battery armaments is its arcing trajectory, allowing it to be fired indirectly."/>
+	<entry name="BombastFieldGunFlavor" value="Адна з апораў Астра Мілітарум, палявая пушка-бамбаста — адносна невялікая артылерыйская зброя, якую выкарыстоўваюць выключна Палявыя Артылерыйныя Батарэі. Яе галоўная перавага над іншым стандартным узбраеньнем батарэяў — дугападобная траекторыя, якая дазваляе весьці агонь з закрытых пазыцыяў."/>
 	<entry name="BoneMace" value="Касьцяная Булава"/>
 	<entry name="BoneMaceFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
 	<entry name="BreathOfChaos" value="Подых Хаосу"/>
-	<entry name="BreathOfChaosFlavor" value="The psyker takes a deep breath, sucking in the negative energies of the battlefield and then exhaling them in a great mutagenic cloud that leaves its victims' bodies running like wax."/>
+	<entry name="BreathOfChaosFlavor" value="Псайкер робіць глыбокі ўдых, уцягваючы адмоўныя энэргіі поля бою, а потым выдыхае іх велізарным мутагенным воблакам, ад якога целы ахвяраў цякуць, нібы воск."/>
 	<entry name="BrightLance" value="Зіхатлівая Дзіда"/>
 	<entry name="BrightLanceFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
 	<entry name="BurnaBomb" value="Падпалабомба"/>
-	<entry name="BurnaBombFlavor" value="A burna bomb is a large metal canister with an internal fuse. They are filled to the gunwales with sloshing promethium and squig-oil, and detonate on impact to spread flaming death across a wide area."/>
+	<entry name="BurnaBombFlavor" value="Падпалабомба — вялікая мэталічная ёмістасьць з унутраным узрывальнікам. Яна даверху запоўненая прометыумам і сквігавым алеем, якія плёскаюцца ўнутры, і выбухае пры ўдары, распаўсюджваючы вогненную сьмерць на вялікай плошчы."/>
 	<entry name="Burna" value="Падпала"/>
-	<entry name="BurnaFlavor" value="Burnas are long-necked cutting torches that can focus their fiery emissions into a concentrated, metal-slicing jet or a billowing cloud of white-hot flame."/>
+	<entry name="BurnaFlavor" value="Падпалы — гэта зварачныя разакі з доўгімі сопламі, здольныя засяроджваць агонь у вузкім струмені, які рэжа мэтал, ці выпускаць яго клубамі распаленага дабяла полымя."/>
 	<entry name="BurstCannon" value="Хуткастрэльная Гармата"/>
 	<entry name="BurstCannonFlavor" value="<string name='Weapons/BurstFlavor'/>"/>
 	<entry name="BurstaKannon" value="Грымата-Выбухала"/>
 	<entry name="BurstaKannonFlavor" value="<string name='Weapons/DestroyerFlavor'/>"/>
 	<entry name="CastigatorBattleCannonSanctifiedShell" value="Баявая Гармата Лупцоўніка (Асьвячоныя Снарады)"/>
-	<entry name="CastigatorBattleCannonSanctifiedShellFlavor" value="Though the Castigator Battle Cannon is of a normal style, the shells it fires are of the Ministorum’s own designs. Even its ‘normal’ shells are thoroughly blessed, producing more reliable, stronger blasts that penetrate deeper than the average Leman Russ battle cannon."/>
+	<entry name="CastigatorBattleCannonSanctifiedShellFlavor" value="Хоць баявая гармата Лупцоўніка мае звычайную канструкцыю, яе снарады распрацаваныя самім Міністорумам. Нават «звычайныя» снарады старанна дабраслаўляюць: яны выбухаюць надзейней і мацней, пранікаючы глыбей за снарады звычайнай баявой гарматы «Леман Рус»."/>
 	<entry name="CastigatorBattleCannonPyreShell" value="Баявая Гармата Лупцоўніка (Пахавальныя Снарады)"/>
-	<entry name="CastigatorBattleCannonPyreShellFlavor" value="Though the Castigator Battle Cannon is of a normal style, the shells it fires are of the Ministorum’s own designs. Pyre shells are unlike anything deployed by the Astra Militarum, creating a massive firestorm where they strike that rips through cover with ease."/>
+	<entry name="CastigatorBattleCannonPyreShellFlavor" value="Хоць баявая гармата Лупцоўніка мае звычайную канструкцыю, яе снарады распрацаваныя самім Міністорумам. Пахавальныя снарады не падобныя ні да чаго з арсэналу Астра Мілітарум: у месцы ўдару яны ствараюць велізарную агнявую буру, якая зь лёгкасьцю прарываецца праз хованкі."/>
 	<entry name="CastigatorGatlingCannon" value="Гатлінг-Гармата Лупцоўніка"/>
-	<entry name="CastigatorGatlingCannonFlavor" value="In an universe full of bizarre and impossible technologies, the Castigator is a welcome touch of simplicity. A tried-and-tested design, its rotary cannon deploys an unparalleled hail of bullets devastating any poorly armoured opponent in front of the Rogal Dorn."/>
+	<entry name="CastigatorGatlingCannonFlavor" value="У сусьвеце дзіўных і немагчымых тэхналёгіяў Лупцоўнік радуе сваёй прастатой. Ягоная правераная часам гармата з блёкам ствалоў, які круціцца, абрушвае непараўнальны град куляў, вынішчаючы любога слаба браняванага праціўніка перад «Рогалам Дорнам»."/>
 	<entry name="CerastusShockLanceMelee" value="Шокавая Дзіда Цэрастуса (Блізкі Бой)"/>
-	<entry name="CerastusShockLanceMeleeFlavor" value="A crackling, rippling stick of plasteel and adamantium, the length of a Knight or a Super-heavy Tank, with a wickedly sharp end. Most effective when the Knight-Lancer carrying it is charging at full speed, bracing for the impact and the explosive, rending aftermath."/>
+	<entry name="CerastusShockLanceMeleeFlavor" value="Гэта патрэсклівае дрэўка з пласталі і адамантыю, па якім бягуць хвалі энэргіі, мае даўжыню з Рыцара ці звышцяжкі танк і жахліва востры наканечнік. Найбольш дзейсная дзіда тады, калі Рыцар-Капійнік імчыцца з поўнай хуткасьцю, рыхтуючыся да сутыкненьня і выбуховага разбурэньня, што рушыць за ім."/>
 	<entry name="CerastusShockLanceRanged" value="Шокавая Дзіда Цэрастуса (Далёкі Бой)"/>
 	<entry name="CerastusShockLanceRangedFlavor" value="<string name='Weapons/CerastusShockLanceMeleeFlavor'/>"/>
 	<entry name="Chainaxe" value="Ланцуговая Сякера"/>
-	<entry name="ChainaxeFlavor" value="A brutal variant of the chainsword that has its origins in the Horus Heresy, a chainaxe's hand whirs with razor-like teeth that chew through armour, ripping and tearing the vulnerable flesh beneath."/>
+	<entry name="ChainaxeFlavor" value="Ланцуговая сякера — жорсткі варыянт ланцуговага мяча, які паходзіць з часоў Ерасі Хоруса. У яе лязе зь віскам бягуць вострыя, як брытва, зубцы, якія прагрызаюць браню і рвуць безабаронную плоць пад ёй."/>
 	<entry name="ChainFlails" value="Ланцуговыя Цэпы"/>
-	<entry name="ChainFlailsFlavor" value="Chain-flails consist of lengths of barbed chain wound tight under gravitic pressure. As a Talos glides into battle, these chains are loosed, hurtling from their housings to lash around wildly. As their barbs find purchase in flesh, the chains’ grav-winches re-engage, reeling in at lightning speed to snap bones and tear bodies asunder."/>
+	<entry name="ChainFlailsFlavor" value="Ланцуговыя цэпы складаюцца з калючых ланцугоў, туга скручаных пад гравітацыйным ціскам. Калі Талос лунае ў бой, ланцугі вызваляюцца і вылятаюць з карпусоў, люта хвастаючы навокал. Калі шыпы ўпіваюцца ў плоць, гравітацыйныя лябёдкі зноў уключаюцца і маланкава ўцягваюць ланцугі, ламаючы косткі і разьдзіраючы целы."/>
 	<entry name="Chainsword" value="Ланцуговы Меч"/>
-	<entry name="ChainswordFlavor" value="A chainsword is a high-powered chainsaw fitted with hilt, pommel and guard to make it less unwieldy. It is a common weapon across the Imperium, with a quite horrifying reputation for the damage it can inflict on unarmoured flesh."/>
+	<entry name="ChainswordFlavor" value="Ланцуговы меч — магутная ланцуговая піла з рукаяцьцю, навершам і гардай, якія робяць яе зручнейшай у абыходжаньні. Гэта распаўсюджаная па ўсім Імперыуме зброя зь вельмі жахлівай рэпутацыяй дзякуючы ранам, якія яна наносіць неабароненай плоці."/>
 	<entry name="Choppa" value="Чопа"/>
-	<entry name="ChoppaFlavor" value="Orks use a variety of bladed weapons and chain-blades. The largest hand-held choppas can bisect most foes in a single swing, whilst those mounted on Stompas can slice a Titan in two."/>
+	<entry name="ChoppaFlavor" value="Оркі карыстаюцца разнастайнымі лёзамі і ланцуговымі клінкамі. Найбуйнейшыя ручныя чопы могуць расьсекчы большасьць ворагаў адным узмахам, а тыя, што ўсталяваныя на Тапталах, здольныя разрэзаць напалам Тытана."/>
 	<entry name="CrucibleOfMalediction" value="<string name='Actions/Drukhari/CrucibleOfMalediction'/>"/>
 	<entry name="CrucibleOfMaledictionFlavor" value="<string name='Actions/Drukhari/CrucibleOfMaledictionFlavor'/>"/>
 	<entry name="CrushingClaws" value="Зьнішчальныя Кіпцюры"/>
-	<entry name="CrushingClawsFlavor" value="The obscene strength of these claws allows them to smash any foe."/>
+	<entry name="CrushingClawsFlavor" value="Пачварная сіла гэтых кіпцюроў дазваляе разьдушыць любога ворага."/>
 	<entry name="ClawedLimbs" value="Кіпцюрастыя Канечнасьці"/>
 	<entry name="ClawedLimbsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="CleansingFlame" value="Ачышчальнае Полымя"/>
-	<entry name="CleansingFlameFlavor" value="The psyker harnesses the very fire in his soul, creating a wall of white-hot psychic flame that blasts forth and purges his foes from the battlefield."/>
+	<entry name="CleansingFlameFlavor" value="Псайкер утаймоўвае агонь уласнай душы, ствараючы сьцяну распаленага дабяла псіхічнага полымя, якая вырываецца наперад і ачышчае поле бою ад ворагаў."/>
 	<entry name="CloseCombatWeapon" value="Зброя Блізкага Бою"/>
 	<entry name="CloseCombatWeaponFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="ClusterMines" value="Касетныя Міны"/>
-	<entry name="ClusterMinesFlavor" value="While operating behind enemy lines, Scout Bikers carry cluster mines—explosive devices crammed with tiny anti-personnel bomblets and triggered by tripwires or pressure sensors."/>
+	<entry name="ClusterMinesFlavor" value="Дзейнічаючы ў варожым тыле, Матацыклісты-Выведнікі носяць касетныя міны — выбуховыя прылады, поўныя маленькіх супрацьпяхотных бомбачак, якія спрацоўваюць ад расьцяжак ці датчыкаў ціску."/>
 	<entry name="ClusterRocketSystem" value="Касетная Ракетная Сістэма"/>
-	<entry name="ClusterRocketSystemFlavor" value="These massive rocket pods are programmed to fire dozens of Drone-assisted warheads in optimised saturation patterns, maintaining a rate and density of fire sufficient to destroy entire mobs of Orks or swarms of Tyranids weapon-beasts. Explosions carpet the target zone, hurling bodies into the air and atomising screaming foes by the score."/>
+	<entry name="ClusterRocketSystemFlavor" value="Гэтыя масіўныя ракетныя капсулы запраграмаваныя выпускаць дзясяткі боегаловак з дапамогай дронаў, аптымальна насычаючы агнём абраны ўчастак. Яны падтрымліваюць тэмп і шчыльнасьць агню, дастатковыя для зьнішчэньня цэлых орчых бандаў ці раёў узброеных зьвяроў Тыранідаў. Выбухі пакрываюць увесь раён цэлі, падкідваючы целы ў паветра і дзясяткамі распыляючы ворагаў, якія лямантуюць."/>
 	<entry name="CognisHeavyStubber" value="Цяжкі Когніс-Стабер"/>
 	<entry name="CognisHeavyStubberFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
-	<entry name="CompendiumFlavor" value="To win this endless war, every faction has demonstrated endless innovation in the art of killing. From the Ork's crudest Choppa to the elegant shuriken catapults of the Aeldari, the weapons of the 41st millenium are deadly in a thousand different ways. Often, they are as deadly to their wielder as the foe—such as the mighty Macro Batteries of the Imperial Fleets, which fire shells the size of hab-blocks and kill hundreds of servitors with every shot."/>
+	<entry name="CompendiumFlavor" value="Каб перамагчы ў гэтай бясконцай вайне, кожная фракцыя няспынна ўдасканальвае мастацтва забойства. Ад найгрубейшай орчай чопы да вытанчаных шурыкенавых катапультаў Аэльдары — зброя 41-га тысячагодзьдзя сьмертаносная тысячай розных спосабаў. Нярэдка яна гэтак жа небясьпечная для носьбіта, як і для ворага: напрыклад, магутныя макрабатарэі імперскіх флотаў страляюць снарадамі памерам з жылыя блёкі і кожным стрэлам забіваюць сотні сэрвітараў."/>
 	<entry name="CombiBolter" value="Комбі-Болтар"/>
-	<entry name="CombiBolterFlavor" value="Essentially a twin-linked boltgun, the combi-bolter emerged from the Horus Heresy as the most tactically flexible weapon available to Space Marine Terminators. Whilst the Space Marines loyal to the Emperor developed the weapon into the storm bolter, the older combi-bolters are still abundant in the armies of the Traitor Legions."/>
+	<entry name="CombiBolterFlavor" value="Комбі-болтар, фактычна здвоеная болт-пушка, выйшаў з Ерасі Хоруса як найбольш тактычна гнуткая зброя, даступная Тэрмінатарам Касьмічных Марынаў. Верныя Імператару Касьмічныя Марыны разьвілі гэтую канструкцыю ў штармавы болтар, але ў войсках Легіёнаў-Здраднікаў па-ранейшаму мноства старых комбі-болтараў."/>
 	<entry name="CombiPlasma" value="Комбі-Плазма"/>
-	<entry name="CombiPlasmaFlavor" value="Many races use combi-weapons, from the taped-together creations of Ork Mekboyz to Imperial relic weapons, specially modified by skilled artisans millennia ago. Most of these creations feature a bolter in combination with another weapon, to increase the combination’s flexibility and power at the cost of its ease of handling."/>
+	<entry name="CombiPlasmaFlavor" value="Многія народы выкарыстоўваюць камбінаваную зброю: ад змацаваных стужкай тварэньняў орчых Мекаў да імперскіх рэліквіяў, адмыслова пераробленых умелымі рамесьнікамі тысячагодзьдзі таму. Большасьць такіх вырабаў спалучае болтар зь іншай зброяй, павялічваючы ўнівэрсальнасьць і моц коштам зручнасьці ў абыходжаньні."/>
 	<entry name="CondemnorBoltgunSilverStake" value="Болтарная Пушка Асудзіцель - Срэбны Кол"/>
-	<entry name="CondemnorBoltgunSilverStakeFlavor" value="The condemnor boltgun is a highly specialised combi-weapon used almost exclusively by the operatives of the Ordo Hereticus and Adepta Sororitas. Combining a boltgun with a single-shot crossbow armature, these archaic-seeming weapons fire a silver stake engraved with sigils of disruption that destabilise a psyker’s connection with the Warp."/>
+	<entry name="CondemnorBoltgunSilverStakeFlavor" value="Болт-пушка «Асудзіцель» — вузкаспэцыялізаваная камбінаваная зброя, якую амаль выключна выкарыстоўваюць апэратыўнікі Орда Ерэтыкус і Адэпта Сарорытас. Гэтыя архаічныя на выгляд прылады спалучаюць болт-пушку з адназарадным арбалетам і страляюць срэбным калом, на якім выразаныя разбуральныя знакі, што дэстабілізуюць сувязь псайкера з Варпам."/>
 	<entry name="CondemnorBoltPistol" value="Болтарны Пісталет Асудзіцель"/>
-	<entry name="CondemnorBoltPistolFlavor" value="Despite their name, Condemnor bolters are in fact highly specialised combi-weapons used almost exclusively by the operatives of the Ordo Hereticus and Adepta Sororitas. Combining a bolt-firing weapon with a single-shot crossbow armature, these archaic-seeming devices fire a silver stake engraved with sigils of disruption that destabilise a psyker’s connection with the Warp."/>
+	<entry name="CondemnorBoltPistolFlavor" value="Нягледзячы на назву, болтары «Асудзіцель» — насамрэч вузкаспэцыялізаваная камбінаваная зброя, якую амаль выключна выкарыстоўваюць апэратыўнікі Орда Ерэтыкус і Адэпта Сарорытас. Гэтыя архаічныя на выгляд прылады спалучаюць болтарную зброю з адназарадным арбалетам і страляюць срэбным калом, на якім выразаныя разбуральныя знакі, што дэстабілізуюць сувязь псайкера з Варпам."/>
 	<entry name="ControlStave" value="Посах Кантролю"/>
-	<entry name="ControlStaveFlavor" value="Serving as a staff of office, control mechanism and weapon, a Control Stave is carried only by Skitarii Marshals. Despite its multidinous roles, it functions well at all of them—a brutal close combat weapon, that also enables the Marshal to control his Skitarii closely through Control Edicts and Aggression Overrides."/>
+	<entry name="ControlStaveFlavor" value="Посах кантролю, які адначасова служыць знакам улады, прыладай кіраваньня і зброяй, носяць толькі Скітарыі-Маршалы. Нягледзячы на мноства прызначэньняў, ён добра спраўляецца з кожным: гэта жорсткая зброя блізкага бою, якая таксама дазваляе маршалу пільна кіраваць сваімі Скітарыямі праз Эдыкты Кантролю і Пераазначэньне Агрэсіі."/>
 	<entry name="CroziusArcanum" value="Крозіўс Арканум"/>
-	<entry name="CroziusArcanumFlavor" value="The crozius arcanum is both a Chaplain's rod of office and his weapon of righteous judgement. Each one is an ancient relic, with the legends of its bearers captured in etched script about its haft."/>
+	<entry name="CroziusArcanumFlavor" value="Крозіўс Арканум — адначасова жазло ўлады Капелана і зброя ягонага праведнага суду. Кожнае такое жазло — старажытная рэліквія, на дрэўку якой выгравіраваныя паданьні пра яе носьбітаў."/>
 	<entry name="CtanNecrodermisExplosion" value="Выбух Некрадэрміса К'тан"/>
 	<entry name="CyclicIonRakerOvercharged" value="Цыклічная Іённая Рэйка (Перагружаная)"/>
 	<entry name="CyclicIonRakerOverchargedFlavor" value="<string name='Weapons/IonFlavor'/>"/>
@@ -188,7 +188,7 @@
 	<entry name="DarkLance" value="Цёмная Дзіда"/>
 	<entry name="DarkLanceFlavor" value="<string name='Weapons/DarklightFlavor'/>"/>
 	<entry name="Dataspike" value="Шып Дадзеных"/>
-	<entry name="DataspikeFlavor" value="The dataspikes favoured by the agents of the Adeptus Mechanicus can stab into the cortex of enemy machines and steal their secrets within a couple of heartbeats."/>
+	<entry name="DataspikeFlavor" value="Шыпы дадзеных, улюбёныя агентамі Адэптус Механікус, могуць упівацца ў кару варожых машынаў і выкрадаць іхныя таямніцы за пару ўдараў сэрца."/>
 	<entry name="DeathRay" value="Прамень Сьмерці"/>
 	<entry name="DeathRayFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="Deathshriek" value="<string name='Traits/Deathshriek'/>"/>
@@ -196,54 +196,54 @@
 	<entry name="DeathSpinner" value="Сьмяротная Блешня"/>
 	<entry name="DeathSpinnerFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="Deathspitter" value="Плявок Сьмерці"/>
-	<entry name="DeathspitterFlavor" value="This multi-creature symbiote fires maggot-like organisms with corrosive innards. A spider-jawed set of fangs drags an organism from the weapon's brooding chamber and strips off its shell, before the deathspitter reacts to the caustic flesh with a spasm, firing the maggot to explode in a shower of caustic slime against its target."/>
+	<entry name="DeathspitterFlavor" value="Гэты сымбіёнт з некалькіх істотаў страляе падобнымі да лічынак арганізмамі зь едкімі вантробамі. Павукападобныя сківіцы выцягваюць арганізм з вывадковай камэры зброі і зрываюць зь яго абалонку. Плявок Сьмерці рэагуе на едкую плоць сутаргай і выстрэльвае лічынку, якая выбухае аб цэль дажджом разьедлівай сьлізі."/>
 	<entry name="DeathstrikeMissile" value="Ракета Сьмяротны Ўдар"/>
-	<entry name="DeathstrikeMissileFlavor" value="Though these deadly artefacts are unpredictable and relatively rare, few weapons can unleash the same devastation as a Deathstrike missile. Mounting an exceptionally deadly warhead and able to strike at targets across vast distances, they descend upon the foe like the fiery sword of the Emperor’s justice."/>
+	<entry name="DeathstrikeMissileFlavor" value="Хоць гэтыя сьмертаносныя артэфакты непрадказальныя і адносна рэдкія, мала якая зброя можа параўнацца разбурэньнямі з ракетай «Сьмяротны Ўдар». Абсталяваныя надзвычай магутнай боегалоўкай і здольныя паражаць цэлі на велізарных адлегласьцях, яны сыходзяць на ворага, нібы вогненны меч правасудзьдзя Імператара."/>
 	<entry name="DefensiveHeavyStubber" value="Абаронны Цяжкі Стабер"/>
 	<entry name="DefensiveHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="DeffstormMegaShoota" value="Мегаштраляла Сьмярташторм"/>
 	<entry name="DeffstormMegaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
 	<entry name="DemolisherCannon" value="Гармата-Разбуральнік"/>
-	<entry name="DemolisherCannonFlavor" value="Short ranged but deadly, the demolisher siege cannon trades reach for power. Each demolisher shell is at least three times the size of a normal battle cannon round, its huge weight and high explosive core ensuring it will annihilate almost anything it hits."/>
+	<entry name="DemolisherCannonFlavor" value="Сьмертаносная абложная гармата-разбуральнік ахвяруе далёкасьцю дзеля моцы. Кожны яе снарад прынамсі ўтрая большы за звычайны снарад баявой гарматы; велізарная вага і магутны выбуховы зарад гарантуюць зьнішчэньне амаль усяго, у што ён трапіць."/>
 	<entry name="DestroyerBlades" value="Лёзы Разбуральніка"/>
 	<entry name="DestroyerBladesDescription" value="Цэльлю можа быць толькі пяхота ці жахлівыя стварэньні."/>
-	<entry name="DestroyerBladesFlavor" value="The hull of this vehicle has been modified with hideously sharp spikes, whirring blades and jagged spars."/>
+	<entry name="DestroyerBladesFlavor" value="Корпус гэтай машыны абсталяваны жахліва вострымі шыпамі, лёзамі, якія круцяцца зь віскам, і зубчастымі бэлькамі."/>
 	<entry name="DestroyerMissile" value="Ракета-Разбуральнік"/>
-	<entry name="DestroyerMissileFlavor" value="Each sleek destroyer missile incorporates an AI targeting processor far more advanced than anything used in seeker missiles. Drawing on extensive real-time targeting data, the destroyer missile identifies its target's primary weak spot. It then uses self-guiding micro rockets to adjust trajectory and ensure a direct hit upon that location, tearing its victim apart in a spectacular explosion."/>
+	<entry name="DestroyerMissileFlavor" value="Кожная абцякальная ракета-разбуральнік утрымлівае працэсар навядзеньня са штучным інтэлектам, значна больш дасканалы за ўсё, што выкарыстоўваецца ў саманаводных ракетах. Атрымліваючы шырокія зьвесткі пра цэль у рэальным часе, ракета-разбуральнік вызначае яе галоўнае слабое месца. Затым яна карэктуе траекторыю аўтаматычна кіраванымі мікраракетамі, каб дакладна трапіць туды і разарваць ахвяру ў відовішчным выбуху."/>
 	<entry name="Destructor" value="Дэструктар"/>
 	<entry name="DestructorFlavor" value="<string name='Actions/Eldar/DestructorRenewerFlavor'/>"/>
 	<entry name="Devourer" value="Пажыральнік"/>
-	<entry name="DevourerFlavor" value="These weapons fling worm-like parasites that burrow into their victim's flesh and eat their way through its nervous system to the brain. The devourers wielded by larger Tyranids teem with hives of brainleech worms, a more aggressive and voracious devourer worm."/>
+	<entry name="DevourerFlavor" value="Гэтая зброя шпурляе чарвякападобных паразытаў, якія ўгрызаюцца ў плоць ахвяры і праядаюць шлях празь нэрвовую сыстэму да мозгу. Пажыральнікі буйнейшых Тыранідаў кішаць гнёздамі мазгавых п'явак — больш агрэсіўнай і пражэрлівай разнавіднасьці чарвякоў-пажыральнікаў."/>
 	<entry name="DialogusStaff" value="Посах Дыялогуса"/>
-	<entry name="DialogusStaffFlavor" value="The Dialogus Staff is the symbol of office of the Orders Dialogus which in combat can also double as a combat weapon."/>
+	<entry name="DialogusStaffFlavor" value="Посах Дыялогуса — знак пасады ў ордэнах Дыялогус, які ў баі можа служыць і зброяй."/>
 	<entry name="DisintegratorCannon" value="Дэзынтэгратарная Гармата"/>
-	<entry name="DisintegratorCannonFlavor" value="The disintegrator cannon fires particles of unstable matter harnessed from a stolen sun, each shot capable of atomising the most heavily armoured warrior. Far more sophisticated than conventional plasma-based firearms, it maintains a high rate of fire and always remains cool to the touch despite the ravening energies housed within."/>
+	<entry name="DisintegratorCannonFlavor" value="Дэзынтэгратарная гармата страляе часьцінкамі нестабільнай матэрыі, здабытай са скрадзенага сонца; кожны стрэл здольны распыліць нават найцяжэйшага браняванага ваяра. Значна больш дасканалая за звычайную плязмавую зброю, яна падтрымлівае высокі тэмп стральбы і заўсёды застаецца халоднай навобмацак, нягледзячы на лютыя энэргіі ўнутры."/>
 	<entry name="DoomsdayCannonHighPower" value="Гармата Суднага Дня (Высокая Магутнасьць)"/>
-	<entry name="DoomsdayCannonHighPowerFlavor" value="Even fired at low power, the doomsday cannon is a fearsome weapon; when firing at full effect, nothing less than a Titan's void shields can offer hope of protection."/>
+	<entry name="DoomsdayCannonHighPowerFlavor" value="Нават на малой магутнасьці гармата Суднага Дня — страшная зброя. Калі ж яна страляе на поўную моц, толькі пустэчныя шчыты Тытана могуць даць надзею на абарону."/>
 	<entry name="DoomsdayCannonLowPower" value="Гармата Суднага Дня (Нізкая Магутнасьць)"/>
 	<entry name="DoomsdayCannonLowPowerFlavor" value="<string name='Weapons/DoomsdayCannonHighPowerFlavor'/>"/>
 	<entry name="DesiccatorLarvae" value="Лічынкі Дэсікатара"/>
 	<entry name="DesiccatorLarvaeFlavor" value="<string name='Weapons/ThoraxBiomorphFlavor'/>"/>
 	<entry name="DisruptorMissileLauncher" value="Ракетная Ўсталёўка Разбуральнік"/>
-	<entry name="DisruptorMissileLauncherFlavor" value="Like its Ferrumite Cannon main armament, the Skorpius Disintegrator’s prow-mounted Disruptor Missiles are most effective against tougher targets with medium armour."/>
+	<entry name="DisruptorMissileLauncherFlavor" value="Як і асноўнае ўзбраеньне Скорпіўса-Дэзынтэгратара — ферумітавая гармата, — ягоныя насавыя ракеты-разбуральнікі найбольш эфэктыўныя супраць трывалых цэляў зь сярэдняй бранёй."/>
 	<entry name="DroolCannon" value="Сьлінная Гармата"/>
-	<entry name="DroolCannonFlavor" value="Drool cannons fire gobbets of caustic digestive juice over their victims."/>
+	<entry name="DroolCannonFlavor" value="Сьлінныя гарматы абстрэльваюць ахвяраў згусткамі едкага стрававальнага соку."/>
 	<entry name="EMPGrenade" value="ЭМІ Граната"/>
-	<entry name="EMPGrenadeFlavor" value="EMP grenades release electromagnetic pulses that damage vehicles."/>
+	<entry name="EMPGrenadeFlavor" value="ЭМІ-гранаты выпускаюць электрамагнітныя імпульсы, якія пашкоджваюць машыны."/>
 	<entry name="EarthshakerCannon" value="Гармата Землятрус"/>
-	<entry name="EarthshakerCannonFlavor" value="The distinctive, looming barrel of the earthshaker cannon is a sight capable of striking fear into the Imperium's many foes. These long-necked artillery guns have an impressive range and can maintain a fearsome rate of fire, lobbing shell after shell into foes and reducing them to blasted ruin."/>
+	<entry name="EarthshakerCannonFlavor" value="Адметны велічны ствол гарматы «Землятрус» здольны адным сваім выглядам наводзіць жах на шматлікіх ворагаў Імперыуму. Гэтыя даўгаствольныя артылерыйскія гарматы маюць уражальную далёкасьць і могуць падтрымліваць страшэнны тэмп агню, закідваючы ворагаў снарадамі адзін за адным і ператвараючы іх у разьбітыя рэшткі."/>
 	<entry name="EldarMissileLauncherPlasmaMissile" value="Аэльдарская Ракетная Ўсталёўка (Плазма)"/>
-	<entry name="EldarMissileLauncherPlasmaMissileFlavor" value="Eldar missile launchers are elegant and well-balanced. They use complex chambered pods that contain several different kinds of ammunition, all but eliminating the need to reload in battle."/>
+	<entry name="EldarMissileLauncherPlasmaMissileFlavor" value="Ракетныя ўсталёўкі Аэльдары вытанчаныя і добра збалянсаваныя. Яны выкарыстоўваюць складаныя шматкамэрныя капсулы зь некалькімі відамі боепрыпасаў, амаль цалкам пазбаўляючы неабходнасьці перазараджацца ў баі."/>
 	<entry name="EldarMissileLauncherStarhawkMissile" value="Аэльдарская Ракетная Ўсталёўка (Зорны Ястраб)"/>
 	<entry name="EldarMissileLauncherStarhawkMissileFlavor" value="<string name='Weapons/EldarMissileLauncherPlasmaMissileFlavor'/>"/>
 	<entry name="EldarMissileLauncherStarshotMissile" value="Аэльдарская Ракетная Ўсталёўка (Зорны Стрэл)"/>
 	<entry name="EldarMissileLauncherStarshotMissileFlavor" value="<string name='Weapons/EldarMissileLauncherPlasmaMissileFlavor'/>"/>
 	<entry name="EldritchStorm" value="Жудасны Шторм"/>
-	<entry name="EldritchStormFlavor" value="The Farseer summons a swirling corona of energy that assails the foe with bolts of lightning and psychic shock waves. Entire platoons are devastated beneath the onslaught of the roiling tempest as the Farseer channels more and more power into his storm of destruction."/>
+	<entry name="EldritchStormFlavor" value="Вяшчун выклікае віхравы вянок энэргіі, які атакуе ворага разрадамі маланак і псіхічнымі ўдарнымі хвалямі. Цэлыя ўзводы гінуць пад націскам бурлівай віхуры, пакуль Вяшчун укладае ўсё больш моцы ў свой шторм разбурэньня."/>
 	<entry name="ElectroleechStave" value="Посах Электрап'яўка"/>
-	<entry name="ElectroleechStaveFlavor" value="The powerful capacitors built into the length of each electroleech stave allow them to drink every iota of electric force from those they strike – be they living foeman or blasphemous machine."/>
+	<entry name="ElectroleechStaveFlavor" value="Магутныя кандэнсатары, убудаваныя ўздоўж кожнага посаха «Электрап'яўка», дазваляюць яму выпіваць электрычную сілу да апошняй кроплі з усяго, па чым ён ударыць, — няхай гэта будзе жывы вораг ці блюзьнерская машына."/>
 	<entry name="EnmiticDisintegratorPistol" value="Энмітычны Дэзынтэгратарны Пісталет"/>
-	<entry name="EnmiticDisintegratorPistolFlavor" value="Enmitic technology reverses the attraction of a target’s atoms, rewriting its information using the basal language of reality itself. Practically, this causes them to violently repel one another, tearing the target apart. And the Hexmark Destroyer carries six of these."/>
+	<entry name="EnmiticDisintegratorPistolFlavor" value="Энмітычная тэхналёгія мяняе прыцягненьне атамаў цэлі на адштурхоўваньне, перапісваючы інфармацыю пра яе на самой базавай мове рэальнасьці. На практыцы атамы з шалёнай сілай адштурхоўваюцца адзін ад аднаго, разрываючы цэль на часткі. А Разбуральнік-Гексмарк носіць шэсьць такіх пісталетаў."/>
 	<entry name="EvisceratingClaws" value="Кіпцюры Патрашыльніка"/>
 	<entry name="EvisceratingClawsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="Eviscerator" value="Патрашыльнік"/>
@@ -251,37 +251,37 @@
 	<entry name="ExcruciatorCannon" value="Гармата Кат"/>
 	<entry name="ExcruciatorCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="ExorcistMissileLauncher" value="Ракетная Ўсталёўка Экзарцыст"/>
-	<entry name="ExorcistMissileLauncherFlavor" value="The Exorcist missiles fired by these revered vehicles are capable of splitting open enemy battle tanks or destroying entire squads of heavy infantry in one punishing salvo, provided, of course, that the Exorcist’s temperamental machine spirit does not malfunction."/>
+	<entry name="ExorcistMissileLauncherFlavor" value="Ракеты Экзарцыста, якія выпускаюць гэтыя шанаваныя машыны, здольныя расколваць варожыя баявыя танкі ці зьнішчаць цэлыя атрады цяжкай пяхоты адным разбуральным залпам — калі, вядома, капрызны дух машыны Экзарцыста не адмовіць."/>
 	<entry name="FerrumiteCannon" value="Ферумітавая Гармата"/>
-	<entry name="FerrumiteCannonFlavor" value="A primitive and ancient weapon system, the Ferumite Cannon’s Servitor gunner has been hard-wired into the weapon for optimal performance against large targets. When its cannon fires, the solid-core shells arc across the battlefield, turning into molten spears on contact and flash-heating whatever they impale."/>
+	<entry name="FerrumiteCannonFlavor" value="Ферумітавая гармата — прымітыўная старажытная сыстэма ўзбраеньня. Яе стралок-сэрвітар непасрэдна падлучаны да зброі, каб найбольш эфэктыўна паражаць буйныя цэлі. Пры стрэле снарады з суцэльным стрыжнем ляцяць дугой праз поле бою, пры сутыкненьні ператвараючыся ў расплаўленыя дзіды і імгненна распаляючы ўсё, што пранізваюць."/>
 	<entry name="Flamer" value="Агнякід"/>
 	<entry name="FlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="FlameBreath" value="Агнявы Подых"/>
-	<entry name="FlameBreathFlavor" value="A torrent of psychic flames pour forth from the psyker's eyes and mouth, engulfing the target."/>
+	<entry name="FlameBreathFlavor" value="З вачэй і рота псайкера вырываецца паток псіхічнага полымя, паглынаючы цэль."/>
 	<entry name="FlamestormGauntlets" value="Рукавіцы Агнявы Шторм"/>
-	<entry name="FlamestormGauntletsFlavor" value="Flamestorm Gauntlets are close combat weapons mounted with short-ranged flamers that spew out highly volatile gouts of promethium and other chemicals. Aggressors use these as they wade into combat, before crushing any remaining foes with their twin power fists."/>
+	<entry name="FlamestormGauntletsFlavor" value="Рукавіцы «Агнявы Шторм» — зброя блізкага бою з усталяванымі агнякідамі малой далёкасьці, якія вывяргаюць надзвычай лятучыя струмені прометыуму і іншых хімікатаў. Агрэсары выкарыстоўваюць іх, прабіваючыся ў бой, а затым разьдушваюць ацалелых ворагаў двума сілавымі кулакамі."/>
 	<entry name="FlayerClaws" value="Кіпцюры Скуралупа"/>
-	<entry name="FlayerClawsFlavor" value="Flayed Ones replace their hands with an array of lethally sharp blades, claws and mechanical shears to better tear and shred their prey into ribbons of bloody flesh."/>
+	<entry name="FlayerClawsFlavor" value="Разьбіральнікі замяняюць кісці рук наборам сьмяротна вострых лёзаў, кіпцюроў і мэханічных нажніцаў, каб лепей разьдзіраць здабычу на палосы скрываўленай плоці."/>
 	<entry name="FlechetteBlaster" value="Ігольчаты Бластар"/>
-	<entry name="FlechetteBlasterFlavor" value="The flechette blaster is lightweight but lethal, a favoured tool of the Sicarian Infiltrator. It fires hundreds of tiny darts, each of which bears a dormant cerebral cell awakened in the gun’s chamber. Where one dart hits home it emits a bioelectric pulse that attracts others, resulting in a series of impacts that burrow through bone."/>
+	<entry name="FlechetteBlasterFlavor" value="Лёгкі, але сьмертаносны ігольчаты бластар — улюбёная прылада Сікарыйскага Інфільтратара. Ён страляе сотнямі малюсенькіх дроцікаў, кожны зь якіх нясе сьпячую мазгавую клетку, што абуджаецца ў камэры зброі. Трапіўшы ў цэль, дроцік выпускае біяэлектрычны імпульс, які прыцягвае астатнія; чарадой удараў яны прабіваюць косткі."/>
 	<entry name="FlechetteDischarger" value="<string name='Traits/Tau/FlechetteDischarger'/>"/>
 	<entry name="FlechetteDischargerFlavor" value="<string name='Traits/Tau/FlechetteDischargerFlavor'/>"/>
 	<entry name="Fleshborer" value="Сьвярдзел Плоці"/>
-	<entry name="FleshborerFlavor" value="The fleshborer is a compact brood nest for sharp-fanged borer beetles. When the weapon is fired, a frenzied borer beetle will hurtle itself forward with a single flick of its flea-like legs. The beetle then spends its remaining life energy in a few seconds, frantically boring through the armour, flesh and bone of the first thing in its path."/>
+	<entry name="FleshborerFlavor" value="Сьвярдзел Плоці — кампактнае гняздо для жукоў-сьвідроў з вострымі ікламі. Пры стрэле ашалелы жук кідаецца наперад адным узмахам падобных да блышыных ножак. За некалькі сэкундаў ён выдаткоўвае рэшту жыцьцёвай энэргіі, люта прасьвідроўваючы браню, плоць і косткі першага, што сустрэне на шляху."/>
 	<entry name="FleshHooks" value="Крукі з Плоці"/>
-	<entry name="FleshHooksFlavor" value="Flesh hooks are attached to a Tyranid's ribcage by ropy tendrils and allow it to scale sheer surfaces or snare prey at close range."/>
+	<entry name="FleshHooksFlavor" value="Крукі з плоці злучаныя з грудной клеткай Тыраніда жылаватымі шчупальцамі і дазваляюць яму ўзьбірацца па стромых паверхнях ці хапаць здабычу зблізку."/>
 	<entry name="FloatingDeath" value="Луналая Сьмерць"/>
-	<entry name="FloatingDeathFlavor" value="Only the evolutionary villainy of the Hive Mind could turn a living creature into a floating ball of unstable acid, gas and brittle bone with the sole purpose of sowing massed death upon its demise."/>
+	<entry name="FloatingDeathFlavor" value="Толькі зламысная эвалюцыйная вынаходлівасьць Розуму Вульля магла ператварыць жывую істоту ў луналы шар нестабільнай кіслаты, газу і крохкіх костак, адзінае прызначэньне якога — сеяць масавую сьмерць пры ўласнай гібелі."/>
 	<entry name="ForceStave" value="Сілавы Посах"/>
 	<entry name="ForceStaveFlavor" value="<string name='Weapons/ForceFlavor'/>"/>
 	<entry name="FragGrenade" value="Аскепкавая Граната"/>
-	<entry name="FragGrenadeFlavor" value="The lethal storm of shrapnel from these grenades drives opponents further under the cover for a few precious moments, allowing attackers more time to close in and, hopefully, get the first blow in against a disoriented foe."/>
+	<entry name="FragGrenadeFlavor" value="Сьмяротны град аскепкаў гэтых гранатаў на некалькі каштоўных імгненьняў прымушае праціўнікаў глыбей хавацца ў хованкі. Гэта дае нападнікам больш часу наблізіцца і, магчыма, першымі ўдарыць па разгубленым ворагу."/>
 	<entry name="FragMissileLauncher" value="Аскепкавая Ракетная Ўсталёўка"/>
-	<entry name="FragMissileLauncherFlavor" value="Missile launchers can fire a variety of different missiles, making them incredibly versatile weapons."/>
+	<entry name="FragMissileLauncherFlavor" value="Ракетныя ўсталёўкі могуць страляць рознымі відамі ракет, што робіць іх надзвычай унівэрсальнай зброяй."/>
 	<entry name="FragstormGrenadeLauncher" value="Гранатная Ўсталёўка · Аскепкавы Шторм"/>
-	<entry name="FragstormGrenadeLauncherFlavor" value="A paired set of grenade launchers mounted on Primaris Aggressors or Redemptor Dreadnoughts. The only element that distinguishes these from launchers used by other Adeptus Astartes or even Astra Militarum forces is their ability to thoroughly saturate a target at range."/>
+	<entry name="FragstormGrenadeLauncherFlavor" value="Парныя гранатакіды, усталяваныя на Прымарыс-Агрэсарах ці Дрэдноўтах-Збаўцах. Ад гранатакідаў іншых войскаў Адэптус Астартэс і нават Астра Мілітарум іх адрозьнівае толькі здольнасьць шчыльна накрываць аддаленую цэль агнём."/>
 	<entry name="Frazzle" value="Выматацель"/>
-	<entry name="FrazzleFlavor" value="The Weirdboy sends out arcs of crackling psychic energy that ground themselves upon the enemy, reducing them to shrivelled husks before the eyes of their terrified comrades."/>
+	<entry name="FrazzleFlavor" value="Дзівахлопец выпускае дугі патрэсклівай псіхічнай энэргіі, якія разраджаюцца на ворагах, ператвараючы іх у высахлыя абалонкі на вачах у перапалоханых таварышаў."/>
 	<entry name="FusionBlaster" value="Фузіённы Бластар"/>
 	<entry name="FusionBlasterFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
 	<entry name="FusionGun" value="Фузіённая Пушка"/>
@@ -289,11 +289,11 @@
 	<entry name="FusionPistol" value="Фузіённы Пісталет"/>
 	<entry name="FusionPistolFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
 	<entry name="GammaPistol" value="Гама-Пісталет"/>
-	<entry name="GammaPistolFlavor" value="The gamma pistol is entrusted only to the truly blessed. The beam of ionizing radiation that leaps from its muzzle can reduce a man to a blackened shadow in a second, but this is a waste of its true strength – those able to tame its savage machine spirit can cut holes in an Aquila Strongpoint if necessary."/>
+	<entry name="GammaPistolFlavor" value="Гама-пісталет давяраюць толькі сапраўды дабраславёным. Прамень іянізавальнага выпраменьваньня, які вырываецца зь ягонага дула, за сэкунду можа ператварыць чалавека ў счарнелы цень. Але гэта марнаваньне ягонай сапраўднай моцы: той, хто здолее ўтаймаваць ягоны люты дух машыны, пры патрэбе прарэжа дзіркі нават ва ўмацаваньні «Аквіла»."/>
 	<entry name="GatlingRocketLauncher" value="Ракетная Гатлінг-Усталёўка"/>
 	<entry name="GatlingRocketLauncherFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
 	<entry name="GaussAnnihilator" value="Гаўс-Анігілятар"/>
-	<entry name="GaussAnnihilatorFlavor" value="The Gauss Pylon draws energy from the Necron power matrix before discharging it through hardwired weapon systems, including a version of the gauss flux arc also mounted on Monoliths. More fearsome is the Pylon's Gauss annihilator—a tight-beam version of the particle whip which, combined with sophisticated guidance and target-lock systems, enable it to engage troops and incoming aircraft alike."/>
+	<entry name="GaussAnnihilatorFlavor" value="Пілон Гаўса чэрпае энэргію з энэргетычнай матрыцы Некронаў і выпускае яе праз убудаваныя сыстэмы ўзбраеньня, у тым ліку варыянт аркавага гаўс-струменю, які таксама ўсталёўваюць на Маналітах. Яшчэ страшнейшы гаўс-анігілятар Пілона — вузкапрамянёвы варыянт пугі часьцінак. Разам са складанымі сыстэмамі навядзеньня і захопу цэлі ён дазваляе паражаць і наземныя войскі, і самалёты, якія набліжаюцца."/>
 	<entry name="GaussCannon" value="Гаўс-Гармата"/>
 	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
 	<entry name="GaussFlayer" value="Гаўс-Скуралуп"/>
@@ -309,33 +309,33 @@
 	<entry name="Ghostglaive" value="Прывідная Глефа"/>
 	<entry name="GhostglaiveFlavor" value="<string name='Weapons/GhostFlavor'/>"/>
 	<entry name="GorestormCannon" value="Гармата Крывавы Шторм"/>
-	<entry name="GorestormCannonFlavor" value="The gorestorm cannon is a simple but horribly effective weapon that sprays a high-pressure torrent of boiling blood across a wide area. Those not dissolved amid the horrific flood are drowned, or else cooked alive inside their armour."/>
+	<entry name="GorestormCannonFlavor" value="Гармата «Крывавы Шторм» — простая, але жахліва дзейсная зброя, якая пад высокім ціскам распырсквае паток кіпячай крыві на вялікай плошчы. Тыя, хто не раствараецца ў гэтым жудасным патопе, тонуць ці зварваюцца жыўцом ва ўласнай брані."/>
 	<entry name="GraspingTongue" value="Чэпкі Язык"/>
-	<entry name="GraspingTongueFlavor" value="This creature's clawed tongue grasps its chosen prey before yanking it bodily into its maw."/>
+	<entry name="GraspingTongueFlavor" value="Кіпцюрасты язык гэтай істоты хапае абраную здабычу і рыўком зацягвае яе цалкам у пашчу."/>
 	<entry name="GreaterCleaverOfKhorne" value="Вялікі Цясак Кхорна"/>
-	<entry name="GreaterCleaverOfKhorneFlavor" value="Each of these vast, brazen blades weighs as much as a battle tank. Swung with psychotic fury by a Lord of Skulls, a great cleaver can shear the leg from a Titan with a single blow."/>
+	<entry name="GreaterCleaverOfKhorneFlavor" value="Кожнае з гэтых велізарных латуневых лёзаў важыць столькі ж, колькі баявы танк. Лорд Чарапоў, які размахвае вялікім цесаком у вар'яцкім шале, здольны адным ударам адсекчы нагу Тытану."/>
 	<entry name="GrenadierGauntlet" value="Грэнадзёрская Рукавіца"/>
-	<entry name="GrenadierGauntletFlavor" value="These simple gauntlets lob frag-bombs into the midst of the foe."/>
+	<entry name="GrenadierGauntletFlavor" value="Гэтыя простыя рукавіцы закідваюць аскепкавыя бомбы ў самую гушчу ворагаў."/>
 	<entry name="HadesAutocannon" value="Аідава Аўтагармата"/>
-	<entry name="HadesAutocannonFlavor" value="The hades autocannon is the most frequently seen adorning the hideous Daemon Engines with which the Warpsmiths conquer the planets of the Imperium. Hades autocannons have six barrels and can sustain such a massive rate of fire that they are capable of tearing apart massed infantry, and even well-armoured targets, with each thunderous volley of shells."/>
+	<entry name="HadesAutocannonFlavor" value="Аідава аўтагармата — найчасьцейшы від узбраеньня пачварных дэманічных машынаў, зь якімі Кавалі Варпу заваёўваюць плянэты Імперыуму. Яе шэсьць ствалоў забясьпечваюць такі высокі тэмп стральбы, што кожны грымотны залп можа разрываць шчыльныя шэрагі пяхоты і нават добра браняваныя цэлі."/>
 	<entry name="HadesGatlingCannon" value="Аідава Гатлінг-Гармата"/>
-	<entry name="HadesGatlingCannonFlavor" value="If the Hades autocannon generates a rain of fire, the vastly enlarged Hades gatling cannon summons forth a hurricane. Firing several hundred rune-graven rounds per second, this weapon churns everything in its sights to unrecognisable pulp."/>
+	<entry name="HadesGatlingCannonFlavor" value="Калі Аідава аўтагармата стварае агнявы дождж, дык яе значна павялічаная гатлінг-гармата выклікае ўраган. Выпускаючы некалькі сотняў снарадаў з выгравіраванымі рунамі за сэкунду, гэтая зброя перамолвае ўсё ў прыцэле ў непазнавальную кашу."/>
 	<entry name="HandFlamer" value="Ручны Агнямёт"/>
 	<entry name="HandFlamerFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="HavocLauncher" value="Пускавая Ўсталёўка Апусташэньня"/>
-	<entry name="HavocLauncherFlavor" value="These launchers fire clusters of highly explosive missiles."/>
+	<entry name="HavocLauncherFlavor" value="Гэтыя ўсталёўкі выпускаюць групы ракет з магутнымі выбуховымі зарадамі."/>
 	<entry name="HaywireBlaster" value="Электрамагнітны Бластар"/>
-	<entry name="HaywireBlasterFlavor" value="Haywire blasters are long-barrelled weapons that siphon the electromagnetic energy crackling around Commorragh’s highest aeries, to later release it in a terrifyingly powerful burst. A well-aimed haywire blaster can cripple an enemy vehicle’s control systems in a single shot."/>
+	<entry name="HaywireBlasterFlavor" value="Электрамагнітныя бластары — даўгаствольная зброя, якая ўбірае электрамагнітную энэргію, што патрэсквае вакол найвышэйшых гнёздаў Каморагу, каб пазьней вызваліць яе жахліва магутным разрадам. Дакладны стрэл такога бластара можа вывесьці са строю сыстэмы кіраваньня варожай машыны."/>
 	<entry name="HaywireGrenade" value="Электрамагнітная Граната"/>
-	<entry name="HaywireGrenadeFlavor" value="Haywire grenades release electromagnetic pulses that damage vehicles."/>
+	<entry name="HaywireGrenadeFlavor" value="Электрамагнітныя гранаты выпускаюць імпульсы, якія пашкоджваюць машыны."/>
 	<entry name="HeatLance" value="Цеплавая Дзіда"/>
-	<entry name="HeatLanceFlavor" value="The heat lance combines melta and high-yield las technology into a weapon that has both surprising reach and extreme destructive potential."/>
+	<entry name="HeatLanceFlavor" value="Цеплавая дзіда спалучае мельтатэхналёгію і магутную лазерную тэхналёгію ў зброі зь нечакана вялікай далёкасьцю і надзвычайным разбуральным патэнцыялам."/>
 	<entry name="HeatRayDispersed" value="Расьсеяны Цеплавы Прамень"/>
-	<entry name="HeatRayDispersedFlavor" value="The heat ray is a multipurpose fusion weapon whose focussed blasts can slice an enemy tank in half from end to end. Should the heat ray be turned upon enemy infantry, the operator can instead fire a dispersed beam, bathing his target in clouds of scorching plasma."/>
+	<entry name="HeatRayDispersedFlavor" value="Цеплавы прамень — шматмэтавая фузіённая зброя, засяроджаныя ўдары якой могуць разрэзаць варожы танк напалам па ўсёй даўжыні. Супраць пяхоты апэратар можа выпусьціць расьсеяны прамень, ахінаючы цэль воблакамі пякучай плязмы."/>
 	<entry name="HeatRayFocused" value="Сфакусаваны Цеплавы Прамень"/>
 	<entry name="HeatRayFocusedFlavor" value="<string name='Weapons/HeatRayDispersedFlavor'/>"/>
 	<entry name="HeavyArcRifle" value="Цяжкая Дугавая Стрэльба"/>
-	<entry name="HeavyArcRifleFlavor" value="The Heavy Arc Rifle is a weapon of exceptional power, designed for one purpose: to neutralise armoured vehicles on the battlefield. This archaic weapon utilises an ancient and misunderstood technology to ensure that no enemy tank or war machine can withstand its presence. The weapon's electro-pyromagnetic generator unleashes a massive arc of electrical energy that courses through the armour of enemy vehicles, disrupting their circuits and melting their systems from the inside out."/>
+	<entry name="HeavyArcRifleFlavor" value="Цяжкая дугавая стрэльба — зброя выключнай моцы, створаная з адзінай мэтай: нэўтралізаваць браняваныя машыны на полі бою. Гэтая архаічная зброя выкарыстоўвае старажытную, ня цалкам зразумелую тэхналёгію, каб ніводзін варожы танк ці баявая машына не маглі ёй супрацьстаяць. Яе электрапірамагнітны генэратар выпускае велізарную дугу электрычнай энэргіі, якая праходзіць праз браню варожых машынаў, парушае працу контураў і плавіць сыстэмы знутры."/>
 	<entry name="HeavyBolter" value="Цяжкі Болтар"/>
 	<entry name="HeavyBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	<entry name="HeavyBombClusters" value="Касеты Цяжкіх Бомбаў"/>
@@ -346,9 +346,9 @@
 	<entry name="HeavyGaussCannon" value="Цяжкая Гаўс-Гармата"/>
 	<entry name="HeavyGaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
 	<entry name="HeavyGravCannon" value="Цяжкая Граў-Гармата"/>
-	<entry name="HeavyGravCannonFlavor" value="The graviton technologies used by the Adeptus Mechanicus are fearsome indeed. A target hit by the heavy grav-cannon’s invisible field will be stunned and likely crippled, or even crushed under their own exponentially increased mass until all that is left is an oozing disc of biometallic waste."/>
+	<entry name="HeavyGravCannonFlavor" value="Гравітонныя тэхналёгіі Адэптус Механікус сапраўды жахлівыя. Цэль, у якую трапіць нябачнае поле цяжкай граў-гарматы, будзе аглушаная і, хутчэй за ўсё, скалечаная ці нават разьдушаная ўласнай масай, якая ўзрастае экспанэнцыйна, пакуль не застанецца толькі мокры дыск біямэталічных адкідаў."/>
 	<entry name="HeavyLaserDestroyer" value="Цяжкі Лазер · Разбуральнік"/>
-	<entry name="HeavyLaserDestroyerFlavor" value="The Laser Destroyer is an ancient and complex weapons system produced by very few Forge Worlds, with a reputation for huge range and reliable damage even exceeding that of a Lascannon. In those rare Adeptus Mechanicus sites that still produce them, it is a lengthy process with the components hand-crafted painstakingly. Of course, nothing less would do for Belisarius Cawl and rare Executioner tank designs replace their Macro Plasma Incinerator with a Heavy Laser Destroyer."/>
+	<entry name="HeavyLaserDestroyerFlavor" value="Лазер-разбуральнік — старажытная і складаная сыстэма ўзбраеньня, якую вырабляюць толькі нешматлікія сьветы-кузьні. Ён славіцца велізарнай далёкасьцю і надзейнай разбуральнай моцай, што пераўзыходзіць нават лазгармату. На рэдкіх прадпрыемствах Адэптус Механікус, дзе яго яшчэ вырабляюць, гэта доўгі працэс: складнікі карпатліва робяць уручную. Вядома, на меншае Бэлізарыус Коўл не пагадзіўся б, і ў рэдкіх варыянтах танка «Рэпульсарны Кат» макраплязмавы інцынератар заменены цяжкім лазерам-разбуральнікам."/>
 	<entry name="HeavyOnslaughtGatlingCannon" value="Цяжкая Нападная Гатлінг-Гармата"/>
 	<entry name="HeavyOnslaughtGatlingCannonFlavor" value="<string name='Weapons/OnslaughtGatlingCannonFlavor'/>"/>
 	<entry name="HeavyPhosphorBlaster" value="Цяжкі Фосфарны Бластар"/>
@@ -356,42 +356,42 @@
 	<entry name="HeavyStubber" value="Цяжкі Стабер"/>
 	<entry name="HeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="HeavyVenomCannon" value="Цяжкая Атрутная Гармата"/>
-	<entry name="HeavyVenomCannonFlavor" value="These powerful bio-weapons fire salvoes of corrosive crystals at tremendous velocities which shatter on impact to shred the foe."/>
+	<entry name="HeavyVenomCannonFlavor" value="Гэтая магутная біязброя з надзвычайнай хуткасьцю выпускае залпы едкіх крышталяў, якія расколваюцца пры ўдары і шаткуюць ворага."/>
 	<entry name="Hellglaive" value="Пякельная Глефа"/>
-	<entry name="HellglaiveFlavor" value="A hellglaive is a lightweight, twin-bladed halberd. Though it requires some effort to master, this weapon can spin and block like a stave, cut like a scythe, or impale like a barbed spear. From the back of a Hellion skyboard such a weapon can prove especially lethal, lopping off heads and severing limbs with every blow."/>
+	<entry name="HellglaiveFlavor" value="Пякельная глефа — лёгкая алебарда з двума лёзамі. Хоць авалодаць ёю няпроста, яна можа круціцца і адбіваць удары, як посах, рэзаць, як каса, і пратыкаць, як дзіда з зазубрынамі. У руках Геліёна на нябеснай дошцы такая зброя асабліва сьмертаносная: кожным ударам яна сьсякае галовы і адсякае канечнасьці."/>
 	<entry name="HellmawCannon" value="Гармата Пякельная Зяпа"/>
-	<entry name="HellmawCannonFlavor" value="The paired Hellmaw cannons slung under the Brass Scorpion’s abdomen gout flames direct from the Warp itself. Once the daemon-riddled Brass Scorpion has cracked open a fortification with its Hellcrusher claws, it likes to use the Hellmaws to flush out the garrison, so it can torment them at leisure."/>
+	<entry name="HellmawCannonFlavor" value="Парныя гарматы «Пякельная Зяпа», падвешаныя пад брухам Латуневага Скарпіёна, вывяргаюць полымя проста з самога Варпу. Калі апантаны дэманамі Латуневы Скарпіён разломвае ўмацаваньне сваімі кіпцюрамі «Пякельны Драбільнік», ён любіць выгнаць гарнізон «Пякельнымі Зяпамі», каб потым нетаропка яго катаваць."/>
 	<entry name="HellstrikeMissile" value="Ракета Пякельны Ўдар"/>
-	<entry name="HellstrikeMissileFlavor" value="These missiles can tear through heretic armour and xenos flesh alike."/>
+	<entry name="HellstrikeMissileFlavor" value="Гэтыя ракеты аднолькава лёгка разрываюць браню ерэтыкоў і плоць ксенасаў."/>
 	<entry name="HonourBlade" value="Ганаровае Лязо"/>
-	<entry name="HonourBladeFlavor" value="An honour blade is a long, broad-bladed spear that is used to settle disputes between Ethereal caste members in stylised bloodless duels. Against the unenlightened races of the galaxy, it is a deadly weapon used in elegant sweeping movements where the blade becomes virtually invisible."/>
+	<entry name="HonourBladeFlavor" value="Ганаровае лязо — доўгая дзіда з шырокім лязом, якой чальцы касты Этэрных разьвязваюць спрэчкі ў рытуальных бяскроўных двубоях. Супраць непрасьветленых народаў галяктыкі гэта сьмертаносная зброя: у вытанчаных шырокіх узмахах яе лязо робіцца амаль нябачным."/>
 	<entry name="HornetPulseLaser" value="Імпульсны Лазер Шэршня"/>
 	<entry name="HornetPulseLaserFlavor" value="<string name='Weapons/LaserFlavor'/>"/>
 	<entry name="HotShotLasgun" value="Лазпушка Гарачы Стрэл"/>
 	<entry name="HotShotLasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="HunterKillerMissile" value="Ракета Паляўнічы-Забойца"/>
-	<entry name="HunterKillerMissileFlavor" value="Hunter-killer missiles are commonly fitted to Imperial vehicles. These single-use weapon systems allow vehicles such as Rhinos to engage armoured enemy vehicles that would otherwise far outmatch them."/>
+	<entry name="HunterKillerMissileFlavor" value="Ракетамі «Паляўнічы-Забойца» часта абсталёўваюць імперскія машыны. Гэтыя аднаразовыя сыстэмы дазваляюць такім машынам, як Насарог, змагацца з варожай бронетэхнікай, якая іначай значна іх пераўзыходзіла б."/>
 	<entry name="HuntingLanceFragTip" value="Паляўнічая Дзіда (Аскепкавы Канцавік)"/>
-	<entry name="HuntingLanceFragTipFlavor" value="Nearly four metres of hollow metal tipped with a shaped charge, the Attilan hunting lance is a perfect combination of ancient cavalry techniques and crude Imperial technology. Though usually containing a Frag blast, Rough Riders expecting to face vehicles will bring the heavier Melta Tips with them."/>
+	<entry name="HuntingLanceFragTipFlavor" value="Амаль чатыры мэтры полага мэталу з кумулятыўным зарадам на канцы — атыланская паляўнічая дзіда выдатна спалучае старажытныя прыёмы кавалерыі і грубую імперскую тэхналёгію. Звычайна яна мае аскепкавы зарад, але Мужныя Наезьнікі, якія чакаюць сустрэчы з машынамі, бяруць з сабой цяжэйшыя мельтаканцавікі."/>
 	<entry name="HuntingLanceMeltaTip" value="Паляўнічая Дзіда (Мельта-Канцавік)"/>
 	<entry name="HuntingLanceMeltaTipFlavor" value="<string name='Weapons/HuntingLanceFragTipFlavor'/>"/>
 	<entry name="Huskblade" value="Ашалупляльнае Лязо"/>
-	<entry name="HuskbladeFlavor" value="Leaving smoking trails as it carves through the air, a huskblade instantly evaporates the moisture in anything it touches, reducing targets to shrivelled and gruesome corpses that fall away to dust on the breeze."/>
+	<entry name="HuskbladeFlavor" value="Пакідаючы дымныя сьляды ў паветры, ашалупляльнае лязо імгненна выпарвае вільгаць з усяго, чаго кранецца. Яно ператварае ахвяраў у зморшчаныя жудасныя трупы, якія рассыпаюцца пылам на ветры."/>
 	<entry name="HyperphaseThreshers" value="Гіперфазавыя Малацільні"/>
-	<entry name="HyperphaseThreshersFlavor" value="The Skorpekh strain of the Destroyer Cult hunger for the immediacy of death—and their chosen tool, supplied by the Crypteks, are Hyperphase weapons. These take a variety of forms, akin to swords, glaives and and scythes. They all share the same ability, to vibrate across dimensions and hence pass through enemy defenses with ease."/>
+	<entry name="HyperphaseThreshersFlavor" value="Скарпехавая галіна Культу Разбуральнікаў прагне непасрэднай блізкасьці сьмерці. Яе абраная прылада — гіпэрфазавая зброя, якой яе забясьпечваюць Крыптэкі. Гэтая зброя мае розныя формы, падобныя да мячоў, глефаў і косаў. Усе яны валодаюць адной здольнасьцю: вібраваць паміж вымярэньнямі і таму зь лёгкасьцю праходзіць праз варожую абарону."/>
 	<entry name="IcarusRocketPod" value="Ракетная Капсула · Ікарус"/>
-	<entry name="IcarusRocketPodFlavor" value="Intended as an air defence system, the seven rockets contained in an Icarus Pod are designed to bring any aerial threats crashing to the ground. Though the rockets are small, their guidance systems make them extremely effective against flying targets."/>
+	<entry name="IcarusRocketPodFlavor" value="Ракетная капсула «Ікарус» прызначаная для супрацьпаветранай абароны. Сем ракет у ёй створаныя, каб зьбіваць на зямлю любыя паветраныя пагрозы. Хоць ракеты невялікія, іхныя сыстэмы навядзеньня робяць іх надзвычай эфэктыўнымі супраць лятучых цэляў."/>
 	<entry name="ImpalerCannon" value="Гармата-Працяцель"/>
 	<entry name="IronhailHeavyStubber" value="Цяжкі Стабер · Жалезны Град"/>
 	<entry name="IronhailHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
-	<entry name="ImpalerCannonFlavor" value="Impaler cannons propel osseous spines at such high velocities that they can punch through reinforced plasteel. At the base of each spine is a small creature known as a shard-beast that uses thin membranous fins to steer the spine towards its target."/>
+	<entry name="ImpalerCannonFlavor" value="Гарматы-працяцелі выпускаюць касьцяныя шыпы з такой хуткасьцю, што яны здольныя прабіваць узмоцненую пласталь. Каля асновы кожнага шыпа знаходзіцца маленькая істота, вядомая як аскепкавы зьвер: тонкімі перапончатымі плаўнікамі яна скіроўвае шып да цэлі."/>
 	<entry name="InfernoBoltgun" value="Інфернальная Болт-Пушка"/>
-	<entry name="InfernoBoltgunFlavor" value="The weapons of the Thousand Sons are shaped by the craft of artificers and sorcerers alike. When their guns roar, they fire not only explosive bolts that tear flesh, but uncanny energies that can melt even ceramite. In such a fashion, is the Long War waged anew."/>
-	<entry name="IcarusArrayFlavor" value="The Icarus arrays used by the Adeptus Mechanicus fill the sky with inescapable death. Comprising a twin Icarus autocannon with skyscryer lenses, a gatling rocket launcher that fires whole salvoes of flak and an armour-piercing missile launcher, its combined firepower can shred an entire squadron of enemy fighters."/>
+	<entry name="InfernoBoltgunFlavor" value="Зброю Тысячы Сыноў ствараюць і рамесьнікі, і чараўнікі. Калі іхныя пушкі раўнуць, яны выпускаюць ня толькі выбуховыя болты, што рвуць плоць, але і звышнатуральныя энэргіі, здольныя расплавіць нават кераміт. Так Доўгая Вайна працягваецца з новай сілай."/>
+	<entry name="IcarusArrayFlavor" value="Комплексы «Ікарус» Адэптус Механікус напаўняюць неба няўхільнай сьмерцю. Здвоеная аўтагармата «Ікарус» зь лінзамі назіраньня за небам, ракетная гатлінг-усталёўка, якая выпускае цэлыя зэнітныя залпы, і ўсталёўка бранябойных ракет разам валодаюць агнявой моцай, здольнай пашматваць цэлую эскадрыльлю варожых зьнішчальнікаў."/>
 	<entry name="ImplosionMissile" value="Імплазійная Ракета"/>
-	<entry name="ImplosionMissileFlavor" value="Upon detonation, these missiles emit a molecular dissonance field that causes those caught in their path to implode, instantly collapsing in upon themselves and leaving nothing more than a scorched silhouette to mark their passage."/>
+	<entry name="ImplosionMissileFlavor" value="Пры выбуху гэтыя ракеты ствараюць поле малекулярнага дысанансу, ад якога ўсё на іхным шляху імгненна абвальваецца ўнутр сябе. Ад ахвяраў застаецца толькі выпалены сілюэт."/>
 	<entry name="IncendineCombustor" value="Стымулятар Камеры Згараньня"/>
-	<entry name="IncendineCombustorFlavor" value="Typically mounted atop the Kastelan Battle Robot, the incendine combustor hurls out great gouts of burning, thrice-blessed promethium. Laced with Magos-blessed unguents and ignited by a flame lit from the Perpetual Forge, each holy fire-thrower can turn a technoheretic into foul tallow in a matter of seconds."/>
+	<entry name="IncendineCombustorFlavor" value="Звычайна ўсталяваны наверсе баявога робата Каштэляна, стымулятар камеры згараньня вывяргае вялізныя струмені палаючага, тройчы дабраславёнага прометыуму. Кожны сьвяты агнякід, запраўлены прымесьсю мазяў, дабраславёных Магасам, і запалены агнём Вечнай Кузьні, здольны за лічаныя сэкунды ператварыць тэхнаерэтыка ў брыдкі тлушч."/>
 	<entry name="IronhailHeavyStubber" value="Цяжкі Стабер · Жалезны Град"/>
 	<entry name="IronhailHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="IonAcceleratorOvercharged" value="Іённы Паскаральнік (Перагружаны)"/>
@@ -408,27 +408,27 @@
 	<entry name="KanKlaw" value="Клюшня Бляшанкі"/>
 	<entry name="KanKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
 	<entry name="Klaive" value="Клефа"/>
-	<entry name="KlaiveFlavor" value="Klaives are massive ritual powerblades of brutal aspect. Shimmering with dark energy, these weapons are impossibly light for their size and can slice through the thickest armour and toughest flesh with insulting ease."/>
+	<entry name="KlaiveFlavor" value="Клефы — масіўныя рытуальныя сілавыя клінкі жорсткага выгляду. Зьзяючы цёмнай энэргіяй, яны неверагодна лёгкія для свайго памеру і з пагардлівай лёгкасьцю прасякаюць найтаўсьцейшую браню і найтрывалейшую плоць."/>
 	<entry name="KlawOfGork" value="Клюшня Горка"/>
 	<entry name="KlawOfGorkFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
 	<entry name="KrakGrenade" value="Крак-Граната "/>
-	<entry name="KrakGrenadeFlavor" value="Krak grenades are implosive charges designed to crack vehicle armour."/>
+	<entry name="KrakGrenadeFlavor" value="Крак-гранаты — імплазійныя зарады, прызначаныя для прабіцьця брані машынаў."/>
 	<entry name="KrakMissileLauncher" value="Ракетная Крак-Усталёўка"/>
 	<entry name="KrakMissileLauncherFlavor" value="<string name='Weapons/FragMissileLauncherFlavor'/>"/>
 	<entry name="KrakstormMissileSilo" value="Ракетная Шахта Крак-Шторм"/>
 	<entry name="KrakstormMissileSiloFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="KrootGun" value="Круцкая Пушка"/>
-	<entry name="KrootGunFlavor" value="Kroot use primitive slug-throwers adapted by the T'au to fire pulse rounds."/>
+	<entry name="KrootGunFlavor" value="Круты карыстаюцца прымітыўнымі кулявымі пушкамі, якія Т'аў прыстасавалі для стральбы імпульснымі боепрыпасамі."/>
 	<entry name="KrootPistolAndHuntingJavelin" value="Круцкі Пісталет і Паляўнічы Дротык"/>
-	<entry name="KrootPistolAndHuntingJavelinFlavor" value="Though the Kroot Riders atop a juvenile Krootox do have their own ranged weapons, they are very much secondary to guiding the Krootox to a place where it can use its fists."/>
+	<entry name="KrootPistolAndHuntingJavelinFlavor" value="Хоць круцкія наезьнікі на маладых Крутаксах маюць уласную зброю далёкага бою, яе роля другарадная. Галоўнае — прывесьці Крутакса туды, дзе ён зможа пусьціць у ход кулакі."/>
 	<entry name="KustomMegaBlasta" value="Улушаная Мегавыбухала"/>
 	<entry name="KustomMegaBlastaFlavor" value="<string name='Weapons/KustomMegaSluggaFlavor'/>"/>
 	<entry name="KustomMegaSlugga" value="Улушаная Мегашпурляла"/>
-	<entry name="KustomMegaSluggaFlavor" value="A Mek's favourite gun often becomes his pet project, tinkered with until it boasts a profusion of worky gubbinz and zappy bits. On a good day, even the most portable of such guns can melt a hole through a Space Marine at twenty paces. The power of kustom mega-weapons comes at a price, of course, and an overheated weapon is likely to blow up. Yet the spectacular damage these weapons can cause is considered to more than make up the risk."/>
+	<entry name="KustomMegaSluggaFlavor" value="Улюбёная пушка Мека часта становіцца ягоным запаветным праектам: ён майструе яе, пакуль яна не абрастае безьліччу працоўных прыбамбасаў і іскрыстых штуковінаў. У добры дзень нават найменшая такая пушка можа прапаліць дзірку ў Касьмічным Марыне за дваццаць крокаў. Вядома, моц улушанай мегазброі мае сваю цану: пры перагрэве яна можа выбухнуць. Але лічыцца, што яе відовішчная разбуральная сіла больш чым апраўдвае рызыку."/>
 	<entry name="Lascannon" value="Лазгармата"/>
 	<entry name="LascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="LaserLanceMelee" value="Лазерная Дзіда (Блізкі Бой)"/>
-	<entry name="LaserLanceMeleeFlavor" value="Used by the Shining Spears Aspect Warriors, laser lances produce built-up pulses of energy that are released with explosive force when the wielder charges the target."/>
+	<entry name="LaserLanceMeleeFlavor" value="Лазерныя дзіды ваяроў аспэкту Зіхатлівых Дзідаў назапашваюць імпульсы энэргіі, якія вызваляюцца з выбуховай сілай, калі носьбіт кідаецца на цэль."/>
 	<entry name="LaserLanceRanged" value="Лазерная Дзіда (Далёкі Бой)"/>
 	<entry name="LaserLanceRangedFlavor" value="<string name='Weapons/LaserLanceMeleeFlavor'/>"/>
 	<entry name="Lasgun" value="Лазпушка"/>
@@ -436,17 +436,17 @@
 	<entry name="LasgunArray" value="Батарэя Лазпушак"/>
 	<entry name="LasgunArrayFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="LashWhipAndBonesword" value="Пуга і Касьцяны Меч"/>
-	<entry name="LashWhipAndBoneswordFlavor" value="Some Tyranid creatures wield these bio-weapons as a deadly symbiotic combination."/>
+	<entry name="LashWhipAndBoneswordFlavor" value="Некаторыя стварэньні Тыранідаў выкарыстоўваюць гэтую біязброю ў сьмертаносным сымбіятычным спалучэньні."/>
 	<entry name="LashWhips" value="Плеценыя Пугі"/>
-	<entry name="LashWhipsFlavor" value="Lash whips are cords of muscle that move at lightning speeds to slash their prey."/>
+	<entry name="LashWhipsFlavor" value="Плеценыя пугі — цягліцавыя жгуты, якія рухаюцца з хуткасьцю маланкі і сякуць здабычу."/>
 	<entry name="LashingWarpEnergies" value="Удар Энергіі Варпу"/>
-	<entry name="LashingWarpEnergiesFlavor" value="If it’s loathsome aura wasn’t enough warning, the nearer you get to the Noctilith Crown, the more it’s unholy energies pull at you, shredding the strongest defences, or even pulling weaker assailants wholesale into the warp."/>
+	<entry name="LashingWarpEnergiesFlavor" value="Калі агіднай аўры Ноктылітавай Кароны вам недастаткова для перасьцярогі, то чым бліжэй вы падыходзіце, тым мацней яе нячыстыя энэргіі цягнуць вас да сябе. Яны рвуць наймацнейшую абарону, а слабейшых нападнікаў нават цалкам зацягваюць у Варп."/>
 	<entry name="Laspistol" value="Лазпісталет"/>
 	<entry name="LaspistolFlavor" value="<string name='Weapons/LasFlavor'/>"/>
 	<entry name="LifeLeech" value="Паглынальнік Жыцьця"/>
-	<entry name="LifeLeechFlavor" value="With a twist of his gnarled hands, the wrathful psyker rips the life force from his enemy, hoarding the stolen essence and using it to restore the injured flesh of his allies."/>
+	<entry name="LifeLeechFlavor" value="Адным паваротам скрыўленых рук угневаны псайкер вырывае жыцьцёвую сілу з ворага, зьбірае скрадзеную сутнасьць і выкарыстоўвае яе, каб аднавіць параненую плоць хаўрусьнікаў."/>
 	<entry name="LightningClaws" value="Кіпцюры Маланкі"/>
-	<entry name="LightningClawsFlavor" value="Lightning claws are commonly used as matched pairs and consist of a number of blades, each a miniature power weapon, normally mounted on the back of the hand."/>
+	<entry name="LightningClawsFlavor" value="Кіпцюры маланкі звычайна выкарыстоўваюць узгодненымі парамі. Яны складаюцца зь некалькіх лёзаў, кожнае зь якіх — мініятурная сілавая зброя, звычайна замацаваная на тыльным баку кісці."/>
 	<entry name="LitanyOfTheElectromancer" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancer'/>"/>
 	<entry name="LitanyOfTheElectromancerFlavor" value="<string name='Actions/AdeptusMechanicus/LitanyOfTheElectromancerFlavor'/>"/>
 	<entry name="MacroPlasmaIncineratorStandard" value="Макраплазмавы Інцынератар (Стандартны)"/>
@@ -454,23 +454,23 @@
 	<entry name="MacroPlasmaIncineratorSupercharged" value="Макраплазмавы Інцынератар (Суперперагружаны)"/>
 	<entry name="MacroPlasmaIncineratorSuperchargedFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
 	<entry name="Mandiblasters" value="Мандзібластары"/>
-	<entry name="MandiblastersFlavor" value="Mandiblasters spit needle shards that channel a deadly laser blast."/>
+	<entry name="MandiblastersFlavor" value="Мандзібластары выплёўваюць ігольчатыя аскепкі, па якіх праходзіць сьмяротны лазерны разрад."/>
 	<entry name="MagnarailLance" value="Дзіда-Магнарэйка"/>
-	<entry name="ManipulusMechadendrites" value="Manipulus Mechadendrites"/>
+	<entry name="ManipulusMechadendrites" value="Мехадэндрыты Маніпулуса"/>
 	<entry name="MeltaBomb" value="Мельтабомба"/>
 	<entry name="MeltaBombDescription" value="Выкарыстоўваецца супраць машынаў, жахлівых стварэньняў або фартыфікацыяў. "/>
-	<entry name="MeltaBombFlavor" value="Melta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
+	<entry name="MeltaBombFlavor" value="Мельтабомбы — фузіённыя зарады, прызначаныя прапальваць браняваны корпус за лічаныя сэкунды."/>
 	<entry name="MeltaCannon" value="Мельтагармата"/>
-	<entry name="MeltaCannonFlavor" value="This weapon swiftly reduces armoured targets to molten slag."/>
+	<entry name="MeltaCannonFlavor" value="Гэтая зброя хутка ператварае браняваныя цэлі ў расплаўленую дзындру."/>
 	<entry name="Meltagun" value="Мельтапушка"/>
 	<entry name="MeltagunFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="MeteoricDescent" value="Метэарытапад"/>
 	<entry name="MeteoricDescentDescription" value="Павялічаная атака супраць авіяцыі."/>
-	<entry name="MeteoricDescentFlavor" value="These winged terrors hurtle out of the storm-wracked skies, tearing their unsuspecting prey to pieces in a single, devastating swoop."/>
+	<entry name="MeteoricDescentFlavor" value="Гэтыя крылатыя жахі вырываюцца з ахопленага бурай неба і адным разбуральным пікіраваньнем разьдзіраюць нічога не падазравалую здабычу."/>
 	<entry name="MissilePod" value="Ракетная Капсула"/>
-	<entry name="MissilePodFlavor" value="A simple but effective delivery system for multiple missiles, these weapon pods are used on light vehicles and heavy infantry at medium range, and are mounted on many battlesuits and drones."/>
+	<entry name="MissilePodFlavor" value="Простыя, але эфэктыўныя сыстэмы запуску некалькіх ракет, гэтыя капсулы выкарыстоўваюцца на лёгкіх машынах і цяжкай пяхотай на сярэдняй далёкасьці. Імі абсталяваныя многія баявыя гарнітуры і дроны."/>
 	<entry name="MoltenBeam" value="Спальваючы Прамень"/>
-	<entry name="MoltenBeamFlavor" value="The pyromancer claps his hands together and turns them outward towards the foe. As he does so, a white-hot beam of blazing energy bursts from his palms. It melts armour to slag and vaporises flesh, leaving only ghastly shadows in its wake."/>
+	<entry name="MoltenBeamFlavor" value="Пірамант пляскае ў далоні і паварочвае іх да ворага. Зь іх вырываецца распалены дабяла прамень палаючай энэргіі. Ён плавіць браню ў дзындру і выпарвае плоць, пакідаючы па сабе толькі жахлівыя цені."/>
 	<entry name="MonstrousRendingClaws" value="Манструёзныя Раздзіральныя Кіпці"/>
 	<entry name="MonstrousRendingClawsFlavor" value="<string name='Weapons/RendingClawsFlavor'/>"/>
 	<entry name="MonstrousScythingTalons" value="Манструёзныя Касільныя Кіпці"/>
@@ -482,28 +482,28 @@
 	<entry name="MultiMeltaPlaytest" value="Мульцімельта"/>
 	<entry name="MultiMeltaPlaytestFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
 	<entry name="NeutronBlaster" value="Нейтронны Бластар"/>
-	<entry name="NeutronBlasterFlavor" value="Stingwing weapons are a hybrid of Vespid and T'au technology. The crystal mounted upon each blaster emits a powerful neutron blast that is able to bypass all but the most effective armour."/>
+	<entry name="NeutronBlasterFlavor" value="Зброя Джалакрылаў спалучае тэхналёгіі Вэсьпідаў і Т'аў. Крышталь, усталяваны ў кожным бластары, выпускае магутны нэўтронны разрад, здольны абмінуць любую браню, апроч найдзейсьнейшай."/>
 	<entry name="None" value="Ніякае"/>
 	<entry name="NoseDrill" value="Насавы Дрыль"/> <!-- Megatrakk Scrapjet -->
-	<entry name="NoseDrillFlavor" value="Though the Flyboy was doubtless furious to see his treasured Dakkajet confined to Gladius Prime’s surface, the Meks can present one positive—the ability to put a giant drill in the empty nosecone, enabling the Scrapjet to cut through enemies the way it used to cut through the air."/>
+	<entry name="NoseDrillFlavor" value="Лётчык, безумоўна, быў разьюшаны, калі ягоны дарагі Дакка-Зьнішчала апынуўся прыкаваным да паверхні Гладыусу Прайм. Але Мекі могуць назваць адну перавагу: у пусты насавы абцякальнік можна ўставіць гіганцкі дрыль, каб Шмецьцелёт прарэзваў ворагаў гэтак жа, як калісьці праразаў паветра."/>
 	<entry name="NovaElectromagneticShockwave" value="<string name='Actions/Tau/NovaElectromagneticShockwave'/>"/>
 	<entry name="NovaElectromagneticShockwaveFlavor" value="<string name='Actions/Tau/NovaElectromagneticShockwaveFlavor'/>"/>
 	<entry name="NullMace" value="Нуль Булава"/>
-	<entry name="NullMaceFlavor" value="These heavy maces both mark the bearer as an Insidiant and aid them in their battle against Psykers. Against the warp-touched, they are horrifyingly effective, but even against a normal target they inflict devastating wounds, blasting apart armour."/>
+	<entry name="NullMaceFlavor" value="Гэтыя цяжкія булавы і пазначаюць носьбітку як Інсыдыянтку, і дапамагаюць ёй у барацьбе з псайкерамі. Супраць тых, каго крануў Варп, яны жахліва эфэктыўныя, але і звычайнай цэлі наносяць разбуральныя раны, разьбіваючы браню."/>
 	<entry name="OmnissianStaff" value="Посах Амнісіі"/>
 	<entry name="OnslaughtGatlingCannon" value="Нападная Гатлінг-Гармата"/>
-	<entry name="OnslaughtGatlingCannonFlavor" value="Like many rotary machine guns through Terra’s long history, the Onslaught makes up for its lack of armour penetration with an absolute hail of high calibre bullets. Given its relative reliability of fire, the Adeptus Mechanicus have mounted it on many Primaris vehicles, ranging from the light Invader right up to heavier versions on Redemptor Dreadnoughts and Repulsor Executioners."/>
+	<entry name="OnslaughtGatlingCannonFlavor" value="Як і многія кулямёты з блёкам ствалоў, які круціцца, у доўгай гісторыі Тэры, нападная гатлінг-гармата кампенсуе недахоп бронепрабівальнасьці сапраўдным градам буйнакалібэрных куляў. Дзякуючы адноснай надзейнасьці стральбы Адэптус Механікус усталявалі яе на шматлікія машыны Прымарыс: ад лёгкага Захопніка да цяжэйшых вэрсіяў на Дрэдноўтах-Збаўцах і Рэпульсарных Катах."/>
 	<entry name="OppressorCannon" value="Гармата Прыгнятальнік"/>
-	<entry name="OppressorCannonFlavor" value="The Rogal Dorn tank’s signature weapon is quite capable of taking down a distant enemy Knight in a single salvo, with the impact of an entire squadron of Vindicators."/>
+	<entry name="OppressorCannonFlavor" value="Адметная зброя танка «Рогал Дорн» цалкам здольная адным залпам зьнішчыць далёкага варожага Рыцара, наносячы ўдар моцай з цэлы эскадрон Ачышчальнікаў."/>
 	<entry name="OrbitalBombardment" value="Арбітальнае Бамбаваньне"/>
 	<entry name="ParagonGrenadeLauncher" value="Дасканалы Гранатакід"/>
-	<entry name="ParagonGrenadeLauncherFlavor" value="The twin grenade launchers embedded in this model of Paragon Warsuit are designed to be fired on the move, spreading an array of larger fragmentation shells across a wide area."/>
+	<entry name="ParagonGrenadeLauncherFlavor" value="Парныя гранатакіды, убудаваныя ў гэтую мадэль Дасканалых Вайсковых Рыштункаў, прызначаныя для стральбы на хаду і раскідваюць буйныя аскепкавыя снарады па вялікай плошчы."/>
 	<entry name="ParagonWarBlade" value="Дасканалае Вайсковае Лязо"/>
-	<entry name="ParagonWarBladeFlavor" value="Commonly equipped with one of the holy trinity of Adepta Sororitas heavy weapons – the heavy bolter, Ministorum heavy flamer, and multi-melta – Paragon Warsuits also wield huge melee weapons crackling with power fields to tear through enemy armour like it was tissue paper."/>
+	<entry name="ParagonWarBladeFlavor" value="Звычайна абсталяваныя адным зь відаў сьвятой тройцы цяжкай зброі Адэпта Сарорытас — цяжкім болтарам, цяжкім агнякідам Міністоруму ці мульцімельтай, — Дасканалыя Вайсковыя Рыштункі таксама маюць велізарную зброю блізкага бою. Яе патрэсклівыя сілавыя палі дазваляюць рваць варожую браню, нібы тонкую паперу."/>
 	<entry name="ParticleWhip" value="Пуга Часьцінак"/>
 	<entry name="ParticleWhipFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
 	<entry name="PenitentBuzzBlade" value="Гудзючае Лязо Раскаяньне"/>
-	<entry name="PenitentBuzzBladeFlavor" value="The machines’ arm-mounted flamers blaze a trail of fiery destruction as they thunder towards their foes, and their gigantic, razor-edged buzz saws carve through armour, flesh and bone with every frenzied swipe."/>
+	<entry name="PenitentBuzzBladeFlavor" value="Усталяваныя на руках гэтых машынаў агнякіды пракладваюць шлях вогненнага разбурэньня, пакуль машыны з грукатам імчацца да ворагаў. Іхныя гіганцкія вострыя дыскавыя пілы кожным шалёным узмахам прарэзваюць браню, плоць і косткі."/>
 	<entry name="PhosphorBlaster" value="Фосфарны Бластар"/>
 	<entry name="PhosphorBlasterFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
 	<entry name="PhosphorPistol" value="Фосфарны Пісталет"/>
@@ -513,9 +513,9 @@
 	<entry name="PhosphorTorch" value="Фосфарная Паходня"/>
 	<entry name="PhosphorTorchFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="PhotonGrenade" value="Фатонная Граната"/>
-	<entry name="PhotonGrenadeFlavor" value="Defensive grenades, such as the photon grenades of the T'au, which emit multi-spectrum light and a sonic burst, have dual uses. When being charged, these are thrown to disorient the enemy attack; against shooting, they’re hurled to throw up clouds of concealing gas or smoke."/>
+	<entry name="PhotonGrenadeFlavor" value="Абарончыя гранаты, такія як фатонныя гранаты Т'аў, што выпускаюць шматспэктральнае сьвятло і гукавы імпульс, маюць падвойнае прызначэньне. Іх кідаюць, каб дэзарыентаваць ворага, які ідзе ў атаку, а пад абстрэлам — каб узьняць воблакі газу ці дыму і схавацца за імі."/>
 	<entry name="PlagueSpewer" value="Чумное Сапло"/>
-	<entry name="PlagueSpewerFlavor" value="During the Horus Heresy, the Death Guard were known for their use of alchem, a horrifyingly corrosive mixture of flamer and chem technology. After ten thousand years of corruption, today’s Plague Marines carry the descendants of those weapons, now host to Father Nurgle’s many infectious plagues. These unleash highly concentrated toxic slime and noxious filth causing enemies’ bodies to writhe and contort under the onslaught of countless ailments, deteriorating and swelling until they collapse into a mass of infectious decay."/>
+	<entry name="PlagueSpewerFlavor" value="Падчас Ерасі Хоруса Гвардыя Сьмерці славілася ўжываньнем альхэму — жахліва едкага спалучэньня агнякіднай і хімічнай тэхналёгіяў. Пасьля дзесяці тысяч гадоў апаганьваньня сучасныя Чумныя Марыны носяць нашчадкаў гэтай зброі, у якіх цяпер гнязьдзяцца шматлікія заразныя пошасьці Айца Нургла. Яны вывяргаюць высокаканцэнтраваную таксычную сьлізь і атрутны бруд. Целы ворагаў курчацца і выгінаюцца пад націскам незьлічоных хваробаў, разбураюцца і пухнуць, пакуль не ператвараюцца ў масу заразнай гнілі."/>
 	<entry name="PlasmaCannon" value="Плазмагармата"/>
 	<entry name="PlasmaCannonFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
 	<entry name="PlasmaCutter" value="Плазмавы Разак"/>
@@ -525,17 +525,17 @@
 	<entry name="PlasmaExterminatorSupercharged" value="Плазмавы Экстэрмінатар (Суперперагружаны)"/>
 	<entry name="PlasmaExterminatorSuperchargedFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
 	<entry name="PlasmaIncineratorStandard" value="Плазмавы Інцынератар (Стандартны)"/>
-	<entry name="PlasmaIncineratorStandardFlavor" value="Cawl’s ten millennia of tinkering produced many surprising results. Even the unstable plasma weaponry commonplace to many races didn’t escape his cogitator’s attention. His Mark III Belisarius Pattern Plasma Incinerators are a marked improvement on previous Imperial versions, harnessing the raw power of stellar fusion to melt enemy armour. This Primaris-only technology is deployed at every scale, from the pistol-sized Exterminators to the Dreadnought-sized Macro Plasma Incinerators."/>
+	<entry name="PlasmaIncineratorStandardFlavor" value="Дзесяць тысячагодзьдзяў вынаходніцтва Коўла прынесьлі шмат нечаканых вынікаў. Нават нестабільная плязмавая зброя, пашыраная сярод многіх народаў, не абмінула ўвагі ягонага кагітатара. Ягоныя плязмавыя інцынератары ўзору «Бэлізарыус» мадэлі III значна пераўзыходзяць ранейшыя імперскія мадэлі: яны ўтаймоўваюць першародную моц зорнага сынтэзу, каб плавіць варожую браню. Гэтую тэхналёгію, даступную толькі Прымарыс, ужываюць ва ўсіх маштабах: ад Экстэрмінатараў памерам з пісталет да макраплязмавых інцынератараў памерам з Дрэдноўт."/>
 	<entry name="PlasmaIncineratorSupercharged" value="Плазмавы Інцынератар (Суперперагружаны)"/>
 	<entry name="PlasmaIncineratorSuperchargedFlavor" value="<string name='Weapons/PlasmaIncineratorStandardFlavor'/>"/>
 	<entry name="PlasmaGrenade" value="Плазмавая Граната"/>
-	<entry name="PlasmaGrenadeFlavor" value="Plasma grenades are a highly advanced type of assault grenade, commonly employed by the Aeldari."/>
+	<entry name="PlasmaGrenadeFlavor" value="Плязмавыя гранаты — надзвычай дасканалы від штурмавых гранатаў, які шырока выкарыстоўваюць Аэльдары."/>
 	<entry name="PlasmaGun" value="Плазмавая Пушка"/>
 	<entry name="PlasmaGunFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
 	<entry name="PlasmaPistol" value="Плазмавы Пісталет"/>
 	<entry name="PlasmaPistolFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
 	<entry name="PlasmaRifle" value="Плазмавая Стрэльба"/>
-	<entry name="PlasmaRifleFlavor" value="Plasma technology is used by many races, despite its highly unstable nature. The T'au favour a form of the technology that forgoes a degree of stopping power for an increased level of safety for the operator."/>
+	<entry name="PlasmaRifleFlavor" value="Многія народы выкарыстоўваюць плязмавыя тэхналёгіі, нягледзячы на іхную надзвычайную нестабільнасьць. Т'аў аддаюць перавагу варыянту, які ахвяруе часткай спыняльнай моцы дзеля большай бясьпекі стралка."/>
 	<entry name="PowerAxe" value="Сілавая Сякера"/>
 	<entry name="PowerAxeFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
 	<entry name="PowerFist" value="Сілавы Кулак"/>
@@ -553,7 +553,7 @@
 	<entry name="PulseBlaster" value="Імпульсны Бластар"/>
 	<entry name="PulseBlasterFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
 	<entry name="PulseDisintegrator" value="Імпульсны Дэзынтэгратар"/>
-	<entry name="PulseDisintegratorFlavor" value="The Tantalus’ unique heavy armament employs an unstable form of ‘Darklight’ dark matter, harnessed from the ‘Ilmaea’—black suns stolen from Realspace. A single shot from a Disintegrator can atomise the most heavily armoured opponent—and the Pulse Disintegrator fires a lethal salvo of these, whilst remaining pleasantly cool to the touch."/>
+	<entry name="PulseDisintegratorFlavor" value="Унікальнае цяжкае ўзбраеньне Танталуса выкарыстоўвае нестабільную форму цёмнай матэрыі — цёмнасьвятло, здабытае зь Ілмаі, чорных сонцаў, скрадзеных з рэальнай прасторы. Адзін стрэл дэзынтэгратара здольны распыліць найцяжэйшага браняванага праціўніка, а імпульсны дэзынтэгратар выпускае цэлы сьмертаносны залп такіх стрэлаў, застаючыся прыемна халодным навобмацак."/>
 	<entry name="PulseDriverCannon" value="Імпульсная Драйвер-Гармата"/>
 	<entry name="PulseDriverCannonFlavor" value="<string name='Weapons/PulseFlavor'/>"/>
 	<entry name="PulseLaser" value="Імпульсны Лазер"/>
@@ -565,19 +565,19 @@
 	<entry name="PrehensilePincer" value="Учэпістая Клюшня"/>
 	<entry name="PrehensilePincerFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
 	<entry name="PrismCannonDispersed" value="Прызмавая Гармата (Расьсеяная)"/>
-	<entry name="PrismCannonDispersedFlavor" value="Typically mounted on Fire Prisms, prism cannons greatly amplify the power of a high-intensity laser through priceless psychocrystal to generate a devastating blast. This can be focussed into a narrow beam or widened to destroy a broader area at will."/>
+	<entry name="PrismCannonDispersedFlavor" value="Прызмавыя гарматы, якія звычайна ўсталёўваюць на Агнявых Прызмах, шматкроць узмацняюць моц інтэнсіўнага лазера праз бясцэнны псыхакрышталь, ствараючы разбуральны ўдар. Яго можна па жаданьні засяродзіць у вузкім прамяні ці пашырыць, каб зьнішчыць большую плошчу."/>
 	<entry name="PrismCannonFocused" value="Прызмавая Гармата (Сфакусаваная)"/>
 	<entry name="PrismCannonFocusedFlavor" value="<string name='Weapons/PrismCannonDispersedFlavor'/>"/>
 	<entry name="PrismCannonLance" value="Прызмавая Гармата (Дзіда)"/>
 	<entry name="PrismCannonLanceFlavor" value="<string name='Weapons/PrismCannonDispersedFlavor'/>"/>
 	<entry name="PsychicMaelstrom" value="Псіхічны Вір"/>
-	<entry name="PsychicMaelstromFlavor" value="The telekine focuses his entire mental might into creating a vast maelstrom of destructive power, unleashing a storm of psychic energies that utterly consume his foes."/>
+	<entry name="PsychicMaelstromFlavor" value="Тэлекінэтык засяроджвае ўсю сваю разумовую моц на стварэньні велізарнага віру разбуральнай сілы і выпускае буру псіхічных энэргіяў, якія цалкам паглынаюць ворагаў."/>
 	<entry name="PsychicOverload" value="Псіхічная Перагрузка"/>
 	<entry name="PsychicOverloadFlavor" value="<string name='Actions/Tyranids/PsychicOverloadFlavor'/>"/>
 	<entry name="PsychicScream" value="Псіхічны Крык"/>
-	<entry name="PsychicScreamFlavor" value="Through its vassal, the Hive Mind unleashes a piercing shriek of undiluted psychic energy that shreds the minds of those caught in the wake."/>
+	<entry name="PsychicScreamFlavor" value="Праз свайго васала Розум Вульля выпускае пранізьлівы крык чыстай псіхічнай энэргіі, які разьдзірае розумы ўсіх, хто апынуўся на ягоным шляху."/>
 	<entry name="PsychicTendrilNeuroblast" value="Псіхічныя Шчупальцы (Нейравыбух)"/>
-	<entry name="PsychicTendrilNeuroblastFlavor" value="The Norn Emissary is a prodigiously psychic creature, able to adapt its mental abilities to target individual opponents, large formations or even vehicles, before closing with its monstrous talons…"/>
+	<entry name="PsychicTendrilNeuroblastFlavor" value="Норн-Эмісар — істота зь неверагоднай псіхічнай моцай. Яна можа прыстасоўваць свае разумовыя здольнасьці для ўдараў па асобных праціўніках, буйных злучэньнях і нават машынах, перш чым наблізіцца і пусьціць у ход пачварныя кіпцюры…"/>
 	<entry name="PsychicTendrilNeurolance" value="Псіхічныя Шчупальцы (Нейрадзіда)"/>
 	<entry name="PsychicTendrilNeurolanceFlavor" value="<string name='Weapons/PsychicTendrilNeuroblastFlavor'/>"/>
 	<entry name="PteraxiiTalons" value="Кіпцюры Птэраксія"/>
@@ -587,7 +587,7 @@
 	<entry name="QuadIonTurretStandard" value="Чацьвярная Іённая Турэль (Стандартная)"/>
 	<entry name="QuadIonTurretStandardFlavor" value="<string name='Weapons/IonFlavor'/>"/>
 	<entry name="QuestorCognisHeavyStubber" value="Цяжкі Стабер · Квэстар Когніс"/>
-	<entry name="QuestorCognisHeavyStubberFlavor" value="Adding yet more heavy firepower to the Armiger Helverin, it’s worth noting that the Questor Heavy Stubber is a Cognis weapon. This means that its machine spirits have been awoken to the degree that the weapon is capable of action independent of the Knight’s pilot."/>
+	<entry name="QuestorCognisHeavyStubberFlavor" value="Цяжкі стабер «Квэстар» дадае Армігеру Хэльверыну яшчэ больш цяжкай агнявой моцы, але варта памятаць, што гэта зброя когніс. Ягоныя духі машыны абуджаныя настолькі, што зброя можа дзейнічаць незалежна ад пілёта Рыцара."/>
 	<entry name="RadSaturation" value="<string name='Actions/AdeptusMechanicus/RadSaturation'/>"/>
 	<entry name="RadSaturationFlavor" value="<string name='Actions/AdeptusMechanicus/RadSaturationFlavor'/>"/>
 	<entry name="RadiumCarbine" value="Радыевы Карабін"/>
@@ -597,63 +597,63 @@
 	<entry name="RailgunWithSolidShot" value="Рэйкавая Пушка з Суцэльным Снарадам"/>
 	<entry name="RailgunWithSolidShotFlavor" value="<string name='Weapons/RailFlavor'/>"/>
 	<entry name="RangerLongRifle" value="Доўгая Стрэльба Рэйнджара"/>
-	<entry name="RangerLongRifleFlavor" value="Ranger long rifles are precision implements, accurate enough to pick out weak points in a target’s armour even at extreme distances."/>
+	<entry name="RangerLongRifleFlavor" value="Доўгія стрэльбы Рэйнджараў — дакладныя прылады, здольныя паражаць слабыя месцы ў брані цэлі нават на надзвычай вялікіх адлегласьцях."/>
 	<entry name="RapidFireBattleCannon" value="Баявая Гармата Хуткага Агню"/>
-	<entry name="RapidFireBattleCannonFlavor" value="This long range cannon is the equivalent of a large calibre artillery piece affixed to the arm of an Imperial Knight. Its rapid self-loading allows for accurate fire to be poured out at a tremendous rate and the blast of its explosive shot can rack up horrific casualties. It is often employed against infantry hordes, medium tanks and squadrons of light vehicles."/>
+	<entry name="RapidFireBattleCannonFlavor" value="Гэтая дальнабойная гармата — адпаведнік буйнакалібэрнай артылерыйскай гарматы, замацаванай на руцэ Імперскага Рыцара. Хуткая аўтаматычная перазарадка дазваляе весьці дакладны агонь зь велізарным тэмпам, а выбухі снарадаў наносяць жахлівыя страты. Яе часта выкарыстоўваюць супраць полчышчаў пяхоты, сярэдніх танкаў і эскадронаў лёгкіх машынаў."/>
 	<entry name="Razorflail" value="Брытвапуга"/>
-	<entry name="RazorflailFlavor" value="Razorflails are wielded as a twinned pair of blades that at first glance resemble long, flimsy and unwieldy swords. Yet with a single flick of the wrist each can split apart and lash out like a whip, their whistling blades almost impossible to block or parry."/>
+	<entry name="RazorflailFlavor" value="Брытвапугі выкарыстоўваюць парамі: на першы погляд яны нагадваюць доўгія, хісткія і нязручныя мячы. Але адным рухам запясьця кожная зь іх можа падзяліцца на часткі і хваснуць, як пуга. Іхныя сьвістлівыя лёзы амаль немагчыма заблякаваць ці парыраваць."/>
 	<entry name="ReaperAutocannon" value="Аўтагармата Жняца"/>
-	<entry name="ReaperAutocannonFlavor" value="There is a particular type of double-barrelled autocannon called the Reaper, which is no longer employed by the forces of the Emperor. It is mostly used by Chaos Terminators, allowing them to lay down a withering hail of shots, which gives them a much greater chance of hitting those unfortunate enough to be in their crosshairs."/>
+	<entry name="ReaperAutocannonFlavor" value="Існуе адмысловы від двухствольнай аўтагарматы, вядомы як «Жнец», якім войскі Імператара ўжо не карыстаюцца. Яго пераважна выкарыстоўваюць Тэрмінатары Хаосу: спусташальны град стрэлаў значна павялічвае шанец трапіць у няшчасных, што апынуліся ў іхным прыцэле."/>
 	<entry name="ReaperLauncherStarshotMissile" value="Ракетная Ўсталёўка Жнеяра (Ракета Зорныстрэл)"/>
-	<entry name="ReaperLauncherStarshotMissileFlavor" value="Used to deadly effect by Dark Reaper Aspect Warriors, reaper launchers fire a fusillade of armour-piercing starswarm missiles. Some Dark Reapers also make use of the more powerful starshot missiles, which have a lower rate of fire, but allow them to engage enemy tanks and fortifications with impunity."/>
+	<entry name="ReaperLauncherStarshotMissileFlavor" value="Ракетныя ўсталёўкі Жнеяраў, якія сьмертаносна выкарыстоўваюць ваяры аспэкту Цёмных Жнеяраў, выпускаюць град бранябойных ракет «Зорнырой». Некаторыя Цёмныя Жнеяры таксама карыстаюцца больш магутнымі ракетамі «Зорныстрэл»: яны страляюць радзей, але дазваляюць беспакарана паражаць варожыя танкі і ўмацаваньні."/>
 	<entry name="ReaperLauncherStarswarmMissile" value="Ракетная Ўсталёўка Жнеяра (Ракета Зорнырой)"/>
 	<entry name="ReaperLauncherStarswarmMissileFlavor" value="<string name='Weapons/ReaperLauncherStarshotMissileFlavor'/>"/>
 	<entry name="RendingClaws" value="Разьдзіральныя Кіпцюры"/>
-	<entry name="RendingClawsFlavor" value="The diamond-hard tips of these claws can tear through armour."/>
+	<entry name="RendingClawsFlavor" value="Цьвёрдыя, як дыямэнт, кончыкі гэтых кіпцюроў здольныя разьдзіраць браню."/>
 	<entry name="RodOfCovenantMelee" value="Жазло Запавету (Блізкі Бой)"/>
-	<entry name="RodOfCovenantMeleeFlavor" value="The rod of covenant is a tool of swift execution for those found wanting by the Triarch Praetorians. Within the head of each weapon is caged a roiling fragment of a dying star bound within a potent force field, capable of burning through a foe's armour as if it were dry parchment. This energy can further be directed by the rod's wielder in a searing blast which, while short ranged, can reduce even a Necron to a smouldering pool of fused metal—organic creatures simply explode into clouds of flaming ash."/>
+	<entry name="RodOfCovenantMeleeFlavor" value="Жазло Запавету — прылада хуткай кары для тых, каго Прэтарыянцы Трыярхаў прызналі нявартымі. У навершы кожнага жазла магутнае сілавое поле ўтрымлівае бурлівы аскепак паміраючай зоркі, здольны прапаліць варожую браню, нібы сухі пэргамэнт. Носьбіт таксама можа скіраваць гэтую энэргію пякучым разрадам: хоць ягоная далёкасьць малая, ён ператварае нават Некрона ў тлеючую лужыну сплаўленага мэталу. Арганічныя істоты проста выбухаюць воблакамі палаючага попелу."/>
 	<entry name="RodOfCovenantRanged" value="Жазло Запавету (Далёкі Бой)"/>
 	<entry name="RodOfCovenantRangedFlavor" value="<string name='Weapons/RodOfCovenantMeleeFlavor'/>"/>
 	<entry name="RokkitKannon" value="Ракетная Грымата"/> <!-- Megatrakk Scrapjet -->
-	<entry name="RokkitKannonFlavor" value="The Flyboy may have fallen from the sky, but his Dakkajet hasn’t lost any of its armament. Indeed, these belt-fed rokkits are perfectly suited to a life on the ground, turning opposing infantry into a fine mist. Who needs to aim?"/>
+	<entry name="RokkitKannonFlavor" value="Лётчык, можа, і ўпаў зь неба, але ягоны Дакка-Зьнішчала не страціў ніводнай зброі. Больш за тое, ракеты са стужачнай падачай выдатна прыстасаваныя да наземнага жыцьця: яны ператвараюць варожую пяхоту ў дробны туман. Каму тут трэба цэліцца?"/>
 	<entry name="RokkitLauncha" value="Ракетакід"/>
-	<entry name="RokkitLaunchaFlavor" value="Crude but easy to manufacture, the rokkit launcha is a stout stick with a simple trigger mechanism that allows the Ork at the 'safe' end to fire a dodgy-looking rokkit in the general direction of the enemy."/>
+	<entry name="RokkitLaunchaFlavor" value="Грубы, але просты ў вырабе ракетакід — кароткая тоўстая палка з простым спускавым мэханізмам. Ён дазваляе Орку на «бясьпечным» канцы выпусьціць сумнеўную на выгляд ракету прыблізна ў бок ворага."/>
 	<entry name="RollOverThem" value="“Расьцісьніце Іх!”"/>
 	<entry name="RuptureCannon" value="Разрыўная Гармата"/>
-	<entry name="RuptureCannonFlavor" value="This weapon fires two different projectiles, launched in quick succession. The first is a bloated tick that bursts upon impact, showering the target in a thick oily substance. The second, a seedpod, reacts as it contacts the viscous remains of the tick, creating an implosion which can even wrench armoured vehicles inside out."/>
+	<entry name="RuptureCannonFlavor" value="Гэтая зброя хутка выпускае адзін за адным два розныя снарады. Першы — раздуты клешч, які лопаецца пры ўдары, абліваючы цэль густым масьляністым рэчывам. Другі — насенная каробачка, якая ўступае ў рэакцыю зь вязкімі рэшткамі кляшча. Узьнікае імплазія, здольная нават вывернуць браняваную машыну навыварат."/>
 	<entry name="SaddlegitWeapon" value="Зброя Седлавога Гіта"/>
-	<entry name="SaddlegitWeaponFlavor" value="Though tougher than other Gretchin, a melee-armed saddlegit is a minor threat compared to the hulking BeastSnagga Boy sat next to him, or its monstrous Squighog."/>
+	<entry name="SaddlegitWeaponFlavor" value="Хоць седлавы гіт мацнейшы за іншых Грэтчынаў, ягоная зброя блізкага бою ўяўляе малую пагрозу ў параўнаньні з грувасткім Хлопцам — Зьверам Снагай, які сядзіць побач, ці ягоным пачварным Сквігавяпруком."/>
 	<entry name="Scissorhand" value="Рука-Нажніцы"/>
-	<entry name="ScissorhandFlavor" value="The scissorhand looks a little like a pair of surgical shears, and harbours expensive toxins so that its wielder might better incapacitate those whose limbs it amputates."/>
+	<entry name="ScissorhandFlavor" value="Рука-нажніцы крыху нагадвае хірургічныя нажніцы і ўтрымлівае дарагія таксыны, каб яе носьбіт мог лепей абясшкоджваць тых, каму адразае канечнасьці."/>
 	<entry name="ScorpionCannon" value="Гармата Скарпіёна"/>
-	<entry name="ScorpionCannonFlavor" value="This multi-barreled anti-infantry weapon is only ever mounted in one place—on the great arching tail of the Brass Scorpion daemon engine. From on high, it can mow down massed enemy troops with ease, to the honour of Khorne."/>
+	<entry name="ScorpionCannonFlavor" value="Гэтую шматствольную супрацьпяхотную зброю ўсталёўваюць толькі ў адным месцы — на вялікім выгнутым хвасьце дэманічнай машыны Латуневага Скарпіёна. З вышыні яна зь лёгкасьцю косіць шчыльныя шэрагі варожых войскаў на славу Кхорна."/>
 	<entry name="ScythingTalons" value="Кіпцюры-Косы"/>
-	<entry name="ScythingTalonsFlavor" value="Scything talons are long, razor-edged claws of serrated chitin."/>
+	<entry name="ScythingTalonsFlavor" value="Кіпцюры-косы — доўгія кіпцюры з зубчастага хітыну з вострымі, як брытва, краямі."/>
 	<entry name="SeekerMissile" value="Саманаводная Ракета"/>
-	<entry name="SeekerMissileFlavor" value="Seeker missiles are one-shot weapons usually guided to their targets by markerlights, though they can be fired independently as well."/>
+	<entry name="SeekerMissileFlavor" value="Саманаводныя ракеты — аднаразовая зброя, якую звычайна наводзяць на цэлі цэлеўказальнікамі, хоць магчымы і самастойны запуск."/>
 	<entry name="SeismicAssaultCoalescent" value="Сейсьмічная Атака (Каалесцэнтная)"/>
-	<entry name="SeismicAssaultCoalescentFlavor" value="Stone fractures and ores flash burn into silvered steam as the C'tan Shard drags up tides of magma from deep below."/>
+	<entry name="SeismicAssaultCoalescentFlavor" value="Камень трэскаецца, а руды імгненна згараюць у серабрыстую пару, калі Аскепак К'тан выцягвае з глыбіняў хвалі магмы."/>
 	<entry name="SeismicAssaultTranscendent" value="Сейсьмічная Атака (Трансцэндэнтальная)"/>
 	<entry name="SeismicAssaultTranscendentFlavor" value="<string name='Weapons/SeismicAssaultCoalescentFlavor'/>"/>
 	<entry name="SensoryOverload" value="Сэнсарная Перагрузка"/>
 	<entry name="SensoryOverloadDescription" value="Наносіць шкоду і аслабляе варожую цэль."/>
-	<entry name="SensoryOverloadFlavor" value="Reaching out to overload the nerve centres of his foes, the psyker makes sure they are in a fit state to accept his deadly caress."/>
+	<entry name="SensoryOverloadFlavor" value="Псайкер сягае да нэрвовых цэнтраў ворагаў і перагружае іх, рыхтуючы ахвяраў да свайго сьмяротнага дотыку."/>
 	<entry name="SerpentShield" value="Зьмяіны Шчыт"/>
-	<entry name="SerpentShieldFlavor" value="When the Aeldari Wave Serpents advance, they do so behind powerful shields. These can be discharged to unleash a bow wave of raw force that blasts the enemy from their feet."/>
+	<entry name="SerpentShieldFlavor" value="Хвалевыя Зьмеі Аэльдары наступаюць пад прыкрыцьцём магутных шчытоў. Іх можна разрадзіць, выпусьціўшы перад сабой хвалю чыстай сілы, якая зьбівае ворагаў з ног."/>
 	<entry name="ServoArm" value="Сэрварука"/>
-	<entry name="ServoArmFlavor" value="Tech-Priest Enginseers and their Servitor minions often sport powerful servo-arms. These mechanised limbs can be turned with equal ease to complex battlefield repairs, or crushing the life from the foe. Though these weapons are slow to strike, once the blessed hydraulics of the servo-arm's claw have locked in and begun to squeeze, foes face a hideous and inexorable death."/>
+	<entry name="ServoArmFlavor" value="Тэхнажрацы-Машынабачцы і іхныя слугі-сэрвітары часта маюць магутныя сэрварукі. Гэтыя мэханізаваныя канечнасьці аднолькава лёгка выконваюць складаны рамонт на полі бою і выціскаюць жыцьцё з ворага. Хоць яны наносяць удары павольна, калі дабраславёная гідраўліка клюшні сэрварукі змыкаецца і пачынае сьціскаць, ворага чакае жахлівая і няўхільная сьмерць."/>
 	<entry name="ShadowWeaver" value="Ткач Ценяў"/>
 	<entry name="ShadowWeaverFlavor" value="<string name='Weapons/MonofilamentFlavor'/>"/>
 	<entry name="Shadowlimbs" value="Ценевыя Канцавіны"/>
-	<entry name="ShadowlimbsFlavor" value="To tackle an Umbra in combat is to face a ceaseless assault of distorted horrors drawn from the millions of years that the shadow-thing has persisted for, after whatever befell it in ancient times. Formed from the stuff of the Umbra itself, these nightmares aren’t just mere dreamstuff but tangible and lethal."/>
+	<entry name="ShadowlimbsFlavor" value="Сустрэцца з Умбрай у баі — значыць вытрымаць няспынны націск скажоных жахаў, назапашаных за мільёны гадоў існаваньня гэтай ценявой істоты пасьля таго, што здарылася зь ёю ў глыбокай старажытнасьці. Гэтыя кашмары ўтвораныя з самой сутнасьці Умбры і зусім ня проста мроі: яны адчувальныя і сьмертаносныя."/>
 	<entry name="SingingSpearMelee" value="Пявучая Дзіда (Блізкі Бой)"/>
-	<entry name="SingingSpearMeleeFlavor" value="When hurled by an Aeldari psyker, a singing spear can sunder both armour and flesh, and will always return to its wielder."/>
+	<entry name="SingingSpearMeleeFlavor" value="Кінутая псайкерам Аэльдары, пявучая дзіда можа пранізаць і браню, і плоць і заўсёды вяртаецца да свайго носьбіта."/>
 	<entry name="SingingSpearRanged" value="Пявучая Дзіда (Далёкі Бой)"/>
 	<entry name="SingingSpearRangedFlavor" value="<string name='Weapons/SingingSpearMeleeFlavor'/>"/>
 	<entry name="ShatterfieldMissile" value="Ракета · Аскепкавае Поле"/>
-	<entry name="ShatterfieldMissileFlavor" value="A shatterfield missile actually houses two separate detonator cores. On impact, the first of the cores sucks away all warmth, turning those caught within its blast into brittle statues. An instant later, the second core sends out a blast of percussive force that shatters its frozen victims into a thousand pieces."/>
+	<entry name="ShatterfieldMissileFlavor" value="Ракета «Аскепкавае Поле» насамрэч утрымлівае два асобныя падрыўныя ядры. Пры ўдары першае высмоктвае ўсё цяпло, ператвараючы ўсіх у радыюсе выбуху ў крохкія статуі. Праз імгненьне другое ядро выпускае ўдарную хвалю, якая разьбівае замарожаных ахвяраў на тысячы кавалкаў."/>
 	<entry name="Shockwave" value="Ударная Хваля"/>
-	<entry name="ShockwaveFlavor" value="The psyker slams his palms together and the noise is magnified a hundredfold, releasing a shockwave that snaps bones and knocks foes from their feet."/>
+	<entry name="ShockwaveFlavor" value="Псайкер з сілай пляскае ў далоні, і гук узмацняецца ў сто разоў, спараджаючы ўдарную хвалю, якая ламае косткі і зьбівае ворагаў з ног."/>
 	<entry name="Shoota" value="Штраляла"/>
 	<entry name="ShurikenCannon" value="Шурыкенавая Гармата"/>
 	<entry name="ShurikenCannonFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
@@ -662,33 +662,33 @@
 	<entry name="ShurikenPistol" value="Шурыкенавы Пісталет"/>
 	<entry name="ShurikenPistolFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
 	<entry name="Skorcha" value="Выпальвала"/>
-	<entry name="SkorchaFlavor" value="Beloved of Ork arsonists, the skorcha is a huge flamethrower that sprays a great gout of burning fuel over the target area. Skorchas are most commonly mounted to Ork vehicles, though some Meks have been known to build them into kombi-shootas as well."/>
+	<entry name="SkorchaFlavor" value="Улюбёная зброя орчых падпальнікаў, выпальвала — велізарны агнякід, які залівае абраны ўчастак магутным струменем палаючага паліва. Найчасьцей выпальвалы ўсталёўваюць на орчыя машыны, хоць некаторыя Мекі ўбудоўваюць іх і ў камбінаваныя штралялы."/>
 	<entry name="SkorchaMissile" value="Ракета-Выпальвала"/>
-	<entry name="SkorchaMissileFlavor" value="Skorcha missiles are 'fire and ferget' weapons used by Burna-bommer pilots to flush enemy infantry out of cover. Their warheads explode in sprays of chemical flame that burns white hot and makes a mockery of the mightiest fortifications."/>
+	<entry name="SkorchaMissileFlavor" value="Ракеты-выпальвалы — зброя паводле прынцыпу «штральнуў і забыў», якую пілёты Палілаў-Бамбілаў выкарыстоўваюць, каб выкурваць варожую пяхоту з хованак. Іхныя боегалоўкі выбухаюць пырскамі хімічнага полымя, што гарыць дабяла і робіць пасьмешышчам наймацнейшыя ўмацаваньні."/>
 	<entry name="SkyOfFallingStarsCoalescent" value="Неба Падаючых Зьнічак (Каалесцэнтнае)"/>
-	<entry name="SkyOfFallingStarsCoalescentFlavor" value="Savagely beautiful orbs of coruscating light plummet from the cold depths of space, growing to roaring bale-stars as they approach."/>
+	<entry name="SkyOfFallingStarsCoalescentFlavor" value="Дзіка прыгожыя шары зіхатлівага сьвятла падаюць з халодных глыбіняў космасу і, набліжаючыся, разрастаюцца ў равучыя згубныя зоркі."/>
 	<entry name="SkyOfFallingStarsTranscendent" value="Неба Падаючых Зьнічак (Трансцэндэнтальнае)"/>
 	<entry name="SkyOfFallingStarsTranscendentFlavor" value="<string name='Weapons/SkyOfFallingStarsCoalescentFlavor'/>"/>
 	<entry name="SkyhammerMissileLauncher" value="Ракетная Ўсталёўка - Нябесны Молат"/>
-	<entry name="SkyhammerMissileLauncherFlavor" value="These weapons fire volleys of missiles that smash into their targets with devastating force—perfect for turning armoured vehicles into scrap metal."/>
+	<entry name="SkyhammerMissileLauncherFlavor" value="Гэтая зброя выпускае залпы ракет, якія ўразаюцца ў цэлі з разбуральнай сілай, — выдатны сродак ператварэньня браняваных машынаў у мэталялом."/>
 	<entry name="SkyspearMissileLauncher" value="Ракетная Ўсталёўка - Нябесная Дзіда"/>
-	<entry name="SkyspearMissileLauncherFlavor" value="The skyspear missile launcher fires pre-blessed savant warheads, each a relic in its own right, housing the entombed remains of a distinguished Chapter serf. This servitor's mummified brain augments the missile's auto-targeters, allowing it to second-guess enemy pilots or home in on the heretical emissions of their debased machine spirits. Against the dogged pursuit of a savant warhead and its macabre pilot, there can be little chance of escape, while the tank's servo-loaders maintain a steady rate of fire."/>
+	<entry name="SkyspearMissileLauncherFlavor" value="Ракетная ўсталёўка «Нябесная Дзіда» выпускае загадзя дабраславёныя боегалоўкі-мудрацы. Кожная зь іх — самастойная рэліквія, у якой пахаваныя парэшткі заслужанага слугі ордэну. Муміфікаваны мозаг гэтага сэрвітара дапаўняе аўтаматычную сыстэму навядзеньня ракеты, дазваляючы прадбачыць дзеяньні варожых пілётаў ці наводзіцца на ерэтычнае выпраменьваньне іхных апаганеных духаў машынаў. Ад упартага перасьледу такой боегалоўкі і яе жудаснага пілёта амаль немагчыма ўцячы, а сэрвазараджальнікі танка падтрымліваюць роўны тэмп агню."/>
 	<entry name="SkystrikeMissile" value="Ракета - Нябесны Ўдар"/>
 	<entry name="SkystrikeMissileFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
 	<entry name="Slugga" value="Шпурляла"/>
-	<entry name="SluggaFlavor" value="This ugly and brutish handgun is perfectly designed for its ugly and brutish owner to kill his foes, either by shooting them through the face at point-blank range or by beating them to death with it."/>
+	<entry name="SluggaFlavor" value="Гэты пачварны і грубы пісталет выдатна пасуе свайму пачварнаму і грубаму ўладальніку: ён дазваляе забіваць ворагаў, страляючы ім ва ўпор у твар ці проста забіваючы іх самой зброяй."/>
 	<entry name="SmashaGun" value="Бейштрэл"/>
-	<entry name="SmashaGunFlavor" value="Based on Ork Traktor technology, the Smasha gun grabs its target, lifts them aloft and, as its name implies, smashes them against the ground. Repeatedly. This gives the Mek pilot great delight."/>
+	<entry name="SmashaGunFlavor" value="Заснаваны на орчай трактарнай тэхналёгіі, Бейштрэл хапае цэль, падымае ў паветра і, як падказвае назва, б'е аб зямлю. Шмат разоў. Меку-апэратару гэта прыносіць вялікую асалоду."/>
 	<entry name="Snazzgun" value="Шыкоўнаштрэл"/>
-	<entry name="SnazzgunFlavor" value="Snazzguns are marvels of Orky know-wotz. Their owners pour countless teef into having additional barrels, drum magazines, and all manner of widgets and gubbinz attached to their prized guns. The resultant weapons have been known to fire clouds of flaming bullets, blasts of plasma or volleys of rocket-propelled grenades."/>
+	<entry name="SnazzgunFlavor" value="Шыкоўнаштрэлы — цуды орчай тэхнічнай кемлівасьці. Іхныя ўладальнікі марнуюць незьлічоныя зубы, каб да ўлюбёных пушак прымацавалі дадатковыя ствалы, барабанныя крамы і ўсялякія прыбамбасы ды штуковіны. Вынікі могуць страляць воблакамі палаючых куляў, плязмавымі разрадамі ці залпамі рэактыўных гранатаў."/>
 	<entry name="SniperRifle" value="Снайперская Стрэльба"/>
-	<entry name="SniperRifleFlavor" value="Sniper rifles have powerful telescopic sights, enabling the firer to target weak points and distant foes with unerring accuracy. Some commanders see the sniper rifle as a dishonourable weapon, but they are in the minority. Most understand that pragmatism, and dead enemies, win more battles than honour ever will."/>
+	<entry name="SniperRifleFlavor" value="Снайперскія стрэльбы маюць магутныя аптычныя прыцэлы, якія дазваляюць стралку беспамылкова паражаць слабыя месцы і далёкіх ворагаў. Некаторыя камандзіры лічаць такую зброю бясчэснай, але яны ў меншасьці. Большасьць разумее: практычны падыход і мёртвыя ворагі выйграюць больш бітваў, чым гонар калі-небудзь зможа."/>
 	<entry name="SonicBlaster" value="Гукавы Бластар"/>
-	<entry name="SonicBlasterFlavor" value="As a Noise Marine riffs on his Sonic Blaster, wave upon wave of devastating harmonics fly from the instrument, tearing his target apart with extreme sound and sending their soul straight to the Prince of Pleasure."/>
+	<entry name="SonicBlasterFlavor" value="Калі Шумавы Марын грае рыфы на сваім гукавым бластары, з інструмэнту вылятае хваля за хваляй разбуральных гармонікаў. Неверагодны гук разрывае цэль на часткі і пасылае яе душу проста да Прынца Ўцех."/>
 	<entry name="SoulBlaze" value="Падпальнік Душ"/>
-	<entry name="SoulBlazeFlavor" value="Some psychically-imbued weapons set the very soul ablaze, consuming the unfortunate victim in clouds of ethereal fire."/>
+	<entry name="SoulBlazeFlavor" value="Некаторая зброя, насычаная псіхічнай сілай, падпальвае саму душу і паглынае няшчасную ахвяру ў воблаках прывіднага агню."/>
 	<entry name="SoulburnerCannon" value="Гармата - Падпальнік Душ"/>
-	<entry name="SoulburnerCannonFlavor" value="An infernal cannon that draws its ammunition direct from the warp—from the boiling blood that pools beneath Khorne’s brass throne deep in the Realms of Chaos, so tormented that it thirsts for the souls of the living."/>
+	<entry name="SoulburnerCannonFlavor" value="Пякельная гармата, якая чэрпае боепрыпасы проста з Варпу — з кіпячай крыві, што зьбіраецца пад латуневым тронам Кхорна ў глыбіні Царстваў Хаосу. Гэтая кроў так зьнявечаная пакутамі, што прагне душаў жывых."/>
 	<entry name="SoulflayerTendrils" value="Шчупальцы Паглынальніка Душ"/>
 	<entry name="SoulflayerTendrilsFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
 	<entry name="SoulShelling" value="<string name='Actions/Drukhari/SoulShelling'/>"/>
@@ -696,11 +696,11 @@
 	<entry name="SpaceMarineShotgun" value="Драбавік Касьмічнага Марына"/>
 	<entry name="SpaceMarineShotgunFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="KustomShoota" value="Улушаная Штраляла"/>
-	<entry name="KustomShootaFlavor" value="Though Kommandos are sneaky for Orks, that doesn’t mean that they’re not Orks. Their loadouts reflect that, dispensing with the precision fire of more professional scouts in favour of multi-barreled kustom shootas that throw out a barrage of dakka."/>
+	<entry name="KustomShootaFlavor" value="Хоць Камандосы і хітрыя як для Оркаў, яны ўсё адно застаюцца Оркамі. Гэта відаць па іхным узбраеньні: замест дакладнага агню больш прафэсійных выведнікаў яны выбіраюць шматствольныя ўлушаныя штралялы, якія вывяргаюць шквал даккі."/>
 	<entry name="SpineBanks" value="Мяхі Сьпінных Шыпоў"/>
-	<entry name="SpineBanksFlavor" value="The explosive spine banks imbedded in the carapaces of some Carnifexes can also be fired at the foe as the Tyranid charges."/>
+	<entry name="SpineBanksFlavor" value="Мяхі выбуховых сьпінных шыпоў, убудаваныя ў панцыры некаторых Карніфэксаў, таксама могуць абстрэльваць ворага падчас кідка Тыраніда ў атаку."/>
 	<entry name="SpiritSyphon" value="Сіфон Душ"/>
-	<entry name="SpiritSyphonFlavor" value="The Cronos Parasite Engine can cast out a field of baleful energy that allows it to feed upon those nearby."/>
+	<entry name="SpiritSyphonFlavor" value="Паразытычная машына Кронас можа выпускаць поле згубнай энэргіі, якое дазваляе ёй сілкавацца тымі, хто побач."/>
 	<entry name="SplinterCannon" value="Аскепкавая Гармата"/>
 	<entry name="SplinterCannonFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
 	<entry name="SplinterPods" value="Аскепкавыя Капсулы"/>
@@ -708,23 +708,23 @@
 	<entry name="SplinterRifle" value="Аскепкавая Стрэльба"/>
 	<entry name="SplinterRifleFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
 	<entry name="SporeMineCysts" value="Споравыя Мінныя Цысты"/>
-	<entry name="SporeMineCystsFlavor" value="These drifting horrors possess a rudimentary intelligence, but their intellect is not their threat. Instead, their fragile forms are packed with poisons, toxins, viruses and corrosive chemicals. When their delicate feelers detect an enemy, the entire cluster of mines will explode, scattering their lethal contents across a wide area."/>
+	<entry name="SporeMineCystsFlavor" value="Гэтыя луналыя жахі валодаюць зародкавым розумам, але небясьпека крыецца не ў ім. Іхныя крохкія целы поўныя атрутаў, таксынаў, вірусаў і едкіх хімікатаў. Калі пяшчотныя шчупальцы адчуваюць ворага, уся група мінаў выбухае, раскідваючы сьмертаноснае начыньне па вялікай плошчы."/>
 	<entry name="SporeMineLauncher" value="Пускавая Ўсталёўка Споравых Мін"/>
 	<entry name="SporeMineLauncherFlavor" value="<string name='Weapons/SporeMineCystsFlavor'/>"/>
 	<entry name="SquighogJaws" value="Сківіца Сквігавяпрука"/>
-	<entry name="SquighogJawsFlavor" value="As if Squighog’s mighty jaws weren’t strong enough, many Beast Snagga boyz have their steed’s jaw augmented by the local Dok or Mek, resulting in a bite that’s easily as strong as an Ogryn. And a Squighog that’s twice as angry."/>
+	<entry name="SquighogJawsFlavor" value="Нібы магутныя сківіцы Сквігавяпрука недастаткова моцныя, многія Хлопцы — Зьвяры Снагі просяць мясцовага Дока ці Мека ўзмацніць іх у сваёй ездавой істоты. У выніку яе ўкус робіцца ня слабейшы за Огрына. А сам Сквігавяпрук — удвая злейшы."/>
 	<entry name="StaffOfLight" value="Посах Сьвятла"/>
-	<entry name="StaffOfLightFlavor" value="The staff of light is both a weapon and a symbol of authority. Its haft is actually a disguised power generator rod, and the crest a finely tuned focussing device, allowing the wielder to unleash crackling bolts of energy at his foes."/>
+	<entry name="StaffOfLightFlavor" value="Посах сьвятла — і зброя, і сымбаль улады. Ягонае дрэўка насамрэч хавае стрыжань энэргагенэратара, а наверша — тонка наладжаную факусавальную прыладу, якая дазваляе носьбіту выпускаць у ворагаў патрэсклівыя разрады энэргіі."/>
 	<entry name="Starcannon" value="Зорная Гармата"/>
-	<entry name="StarcannonFlavor" value="It is a testament to the idiocy of Man that he creates plasma weapons that frequently maim or kill the wielder. Starcannons and suncannons have no such flaw, their plasma cores producing the heat of a star while the guns remain cool to the touch."/>
+	<entry name="StarcannonFlavor" value="Тое, што Чалавек стварае плязмавую зброю, якая часта калечыць ці забівае носьбіта, сьведчыць пра ягоную дурасьць. Зорныя і сонечныя гарматы ня маюць такога недахопу: іхныя плязмавыя ядры выпрацоўваюць зорны жар, а самі гарматы застаюцца халоднымі навобмацак."/>
 	<entry name="StingerPistol" value="Джалавы Пісталет"/>
-	<entry name="StingerPistolFlavor" value="A stinger pistol is a lightweight sidearm characterised by a long syringe-like barrel and a venom magazine that holds searingly effective toxins. When fired, it ejects a long sliver of hollow glass that can pierce a foe’s skin and introduce the toxins straight into his bloodstream, with invariably horrific results."/>
+	<entry name="StingerPistolFlavor" value="Джалавы пісталет — лёгкая асабістая зброя з доўгім, падобным да шпрыца ствалом і атрутнай крамай, якая ўтрымлівае надзвычай дзейсныя таксыны. Ён выпускае доўгую полую шкляную іголку, здольную прабіць скуру ворага і ўвесьці таксыны проста ў кроў — зь нязьменна жахлівымі вынікамі."/>
 	<entry name="StingerPod" value="Стынгер-Капсулы"/>
-	<entry name="StingerPodFlavor" value="Talos Pain Engines are often armed with sinister weapons that fire great pulses of raw agony. The victims of these weapons often break their own bones or rupture their own organs with the force of their agonised convulsions, while survivors are left catatonic with pain, unable to defend themselves against the Talos’ bloody ministrations."/>
+	<entry name="StingerPodFlavor" value="Машыны болю Талосы часта ўзброеныя злавеснымі прыладамі, якія выпускаюць магутныя імпульсы чыстай пакуты. Ахвяры гэтай зброі нярэдка ламаюць уласныя косткі ці разрываюць органы сілай балючых сутаргаў. Ацалелыя застываюць у кататоніі ад болю і ня здольныя абараняцца ад крывавых працэдураў Талоса."/>
 	<entry name="StingerSalvo" value="Джаластрэл"/>
-	<entry name="StingerSalvoFlavor" value="Stinger salvoes are simple but effective weapons that fire rows of metre-long, razor-sharp spikes."/>
+	<entry name="StingerSalvoFlavor" value="Джаластрэлы — простая, але эфэктыўная зброя, якая выпускае шэрагі мэтровых шыпоў, вострых, як брытва."/>
 	<entry name="StikkaMelee" value="Паалка (Блізкі Бой)"/>
-	<entry name="StikkaMeleeFlavor" value="A large, crude harpoon used by the Squighog Boyz of the Beast Snagga Ork subculture. Given the culture’s focus on hunting, these are often upgraded with chains to pull down larger prey or rocket boosters to increase their range and penetration."/>
+	<entry name="StikkaMeleeFlavor" value="Вялікі грубы гарпун, якім карыстаюцца Хлопцы-Сквігавяпрукі з орчай субкультуры Зьвяроў Снагаў. Паколькі гэтая культура засяроджаная на паляваньні, гарпуны часта абсталёўваюць ланцугамі, каб валіць буйнейшую здабычу, ці ракетнымі паскаральнікамі, каб павялічыць далёкасьць і прабівальную здольнасьць."/>
 	<entry name="StikkaRanged" value="Паалка (Далёкі Бой)"/>
 	<entry name="StikkaRangedFlavor" value="<string name='Weapons/StikkaMeleeFlavor'/>"/>
 	<entry name="Stikkbomb" value="Ліпкая Выбухала"/>
@@ -733,41 +733,41 @@
 	<entry name="StormBolter" value="Штармавы Болтар"/>
 	<entry name="StormBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	<entry name="StormfuryMissiles" value="Ракеты · Штармавая Лютасьць"/>
-	<entry name="StormfuryMissilesFlavor" value="These heavy anti-armour missiles are carried on a Thunderstrike’s control surfaces. These add to the Thunderstrike’s powerful anti-armour arsenal without drawing on the Storm Speeder’s already overloaded power systems."/>
+	<entry name="StormfuryMissilesFlavor" value="Гэтыя цяжкія супрацьбранявыя ракеты замацаваныя на рулявых паверхнях Грамавога Ўдару. Яны дапаўняюць ягоны магутны супрацьбранявы арсэнал, не нагружаючы і без таго перагружаныя энэргетычныя сыстэмы Штармавога Хуткара."/>
 	<entry name="StormstrikeMissile" value="Ракета - Штармавы Ўдар"/>
-	<entry name="StormstrikeMissileFlavor" value="Stormstrike missiles detonate with a thunderous boom that leaves those caught in the blast radius reeling and disoriented."/>
+	<entry name="StormstrikeMissileFlavor" value="Ракеты «Штармавы Ўдар» выбухаюць з аглушальным грукатам, ад якога ўсе ў радыюсе выбуху хістаюцца і губляюць арыентацыю."/>
 	<entry name="StranglethornCannon" value="Гармата - Задушлівы Шып"/>
-	<entry name="StranglethornCannonFlavor" value="These weapons fire seed pods that grow to maturity in seconds, spreading out hooked tendrils in all directions."/>
+	<entry name="StranglethornCannonFlavor" value="Гэтая зброя выпускае насенныя каробачкі, якія вырастаюць за лічаныя сэкунды, распускаючы ва ўсе бакі кручкаватыя шчупальцы."/>
 	<entry name="SulphurBreath" value="Серны Подых"/>
 	<entry name="SulphurBreathFlavor" value="<string name='Weapons/FlamerFlavor'/>"/>
 	<entry name="Suncannon" value="Сонечная Гармата"/>
 	<entry name="SuncannonFlavor" value="<string name='Weapons/StarcannonFlavor'/>"/>
 	<entry name="SupaLobba" value="Супір Кідала"/>
-	<entry name="SupaLobbaFlavor" value="Most Lobbas are large, noisy mortars that are typically mounted onto battlewagons."/>
+	<entry name="SupaLobbaFlavor" value="Большасьць кідалаў — вялікія шумныя мінамёты, якія звычайна ўсталёўваюць на Ваявыя Фуры."/>
 	<entry name="SupremacyRailgun" value="Рэйкавая Пушка Перавага"/>
 	<entry name="SupremacyRailgunFlavor" value="<string name='Weapons/RailFlavor'/>"/>
 	<entry name="SuperHeavyExplosion" value="Звышцяжкі Выбух"/>
 	<entry name="SynapticDisintegrator" value="Сінаптычны Дэзынтэгратар"/>
-	<entry name="SynapticDisintegratorFlavor" value="This rifle fires a compressed leptonic beam that destroys synaptic tissue. Beginning within the target’s brain and spreading in microseconds throughout their entire body, molecules unbond with one another, causing the luckless target to crumple limply to the ground like a puppet with its strings severed."/>
+	<entry name="SynapticDisintegratorFlavor" value="Гэтая стрэльба выпускае сьціснуты лептонны прамень, які зьнішчае сінаптычную тканку. Пачынаючы з мозгу цэлі і за мікрасэкунды ахопліваючы ўсё цела, малекулы губляюць сувязі адна з адной. Няшчасная ахвяра бясьсільна падае на зямлю, нібы лялька з абрэзанымі ніткамі."/>
 	<entry name="SynapticObliterator" value="Сінаптычны Аблітэратар"/>
-	<entry name="SynapticObliteratorFlavor" value="A particularly horribly Necron design, the Synaptic Obliterator uses a concentrated burst of sub-atomic particles to separate the molecular bonds of any target, tearing them apart in a radioactive blast."/>
+	<entry name="SynapticObliteratorFlavor" value="Асабліва жахлівае тварэньне Некронаў, сінаптычны аблітэратар засяроджаным імпульсам субатамных часьцінак разрывае малекулярныя сувязі любой цэлі і разьдзірае яе ў радыеактыўным выбуху."/>
 	<entry name="TacticalSupportTurret" value="Тактычная Турэль Падтрымкі DS8"/>
-	<entry name="TacticalSupportTurretFlavor" value="Carried in racks along the flanks of Orca Dropships, tactical support turrets are automated defence batteries that provide support for Fire Warrior Strike Teams. These armoured turrets plummet into battle and deploy as fixed positions to add their firepower to the fight. Each turret is programmed to self-destruct should its sensors register the possibility of capture or tampering. This feature means that the T'au's superior weaponry can never be turned upon them by their enemies."/>
+	<entry name="TacticalSupportTurretFlavor" value="Тактычныя турэлі падтрымкі перавозяць на падвесках уздоўж бартоў дэсантных караблёў «Касатка». Гэта аўтаматызаваныя абарончыя батарэі, якія падтрымліваюць ударныя атрады Ваяроў Агню. Браняваныя турэлі падаюць проста ў бой і разгортваюцца ў стацыянарныя пазыцыі, дадаючы сваю агнявую моц. Кожная турэль запраграмаваная на самазьнішчэньне, калі датчыкі выявяць магчымасьць захопу ці староньняга ўмяшаньня. Дзякуючы гэтаму ворагі ніколі ня змогуць павярнуць перадавую зброю Т'аў супраць іх саміх."/>
 	<entry name="TankbustaBomb" value="Выбухала-Танкабой"/>
 	<entry name="TankbustaBombDescription" value="<string name='Weapons/MeltaBombDescription'/>"/>
-	<entry name="TankbustaBombFlavor" value="Tankbusta bombs are fusion charges designed to burn through an armoured hull in a matter of seconds."/>
+	<entry name="TankbustaBombFlavor" value="Выбухалы-танкабоі — фузіённыя зарады, прызначаныя прапальваць браняваны корпус за лічаныя сэкунды."/>
 	<entry name="TaserGoad" value="Электрашокер Стымул"/>
 	<entry name="TaserGoadFlavor" value="<string name='Weapons/TaserFlavor'/>"/>
 	<entry name="TaserLance" value="Электрашокер Дзіда"/>
 	<entry name="TaserLanceFlavor" value="<string name='Weapons/TaserFlavor'/>"/>
 	<entry name="Tentaclids" value="Тэнтакліды"/>
-	<entry name="TentaclidsFlavor" value="These living missiles seek out aerial prey, latching onto their targets with barbed fangs before emitting a massive bio-electrical pulse."/>
+	<entry name="TentaclidsFlavor" value="Гэтыя жывыя ракеты шукаюць паветраную здабычу, упіваюцца ў цэлі зазубранымі ікламі, а затым выпускаюць магутны біяэлектрычны імпульс."/>
 	<entry name="TeslaCarbine" value="Тэсла-Карабін"/>
 	<entry name="TeslaCarbineFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
 	<entry name="TeslaSphere" value="Тэсла-Сьфера"/>
 	<entry name="TeslaSphereFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
 	<entry name="TheArdentBladeMelee" value="Лязо Лютасьці (Блізкі Бой)"/>
-	<entry name="TheArdentBladeMeleeFlavor" value="This flame-wreathed blade is said to be the Emperor’s wrath made manifest. Saint Celestine retrieved it and her golden power armour from the long-lost Shrine of Saint Katherine on the Shrine World of Sanctus Lys during the Palatine Crusade."/>
+	<entry name="TheArdentBladeMeleeFlavor" value="Кажуць, гэты ахутаны полымем клінок — увасоблены гнеў Імператара. Падчас Палятынскага Крыжовага Паходу Сьвятая Сэлесьціна здабыла яго разам са сваёй залатой сілавой бранёй у даўно страчанай сьвятыні Сьвятой Кацярыны на сьвеце-сьвятыні Санктус Ліс."/>
 	<entry name="TheArdentBladeRanged" value="Лязо Лютасьці (Далёкі Бой)"/>
 	<entry name="TheArdentBladeRangedFlavor" value="<string name='Weapons/TheArdentBladeMeleeFlavor'/>"/>
 	<entry name="TheEmperorsVengeance" value="<string name='Actions/SistersOfBattle/TheEmperorsVengeance'/>"/>
@@ -775,31 +775,31 @@
 	<entry name="ThresherScythe" value="Каса Малацьбіта"/>
 	<entry name="ThresherScytheFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
 	<entry name="ThunderHammer" value="Грамавы Молат"/>
-	<entry name="ThunderHammerFlavor" value="Thunder hammers release a tremendous blast of energy when they strike, slamming the foe to the ground and leaving him stunned (if he survives at all). This, combined with the crushing weight of the hammer itself, makes for an incredibly deadly weapon."/>
+	<entry name="ThunderHammerFlavor" value="Пры ўдары грамавы молат вызваляе велізарны выбух энэргіі, які шпурляе ворага на зямлю і аглушае яго — калі той увогуле выжыве. Разам з разьдушвальнай вагой самога молата гэта робіць яго неверагодна сьмертаноснай зброяй."/>
 	<entry name="ThunderhawkCannon" value="Гармата · Грамавы Каршак"/>
-	<entry name="ThunderhawkCannonFlavor" value="The Thunderhawk mostly relies on proven technology to get its Adeptus Astartes payload to their landing point. Its weaponry is similarly robust. Heavy Bolters, Lascannons… and a very large Heavy Cannon. These provide covering fire capable of dealing with any threat."/>
+	<entry name="ThunderhawkCannonFlavor" value="Грамавы Каршак пераважна спадзяецца на правераныя тэхналёгіі, каб даставіць свой дэсант Адэптус Астартэс да месца высадкі. Ягонае ўзбраеньне гэтак жа надзейнае: цяжкія болтары, лазгарматы… і вельмі вялікая цяжкая гармата. Яны забясьпечваюць агнявое прыкрыцьцё, здольнае даць рады любой пагрозе."/>
 	<entry name="ThunderfireCannon" value="Гармата Грымотнага Агню"/>
-	<entry name="ThunderfireCannonFlavor" value="The thunderfire cannon is a colossal multibarrelled artillery weapon. It is far too large to be carried by an individual and so is conveyed into battle on a set of tracks and accompanied by a Techmarine gunner."/>
+	<entry name="ThunderfireCannonFlavor" value="Гармата Грымотнага Агню — калясальная шматствольная артылерыйская зброя. Яна завялікая для аднаго чалавека, таму ў бой яе дастаўляюць на гусеніцах у суправаджэньні стралка-Тэхнамарына."/>
 	<entry name="ThunderstrikeLasTalon" value="Лазкіпцюр · Грамавы Ўдар"/>
-	<entry name="ThunderstrikeLasTalonFlavor" value="A specialised type of anti-armour weapon used primarily by the Primaris Space Marines, the Las Talon is much lighter than an equivalent Lascannon. This does reduce its raw punch and its range, but not its armour penetration or the damage inflicted, making it perfect for lighter vehicles like the Storm Speeder."/>
+	<entry name="ThunderstrikeLasTalonFlavor" value="Лазкіпцюр — адмысловая супрацьбранявая зброя, якую пераважна выкарыстоўваюць Касьмічныя Марыны Прымарыс. Ён значна лягчэйшы за адпаведную лазгармату. Гэта зьніжае ягоны непасрэдны ўдарны імпульс і далёкасьць, але не бронепрабівальнасьць і пашкоджаньні, таму ён выдатна пасуе лёгкім машынам, такім як Штармавы Хуткар."/>
 	<entry name="TormentGrenadeLaunchers" value="Катавальныя Гранатакіды"/>
-	<entry name="TormentGrenadeLaunchersFlavor" value="Some Drukhari skimmers incorporate hull-mounted launchers that send barbed grenades spinning into the ranks of the foe. Each grenade spews out an ochre cloud of phantasm gas that causes abject terror in the minds of those nearby."/>
+	<entry name="TormentGrenadeLaunchersFlavor" value="Некаторыя луналыя машыны Друкхары маюць убудаваныя ў корпус гранатакіды, якія пасылаюць у варожыя шэрагі калючыя гранаты, што круцяцца ў палёце. Кожная граната вывяргае вохрыстае воблака газу фантазмаў, які выклікае невыносны жах у розумах усіх побач."/>
 	<entry name="ToxicMiasma" value="Таксічныя Міязмы"/>
-	<entry name="ToxicMiasmaFlavor" value="Some creatures emit toxins to poison a prey world's atmosphere."/>
+	<entry name="ToxicMiasmaFlavor" value="Некаторыя істоты вылучаюць таксыны, каб атручваць атмасфэру сьвету-здабычы."/>
 	<entry name="Toxinspike" value="Таксічны Шып"/>
 	<entry name="ToxinspikeFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
 	<entry name="TraktorKannon" value="Трактарная Грымата"/>
-	<entry name="TraktorKannonFlavor" value="The traktor kannon fires a thrumming beam of force high into the air. The grot crew swing this beam about wildly until they manage to latch the humming column onto an airborne target. Once snagged, their hapless victim is wrenched out of the air and smashed to bits on the ground below."/>
+	<entry name="TraktorKannonFlavor" value="Трактарная грымата выпускае гудлівы сілавы прамень высока ў паветра. Разьлік гротаў шалёна водзіць ім навокал, пакуль ня здолее зачапіць гудлівым слупом паветраную цэль. Тады няшчасную ахвяру вырывае зь неба і разьбівае на кавалкі аб зямлю."/>
 	<entry name="TransdimensionalProjector" value="Транспрасторавы Праектар"/>
-	<entry name="TransdimensionalProjectorFlavor" value="Whatever impossible energies there are contained in this ancient device are far beyond the key of Imperial Science. Suffice to say, rather than attempting to attack their target, they shift any target matter into a pocket dimension, dooming them utterly."/>
+	<entry name="TransdimensionalProjectorFlavor" value="Якія б немагчымыя энэргіі ні хаваліся ў гэтай старажытнай прыладзе, яны далёка за межамі разуменьня імперскай навукі. Дастаткова сказаць, што замест звычайнай атакі праектар пераносіць усю матэрыю цэлі ў кішэннае вымярэньне, выракаючы яе на поўную пагібель."/>
 	<entry name="TransdimensionalThunderboltCoalescent" value="Транспрасторавы Ўдар Маланкі (Каалесцэнтны)"/>
-	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="The C'tan Shard projects a crackling bolt of energy from its outstretched palm, blasting its foe into oblivion."/>
+	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="Аскепак К'тан выпускае з працягнутай далоні патрэсклівы разрад энэргіі, які сьцірае ворага ў нябыт."/>
 	<entry name="TransdimensionalThunderboltTranscendent" value="Транспрасторавы Ўдар Маланкі (Трансцэндэнтальны)"/>
 	<entry name="TransdimensionalThunderboltTranscendentFlavor" value="<string name='Weapons/TransdimensionalThunderboltCoalescentFlavor'/>"/>
 	<entry name="TransonicBlade" value="Трансгукавы Клінок"/>
-	<entry name="TransonicBladeFlavor" value="Transonic blades emit a low, insistent buzz that makes stomachs turn and eyes vibrate in their sockets. When they strike armour, these weapons will adjust their hostile sonic field to match its resonant frequency, slicing through it as though it wasn’t there."/>
+	<entry name="TransonicBladeFlavor" value="Трансгукавыя клінкі выдаюць нізкае настойлівае гудзеньне, ад якога круціць жывот і дрыжаць вочы ў вачніцах. Сутыкнуўшыся з бранёй, гэтая зброя падладжвае сваё варожае гукавое поле пад яе рэзанансную частату і праразае яе, нібы тае зусім няма."/>
 	<entry name="TransuranicArquebus" value="Трансуранавая Аркебуза"/>
-	<entry name="TransuranicArquebusFlavor" value="The precision and inhuman efficiency that typify the Skitarii Legions are epitomised by these long-barrelled heavy weapons. Firing a shell of depleted transuranium, the arquebus can puncture a tank from one side to the other, the resultant pressure wave also pulping any biological creatures that may be sheltering inside."/>
+	<entry name="TransuranicArquebusFlavor" value="Дакладнасьць і нечалавечая эфэктыўнасьць легіёнаў Скітарыяў знаходзяць найлепшае ўвасабленьне ў гэтай даўгаствольнай цяжкай зброі. Страляючы снарадам са зьбедненага трансураніуму, аркебуза можа прабіць танк наскрозь, а ўзьніклая хваля ціску ператварае ў кашу ўсіх біялягічных істотаў, якія хаваюцца ўнутры."/>
 	<entry name="TwinBoltRifle" value="Здвоеная Болт-Стрэльба"/>
 	<entry name="TwinBoltRifleFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	<entry name="TwinIcarusRocketPod" value="Здвоеная Ракетная Капсула · Ікарус"/>
@@ -807,7 +807,7 @@
 	<entry name="TwinIcarusIronhailHeavyStubber" value="Здвоены Цяжкі Стабер · Ікарус · Жалезны Град"/>
 	<entry name="TwinIcarusIronhailHeavyStubberFlavor" value="<string name='Weapons/StubFlavor'/>"/>
 	<entry name="TwinLinkedAirburstingFragmentationProjector" value="Супрацьпаветраны Здвоены Фрагментацыйны Праэктар"/>
-	<entry name="TwinLinkedAirburstingFragmentationProjectorFlavor" value="This experimental weapon scatters fragmentation bomblets over a wide area, at a height calculated by simple AI within each warhead to cause optimum damage."/>
+	<entry name="TwinLinkedAirburstingFragmentationProjectorFlavor" value="Гэтая экспэрымэнтальная зброя раскідвае аскепкавыя бомбачкі па вялікай плошчы. Просты штучны інтэлект у кожнай боегалоўцы разьлічвае вышыню падрыву так, каб нанесьці найбольшыя пашкоджаньні."/>
 	<entry name="TwinLinkedAutocannon" value="Здвоеная Аўтагармата"/>
 	<entry name="TwinLinkedAutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
 	<entry name="TwinLinkedAssaultCannon" value="Здвоеная Штурмавая Гармата"/>
@@ -825,7 +825,7 @@
 	<entry name="TwinLinkedCognisLascannon" value="Здвоеная Когніс Лазгармата"/>
 	<entry name="TwinLinkedCognisLascannonFlavor" value="<string name='Weapons/CognisFlavor'/>"/>
 	<entry name="TwinLinkedDakkagun" value="Здвоеная Дакка Пушка"/>
-	<entry name="TwinLinkedDakkagunFlavor" value="Dakkaguns are large, hopper-fed machine guns that spew crude bullets in sawing arcs."/>
+	<entry name="TwinLinkedDakkagunFlavor" value="Дакка-пушкі — вялікія кулямёты з бункернай падачай, якія вывяргаюць грубыя кулі шырокімі сякучымі дугамі."/>
 	<entry name="TwinLinkedFusionBlaster" value="Здвоены Фузіённы Бластар"/>
 	<entry name="TwinLinkedFusionBlasterFlavor" value="<string name='Weapons/FusionFlavor'/>"/>
 	<entry name="TwinLinkedGaussBlaster" value="Здвоены Гаўс-Бластар"/>
@@ -841,7 +841,7 @@
 	<entry name="TwinLinkedHeavyVenomCannon" value="Цяжкая Атрутная Гармата"/>
 	<entry name="TwinLinkedHeavyVenomCannonFlavor" value="<string name='Weapons/HeavyVenomCannonFlavor'/>"/>
 	<entry name="TwinLinkedHydraAutocannon" value="Здвоеная Аўтагармата Гідра"/>
-	<entry name="TwinLinkedHydraAutocannonFlavor" value="Essentially a long-barrelled, outsized autocannon on an anti-aircraft mount, the Hydra autocannon is guided by its predictive logic spirit to fill the skies with sawing lines of deadly fire."/>
+	<entry name="TwinLinkedHydraAutocannonFlavor" value="Аўтагармата «Гідра» — фактычна павялічаная даўгаствольная аўтагармата на зэнітным станку. Яе прадказальны лягічны дух кіруе агнём, напаўняючы неба сякучымі лініямі сьмертаносных стрэлаў."/>
 	<entry name="TwinLinkedIcarusAutocannon" value="Здвоеная Аўтагармата Ікарус"/>
 	<entry name="TwinLinkedIcarusAutocannonFlavor" value="<string name='Weapons/IcarusArrayFlavor'/>"/>
 	<entry name="TwinLinkedIonCannonOvercharged" value="Здвоеная Іённая Гармата (Перагружаная)"/>
@@ -873,7 +873,7 @@
 	<entry name="TwinLinkedShurikenCatapult" value="Здвоеная Шурыкенавая Катапульта"/>
 	<entry name="TwinLinkedShurikenCatapultFlavor" value="<string name='Weapons/ShurikenFlavor'/>"/>
 	<entry name="TwinLinkedSmartMissileSystem" value="Здвоеная Разумная Ракетная Сістэма"/>
-	<entry name="TwinLinkedSmartMissileSystemFlavor" value="A smart missile system fires self-guiding missiles with drone intelligence, which can find targets even hiding behind terrain."/>
+	<entry name="TwinLinkedSmartMissileSystemFlavor" value="Разумная ракетная сыстэма выпускае саманаводныя ракеты з інтэлектам дронаў, якія знаходзяць нават цэлі, схаваныя за рэльефам мясцовасьці."/>
 	<entry name="TwinLinkedSplinterRifle" value="Здвоеная Аскепкавая Стрэльба"/>
 	<entry name="TwinLinkedSplinterRifleFlavor" value="<string name='Weapons/SplinterFlavor'/>"/>
 	<entry name="TwinLinkedStormBolter" value="Здвоены Штармавы Болтар"/>
@@ -883,49 +883,49 @@
 	<entry name="TwinLinkedTeslaDestructor" value="Здвоены Тэсла-Дэструктар"/>
 	<entry name="TwinLinkedTeslaDestructorFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
 	<entry name="TwinLinkedWazbomMegaKannon" value="Здвоеная Вазбум Мега Грымата"/>
-	<entry name="TwinLinkedWazbomMegaKannonFlavor" value="Only the best for the crazed Mek piloting the Wazbom Blastajet. Save his finest MegaKannons for the Boss or a Stompa? Nah. Stick two of them on the ‘wings’ of his aircraft and take off before anyone has a chance to argue…"/>
+	<entry name="TwinLinkedWazbomMegaKannonFlavor" value="Толькі найлепшае для вар'ята Мека, які пілятуе Рэактыўную Вазбум Выбухалу. Пакінуць найлепшыя мегагрыматы Босу ці Таптале? Не-а. Прычапіць дзьве да «крылаў» уласнага самалёта і ўзьляцець, пакуль ніхто не пасьпеў запярэчыць…"/>
 	<entry name="TwinPowerFists" value="Здвоеныя Сілавыя Кулакі"/>
 	<entry name="TwinPowerFistsFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
 	<entry name="TyranidCity" value="<string name='Traits/Tyranids/CityDamage'/>"/>
 	<entry name="TyranidCityFlavor" value="<string name='Traits/Tyranids/CityDamageFlavor'/>"/>
 	<entry name="UrtySyringe" value="Боля-Шпрыц"/>
-	<entry name="UrtySyringeFlavor" value="The congealed sludge that Painboyz inject as a clotting agent has fatal effects upon non-orkoid physiology. Arteries clog with fungal growth, lungs become spore-bloated puffballs, and the victim quickly collapses with porridgey froth bubbling from every orifice."/>
+	<entry name="UrtySyringeFlavor" value="Загусьцелая жыжа, якую Боляхлопцы ўпырскваюць для згортваньня крыві, сьмяротная для неорчых арганізмаў. Артэрыі забіваюцца грыбнымі нарастамі, лёгкія робяцца разадзьмутымі ад спораў дажджавікамі, і ахвяра хутка падае, пускаючы густую пену з кожнай адтуліны."/>
 	<entry name="Voidblade" value="Пустэчны Клінок"/>
-	<entry name="VoidbladeFlavor" value="The gleaming black edge of a voidblade flickers in and out of existence, causing the molecular bonds of any material it comes into contact with to instantaneously disintegrate."/>
+	<entry name="VoidbladeFlavor" value="Бліскучы чорны край пустэчнага клінка то ўзьнікае, то зьнікае з рэальнасьці, імгненна разбураючы малекулярныя сувязі любога матэрыялу, якога кранаецца."/>
 	<entry name="VoidLance" value="Пустэчная Дзіда"/>
-	<entry name="VoidLanceFlavor" value="The void lance fires pulses of highly destructive eldritch energy harvested from beyond the shattered spars of the webway."/>
+	<entry name="VoidLanceFlavor" value="Пустэчная дзіда выпускае імпульсы надзвычай разбуральнай звышнатуральнай энэргіі, здабытай за разьбітымі апорамі Шляху Павуціньня."/>
 	<entry name="VoidMine" value="Пустэчная Міна"/>
-	<entry name="VoidMineFlavor" value="This bizarre bomb detonates two warheads, one a split second before the other. The first merely establishes a sphere of force that protects everything outside and condemns everything within. The second contains a particle of purest darklight, released from its containment field by the primary detonation. The effects of introducing even a tiny amount of darklight into realspace are catastrophic. As it is, anything trapped inside the crackling sphere is annihilated utterly, and in total silence."/>
+	<entry name="VoidMineFlavor" value="Гэтая дзіўная бомба падрывае дзьве боегалоўкі зь інтэрвалам у долю сэкунды. Першая толькі стварае сілавую сфэру, якая бароніць усё звонку і выракае ўсё ўнутры. Другая ўтрымлівае часьцінку найчысьцейшага цёмнасьвятла, якую першы выбух вызваляе са стрымальнага поля. Увядзеньне нават мізэрнай колькасьці цёмнасьвятла ў рэальную прастору мае катастрафічныя вынікі. Усё, што апынулася ўнутры патрэсклівай сфэры, зьнішчаецца дашчэнту — і ў поўнай цішыні."/>
 	<entry name="VolkiteBlaster" value="Валкітавы Бластар"/>
-	<entry name="VolkiteBlasterFlavor" value="Favoured during the Great Crusade before the Terran boltgun drove them into decline, volkite weapons impart so much thermodynamic energy to the target that those under their shimmering rays simply combust. Such unfortunates burn to cinders in explosions of jetting flame, frequently taking nearby comrades to the grave with them."/>
+	<entry name="VolkiteBlasterFlavor" value="Валкітавая зброя, папулярная падчас Вялікага Крыжовага Паходу, пакуль болт-пушка Тэры не выцесьніла яе, перадае цэлі столькі тэрмадынамічнай энэргіі, што пад яе мігатлівымі прамянямі ахвяры проста загараюцца. Няшчасныя згараюць да попелу ў выбухах струменістага полымя і часта забіраюць у магілу таварышаў, якія стаяць побач."/>
 	<entry name="WailingDoomMelee" value="Згуба Плачу (Блізкі Бой)"/>
-	<entry name="WailingDoomMeleeFlavor" value="Known to the Aeldari as the Suin Daellae, the Wailing Doom is a shrieking blade many feet long that sends out murderous bolts of force as the Avatar strides to war and reaps a brutal tally at close quarters."/>
+	<entry name="WailingDoomMeleeFlavor" value="Згуба Плачу, вядомая Аэльдары як Суін Даэлае, — вісклівы клінок даўжынёй у шмат футаў. Ён выпускае забойчыя разрады сілы, калі Аватар крочыць на вайну, і зьбірае крывавае жніво ў блізкім боі."/>
 	<entry name="WailingDoomRanged" value="Згуба Плачу (Далёкі Бой)"/>
 	<entry name="WailingDoomRangedFlavor" value="<string name='Weapons/WailingDoomMeleeFlavor'/>"/>
 	<entry name="WarpBlastBurst" value="Выбуховая Хваля Варпу"/>
 	<entry name="WarpBlastLance" value="Выбуховая Дзіда Варпу"/>
 	<entry name="Warscythe" value="Баявая Каса"/>
-	<entry name="WarscytheFlavor" value="Warscythes are energy-bladed battle staves, and have been the favoured weapons of Necron Lords and their bodyguards for many thousands of years. Heavy and cumbersome, in the hands of a lesser creature a warscythe would be of little threat, but when wielded by the tireless mechanical musculature of a Necron, it is a most formidable weapon."/>
+	<entry name="WarscytheFlavor" value="Баявыя косы — баявыя посахі з энэргетычнымі лёзамі, улюбёная зброя лордаў Некронаў і іхных целаахоўнікаў ужо шмат тысячагодзьдзяў. Цяжкая і нязграбная, у руках слабейшай істоты такая каса не ўяўляла б вялікай пагрозы. Але нястомная мэханічная мускулятура Некрона робіць яе надзвычай грознай зброяй."/>
 	<entry name="WeirdboyStaff" value="Штука Дзівахлопца"/>
-	<entry name="WeirdboyStaffFlavor" value="The shiny charms and jangling bells that bedeck a Weirdboy staff belie the horrific damage they can wreak in battle. The copper pole at their core allows their wielder to earth the rampant Waaagh! energy that riddles them, and these weapons discharge crackling green blasts with every blow the Weirdboy lands."/>
+	<entry name="WeirdboyStaffFlavor" value="Бліскучыя абярэгі і бразготкія званочкі, якімі аздобленая штука Дзівахлопца, хаваюць яе жахлівую разбуральную моц. Меднае дрэўка ў аснове дазваляе носьбіту адводзіць у зямлю неўтаймоўную энэргію Вааагх!, якая пранізвае яго. З кожным ударам Дзівахлопца гэтая зброя выпускае патрэсклівыя зялёныя разрады."/>
 	<entry name="WhipCoils" value="Пуга са Шпуляй"/>
-	<entry name="WhipCoilsFlavor" value="Some Canoptek Wraiths are equipped with writhing mechanical tendrils that whip around at high speeds, splitting flesh and flensing their prey in an eye-blink."/>
+	<entry name="WhipCoilsFlavor" value="Некаторыя Канаптэкавыя Прывіды абсталяваныя зьвілістымі мэханічнымі шчупальцамі, якія хвастаюць навокал на вялікай хуткасьці, разьдзіраючы плоць і зьдзіраючы скуру са здабычы ў імгненьне вока."/>
 	<entry name="WhirlingDeath" value="<string name='Actions/Drukhari/WhirlingDeath'/>"/>
 	<entry name="WhirlingDeathFlavor" value="<string name='Actions/Drukhari/WhirlingDeathFlavor'/>"/>
 	<entry name="WhirlwindMultipleMissileLauncherIncendiaryCastellan" value="Множная Ракетная Ўсталёўка Віхуры (Ракета Запальны Кастэлян)"/>
-	<entry name="WhirlwindMultipleMissileLauncherIncendiaryCastellanFlavor" value="Of the two extant types of Whirlwind missile approved by Techpriest and Codex Astartes alike, the incendiary warheads of the Castellan are best-suited to destroying unarmoured troop formations."/>
+	<entry name="WhirlwindMultipleMissileLauncherIncendiaryCastellanFlavor" value="З двух існых відаў ракет Віхуры, ухваленых і тэхнажрацамі, і Кодэксам Астартэс, запальныя боегалоўкі «Кастэлян» найлепей пасуюць для зьнішчэньня небраняваных вайсковых злучэньняў."/>
 	<entry name="WhirlwindMultipleMissileLauncherVengeance" value="Множная Ракетная Ўсталёўка Віхуры (Ракета Помста)"/>
-	<entry name="WhirlwindMultipleMissileLauncherVengeanceFlavor" value="Vengeance missiles are the Whirlwind’s staple ammunition, balancing range and payload to soften up tougher troops before the Adeptus Astartes assault them. If you need to penetrate armour, however, you’d be better off equipping your Whirlwind with Hunter-Killer missiles."/>
+	<entry name="WhirlwindMultipleMissileLauncherVengeanceFlavor" value="Ракеты «Помста» — асноўны боепрыпас Віхуры. Яны спалучаюць далёкасьць і магутнасьць зараду, каб аслабляць трывалейшыя войскі перад штурмам Адэптус Астартэс. Але калі трэба прабіваць браню, лепей абсталяваць Віхуру ракетамі «Паляўнічы-Забойца»."/>
 	<entry name="WingMissiles" value="Крылакеты"/> <!-- Megatrakk Scrapjet -->
-	<entry name="WingMissilesFlavor" value="It appears that removing the wings of a Dakkajet heavily increases the chance of the fuselage surviving intact. Though the stumps are useless for flying, they’re the perfect spot for mounting yet more dakka—in this case, a set of anti-armour missiles."/>
+	<entry name="WingMissilesFlavor" value="Выяўляецца, што выдаленьне крылаў Дакка-Зьнішчалы значна павялічвае шанец захаваць ягоны фюзэляж цэлым. Хоць абрубкі ўжо непрыдатныя для палёту, яны выдатна пасуюць для яшчэ большай колькасьці даккі — у гэтым выпадку набору супрацьбранявых ракет."/>
 	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
 	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
 	<entry name="WitchStaff" value="Посах Ведзьмы"/>
-	<entry name="WitchStaffFlavor" value="Those struck by a psychically-charged witch staff risk having their very soul set aflame, even if their bodies are not broken."/>
+	<entry name="WitchStaffFlavor" value="Тыя, каго ўдарыць насычаны псіхічнай энэргіяй посах ведзьмы, рызыкуюць згарэць самой душой, нават калі іхныя целы не пашкоджаныя."/>
 	<entry name="Witchblade" value="Клінок Ведзьмы"/>
-	<entry name="WitchbladeFlavor" value="Witchblades are arcane Aeldari weapons that augment the wielder’s physical might with that of his mind. They are the favoured weapons of Farseers and Warlocks alike."/>
+	<entry name="WitchbladeFlavor" value="Клінкі ведзьмы — таямнічая зброя Аэльдары, якая ўзмацняе фізычную моц носьбіта сілай ягонага розуму. Іх аднолькава любяць і Вяшчуны, і Ведзьмакі."/>
 	<entry name="WrackTools" value="Прылады Развалін"/>
-	<entry name="WrackToolsFlavor" value="Wracks wield a sickening variety of sickle-blades, saws, knives and mauls into battle, all of which are coated in searing venom."/>
+	<entry name="WrackToolsFlavor" value="Разваліны ідуць у бой з агідна разнастайнымі сярпамі, піламі, нажамі і кувалдамі, пакрытымі пякучай атрутай."/>
 	<entry name="ZzapGun" value="Ззап Пушка"/>
-	<entry name="ZzapGunFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
+	<entry name="ZzapGunFlavor" value="Ззап-пушкі страляюць нестабільнымі разрадамі маланкі. Яны могуць прабіць корпус нават найцяжэйшай варожай машыны сярод патрэсклівай залевы іскраў, але схільныя перагружацца і паражаць токам уласнага стралка."/>
 </language>
