@@ -5,21 +5,21 @@ description: Translate and edit Warhammer 40000 Gladius game text from English i
 
 # Translate Gladius
 
-Read the project root `AGENTS.md` for version selection, terminology sources and game-format constraints. All paths below are relative to the project root. These instructions are in English; game translations and responses to the user remain in Belarusian unless requested otherwise.
+Read the project root `AGENTS.md` for shared language and terminology rules and `gladius/AGENTS.md` for Gladius version selection, paths and game-format constraints. All paths below are relative to the repository root, even when the working directory is `gladius/`. This skill applies only to Gladius; other games use their own files and format rules. These instructions are in English; game translations and responses to the user remain in Belarusian unless requested otherwise.
 
 ## Select the text
 
-- Determine the latest existing version in `мод/` by comparing numeric version components. Locate the relevant original in `зыходнікі/` and its counterpart in that version.
+- Determine the latest existing version in `gladius/пераклад/` by comparing numeric version components. Locate the relevant original in `gladius/зыходнікі/` and its counterpart in that version.
 - Match XML entries by `entry name`, not line number. Read nearby entries to distinguish names, gameplay descriptions, narrative text and dialogue.
 - Work in `BelarusianCyrillic` by default. Do not independently romanize text or automatically synchronize `BelarusianLatin`. A request to continue translating does not authorize conversion to Latin script. For explicitly requested Latin-script work, follow the user's supplied workflow or prepared text; do not invent a transliteration system. Do not make Latin synchronization an automatic follow-up task.
 
 ## Translate
 
-- Use `слоўнік gladius.txt` for game and interface terminology and `слоўнік warhammer 40k.txt` for Warhammer universe terminology. Search both for the complete English phrase before its components; use meaning, faction and object-type annotations to resolve overlapping entries. A lore name in an interface still uses its lore equivalent. Compare usage in the latest version and inflect terms to fit the sentence without replacing established terminology with arbitrary synonyms.
+- Use `gladius/слоўнік gladius.txt` for game and interface terminology and the shared root `слоўнік warhammer 40k.txt` for Warhammer universe terminology. Search both for the complete English phrase before its components; use meaning, faction and object-type annotations to resolve overlapping entries. A lore name in an interface still uses its lore equivalent. Compare usage in the latest version and inflect terms to fit the sentence without replacing established terminology with arbitrary synonyms.
 - Add clear new equivalents to the appropriate glossary under the rules in `AGENTS.md`, checking both files first to avoid duplicates. Report additions with their destination file and keep uncertain renderings marked as proposals.
-- Read `тарашкевіца.txt`; for names and dialogue, also read `асаблівасці.txt` and `промты.txt`. Preserve gameplay meaning, conditions, numbers and the distinction between bonuses and penalties. Prefer concise, clear wording for interface text.
+- Read the shared root `тарашкевіца.txt`; for names and dialogue, also read the root `асаблівасці.txt` and any available Gladius dialogue context. The previously referenced `промты.txt` is currently absent; use it only if supplied and located. Preserve gameplay meaning, conditions, numbers and the distinction between bonuses and penalties. Prefer concise, clear wording for interface text.
 - In `Barks.xml`, identify the faction and event from the key, such as `AdeptusMechanicus/...:Attack#0`. Apply Ork speech conventions only to Ork dialogue and relevant names, never to technical keys or the entire interface.
-- Use the project's established Latin pronunciation for Imperial names. When `промты.txt` calls for transliterating a human-readable Latin-language utterance, render it in Belarusian Cyrillic while retaining glossary forms. Keep `Do not translate!` entries and technical values unchanged.
+- Use the project's established Latin pronunciation for Imperial names. When supplied Gladius dialogue instructions call for transliterating a human-readable Latin-language utterance, render it in Belarusian Cyrillic while retaining glossary forms. Keep `Do not translate!` entries and technical values unchanged.
 - If a term has no reliable equivalent, choose a contextually justified rendering and identify it as a proposal in the result. Continue independent translation work while individual terminology questions remain unresolved.
 
 ## Embedded tags inside `value`
@@ -31,6 +31,6 @@ Read the project root `AGENTS.md` for version selection, terminology sources and
 
 ## Verify and report
 
-Preserve technical content, keys and formatting as specified in `AGENTS.md`. Check placeholder multiplicities, embedded tags and apostrophes, and ensure no duplicate keys were introduced. For SRT, check cue numbers and timestamps. Review the diff for changes outside the requested scope.
+Preserve technical content, keys and formatting as specified in the root `AGENTS.md` and `gladius/AGENTS.md`. Check placeholder multiplicities, embedded tags and apostrophes, and ensure no duplicate keys were introduced. For SRT, check cue numbers and timestamps. Review the diff for changes outside the requested scope.
 
 Report what was translated, the version and script used, the checks performed and any unresolved terminology. Do not claim in-game validation unless it was actually performed.
