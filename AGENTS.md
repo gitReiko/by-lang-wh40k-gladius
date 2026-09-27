@@ -5,7 +5,8 @@
 - Shared Warhammer terminology and language guidance live in the project root: `слоўнік warhammer 40k.txt`, `асаблівасці.txt` and `тарашкевіца.txt`.
 - Game-specific originals, translations, glossaries and supporting materials belong in each game's subdirectory. Determine the game before selecting files, versions or skills; do not apply Gladius formats or terminology to another game by default.
 - Gladius lives in `gladius/`. Read `gladius/AGENTS.md` for its working paths, version selection and format constraints. Its releases are in `gladius/пераклад/`, originals in `gladius/зыходнікі/`, and game terminology in `gladius/слоўнік gladius.txt`.
-- Project skills remain in `.agents/skills/` at the repository root. The `gladius-*` skills apply to Gladius only.
+- Dawn of War - Definitive Edition lives in `dow 1 de/`. Read `dow 1 de/AGENTS.md` for its English baseline, UCS format, script-to-locale mapping and file-replacement installation layout. Its releases are in `dow 1 de/пераклад/`, multilingual originals in `dow 1 de/зыходнікі/`, and game terminology in `dow 1 de/слоўнік dow.txt`.
+- Project skills remain in `.agents/skills/` at the repository root. The `gladius-*` skills apply to Gladius only; the `dow-de-*` skills apply to the first Dawn of War's Definitive Edition only.
 
 ## Language and terminology
 
@@ -30,5 +31,8 @@
 - `gladius-translate`: translate and edit game text, dialogue and subtitles.
 - `gladius-review`: review terminology, language, completeness and technical integrity.
 - `gladius-update`: carry translations forward to a new game version and compare entry sets.
+- `dow-de-translate`: translate and edit Dawn of War - Definitive Edition UCS text into Belarusian.
+- `dow-de-review`: review Dawn of War - Definitive Edition terminology, language, English ID coverage and UCS integrity.
+- `dow-de-update`: compare Dawn of War - Definitive Edition source versions and prepare translation releases for installation by replacing files.
 
 Skills are in `.agents/skills/`. Respond to the user in Belarusian unless they request another language. In the result, state the version where applicable, changed files, checks performed and unresolved issues. Do not update completion percentages without a defined calculation.
