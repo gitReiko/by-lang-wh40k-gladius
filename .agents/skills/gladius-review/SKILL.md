@@ -5,7 +5,7 @@ description: Review this project's Belarusian Gladius translation for terminolog
 
 # Review the Gladius translation
 
-Read the project root `AGENTS.md`. Select the latest existing version by numeric comparison and use the scope requested by the user. For a review request, report findings; when asked to fix errors, make targeted corrections within that scope. Report in Belarusian unless requested otherwise.
+Read the project root `AGENTS.md` for shared rules and `gladius/AGENTS.md` for Gladius paths and format constraints. All paths below are relative to the repository root, even when the working directory is `gladius/`. This skill applies only to Gladius. Select the latest existing version in `gladius/пераклад/` by numeric comparison and use the scope requested by the user. English originals are in `gladius/зыходнікі/English/` and `gladius/зыходнікі/srt/`. For a review request, report findings; when asked to fix errors, make targeted corrections within that scope. Report in Belarusian unless requested otherwise.
 
 ## Technical checks
 
@@ -19,11 +19,11 @@ Read the project root `AGENTS.md`. Select the latest existing version by numeric
 
 ## Language checks
 
-- Check game and interface terminology against `слоўнік gladius.txt` and Warhammer universe terminology against `слоўнік warhammer 40k.txt`, both in the project root. Search complete phrases in both files before their components; assess overlapping entries by meaning, faction and object type rather than file priority. Report unresolved conflicts, and distinguish contextually inflected forms from terminology errors.
-- Check faction voices against `асаблівасці.txt` and spelling against `тарашкевіца.txt`. For explicitly requested review of existing Latin-script text, consult `лацінка.txt` and existing counterparts as reference material. Do not independently romanize text or derive a conversion system from examples.
+- Check game and interface terminology against `gladius/слоўнік gladius.txt` and Warhammer universe terminology against the shared root `слоўнік warhammer 40k.txt`. Search complete phrases in both files before their components; assess overlapping entries by meaning, faction and object type rather than file priority. Report unresolved conflicts, and distinguish contextually inflected forms from terminology errors.
+- Check faction voices against the root `асаблівасці.txt` and spelling against the root `тарашкевіца.txt`. For explicitly requested review of existing Latin-script text, consult `gladius/лацінка.txt` and existing counterparts as reference material. Do not independently romanize text or derive a conversion system from examples.
 - Verify gameplay conditions, quantities, negation, units and bonuses. Distinguish errors of meaning from optional stylistic improvements.
 - An unchanged English value or the presence of Latin letters is a candidate for review, not proof of missing translation. Exclude model codes, proper names, Latin-language phrases, technical values and `Do not translate!` entries.
-- Do not treat percentages in `спіс перакладзеных файлаў.txt` as audit results. When measuring completeness, define the counting unit and exclusions. Counting values that differ from English does not measure translation quality.
+- Do not treat completion claims in `gladius/README.md` or any available Gladius progress notes as audit results. When measuring completeness, define the counting unit and exclusions. Counting values that differ from English does not measure translation quality.
 
 ## Report
 
