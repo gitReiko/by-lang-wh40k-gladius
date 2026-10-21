@@ -16,6 +16,7 @@ Read the root `AGENTS.md` and `dow 1 de/AGENTS.md`. All paths here are relative 
 
 ## Compare and migrate
 
+- When translating or revising migrated text, do not add quotation marks around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones.
 - Match files by component and corresponding filename, and records by numeric ID. Detect duplicates before making lookups. With both English versions, distinguish new IDs, removed IDs, unchanged text and text changed under existing IDs.
 - Without the old English baseline, report coverage and key-set differences but do not infer which meanings changed under retained IDs. Flag uncertain carried-forward translations for review.
 - Create `dow 1 de/пераклад/<target-version>/` only for an authorized new release. Copy the latest applicable translation package, preserving its archive. Inspect an existing target directory before merging; do not blanket-overwrite work already there. A comparison-only task does not create a release.

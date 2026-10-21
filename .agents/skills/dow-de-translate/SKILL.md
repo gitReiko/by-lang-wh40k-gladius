@@ -18,6 +18,7 @@ Read the root `AGENTS.md` and `dow 1 de/AGENTS.md`. This skill applies to the fi
 
 ## Translate and record terms
 
+- Do not add quotation marks around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones.
 - Search complete English phrases in both `dow 1 de/слоўнік dow.txt` and the root `слоўнік warhammer 40k.txt` before searching components. Use the former for game and interface terms and the latter for Warhammer lore, including lore terms shown in menus. Resolve conflicting forms by context and established usage; report unresolved choices.
 - Read the root `тарашкевіца.txt` and, for names and dialogue, `асаблівасці.txt`. Use classical Belarusian orthography, appropriate faction voices and concise interface wording. Preserve gameplay conditions, quantities, negation and bonuses or penalties.
 - Add clear new equivalents to the appropriate glossary after checking both for existing entries, using `English term = Belarusian equivalent`. Include object or faction context when needed. Keep uncertain renderings as proposals and report them; do not standardize unrelated terminology.

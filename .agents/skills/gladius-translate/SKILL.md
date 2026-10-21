@@ -15,6 +15,7 @@ Read the project root `AGENTS.md` for shared language and terminology rules and 
 
 ## Translate
 
+- Do not add quotation marks around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones. This applies to human-readable text, not XML attribute delimiters or embedded tags.
 - Use `gladius/слоўнік gladius.txt` for game and interface terminology and the shared root `слоўнік warhammer 40k.txt` for Warhammer universe terminology. Search both for the complete English phrase before its components; use meaning, faction and object-type annotations to resolve overlapping entries. A lore name in an interface still uses its lore equivalent. Compare usage in the latest version and inflect terms to fit the sentence without replacing established terminology with arbitrary synonyms.
 - Add clear new equivalents to the appropriate glossary under the rules in `AGENTS.md`, checking both files first to avoid duplicates. Report additions with their destination file and keep uncertain renderings marked as proposals.
 - Read the shared root `тарашкевіца.txt`; for names and dialogue, also read the root `асаблівасці.txt` and any available Gladius dialogue context. The previously referenced `промты.txt` is currently absent; use it only if supplied and located. Preserve gameplay meaning, conditions, numbers and the distinction between bonuses and penalties. Prefer concise, clear wording for interface text.
