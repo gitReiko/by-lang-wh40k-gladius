@@ -24,6 +24,7 @@ Read the root `AGENTS.md` and `dow 1 de/AGENTS.md`. All paths here are relative 
 
 ## Language and completeness
 
+- Flag quotation marks added around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones.
 - Check meaning against English, including quantities, conditions, negation, upgrades, bonuses and penalties. Use other languages only to investigate possible renderings, then resolve them against English.
 - Search complete phrases in both `dow 1 de/слоўнік dow.txt` and the root `слоўнік warhammer 40k.txt`. Check game terminology in the former and lore terms in the latter; distinguish correct inflection from conflicting terminology. Use the root `тарашкевіца.txt` and `асаблівасці.txt` for orthography and faction voice.
 - Assess existing Latin-script text against the user's supplied conventions or prepared counterpart. If these are unavailable, report the limit rather than inventing a conversion system or treating Czech orthography as Belarusian Latin.
