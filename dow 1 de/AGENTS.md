@@ -14,13 +14,13 @@ Read the root `AGENTS.md` for shared language and terminology rules. These instr
 
 | Belarusian script | Destination relative to the release directory |
 | --- | --- |
-| Cyrillic | `Engine/Locale/Ukranian/Engine.ucs` |
+| Cyrillic | `Engine/Locale/Russian/Engine.ucs` |
 | Latin | `Engine/Locale/Czech/Engine.ucs` |
 
-- Keep the literal spelling `Ukranian`, including its missing second `i`; do not rename it to `Ukrainian` or to a Belarusian language name. These directory names are installation slots, not the intended language of the translated text.
-- Default translation work targets Belarusian Cyrillic in `Ukranian`. `Czech` is reserved for Belarusian Latin script because the alphabets are similar; it is not a request to translate into Czech.
+- Use `Russian` for Belarusian Cyrillic and `Czech` for Belarusian Latin script. These directory names are installation slots, not the intended language of the translated text.
+- Default translation work targets Belarusian Cyrillic in `Russian`. `Czech` is reserved for Belarusian Latin script because the alphabets are similar; it is not a request to translate into Czech.
 - Follow the root rules for explicitly requested Latin-script work using the user's supplied workflow or prepared text. The destination mapping alone does not authorize automatic romanization or synchronization. Do not import `gladius/лацінка.txt` as Dawn of War's conversion workflow without the user's instruction.
-- At setup, the two destination files are byte-identical to their respective Czech and Ukranian originals; they are starting material, not completed Belarusian translations. Recheck their current contents before editing. The Ukranian original is substantially smaller than English. Do not assume an existing destination has every English ID or that a missing string will fall back correctly in the game.
+- Inspect the current destination contents before editing rather than inferring their source language or completeness from the locale folder name. Check ID coverage against English. Do not assume an existing destination has every English ID or that a missing string will fall back correctly in the game.
 
 ## Terminology
 
@@ -39,6 +39,6 @@ Read the root `AGENTS.md` for shared language and terminology rules. These instr
 
 ## Installation at this stage
 
-- Installation currently replaces game files. A release directory mirrors paths relative to the installed game root: for example, `dow 1 de/пераклад/2.10.3/Engine/Locale/Ukranian/Engine.ucs` replaces `Engine/Locale/Ukranian/Engine.ucs` under that root. The Czech destination is mapped in the same way.
+- Installation currently replaces game files. A release directory mirrors paths relative to the installed game root: for example, `dow 1 de/пераклад/2.10.3/Engine/Locale/Russian/Engine.ucs` replaces `Engine/Locale/Russian/Engine.ucs` under that root. The Czech destination is mapped in the same way.
 - Preserve this directory structure when preparing files or a package. State which script and locale slot the package contains. Include translation files for the requested scope; originals and glossaries are reference material, not replacement game files.
 - Installation instructions should say to back up the original files before replacement and explain how to restore them. Similar alphabets do not establish complete glyph support; report in-game validation only when performed. Creating or updating translation files does not itself install them into a live game directory.

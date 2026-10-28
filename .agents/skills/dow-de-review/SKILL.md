@@ -10,8 +10,8 @@ Read the root `AGENTS.md` and `dow 1 de/AGENTS.md`. All paths here are relative 
 ## Establish the comparison
 
 - Use `dow 1 de/зыходнікі/English/` as the reference. Match corresponding files and numeric IDs; other source languages provide optional clues, not authority or proof of completeness. Identify whether the English source version is known when assessing compatibility.
-- Check Belarusian Cyrillic in `Engine/Locale/Ukranian/` and Belarusian Latin in `Engine/Locale/Czech/`, relative to the chosen release. Keep the spelling `Ukranian`. Review the requested script; the default is Cyrillic. Comparing both scripts when requested does not authorize generating or synchronizing the Latin variant.
-- Initial destination files came from the corresponding source locales and may still contain Czech, Ukrainian or English starting material. Determine their current content, not their language from the folder name. A destination can be much smaller than English; do not assume runtime fallback covers missing records.
+- Check Belarusian Cyrillic in `Engine/Locale/Russian/` and Belarusian Latin in `Engine/Locale/Czech/`, relative to the chosen release. Use the `Russian` slot for Cyrillic. Review the requested script; the default is Cyrillic. Comparing both scripts when requested does not authorize generating or synchronizing the Latin variant.
+- Destination files may still contain untranslated starting material. Determine their current content, not their language from the folder name. A destination can be much smaller than English; do not assume runtime fallback covers missing records.
 - Use the pre-edit state when reviewing a change. Separate pre-existing defects from introduced ones and avoid attributing the initial state to the current edit.
 
 ## Technical checks
