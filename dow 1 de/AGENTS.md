@@ -26,6 +26,7 @@ Read the root `AGENTS.md` for shared language and terminology rules. These instr
 
 - Use `dow 1 de/слоўнік dow.txt` for game and interface terms unrelated to Warhammer lore. This file is initially empty; add clear equivalents during translation in the existing project format `English term = Belarusian equivalent`.
 - Use the root `слоўнік warhammer 40k.txt` for factions, names, units, weapons and other universe terms, even when they occur in the interface. Search the complete phrase in both glossaries before components; follow the root rules for conflicts, inflection, new entries and proposals.
+- In this Dawn of War translation, use the compact forms `Космамарын` / `Космамарыны` for `Space Marine` / `Space Marines` in unit and faction names, descriptions, tooltips, objectives and dialogue. This selects the existing shared-glossary variant to reduce interface text length and also applies to Chaos Space Marines, assault units and scouts: `Космамарын Хаосу`, `Штурмавы Космамарын`, `Космамарын-Выведнік`. Inflect the compact noun in context, for example `Космамарына`, `Космамарынаў`, `Космамарынамі`.
 - Read the root `тарашкевіца.txt` and, for names and faction voices, `асаблівасці.txt`. Apply Ork speech to appropriate dialogue, not technical IDs or the whole interface. Gladius-specific game terms are not Dawn of War's glossary.
 
 ## Preserve UCS format
