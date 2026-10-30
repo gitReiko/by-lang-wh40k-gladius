@@ -10,8 +10,8 @@ Read the root `AGENTS.md` and `dow 1 de/AGENTS.md`. All paths here are relative 
 ## Establish the comparison
 
 - Use `dow 1 de/зыходнікі/English/` as the reference. Match corresponding files and numeric IDs; other source languages provide optional clues, not authority or proof of completeness. Identify whether the English source version is known when assessing compatibility.
-- Check Belarusian Cyrillic in `Engine/Locale/Ukranian/` and Belarusian Latin in `Engine/Locale/Czech/`, relative to the chosen release. Keep the spelling `Ukranian`. Review the requested script; the default is Cyrillic. Comparing both scripts when requested does not authorize generating or synchronizing the Latin variant.
-- Initial destination files came from the corresponding source locales and may still contain Czech, Ukrainian or English starting material. Determine their current content, not their language from the folder name. A destination can be much smaller than English; do not assume runtime fallback covers missing records.
+- Check Belarusian Cyrillic in `Engine/Locale/Russian/` and Belarusian Latin in `Engine/Locale/Czech/`, relative to the chosen release. Use the `Russian` slot for Cyrillic. Review the requested script; the default is Cyrillic. Comparing both scripts when requested does not authorize generating or synchronizing the Latin variant.
+- Destination files may still contain untranslated starting material. Determine their current content, not their language from the folder name. A destination can be much smaller than English; do not assume runtime fallback covers missing records.
 - Use the pre-edit state when reviewing a change. Separate pre-existing defects from introduced ones and avoid attributing the initial state to the current edit.
 
 ## Technical checks
@@ -24,6 +24,7 @@ Read the root `AGENTS.md` and `dow 1 de/AGENTS.md`. All paths here are relative 
 
 ## Language and completeness
 
+- Flag quotation marks added around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones.
 - Check meaning against English, including quantities, conditions, negation, upgrades, bonuses and penalties. Use other languages only to investigate possible renderings, then resolve them against English.
 - Search complete phrases in both `dow 1 de/слоўнік dow.txt` and the root `слоўнік warhammer 40k.txt`. Check game terminology in the former and lore terms in the latter; distinguish correct inflection from conflicting terminology. Use the root `тарашкевіца.txt` and `асаблівасці.txt` for orthography and faction voice.
 - Assess existing Latin-script text against the user's supplied conventions or prepared counterpart. If these are unavailable, report the limit rather than inventing a conversion system or treating Czech orthography as Belarusian Latin.

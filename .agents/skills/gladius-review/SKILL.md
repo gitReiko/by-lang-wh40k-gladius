@@ -19,6 +19,7 @@ Read the project root `AGENTS.md` for shared rules and `gladius/AGENTS.md` for G
 
 ## Language checks
 
+- Flag quotation marks added around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones. Distinguish human-readable quotation marks from XML attribute delimiters and embedded tags.
 - Check game and interface terminology against `gladius/слоўнік gladius.txt` and Warhammer universe terminology against the shared root `слоўнік warhammer 40k.txt`. Search complete phrases in both files before their components; assess overlapping entries by meaning, faction and object type rather than file priority. Report unresolved conflicts, and distinguish contextually inflected forms from terminology errors.
 - Check faction voices against the root `асаблівасці.txt` and spelling against the root `тарашкевіца.txt`. For explicitly requested review of existing Latin-script text, consult `gladius/лацінка.txt` and existing counterparts as reference material. Do not independently romanize text or derive a conversion system from examples.
 - Verify gameplay conditions, quantities, negation, units and bonuses. Distinguish errors of meaning from optional stylistic improvements.

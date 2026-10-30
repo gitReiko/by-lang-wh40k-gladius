@@ -15,6 +15,7 @@ Read the project root `AGENTS.md` for shared rules and `gladius/AGENTS.md` for G
 
 ## Compare and migrate
 
+- When translating or revising migrated text, do not add quotation marks around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones. This applies to human-readable text, not XML attribute delimiters or embedded tags.
 - Match XML by filename and `entry name`. When both old and new English originals are available, distinguish added keys, removed keys, unchanged entries and entries whose English text changed under an existing key.
 - Without the old English baseline, key-set differences can be identified, but not all meaning changes under existing keys. Flag those entries for manual review.
 - When the user asks to create a new release, copy the latest mod release into `gladius/пераклад/<target-version>/`, preserving the previous release as an archive. If the target directory already exists, inspect its state first and do not overwrite existing work with a blanket copy. Do not create a directory for a comparison-only request.

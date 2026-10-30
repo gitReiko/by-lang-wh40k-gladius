@@ -11,13 +11,14 @@ Read the root `AGENTS.md` and `dow 1 de/AGENTS.md`. This skill applies to the fi
 
 - Find the latest existing release in `dow 1 de/пераклад/` by numeric version components, unless the user specifies a version. The version at setup is `2.10.3`; ordinary translation does not create a new release.
 - English originals in `dow 1 de/зыходнікі/English/` determine meaning, ID coverage and technical tokens. Match by corresponding filename and numeric ID, not line number. Read nearby English records for interface or dialogue context.
-- Consult other source languages under `dow 1 de/зыходнікі/` only for candidate interpretations. Check each against English; they may omit records or give incorrect meanings. Do not translate solely from the destination's existing Czech or Ukranian text.
-- Work by default in `dow 1 de/пераклад/<version>/Engine/Locale/Ukranian/Engine.ucs` for Belarusian Cyrillic. Belarusian Latin script belongs in the sibling `Czech/Engine.ucs`. Preserve the literal locale spellings. For additional files, establish their source and installation paths before editing.
+- Consult other source languages under `dow 1 de/зыходнікі/` only for candidate interpretations. Check each against English; they may omit records or give incorrect meanings. Do not translate solely from the destination's existing untranslated text.
+- Work by default in `dow 1 de/пераклад/<version>/Engine/Locale/Russian/Engine.ucs` for Belarusian Cyrillic. Belarusian Latin script belongs in the sibling `Czech/Engine.ucs`. Preserve the literal locale spellings. For additional files, establish their source and installation paths before editing.
 - A request to continue translation defaults to Cyrillic. For explicitly requested Latin-script changes, use the user's supplied workflow or prepared text under the root rules; do not infer a romanization system from Czech spelling or Gladius conventions.
 - Inspect the current destination rather than assuming it is already Belarusian or complete. Translate the requested records; when their English IDs are missing, add those records using English structure and order while preserving existing work. Do not fill every unrelated missing ID during a narrow edit.
 
 ## Translate and record terms
 
+- Do not add quotation marks around abilities, upgrades, units, buttons or other names when the corresponding English text has none. Preserve quotations present in the original; Belarusian quotation glyphs may replace English ones.
 - Search complete English phrases in both `dow 1 de/слоўнік dow.txt` and the root `слоўнік warhammer 40k.txt` before searching components. Use the former for game and interface terms and the latter for Warhammer lore, including lore terms shown in menus. Resolve conflicting forms by context and established usage; report unresolved choices.
 - Read the root `тарашкевіца.txt` and, for names and dialogue, `асаблівасці.txt`. Use classical Belarusian orthography, appropriate faction voices and concise interface wording. Preserve gameplay conditions, quantities, negation and bonuses or penalties.
 - Add clear new equivalents to the appropriate glossary after checking both for existing entries, using `English term = Belarusian equivalent`. Include object or faction context when needed. Keep uncertain renderings as proposals and report them; do not standardize unrelated terminology.
