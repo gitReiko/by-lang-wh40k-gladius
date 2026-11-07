@@ -71,3 +71,5 @@ Perelodia за карэйскі пераклад
 
 Google Translate, Belazar, Skarnik
 
+Chat GPT, Gemini (пераклад энцыклапедыі і іншае)
+
