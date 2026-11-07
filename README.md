@@ -1,8 +1,9 @@
+
+[Patreon](https://patreon.com/Reiko651)
+
 ## Аматарскія пераклады гульняў у сусьвеце Warhammer 40 000 з англійскай на беларускую мову
 
 ## Кірылічныя і łacinskija версіі
-
-[Patreon](https://patreon.com/Reiko651)
 
 ## Warhammer 40 000: Gladius - Relics of War
 
