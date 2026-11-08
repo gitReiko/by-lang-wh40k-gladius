@@ -630,7 +630,7 @@
 	<entry name="Necrons/BloodyCrusade" value="Kryvavy Kryžovy Pachod"/>
 	<entry name="Necrons/BloodyCrusadeDescription" value="Pavialičvaje ataki."/>
 	<entry name="Necrons/BloodyCrusadeFlavor" value="U imknieńni pazbavić suśviet arhaničnaha žyćcia Łord-Razburalnik moža ŭpaści ŭ dzikaje var'jactva i abrynać na praciŭnikaŭ udar za ŭdaram, daloka za miežami biaśpiečnych pratakołaŭ."/>
-	<entry name="Necrons/Chronometron" value="Chranamietron"/>
+	<entry name="Necrons/Chronometron" value="Chronamietron"/>
 	<entry name="Necrons/ChronometronDescription" value="Pavialičvaje źnižeńnie škody abranaj chaŭrusnaj adzincy."/>
 	<entry name="Necrons/ChronometronFlavor" value="Hetyja pryłady ŭ formie voka prajecyrujuć enerhietyčnuju burbałku, zdolnuju źmianiać płyń samoha času. Jany tak zapavolvajuć snarady, što tyja, chto pobač, mohuć prosta syści ź ichnaha šlachu."/>
 	<entry name="Necrons/DefensiveProtocols" value="Pratakoły Abarony"/>
@@ -748,7 +748,7 @@
 	<entry name="Orks/ExperimentalProcedureFlavor" value="«Ekspanat 12: bijamechaničnaja madyfikacyja orka. Pryrodžanyja specyjalisty hetaha vidu, „Dziŭnachłopcy“, madyfikujuć „Kiborkaŭ“ padobnym abstalavańniem, kab vypraŭlać ciažkija paškodžańni i ŭzmacniać ichnyja mahčymaści. Hety ŭzor nahadvaje impierskuju siłavuju zbroju, za vyniatkam vialikich kipciuroŭ i klajma vytvorcy: „Tut byŭ Hrylmiek!“»<br/>  — Stenahramy lekcyjaŭ Hryhomena «Orkaluba» Dełra, Volnaha Handlara i ksienolaha-amatara"/>
 	<entry name="Orks/ExtraBitz" value="Dadatkovyja Šmaty"/>
 	<entry name="Orks/ExtraBitzDescription" value="Źmianšaje kolkaść ježy, rudy i enierhii patrebnaj na ŭtrymańnie piachoty i žachlivych stvareńniaŭ u vobłaści."/>
-	<entry name="Orks/KustomForceField" value="Kastamnaje Siłavoje Pole"/>
+	<entry name="Orks/KustomForceField" value="Ułušanaje Siłavoje Pole"/>
 	<entry name="Orks/KustomForceFieldDescription" value="Pavialičvaje źmianšeńnie škody ad dalokaha boju hetaj adzinki i susiednich chaŭrusnych adzinak."/>
 	<entry name="Orks/KustomForceFieldFlavor" value="Hetyja dziŭnyja pryłady siłkujucca ad traskučych enerhietyčnych špulaŭ i stvarajuć niabačnyja burbałki enerhii, jakija baroniać blizkich Orkaŭ ad varožaha ahniu."/>
 	<entry name="Orks/ProphetOfTheWaaagh" value="Prarok Vaaahch!"/>
@@ -1039,7 +1039,7 @@
 	<entry name="Tau/SenseOfStoneFlavor" value="«Kasta Ahniu musić viedać tolki čatyry rečy. Kali chavacca. Kali abaraniacca. Kali padmanvać. I kali bić. Bolš ničoha nie pytajcie».<br/>  — Aŭn'Dak'E, Apiakun Duchu"/>
 	<entry name="Tau/ShieldGenerator" value="Ustalavać <string name='Traits/Tau/ShieldGenerator'/>"/>
 	<entry name="Tau/ShieldGeneratorDescription" value="Ustaloŭvaje sistemu padtrymki, što pavialičvaje źnižeńnie škody."/>
-	<entry name="Tau/ShieldGeneratorFlavor" value="Hety hieneratar stvaraje sucelnaje enerhietyčnaje pole, zdolnaje abaranić nośbita ad ciažkaj artyleryi i ahniu supraćtankavaj zbroi."/>
+	<entry name="Tau/ShieldGeneratorFlavor" value="Hety hienieratar stvaraje sucelnaje enerhietyčnaje pole, zdolnaje abaranić nośbita ad ciažkaj artyleryi i ahniu supraćtankavaj zbroi."/>
 	<entry name="Tau/StealthField" value="Pole Niabačnaści"/>
 	<entry name="Tau/StealthFieldDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju dla abranaj chaŭrusnaj adzinki."/>
 	<entry name="Tau/StealthFieldFlavor" value="<string name='Units/Tau/StealthDroneFlavor'/>"/>
@@ -1104,13 +1104,13 @@
 	<entry name="Tyranids/DominionFlavor" value="Tyranid vykarystoŭvaje svaju nadzvyčajnuju psichičnuju moc, kab pravodzić i ŭzmacniać volu Rozumu Vulla."/>
 	<entry name="Tyranids/ExploitWeaknesses" value="Ekspłuatacyja Słabaściaŭ"/>
 	<entry name="Tyranids/ExploitWeaknessesDescription" value="Honar Tyranidaŭ źnižaje braniu abranaj varožaj adzinki."/>
-	<entry name="Tyranids/ExploitWeaknessesFlavor" value="«My adstupajem, adychodzim, robim stratehičnyja advody, pierahrupoŭvajemsia, evakujujemsia. Kali ž, u imia ŭsiaho śviatoha, my narešcie pačniom davać adpor?»<br/>  — Kamisar-hienerał Vortyhus Hornt, vykanaŭca abaviazkaŭ Majstra Vajny; sektar Dyjatan, Ultyma Sehmentum"/>
+	<entry name="Tyranids/ExploitWeaknessesFlavor" value="«My adstupajem, adychodzim, robim stratehičnyja advody, pierahrupoŭvajemsia, evakujujemsia. Kali ž, u imia ŭsiaho śviatoha, my narešcie pačniom davać adpor?»<br/>  — Kamisar-hienierał Vortyhus Hornt, vykanaŭca abaviazkaŭ Majstra Vajny; sektar Dyjatan, Ultyma Sehmentum"/>
 	<entry name="Tyranids/GraspingTail" value="Chvatki Chvost"/>
 	<entry name="Tyranids/GraspingTailDescription" value="Źnižaje ataki abranaj varožaj adzinki."/>
-	<entry name="Tyranids/GraspingTailFlavor" value="Kali Małantrop vymušany ŭstupić u boj, jon robicca niaprostym praciŭnikam. U jahonaje hnutkaje cieła ciažka trapić, chvatki chvost moža źnieruchomić voraha abo jahonuju zbroju, a karmavyja ščupalcy vielmi atrutnyja i pryčyniajuć niaznosny bol. Kali ščupalcy paralizujuć voraha, Małantrop pačnie pahłynać jaho žyŭcom, kab atrymać najlepšyja, najśviažejšyja hienetyčnyja dadzienyja."/>
+	<entry name="Tyranids/GraspingTailFlavor" value="Kali Małantrop vymušany ŭstupić u boj, jon robicca niaprostym praciŭnikam. U jahonaje hnutkaje cieła ciažka trapić, chvatki chvost moža źnieruchomić voraha abo jahonuju zbroju, a karmavyja ščupalcy vielmi atrutnyja i pryčyniajuć niaznosny bol. Kali ščupalcy paralizujuć voraha, Małantrop pačnie pahłynać jaho žyŭcom, kab atrymać najlepšyja, najśviažejšyja hienietyčnyja dadzienyja."/>
 	<entry name="Tyranids/HiveCommander" value="Kamandor Vulla"/>
 	<entry name="Tyranids/HiveCommanderDescription" value="Tyran Vulla pavialičvaje škodu i źnižeńnie škody chaŭrusnych adzinak Tyranidaŭ u vobłaści."/>
-	<entry name="Tyranids/HiveCommanderFlavor" value="«Novy Tyran ustupiŭ u boj, i ŭ adno imhnieńnie ŭvieś charaktar roju źmianiŭsia. Prahny duch berserka, jaki hnaŭ Tyranidaŭ na chrybiet, źnik, niby jaho nikoli nie było. Na jahonaje miesca pryjšło niešta chitrejšaje i biaskonca bolš tryvožnaje. Tady ja i zrazumieŭ, što bitva prajhranaja».<br/>  — Siaržant Toryjas Telijon, 10-ja rota Ŭltramarynaŭ"/>
+	<entry name="Tyranids/HiveCommanderFlavor" value="«Novy Tyran ustupiŭ u boj, i ŭ adno imhnieńnie ŭvieś charaktar roju źmianiŭsia. Prahny duch biersierka, jaki hnaŭ Tyranidaŭ na chrybiet, źnik, niby jaho nikoli nie było. Na jahonaje miesca pryjšło niešta chitrejšaje i biaskonca bolš tryvožnaje. Tady ja i zrazumieŭ, što bitva prajhranaja».<br/>  — Siaržant Toryjas Telijon, 10-ja rota Ŭltramarynaŭ"/>
 	<entry name="Tyranids/IndescribableHorror" value="Nieapisalny Žach"/>
 	<entry name="Tyranids/IndescribableHorrorDescription" value="Tyran Vulla źnižaje maral susiednich varožych adzinak kožny krok."/>
 	<entry name="Tyranids/IndescribableHorrorFlavor" value="«My hetaha nie pieražyviom. Čałaviectva hetaha nie pieražyvie. Za adzin dzień jany zalili pavierchniu hetaj planety pavodkaj žyvych klinkoŭ i paščaŭ ź iholčastymi ikłami. Zab'ješ adnaho — dziesiać stanuć na jahonaje miesca. Kali im sapraŭdy niama liku, naša rasa asudžanaja na hvałtoŭnuju śmierć, pierš čym kožny šmatok našaj cyvilizacyi budzie ściorty siłaj, bolš pražerlivaj za samo piakielnaje połymia! Śmierć! Klanusia Boham Mašyn, Śmierć užo tut!»<br/>  — Mahas Varnak, nahladčyk daśledčaj stancyi Tyran"/>
@@ -1154,7 +1154,7 @@
 	<entry name="Tyranids/SingularPurposeFlavor" value="Narodžany karalevami Norn, hety Emisar maje na poli boju adnu rolu: likvidavać aporu varožaha vojska — pravadyroŭ abo klučavyja padraździaleńni, strata jakich vykliča jahony raspad. Nadzieleny ŭnikalnymi viedami pra svaju cel, Emisar redka nia vykonvaje pryznačeńnia."/>
 	<entry name="Tyranids/SporeCloud" value="Vobłaka Sporaŭ"/>
 	<entry name="Tyranids/SporeCloudDescription" value="Pavialičvaje źnižeńnie škody ad dalokaha boju hetaj adzinki i susiednich chaŭrusnych adzinak."/>
-	<entry name="Tyranids/SporeCloudFlavor" value="Najlepšaja taktyka suprać Tyranidaŭ — abiezhałoŭlivańnie, a mienavita źniščeńnie synaptyčnych istotaŭ, jakija pieradajuć zahady Karalevy Norn. Na žal, praź ciakučuju masu źvivistaj płoci tyranidzkaha nastupu, hrad kisłotnych i žyvych snaradaŭ dy zasłonu sporavych chmaraŭ navat zabojcu Vindykare było b ciažka vyłučyć Daminatryks, nia kažučy ŭžo pra Tyrana."/>
+	<entry name="Tyranids/SporeCloudFlavor" value="Najlepšaja taktyka suprać Tyranidaŭ — abiezhałoŭlivańnie, a mienavita źniščeńnie synaptyčnych istotaŭ, jakija pieradajuć zahady Karalevy Norn. Na žal, praź ciakučuju masu źvivistaj płoci tyranidzkaha nastupu, hrad kisłotnych i žyvych snaradaŭ dy zasłonu sporavych chmaraŭ navat zabojcu Vindzikare było b ciažka vyłučyć Daminatryks, nia kažučy ŭžo pra Tyrana."/>
 	<entry name="Tyranids/SporeMine" value="Vybuch Sporaŭ"/>
 	<entry name="Tyranids/SporeMineDescription" value="Stvaraje Sporavyja Miny."/>
 	<entry name="Tyranids/SporeMineFlavor" value="Kali Sporavuju Minu vykidaje ŭ pavietra, jejny ŭnutrany hazavy puchir nadzimajecca, i jana płaŭna apuskajecca da ziamli. Navat kali streł nie traplaje ŭ pieršapačatkovuju cel, niebiaśpieka nikudy nia źnikaje: Sporavaja Mina maje prymityŭny intelekt i vybuchaje nie pry ŭdary ab ziamlu, a kali adčuvaje pobač formu žyćcia, jakaja nie naležyć da Tyranidaŭ."/>
