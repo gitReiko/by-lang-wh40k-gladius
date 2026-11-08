@@ -6,7 +6,9 @@
 
 [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2372249255)
 
-[Patreon](https://patreon.com/Reiko651)
+## Падтрымка
+
+[url=https://patreon.com/Reiko651] [img]https://i.postimg.cc/6p6qt4cv/support-800px.png[/img] [/url]
 
 ## Што перакладзена
 
